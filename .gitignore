@@ -1,0 +1,3 @@
+eptic25_v1/video/*
+!eptic25_v1/video/.gitkeep
+eptic25_v1/1. database_tables/alignments.xlsx

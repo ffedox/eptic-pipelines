@@ -1,0 +1,97 @@
+MAINTAINER "alice.fedotova2@unibo.it"
+INFO "EPTIC3 German interpretations"
+NAME "EPTIC3 German interpretations"
+PATH "/var/lib/manatee/data/EPTIC3/eptic_de_sp_tt"
+ENCODING "utf8"
+LANGUAGE "German"
+VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_de_sp_tt.vert"
+
+INFOHREF "http://terminologia.it/"
+TAGSETDOC "https://www.sketchengine.eu/german-rftagger-part-of-speech-tagset/"
+
+DOCSTRUCTURE "text"
+SHORTREF "#"
+
+ATTRIBUTE   word
+
+ATTRIBUTE   tag
+
+ATTRIBUTE   lemma
+
+ALIGNSTRUCT "s"
+ALIGNED "eptic_en_sp_st,eptic_it_sp_tt,eptic_fi_wr_tt,eptic_it_wr_tt,eptic_en_wr_st,eptic_sl_sp_tt,eptic_fr_sp_tt,eptic_de_wr_tt,eptic_sl_wr_tt,eptic_fr_wr_tt,eptic_fi_sp_tt"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.en_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.it_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.fi_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.it_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.en_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.sl_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.fr_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.de_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.sl_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.fr_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.de_sp_tt.fi_sp_tt.txt"
+
+STRUCTURE text {
+        ATTRIBUTE "id"
+        ATTRIBUTE "date"
+        ATTRIBUTE "length"
+        ATTRIBUTE "lengthw"
+        ATTRIBUTE "duration"
+        ATTRIBUTE "durations"
+        ATTRIBUTE "speed"
+        ATTRIBUTE "speedwm"
+        ATTRIBUTE "delivery"
+        ATTRIBUTE "topic"
+        ATTRIBUTE "topicspec"
+        ATTRIBUTE "type"
+        ATTRIBUTE "comments"
+}
+
+STRUCTURE speaker {
+        ATTRIBUTE "name"
+        ATTRIBUTE "gender"
+        ATTRIBUTE "country"
+        ATTRIBUTE "native"
+        ATTRIBUTE "politfunc"
+        ATTRIBUTE "politgroup"
+}
+
+STRUCTURE st {
+        ATTRIBUTE "language"
+        ATTRIBUTE "length"
+        ATTRIBUTE "lengthw"
+        ATTRIBUTE "duration"
+        ATTRIBUTE "durations"
+        ATTRIBUTE "speed"
+        ATTRIBUTE "speedwm"
+        ATTRIBUTE "delivery"
+}
+
+STRUCTURE interpreter {
+        ATTRIBUTE "id"
+        ATTRIBUTE "gender"
+        ATTRIBUTE "native"
+}
+
+STRUCTURE s {
+        ATTRIBUTE "id"
+	ATTRIBUTE "video"
+}
+
+STRUCTURE g {
+        DISPLAYTAG 0
+        DISPLAYBEGIN "_EMPTY_"
+}
+
+ATTRIBUTE   lc {
+        LABEL   "word (lowercase)"
+        DYNAMIC  utf8lowercase
+        DYNLIB   internal
+        ARG1     "C"
+        FUNTYPE  s
+        FROMATTR word
+        TYPE     index
+        TRANSQUERY      yes
+}
+
+ATTRIBUTE   lemma_lc {
+        LABEL   "lemma (lowercase)"
+        DYNAMIC  utf8lowercase
+        DYNLIB   internal
+        ARG1     "C"
+        FUNTYPE  s
+        FROMATTR lemma
+        TYPE     index
+        TRANSQUERY      yes
+}

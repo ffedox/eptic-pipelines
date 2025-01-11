@@ -1,0 +1,96 @@
+MAINTAINER "alice.fedotova2@unibo.it"
+INFO "EPTIC3 Polish written sources"
+NAME "EPTIC3 Polish written sources"
+PATH "/var/lib/manatee/data/EPTIC3/eptic_pl_wr_st"
+ENCODING "utf8"
+LANGUAGE "English"
+VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_pl_wr_st.vert"
+
+INFOHREF "http://terminologia.it/"
+TAGSETDOC "https://www.sketchengine.eu/polish-nkjp-part-of-speech-tagset/"
+
+DOCSTRUCTURE "text"
+SHORTREF "#"
+
+ATTRIBUTE   word
+
+ATTRIBUTE   tag
+
+ATTRIBUTE   lemma
+
+ALIGNSTRUCT "s"
+ALIGNED "eptic_pl_sp_st,eptic_en_wr_tt_from_pl,eptic_en_sp_tt_from_pl"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.pl_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.en_wr_tt_from_pl.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.en_sp_tt_from_pl.txt"
+
+STRUCTURE text {
+        ATTRIBUTE "id"
+        ATTRIBUTE "date"
+        ATTRIBUTE "length"
+        ATTRIBUTE "lengthw"
+        ATTRIBUTE "duration"
+        ATTRIBUTE "durations"
+        ATTRIBUTE "speed"
+        ATTRIBUTE "speedwm"
+        ATTRIBUTE "delivery"
+        ATTRIBUTE "topic"
+        ATTRIBUTE "topicspec"
+        ATTRIBUTE "type"
+        ATTRIBUTE "comments"
+}
+
+STRUCTURE speaker {
+        ATTRIBUTE "name"
+        ATTRIBUTE "gender"
+        ATTRIBUTE "country"
+        ATTRIBUTE "native"
+        ATTRIBUTE "politfunc"
+        ATTRIBUTE "politgroup"
+}
+
+STRUCTURE st {
+        ATTRIBUTE "language"
+        ATTRIBUTE "length"
+        ATTRIBUTE "lengthw"
+        ATTRIBUTE "duration"
+        ATTRIBUTE "durations"
+        ATTRIBUTE "speed"
+        ATTRIBUTE "speedwm"
+        ATTRIBUTE "delivery"
+}
+
+STRUCTURE interpreter {
+        ATTRIBUTE "id"
+        ATTRIBUTE "gender"
+        ATTRIBUTE "native"
+}
+
+STRUCTURE s {
+        ATTRIBUTE "id"
+}
+
+STRUCTURE g {
+        DISPLAYTAG 0
+        DISPLAYBEGIN "_EMPTY_"
+}
+
+ATTRIBUTE   lc {
+        LABEL   "word (lowercase)"
+        DYNAMIC  utf8lowercase
+        DYNLIB   internal
+        ARG1     "C"
+        FUNTYPE  s
+        FROMATTR word
+        TYPE     index
+        TRANSQUERY      yes
+}
+
+ATTRIBUTE   lemma_lc {
+        LABEL   "lemma (lowercase)"
+        DYNAMIC  utf8lowercase
+        DYNLIB   internal
+        ARG1     "C"
+        FUNTYPE  s
+        FROMATTR lemma
+        TYPE     index
+        TRANSQUERY      yes
+}

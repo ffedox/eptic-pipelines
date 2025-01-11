@@ -1,0 +1,1 @@
+For some reason bertalign only works with my environment conda mynewenv. Any attempt to rename it and clone it doesn't solve the problem. For this reason I will leave it untouched and use another env called eptic25.

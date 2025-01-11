@@ -1,0 +1,10 @@
+{
+    "database": {
+        "_comment": "This is the configuration file for the database, see pipelines/db_connect.py",
+        "name": "",
+        "user": "",
+        "password": "",
+        "host": "",
+        "port": 3000
+    }
+}

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<linkGrp toDoc='placeholder_toDoc.xml' fromDoc='placeholder_fromDoc.xml'>
+<link type='1-1' xtargets='18:1;2098:1' status='auto'/>
+<link type='1-1' xtargets='18:2;2098:2' status='auto'/>
+<link type='1-1' xtargets='18:3;2098:3' status='auto'/>
+<link type='1-1' xtargets='18:4;2098:4' status='auto'/>
+<link type='2-1' xtargets='18:5 18:6;2098:5' status='auto'/>
+<link type='3-2' xtargets='18:7 18:8 18:9;2098:6 2098:7' status='auto'/>
+</linkGrp>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<linkGrp toDoc='placeholder_toDoc.xml' fromDoc='placeholder_fromDoc.xml'>
+<link type='1-1' xtargets='641:1;18:1' status='auto'/>
+<link type='1-1' xtargets='641:2;18:2' status='auto'/>
+<link type='2-1' xtargets='641:3 641:4;18:3' status='auto'/>
+<link type='1-1' xtargets='641:5;18:4' status='auto'/>
+<link type='1-1' xtargets='641:6;18:5' status='auto'/>
+<link type='2-1' xtargets='641:7 641:8;18:6' status='auto'/>
+<link type='1-1' xtargets='641:9;18:7' status='auto'/>
+<link type='2-2' xtargets='641:10 641:11;18:8 18:9' status='auto'/>
+</linkGrp>
