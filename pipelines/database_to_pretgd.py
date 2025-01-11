@@ -6,7 +6,7 @@ from xml.etree import ElementTree as ET
 from lxml import etree
 
 # Directory paths
-input_folder_path = '/home/afedotova/EPTIC25/temp'
+input_folder_path = '/home/afedotova/EPTIC25/pipelines/temp'
 output_folder_path = '/home/afedotova/EPTIC25/eptic25_v1/3. pre_pos_files'
 
 # Load the provided Excel files 

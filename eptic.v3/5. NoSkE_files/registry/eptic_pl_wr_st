@@ -1,10 +1,10 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 Polish written sources"
-NAME "EPTIC3 Polish written sources"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_pl_wr_st"
+INFO "EPTIC.V3 Polish written sources"
+NAME "EPTIC.V3 Polish written sources"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_pl_wr_st"
 ENCODING "utf8"
 LANGUAGE "English"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_pl_wr_st.vert"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_pl_wr_st.vert"
 
 INFOHREF "http://terminologia.it/"
 TAGSETDOC "https://www.sketchengine.eu/polish-nkjp-part-of-speech-tagset/"
@@ -20,7 +20,7 @@ ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
 ALIGNED "eptic_pl_sp_st,eptic_en_wr_tt_from_pl,eptic_en_sp_tt_from_pl"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.pl_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.en_wr_tt_from_pl.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.pl_wr_st.en_sp_tt_from_pl.txt"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.pl_wr_st.pl_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.pl_wr_st.en_wr_tt_from_pl.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.pl_wr_st.en_sp_tt_from_pl.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"

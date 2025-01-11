@@ -14,6 +14,7 @@ the workflow is the following:
 - At this point users review the ASR transcriptions (check errors and improve sentence splitting)...
 - Once the transcriptions are final, they are automatically aligned. Need code to check existing alignments to avoid overwriting.
 - ... (Maybe automatic extaction could be added in future work)
+Texts are tagged with treetagger (add in future v4)
 
 
 What is missing?

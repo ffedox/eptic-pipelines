@@ -1,10 +1,10 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 English translations from French"
-NAME "EPTIC3 English translations from French"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_en_wr_tt_from_fr"
+INFO "EPTIC.V3 English written sources"
+NAME "EPTIC.V3 English written sources"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_en_wr_st"
 ENCODING "utf8"
 LANGUAGE "English"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_en_wr_tt_from_fr.vert"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_en_wr_st.vert"
 
 INFOHREF "http://terminologia.it/"
 TAGSETDOC "https://www.sketchengine.eu/english-treetagger-pipeline-3/"
@@ -19,8 +19,8 @@ ATTRIBUTE   tag
 ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
-ALIGNED "eptic_fr_sp_st,eptic_fr_wr_st,eptic_en_sp_tt_from_fr"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_wr_tt_from_fr.fr_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_wr_tt_from_fr.fr_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_wr_tt_from_fr.en_sp_tt_from_fr.txt"
+ALIGNED "eptic_en_sp_st,eptic_fr_wr_tt,eptic_it_wr_tt,eptic_fr_sp_tt,eptic_it_sp_tt,eptic_de_sp_tt,eptic_fi_sp_tt,eptic_sl_sp_tt,eptic_de_wr_tt,eptic_fi_wr_tt,eptic_sl_wr_tt"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.en_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.fr_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.it_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.fr_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.it_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.de_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.fi_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.sl_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.de_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.fi_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_st.sl_wr_tt.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"
@@ -66,6 +66,11 @@ STRUCTURE interpreter {
 
 STRUCTURE s {
         ATTRIBUTE "id"
+}
+
+STRUCTURE g {
+        DISPLAYTAG 0
+        DISPLAYBEGIN "_EMPTY_"
 }
 
 ATTRIBUTE   lc {

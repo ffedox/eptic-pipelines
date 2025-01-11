@@ -1,10 +1,10 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 Italian written sources"
-NAME "EPTIC3 Italian written sources"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_it_wr_st"
+INFO "EPTIC.V3 Italian spoken sources"
+NAME "EPTIC.V3 Italian spoken sources"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_it_sp_st"
 ENCODING "utf8"
 LANGUAGE "Italian"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_it_wr_st.vert"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_it_sp_st.vert"
 
 INFOHREF "http://terminologia.it/"
 TAGSETDOC "https://www.sketchengine.eu/italian-freeling-part-of-speech-tagset/"
@@ -19,8 +19,8 @@ ATTRIBUTE   tag
 ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
-ALIGNED "eptic_it_sp_st,eptic_en_wr_tt_from_it,eptic_en_sp_tt_from_it"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_wr_st.it_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_wr_st.en_wr_tt_from_it.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_wr_st.en_sp_tt_from_it.txt"
+ALIGNED "eptic_it_wr_st,eptic_en_sp_tt_from_it,eptic_en_wr_tt_from_it"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_st.it_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_st.en_sp_tt_from_it.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_st.en_wr_tt_from_it.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"
@@ -36,7 +36,6 @@ STRUCTURE text {
         ATTRIBUTE "topicspec"
         ATTRIBUTE "type"
         ATTRIBUTE "comments"
-        ATTRIBUTE "wordcount"
 }
 
 STRUCTURE speaker {
@@ -67,6 +66,7 @@ STRUCTURE interpreter {
 
 STRUCTURE s {
         ATTRIBUTE "id"
+	ATTRIBUTE "video"
 }
 
 STRUCTURE g {

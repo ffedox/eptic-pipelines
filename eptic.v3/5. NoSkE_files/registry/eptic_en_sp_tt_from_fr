@@ -1,10 +1,10 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 English interpretations from French"
-NAME "EPTIC3 English interpretations from French"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_en_sp_tt_from_fr"
+INFO "EPTIC.V3 English interpretations from French"
+NAME "EPTIC.V3 English interpretations from French"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_en_sp_tt_from_fr"
 ENCODING "utf8"
 LANGUAGE "English"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_en_sp_tt_from_fr.vert"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_en_sp_tt_from_fr.vert"
 
 INFOHREF "http://terminologia.it/"
 TAGSETDOC "https://www.sketchengine.eu/english-treetagger-pipeline-3/"
@@ -20,7 +20,7 @@ ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
 ALIGNED "eptic_fr_sp_st,eptic_en_wr_tt_from_fr,eptic_fr_wr_st"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_sp_tt_from_fr.fr_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_sp_tt_from_fr.en_wr_tt_from_fr.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.en_sp_tt_from_fr.fr_wr_st.txt"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_sp_tt_from_fr.fr_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_sp_tt_from_fr.en_wr_tt_from_fr.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_sp_tt_from_fr.fr_wr_st.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"

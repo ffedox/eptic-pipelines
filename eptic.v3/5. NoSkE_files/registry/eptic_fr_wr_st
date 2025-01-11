@@ -1,10 +1,10 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 French spoken sources"
-NAME "EPTIC3 French spoken sources"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_fr_sp_st"
+INFO "EPTIC.V3 French written sources"
+NAME "EPTIC.V3 French written sources"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_fr_wr_st"
 ENCODING "utf8"
 LANGUAGE "French"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_fr_sp_st.vert"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_fr_wr_st.vert"
 
 INFOHREF "http://terminologia.it/"
 TAGSETDOC "https://www.sketchengine.eu/french-freeling-part-of-speech-tagset/"
@@ -19,8 +19,8 @@ ATTRIBUTE   tag
 ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
-ALIGNED "eptic_fr_wr_st,eptic_en_sp_tt_from_fr,eptic_en_wr_tt_from_fr"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.fr_sp_st.fr_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fr_sp_st.en_sp_tt_from_fr.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fr_sp_st.en_wr_tt_from_fr.txt"
+ALIGNED "eptic_fr_sp_st,eptic_en_wr_tt_from_fr,eptic_en_sp_tt_from_fr"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.fr_wr_st.fr_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.fr_wr_st.en_wr_tt_from_fr.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.fr_wr_st.en_sp_tt_from_fr.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"
@@ -66,7 +66,6 @@ STRUCTURE interpreter {
 
 STRUCTURE s {
         ATTRIBUTE "id"
-	ATTRIBUTE "video"
 }
 
 STRUCTURE g {

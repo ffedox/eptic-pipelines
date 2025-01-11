@@ -1,13 +1,13 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 Italian spoken sources"
-NAME "EPTIC3 Italian spoken sources"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_it_sp_st"
+INFO "EPTIC.V3 English translations from Polish"
+NAME "EPTIC.V3 English translations from Polish"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_en_wr_tt_from_pl"
 ENCODING "utf8"
-LANGUAGE "Italian"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_it_sp_st.vert"
+LANGUAGE "English"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_en_wr_tt_from_pl.vert"
 
 INFOHREF "http://terminologia.it/"
-TAGSETDOC "https://www.sketchengine.eu/italian-freeling-part-of-speech-tagset/"
+TAGSETDOC "https://www.sketchengine.eu/english-treetagger-pipeline-3/"
 
 DOCSTRUCTURE "text"
 SHORTREF "#"
@@ -19,8 +19,8 @@ ATTRIBUTE   tag
 ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
-ALIGNED "eptic_it_wr_st,eptic_en_sp_tt_from_it,eptic_en_wr_tt_from_it"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_sp_st.it_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_sp_st.en_sp_tt_from_it.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.it_sp_st.en_wr_tt_from_it.txt"
+ALIGNED "eptic_pl_sp_st,eptic_pl_wr_st,eptic_en_sp_tt_from_pl"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_tt_from_pl.pl_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_tt_from_pl.pl_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.en_wr_tt_from_pl.en_sp_tt_from_pl.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"
@@ -66,12 +66,6 @@ STRUCTURE interpreter {
 
 STRUCTURE s {
         ATTRIBUTE "id"
-	ATTRIBUTE "video"
-}
-
-STRUCTURE g {
-        DISPLAYTAG 0
-        DISPLAYBEGIN "_EMPTY_"
 }
 
 ATTRIBUTE   lc {

@@ -1,14 +1,13 @@
 MAINTAINER "alice.fedotova2@unibo.it"
-INFO "EPTIC3 Finnish translations"
-NAME "EPTIC3 Finnish translations"
-PATH "/var/lib/manatee/data/EPTIC3/eptic_fi_wr_tt"
+INFO "EPTIC.V3 Italian interpretations"
+NAME "EPTIC.V3 Italian interpretations"
+PATH "/var/lib/manatee/data/EPTIC.V3/eptic_it_sp_tt"
 ENCODING "utf8"
-LANGUAGE "Finnish"
-VERTICAL "/var/lib/manatee/vert/EPTIC3/eptic_fi_wr_tt.vert"
+LANGUAGE "Italian"
+VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_it_sp_tt.vert"
 
 INFOHREF "http://terminologia.it/"
-TAGSETDOC "https://www.sketchengine.eu/finnish-treetagger-part-of-speech-tagset/"
-
+TAGSETDOC "https://www.sketchengine.eu/italian-freeling-part-of-speech-tagset/"
 
 DOCSTRUCTURE "text"
 SHORTREF "#"
@@ -20,8 +19,8 @@ ATTRIBUTE   tag
 ATTRIBUTE   lemma
 
 ALIGNSTRUCT "s"
-ALIGNED "eptic_en_sp_st,eptic_it_sp_tt,eptic_fi_sp_tt,eptic_it_wr_tt,eptic_en_wr_st,eptic_de_sp_tt,eptic_sl_sp_tt,eptic_fr_sp_tt,eptic_de_wr_tt,eptic_sl_wr_tt,eptic_fr_wr_tt"
-ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.en_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.it_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.fi_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.it_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.en_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.de_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.sl_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.fr_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.de_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.sl_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC3/alignment.fi_wr_tt.fr_wr_tt.txt"
+ALIGNED "eptic_en_sp_st,eptic_de_sp_tt,eptic_fi_wr_tt,eptic_it_wr_tt,eptic_en_wr_st,eptic_sl_sp_tt,eptic_fr_sp_tt,eptic_de_wr_tt,eptic_sl_wr_tt,eptic_fr_wr_tt,eptic_fi_sp_tt"
+ALIGNDEF "/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.en_sp_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.de_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.fi_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.it_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.en_wr_st.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.sl_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.fr_sp_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.de_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.sl_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.fr_wr_tt.txt,/var/lib/manatee/aligndef_files/EPTIC.V3/alignment.it_sp_tt.fi_sp_tt.txt"
 
 STRUCTURE text {
         ATTRIBUTE "id"
@@ -67,6 +66,7 @@ STRUCTURE interpreter {
 
 STRUCTURE s {
         ATTRIBUTE "id"
+	ATTRIBUTE "video"
 }
 
 STRUCTURE g {
