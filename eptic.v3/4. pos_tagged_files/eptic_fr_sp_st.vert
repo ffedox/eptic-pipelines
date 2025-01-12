@@ -2,7 +2,7 @@
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="short" lengthw="152" duration="short" durations="75.0" speed="slow" speedwm="121.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="355:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.00&end=00.00.12">
+<s id="355:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.00&end=00.00.12">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -40,7 +40,7 @@ Cancún	NPFS000	Cancún-n
 .	Fp	.-x
 </s>
 
-<s id="355:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.12&end=00.00.22">
+<s id="355:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.12&end=00.00.22">
 
 Ehm	FPAUSE	ehm
 aujourd'hui	RG	aujourd'hui-r
@@ -86,7 +86,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="355:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.22&end=00.00.31">
+<s id="355:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.22&end=00.00.31">
 
 Le	DA0MS0	le-x
 côté	NCMS000	côté-n
@@ -124,7 +124,7 @@ régionaux	AQ0MP00	régional-j
 .	Fp	.-x
 </s>
 
-<s id="355:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.31&end=00.00.39">
+<s id="355:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.31&end=00.00.39">
 
 Là	RG	là-r
 <g/>
@@ -165,7 +165,7 @@ serre	NCFS000	serre-n
 .	Fp	.-x
 </s>
 
-<s id="355:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.39&end=00.00.51">
+<s id="355:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.39&end=00.00.51">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -224,7 +224,7 @@ transition	NCFS000	transition-n
 .	Fp	.-x
 </s>
 
-<s id="355:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.00.51&end=00.01.00">
+<s id="355:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.00.51&end=00.01.00">
 
 Enfin	RG	enfin-r
 <g/>
@@ -277,7 +277,7 @@ Sud	NPMS000	Sud-n
 .	Fp	.-x
 </s>
 
-<s id="355:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.01.00&end=00.01.06">
+<s id="355:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.01.00&end=00.01.06">
 
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -307,7 +307,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="355:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.01.06&end=00.01.11">
+<s id="355:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.01.06&end=00.01.11">
 
 Donc	CC	donc-c
 il	PP3MSN0	il-p
@@ -332,7 +332,7 @@ quo	NCMS000	quo-n
 .	Fp	.-x
 </s>
 
-<s id="355:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=355&start=00.01.11&end=00.01.23">
+<s id="355:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=355.mp4&start=00.01.11&end=00.01.23">
 
 La	DA0FS0	le-x
 réussite	NCFS000	réussite-n
@@ -369,7 +369,7 @@ Merci	NCMS000	merci-n
 <speaker name="Cohn-Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="short" lengthw="106" duration="short" durations="55.0" speed="slow" speedwm="115.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="357:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=357&start=00.00.00&end=00.00.27">
+<s id="357:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=357.mp4&start=00.00.00&end=00.00.27">
 
 Madame	NCFS000	monsieur-n
 <g/>
@@ -476,7 +476,7 @@ gagner	VMN0000	gagner-v
 .	Fp	.-x
 </s>
 
-<s id="357:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=357&start=00.00.27&end=00.00.42">
+<s id="357:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=357.mp4&start=00.00.27&end=00.00.42">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -539,7 +539,7 @@ gagner	VMN0000	gagner-v
 .	Fp	.-x
 </s>
 
-<s id="357:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=357&start=00.00.42&end=00.00.45">
+<s id="357:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=357.mp4&start=00.00.42&end=00.00.45">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -558,7 +558,7 @@ madame	NCFS000	monsieur-n
 .	Fp	.-x
 </s>
 
-<s id="357:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=357&start=00.00.45&end=00.00.52">
+<s id="357:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=357.mp4&start=00.00.45&end=00.00.52">
 
 La	DA0FS0	le-x
 leçon	NCFS000	leçon-n
@@ -592,7 +592,7 @@ battu	VMP00SM	battre-v
 .	Fp	.-x
 </s>
 
-<s id="357:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=357&start=00.00.52&end=00.01.05">
+<s id="357:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=357.mp4&start=00.00.52&end=00.01.05">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -632,7 +632,7 @@ tard	RG	tard-r
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="191" duration="short" durations="71.0" speed="high" speedwm="161.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="359:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.00&end=00.00.24">
+<s id="359:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.00&end=00.00.24">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -712,7 +712,7 @@ besoin	NCMS000	besoin-n
 .	Fp	.-x
 </s>
 
-<s id="359:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.24&end=00.00.27">
+<s id="359:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.24&end=00.00.27">
 
 Vous	PP2CP00	vous-p
 vous	PP2CP00	vous-p
@@ -723,7 +723,7 @@ mots	NCMP000	mot-n
 .	Fp	.-x
 </s>
 
-<s id="359:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.27&end=00.00.40">
+<s id="359:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.27&end=00.00.40">
 
 Vous	PP2CP00	vous-p
 pensez	VMIP2P0	penser-v
@@ -779,7 +779,7 @@ trompez	VMIP2P0	tromper-v
 .	Fp	.-x
 </s>
 
-<s id="359:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.40&end=00.00.49">
+<s id="359:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.40&end=00.00.49">
 
 Et	CC	et-c
 si	CS	si-c
@@ -823,7 +823,7 @@ croissance	NCFS000	croissance-n
 .	Fp	.-x
 </s>
 
-<s id="359:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.49&end=00.00.57">
+<s id="359:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.49&end=00.00.57">
 
 Donc	CC	donc-c
 <g/>
@@ -862,7 +862,7 @@ chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="359:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.00.57&end=00.01.00">
+<s id="359:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.00.57&end=00.01.00">
 
 Dans	SP	dans-i
 notre	DP1CSP	notre-x
@@ -877,7 +877,7 @@ fermes	AQ0CP00	ferme-j
 .	Fp	.-x
 </s>
 
-<s id="359:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.01.00&end=00.01.06">
+<s id="359:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.01.00&end=00.01.06">
 
 Ne	RN	ne-r
 croyez	VMM02P0	croire-v
@@ -912,7 +912,7 @@ juin	NCMS000	juin-n
 .	Fp	.-x
 </s>
 
-<s id="359:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.01.06&end=00.01.11">
+<s id="359:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.01.06&end=00.01.11">
 
 Nous	PP1CP00	nous-p
 aurons	VMIF1P0	avoir-v
@@ -934,7 +934,7 @@ aura	VAIF3S0	avoir-v
 .	Fp	.-x
 </s>
 
-<s id="359:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=359&start=00.01.11&end=00.01.25">
+<s id="359:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=359.mp4&start=00.01.11&end=00.01.25">
 
 Et	CC	et-c
 <g/>
@@ -1507,7 +1507,7 @@ Merci	NCMS000	merci-n
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="315" duration="medium" durations="121.0" speed="medium" speedwm="156.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="370:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.00&end=00.00.05">
+<s id="370:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.00&end=00.00.05">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -1536,7 +1536,7 @@ soir	NCMS000	soir-n
 .	Fp	.-x
 </s>
 
-<s id="370:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.05&end=00.00.11">
+<s id="370:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.05&end=00.00.11">
 
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
@@ -1569,7 +1569,7 @@ répondre	VMN0000	répondre-v
 .	Fp	.-x
 </s>
 
-<s id="370:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.11&end=00.00.17">
+<s id="370:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.11&end=00.00.17">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -1599,7 +1599,7 @@ motive	VMIP3S0	motiver-v
 .	Fp	.-x
 </s>
 
-<s id="370:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.17&end=00.00.26">
+<s id="370:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.17&end=00.00.26">
 
 Ce	PP0CNN0	ce-p
 qui	PR00000	qui-p
@@ -1639,7 +1639,7 @@ crise	NCFS000	crise-n
 .	Fp	.-x
 </s>
 
-<s id="370:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.26&end=00.00.45">
+<s id="370:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.26&end=00.00.45">
 
 Pour	SP	pour-i
 que	PT0CN00	que-p
@@ -1707,7 +1707,7 @@ commune	AQ0FS00	commun-j
 .	Fp	.-x
 </s>
 
-<s id="370:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.45&end=00.00.56">
+<s id="370:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.45&end=00.00.56">
 
 Et	CC	et-c
 ...	EPAUSE	...-x
@@ -1749,7 +1749,7 @@ rond	NCMS000	rond-n
 .	Fp	.-x
 </s>
 
-<s id="370:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.00.56&end=00.01.06">
+<s id="370:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.00.56&end=00.01.06">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -1789,7 +1789,7 @@ affaires	NCFP000	affaire-n
 .	Fp	.-x
 </s>
 
-<s id="370:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.06&end=00.01.22">
+<s id="370:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.06&end=00.01.22">
 
 Alors	RG	alors-r
 vous	PP2CP00	vous-p
@@ -1861,7 +1861,7 @@ plan	NCMS000	plan-n
 .	Fp	.-x
 </s>
 
-<s id="370:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.22&end=00.01.29">
+<s id="370:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.22&end=00.01.29">
 
 Donc	CC	donc-c
 ce	DD0MS0	ce-x
@@ -1908,7 +1908,7 @@ avancer	VMN0000	avancer-v
 .	Fp	.-x
 </s>
 
-<s id="370:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.29&end=00.01.32">
+<s id="370:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.29&end=00.01.32">
 
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
@@ -1924,7 +1924,7 @@ responsabilités	NCFP000	responsabilité-n
 .	Fp	.-x
 </s>
 
-<s id="370:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.32&end=00.01.38">
+<s id="370:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.32&end=00.01.38">
 
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -1951,7 +1951,7 @@ naissance	NCFS000	naissance-n
 .	Fp	.-x
 </s>
 
-<s id="370:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.38&end=00.01.43">
+<s id="370:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.38&end=00.01.43">
 
 Nous	PP1CP00	nous-p
 n'	RN	ne-r
@@ -1985,7 +1985,7 @@ importants	AQ0MP00	important-j
 .	Fp	.-x
 </s>
 
-<s id="370:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.43&end=00.01.55">
+<s id="370:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.43&end=00.01.55">
 
 Mais	CC	mais-c
 simplement	RG	simplement-r
@@ -2041,7 +2041,7 @@ conscience	NCFS000	conscience-n
 .	Fp	.-x
 </s>
 
-<s id="370:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.01.55&end=00.02.02">
+<s id="370:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.01.55&end=00.02.02">
 
 Et	CC	et-c
 ehm	FPAUSE	ehm
@@ -2082,7 +2082,7 @@ naïveté	NCFS000	naïveté-n
 .	Fp	.-x
 </s>
 
-<s id="370:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=370&start=00.02.02&end=00.02.11">
+<s id="370:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=370.mp4&start=00.02.02&end=00.02.11">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -2110,7 +2110,7 @@ Merci	NCMS000	merci-n
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="medium" lengthw="414" duration="medium" durations="191.0" speed="medium" speedwm="130.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="372:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.00.00&end=00.00.23">
+<s id="372:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.00.00&end=00.00.23">
 
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
@@ -2175,7 +2175,7 @@ demain	RG	demain-r
 .	Fp	.-x
 </s>
 
-<s id="372:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.00.23&end=00.00.30">
+<s id="372:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.00.23&end=00.00.30">
 
 Maintenant	RG	maintenant-r
 ehm	FPAUSE	ehm
@@ -2199,7 +2199,7 @@ d'	SP	de-i
 .	Fp	.-x
 </s>
 
-<s id="372:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.00.30&end=00.00.53">
+<s id="372:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.00.30&end=00.00.53">
 
 Ehm	FPAUSE	ehm
 c'	PP0CNN0	ce-p
@@ -2269,7 +2269,7 @@ extérieure	AQ0FS00	extérieur-j
 .	Fp	.-x
 </s>
 
-<s id="372:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.00.53&end=00.01.05">
+<s id="372:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.00.53&end=00.01.05">
 
 20	Z	20-m
 pour	SP	pour-i
@@ -2321,7 +2321,7 @@ rater	VMN0000	rater-v
 .	Fp	.-x
 </s>
 
-<s id="372:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.05&end=00.01.09">
+<s id="372:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.05&end=00.01.09">
 
 Fiona	NP00000	Fiona-n
 Hall	NPMS000	Hall-n
@@ -2356,7 +2356,7 @@ calculer	VMN0000	calculer-v
 .	Fp	.-x
 </s>
 
-<s id="372:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.09&end=00.01.21">
+<s id="372:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.09&end=00.01.21">
 
 Si	CS	si-c
 il	PP3MSN0	il-p
@@ -2403,7 +2403,7 @@ année	NCFS000	année-n
 .	Fp	.-x
 </s>
 
-<s id="372:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.21&end=00.01.33">
+<s id="372:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.21&end=00.01.33">
 
 Et	CC	et-c
 on	PP3CSN0	on-p
@@ -2450,7 +2450,7 @@ recherchons	VMIP1P0	rechercher-v
 .	Fp	.-x
 </s>
 
-<s id="372:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.33&end=00.01.35">
+<s id="372:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.33&end=00.01.35">
 
 Alors	RG	alors-r
 moi	PP1CS00	moi-p
@@ -2469,7 +2469,7 @@ ici	RG	ici-r
 .	Fp	.-x
 </s>
 
-<s id="372:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.35&end=00.01.51">
+<s id="372:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.35&end=00.01.51">
 
 Excusez-moi	VMM02P0	excuser-v
 <g/>
@@ -2545,7 +2545,7 @@ line	NCFS000	line-n
 .	Fp	.-x
 </s>
 
-<s id="372:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.01.51&end=00.02.00">
+<s id="372:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.01.51&end=00.02.00">
 
 Ce	PP0CNN0	ce-p
 n'	RN	ne-r
@@ -2588,7 +2588,7 @@ climat-énergie	NCFS000	climat-énergie-n
 .	Fp	.-x
 </s>
 
-<s id="372:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.00&end=00.02.03">
+<s id="372:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.00&end=00.02.03">
 
 On	PP3CSN0	on-p
 nous	PP1CP00	nous-p
@@ -2605,7 +2605,7 @@ contraignant	AQ0MS00	contraignant-j
 .	Fp	.-x
 </s>
 
-<s id="372:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.03&end=00.02.06">
+<s id="372:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.03&end=00.02.06">
 
 Alors	RG	alors-r
 <g/>
@@ -2620,7 +2620,7 @@ renouvelables	AQ0CP00	renouvelable-j
 .	Fp	.-x
 </s>
 
-<s id="372:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.06&end=00.02.28">
+<s id="372:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.06&end=00.02.28">
 
 On	PP3CSN0	on-p
 est	VMIP3S0	être-v
@@ -2701,7 +2701,7 @@ contraignant	VMG0000	contraindre-v
 .	Fp	.-x
 </s>
 
-<s id="372:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.28&end=00.02.46">
+<s id="372:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.28&end=00.02.46">
 
 Par	SP	par-i
 rapport	NCMS000	rapport-n
@@ -2774,7 +2774,7 @@ rénovation	NCFS000	rénovation-n
 .	Fp	.-x
 </s>
 
-<s id="372:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.46&end=00.02.53">
+<s id="372:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.46&end=00.02.53">
 
 Enfin	RG	enfin-r
 <g/>
@@ -2802,7 +2802,7 @@ d'	SP	de-i
 .	Fp	.-x
 </s>
 
-<s id="372:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.53&end=00.02.58">
+<s id="372:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.53&end=00.02.58">
 
 Si	CS	si-c
 l'	DA0CS0	le-x
@@ -2829,7 +2829,7 @@ international	AQ0MS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="372:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.02.58&end=00.03.02">
+<s id="372:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.02.58&end=00.03.02">
 
 Ils	PP3MPN0	ils-p
 seront	VMIF3P0	être-v
@@ -2847,7 +2847,7 @@ facture	NCFS000	facture-n
 .	Fp	.-x
 </s>
 
-<s id="372:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.03.02&end=00.03.13">
+<s id="372:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.03.02&end=00.03.13">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -2905,7 +2905,7 @@ d'	SP	de-i
 .	Fp	.-x
 </s>
 
-<s id="372:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=372&start=00.03.13&end=00.03.23">
+<s id="372:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=372.mp4&start=00.03.13&end=00.03.23">
 
 La	DA0FS0	le-x
 feuille	NCFS000	feuille-n
@@ -3270,7 +3270,7 @@ domaine	NCMS000	domaine-n
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="237" duration="short" durations="108.0" speed="medium" speedwm="131.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="376:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.00.00&end=00.00.12">
+<s id="376:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.00.00&end=00.00.12">
 
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
@@ -3309,7 +3309,7 @@ message	NCMS000	message-n
 .	Fp	.-x
 </s>
 
-<s id="376:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.00.12&end=00.00.17">
+<s id="376:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.00.12&end=00.00.17">
 
 Mais	CC	mais-c
 entretemps	RG	entretemps-r
@@ -3332,7 +3332,7 @@ ailleurs	RG	ailleurs-r
 .	Fp	.-x
 </s>
 
-<s id="376:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.00.17&end=00.00.30">
+<s id="376:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.00.17&end=00.00.30">
 
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
@@ -3376,7 +3376,7 @@ ans	NCMP000	an-n
 .	Fp	.-x
 </s>
 
-<s id="376:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.00.30&end=00.00.39">
+<s id="376:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.00.30&end=00.00.39">
 
 Nous	PP1CP00	nous-p
 voyons	VMIP1P0	voir-v
@@ -3425,7 +3425,7 @@ voulons	VMIP1P0	vouloir-v
 .	Fp	.-x
 </s>
 
-<s id="376:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.00.39&end=00.01.01">
+<s id="376:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.00.39&end=00.01.01">
 
 Dans	SP	dans-i
 le	DA0MS0	le-x
@@ -3517,7 +3517,7 @@ compte	NCMS000	compte-n
 .	Fp	.-x
 </s>
 
-<s id="376:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.01.01&end=00.01.08">
+<s id="376:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.01.01&end=00.01.08">
 
 Nous	PP1CP00	nous-p
 évoquons	VMIP1P0	évoquer-v
@@ -3548,7 +3548,7 @@ emploi	NCMS000	emploi-n
 .	Fp	.-x
 </s>
 
-<s id="376:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.01.08&end=00.01.15">
+<s id="376:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.01.08&end=00.01.15">
 
 Et	CC	et-c
 que	CS	que-c
@@ -3584,7 +3584,7 @@ réel	AQ0MS00	réel-j
 .	Fp	.-x
 </s>
 
-<s id="376:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.01.15&end=00.01.26">
+<s id="376:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.01.15&end=00.01.26">
 
 Mais	CC	mais-c
 le	DA0MS0	le-x
@@ -3623,7 +3623,7 @@ accord	NCMS000	accord-n
 .	Fp	.-x
 </s>
 
-<s id="376:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.01.26&end=00.01.41">
+<s id="376:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.01.26&end=00.01.41">
 
 L'	DA0CS0	le-x
 <g/>
@@ -3688,7 +3688,7 @@ soutenir	VMN0000	soutenir-v
 .	Fp	.-x
 </s>
 
-<s id="376:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=376&start=00.01.41&end=00.01.57">
+<s id="376:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=376.mp4&start=00.01.41&end=00.01.57">
 
 Enfin	RG	enfin-r
 <g/>
@@ -3740,7 +3740,7 @@ mur	NCMS000	mur-n
 <speaker name="De Keyser Véronique" gender="F" country="Belgium" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="210" duration="short" durations="112.0" speed="slow" speedwm="112.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="379:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.00&end=00.00.14">
+<s id="379:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.00&end=00.00.14">
 
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
@@ -3794,7 +3794,7 @@ Ouganda	NP00000	Ouganda-n
 .	Fp	.-x
 </s>
 
-<s id="379:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.14&end=00.00.19">
+<s id="379:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.14&end=00.00.19">
 
 Alors	RG	alors-r
 pourquoi	PT00000	pourquoi-p
@@ -3813,7 +3813,7 @@ quasi-identique	AQ0CS00	quasi-identique-j
 ?	Fit	?-x
 </s>
 
-<s id="379:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.19&end=00.00.21">
+<s id="379:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.19&end=00.00.21">
 
 Eh	I	eh-x
 bien	RG	bien-r
@@ -3831,7 +3831,7 @@ clos	VMP00NM	clore-v
 .	Fp	.-x
 </s>
 
-<s id="379:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.21&end=00.00.34">
+<s id="379:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.21&end=00.00.34">
 
 D'	SP	de-i
 <g/>
@@ -3875,7 +3875,7 @@ Ouganda	NP00000	Ouganda-n
 .	Fp	.-x
 </s>
 
-<s id="379:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.34&end=00.00.58">
+<s id="379:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.34&end=00.00.58">
 
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
@@ -3945,7 +3945,7 @@ réprouvés	VMP00PM	réprouver-v
 .	Fp	.-x
 </s>
 
-<s id="379:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.00.58&end=00.01.05">
+<s id="379:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.00.58&end=00.01.05">
 
 Alors	RG	alors-r
 <g/>
@@ -3977,7 +3977,7 @@ lancée	VMP00SF	lancer-v
 .	Fp	.-x
 </s>
 
-<s id="379:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.05&end=00.01.07">
+<s id="379:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.05&end=00.01.07">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -3992,7 +3992,7 @@ homme	NCMS000	homme-n
 .	Fp	.-x
 </s>
 
-<s id="379:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.07&end=00.01.13">
+<s id="379:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.07&end=00.01.13">
 
 Ensuite	RG	ensuite-r
 <g/>
@@ -4011,7 +4011,7 @@ homosexuels	NCMP000	homosexuel-n
 .	Fp	.-x
 </s>
 
-<s id="379:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.13&end=00.01.23">
+<s id="379:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.13&end=00.01.23">
 
 Le	DA0MS0	le-x
 reste	NCMS000	reste-n
@@ -4059,7 +4059,7 @@ homosexuels	NCMP000	homosexuel-n
 .	Fp	.-x
 </s>
 
-<s id="379:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.23&end=00.01.41">
+<s id="379:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.23&end=00.01.41">
 
 Alors	RG	alors-r
 <g/>
@@ -4130,7 +4130,7 @@ culturels	AQ0MP00	culturel-j
 .	Fp	.-x
 </s>
 
-<s id="379:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.41&end=00.01.57">
+<s id="379:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.41&end=00.01.57">
 
 Non	RG	non-r
 <g/>
@@ -4179,7 +4179,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="379:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=379&start=00.01.57&end=00.01.59">
+<s id="379:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=379.mp4&start=00.01.57&end=00.01.59">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -4196,7 +4196,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="medium" lengthw="466" duration="medium" durations="235.0" speed="slow" speedwm="119.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="380:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.00.00&end=00.00.18">
+<s id="380:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.00.00&end=00.00.18">
 
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
@@ -4252,7 +4252,7 @@ gouvernance	NCFS000	gouvernance-n
 .	Fp	.-x
 </s>
 
-<s id="380:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.00.18&end=00.00.45">
+<s id="380:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.00.18&end=00.00.45">
 
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -4362,7 +4362,7 @@ humaine	AQ0FS00	humain-j
 .	Fp	.-x
 </s>
 
-<s id="380:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.00.45&end=00.00.50">
+<s id="380:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.00.45&end=00.00.50">
 
 Cet	DD0MS0	ce-x
 article	NCMS000	article-n
@@ -4386,7 +4386,7 @@ politiques	NCFP000	politique-n
 .	Fp	.-x
 </s>
 
-<s id="380:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.00.50&end=00.00.59">
+<s id="380:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.00.50&end=00.00.59">
 
 Or	CC	or-c
 <g/>
@@ -4424,7 +4424,7 @@ délibérer	VMN0000	délibérer-v
 .	Fp	.-x
 </s>
 
-<s id="380:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.00.59&end=00.01.10">
+<s id="380:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.00.59&end=00.01.10">
 
 Ces	DD0CP0	ce-x
 études	NCFP000	étude-n
@@ -4464,7 +4464,7 @@ ehm	FPAUSE	ehm
 .	Fp	.-x
 </s>
 
-<s id="380:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.01.10&end=00.01.16">
+<s id="380:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.01.10&end=00.01.16">
 
 Nous	PP1CP00	nous-p
 nous	PP1CP00	nous-p
@@ -4489,7 +4489,7 @@ gouvernance	NCFS000	gouvernance-n
 .	Fp	.-x
 </s>
 
-<s id="380:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.01.16&end=00.01.18">
+<s id="380:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.01.16&end=00.01.18">
 
 Car	CC	car-c
 sinon	CS	sinon-c
@@ -4498,7 +4498,7 @@ voit-on	VMIP3S0	voir-v
 ?	Fit	?-x
 </s>
 
-<s id="380:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.01.18&end=00.01.30">
+<s id="380:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.01.18&end=00.01.30">
 
 On	PP3CSN0	on-p
 voit	VMIP3S0	voir-v
@@ -4553,7 +4553,7 @@ financiers	AQ0MP00	financier-j
 .	Fp	.-x
 </s>
 
-<s id="380:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.01.30&end=00.01.45">
+<s id="380:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.01.30&end=00.01.45">
 
 Mais	CC	mais-c
 si	CS	si-c
@@ -4616,7 +4616,7 @@ k-	DYSF	k-
 .	Fp	.-x
 </s>
 
-<s id="380:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.01.45&end=00.02.01">
+<s id="380:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.01.45&end=00.02.01">
 
 Nous	PP1CP00	nous-p
 vous	PP2CP00	vous-p
@@ -4678,7 +4678,7 @@ prendre	VMN0000	prendre-v
 .	Fp	.-x
 </s>
 
-<s id="380:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.02.01&end=00.02.22">
+<s id="380:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.02.01&end=00.02.22">
 
 Quel	PT0MS00	quel-p
 sera	VMIF3S0	être-v
@@ -4744,7 +4744,7 @@ année	NCFS000	année-n
 .	Fp	.-x
 </s>
 
-<s id="380:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.02.22&end=00.02.58">
+<s id="380:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.02.22&end=00.02.58">
 
 La	DA0FS0	le-x
 réalité	NCFS000	réalité-n
@@ -4828,7 +4828,7 @@ stratégie	NCFS000	stratégie-n
 .	Fp	.-x
 </s>
 
-<s id="380:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.02.58&end=00.03.12">
+<s id="380:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.02.58&end=00.03.12">
 
 Or	CC	or-c
 <g/>
@@ -4886,7 +4886,7 @@ s'	PP3CN00	se-p
 .	Fp	.-x
 </s>
 
-<s id="380:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.03.12&end=00.03.43">
+<s id="380:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.03.12&end=00.03.43">
 
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
@@ -4967,7 +4967,7 @@ engagée	VMP00SF	engager-v
 .	Fp	.-x
 </s>
 
-<s id="380:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=380&start=00.03.43&end=00.04.17">
+<s id="380:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=380.mp4&start=00.03.43&end=00.04.17">
 
 Ce	PP0CNN0	ce-p
 ne	RN	ne-r
@@ -5024,7 +5024,7 @@ Commissaire	NPCS000	Commissaire-n
 <speaker name="Gauzès Jean-Paul " gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="258" duration="short" durations="114.0" speed="medium" speedwm="135.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="496:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.00.00&end=00.00.09">
+<s id="496:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.00.00&end=00.00.09">
 
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
@@ -5050,7 +5050,7 @@ forme	NCFS000	forme-n
 .	Fp	.-x
 </s>
 
-<s id="496:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.00.09&end=00.00.21">
+<s id="496:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.00.09&end=00.00.21">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -5100,7 +5100,7 @@ fictif	AQ0MS00	fictif-j
 .	Fp	.-x
 </s>
 
-<s id="496:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.00.21&end=00.00.33">
+<s id="496:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.00.21&end=00.00.33">
 
 Cependant	RG	cependant-r
 j'	PP1CSN0	je-p
@@ -5145,7 +5145,7 @@ concertation	NCFS000	concertation-n
 .	Fp	.-x
 </s>
 
-<s id="496:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.00.33&end=00.00.44">
+<s id="496:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.00.33&end=00.00.44">
 
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
@@ -5187,7 +5187,7 @@ financières	AQ0FP00	financier-j
 .	Fp	.-x
 </s>
 
-<s id="496:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.00.44&end=00.01.06">
+<s id="496:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.00.44&end=00.01.06">
 
 La	DA0FS0	le-x
 position	NCFS000	position-n
@@ -5278,7 +5278,7 @@ altérée	VMP00SF	altérer-v
 .	Fp	.-x
 </s>
 
-<s id="496:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.01.06&end=00.01.16">
+<s id="496:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.01.06&end=00.01.16">
 
 Et	CC	et-c
 à	SP	à-i
@@ -5316,7 +5316,7 @@ attente	NCFS000	attente-n
 .	Fp	.-x
 </s>
 
-<s id="496:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.01.16&end=00.01.30">
+<s id="496:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.01.16&end=00.01.30">
 
 Nous	PP1CP00	nous-p
 demandons	VMIP1P0	demander-v
@@ -5369,7 +5369,7 @@ décision	NCFS000	décision-n
 .	Fp	.-x
 </s>
 
-<s id="496:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=496&start=00.01.30&end=00.01.54">
+<s id="496:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=496.mp4&start=00.01.30&end=00.01.54">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -5445,7 +5445,7 @@ merci	NCMS000	merci-n
 <speaker name="Morin-Chartier Elisabeth " gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="210" duration="short" durations="105.0" speed="slow" speedwm="120.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="499:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.00.00&end=00.00.19">
+<s id="499:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.00.00&end=00.00.19">
 
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
@@ -5517,7 +5517,7 @@ société	NCFS000	société-n
 .	Fp	.-x
 </s>
 
-<s id="499:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.00.19&end=00.00.31">
+<s id="499:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.00.19&end=00.00.31">
 
 Quelle	DT0FS0	quel-x
 société	NCFS000	société-n
@@ -5554,7 +5554,7 @@ professionnelle	AQ0FS00	professionnel-j
 ?	Fit	?-x
 </s>
 
-<s id="499:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.00.31&end=00.00.35">
+<s id="499:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.00.31&end=00.00.35">
 
 Ceci	PD0CS00	ceci-p
 ne	RN	ne-r
@@ -5571,7 +5571,7 @@ vivons	VMIP1P0	vivre-v
 .	Fp	.-x
 </s>
 
-<s id="499:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.00.35&end=00.00.53">
+<s id="499:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.00.35&end=00.00.53">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -5621,7 +5621,7 @@ intelligence	NCFS000	intelligence-n
 .	Fp	.-x
 </s>
 
-<s id="499:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.00.53&end=00.01.00">
+<s id="499:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.00.53&end=00.01.00">
 
 Le	DA0MS0	le-x
 deuxième	AO0CS00	2-j
@@ -5646,7 +5646,7 @@ Commissaire	NPCS000	Commissaire-n
 .	Fp	.-x
 </s>
 
-<s id="499:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.00&end=00.01.05">
+<s id="499:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.00&end=00.01.05">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -5664,7 +5664,7 @@ quotas	NCMP000	quota-n
 .	Fp	.-x
 </s>
 
-<s id="499:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.05&end=00.01.09">
+<s id="499:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.05&end=00.01.09">
 
 Mais	CC	mais-c
 au	SP+DA	à+le-i
@@ -5689,7 +5689,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="499:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.09&end=00.01.15">
+<s id="499:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.09&end=00.01.15">
 
 Sans	SP	sans-i
 quota	NCMS000	quota-n
@@ -5714,7 +5714,7 @@ responsabilités	NCFP000	responsabilité-n
 .	Fp	.-x
 </s>
 
-<s id="499:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.15&end=00.01.22">
+<s id="499:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.15&end=00.01.22">
 
 Et	CC	et-c
 j'	PP1CSN0	je-p
@@ -5738,7 +5738,7 @@ aussi	RG	aussi-r
 .	Fp	.-x
 </s>
 
-<s id="499:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.22&end=00.01.27">
+<s id="499:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.22&end=00.01.27">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -5757,7 +5757,7 @@ chemin	NCMS000	chemin-n
 .	Fp	.-x
 </s>
 
-<s id="499:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.27&end=00.01.36">
+<s id="499:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.27&end=00.01.36">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -5797,7 +5797,7 @@ arriver	VMN0000	arriver-v
 .	Fp	.-x
 </s>
 
-<s id="499:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.36&end=00.01.40">
+<s id="499:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.36&end=00.01.40">
 
 Mais	CC	mais-c
 aujourd'hui	RG	aujourd'hui-r
@@ -5812,7 +5812,7 @@ là	RG	là-r
 .	Fp	.-x
 </s>
 
-<s id="499:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.40&end=00.01.47">
+<s id="499:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.40&end=00.01.47">
 
 Enfin	RG	enfin-r
 le	DA0MS0	le-x
@@ -5840,7 +5840,7 @@ femmes	NCFP000	femme-n
 .	Fp	.-x
 </s>
 
-<s id="499:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=499&start=00.01.47&end=00.01.54">
+<s id="499:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=499.mp4&start=00.01.47&end=00.01.54">
 
 Merci	NCMS000	merci-n
 d'	SP	de-i
@@ -5859,7 +5859,7 @@ contribuer	VMN0000	contribuer-v
 <speaker name="Danjean Arnaud" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="172" duration="short" durations="72.0" speed="medium" speedwm="143.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="502:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.00&end=00.00.08">
+<s id="502:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.00&end=00.00.08">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -5892,7 +5892,7 @@ libyenne	AQ0FS00	libyen-j
 .	Fp	.-x
 </s>
 
-<s id="502:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.08&end=00.00.17">
+<s id="502:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.08&end=00.00.17">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -5928,7 +5928,7 @@ européens	AQ0MP00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="502:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.17&end=00.00.31">
+<s id="502:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.17&end=00.00.31">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -5988,7 +5988,7 @@ fonctionné	VMP00SM	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="502:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.31&end=00.00.43">
+<s id="502:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.31&end=00.00.43">
 
 Sur	SP	sur-i
 le	DA0MS0	le-x
@@ -6026,7 +6026,7 @@ nécessaire	AQ0CS00	nécessaire-j
 .	Fp	.-x
 </s>
 
-<s id="502:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.43&end=00.00.55">
+<s id="502:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.43&end=00.00.55">
 
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
@@ -6078,7 +6078,7 @@ aérien	AQ0MS00	aérien-j
 .	Fp	.-x
 </s>
 
-<s id="502:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.00.55&end=00.01.10">
+<s id="502:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.00.55&end=00.01.10">
 
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
@@ -6140,7 +6140,7 @@ humanitaire	AQ0CS00	humanitaire-j
 .	Fp	.-x
 </s>
 
-<s id="502:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=502&start=00.01.10&end=00.01.19">
+<s id="502:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=502.mp4&start=00.01.10&end=00.01.19">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -6174,7 +6174,7 @@ merci	NCMS000	merci-n
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="149" duration="short" durations="71.0" speed="slow" speedwm="125.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="504:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.00&end=00.00.09">
+<s id="504:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.00&end=00.00.09">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -6217,7 +6217,7 @@ traité	NCMS000	traité-n
 .	Fp	.-x
 </s>
 
-<s id="504:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.09&end=00.00.12">
+<s id="504:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.09&end=00.00.12">
 
 Le	DA0MS0	le-x
 réalisme	NCMS000	réalisme-n
@@ -6231,7 +6231,7 @@ faire	VMN0000	faire-v
 .	Fp	.-x
 </s>
 
-<s id="504:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.12&end=00.00.18">
+<s id="504:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.12&end=00.00.18">
 
 Or	CC	or-c
 le	DA0MS0	le-x
@@ -6259,7 +6259,7 @@ traités	NCMP000	traité-n
 .	Fp	.-x
 </s>
 
-<s id="504:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.18&end=00.00.34">
+<s id="504:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.18&end=00.00.34">
 
 Ici	RG	ici-r
 nous	PP1CP00	nous-p
@@ -6300,7 +6300,7 @@ intergouvernemental	AQ0MS00	intergouvernemental-j
 .	Fp	.-x
 </s>
 
-<s id="504:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.34&end=00.00.50">
+<s id="504:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.34&end=00.00.50">
 
 Alors	RG	alors-r
 j'	PP1CSN0	je-p
@@ -6352,7 +6352,7 @@ mécanisme	NCMS000	mécanisme-n
 .	Fp	.-x
 </s>
 
-<s id="504:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.50&end=00.00.59">
+<s id="504:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.50&end=00.00.59">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -6380,7 +6380,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="504:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=504&start=00.00.59&end=00.01.18">
+<s id="504:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=504.mp4&start=00.00.59&end=00.01.18">
 
 Ce	DD0MS0	ce-x
 Parlement	NPMS000	Parlement-n
@@ -6969,7 +6969,7 @@ merci	NCMS000	merci-n
 <speaker name="Lepage Corinne " gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="220" duration="short" durations="91.0" speed="medium" speedwm="145.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="507:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.00.00&end=00.00.28">
+<s id="507:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.00.00&end=00.00.28">
 
 Merci	NCMS000	merci-n
 ehm	FPAUSE	ehm
@@ -7068,7 +7068,7 @@ existent	VMIP3P0	exister-v
 .	Fp	.-x
 </s>
 
-<s id="507:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.00.28&end=00.00.31">
+<s id="507:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.00.28&end=00.00.31">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -7080,7 +7080,7 @@ conscient	AQ0MS00	conscient-j
 .	Fp	.-x
 </s>
 
-<s id="507:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.00.31&end=00.00.40">
+<s id="507:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.00.31&end=00.00.40">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -7115,7 +7115,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="507:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.00.40&end=00.00.50">
+<s id="507:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.00.40&end=00.00.50">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -7139,7 +7139,7 @@ conscient	AQ0MS00	conscient-j
 .	Fp	.-x
 </s>
 
-<s id="507:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.00.50&end=00.01.08">
+<s id="507:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.00.50&end=00.01.08">
 
 Donc	CC	donc-c
 il	PP3MSN0	il-p
@@ -7201,7 +7201,7 @@ cela	PD0CS00	cela-p
 .	Fp	.-x
 </s>
 
-<s id="507:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.08&end=00.01.09">
+<s id="507:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.08&end=00.01.09">
 
 Comment	PT00000	comment-p
 le	PP3MSA0	le-p
@@ -7210,7 +7210,7 @@ faire	VMN0000	faire-v
 ?	Fit	?-x
 </s>
 
-<s id="507:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.09&end=00.01.12">
+<s id="507:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.09&end=00.01.12">
 
 Eh	I	eh-x
 bien	RG	bien-r
@@ -7232,7 +7232,7 @@ nucléaire	NCMS000	nucléaire-n
 .	Fp	.-x
 </s>
 
-<s id="507:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.12&end=00.01.18">
+<s id="507:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.12&end=00.01.18">
 
 Ehm	FPAUSE	ehm
 Claude	NPFS000	Claude-n
@@ -7244,7 +7244,7 @@ ans	NCMP000	an-n
 .	Fp	.-x
 </s>
 
-<s id="507:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.18&end=00.01.21">
+<s id="507:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.18&end=00.01.21">
 
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
@@ -7266,7 +7266,7 @@ plus	RG	plus-r
 .	Fp	.-x
 </s>
 
-<s id="507:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.21&end=00.01.36">
+<s id="507:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.21&end=00.01.36">
 
 Mais	CC	mais-c
 ehm	FPAUSE	ehm
@@ -7325,7 +7325,7 @@ contrôle	NCMS000	contrôle-n
 .	Fp	.-x
 </s>
 
-<s id="507:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=507&start=00.01.36&end=00.01.38">
+<s id="507:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=507.mp4&start=00.01.36&end=00.01.38">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -9275,7 +9275,7 @@ vice-président	NCMS000	vice-président-n
 <speaker name="Gollnisch Bruno" gender="M" country="France" politfunc="MEP" politgroup="AENM">
 <st language="fr" length="short" lengthw="179" duration="short" durations="85.0" speed="slow" speedwm="126.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="481:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.00&end=00.00.02">
+<s id="481:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.00&end=00.00.02">
 
 Je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -9288,7 +9288,7 @@ français	AQ0MN00	français-j
 .	Fp	.-x
 </s>
 
-<s id="481:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.02&end=00.00.08">
+<s id="481:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.02&end=00.00.08">
 
 Monsieur	NCMS000	monsieur-n
 Sarkozy	NPMS000	Sarkozy-n
@@ -9307,7 +9307,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="481:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.08&end=00.00.29">
+<s id="481:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.08&end=00.00.29">
 
 Ils	PP3MPN0	ils-p
 auraient	VAIC3P0	avoir-v
@@ -9377,7 +9377,7 @@ installer	VMN0000	installer-v
 .	Fp	.-x
 </s>
 
-<s id="481:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.29&end=00.00.45">
+<s id="481:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.29&end=00.00.45">
 
 Mais	CC	mais-c
 je	PP1CSN0	je-p
@@ -9437,7 +9437,7 @@ territoire	NCMS000	territoire-n
 .	Fp	.-x
 </s>
 
-<s id="481:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.45&end=00.00.48">
+<s id="481:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.45&end=00.00.48">
 
 Ils	PP3MPN0	ils-p
 ne	RN	ne-r
@@ -9452,7 +9452,7 @@ en	SP	en-i
 .	Fp	.-x
 </s>
 
-<s id="481:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.00.48&end=00.01.13">
+<s id="481:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.00.48&end=00.01.13">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -9563,7 +9563,7 @@ persécutent	VMIP3P0	persécuter-v
 ?	Fit	?-x
 </s>
 
-<s id="481:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=481&start=00.01.13&end=00.01.38">
+<s id="481:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=481.mp4&start=00.01.13&end=00.01.38">
 
 Votre	DP2CSP	votre-x
 angélisme	NCMS000	angélisme-n
@@ -9654,7 +9654,7 @@ Europe-là	NP00000	Europe-là-n
 <speaker name="Cohn-Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="medium" lengthw="430" duration="medium" durations="222.0" speed="slow" speedwm="116.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="483:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.00&end=00.00.05">
+<s id="483:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.00&end=00.00.05">
 
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -9680,7 +9680,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="483:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.05&end=00.00.13">
+<s id="483:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.05&end=00.00.13">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -9709,14 +9709,14 @@ insécurité	NCFS000	insécurité-n
 .	Fp	.-x
 </s>
 
-<s id="483:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.13&end=00.00.14">
+<s id="483:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.13&end=00.00.14">
 
 Quelle	DT0FS0	quel-x
 insécurité	NCFS000	insécurité-n
 ?	Fit	?-x
 </s>
 
-<s id="483:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.14&end=00.00.20">
+<s id="483:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.14&end=00.00.20">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -9753,7 +9753,7 @@ guerre	NCFS000	guerre-n
 .	Fp	.-x
 </s>
 
-<s id="483:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.20&end=00.00.27">
+<s id="483:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.20&end=00.00.27">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -9789,7 +9789,7 @@ guerre	NCFS000	guerre-n
 .	Fp	.-x
 </s>
 
-<s id="483:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.27&end=00.00.30">
+<s id="483:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.27&end=00.00.30">
 
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
@@ -9809,7 +9809,7 @@ milliers	NCMP000	millier-n
 .	Fp	.-x
 </s>
 
-<s id="483:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.30&end=00.00.33">
+<s id="483:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.30&end=00.00.33">
 
 Et	CC	et-c
 ça	PD0MS00	cela-p
@@ -9826,7 +9826,7 @@ toujours	RG	toujours-r
 .	Fp	.-x
 </s>
 
-<s id="483:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.33&end=00.00.35">
+<s id="483:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.33&end=00.00.35">
 
 Elle	PP3FS00	elle-p
 n'	RN	ne-r
@@ -9839,7 +9839,7 @@ coulé	VMP00SM	couler-v
 .	Fp	.-x
 </s>
 
-<s id="483:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.35&end=00.00.46">
+<s id="483:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.35&end=00.00.46">
 
 Toute	DI0FS0	tout-x
 cette	DD0FS0	ce-x
@@ -9860,7 +9860,7 @@ propagande	NCFS000	propagande-n
 .	Fp	.-x
 </s>
 
-<s id="483:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.46&end=00.00.51">
+<s id="483:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.46&end=00.00.51">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -9877,7 +9877,7 @@ mafia	NCFS000	mafia-n
 !	Fat	!-x
 </s>
 
-<s id="483:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.51&end=00.00.53">
+<s id="483:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.51&end=00.00.53">
 
 Comme	CS	comme-c
 si	CS	si-c
@@ -9895,7 +9895,7 @@ Lampedusa	NP00000	Lampedusa-n
 !	Fat	!-x
 </s>
 
-<s id="483:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.53&end=00.00.57">
+<s id="483:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.53&end=00.00.57">
 
 Ils	PP3MPN0	ils-p
 ont	VAIP3P0	avoir-v
@@ -9911,7 +9911,7 @@ criminels	NCMP000	criminel-n
 .	Fp	.-x
 </s>
 
-<s id="483:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.00.57&end=00.01.02">
+<s id="483:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.00.57&end=00.01.02">
 
 Ils	PP3MPN0	ils-p
 rentrent	VMIP3P0	rentrer-v
@@ -9932,7 +9932,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="483:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.02&end=00.01.05">
+<s id="483:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.02&end=00.01.05">
 
 Donc	CC	donc-c
 arrêtez	VMIP2P0	arrêter-v
@@ -9945,7 +9945,7 @@ histoires	NCFP000	histoire-n
 .	Fp	.-x
 </s>
 
-<s id="483:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.05&end=00.01.07">
+<s id="483:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.05&end=00.01.07">
 
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
@@ -9956,7 +9956,7 @@ simple	AQ0CS00	simple-j
 .	Fp	.-x
 </s>
 
-<s id="483:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.07&end=00.01.10">
+<s id="483:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.07&end=00.01.10">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -9975,7 +9975,7 @@ réfugient	VMIP3P0	réfugier-v
 .	Fp	.-x
 </s>
 
-<s id="483:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.10&end=00.01.14">
+<s id="483:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.10&end=00.01.14">
 
 Eh	I	eh-x
 bien	RG	bien-r
@@ -9999,7 +9999,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="483:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.14&end=00.01.20">
+<s id="483:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.14&end=00.01.20">
 
 25000	Z	25000-m
 divisés	VMP00PM	diviser-v
@@ -10025,7 +10025,7 @@ problème	NCMS000	problème-n
 !	Fat	!-x
 </s>
 
-<s id="483:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.20&end=00.01.21">
+<s id="483:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.20&end=00.01.21">
 
 Et	CC	et-c
 moi	PP1CS00	moi-p
@@ -10038,7 +10038,7 @@ chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="483:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.21&end=00.01.25">
+<s id="483:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.21&end=00.01.25">
 
 Moi	PP1CS00	moi-p
 ça	PD0MS00	cela-p
@@ -10056,7 +10056,7 @@ refusés	VMP00PM	refuser-v
 ?	Fit	?-x
 </s>
 
-<s id="483:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.25&end=00.01.29">
+<s id="483:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.25&end=00.01.29">
 
 Les	DA0CP0	le-x
 Anglais	NPMN000	Anglais-n
@@ -10089,7 +10089,7 @@ Juifs	NPMP000	Juifs-n
 !	Fat	!-x
 </s>
 
-<s id="483:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.29&end=00.01.31">
+<s id="483:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.29&end=00.01.31">
 
 Ça	PD0MS00	cela-p
 <g/>
@@ -10103,7 +10103,7 @@ en	SP	en-i
 .	Fp	.-x
 </s>
 
-<s id="483:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.31&end=00.01.34">
+<s id="483:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.31&end=00.01.34">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -10119,7 +10119,7 @@ comme	CS	comme-c
 .	Fp	.-x
 </s>
 
-<s id="483:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.34&end=00.01.36">
+<s id="483:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.34&end=00.01.36">
 
 L'	DA0CS0	le-x
 <g/>
@@ -10137,7 +10137,7 @@ Juifs	NPMP000	Juifs-n
 .	Fp	.-x
 </s>
 
-<s id="483:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.36&end=00.01.38">
+<s id="483:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.36&end=00.01.38">
 
 Les	DA0CP0	le-x
 États-Unis	NP00000	États-Unis-n
@@ -10149,7 +10149,7 @@ Juifs	NPMP000	Juifs-n
 .	Fp	.-x
 </s>
 
-<s id="483:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.38&end=00.01.39">
+<s id="483:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.38&end=00.01.39">
 
 Le	DA0MS0	le-x
 bateau	NCMS000	bateau-n
@@ -10162,7 +10162,7 @@ Saint-Louis	NPMN000	Saint-Louis-n
 .	Fp	.-x
 </s>
 
-<s id="483:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.39&end=00.01.43">
+<s id="483:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.39&end=00.01.43">
 
 J'	PP1CSN0	je-p
 <g/>
@@ -10196,7 +10196,7 @@ problème	NCMS000	problème-n
 .	Fp	.-x
 </s>
 
-<s id="483:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.43&end=00.01.48">
+<s id="483:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.43&end=00.01.48">
 
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
@@ -10226,7 +10226,7 @@ solidaires	AQ0CP00	solidaire-j
 .	Fp	.-x
 </s>
 
-<s id="483:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.48&end=00.01.50">
+<s id="483:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.48&end=00.01.50">
 
 C'	PP0CNN0	ce-p
 <g/>
@@ -10240,7 +10240,7 @@ ouvrir	VMN0000	ouvrir-v
 .	Fp	.-x
 </s>
 
-<s id="483:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.50&end=00.01.51">
+<s id="483:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.50&end=00.01.51">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -10249,21 +10249,21 @@ gueule	NCCS000	gueule-n
 !	Fat	!-x
 </s>
 
-<s id="483:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.51&end=00.01.52">
+<s id="483:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.51&end=00.01.52">
 
 Hein	I	hein-x
 vraiment	RG	vraiment-r
 !	Fat	!-x
 </s>
 
-<s id="483:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.52&end=00.01.52">
+<s id="483:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.52&end=00.01.52">
 
 Hein	I	hein-x
 voilà	I	voilà-x
 !	Fat	!-x
 </s>
 
-<s id="483:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.01.52&end=00.02.10">
+<s id="483:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.01.52&end=00.02.10">
 
 Et	CC	et-c
 moi	PP1CS00	moi-p
@@ -10295,7 +10295,7 @@ chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="483:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.10&end=00.02.13">
+<s id="483:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.10&end=00.02.13">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -10310,7 +10310,7 @@ Paris	NPMP000	Paris-n
 ?	Fit	?-x
 </s>
 
-<s id="483:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.13&end=00.02.17">
+<s id="483:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.13&end=00.02.17">
 
 À	SP	à-i
 Paris	NPMP000	Paris-n
@@ -10333,7 +10333,7 @@ italien	AQ0MS00	italien-j
 .	Fp	.-x
 </s>
 
-<s id="483:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.17&end=00.02.21">
+<s id="483:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.17&end=00.02.21">
 
 La	DA0FS0	le-x
 police	NCFS000	police-n
@@ -10359,7 +10359,7 @@ permis	NCMN000	permis-n
 ?	Fit	?-x
 </s>
 
-<s id="483:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.21&end=00.02.23">
+<s id="483:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.21&end=00.02.23">
 
 "	Fe	"-x
 <g/>
@@ -10377,7 +10377,7 @@ eux	PP3MP00	eux-p
 .	Fp	.-x
 </s>
 
-<s id="483:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.23&end=00.02.26">
+<s id="483:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.23&end=00.02.26">
 
 Ça	PD0MS00	cela-p
 <g/>
@@ -10393,7 +10393,7 @@ aujourd'hui	RG	aujourd'hui-r
 .	Fp	.-x
 </s>
 
-<s id="483:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.26&end=00.02.34">
+<s id="483:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.26&end=00.02.34">
 
 Une	DI0FS0	un-x
 police	NCFS000	police-n
@@ -10437,7 +10437,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="483:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.34&end=00.02.37">
+<s id="483:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.34&end=00.02.37">
 
 Si	CS	si-c
 c'	PP0CNN0	ce-p
@@ -10463,7 +10463,7 @@ trompé	VMP00SM	tromper-v
 .	Fp	.-x
 </s>
 
-<s id="483:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.37&end=00.02.45">
+<s id="483:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.37&end=00.02.45">
 
 On	PP3CSN0	on-p
 s'	PP3CN00	se-p
@@ -10511,7 +10511,7 @@ sécurité	NCFS000	sécurité-n
 .	Fp	.-x
 </s>
 
-<s id="483:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.45&end=00.02.52">
+<s id="483:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.45&end=00.02.52">
 
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
@@ -10548,7 +10548,7 @@ là-bas	RG	là-bas-r
 .	Fp	.-x
 </s>
 
-<s id="483:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.02.52&end=00.03.05">
+<s id="483:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.02.52&end=00.03.05">
 
 Donc	RG	donc-r
 <g/>
@@ -10592,7 +10592,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="483:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.05&end=00.03.06">
+<s id="483:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.05&end=00.03.06">
 
 Il	PP3MSN0	il-p
 n'	RN	ne-r
@@ -10606,7 +10606,7 @@ problème	NCMS000	problème-n
 .	Fp	.-x
 </s>
 
-<s id="483:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.06&end=00.03.21">
+<s id="483:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.06&end=00.03.21">
 
 Donc	RG	donc-r
 <g/>
@@ -10652,7 +10652,7 @@ frontières	NCFP000	frontière-n
 ?	Fit	?-x
 </s>
 
-<s id="483:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.21&end=00.03.24">
+<s id="483:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.21&end=00.03.24">
 
 Si	CS	si-c
 on	PP3CSN0	on-p
@@ -10669,7 +10669,7 @@ facial	AQ0MS00	facial-j
 .	Fp	.-x
 </s>
 
-<s id="483:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.24&end=00.03.29">
+<s id="483:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.24&end=00.03.29">
 
 Non	RG	non-r
 <g/>
@@ -10686,7 +10686,7 @@ arrêté	VMP00SM	arrêter-v
 !	Fat	!-x
 </s>
 
-<s id="483:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.29&end=00.03.32">
+<s id="483:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.29&end=00.03.32">
 
 Non	RG	non-r
 <g/>
@@ -10706,7 +10706,7 @@ plus	RG	plus-r
 !	Fat	!-x
 </s>
 
-<s id="483:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.32&end=00.03.40">
+<s id="483:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.32&end=00.03.40">
 
 Mais	CC	mais-c
 tous	DI0MP0	tout-x
@@ -10733,7 +10733,7 @@ contrôler	VMN0000	contrôler-v
 .	Fp	.-x
 </s>
 
-<s id="483:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.40&end=00.03.42">
+<s id="483:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.40&end=00.03.42">
 
 Et	CC	et-c
 on	PP3CSN0	on-p
@@ -10748,7 +10748,7 @@ carte	NCFS000	carte-n
 .	Fp	.-x
 </s>
 
-<s id="483:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.42&end=00.03.46">
+<s id="483:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.42&end=00.03.46">
 
 Les	DA0CP0	le-x
 Blancs	AQ0MP00	blanc-j
@@ -10768,7 +10768,7 @@ pas	RN	pas-r
 !	Fat	!-x
 </s>
 
-<s id="483:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=483&start=00.03.46&end=00.03.51">
+<s id="483:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=483.mp4&start=00.03.46&end=00.03.51">
 
 Eh	I	eh-x
 bien	RG	bien-r
@@ -15661,7 +15661,7 @@ travailler	VMN0000	travailler-v
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="113" duration="short" durations="55.0" speed="slow" speedwm="123.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1597:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.07&end=00.00.14">
+<s id="1597:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.07&end=00.00.14">
 
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -15700,7 +15700,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1597:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.18&end=00.00.24">
+<s id="1597:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.18&end=00.00.24">
 
 Et	CC	et-c
 donc	CC	donc-c
@@ -15719,7 +15719,7 @@ Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
 
-<s id="1597:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.24&end=00.00.33">
+<s id="1597:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.24&end=00.00.33">
 
 Je	PP1CSN0	je-p
 trouve	VMIP1S0	trouver-v
@@ -15750,7 +15750,7 @@ Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
 
-<s id="1597:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.33&end=00.00.41">
+<s id="1597:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.33&end=00.00.41">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -15791,7 +15791,7 @@ février	NCMS000	février-n
 .	Fp	.-x
 </s>
 
-<s id="1597:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.41&end=00.00.51">
+<s id="1597:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.41&end=00.00.51">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -15836,7 +15836,7 @@ midi	NCMS000	midi-n
 .	Fp	.-x
 </s>
 
-<s id="1597:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.00.52&end=00.01.02">
+<s id="1597:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.00.52&end=00.01.02">
 
 Merci	NCMS000	merci-n
 ,	Fc	,-x
@@ -15870,7 +15870,7 @@ Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
 
-<s id="1597:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597&start=00.01.02&end=00.01.02">
+<s id="1597:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1597.mp4&start=00.01.02&end=00.01.02">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -15884,7 +15884,7 @@ Merci	NCMS000	merci-n
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="476" duration="medium" durations="266.0" speed="slow" speedwm="107.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1598:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.07&end=00.00.21">
+<s id="1598:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.07&end=00.00.21">
 
 Ehm	FPAUSE	ehm
 chers	AQ0MP00	cher-j
@@ -15923,7 +15923,7 @@ Ali	NP00000	Ali-n
 .	Fp	.-x
 </s>
 
-<s id="1598:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.22&end=00.00.29">
+<s id="1598:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.22&end=00.00.29">
 
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -15949,7 +15949,7 @@ Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
 
-<s id="1598:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.30&end=00.00.33">
+<s id="1598:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.30&end=00.00.33">
 
 Et	CC	et-c
 aujourd	AQ0MS0	aujourd-j
@@ -15964,7 +15964,7 @@ attention	NCFS000	attention-n
 .	Fp	.-x
 </s>
 
-<s id="1598:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.34&end=00.00.45">
+<s id="1598:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.34&end=00.00.45">
 
 Des	SP+D	de+les-i
 gouvernements	NCMP000	gouvernement-n
@@ -15995,7 +15995,7 @@ tunisien	AQ0MS00	tunisien-j
 .	Fp	.-x
 </s>
 
-<s id="1598:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.45&end=00.00.55">
+<s id="1598:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.45&end=00.00.55">
 
 Encore	RG	encore-r
 la	DA0FS0	le-x
@@ -16022,7 +16022,7 @@ Ali	NP00000	Ali-n
 .	Fp	.-x
 </s>
 
-<s id="1598:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.00.55&end=00.01.05">
+<s id="1598:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.00.55&end=00.01.05">
 
 Ce	PP0CNN0	ce-p
 qu	NCMS000	qu-n
@@ -16064,14 +16064,14 @@ Occident	NPMS000	Occident-n
 .	Fp	.-x
 </s>
 
-<s id="1598:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.05&end=00.01.06">
+<s id="1598:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.05&end=00.01.06">
 
 Et	CC	et-c
 pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
 
-<s id="1598:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.06&end=00.01.10">
+<s id="1598:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.06&end=00.01.10">
 
 Pour	SP	pour-i
 la	DA0FS0	le-x
@@ -16090,7 +16090,7 @@ islamisme	NCMS000	islamisme-n
 .	Fp	.-x
 </s>
 
-<s id="1598:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.10&end=00.01.22">
+<s id="1598:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.10&end=00.01.22">
 
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
@@ -16144,7 +16144,7 @@ liberté	NCFS000	liberté-n
 ?	Fit	?-x
 </s>
 
-<s id="1598:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.22&end=00.01.33">
+<s id="1598:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.22&end=00.01.33">
 
 Et	CC	et-c
 monsieur	NCMS000	monsieur-n
@@ -16186,7 +16186,7 @@ lui	PP3CS00	lui-p
 .	Fp	.-x
 </s>
 
-<s id="1598:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.33&end=00.01.39">
+<s id="1598:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.33&end=00.01.39">
 
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
@@ -16211,7 +16211,7 @@ Parlement	NPMS000	Parlement-n
 .	Fp	.-x
 </s>
 
-<s id="1598:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.40&end=00.01.43">
+<s id="1598:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.40&end=00.01.43">
 
 Alors	RG	alors-r
 maintenant	RG	maintenant-r
@@ -16230,7 +16230,7 @@ Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
 
-<s id="1598:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.44&end=00.01.55">
+<s id="1598:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.44&end=00.01.55">
 
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
@@ -16271,7 +16271,7 @@ mois	NCMP000	moi-n
 .	Fp	.-x
 </s>
 
-<s id="1598:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.55&end=00.01.57">
+<s id="1598:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.55&end=00.01.57">
 
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
@@ -16287,7 +16287,7 @@ démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
 
-<s id="1598:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.01.58&end=00.02.03">
+<s id="1598:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.01.58&end=00.02.03">
 
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
@@ -16312,7 +16312,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="1598:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.03&end=00.02.06">
+<s id="1598:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.03&end=00.02.06">
 
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
@@ -16331,7 +16331,7 @@ d	AQ0MS0	d-j
 .	Fp	.-x
 </s>
 
-<s id="1598:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.06&end=00.02.21">
+<s id="1598:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.06&end=00.02.21">
 
 C	NP00000	C-n
 <g/>
@@ -16396,7 +16396,7 @@ tunisiennes	NCFP000	tunisien-n
 .	Fp	.-x
 </s>
 
-<s id="1598:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.21&end=00.02.28">
+<s id="1598:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.21&end=00.02.28">
 
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
@@ -16420,13 +16420,13 @@ nationale	AQ0FS00	national-j
 .	Fp	.-x
 </s>
 
-<s id="1598:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.28&end=00.02.28">
+<s id="1598:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.28&end=00.02.28">
 
 Pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
 
-<s id="1598:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.29&end=00.02.50">
+<s id="1598:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.29&end=00.02.50">
 
 Parce	NPFS000	Parce-n
 que	CS	que-c
@@ -16491,7 +16491,7 @@ développer	VMN0000	développer-v
 .	Fp	.-x
 </s>
 
-<s id="1598:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.02.50&end=00.03.04">
+<s id="1598:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.02.50&end=00.03.04">
 
 L	NP00000	L-n
 <g/>
@@ -16544,7 +16544,7 @@ arabes	AQ0CP00	arabe-j
 .	Fp	.-x
 </s>
 
-<s id="1598:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.03.04&end=00.03.22">
+<s id="1598:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.03.04&end=00.03.22">
 
 Démocratie	NCFS000	démocratie-n
 et	CC	et-c
@@ -16603,7 +16603,7 @@ dictateurs	NCMP000	dictateur-n
 .	Fp	.-x
 </s>
 
-<s id="1598:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.03.22&end=00.03.48">
+<s id="1598:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.03.22&end=00.03.48">
 
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
@@ -16690,7 +16690,7 @@ Jordanie	NPFS000	Jordanie-n
 .	Fp	.-x
 </s>
 
-<s id="1598:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.03.48&end=00.03.54">
+<s id="1598:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.03.48&end=00.03.54">
 
 Donc	CC	donc-c
 c	RG	c-r
@@ -16717,7 +16717,7 @@ dit	VMP00SM	dire-v
 :	Fd	:-x
 </s>
 
-<s id="1598:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.03.54&end=00.03.56">
+<s id="1598:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.03.54&end=00.03.56">
 
 "	Fe	"-x
 Ah	I	ah-x
@@ -16732,7 +16732,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="1598:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.03.56&end=00.04.00">
+<s id="1598:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.03.56&end=00.04.00">
 
 On	PP3CSN0	on-p
 ne	RN	ne-r
@@ -16754,7 +16754,7 @@ Pologne	NPFS000	Pologne-n
 .	Fp	.-x
 </s>
 
-<s id="1598:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.04.00&end=00.04.04">
+<s id="1598:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.04.00&end=00.04.04">
 
 On	PP3CSN0	on-p
 ne	RN	ne-r
@@ -16773,7 +16773,7 @@ Russie	NPMS000	Russie-n
 .	Fp	.-x
 </s>
 
-<s id="1598:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.04.04&end=00.04.20">
+<s id="1598:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.04.04&end=00.04.20">
 
 Si	RG	si-r
 à	SP	à-i
@@ -16840,7 +16840,7 @@ Commission	NPFS000	Commission-n
 :	Fd	:-x
 </s>
 
-<s id="1598:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.04.20&end=00.04.33">
+<s id="1598:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.04.20&end=00.04.33">
 
 "	Fe	"-x
 Bougez	VMM02P0	bouger-v
@@ -16879,7 +16879,7 @@ dictature	NCFS000	dictature-n
 .	Fp	.-x
 </s>
 
-<s id="1598:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598&start=00.04.33&end=00.04.34">
+<s id="1598:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1598.mp4&start=00.04.33&end=00.04.34">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -16893,7 +16893,7 @@ Merci	NCMS000	merci-n
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="medium" lengthw="452" duration="medium" durations="214.0" speed="slow" speedwm="126.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1599:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.00.05&end=00.00.16">
+<s id="1599:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.00.05&end=00.00.16">
 
 Président	NCMS000	président-n
 ,	Fc	,-x
@@ -16943,7 +16943,7 @@ nordique	AQ0CS00	nordique-j
 .	Fp	.-x
 </s>
 
-<s id="1599:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.00.16&end=00.00.37">
+<s id="1599:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.00.16&end=00.00.37">
 
 En	SP	en-i
 effet	NCMS000	effet-n
@@ -17017,7 +17017,7 @@ homme	NCMS000	homme-n
 .	Fp	.-x
 </s>
 
-<s id="1599:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.00.38&end=00.00.48">
+<s id="1599:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.00.38&end=00.00.48">
 
 Il	PP3MSN0	il-p
 a	VAIP3S0	avoir-v
@@ -17066,7 +17066,7 @@ seul	AQ0MS00	seul-j
 .	Fp	.-x
 </s>
 
-<s id="1599:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.00.48&end=00.00.51">
+<s id="1599:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.00.48&end=00.00.51">
 
 L	NP00000	L-n
 <g/>
@@ -17080,7 +17080,7 @@ né	VMP00SM	naître-v
 .	Fp	.-x
 </s>
 
-<s id="1599:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.00.51&end=00.01.13">
+<s id="1599:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.00.51&end=00.01.13">
 
 Il	PP3MSN0	il-p
 a	VAIP3S0	avoir-v
@@ -17154,7 +17154,7 @@ samedi	NCMS000	samedi-n
 .	Fp	.-x
 </s>
 
-<s id="1599:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.14&end=00.01.20">
+<s id="1599:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.14&end=00.01.20">
 
 Et	CC	et-c
 que	CS	que-c
@@ -17188,7 +17188,7 @@ nomination	NCFS000	nomination-n
 .	Fp	.-x
 </s>
 
-<s id="1599:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.21&end=00.01.26">
+<s id="1599:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.21&end=00.01.26">
 
 Ces	DD0CP0	ce-x
 mots	NCMP000	mot-n
@@ -17215,7 +17215,7 @@ gorge	NCFS000	gorge-n
 .	Fp	.-x
 </s>
 
-<s id="1599:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.26&end=00.01.32">
+<s id="1599:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.26&end=00.01.32">
 
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
@@ -17236,7 +17236,7 @@ Maghreb	NPMS000	Maghreb-n
 .	Fp	.-x
 </s>
 
-<s id="1599:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.33&end=00.01.42">
+<s id="1599:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.33&end=00.01.42">
 
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
@@ -17272,7 +17272,7 @@ résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
 
-<s id="1599:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.42&end=00.01.46">
+<s id="1599:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.42&end=00.01.46">
 
 Les	DA0CP0	le-x
 instances	NCFP000	instance-n
@@ -17291,7 +17291,7 @@ régimes	NCMP000	régime-n
 .	Fp	.-x
 </s>
 
-<s id="1599:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.46&end=00.01.55">
+<s id="1599:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.46&end=00.01.55">
 
 La	DA0FS0	le-x
 Française	AQ0FS00	français-j
@@ -17323,7 +17323,7 @@ affaires	NCFP000	affaire-n
 .	Fp	.-x
 </s>
 
-<s id="1599:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.01.56&end=00.02.03">
+<s id="1599:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.01.56&end=00.02.03">
 
 Visiblement	RG	visiblement-r
 ,	Fc	,-x
@@ -17353,7 +17353,7 @@ passé	NCMS000	passé-n
 .	Fp	.-x
 </s>
 
-<s id="1599:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.04&end=00.02.14">
+<s id="1599:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.04&end=00.02.14">
 
 Grâce	NCFS000	grâce-n
 au	SP+DA	à+le-i
@@ -17389,7 +17389,7 @@ visage	NCMS000	visage-n
 .	Fp	.-x
 </s>
 
-<s id="1599:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.15&end=00.02.25">
+<s id="1599:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.15&end=00.02.25">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -17420,7 +17420,7 @@ démocratique	AQ0CS00	démocratique-j
 .	Fp	.-x
 </s>
 
-<s id="1599:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.26&end=00.02.37">
+<s id="1599:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.26&end=00.02.37">
 
 L	NP00000	L-n
 <g/>
@@ -17468,7 +17468,7 @@ corruption	NCFS000	corruption-n
 .	Fp	.-x
 </s>
 
-<s id="1599:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.37&end=00.02.47">
+<s id="1599:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.37&end=00.02.47">
 
 Le	DA0MS0	le-x
 toi-	DYSF	toi-
@@ -17502,7 +17502,7 @@ gelés	VMP00PM	geler-v
 .	Fp	.-x
 </s>
 
-<s id="1599:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.47&end=00.02.49">
+<s id="1599:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.47&end=00.02.49">
 
 L	NP00000	L-n
 <g/>
@@ -17514,7 +17514,7 @@ failli	VMP00SM	faillir-v
 .	Fp	.-x
 </s>
 
-<s id="1599:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.49&end=00.02.54">
+<s id="1599:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.49&end=00.02.54">
 
 Un	DI0MS0	un-x
 long	AQ0MS00	long-j
@@ -17531,7 +17531,7 @@ confiance	NCFS000	confiance-n
 .	Fp	.-x
 </s>
 
-<s id="1599:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.02.54&end=00.03.02">
+<s id="1599:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.02.54&end=00.03.02">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -17566,7 +17566,7 @@ là-bas	RG	là-bas-r
 .	Fp	.-x
 </s>
 
-<s id="1599:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.03.02&end=00.03.12">
+<s id="1599:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.03.02&end=00.03.12">
 
 Nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
@@ -17599,7 +17599,7 @@ concernés	VMP00PM	concerner-v
 .	Fp	.-x
 </s>
 
-<s id="1599:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.03.13&end=00.03.17">
+<s id="1599:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.03.13&end=00.03.17">
 
 Des	SP+D	de+les-i
 hommes	NCMP000	homme-n
@@ -17618,7 +17618,7 @@ Mauritanie	NPFS000	Mauritanie-n
 .	Fp	.-x
 </s>
 
-<s id="1599:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.03.17&end=00.03.22">
+<s id="1599:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.03.17&end=00.03.22">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -17646,7 +17646,7 @@ homme	NCMS000	homme-n
 .	Fp	.-x
 </s>
 
-<s id="1599:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599&start=00.03.23&end=00.03.40">
+<s id="1599:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1599.mp4&start=00.03.23&end=00.03.40">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -17716,7 +17716,7 @@ intégristes	NCCP000	intégriste-n
 <speaker name="Lepage Corinne" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="226" duration="short" durations="108.0" speed="slow" speedwm="125.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1600:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.06&end=00.00.23">
+<s id="1600:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.06&end=00.00.23">
 
 Présidente	NCFS000	président-n
 ehm	FPAUSE	ehm
@@ -17776,7 +17776,7 @@ inacceptable	AQ0CS00	inacceptable-j
 .	Fp	.-x
 </s>
 
-<s id="1600:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.23&end=00.00.36">
+<s id="1600:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.23&end=00.00.36">
 
 La	DA0FS0	le-x
 santé	NCFS000	santé-n
@@ -17829,7 +17829,7 @@ sont	VMIP3P0	être-v
 .	Fp	.-x
 </s>
 
-<s id="1600:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.37&end=00.00.42">
+<s id="1600:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.37&end=00.00.42">
 
 Et	CC	et-c
 pourtant	RG	pourtant-r
@@ -17863,7 +17863,7 @@ concitoyens	NCMP000	concitoyen-n
 .	Fp	.-x
 </s>
 
-<s id="1600:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.43&end=00.00.45">
+<s id="1600:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.43&end=00.00.45">
 
 Dès	SP	dès-i
 lors	RG	lors-r
@@ -17874,7 +17874,7 @@ envisagez-vous	VMIP2P0	envisager-v
 ?	Fit	?-x
 </s>
 
-<s id="1600:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.45&end=00.00.58">
+<s id="1600:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.45&end=00.00.58">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -17926,7 +17926,7 @@ alimentation	NCFS000	alimentation-n
 .	Fp	.-x
 </s>
 
-<s id="1600:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.00.58&end=00.01.09">
+<s id="1600:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.00.58&end=00.01.09">
 
 Cela	PD0CS00	cela-p
 doit	VMIP3S0	devoir-v
@@ -17965,7 +17965,7 @@ certitudes	NCFP000	certitude-n
 .	Fp	.-x
 </s>
 
-<s id="1600:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.09&end=00.01.16">
+<s id="1600:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.09&end=00.01.16">
 
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
@@ -17988,7 +17988,7 @@ organisée	VMP00SF	organiser-v
 .	Fp	.-x
 </s>
 
-<s id="1600:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.16&end=00.01.27">
+<s id="1600:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.16&end=00.01.27">
 
 Quelles	DT0FP0	quel-x
 actions	NCFP000	action-n
@@ -18029,7 +18029,7 @@ sécurité	NCFS000	sécurité-n
 ?	Fit	?-x
 </s>
 
-<s id="1600:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.27&end=00.01.36">
+<s id="1600:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.27&end=00.01.36">
 
 Et	CC	et-c
 ,	Fc	,-x
@@ -18062,7 +18062,7 @@ les	DA0CP0	le-x
 ?	Fit	?-x
 </s>
 
-<s id="1600:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.36&end=00.01.42">
+<s id="1600:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.36&end=00.01.42">
 
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
@@ -18099,7 +18099,7 @@ donnée	VMP00SF	donner-v
 .	Fp	.-x
 </s>
 
-<s id="1600:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.42&end=00.01.49">
+<s id="1600:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.42&end=00.01.49">
 
 C	NP00000	C-n
 <g/>
@@ -18135,7 +18135,7 @@ entretemps	NCMN000	entretemps-n
 .	Fp	.-x
 </s>
 
-<s id="1600:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.49&end=00.01.53">
+<s id="1600:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.49&end=00.01.53">
 
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
@@ -18157,7 +18157,7 @@ Commissaire	NPCS000	Commissaire-n
 ?	Fit	?-x
 </s>
 
-<s id="1600:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600&start=00.01.53&end=00.01.54">
+<s id="1600:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1600.mp4&start=00.01.53&end=00.01.54">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -18173,7 +18173,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Dantin Michel" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="212" duration="short" durations="95.0" speed="medium" speedwm="133.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1601:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.05&end=00.00.10">
+<s id="1601:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.05&end=00.00.10">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -18199,7 +18199,7 @@ réjouir	VMN0000	réjouir-v
 .	Fp	.-x
 </s>
 
-<s id="1601:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.11&end=00.00.16">
+<s id="1601:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.11&end=00.00.16">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -18228,7 +18228,7 @@ fonctionné	VMP00SM	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="1601:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.16&end=00.00.22">
+<s id="1601:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.16&end=00.00.22">
 
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
@@ -18249,7 +18249,7 @@ monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
 
-<s id="1601:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.22&end=00.00.27">
+<s id="1601:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.22&end=00.00.27">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -18269,7 +18269,7 @@ esprit	NCMS000	esprit-n
 .	Fp	.-x
 </s>
 
-<s id="1601:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.27&end=00.00.43">
+<s id="1601:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.27&end=00.00.43">
 
 Mais	CC	mais-c
 le	DA0MS0	le-x
@@ -18333,7 +18333,7 @@ retard	NCMS000	retard-n
 .	Fp	.-x
 </s>
 
-<s id="1601:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.00.43&end=00.01.07">
+<s id="1601:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.00.43&end=00.01.07">
 
 Mais	CC	mais-c
 il	PP3MSN0	il-p
@@ -18418,7 +18418,7 @@ qualifiables	AQ0CP00	qualifiable-j
 .	Fp	.-x
 </s>
 
-<s id="1601:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.01.07&end=00.01.14">
+<s id="1601:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.01.07&end=00.01.14">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -18442,7 +18442,7 @@ actes	NCMP000	acte-n
 ?	Fit	?-x
 </s>
 
-<s id="1601:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.01.15&end=00.01.23">
+<s id="1601:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.01.15&end=00.01.23">
 
 Et	CC	et-c
 ma	DP1FSS	mon-x
@@ -18466,7 +18466,7 @@ concernés	VMP00PM	concerner-v
 ?	Fit	?-x
 </s>
 
-<s id="1601:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601&start=00.01.23&end=00.01.41">
+<s id="1601:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1601.mp4&start=00.01.23&end=00.01.41">
 
 Car	CC	car-c
 les	DA0CP0	le-x
@@ -18537,7 +18537,7 @@ normale	NCFS000	normale-n
 <speaker name="Dantin Michel" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="long" lengthw="61" duration="short" durations="26.0" speed="medium" speedwm="140.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1602:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602&start=00.00.04&end=00.00.11">
+<s id="1602:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602.mp4&start=00.00.04&end=00.00.11">
 
 Oui	RG	oui-r
 je	PP1CSN0	je-p
@@ -18575,7 +18575,7 @@ question	NCFS000	question-n
 .	Fp	.-x
 </s>
 
-<s id="1602:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602&start=00.00.11&end=00.00.18">
+<s id="1602:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602.mp4&start=00.00.11&end=00.00.18">
 
 Évidemment	RG	évidemment-r
 ,	Fc	,-x
@@ -18594,7 +18594,7 @@ dérapé	VMP00SM	déraper-v
 .	Fp	.-x
 </s>
 
-<s id="1602:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602&start=00.00.18&end=00.00.24">
+<s id="1602:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602.mp4&start=00.00.18&end=00.00.24">
 
 Mais	CC	mais-c
 je	PP1CSN0	je-p
@@ -18616,7 +18616,7 @@ protection	NCFS000	protection-n
 .	Fp	.-x
 </s>
 
-<s id="1602:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602&start=00.00.24&end=00.00.30">
+<s id="1602:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1602.mp4&start=00.00.24&end=00.00.30">
 
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
@@ -18656,7 +18656,7 @@ monde	NCMS000	monde-n
 <speaker name="Tarabella Marc" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="140" duration="short" durations="60.0" speed="medium" speedwm="140.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1603:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.00.05&end=00.00.16">
+<s id="1603:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.00.05&end=00.00.16">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -18705,7 +18705,7 @@ grand	AQ0MS00	grand-j
 .	Fp	.-x
 </s>
 
-<s id="1603:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.00.17&end=00.00.23">
+<s id="1603:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.00.17&end=00.00.23">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -18737,7 +18737,7 @@ alourdir	VMN0000	alourdir-v
 .	Fp	.-x
 </s>
 
-<s id="1603:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.00.23&end=00.00.25">
+<s id="1603:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.00.23&end=00.00.25">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -18749,7 +18749,7 @@ fonctionner	VMN0000	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="1603:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.00.25&end=00.00.39">
+<s id="1603:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.00.25&end=00.00.39">
 
 Et	CC	et-c
 ,	Fc	,-x
@@ -18818,7 +18818,7 @@ profit	NCMS000	profit-n
 .	Fp	.-x
 </s>
 
-<s id="1603:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.00.40&end=00.01.03">
+<s id="1603:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.00.40&end=00.01.03">
 
 Deux	NCMN000	deux-n
 ,	Fc	,-x
@@ -18892,7 +18892,7 @@ ce	PP0CNN0	ce-p
 .	Fp	.-x
 </s>
 
-<s id="1603:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.01.03&end=00.01.05">
+<s id="1603:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.01.03&end=00.01.05">
 
 J	NPFS000	J-n
 <g/>
@@ -18911,7 +18911,7 @@ Commissaire	NPCS000	Commissaire-n
 .	Fp	.-x
 </s>
 
-<s id="1603:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603&start=00.01.06&end=00.01.06">
+<s id="1603:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1603.mp4&start=00.01.06&end=00.01.06">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -18925,7 +18925,7 @@ Merci	NCMS000	merci-n
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="medium" lengthw="753" duration="long" durations="369.0" speed="slow" speedwm="122.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1604:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.00.07&end=00.00.39">
+<s id="1604:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.00.07&end=00.00.39">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -19016,7 +19016,7 @@ importance	NCFS000	importance-n
 .	Fp	.-x
 </s>
 
-<s id="1604:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.00.40&end=00.00.43">
+<s id="1604:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.00.40&end=00.00.43">
 
 Vous	PP2CP00	vous-p
 le	PP3MSA0	le-p
@@ -19029,7 +19029,7 @@ recule	VMIP3S0	reculer-v
 .	Fp	.-x
 </s>
 
-<s id="1604:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.00.43&end=00.00.56">
+<s id="1604:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.00.43&end=00.00.56">
 
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
@@ -19087,7 +19087,7 @@ dramatique	AQ0CS00	dramatique-j
 .	Fp	.-x
 </s>
 
-<s id="1604:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.00.56&end=00.01.12">
+<s id="1604:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.00.56&end=00.01.12">
 
 C	NP00000	C-n
 <g/>
@@ -19141,7 +19141,7 @@ terrestre	AQ0CS00	terrestre-j
 .	Fp	.-x
 </s>
 
-<s id="1604:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.01.12&end=00.01.22">
+<s id="1604:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.01.12&end=00.01.22">
 
 C	NP00000	C-n
 <g/>
@@ -19178,7 +19178,7 @@ serre	NCFS000	serre-n
 .	Fp	.-x
 </s>
 
-<s id="1604:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.01.22&end=00.01.33">
+<s id="1604:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.01.22&end=00.01.33">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -19209,7 +19209,7 @@ forêt	NCFS000	forêt-n
 .	Fp	.-x
 </s>
 
-<s id="1604:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.01.34&end=00.01.46">
+<s id="1604:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.01.34&end=00.01.46">
 
 L	NP00000	L-n
 <g/>
@@ -19255,7 +19255,7 @@ Congo	NPMS000	Congo-n
 .	Fp	.-x
 </s>
 
-<s id="1604:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.01.46&end=00.01.58">
+<s id="1604:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.01.46&end=00.01.58">
 
 On	PP3CSN0	on-p
 estime	VMIP1S0	estimer-v
@@ -19297,7 +19297,7 @@ essentiel	AQ0MS00	essentiel-j
 .	Fp	.-x
 </s>
 
-<s id="1604:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.02.00&end=00.02.28">
+<s id="1604:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.02.00&end=00.02.28">
 
 Ehm	FPAUSE	ehm
 ces	DD0CP0	ce-x
@@ -19378,7 +19378,7 @@ non	RG	non-r
 .	Fp	.-x
 </s>
 
-<s id="1604:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.02.29&end=00.02.41">
+<s id="1604:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.02.29&end=00.02.41">
 
 Et	CC	et-c
 donc	RG	donc-r
@@ -19431,7 +19431,7 @@ Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
 
-<s id="1604:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.02.42&end=00.02.48">
+<s id="1604:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.02.42&end=00.02.48">
 
 Alors	RG	alors-r
 cette	DD0FS0	ce-x
@@ -19457,7 +19457,7 @@ bois	NCMN000	bois-n
 .	Fp	.-x
 </s>
 
-<s id="1604:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.02.48&end=00.02.59">
+<s id="1604:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.02.48&end=00.02.59">
 
 Ils	PP3MPN0	ils-p
 mettent	VMIP3P0	mettre-v
@@ -19489,7 +19489,7 @@ concernés	VMP00PM	concerner-v
 .	Fp	.-x
 </s>
 
-<s id="1604:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.02.59&end=00.03.03">
+<s id="1604:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.02.59&end=00.03.03">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -19506,7 +19506,7 @@ Cameroun	NPMS000	Cameroun-n
 .	Fp	.-x
 </s>
 
-<s id="1604:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.03.04&end=00.03.16">
+<s id="1604:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.03.04&end=00.03.16">
 
 Mais	CC	mais-c
 déjà	RG	déjà-r
@@ -19547,7 +19547,7 @@ durable	AQ0CS00	durable-j
 .	Fp	.-x
 </s>
 
-<s id="1604:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.03.17&end=00.03.27">
+<s id="1604:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.03.17&end=00.03.27">
 
 Évidemment	RG	évidemment-r
 ,	Fc	,-x
@@ -19579,7 +19579,7 @@ forestière	AQ0FS00	forestier-j
 .	Fp	.-x
 </s>
 
-<s id="1604:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.03.27&end=00.04.03">
+<s id="1604:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.03.27&end=00.04.03">
 
 Donc	RG	donc-r
 ,	Fc	,-x
@@ -19690,7 +19690,7 @@ déforestation	NCFS000	déforestation-n
 .	Fp	.-x
 </s>
 
-<s id="1604:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.04.03&end=00.04.12">
+<s id="1604:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.04.03&end=00.04.12">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -19729,7 +19729,7 @@ sols	NCMP000	sol-n
 .	Fp	.-x
 </s>
 
-<s id="1604:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.04.12&end=00.04.22">
+<s id="1604:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.04.12&end=00.04.22">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -19763,7 +19763,7 @@ agrocarburants	NCMP000	agrocarburants-n
 .	Fp	.-x
 </s>
 
-<s id="1604:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.04.22&end=00.04.42">
+<s id="1604:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.04.22&end=00.04.42">
 
 Alors	RG	alors-r
 concernant	VMG0000	concerner-v
@@ -19821,7 +19821,7 @@ Congo	NPMS000	Congo-n
 ;	Fx	;-x
 </s>
 
-<s id="1604:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.04.42&end=00.04.48">
+<s id="1604:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.04.42&end=00.04.48">
 
 on	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -19855,7 +19855,7 @@ succès	NCMN000	succès-n
 .	Fp	.-x
 </s>
 
-<s id="1604:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.04.49&end=00.05.07">
+<s id="1604:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.04.49&end=00.05.07">
 
 Mais	CC	mais-c
 ,	Fc	,-x
@@ -19936,7 +19936,7 @@ accord	NCMS000	accord-n
 ?	Fit	?-x
 </s>
 
-<s id="1604:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.05.07&end=00.05.41">
+<s id="1604:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.05.07&end=00.05.41">
 
 Parce	NPFS000	Parce-n
 qu	VMP00SM	qu-v
@@ -20084,7 +20084,7 @@ plus	RG	plus-r
 .	Fp	.-x
 </s>
 
-<s id="1604:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.05.42&end=00.06.02">
+<s id="1604:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.05.42&end=00.06.02">
 
 De	SP	de-i
 la	DA0FS0	le-x
@@ -20163,7 +20163,7 @@ est	VMIP3S0	être-v
 .	Fp	.-x
 </s>
 
-<s id="1604:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.06.02&end=00.06.15">
+<s id="1604:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.06.02&end=00.06.15">
 
 Enfin	RG	enfin-r
 un	DI0MS0	un-x
@@ -20219,7 +20219,7 @@ volontaire	AQ0CS00	volontaire-j
 ?	Fit	?-x
 </s>
 
-<s id="1604:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604&start=00.06.15&end=00.06.16">
+<s id="1604:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1604.mp4&start=00.06.15&end=00.06.16">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -20233,7 +20233,7 @@ Merci	NCMS000	merci-n
 <speaker name="Joly Eva" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="142" duration="short" durations="81.0" speed="slow" speedwm="105.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1605:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.00.05&end=00.00.08">
+<s id="1605:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.00.05&end=00.00.08">
 
 Madame	NCFS000	monsieur-n
 le	DA0MS0	le-x
@@ -20248,7 +20248,7 @@ collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
 
-<s id="1605:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.00.09&end=00.00.21">
+<s id="1605:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.00.09&end=00.00.21">
 
 Ces	DD0CP0	ce-x
 accords	NCMP000	accord-n
@@ -20286,7 +20286,7 @@ biodiversité	NCFS000	biodiversité-n
 .	Fp	.-x
 </s>
 
-<s id="1605:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.00.21&end=00.00.28">
+<s id="1605:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.00.21&end=00.00.28">
 
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
@@ -20315,7 +20315,7 @@ vigilance	NCFS000	vigilance-n
 .	Fp	.-x
 </s>
 
-<s id="1605:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.00.29&end=00.00.58">
+<s id="1605:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.00.29&end=00.00.58">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -20392,7 +20392,7 @@ effective	AQ0FS00	effectif-j
 .	Fp	.-x
 </s>
 
-<s id="1605:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.00.59&end=00.01.10">
+<s id="1605:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.00.59&end=00.01.10">
 
 Elle	PP3FS00	elle-p
 doit	VMIP3S0	devoir-v
@@ -20426,7 +20426,7 @@ forestière	AQ0FS00	forestier-j
 .	Fp	.-x
 </s>
 
-<s id="1605:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.01.10&end=00.01.25">
+<s id="1605:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.01.10&end=00.01.25">
 
 Cet	DD0MS0	ce-x
 accord	NCMS000	accord-n
@@ -20467,7 +20467,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1605:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605&start=00.01.25&end=00.01.26">
+<s id="1605:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1605.wmv&start=00.01.25&end=00.01.26">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -20481,7 +20481,7 @@ Merci	NCMS000	merci-n
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="short" lengthw="260" duration="medium" durations="124.0" speed="slow" speedwm="125.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1606:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.00.07&end=00.00.12">
+<s id="1606:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.00.07&end=00.00.12">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -20501,7 +20501,7 @@ intervenus	VMP00PM	intervenir-v
 .	Fp	.-x
 </s>
 
-<s id="1606:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.00.12&end=00.00.28">
+<s id="1606:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.00.12&end=00.00.28">
 
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
@@ -20555,7 +20555,7 @@ civile	AQ0FS00	civil-j
 .	Fp	.-x
 </s>
 
-<s id="1606:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.00.28&end=00.00.39">
+<s id="1606:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.00.28&end=00.00.39">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -20605,7 +20605,7 @@ civile	AQ0FS00	civil-j
 .	Fp	.-x
 </s>
 
-<s id="1606:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.00.39&end=00.00.52">
+<s id="1606:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.00.39&end=00.00.52">
 
 Tant	RG	tant-r
 que	CS	que-c
@@ -20661,7 +20661,7 @@ suffisamment	RG	suffisamment-r
 .	Fp	.-x
 </s>
 
-<s id="1606:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.00.52&end=00.01.11">
+<s id="1606:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.00.52&end=00.01.11">
 
 Donc	RG	donc-r
 ,	Fc	,-x
@@ -20731,7 +20731,7 @@ essentiel	AQ0MS00	essentiel-j
 .	Fp	.-x
 </s>
 
-<s id="1606:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.01.11&end=00.01.20">
+<s id="1606:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.01.11&end=00.01.20">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -20776,7 +20776,7 @@ Chine	NPCS000	Chine-n
 .	Fp	.-x
 </s>
 
-<s id="1606:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.01.20&end=00.01.36">
+<s id="1606:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.01.20&end=00.01.36">
 
 Pourquoi	PT00000	pourquoi-p
 est-ce	VMIP3S0	être-v
@@ -20838,7 +20838,7 @@ pillage	NCMS000	pillage-n
 ?	Fit	?-x
 </s>
 
-<s id="1606:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.01.36&end=00.01.46">
+<s id="1606:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.01.36&end=00.01.46">
 
 Eh	I	eh-x
 ben	I	ben-x
@@ -20879,7 +20879,7 @@ Sud	NPMS000	Sud-n
 .	Fp	.-x
 </s>
 
-<s id="1606:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.01.47&end=00.02.04">
+<s id="1606:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.01.47&end=00.02.04">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -20961,7 +20961,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1606:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.02.04&end=00.02.08">
+<s id="1606:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.02.04&end=00.02.08">
 
 Merci	NCMS000	merci-n
 de	SP	de-i
@@ -20976,7 +20976,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1606:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606&start=00.02.08&end=00.02.11">
+<s id="1606:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1606.mp4&start=00.02.08&end=00.02.11">
 
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -20998,7 +20998,7 @@ venir	VMN0000	venir-v
 <speaker name="Hoarau Elie" gender="M" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="188" duration="short" durations="104.0" speed="slow" speedwm="108.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1607:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.00.06&end=00.00.23">
+<s id="1607:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.00.06&end=00.00.23">
 
 Oui	RG	oui-r
 merci	NCMS000	merci-n
@@ -21060,7 +21060,7 @@ signataires	NCCP000	signataire-n
 .	Fp	.-x
 </s>
 
-<s id="1607:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.00.23&end=00.00.38">
+<s id="1607:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.00.23&end=00.00.38">
 
 À	SP	à-i
 l	NCMS000	l-n
@@ -21108,7 +21108,7 @@ régionale	AQ0FS00	régional-j
 .	Fp	.-x
 </s>
 
-<s id="1607:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.00.39&end=00.01.04">
+<s id="1607:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.00.39&end=00.01.04">
 
 Comment	PT00000	comment-p
 ne	RN	ne-r
@@ -21188,7 +21188,7 @@ développement	NCMS000	développement-n
 ?	Fit	?-x
 </s>
 
-<s id="1607:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.01.04&end=00.01.25">
+<s id="1607:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.01.04&end=00.01.25">
 
 Ces	DD0CP0	ce-x
 fortes	AQ0FP00	fort-j
@@ -21247,7 +21247,7 @@ novembre	NCMS000	novembre-n
 .	Fp	.-x
 </s>
 
-<s id="1607:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.01.25&end=00.01.36">
+<s id="1607:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.01.25&end=00.01.36">
 
 La	DA0FS0	le-x
 réalité	NCFS000	réalité-n
@@ -21282,7 +21282,7 @@ vigueur	NCFS000	vigueur-n
 .	Fp	.-x
 </s>
 
-<s id="1607:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607&start=00.01.36&end=00.01.50">
+<s id="1607:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1607.mp4&start=00.01.36&end=00.01.50">
 
 Un	DI0MS0	un-x
 échec	NCMS000	échec-n
@@ -21336,7 +21336,7 @@ juin	NCMS000	juin-n
 <speaker name="Cadec Alain" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="241" duration="short" durations="95.0" speed="medium" speedwm="152.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1608:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.05&end=00.00.19">
+<s id="1608:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.05&end=00.00.19">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -21396,7 +21396,7 @@ dangereuse	AQ0FS00	dangereux-j
 .	Fp	.-x
 </s>
 
-<s id="1608:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.19&end=00.00.29">
+<s id="1608:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.19&end=00.00.29">
 
 Ce	DD0MS0	ce-x
 pays	NCMN000	pays-n
@@ -21441,7 +21441,7 @@ marché	NCMS000	marché-n
 .	Fp	.-x
 </s>
 
-<s id="1608:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.29&end=00.00.32">
+<s id="1608:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.29&end=00.00.32">
 
 Je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -21464,7 +21464,7 @@ oeuvre	NCCS000	œuvre-n
 .	Fp	.-x
 </s>
 
-<s id="1608:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.32&end=00.00.38">
+<s id="1608:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.32&end=00.00.38">
 
 En	SP	en-i
 revanche	NCFS000	revanche-n
@@ -21488,7 +21488,7 @@ inacceptable	AQ0CS00	inacceptable-j
 .	Fp	.-x
 </s>
 
-<s id="1608:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.38&end=00.00.46">
+<s id="1608:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.38&end=00.00.46">
 
 Cette	DD0FS0	ce-x
 dérogation	NCFS000	dérogation-n
@@ -21528,7 +21528,7 @@ locale	AQ0FS00	local-j
 .	Fp	.-x
 </s>
 
-<s id="1608:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.46&end=00.00.51">
+<s id="1608:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.46&end=00.00.51">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -21555,7 +21555,7 @@ concernées	VMP00PF	concerner-v
 .	Fp	.-x
 </s>
 
-<s id="1608:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.52&end=00.00.58">
+<s id="1608:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.52&end=00.00.58">
 
 Les	DA0CP0	le-x
 importations	NCFP000	importation-n
@@ -21576,7 +21576,7 @@ de	SP	de-i
 .	Fp	.-x
 </s>
 
-<s id="1608:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.00.58&end=00.01.00">
+<s id="1608:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.00.58&end=00.01.00">
 
 Elles	PP3FP00	elles-p
 ont	VAIP3P0	avoir-v
@@ -21588,7 +21588,7 @@ seulement	RG	seulement-r
 .	Fp	.-x
 </s>
 
-<s id="1608:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.00&end=00.01.03">
+<s id="1608:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.00&end=00.01.03">
 
 Ce	DD0MS0	ce-x
 phénomène	NCMS000	phénomène-n
@@ -21607,7 +21607,7 @@ maintenue	VMP00SF	maintenir-v
 .	Fp	.-x
 </s>
 
-<s id="1608:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.04&end=00.01.11">
+<s id="1608:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.04&end=00.01.11">
 
 De	SP	de-i
 plus	RG	plus-r
@@ -21641,7 +21641,7 @@ européens	AQ0MP00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1608:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.12&end=00.01.15">
+<s id="1608:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.12&end=00.01.15">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -21658,7 +21658,7 @@ captures	NCFP000	capture-n
 .	Fp	.-x
 </s>
 
-<s id="1608:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.16&end=00.01.24">
+<s id="1608:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.16&end=00.01.24">
 
 Mes	DP1CPS	mon-x
 chers	AQ0MP00	cher-j
@@ -21706,7 +21706,7 @@ européenne	AQ0FS00	européen-j
 ?	Fit	?-x
 </s>
 
-<s id="1608:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.25&end=00.01.27">
+<s id="1608:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.25&end=00.01.27">
 
 En	SP	en-i
 tous	DI0MP0	tout-x
@@ -21730,7 +21730,7 @@ désespérer	VMN0000	désespérer-v
 .	Fp	.-x
 </s>
 
-<s id="1608:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.27&end=00.01.33">
+<s id="1608:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.27&end=00.01.33">
 
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
@@ -21756,7 +21756,7 @@ sorte	NCFS000	sorte-n
 .	Fp	.-x
 </s>
 
-<s id="1608:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.33&end=00.01.39">
+<s id="1608:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.33&end=00.01.39">
 
 Je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -21785,7 +21785,7 @@ durablement	RG	durablement-r
 .	Fp	.-x
 </s>
 
-<s id="1608:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608&start=00.01.39&end=00.01.41">
+<s id="1608:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1608.mp4&start=00.01.39&end=00.01.41">
 
 Merci	NCMS000	merci-n
 mes	DP1CPS	mon-x
@@ -21802,7 +21802,7 @@ collègues	NCCP000	collègue-n
 <speaker name="Juvin Philippe" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="165" duration="short" durations="71.0" speed="medium" speedwm="139.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1609:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.05&end=00.00.09">
+<s id="1609:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.05&end=00.00.09">
 
 En	SP	en-i
 Irak	NPMS000	Irak-n
@@ -21820,7 +21820,7 @@ disent	VMIP3P0	dire-v
 :	Fd	:-x
 </s>
 
-<s id="1609:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.09&end=00.00.10">
+<s id="1609:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.09&end=00.00.10">
 
 "	Fe	"-x
 Notre	DP1CSP	notre-x
@@ -21831,7 +21831,7 @@ lourd	AQ0MS00	lourd-j
 .	Fp	.-x
 </s>
 
-<s id="1609:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.11&end=00.00.16">
+<s id="1609:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.11&end=00.00.16">
 
 Bientôt	RG	bientôt-r
 ,	Fc	,-x
@@ -21860,7 +21860,7 @@ christianisme	NCMS000	christianisme-n
 .	Fp	.-x
 </s>
 
-<s id="1609:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.16&end=00.00.26">
+<s id="1609:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.16&end=00.00.26">
 
 En	PP3CN00	en-p
 Turquie	NP00000	Turquie-n
@@ -21914,7 +21914,7 @@ hui	RG	hui-r
 .	Fp	.-x
 </s>
 
-<s id="1609:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.26&end=00.00.29">
+<s id="1609:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.26&end=00.00.29">
 
 Le	DA0MS0	le-x
 mouvement	NCMS000	mouvement-n
@@ -21931,7 +21931,7 @@ fond	NCMS000	fond-n
 .	Fp	.-x
 </s>
 
-<s id="1609:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.30&end=00.00.38">
+<s id="1609:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.30&end=00.00.38">
 
 Dans	SP	dans-i
 le	DA0MS0	le-x
@@ -21958,7 +21958,7 @@ tue	VMIP1S0	tuer-v
 .	Fp	.-x
 </s>
 
-<s id="1609:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.39&end=00.00.42">
+<s id="1609:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.39&end=00.00.42">
 
 On	PP3CSN0	on-p
 voit	VMIP3S0	voir-v
@@ -21983,7 +21983,7 @@ d	AQ0MS0	d-j
 .	Fp	.-x
 </s>
 
-<s id="1609:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.42&end=00.00.47">
+<s id="1609:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.42&end=00.00.47">
 
 Le	DA0MS0	le-x
 résultat	NCMS000	résultat-n
@@ -22002,7 +22002,7 @@ monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
 
-<s id="1609:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.47&end=00.00.56">
+<s id="1609:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.47&end=00.00.56">
 
 Or	CC	or-c
 ,	Fc	,-x
@@ -22050,7 +22050,7 @@ islam	NCMS000	islam-n
 .	Fp	.-x
 </s>
 
-<s id="1609:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.00.57&end=00.01.02">
+<s id="1609:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.00.57&end=00.01.02">
 
 La	DA0FS0	le-x
 présence	NCFS000	présence-n
@@ -22074,7 +22074,7 @@ défendre	VMN0000	défendre-v
 .	Fp	.-x
 </s>
 
-<s id="1609:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609&start=00.01.03&end=00.01.17">
+<s id="1609:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1609.wmv&start=00.01.03&end=00.01.17">
 
 Et	CC	et-c
 vraiment	RG	vraiment-r
@@ -22146,7 +22146,7 @@ religion	NCFS000	religion-n
 <speaker name="Daerden Frédéric" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="135" duration="short" durations="68.0" speed="slow" speedwm="119.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1610:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.10&end=00.00.22">
+<s id="1610:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.10&end=00.00.22">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -22190,7 +22190,7 @@ Budapest	NPMS000	Budapest-n
 .	Fp	.-x
 </s>
 
-<s id="1610:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.22&end=00.00.33">
+<s id="1610:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.22&end=00.00.33">
 
 Cette	DD0FS0	ce-x
 scientifique	AQ0CS00	scientifique-j
@@ -22224,7 +22224,7 @@ scientifiques	AQ0CP00	scientifique-j
 .	Fp	.-x
 </s>
 
-<s id="1610:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.33&end=00.00.39">
+<s id="1610:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.33&end=00.00.39">
 
 L	NP00000	L-n
 <g/>
@@ -22246,7 +22246,7 @@ internationalement	RG	internationalement-r
 .	Fp	.-x
 </s>
 
-<s id="1610:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.41&end=00.00.48">
+<s id="1610:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.41&end=00.00.48">
 
 Des	SP+D	de+les-i
 institutions	NCFP000	institution-n
@@ -22273,7 +22273,7 @@ belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
 
-<s id="1610:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.48&end=00.00.57">
+<s id="1610:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.48&end=00.00.57">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -22312,7 +22312,7 @@ Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
 
-<s id="1610:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.00.58&end=00.01.10">
+<s id="1610:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.00.58&end=00.01.10">
 
 Cette	DD0FS0	ce-x
 décision	NCFS000	décision-n
@@ -22346,7 +22346,7 @@ celle-ci	PD0FS00	celui-ci-p
 .	Fp	.-x
 </s>
 
-<s id="1610:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.01.10&end=00.01.18">
+<s id="1610:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.01.10&end=00.01.18">
 
 Je	PP1CSN0	je-p
 m	NCMS000	m-n
@@ -22378,7 +22378,7 @@ hongrois	AQ0MN00	hongrois-j
 .	Fp	.-x
 </s>
 
-<s id="1610:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610&start=00.01.18&end=00.01.19">
+<s id="1610:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1610.wmv&start=00.01.18&end=00.01.19">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -22394,7 +22394,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Le Grip Constance" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="156" duration="short" durations="79.0" speed="slow" speedwm="118.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1611:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.00.07&end=00.00.20">
+<s id="1611:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.00.07&end=00.00.20">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -22444,7 +22444,7 @@ Orient	NPMS000	Orient-n
 .	Fp	.-x
 </s>
 
-<s id="1611:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.00.20&end=00.00.25">
+<s id="1611:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.00.20&end=00.00.25">
 
 Nul	DI0MS0	nul-x
 n	NCFS000	n-n
@@ -22464,7 +22464,7 @@ perpétrés	VMP00PM	perpétrer-v
 .	Fp	.-x
 </s>
 
-<s id="1611:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.00.25&end=00.00.50">
+<s id="1611:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.00.25&end=00.00.50">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -22549,7 +22549,7 @@ universelles	AQ0FP00	universel-j
 .	Fp	.-x
 </s>
 
-<s id="1611:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.00.51&end=00.01.00">
+<s id="1611:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.00.51&end=00.01.00">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -22588,7 +22588,7 @@ actes	NCMP000	acte-n
 .	Fp	.-x
 </s>
 
-<s id="1611:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.01.00&end=00.01.24">
+<s id="1611:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.01.00&end=00.01.24">
 
 Et	CC	et-c
 donc	RG	donc-r
@@ -22676,7 +22676,7 @@ priorité	NCFS000	priorité-n
 .	Fp	.-x
 </s>
 
-<s id="1611:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611&start=00.01.24&end=00.01.25">
+<s id="1611:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1611.wmv&start=00.01.24&end=00.01.25">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -22692,7 +22692,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Striffler Michèle" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="478" duration="medium" durations="211.0" speed="medium" speedwm="135.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1612:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.05&end=00.00.16">
+<s id="1612:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.05&end=00.00.16">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -22738,7 +22738,7 @@ intervention	NCFS000	intervention-n
 .	Fp	.-x
 </s>
 
-<s id="1612:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.17&end=00.00.25">
+<s id="1612:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.17&end=00.00.25">
 
 Le	DA0MS0	le-x
 Consensus	NPMN000	Consensus-n
@@ -22768,7 +22768,7 @@ mutation	NCFS000	mutation-n
 .	Fp	.-x
 </s>
 
-<s id="1612:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.26&end=00.00.32">
+<s id="1612:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.26&end=00.00.32">
 
 Les	DA0CP0	le-x
 défis	NCMP000	défi-n
@@ -22796,7 +22796,7 @@ action	NCFS000	action-n
 .	Fp	.-x
 </s>
 
-<s id="1612:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.32&end=00.00.38">
+<s id="1612:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.32&end=00.00.38">
 
 Cependant	RG	cependant-r
 ,	Fc	,-x
@@ -22813,7 +22813,7 @@ humanitaires	AQ0CP00	humanitaire-j
 .	Fp	.-x
 </s>
 
-<s id="1612:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.38&end=00.00.46">
+<s id="1612:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.38&end=00.00.46">
 
 Un	DI0MS0	un-x
 effert-	DYSF	effert-
@@ -22843,7 +22843,7 @@ impliqués	VMP00PM	impliquer-v
 .	Fp	.-x
 </s>
 
-<s id="1612:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.47&end=00.00.55">
+<s id="1612:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.47&end=00.00.55">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -22876,7 +22876,7 @@ militaires	AQ0CP00	militaire-j
 .	Fp	.-x
 </s>
 
-<s id="1612:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.00.56&end=00.01.18">
+<s id="1612:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.00.56&end=00.01.18">
 
 En	SP	en-i
 2009	Z	2009-m
@@ -22959,7 +22959,7 @@ COPS	NPMN000	COPS-n
 .	Fp	.-x
 </s>
 
-<s id="1612:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.01.18&end=00.01.43">
+<s id="1612:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.01.18&end=00.01.43">
 
 La	DA0FS0	le-x
 révision	NCFS000	révision-n
@@ -23055,7 +23055,7 @@ humanitaire	AQ0CS00	humanitaire-j
 .	Fp	.-x
 </s>
 
-<s id="1612:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.01.44&end=00.01.52">
+<s id="1612:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.01.44&end=00.01.52">
 
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
@@ -23094,7 +23094,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1612:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.01.52&end=00.02.03">
+<s id="1612:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.01.52&end=00.02.03">
 
 Troisièmement	NP00000	Troisièmement-n
 ,	Fc	,-x
@@ -23129,7 +23129,7 @@ unies	VMP00PF	unir-v
 .	Fp	.-x
 </s>
 
-<s id="1612:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.02.03&end=00.02.17">
+<s id="1612:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.02.03&end=00.02.17">
 
 La	DA0FS0	le-x
 distinction	NCFS000	distinction-n
@@ -23164,7 +23164,7 @@ mutuelle	AQ0FS00	mutuel-j
 .	Fp	.-x
 </s>
 
-<s id="1612:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.02.17&end=00.02.36">
+<s id="1612:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.02.17&end=00.02.36">
 
 De	SP	de-i
 plus	RG	plus-r
@@ -23227,7 +23227,7 @@ catastrophe	NCFS000	catastrophe-n
 .	Fp	.-x
 </s>
 
-<s id="1612:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.02.36&end=00.02.46">
+<s id="1612:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.02.36&end=00.02.46">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -23266,7 +23266,7 @@ développement	NCMS000	développement-n
 .	Fp	.-x
 </s>
 
-<s id="1612:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.02.46&end=00.02.50">
+<s id="1612:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.02.46&end=00.02.50">
 
 Le	DA0MS0	le-x
 traité	NCMS000	traité-n
@@ -23285,7 +23285,7 @@ extérieure	AQ0FS00	extérieur-j
 .	Fp	.-x
 </s>
 
-<s id="1612:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.02.50&end=00.03.02">
+<s id="1612:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.02.50&end=00.03.02">
 
 Nous	PP1CP00	nous-p
 nous	PP1CP00	nous-p
@@ -23328,7 +23328,7 @@ politiques	AQ0CP00	politique-j
 .	Fp	.-x
 </s>
 
-<s id="1612:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.03.03&end=00.03.15">
+<s id="1612:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.03.03&end=00.03.15">
 
 Des	SP+D	de+les-i
 règles	NCFP000	règle-n
@@ -23372,7 +23372,7 @@ ampleur	NCFS000	ampleur-n
 .	Fp	.-x
 </s>
 
-<s id="1612:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.03.16&end=00.03.36">
+<s id="1612:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.03.16&end=00.03.36">
 
 Pour	SP	pour-i
 finir	VMN0000	finir-v
@@ -23441,7 +23441,7 @@ urgence	NCFS000	urgence-n
 .	Fp	.-x
 </s>
 
-<s id="1612:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612&start=00.03.36&end=00.03.37">
+<s id="1612:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1612.wmv&start=00.03.36&end=00.03.37">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -23458,7 +23458,7 @@ Président	NPMS000	Président-n
 <speaker name="Záborská Anna" gender="F" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="110" duration="short" durations="59.0" speed="slow" speedwm="111.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1613:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.04&end=00.00.06">
+<s id="1613:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.04&end=00.00.06">
 
 Ehm	FPAUSE	ehm
 merci	NCMS000	merci-n
@@ -23468,7 +23468,7 @@ Président	NPMS000	Président-n
 .	Fp	.-x
 </s>
 
-<s id="1613:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.07&end=00.00.09">
+<s id="1613:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.07&end=00.00.09">
 
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
@@ -23481,7 +23481,7 @@ rapport	NCMS000	rapport-n
 .	Fp	.-x
 </s>
 
-<s id="1613:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.10&end=00.00.17">
+<s id="1613:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.10&end=00.00.17">
 
 Il	PP3MSN0	il-p
 omet	VMIP3S0	omettre-v
@@ -23505,7 +23505,7 @@ chrétienne	AQ0FS00	chrétien-j
 .	Fp	.-x
 </s>
 
-<s id="1613:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.18&end=00.00.31">
+<s id="1613:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.18&end=00.00.31">
 
 Le	DA0MS0	le-x
 texte	NCMS000	texte-n
@@ -23549,7 +23549,7 @@ Malte	VMIP3S0	malter-v
 .	Fp	.-x
 </s>
 
-<s id="1613:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.31&end=00.00.42">
+<s id="1613:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.31&end=00.00.42">
 
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
@@ -23583,7 +23583,7 @@ humanitaire	AQ0CS00	humanitaire-j
 .	Fp	.-x
 </s>
 
-<s id="1613:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.42&end=00.00.53">
+<s id="1613:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.42&end=00.00.53">
 
 Les	DA0CP0	le-x
 religions	NCFP000	religion-n
@@ -23622,7 +23622,7 @@ naturelle	AQ0FS00	naturel-j
 .	Fp	.-x
 </s>
 
-<s id="1613:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.00.53&end=00.01.03">
+<s id="1613:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.00.53&end=00.01.03">
 
 J	NP00000	J-n
 <g/>
@@ -23659,7 +23659,7 @@ chrétienne	AQ0FS00	chrétien-j
 .	Fp	.-x
 </s>
 
-<s id="1613:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613&start=00.01.03&end=00.01.04">
+<s id="1613:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1613.mp4&start=00.01.03&end=00.01.04">
 
 Merci	NCMS000	merci-n
 beaucoup	RG	beaucoup-r
@@ -23674,7 +23674,7 @@ beaucoup	RG	beaucoup-r
 <speaker name="Leterme Yves" gender="M" country="Belgium" politfunc="Guest" politgroup="NA">
 <st language="fr" length="short" lengthw="329" duration="medium" durations="153.0" speed="slow" speedwm="129.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1614:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.00.06&end=00.00.46">
+<s id="1614:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.00.06&end=00.00.46">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -23757,7 +23757,7 @@ piste	NCFS000	piste-n
 .	Fp	.-x
 </s>
 
-<s id="1614:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.00.47&end=00.00.53">
+<s id="1614:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.00.47&end=00.00.53">
 
 Mesdames	NCFP000	madame-n
 ,	Fc	,-x
@@ -23789,7 +23789,7 @@ mois	NCMP000	moi-n
 .	Fp	.-x
 </s>
 
-<s id="1614:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.00.54&end=00.01.02">
+<s id="1614:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.00.54&end=00.01.02">
 
 La	DA0FS0	le-x
 Belgique	NPFS000	Belgique-n
@@ -23827,7 +23827,7 @@ Lisbonne	NP00000	Lisbonne-n
 .	Fp	.-x
 </s>
 
-<s id="1614:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.03&end=00.01.18">
+<s id="1614:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.03&end=00.01.18">
 
 Et	CC	et-c
 c	RG	c-r
@@ -23893,7 +23893,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1614:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.19&end=00.01.30">
+<s id="1614:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.19&end=00.01.30">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -23931,7 +23931,7 @@ précédents	NCMP000	précédent-n
 .	Fp	.-x
 </s>
 
-<s id="1614:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.31&end=00.01.40">
+<s id="1614:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.31&end=00.01.40">
 
 Mesdames	NCFP000	madame-n
 et	CC	et-c
@@ -23975,7 +23975,7 @@ bien	RG	bien-r
 .	Fp	.-x
 </s>
 
-<s id="1614:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.41&end=00.01.51">
+<s id="1614:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.41&end=00.01.51">
 
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
@@ -24019,7 +24019,7 @@ sortir	VMN0000	sortir-v
 .	Fp	.-x
 </s>
 
-<s id="1614:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.52&end=00.01.54">
+<s id="1614:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.52&end=00.01.54">
 
 La	DA0FS0	le-x
 gouvernance	NCFS000	gouvernance-n
@@ -24029,7 +24029,7 @@ progressé	VMP00SM	progresser-v
 .	Fp	.-x
 </s>
 
-<s id="1614:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.01.55&end=00.02.08">
+<s id="1614:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.01.55&end=00.02.08">
 
 Un	DI0MS0	un-x
 accord	NCMS000	accord-n
@@ -24072,7 +24072,7 @@ Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
 
-<s id="1614:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.02.09&end=00.02.22">
+<s id="1614:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.02.09&end=00.02.22">
 
 Mesdames	NCFP000	madame-n
 et	CC	et-c
@@ -24123,7 +24123,7 @@ plus	RG	plus-r
 .	Fp	.-x
 </s>
 
-<s id="1614:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.02.22&end=00.02.27">
+<s id="1614:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.02.22&end=00.02.27">
 
 Et	CC	et-c
 pour	SP	pour-i
@@ -24144,7 +24144,7 @@ directrices	AQ0FP00	directeur-j
 .	Fp	.-x
 </s>
 
-<s id="1614:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.02.28&end=00.02.32">
+<s id="1614:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.02.28&end=00.02.32">
 
 Premièrement	RG	premièrement-r
 ,	Fc	,-x
@@ -24159,7 +24159,7 @@ avant	NCMS000	avant-n
 .	Fp	.-x
 </s>
 
-<s id="1614:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614&start=00.02.33&end=00.02.51">
+<s id="1614:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1614.mp4&start=00.02.33&end=00.02.51">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -24232,7 +24232,7 @@ hongrois	AQ0MN00	hongrois-j
 <speaker name="Barroso José Manuel" gender="M" country="Portugal" politfunc="European Commission" politgroup="NA">
 <st language="fr" length="long" lengthw="1231" duration="long" durations="584.0" speed="slow" speedwm="126.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1615:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.00.10&end=00.00.13">
+<s id="1615:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.00.10&end=00.00.13">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -24247,7 +24247,7 @@ députés	NCMP000	député-n
 .	Fp	.-x
 </s>
 
-<s id="1615:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.00.14&end=00.00.31">
+<s id="1615:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.00.14&end=00.00.31">
 
 Avec	SP	avec-i
 efficacité	NCFS000	efficacité-n
@@ -24290,7 +24290,7 @@ reconnaissance	NCFS000	reconnaissance-n
 .	Fp	.-x
 </s>
 
-<s id="1615:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.00.32&end=00.00.48">
+<s id="1615:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.00.32&end=00.00.48">
 
 Au	SP+DA	à+le-i
 nom	NCMS000	nom-n
@@ -24341,7 +24341,7 @@ présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
 
-<s id="1615:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.00.49&end=00.00.56">
+<s id="1615:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.00.49&end=00.00.56">
 
 Ce	PP0CNN0	ce-p
 fut	VMIS3S0	être-v
@@ -24371,7 +24371,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.00.56&end=00.01.02">
+<s id="1615:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.00.56&end=00.01.02">
 
 Rarement	RG	rarement-r
 ,	Fc	,-x
@@ -24391,7 +24391,7 @@ surmonter	VMN0000	surmonter-v
 .	Fp	.-x
 </s>
 
-<s id="1615:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.04&end=00.01.14">
+<s id="1615:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.04&end=00.01.14">
 
 Au	SP+DA	à+le-i
 cours	NCFP000	cour-n
@@ -24431,7 +24431,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.14&end=00.01.25">
+<s id="1615:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.14&end=00.01.25">
 
 Son	DP3CSS	son-x
 action	NCFS000	action-n
@@ -24476,7 +24476,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.26&end=00.01.38">
+<s id="1615:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.26&end=00.01.38">
 
 Son	DP3CSS	son-x
 action	NCFS000	action-n
@@ -24513,7 +24513,7 @@ emplois	NCMP000	emploi-n
 .	Fp	.-x
 </s>
 
-<s id="1615:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.38&end=00.01.45">
+<s id="1615:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.38&end=00.01.45">
 
 Ce	PP0CNN0	ce-p
 furent	VMIS3P0	être-v
@@ -24543,7 +24543,7 @@ souveraine	AQ0FS00	souverain-j
 .	Fp	.-x
 </s>
 
-<s id="1615:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.46&end=00.01.52">
+<s id="1615:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.46&end=00.01.52">
 
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
@@ -24569,7 +24569,7 @@ défendre	VMN0000	défendre-v
 .	Fp	.-x
 </s>
 
-<s id="1615:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.01.53&end=00.02.00">
+<s id="1615:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.01.53&end=00.02.00">
 
 Dire	VMN0000	dire-v
 que	CS	que-c
@@ -24600,7 +24600,7 @@ paroles	NCFP000	parole-n
 .	Fp	.-x
 </s>
 
-<s id="1615:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.00&end=00.02.08">
+<s id="1615:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.00&end=00.02.08">
 
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
@@ -24629,7 +24629,7 @@ commune	AQ0FS00	commun-j
 .	Fp	.-x
 </s>
 
-<s id="1615:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.08&end=00.02.13">
+<s id="1615:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.08&end=00.02.13">
 
 L	NP00000	L-n
 <g/>
@@ -24663,7 +24663,7 @@ pièce	NCFS000	pièce-n
 .	Fp	.-x
 </s>
 
-<s id="1615:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.14&end=00.02.19">
+<s id="1615:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.14&end=00.02.19">
 
 Cet	DD0MS0	ce-x
 avenir	NCMS000	avenir-n
@@ -24684,7 +24684,7 @@ futures	AQ0FP00	futur-j
 .	Fp	.-x
 </s>
 
-<s id="1615:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.19&end=00.02.25">
+<s id="1615:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.19&end=00.02.25">
 
 Cela	PD0CS00	cela-p
 a	VAIP3S0	avoir-v
@@ -24709,7 +24709,7 @@ communautaire	AQ0CS00	communautaire-j
 .	Fp	.-x
 </s>
 
-<s id="1615:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.25&end=00.02.33">
+<s id="1615:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.25&end=00.02.33">
 
 Les	DA0CP0	le-x
 réformes	NCFP000	réforme-n
@@ -24748,7 +24748,7 @@ confronté	VMP00SM	confronter-v
 .	Fp	.-x
 </s>
 
-<s id="1615:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.33&end=00.02.41">
+<s id="1615:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.33&end=00.02.41">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -24777,7 +24777,7 @@ mutation	NCFS000	mutation-n
 .	Fp	.-x
 </s>
 
-<s id="1615:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.42&end=00.02.53">
+<s id="1615:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.42&end=00.02.53">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -24808,7 +24808,7 @@ internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1615:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.02.53&end=00.03.02">
+<s id="1615:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.02.53&end=00.03.02">
 
 Les	DA0CP0	le-x
 décisions	NCFP000	décision-n
@@ -24842,7 +24842,7 @@ progrès	NCMN000	progrès-n
 .	Fp	.-x
 </s>
 
-<s id="1615:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.03&end=00.03.06">
+<s id="1615:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.03&end=00.03.06">
 
 Elles	PP3FP00	elles-p
 ne	RN	ne-r
@@ -24856,7 +24856,7 @@ impératif	NCMS000	impératif-n
 .	Fp	.-x
 </s>
 
-<s id="1615:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.06&end=00.03.12">
+<s id="1615:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.06&end=00.03.12">
 
 J	NP00000	J-n
 <g/>
@@ -24883,7 +24883,7 @@ gouvernance	NCFS000	gouvernance-n
 .	Fp	.-x
 </s>
 
-<s id="1615:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.13&end=00.03.20">
+<s id="1615:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.13&end=00.03.20">
 
 Fondamentalement	RG	fondamentalement-r
 ,	Fc	,-x
@@ -24913,7 +24913,7 @@ perd	VMIP3S0	perdre-v
 .	Fp	.-x
 </s>
 
-<s id="1615:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.21&end=00.03.29">
+<s id="1615:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.21&end=00.03.29">
 
 Fondamentalement	RG	fondamentalement-r
 ,	Fc	,-x
@@ -24944,7 +24944,7 @@ mutuelles	AQ0FP00	mutuel-j
 .	Fp	.-x
 </s>
 
-<s id="1615:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.29&end=00.03.35">
+<s id="1615:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.29&end=00.03.35">
 
 Car	CC	car-c
 ,	Fc	,-x
@@ -24974,7 +24974,7 @@ perd	VMIP3S0	perdre-v
 .	Fp	.-x
 </s>
 
-<s id="1615:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.36&end=00.03.45">
+<s id="1615:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.36&end=00.03.45">
 
 La	DA0FS0	le-x
 réponse	NCFS000	réponse-n
@@ -25014,7 +25014,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.45&end=00.03.53">
+<s id="1615:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.45&end=00.03.53">
 
 Sans	SP	sans-i
 renforcement	NCMS000	renforcement-n
@@ -25045,7 +25045,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1615:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.03.53&end=00.03.59">
+<s id="1615:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.03.53&end=00.03.59">
 
 Sans	SP	sans-i
 renforcement	NCMS000	renforcement-n
@@ -25073,7 +25073,7 @@ demain	RG	demain-r
 .	Fp	.-x
 </s>
 
-<s id="1615:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.00&end=00.04.06">
+<s id="1615:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.00&end=00.04.06">
 
 Et	CC	et-c
 sans	SP	sans-i
@@ -25094,7 +25094,7 @@ internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1615:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.06&end=00.04.22">
+<s id="1615:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.06&end=00.04.22">
 
 Alors	RG	alors-r
 que	CS	que-c
@@ -25152,7 +25152,7 @@ européen	AQ0MS00	européen-j
 ?	Fit	?-x
 </s>
 
-<s id="1615:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.23&end=00.04.31">
+<s id="1615:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.23&end=00.04.31">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -25188,7 +25188,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.31&end=00.04.38">
+<s id="1615:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.31&end=00.04.38">
 
 Nous	PP1CP00	nous-p
 agissons	VMIP1P0	agir-v
@@ -25213,7 +25213,7 @@ marginaliser	VMN0000	marginaliser-v
 .	Fp	.-x
 </s>
 
-<s id="1615:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.38&end=00.04.41">
+<s id="1615:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.38&end=00.04.41">
 
 C	NP00000	C-n
 <g/>
@@ -25232,7 +25232,7 @@ cause	NCFS000	cause-n
 .	Fp	.-x
 </s>
 
-<s id="1615:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.42&end=00.04.44">
+<s id="1615:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.42&end=00.04.44">
 
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -25251,7 +25251,7 @@ affirmation	NCFS000	affirmation-n
 .	Fp	.-x
 </s>
 
-<s id="1615:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.45&end=00.04.49">
+<s id="1615:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.45&end=00.04.49">
 
 Et	CC	et-c
 c	RG	c-r
@@ -25268,7 +25268,7 @@ belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
 
-<s id="1615:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.49&end=00.04.58">
+<s id="1615:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.49&end=00.04.58">
 
 L	NP00000	L-n
 <g/>
@@ -25305,7 +25305,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.04.58&end=00.05.06">
+<s id="1615:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.04.58&end=00.05.06">
 
 La	DA0FS0	le-x
 toute	DI0FS0	tout-x
@@ -25336,7 +25336,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.05.06&end=00.05.23">
+<s id="1615:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.05.06&end=00.05.23">
 
 Nous	PP1CP00	nous-p
 y	PP3CN00	y-p
@@ -25388,7 +25388,7 @@ emplois	NCMP000	emploi-n
 .	Fp	.-x
 </s>
 
-<s id="1615:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.05.23&end=00.05.45">
+<s id="1615:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.05.23&end=00.05.45">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -25463,7 +25463,7 @@ assurances	NCFP000	assurance-n
 .	Fp	.-x
 </s>
 
-<s id="1615:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.05.46&end=00.05.54">
+<s id="1615:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.05.46&end=00.05.54">
 
 Pendant	SP	pendant-i
 ces	DD0CP0	ce-x
@@ -25502,7 +25502,7 @@ notation	NCFS000	notation-n
 .	Fp	.-x
 </s>
 
-<s id="1615:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.05.56&end=00.06.04">
+<s id="1615:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.05.56&end=00.06.04">
 
 Pour	SP	pour-i
 nos	DP1CPP	notre-x
@@ -25537,7 +25537,7 @@ jour	NCMS000	jour-n
 .	Fp	.-x
 </s>
 
-<s id="1615:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.06.04&end=00.06.09">
+<s id="1615:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.06.04&end=00.06.09">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -25562,7 +25562,7 @@ préoccupations	NCFP000	préoccupation-n
 ...	EPAUSE	...-x
 </s>
 
-<s id="1615:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.06.15&end=00.06.31">
+<s id="1615:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.06.15&end=00.06.31">
 
 Mais	CC	mais-c
 il	PP3MSN0	il-p
@@ -25630,7 +25630,7 @@ monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
 
-<s id="1615:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.06.32&end=00.06.44">
+<s id="1615:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.06.32&end=00.06.44">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -25677,7 +25677,7 @@ environnement	NCMS000	environnement-n
 .	Fp	.-x
 </s>
 
-<s id="1615:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.06.45&end=00.06.56">
+<s id="1615:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.06.45&end=00.06.56">
 
 Mais	CC	mais-c
 je	PP1CSN0	je-p
@@ -25722,7 +25722,7 @@ dernier	AQ0MS00	dernier-j
 .	Fp	.-x
 </s>
 
-<s id="1615:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.06.57&end=00.07.01">
+<s id="1615:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.06.57&end=00.07.01">
 
 C	NP00000	C-n
 <g/>
@@ -25749,7 +25749,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.01&end=00.07.06">
+<s id="1615:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.01&end=00.07.06">
 
 Il	PP3MSN0	il-p
 doit	VMIP3S0	devoir-v
@@ -25765,7 +25765,7 @@ bilatéraux	AQ0MP00	bilatéral-j
 .	Fp	.-x
 </s>
 
-<s id="1615:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.07&end=00.07.18">
+<s id="1615:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.07&end=00.07.18">
 
 Cancún	NP00000	Cancún-n
 ,	Fc	,-x
@@ -25801,7 +25801,7 @@ climatique	AQ0CS00	climatique-j
 .	Fp	.-x
 </s>
 
-<s id="1615:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.18&end=00.07.28">
+<s id="1615:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.18&end=00.07.28">
 
 Cancún	NP00000	Cancún-n
 a	VAIP3S0	avoir-v
@@ -25842,7 +25842,7 @@ internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1615:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.28&end=00.07.39">
+<s id="1615:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.28&end=00.07.39">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -25879,7 +25879,7 @@ Eurovignette	NP00000	Eurovignette-n
 .	Fp	.-x
 </s>
 
-<s id="1615:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.39&end=00.07.43">
+<s id="1615:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.39&end=00.07.43">
 
 C	NP00000	C-n
 <g/>
@@ -25897,7 +25897,7 @@ citoyens	AQ0MP00	citoyen-j
 .	Fp	.-x
 </s>
 
-<s id="1615:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.44&end=00.07.55">
+<s id="1615:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.44&end=00.07.55">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -25930,7 +25930,7 @@ exécutées	VMP00PF	exécuter-v
 .	Fp	.-x
 </s>
 
-<s id="1615:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.07.55&end=00.08.04">
+<s id="1615:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.07.55&end=00.08.04">
 
 Elle	PP3FS00	elle-p
 a	VAIP3S0	avoir-v
@@ -25967,7 +25967,7 @@ traité	NCMS000	traité-n
 .	Fp	.-x
 </s>
 
-<s id="1615:53" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.04&end=00.08.11">
+<s id="1615:53" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.04&end=00.08.11">
 
 Ce	PP0CNN0	ce-p
 fut	VMIS3S0	être-v
@@ -25997,7 +25997,7 @@ meilleur	NCMS000	meilleur-n
 .	Fp	.-x
 </s>
 
-<s id="1615:54" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.12&end=00.08.16">
+<s id="1615:54" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.12&end=00.08.16">
 
 La	DA0FS0	le-x
 Commission	NPFS000	Commission-n
@@ -26018,7 +26018,7 @@ résultat	NCMS000	résultat-n
 .	Fp	.-x
 </s>
 
-<s id="1615:55" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.17&end=00.08.33">
+<s id="1615:55" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.17&end=00.08.33">
 
 Demain	RG	demain-r
 <g/>
@@ -26075,7 +26075,7 @@ budgétaire	AQ0CS00	budgétaire-j
 .	Fp	.-x
 </s>
 
-<s id="1615:56" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.34&end=00.08.40">
+<s id="1615:56" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.34&end=00.08.40">
 
 L	NP00000	L-n
 <g/>
@@ -26100,7 +26100,7 @@ productive	AQ0FS00	productif-j
 .	Fp	.-x
 </s>
 
-<s id="1615:57" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.40&end=00.08.49">
+<s id="1615:57" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.40&end=00.08.49">
 
 Et	CC	et-c
 c	RG	c-r
@@ -26139,7 +26139,7 @@ déterminée	VMP00SF	déterminer-v
 .	Fp	.-x
 </s>
 
-<s id="1615:58" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.49&end=00.08.54">
+<s id="1615:58" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.49&end=00.08.54">
 
 J	NP00000	J-n
 <g/>
@@ -26164,7 +26164,7 @@ institutions	NCFP000	institution-n
 .	Fp	.-x
 </s>
 
-<s id="1615:59" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.08.54&end=00.09.02">
+<s id="1615:59" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.08.54&end=00.09.02">
 
 Il	PP3MSN0	il-p
 appartient	VMIP3S0	appartenir-v
@@ -26187,7 +26187,7 @@ lancée	NCFS000	lancée-n
 .	Fp	.-x
 </s>
 
-<s id="1615:60" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.09.02&end=00.09.14">
+<s id="1615:60" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.09.02&end=00.09.14">
 
 Les	DA0CP0	le-x
 grandes	AQ0FP00	grand-j
@@ -26235,7 +26235,7 @@ prospère	AQ0CS00	prospère-j
 .	Fp	.-x
 </s>
 
-<s id="1615:61" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.09.15&end=00.09.19">
+<s id="1615:61" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.09.15&end=00.09.19">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -26254,7 +26254,7 @@ maintenant	RG	maintenant-r
 .	Fp	.-x
 </s>
 
-<s id="1615:62" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.09.19&end=00.09.33">
+<s id="1615:62" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.09.19&end=00.09.33">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -26307,7 +26307,7 @@ reprise	NCFS000	reprise-n
 .	Fp	.-x
 </s>
 
-<s id="1615:63" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.09.34&end=00.09.52">
+<s id="1615:63" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.09.34&end=00.09.52">
 
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
@@ -26375,7 +26375,7 @@ liberté	NCFS000	liberté-n
 .	Fp	.-x
 </s>
 
-<s id="1615:64" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615&start=00.09.52&end=00.09.54">
+<s id="1615:64" video="http://amelia.sslmit.unibo.it/video/video.php?id=1615.wmv&start=00.09.52&end=00.09.54">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -26394,13 +26394,13 @@ attention	NCFS000	attention-n
 <speaker name="Durant Isabelle" gender="F" country="Belgium" politfunc="Vice President of the European Parliament" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="344" duration="medium" durations="134.0" speed="medium" speedwm="154.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1616:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.06&end=00.00.07">
+<s id="1616:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.06&end=00.00.07">
 
 Président	NCMS000	président-n
 .	Fp	.-x
 </s>
 
-<s id="1616:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.07&end=00.00.16">
+<s id="1616:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.07&end=00.00.16">
 
 Alors	RG	alors-r
 c	RG	c-r
@@ -26445,7 +26445,7 @@ domicile	NCMS000	domicile-n
 .	Fp	.-x
 </s>
 
-<s id="1616:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.16&end=00.00.21">
+<s id="1616:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.16&end=00.00.21">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -26488,7 +26488,7 @@ chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="1616:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.22&end=00.00.39">
+<s id="1616:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.22&end=00.00.39">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -26552,7 +26552,7 @@ Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
 
-<s id="1616:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.39&end=00.00.55">
+<s id="1616:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.39&end=00.00.55">
 
 Et	CC	et-c
 d'	SP	de-i
@@ -26640,7 +26640,7 @@ fédérale	AQ0FS00	fédéral-j
 .	Fp	.-x
 </s>
 
-<s id="1616:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.00.56&end=00.01.06">
+<s id="1616:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.00.56&end=00.01.06">
 
 Pour	SP	pour-i
 le	DA0MS0	le-x
@@ -26685,7 +26685,7 @@ entrent	VMIP3P0	entrer-v
 .	Fp	.-x
 </s>
 
-<s id="1616:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.01.06&end=00.01.29">
+<s id="1616:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.01.06&end=00.01.29">
 
 Et	CC	et-c
 donc	CC	donc-c
@@ -26801,7 +26801,7 @@ dossier	NCMS000	dossier-n
 .	Fp	.-x
 </s>
 
-<s id="1616:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.01.29&end=00.01.33">
+<s id="1616:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.01.29&end=00.01.33">
 
 Deuxième	AO0CS00	2-j
 dossier	NCMS000	dossier-n
@@ -26817,7 +26817,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1616:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.01.33&end=00.01.36">
+<s id="1616:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.01.33&end=00.01.36">
 
 C	NP00000	C-n
 <g/>
@@ -26840,7 +26840,7 @@ Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
 
-<s id="1616:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.01.36&end=00.01.46">
+<s id="1616:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.01.36&end=00.01.46">
 
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -26900,7 +26900,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1616:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.01.46&end=00.02.00">
+<s id="1616:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.01.46&end=00.02.00">
 
 Une	DI0FS0	un-x
 circonscription	NCFS000	circonscription-n
@@ -26961,7 +26961,7 @@ nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
 
-<s id="1616:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.02.00&end=00.02.02">
+<s id="1616:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.02.00&end=00.02.02">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -26977,7 +26977,7 @@ important	AQ0MS00	important-j
 .	Fp	.-x
 </s>
 
-<s id="1616:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.02.02&end=00.02.06">
+<s id="1616:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.02.02&end=00.02.06">
 
 Et	CC	et-c
 le	DA0MS0	le-x
@@ -27004,7 +27004,7 @@ européenne	NCFS000	européen-n
 .	Fp	.-x
 </s>
 
-<s id="1616:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.02.06&end=00.02.11">
+<s id="1616:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.02.06&end=00.02.11">
 
 Là	RG	là-r
 aussi	RG	aussi-r
@@ -27026,7 +27026,7 @@ oeuvre	NCCS000	œuvre-n
 .	Fp	.-x
 </s>
 
-<s id="1616:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.02.11&end=00.02.19">
+<s id="1616:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.02.11&end=00.02.19">
 
 C	NP00000	C-n
 <g/>
@@ -27070,7 +27070,7 @@ fort	RG	fort-r
 .	Fp	.-x
 </s>
 
-<s id="1616:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616&start=00.02.19&end=00.02.20">
+<s id="1616:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1616.mp4&start=00.02.19&end=00.02.20">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -27086,7 +27086,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Le Hyaric Patrick" gender="M" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="367" duration="medium" durations="146.0" speed="medium" speedwm="150.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1617:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.00.05&end=00.00.24">
+<s id="1617:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.00.05&end=00.00.24">
 
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -27158,7 +27158,7 @@ publics	AQ0MP00	public-j
 .	Fp	.-x
 </s>
 
-<s id="1617:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.00.25&end=00.00.27">
+<s id="1617:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.00.25&end=00.00.27">
 
 Vous	PP2CP00	vous-p
 n	NCFS000	n-n
@@ -27172,7 +27172,7 @@ cela	PD0CS00	cela-p
 .	Fp	.-x
 </s>
 
-<s id="1617:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.00.27&end=00.00.51">
+<s id="1617:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.00.27&end=00.00.51">
 
 Non	RG	non-r
 seulement	RG	seulement-r
@@ -27260,7 +27260,7 @@ l	AQ0MS0	l-j
 .	Fp	.-x
 </s>
 
-<s id="1617:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.00.52&end=00.01.04">
+<s id="1617:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.00.52&end=00.01.04">
 
 Quant	NP00000	Quant-n
 aux	SP+DA	à+les-i
@@ -27310,7 +27310,7 @@ Bolkestein	NP00000	Bolkestein-n
 .	Fp	.-x
 </s>
 
-<s id="1617:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.05&end=00.01.08">
+<s id="1617:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.05&end=00.01.08">
 
 Nous	PP1CP00	nous-p
 étions	VMII1P0	être-v
@@ -27328,7 +27328,7 @@ pauvreté	NCFS000	pauvreté-n
 .	Fp	.-x
 </s>
 
-<s id="1617:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.08&end=00.01.13">
+<s id="1617:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.08&end=00.01.13">
 
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
@@ -27358,7 +27358,7 @@ plus	RG	plus-r
 .	Fp	.-x
 </s>
 
-<s id="1617:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.13&end=00.01.20">
+<s id="1617:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.13&end=00.01.20">
 
 Et	CC	et-c
 force	NCFS000	force-n
@@ -27387,7 +27387,7 @@ sociaux	AQ0MP00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1617:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.20&end=00.01.38">
+<s id="1617:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.20&end=00.01.38">
 
 La	DA0FS0	le-x
 stratégie	NCFS000	stratégie-n
@@ -27452,7 +27452,7 @@ Barroso	NPMS000	Barroso-n
 .	Fp	.-x
 </s>
 
-<s id="1617:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.38&end=00.01.44">
+<s id="1617:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.38&end=00.01.44">
 
 Et	CC	et-c
 pour	SP	pour-i
@@ -27477,7 +27477,7 @@ nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
 
-<s id="1617:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.45&end=00.01.51">
+<s id="1617:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.45&end=00.01.51">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -27505,7 +27505,7 @@ intangibles	AQ0CP00	intangible-j
 .	Fp	.-x
 </s>
 
-<s id="1617:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.01.52&end=00.02.15">
+<s id="1617:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.01.52&end=00.02.15">
 
 Par	SP	par-i
 contre	SP	contre-i
@@ -27587,7 +27587,7 @@ social	AQ0MS00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1617:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.02.15&end=00.02.22">
+<s id="1617:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.02.15&end=00.02.22">
 
 Au	SP+DA	à+le-i
 début	NCMS000	début-n
@@ -27623,7 +27623,7 @@ honneur	NCMS000	honneur-n
 .	Fp	.-x
 </s>
 
-<s id="1617:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.02.22&end=00.02.28">
+<s id="1617:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.02.22&end=00.02.28">
 
 Mais	CC	mais-c
 durant	SP	durant-i
@@ -27647,7 +27647,7 @@ rassasiés	VMP00PM	rassasier-v
 .	Fp	.-x
 </s>
 
-<s id="1617:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617&start=00.02.28&end=00.02.31">
+<s id="1617:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1617.mp4&start=00.02.28&end=00.02.31">
 
 Les	DA0CP0	le-x
 peuples	NCMP000	peuple-n
@@ -27673,7 +27673,7 @@ disette	NCFS000	disette-n
 <speaker name="Tarabella Marc" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="338" duration="medium" durations="122.0" speed="high" speedwm="166.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1618:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.06&end=00.00.17">
+<s id="1618:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.06&end=00.00.17">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -27726,7 +27726,7 @@ bilan	NCMS000	bilan-n
 .	Fp	.-x
 </s>
 
-<s id="1618:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.18&end=00.00.27">
+<s id="1618:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.18&end=00.00.27">
 
 J	NP00000	J-n
 <g/>
@@ -27781,7 +27781,7 @@ dernier	AQ0MS00	dernier-j
 .	Fp	.-x
 </s>
 
-<s id="1618:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.27&end=00.00.32">
+<s id="1618:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.27&end=00.00.32">
 
 Mais	CC	mais-c
 c	RG	c-r
@@ -27812,7 +27812,7 @@ présent	AQ0MS00	présent-j
 .	Fp	.-x
 </s>
 
-<s id="1618:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.32&end=00.00.38">
+<s id="1618:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.32&end=00.00.38">
 
 Laissons	VMM01P0	laisser-v
 maintenant	RG	maintenant-r
@@ -27835,7 +27835,7 @@ belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
 
-<s id="1618:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.38&end=00.00.50">
+<s id="1618:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.38&end=00.00.50">
 
 Moi	PP1CS00	moi-p
 aussi	RG	aussi-r
@@ -27908,7 +27908,7 @@ préparation	NCFS000	préparation-n
 .	Fp	.-x
 </s>
 
-<s id="1618:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.50&end=00.00.54">
+<s id="1618:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.50&end=00.00.54">
 
 Et	CC	et-c
 force	NCFS000	force-n
@@ -27937,7 +27937,7 @@ inspirée	VMP00SF	inspirer-v
 .	Fp	.-x
 </s>
 
-<s id="1618:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.00.54&end=00.01.15">
+<s id="1618:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.00.54&end=00.01.15">
 
 Rien	PI0CS00	rien-p
 que	CS	que-c
@@ -28032,7 +28032,7 @@ belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
 
-<s id="1618:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.01.15&end=00.01.25">
+<s id="1618:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.01.15&end=00.01.25">
 
 De	SP	de-i
 même	RG	même-r
@@ -28086,7 +28086,7 @@ acquis	VMP00PM	acquérir-v
 .	Fp	.-x
 </s>
 
-<s id="1618:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.01.26&end=00.01.33">
+<s id="1618:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.01.26&end=00.01.33">
 
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
@@ -28127,7 +28127,7 @@ limites	NCFP000	limite-n
 .	Fp	.-x
 </s>
 
-<s id="1618:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.01.34&end=00.01.45">
+<s id="1618:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.01.34&end=00.01.45">
 
 Or	CC	or-c
 ,	Fc	,-x
@@ -28190,7 +28190,7 @@ priorités	NCFP000	priorité-n
 .	Fp	.-x
 </s>
 
-<s id="1618:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.01.45&end=00.02.04">
+<s id="1618:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.01.45&end=00.02.04">
 
 Outre	SP	outre-i
 la	DA0FS0	le-x
@@ -28281,7 +28281,7 @@ caractérisent	VMIP3P0	caractériser-v
 .	Fp	.-x
 </s>
 
-<s id="1618:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.02.04&end=00.02.07">
+<s id="1618:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.02.04&end=00.02.07">
 
 J	NP00000	J-n
 <g/>
@@ -28303,7 +28303,7 @@ exemple	NCMS000	exemple-n
 .	Fp	.-x
 </s>
 
-<s id="1618:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618&start=00.02.07&end=00.02.08">
+<s id="1618:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1618.wmv&start=00.02.07&end=00.02.08">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -28317,7 +28317,7 @@ Merci	NCMS000	merci-n
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="214" duration="short" durations="88.0" speed="medium" speedwm="145.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1619:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619&start=00.00.05&end=00.00.49">
+<s id="1619:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619.wmv&start=00.00.05&end=00.00.49">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -28459,7 +28459,7 @@ arrive	VMIP1S0	arriver-v
 .	Fp	.-x
 </s>
 
-<s id="1619:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619&start=00.00.50&end=00.01.05">
+<s id="1619:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619.wmv&start=00.00.50&end=00.01.05">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -28524,7 +28524,7 @@ mur	NCMS000	mur-n
 .	Fp	.-x
 </s>
 
-<s id="1619:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619&start=00.01.06&end=00.01.23">
+<s id="1619:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619.wmv&start=00.01.06&end=00.01.23">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -28590,7 +28590,7 @@ pensions	NCFP000	pension-n
 .	Fp	.-x
 </s>
 
-<s id="1619:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619&start=00.01.23&end=00.01.33">
+<s id="1619:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1619.wmv&start=00.01.23&end=00.01.33">
 
 Ça	PD0MS00	cela-p
 n	NCFS000	n-n
@@ -28637,7 +28637,7 @@ citoyens	NCMP000	citoyen-n
 <speaker name="Daerden Frédéric" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="184" duration="short" durations="78.0" speed="medium" speedwm="141.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1620:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.00.05&end=00.00.22">
+<s id="1620:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.00.05&end=00.00.22">
 
 Merci	NCMS000	merci-n
 Président	NPMS000	Président-n
@@ -28704,7 +28704,7 @@ confrontée	VMP00SF	confronter-v
 .	Fp	.-x
 </s>
 
-<s id="1620:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.00.23&end=00.00.34">
+<s id="1620:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.00.23&end=00.00.34">
 
 Ainsi	RG	ainsi-r
 je	PP1CSN0	je-p
@@ -28738,7 +28738,7 @@ préjudiciable	AQ0CS00	préjudiciable-j
 .	Fp	.-x
 </s>
 
-<s id="1620:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.00.34&end=00.00.44">
+<s id="1620:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.00.34&end=00.00.44">
 
 En	SP	en-i
 matière	NCFS000	matière-n
@@ -28783,7 +28783,7 @@ minimum	AQ0CS00	minimum-j
 .	Fp	.-x
 </s>
 
-<s id="1620:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.00.44&end=00.00.58">
+<s id="1620:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.00.44&end=00.00.58">
 
 Malgré	SP	malgré-i
 ce	DD0MS0	ce-x
@@ -28833,7 +28833,7 @@ ECOFIN	NP00000	ECOFIN-n
 ;	Fx	;-x
 </s>
 
-<s id="1620:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.00.58&end=00.01.01">
+<s id="1620:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.00.58&end=00.01.01">
 
 les	DA0CP0	le-x
 conclusions	NCFP000	conclusion-n
@@ -28849,7 +28849,7 @@ général	AQ0MS00	général-j
 ;	Fx	;-x
 </s>
 
-<s id="1620:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.01.01&end=00.01.14">
+<s id="1620:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.01.01&end=00.01.14">
 
 les	DA0CP0	le-x
 pensions	NCFP000	pension-n
@@ -28896,7 +28896,7 @@ souligner	VMN0000	souligner-v
 ;	Fx	;-x
 </s>
 
-<s id="1620:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.01.14&end=00.01.17">
+<s id="1620:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.01.14&end=00.01.17">
 
 la	DA0FS0	le-x
 déclaration	NCFS000	déclaration-n
@@ -28914,7 +28914,7 @@ pauvreté	NCFS000	pauvreté-n
 .	Fp	.-x
 </s>
 
-<s id="1620:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.01.18&end=00.01.23">
+<s id="1620:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.01.18&end=00.01.23">
 
 Encore	RG	encore-r
 félicitations	NCFP000	félicitation-n
@@ -28933,7 +28933,7 @@ suivantes	AQ0FP00	suivant-j
 .	Fp	.-x
 </s>
 
-<s id="1620:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620&start=00.01.23&end=00.01.24">
+<s id="1620:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1620.wmv&start=00.01.23&end=00.01.24">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -28947,7 +28947,7 @@ Merci	NCMS000	merci-n
 <speaker name="Leterme Yves" gender="M" country="Belgium" politfunc="Guest" politgroup="NA">
 <st language="fr" length="short" lengthw="133" duration="short" durations="60.0" speed="medium" speedwm="133.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1621:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621&start=00.00.08&end=00.00.14">
+<s id="1621:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621.mp4&start=00.00.08&end=00.00.14">
 
 En	SP	en-i
 effet	NCMS000	effet-n
@@ -28967,7 +28967,7 @@ sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1621:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621&start=00.00.14&end=00.02.22">
+<s id="1621:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621.mp4&start=00.00.14&end=00.02.22">
 
 Les	DA0CP0	le-x
 ambition	NCFS000	ambition-n
@@ -29008,7 +29008,7 @@ rôle	NCMS000	rôle-n
 .	Fp	.-x
 </s>
 
-<s id="1621:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621&start=00.02.22&end=00.02.40">
+<s id="1621:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621.mp4&start=00.02.22&end=00.02.40">
 
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
@@ -29083,7 +29083,7 @@ sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1621:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621&start=00.02.41&end=00.02.53">
+<s id="1621:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621.mp4&start=00.02.41&end=00.02.53">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -29150,7 +29150,7 @@ avant	SP	avant-i
 .	Fp	.-x
 </s>
 
-<s id="1621:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621&start=00.02.54&end=00.03.06">
+<s id="1621:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1621.mp4&start=00.02.54&end=00.03.06">
 
 De	SP	de-i
 même	RG	même-r
@@ -29232,7 +29232,7 @@ hui	RG	hui-r
 <speaker name="Grossetête Françoise" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="672" duration="medium" durations="321.0" speed="slow" speedwm="125.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1622:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.05&end=00.00.12">
+<s id="1622:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.05&end=00.00.12">
 
 Merci	NCMS000	merci-n
 ,	Fc	,-x
@@ -29266,7 +29266,7 @@ débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
 
-<s id="1622:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.13&end=00.00.28">
+<s id="1622:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.13&end=00.00.28">
 
 Ehm	FPAUSE	ehm
 monsieur	NCMS000	monsieur-n
@@ -29314,7 +29314,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1622:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.29&end=00.00.37">
+<s id="1622:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.29&end=00.00.37">
 
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
@@ -29344,7 +29344,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1622:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.37&end=00.00.44">
+<s id="1622:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.37&end=00.00.44">
 
 La	DA0FS0	le-x
 directive	NCFS000	directive-n
@@ -29368,7 +29368,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1622:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.44&end=00.00.48">
+<s id="1622:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.44&end=00.00.48">
 
 De	SP	de-i
 quel	DT0MS0	quel-x
@@ -29385,7 +29385,7 @@ l	NCMS000	l-n
 ?	Fit	?-x
 </s>
 
-<s id="1622:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.48&end=00.00.52">
+<s id="1622:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.48&end=00.00.52">
 
 Comment	PT00000	comment-p
 et	CC	et-c
@@ -29398,7 +29398,7 @@ remboursé	VMP00SM	rembourser-v
 ?	Fit	?-x
 </s>
 
-<s id="1622:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.52&end=00.00.57">
+<s id="1622:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.52&end=00.00.57">
 
 Comment	PT00000	comment-p
 sont	VSIP3P0	être-v
@@ -29426,7 +29426,7 @@ traitement	NCMS000	traitement-n
 ?	Fit	?-x
 </s>
 
-<s id="1622:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.00.58&end=00.01.02">
+<s id="1622:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.00.58&end=00.01.02">
 
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
@@ -29444,7 +29444,7 @@ directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
 
-<s id="1622:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.03&end=00.01.11">
+<s id="1622:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.03&end=00.01.11">
 
 Permettez-moi	VMM02P0	permettre-v
 ,	Fc	,-x
@@ -29470,7 +29470,7 @@ négociation	NCFS000	négociation-n
 .	Fp	.-x
 </s>
 
-<s id="1622:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.12&end=00.01.21">
+<s id="1622:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.12&end=00.01.21">
 
 Sa	DP3FSS	son-x
 capacité	NCFS000	capacité-n
@@ -29499,7 +29499,7 @@ directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
 
-<s id="1622:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.21&end=00.01.24">
+<s id="1622:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.21&end=00.01.24">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -29519,7 +29519,7 @@ irresponsabilité	NCFS000	irresponsabilité-n
 .	Fp	.-x
 </s>
 
-<s id="1622:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.25&end=00.01.41">
+<s id="1622:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.25&end=00.01.41">
 
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
@@ -29580,7 +29580,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1622:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.42&end=00.01.56">
+<s id="1622:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.42&end=00.01.56">
 
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
@@ -29623,7 +29623,7 @@ possible	AQ0CS00	possible-j
 .	Fp	.-x
 </s>
 
-<s id="1622:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.56&end=00.01.59">
+<s id="1622:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.56&end=00.01.59">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -29640,7 +29640,7 @@ patients	NCMP000	patient-n
 ?	Fit	?-x
 </s>
 
-<s id="1622:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.01.59&end=00.02.10">
+<s id="1622:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.01.59&end=00.02.10">
 
 Le	DA0MS0	le-x
 progrès	NCMN000	progrès-n
@@ -29680,7 +29680,7 @@ soigner	VMN0000	soigner-v
 .	Fp	.-x
 </s>
 
-<s id="1622:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.02.11&end=00.02.17">
+<s id="1622:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.02.11&end=00.02.17">
 
 Cela	PD0CS00	cela-p
 peut	VMIP3S0	pouvoir-v
@@ -29713,7 +29713,7 @@ domicile	NCMS000	domicile-n
 .	Fp	.-x
 </s>
 
-<s id="1622:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.02.18&end=00.02.27">
+<s id="1622:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.02.18&end=00.02.27">
 
 Cela	PD0CS00	cela-p
 peut	VMIP3S0	pouvoir-v
@@ -29754,7 +29754,7 @@ spécialisés	VMP00PM	spécialiser-v
 .	Fp	.-x
 </s>
 
-<s id="1622:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.02.27&end=00.02.38">
+<s id="1622:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.02.27&end=00.02.38">
 
 Et	CC	et-c
 pour	SP	pour-i
@@ -29801,7 +29801,7 @@ membre	NCMS000	membre-n
 .	Fp	.-x
 </s>
 
-<s id="1622:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.02.38&end=00.02.50">
+<s id="1622:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.02.38&end=00.02.50">
 
 Donc	CC	donc-c
 les	DA0CP0	le-x
@@ -29839,7 +29839,7 @@ claires	AQ0FP00	clair-j
 .	Fp	.-x
 </s>
 
-<s id="1622:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.02.51&end=00.03.04">
+<s id="1622:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.02.51&end=00.03.04">
 
 Bien	RG	bien-r
 évidemment	RG	évidemment-r
@@ -29888,7 +29888,7 @@ membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
 
-<s id="1622:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.03.05&end=00.03.19">
+<s id="1622:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.03.05&end=00.03.19">
 
 Les	DA0CP0	le-x
 patients	NCMP000	patient-n
@@ -29932,7 +29932,7 @@ système	NCMS000	système-n
 .	Fp	.-x
 </s>
 
-<s id="1622:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.03.19&end=00.03.31">
+<s id="1622:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.03.19&end=00.03.31">
 
 Pour	SP	pour-i
 les	DA0CP0	le-x
@@ -29976,7 +29976,7 @@ préalable	AQ0CS00	préalable-j
 .	Fp	.-x
 </s>
 
-<s id="1622:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.03.31&end=00.03.40">
+<s id="1622:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.03.31&end=00.03.40">
 
 Cela	PD0CS00	cela-p
 permettra	VMIF3S0	permettre-v
@@ -30005,7 +30005,7 @@ soins	NCMP000	soin-n
 .	Fp	.-x
 </s>
 
-<s id="1622:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.03.40&end=00.03.51">
+<s id="1622:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.03.40&end=00.03.51">
 
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
@@ -30045,7 +30045,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1622:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.03.51&end=00.04.03">
+<s id="1622:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.03.51&end=00.04.03">
 
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
@@ -30094,7 +30094,7 @@ besoins	NCMP000	besoin-n
 .	Fp	.-x
 </s>
 
-<s id="1622:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.04.04&end=00.04.12">
+<s id="1622:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.04.04&end=00.04.12">
 
 Chaque	DI0CS0	chaque-x
 point	NCMS000	point-n
@@ -30121,7 +30121,7 @@ nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
 
-<s id="1622:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.04.12&end=00.04.15">
+<s id="1622:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.04.12&end=00.04.15">
 
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
@@ -30138,7 +30138,7 @@ précises	AQ0FP00	précis-j
 .	Fp	.-x
 </s>
 
-<s id="1622:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.04.15&end=00.04.38">
+<s id="1622:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.04.15&end=00.04.38">
 
 La	DA0FS0	le-x
 question	NCFS000	question-n
@@ -30203,7 +30203,7 @@ brefs	AQ0MP00	bref-j
 .	Fp	.-x
 </s>
 
-<s id="1622:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.04.38&end=00.04.53">
+<s id="1622:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.04.38&end=00.04.53">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -30247,7 +30247,7 @@ soins	NCMP000	soin-n
 .	Fp	.-x
 </s>
 
-<s id="1622:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.04.53&end=00.05.11">
+<s id="1622:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.04.53&end=00.05.11">
 
 Je	PP1CSN0	je-p
 termine	VMIP1S0	terminer-v
@@ -30315,7 +30315,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1622:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.05.11&end=00.05.20">
+<s id="1622:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.05.11&end=00.05.20">
 
 C	NP00000	C-n
 <g/>
@@ -30352,7 +30352,7 @@ collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
 
-<s id="1622:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.05.20&end=00.05.25">
+<s id="1622:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.05.20&end=00.05.25">
 
 Je	PP1CSN0	je-p
 pourrais	VMIC1S0	pouvoir-v
@@ -30381,7 +30381,7 @@ directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
 
-<s id="1622:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622&start=00.05.25&end=00.05.26">
+<s id="1622:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1622.wmv&start=00.05.25&end=00.05.26">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -30397,7 +30397,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Pargneaux Gilles" gender="M" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="273" duration="medium" durations="126.0" speed="medium" speedwm="130.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1623:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.06&end=00.00.15">
+<s id="1623:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.06&end=00.00.15">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -30437,7 +30437,7 @@ demain	RG	demain-r
 .	Fp	.-x
 </s>
 
-<s id="1623:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.15&end=00.00.23">
+<s id="1623:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.15&end=00.00.23">
 
 En	SP	en-i
 effet	NCMS000	effet-n
@@ -30471,7 +30471,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1623:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.23&end=00.00.28">
+<s id="1623:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.23&end=00.00.28">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -30502,7 +30502,7 @@ courant	AQ0MS00	courant-j
 .	Fp	.-x
 </s>
 
-<s id="1623:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.29&end=00.00.34">
+<s id="1623:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.29&end=00.00.34">
 
 Les	DA0CP0	le-x
 traitements	NCMP000	traitement-n
@@ -30524,7 +30524,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1623:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.34&end=00.00.40">
+<s id="1623:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.34&end=00.00.40">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -30554,7 +30554,7 @@ années	NCFP000	année-n
 .	Fp	.-x
 </s>
 
-<s id="1623:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.41&end=00.00.45">
+<s id="1623:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.41&end=00.00.45">
 
 Ce	DD0MS0	ce-x
 dernier	AQ0MS00	dernier-j
@@ -30577,7 +30577,7 @@ lucratif	AQ0MS00	lucratif-j
 .	Fp	.-x
 </s>
 
-<s id="1623:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.46&end=00.00.50">
+<s id="1623:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.46&end=00.00.50">
 
 La	DA0FS0	le-x
 santé	NCFS000	santé-n
@@ -30589,7 +30589,7 @@ concurrentiel	AQ0MS00	concurrentiel-j
 .	Fp	.-x
 </s>
 
-<s id="1623:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.51&end=00.00.57">
+<s id="1623:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.51&end=00.00.57">
 
 Un	DI0MS0	un-x
 Allemand	NPMS000	Allemand-n
@@ -30613,7 +30613,7 @@ Président	NPMS000	Président-n
 .	Fp	.-x
 </s>
 
-<s id="1623:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.00.57&end=00.01.01">
+<s id="1623:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.00.57&end=00.01.01">
 
 Un	DI0MS0	un-x
 Anglais	NPMN000	Anglais-n
@@ -30640,7 +30640,7 @@ vite	RG	vite-r
 .	Fp	.-x
 </s>
 
-<s id="1623:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.01&end=00.01.03">
+<s id="1623:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.01&end=00.01.03">
 
 Les	DA0CP0	le-x
 exemples	NCMP000	exemple-n
@@ -30649,7 +30649,7 @@ nombreux	AQ0MN00	nombreux-j
 .	Fp	.-x
 </s>
 
-<s id="1623:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.03&end=00.01.11">
+<s id="1623:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.03&end=00.01.11">
 
 Mais	CC	mais-c
 nous	PP1CP00	nous-p
@@ -30683,7 +30683,7 @@ tous	DI0MP0	tout-x
 .	Fp	.-x
 </s>
 
-<s id="1623:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.11&end=00.01.21">
+<s id="1623:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.11&end=00.01.21">
 
 Et	CC	et-c
 c	RG	c-r
@@ -30731,7 +30731,7 @@ hospitaliers	AQ0MP00	hospitalier-j
 .	Fp	.-x
 </s>
 
-<s id="1623:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.21&end=00.01.45">
+<s id="1623:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.21&end=00.01.45">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -30818,7 +30818,7 @@ membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
 
-<s id="1623:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.45&end=00.01.49">
+<s id="1623:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.45&end=00.01.49">
 
 Mais	CC	mais-c
 ,	Fc	,-x
@@ -30842,7 +30842,7 @@ terminé	VMP00SM	terminer-v
 .	Fp	.-x
 </s>
 
-<s id="1623:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623&start=00.01.49&end=00.02.11">
+<s id="1623:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1623.mp4&start=00.01.49&end=00.02.11">
 
 Il	PP3MSN0	il-p
 nous	PP1CP00	nous-p
@@ -30917,7 +30917,7 @@ européens	AQ0MP00	européen-j
 <speaker name="Lepage Corinne" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="246" duration="short" durations="113.0" speed="medium" speedwm="130.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1624:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.00.07&end=00.00.19">
+<s id="1624:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.00.07&end=00.00.19">
 
 Monsieur	NCMS000	monsieur-n
 ehm	FPAUSE	ehm
@@ -30961,7 +30961,7 @@ rappelé	VMP00SM	rappeler-v
 .	Fp	.-x
 </s>
 
-<s id="1624:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.00.19&end=00.00.32">
+<s id="1624:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.00.19&end=00.00.32">
 
 Jusqu	NPMS000	Jusqu-n
 <g/>
@@ -31017,7 +31017,7 @@ Dalli	NP00000	Dalli-n
 .	Fp	.-x
 </s>
 
-<s id="1624:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.00.32&end=00.00.38">
+<s id="1624:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.00.32&end=00.00.38">
 
 Ces	DD0CP0	ce-x
 dispositions	NCFP000	disposition-n
@@ -31044,7 +31044,7 @@ remboursement	NCMS000	remboursement-n
 .	Fp	.-x
 </s>
 
-<s id="1624:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.00.39&end=00.00.50">
+<s id="1624:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.00.39&end=00.00.50">
 
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
@@ -31087,7 +31087,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1624:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.00.50&end=00.01.03">
+<s id="1624:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.00.50&end=00.01.03">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -31152,7 +31152,7 @@ sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1624:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.04&end=00.01.13">
+<s id="1624:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.04&end=00.01.13">
 
 Cependant	RG	cependant-r
 ,	Fc	,-x
@@ -31193,7 +31193,7 @@ membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
 
-<s id="1624:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.13&end=00.01.16">
+<s id="1624:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.13&end=00.01.16">
 
 D'	SP	de-i
 <g/>
@@ -31207,7 +31207,7 @@ raisonnable	AQ0CS00	raisonnable-j
 ?	Fit	?-x
 </s>
 
-<s id="1624:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.16&end=00.01.22">
+<s id="1624:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.16&end=00.01.22">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -31234,7 +31234,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1624:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.23&end=00.01.34">
+<s id="1624:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.23&end=00.01.34">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -31280,7 +31280,7 @@ importants	AQ0MP00	important-j
 .	Fp	.-x
 </s>
 
-<s id="1624:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.34&end=00.01.40">
+<s id="1624:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.34&end=00.01.40">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -31299,7 +31299,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1624:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.40&end=00.01.53">
+<s id="1624:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.40&end=00.01.53">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -31349,7 +31349,7 @@ chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="1624:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624&start=00.01.54&end=00.01.59">
+<s id="1624:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1624.mp4&start=00.01.54&end=00.01.59">
 
 Voilà	I	voilà-x
 ,	Fc	,-x
@@ -31378,7 +31378,7 @@ défendre	VMN0000	défendre-v
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="204" duration="short" durations="78.0" speed="medium" speedwm="156.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1625:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.00.08&end=00.00.20">
+<s id="1625:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.00.08&end=00.00.20">
 
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -31429,7 +31429,7 @@ Bowis	NP00000	Bowis-n
 .	Fp	.-x
 </s>
 
-<s id="1625:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.00.20&end=00.00.24">
+<s id="1625:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.00.20&end=00.00.24">
 
 C	NP00000	C-n
 <g/>
@@ -31457,7 +31457,7 @@ félicitations	NCFP000	félicitation-n
 !	Fat	!-x
 </s>
 
-<s id="1625:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.00.24&end=00.00.40">
+<s id="1625:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.00.24&end=00.00.40">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -31525,7 +31525,7 @@ cas	NCMN000	cas-n
 .	Fp	.-x
 </s>
 
-<s id="1625:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.00.40&end=00.01.00">
+<s id="1625:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.00.40&end=00.01.00">
 
 Cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
@@ -31608,7 +31608,7 @@ information	NCFS000	information-n
 .	Fp	.-x
 </s>
 
-<s id="1625:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.01.01&end=00.01.17">
+<s id="1625:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.01.01&end=00.01.17">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -31675,7 +31675,7 @@ rares	AQ0CP00	rare-j
 .	Fp	.-x
 </s>
 
-<s id="1625:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625&start=00.01.17&end=00.01.26">
+<s id="1625:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1625.mp4&start=00.01.17&end=00.01.26">
 
 Je	PP1CSN0	je-p
 conclus	VMIS1S0	conclure-v
@@ -31738,7 +31738,7 @@ tous	PI0MP00	tout-p
 <speaker name="Grossetête Françoise" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="274" duration="short" durations="117.0" speed="medium" speedwm="140.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1626:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.00.08&end=00.00.19">
+<s id="1626:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.00.08&end=00.00.19">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -31779,7 +31779,7 @@ directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
 
-<s id="1626:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.00.20&end=00.00.42">
+<s id="1626:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.00.20&end=00.00.42">
 
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
@@ -31869,7 +31869,7 @@ demain	RG	demain-r
 .	Fp	.-x
 </s>
 
-<s id="1626:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.00.42&end=00.00.50">
+<s id="1626:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.00.42&end=00.00.50">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -31904,7 +31904,7 @@ non	RG	non-r
 !	Fat	!-x
 </s>
 
-<s id="1626:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.00.50&end=00.00.51">
+<s id="1626:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.00.50&end=00.00.51">
 
 Nous	PP1CP00	nous-p
 veillons	VMIP1P0	veiller-v
@@ -31914,7 +31914,7 @@ cela	PD0CS00	cela-p
 .	Fp	.-x
 </s>
 
-<s id="1626:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.00.51&end=00.01.08">
+<s id="1626:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.00.51&end=00.01.08">
 
 Et	CC	et-c
 la	DA0FS0	le-x
@@ -31970,7 +31970,7 @@ médical	AQ0MS00	médical-j
 .	Fp	.-x
 </s>
 
-<s id="1626:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.09&end=00.01.17">
+<s id="1626:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.09&end=00.01.17">
 
 À	SP	à-i
 ceux	PD0MP00	celui-p
@@ -32017,7 +32017,7 @@ loin	RG	loin-r
 "	Fe	"-x
 </s>
 
-<s id="1626:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.17&end=00.01.27">
+<s id="1626:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.17&end=00.01.27">
 
 Mais	CC	mais-c
 aujourd	AQ0MS0	aujourd-j
@@ -32064,7 +32064,7 @@ moi	PP1CS00	moi-p
 .	Fp	.-x
 </s>
 
-<s id="1626:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.27&end=00.01.34">
+<s id="1626:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.27&end=00.01.34">
 
 Nous	PP1CP00	nous-p
 allons	VMIP1P0	aller-v
@@ -32094,7 +32094,7 @@ conditions	NCFP000	condition-n
 .	Fp	.-x
 </s>
 
-<s id="1626:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.34&end=00.01.46">
+<s id="1626:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.34&end=00.01.46">
 
 D	NPMS000	D-n
 <g/>
@@ -32138,7 +32138,7 @@ patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1626:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.46&end=00.01.50">
+<s id="1626:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.46&end=00.01.50">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -32160,7 +32160,7 @@ essentiel	NCMS000	essentiel-n
 .	Fp	.-x
 </s>
 
-<s id="1626:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.01.51&end=00.02.05">
+<s id="1626:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.01.51&end=00.02.05">
 
 J	NP00000	J-n
 <g/>
@@ -32209,7 +32209,7 @@ qualité	NCFS000	qualité-n
 .	Fp	.-x
 </s>
 
-<s id="1626:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626&start=00.02.05&end=00.02.06">
+<s id="1626:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1626.wmv&start=00.02.05&end=00.02.06">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -32225,7 +32225,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="287" duration="medium" durations="124.0" speed="medium" speedwm="138.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1627:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.00.10&end=00.00.22">
+<s id="1627:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.00.10&end=00.00.22">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -32280,7 +32280,7 @@ Dalli	NP00000	Dalli-n
 .	Fp	.-x
 </s>
 
-<s id="1627:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.00.22&end=00.00.34">
+<s id="1627:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.00.22&end=00.00.34">
 
 Cette	DD0FS0	ce-x
 forme	NCFS000	forme-n
@@ -32328,7 +32328,7 @@ neurodégénératives	AQ0FP0	neurodégénératives-j
 .	Fp	.-x
 </s>
 
-<s id="1627:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.00.34&end=00.00.52">
+<s id="1627:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.00.34&end=00.00.52">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -32387,7 +32387,7 @@ dès	SP	dès-i
 .	Fp	.-x
 </s>
 
-<s id="1627:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.00.52&end=00.00.56">
+<s id="1627:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.00.52&end=00.00.56">
 
 C	NP00000	C-n
 <g/>
@@ -32405,7 +32405,7 @@ résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
 
-<s id="1627:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.00.56&end=00.01.05">
+<s id="1627:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.00.56&end=00.01.05">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -32441,7 +32441,7 @@ famille	NCFS000	famille-n
 ;	Fx	;-x
 </s>
 
-<s id="1627:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.05&end=00.01.08">
+<s id="1627:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.05&end=00.01.08">
 
 ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
@@ -32456,7 +32456,7 @@ importants	AQ0MP00	important-j
 .	Fp	.-x
 </s>
 
-<s id="1627:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.08&end=00.01.32">
+<s id="1627:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.08&end=00.01.32">
 
 Et	CC	et-c
 à	SP	à-i
@@ -32550,7 +32550,7 @@ patient	NCMS000	patient-n
 .	Fp	.-x
 </s>
 
-<s id="1627:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.33&end=00.01.37">
+<s id="1627:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.33&end=00.01.37">
 
 Et	CC	et-c
 aider	VMN0000	aider-v
@@ -32572,7 +32572,7 @@ diagnostic	NCMS000	diagnostic-n
 .	Fp	.-x
 </s>
 
-<s id="1627:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.38&end=00.01.50">
+<s id="1627:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.38&end=00.01.50">
 
 Le	DA0MS0	le-x
 monde	NCMS000	monde-n
@@ -32629,7 +32629,7 @@ démence	NCFS000	démence-n
 .	Fp	.-x
 </s>
 
-<s id="1627:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.50&end=00.01.59">
+<s id="1627:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.50&end=00.01.59">
 
 Au	SP+DA	à+le-i
 niveau	NCMS000	niveau-n
@@ -32668,7 +32668,7 @@ chercheurs	NCMP000	chercheur-n
 .	Fp	.-x
 </s>
 
-<s id="1627:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.01.59&end=00.02.06">
+<s id="1627:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.01.59&end=00.02.06">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -32704,7 +32704,7 @@ curatif	AQ0MS00	curatif-j
 .	Fp	.-x
 </s>
 
-<s id="1627:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627&start=00.02.06&end=00.02.14">
+<s id="1627:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1627.mp4&start=00.02.06&end=00.02.14">
 
 La	DA0FS0	le-x
 révision	NCFS000	révision-n
@@ -32754,7 +32754,7 @@ familles	NCFP000	famille-n
 <speaker name="Juvin Philippe" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="238" duration="short" durations="98.0" speed="medium" speedwm="145.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1628:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.07&end=00.00.12">
+<s id="1628:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.07&end=00.00.12">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -32781,7 +32781,7 @@ dire	VMN0000	dire-v
 .	Fp	.-x
 </s>
 
-<s id="1628:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.12&end=00.00.19">
+<s id="1628:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.12&end=00.00.19">
 
 Permettez-moi	VMM02P0	permettre-v
 de	SP	de-i
@@ -32810,7 +32810,7 @@ graves	AQ0CP00	grave-j
 .	Fp	.-x
 </s>
 
-<s id="1628:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.19&end=00.00.24">
+<s id="1628:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.19&end=00.00.24">
 
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -32834,7 +32834,7 @@ environnement	NCMS000	environnement-n
 .	Fp	.-x
 </s>
 
-<s id="1628:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.24&end=00.00.29">
+<s id="1628:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.24&end=00.00.29">
 
 Un	DI0MS0	un-x
 bouleversement	NCMS000	bouleversement-n
@@ -32860,7 +32860,7 @@ difficiles	AQ0CP00	difficile-j
 .	Fp	.-x
 </s>
 
-<s id="1628:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.29&end=00.00.44">
+<s id="1628:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.29&end=00.00.44">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -32919,7 +32919,7 @@ seules	AQ0FP00	seul-j
 .	Fp	.-x
 </s>
 
-<s id="1628:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.45&end=00.00.46">
+<s id="1628:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.45&end=00.00.46">
 
 C	NP00000	C-n
 <g/>
@@ -32931,7 +32931,7 @@ point	NCMS000	point-n
 .	Fp	.-x
 </s>
 
-<s id="1628:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.46&end=00.00.48">
+<s id="1628:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.46&end=00.00.48">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -32944,7 +32944,7 @@ recherche	NCFS000	recherche-n
 .	Fp	.-x
 </s>
 
-<s id="1628:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.48&end=00.00.49">
+<s id="1628:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.48&end=00.00.49">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -32954,7 +32954,7 @@ recherche	NCFS000	recherche-n
 ?	Fit	?-x
 </s>
 
-<s id="1628:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.50&end=00.00.58">
+<s id="1628:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.50&end=00.00.58">
 
 Parce	NPFS000	Parce-n
 que	PR00000	que-p
@@ -33000,7 +33000,7 @@ efficace	AQ0CS00	efficace-j
 .	Fp	.-x
 </s>
 
-<s id="1628:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.00.59&end=00.01.02">
+<s id="1628:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.00.59&end=00.01.02">
 
 J	NP00000	J-n
 <g/>
@@ -33024,7 +33024,7 @@ recherche	NCFS000	recherche-n
 .	Fp	.-x
 </s>
 
-<s id="1628:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.02&end=00.01.04">
+<s id="1628:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.02&end=00.01.04">
 
 Peut-être	RG	peut-être-r
 ,	Fc	,-x
@@ -33037,7 +33037,7 @@ doute	NCMS000	doute-n
 !	Fat	!-x
 </s>
 
-<s id="1628:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.04&end=00.01.09">
+<s id="1628:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.04&end=00.01.09">
 
 Mais	CC	mais-c
 avant	SP	avant-i
@@ -33063,7 +33063,7 @@ moyens	NCMP000	moyen-n
 .	Fp	.-x
 </s>
 
-<s id="1628:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.09&end=00.01.12">
+<s id="1628:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.09&end=00.01.12">
 
 Et	CC	et-c
 jusque	SP	jusque-i
@@ -33080,7 +33080,7 @@ saupoudrée	VMP00SF	saupoudrer-v
 .	Fp	.-x
 </s>
 
-<s id="1628:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.13&end=00.01.14">
+<s id="1628:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.13&end=00.01.14">
 
 On	PP3CSN0	on-p
 n	NCFS000	n-n
@@ -33094,7 +33094,7 @@ priorités	NCFP000	priorité-n
 .	Fp	.-x
 </s>
 
-<s id="1628:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.14&end=00.01.17">
+<s id="1628:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.14&end=00.01.17">
 
 Les	DA0CP0	le-x
 gens	NCMP000	gens-n
@@ -33109,7 +33109,7 @@ eux	PP3MP00	eux-p
 .	Fp	.-x
 </s>
 
-<s id="1628:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.17&end=00.01.24">
+<s id="1628:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.17&end=00.01.24">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -33143,7 +33143,7 @@ neurologue	NCCS000	neurologue-n
 .	Fp	.-x
 </s>
 
-<s id="1628:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.24&end=00.01.26">
+<s id="1628:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.24&end=00.01.26">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -33156,7 +33156,7 @@ ensemble	NCMS000	ensemble-n
 .	Fp	.-x
 </s>
 
-<s id="1628:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.26&end=00.01.34">
+<s id="1628:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.26&end=00.01.34">
 
 Et	CC	et-c
 j	RG	j-r
@@ -33187,7 +33187,7 @@ française	AQ0FS00	français-j
 .	Fp	.-x
 </s>
 
-<s id="1628:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.34&end=00.01.40">
+<s id="1628:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.34&end=00.01.40">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -33214,7 +33214,7 @@ avancent	VMIP3P0	avancer-v
 .	Fp	.-x
 </s>
 
-<s id="1628:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628&start=00.01.41&end=00.01.45">
+<s id="1628:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1628.mp4&start=00.01.41&end=00.01.45">
 
 Qu	NP00000	Qu-n
 <g/>
@@ -33245,7 +33245,7 @@ seuls	AQ0MP00	seul-j
 <speaker name="Striffler Michèle" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="233" duration="short" durations="103.0" speed="medium" speedwm="135.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1629:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.00&end=00.00.17">
+<s id="1629:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.00&end=00.00.17">
 
 Oui	RG	oui-r
 monsieur	NCMS000	monsieur-n
@@ -33327,7 +33327,7 @@ internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1629:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.17&end=00.00.27">
+<s id="1629:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.17&end=00.00.27">
 
 Sans	SP	sans-i
 décision	NCFS000	décision-n
@@ -33365,7 +33365,7 @@ déblayés	VMP00PM	déblayer-v
 .	Fp	.-x
 </s>
 
-<s id="1629:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.28&end=00.00.32">
+<s id="1629:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.28&end=00.00.32">
 
 Je	PP1CSN0	je-p
 tiens	VMIP1S0	tenir-v
@@ -33385,7 +33385,7 @@ humanitaires	AQ0CP00	humanitaire-j
 .	Fp	.-x
 </s>
 
-<s id="1629:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.33&end=00.00.36">
+<s id="1629:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.33&end=00.00.36">
 
 Des	SP+D	de+les-i
 progrès	NCMN000	progrès-n
@@ -33402,7 +33402,7 @@ sauvées	VMP00PF	sauver-v
 .	Fp	.-x
 </s>
 
-<s id="1629:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.36&end=00.00.41">
+<s id="1629:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.36&end=00.00.41">
 
 Cependant	RG	cependant-r
 ,	Fc	,-x
@@ -33426,7 +33426,7 @@ haïtien	AQ0MS00	haïtien-j
 .	Fp	.-x
 </s>
 
-<s id="1629:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.42&end=00.00.55">
+<s id="1629:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.42&end=00.00.55">
 
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
@@ -33469,7 +33469,7 @@ reconstruction	NCFS000	reconstruction-n
 .	Fp	.-x
 </s>
 
-<s id="1629:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.00.55&end=00.01.11">
+<s id="1629:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.00.55&end=00.01.11">
 
 Elle	PP3FS00	elle-p
 doit	VMIP3S0	devoir-v
@@ -33512,7 +33512,7 @@ reconstruction	NCFS000	reconstruction-n
 .	Fp	.-x
 </s>
 
-<s id="1629:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.01.11&end=00.01.27">
+<s id="1629:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.01.11&end=00.01.27">
 
 De	SP	de-i
 plus	RG	plus-r
@@ -33570,7 +33570,7 @@ fonctionnement	NCMS000	fonctionnement-n
 .	Fp	.-x
 </s>
 
-<s id="1629:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.01.27&end=00.01.34">
+<s id="1629:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.01.27&end=00.01.34">
 
 Suite	NCFS000	suite-n
 au	SP+DA	à+le-i
@@ -33595,7 +33595,7 @@ passé	NCMS000	passé-n
 .	Fp	.-x
 </s>
 
-<s id="1629:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.01.34&end=00.01.40">
+<s id="1629:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.01.34&end=00.01.40">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -33622,7 +33622,7 @@ Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
 
-<s id="1629:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629&start=00.01.40&end=00.01.41">
+<s id="1629:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1629.mp4&start=00.01.40&end=00.01.41">
 
 Merci	NCMS000	merci-n
 beaucoup	RG	beaucoup-r
@@ -33637,7 +33637,7 @@ beaucoup	RG	beaucoup-r
 <speaker name="Goerens Charles" gender="M" country="Luxembourg" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="194" duration="short" durations="91.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1630:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.00&end=00.00.05">
+<s id="1630:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.00&end=00.00.05">
 
 Présidente	NCFS000	président-n
 ,	Fc	,-x
@@ -33660,7 +33660,7 @@ remarques	NCFP000	remarque-n
 .	Fp	.-x
 </s>
 
-<s id="1630:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.05&end=00.00.10">
+<s id="1630:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.05&end=00.00.10">
 
 Premièrement	RG	premièrement-r
 ,	Fc	,-x
@@ -33688,7 +33688,7 @@ ruines	NCFP000	ruine-n
 .	Fp	.-x
 </s>
 
-<s id="1630:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.11&end=00.00.18">
+<s id="1630:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.11&end=00.00.18">
 
 On	PP3CSN0	on-p
 savait	VMII3S0	savoir-v
@@ -33723,7 +33723,7 @@ considérables	AQ0CP00	considérable-j
 .	Fp	.-x
 </s>
 
-<s id="1630:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.18&end=00.00.28">
+<s id="1630:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.18&end=00.00.28">
 
 L	NPMS000	L-n
 <g/>
@@ -33765,7 +33765,7 @@ naturelle	AQ0FS00	naturel-j
 .	Fp	.-x
 </s>
 
-<s id="1630:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.29&end=00.00.37">
+<s id="1630:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.29&end=00.00.37">
 
 Ajoutons	VMM01P0	ajouter-v
 les	DA0CP0	le-x
@@ -33795,7 +33795,7 @@ terrain	NCMS000	terrain-n
 .	Fp	.-x
 </s>
 
-<s id="1630:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.39&end=00.00.41">
+<s id="1630:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.39&end=00.00.41">
 
 Qui	PT0CN00	qui-p
 est	VMIP3S0	être-v
@@ -33809,7 +33809,7 @@ situation	NCFS000	situation-n
 ?	Fit	?-x
 </s>
 
-<s id="1630:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.42&end=00.00.49">
+<s id="1630:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.42&end=00.00.49">
 
 Même	RG	même-r
 s	AQ0FP0	s-j
@@ -33842,7 +33842,7 @@ lui-même	PP3MS00	lui-même-p
 .	Fp	.-x
 </s>
 
-<s id="1630:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.49&end=00.00.55">
+<s id="1630:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.49&end=00.00.55">
 
 L	NP00000	L-n
 <g/>
@@ -33864,7 +33864,7 @@ veut	VMIP3S0	vouloir-v
 .	Fp	.-x
 </s>
 
-<s id="1630:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.00.55&end=00.01.00">
+<s id="1630:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.00.55&end=00.01.00">
 
 Deuxième	AO0CS00	2-j
 remarque	NCFS000	remarque-n
@@ -33895,7 +33895,7 @@ l	AQ0MS0	l-j
 .	Fp	.-x
 </s>
 
-<s id="1630:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.01.01&end=00.01.04">
+<s id="1630:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.01.01&end=00.01.04">
 
 D'	SP	de-i
 <g/>
@@ -33919,7 +33919,7 @@ domaine	NCMS000	domaine-n
 .	Fp	.-x
 </s>
 
-<s id="1630:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.01.05&end=00.01.09">
+<s id="1630:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.01.05&end=00.01.09">
 
 Non	RG	non-r
 seulement	RG	seulement-r
@@ -33942,7 +33942,7 @@ réalisées	VMP00PF	réaliser-v
 .	Fp	.-x
 </s>
 
-<s id="1630:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.01.10&end=00.01.26">
+<s id="1630:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.01.10&end=00.01.26">
 
 Ce	PP0CNN0	ce-p
 que	PR00000	que-p
@@ -33998,7 +33998,7 @@ dépendance	NCFS000	dépendance-n
 .	Fp	.-x
 </s>
 
-<s id="1630:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630&start=00.01.26&end=00.01.29">
+<s id="1630:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1630.mp4&start=00.01.26&end=00.01.29">
 
 Je	PP1CSN0	je-p
 concède	VMIP3S0	concéder-v
@@ -34023,7 +34023,7 @@ mois	NCMP000	moi-n
 <speaker name="Hénin Jacky" gender="M" country="France" politfunc="MEP" politgroup="GUE/NGL">
 <st language="fr" length="medium" lengthw="406" duration="medium" durations="191.0" speed="slow" speedwm="127.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1631:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.00&end=00.00.04">
+<s id="1631:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.00&end=00.00.04">
 
 Présidente	NCFS000	président-n
 ,	Fc	,-x
@@ -34050,7 +34050,7 @@ catastrophe	NCFS000	catastrophe-n
 .	Fp	.-x
 </s>
 
-<s id="1631:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.04&end=00.00.06">
+<s id="1631:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.04&end=00.00.06">
 
 Partout	RG	partout-r
 ,	Fc	,-x
@@ -34062,7 +34062,7 @@ mort	NCFS000	mort-n
 .	Fp	.-x
 </s>
 
-<s id="1631:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.06&end=00.00.13">
+<s id="1631:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.06&end=00.00.13">
 
 Qu	NP00000	Qu-n
 <g/>
@@ -34094,7 +34094,7 @@ sinistrés	NCMP000	sinistré-n
 .	Fp	.-x
 </s>
 
-<s id="1631:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.13&end=00.00.19">
+<s id="1631:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.13&end=00.00.19">
 
 Solidarité	NCFS000	solidarité-n
 populaire	AQ0CS00	populaire-j
@@ -34125,7 +34125,7 @@ plus	NCMN000	plus-n
 .	Fp	.-x
 </s>
 
-<s id="1631:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.19&end=00.00.28">
+<s id="1631:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.19&end=00.00.28">
 
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
@@ -34158,7 +34158,7 @@ résultats	NCMP000	résultat-n
 .	Fp	.-x
 </s>
 
-<s id="1631:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.29&end=00.00.39">
+<s id="1631:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.29&end=00.00.39">
 
 À	SP	à-i
 ce	DD0MS0	ce-x
@@ -34197,7 +34197,7 @@ Haïtiens	NPMP000	Haïtiens-n
 .	Fp	.-x
 </s>
 
-<s id="1631:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.40&end=00.00.44">
+<s id="1631:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.40&end=00.00.44">
 
 Cuba	VMIS3S0	cuber-v
 ,	Fc	,-x
@@ -34217,7 +34217,7 @@ experts	NCCP000	expert-n
 .	Fp	.-x
 </s>
 
-<s id="1631:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.45&end=00.00.51">
+<s id="1631:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.45&end=00.00.51">
 
 C	NP00000	C-n
 <g/>
@@ -34250,7 +34250,7 @@ place	NCFS000	place-n
 .	Fp	.-x
 </s>
 
-<s id="1631:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.00.51&end=00.01.11">
+<s id="1631:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.00.51&end=00.01.11">
 
 L	NP00000	L-n
 <g/>
@@ -34329,7 +34329,7 @@ son	DP3CSS	son-x
 .	Fp	.-x
 </s>
 
-<s id="1631:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.01.12&end=00.01.21">
+<s id="1631:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.01.12&end=00.01.21">
 
 Au	SP+DA	à+le-i
 regard	NCMS000	regard-n
@@ -34364,7 +34364,7 @@ leçons	NCFP000	leçon-n
 .	Fp	.-x
 </s>
 
-<s id="1631:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.01.21&end=00.01.31">
+<s id="1631:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.01.21&end=00.01.31">
 
 Rappelons	VMM01P0	rappeler-v
 quand	CS	quand-c
@@ -34407,7 +34407,7 @@ Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
 
-<s id="1631:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.01.31&end=00.01.36">
+<s id="1631:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.01.31&end=00.01.36">
 
 Pour	SP	pour-i
 l	NCMS000	l-n
@@ -34435,7 +34435,7 @@ ONU	NP00000	ONU-n
 .	Fp	.-x
 </s>
 
-<s id="1631:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.01.36&end=00.01.44">
+<s id="1631:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.01.36&end=00.01.44">
 
 À	SP	à-i
 Haïti	NPMS000	Haïti-n
@@ -34461,7 +34461,7 @@ populations	NCFP000	population-n
 .	Fp	.-x
 </s>
 
-<s id="1631:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.01.44&end=00.02.03">
+<s id="1631:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.01.44&end=00.02.03">
 
 Pire	NCMS000	pire-n
 ,	Fc	,-x
@@ -34519,7 +34519,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1631:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.03&end=00.02.07">
+<s id="1631:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.03&end=00.02.07">
 
 Reste	NCMS000	reste-n
 à	SP	à-i
@@ -34532,7 +34532,7 @@ parle	VMIP1S0	parler-v
 .	Fp	.-x
 </s>
 
-<s id="1631:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.07&end=00.02.11">
+<s id="1631:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.07&end=00.02.11">
 
 Quelle	DT0FS0	quel-x
 part	NCCS000	part-n
@@ -34549,7 +34549,7 @@ terrain	NCMS000	terrain-n
 ?	Fit	?-x
 </s>
 
-<s id="1631:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.11&end=00.02.13">
+<s id="1631:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.11&end=00.02.13">
 
 Qui	PT0CN00	qui-p
 décidera	VMIF3S0	décider-v
@@ -34558,7 +34558,7 @@ projets	NCMP000	projet-n
 ?	Fit	?-x
 </s>
 
-<s id="1631:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.13&end=00.02.27">
+<s id="1631:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.13&end=00.02.27">
 
 Va-t-on	VMM02S0	aller-v
 voir	VMN0000	voir-v
@@ -34600,7 +34600,7 @@ internationaux	AQ0MP00	international-j
 ?	Fit	?-x
 </s>
 
-<s id="1631:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.27&end=00.02.41">
+<s id="1631:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.27&end=00.02.41">
 
 L	NP00000	L-n
 <g/>
@@ -34655,7 +34655,7 @@ lui-même	PP3MS00	lui-même-p
 .	Fp	.-x
 </s>
 
-<s id="1631:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.41&end=00.02.46">
+<s id="1631:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.41&end=00.02.46">
 
 Le	DA0MS0	le-x
 peuple	NCMS000	peuple-n
@@ -34677,7 +34677,7 @@ français	AQ0MN00	français-j
 .	Fp	.-x
 </s>
 
-<s id="1631:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.46&end=00.02.55">
+<s id="1631:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.46&end=00.02.55">
 
 Outre	SP	outre-i
 les	DA0CP0	le-x
@@ -34710,7 +34710,7 @@ esclavagistes	NCCP000	esclavagiste-n
 .	Fp	.-x
 </s>
 
-<s id="1631:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.02.55&end=00.03.07">
+<s id="1631:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.02.55&end=00.03.07">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -34764,7 +34764,7 @@ Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
 
-<s id="1631:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631&start=00.03.07&end=00.03.10">
+<s id="1631:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1631.mp4&start=00.03.07&end=00.03.10">
 
 Il	PP3MSN0	il-p
 nous	PP1CP00	nous-p
@@ -34787,7 +34787,7 @@ honneur	NCMS000	honneur-n
 <speaker name="Rivasi Michèle" gender="F" country="France" politfunc="MEP" politgroup="Greens/ALE">
 <st language="fr" length="short" lengthw="273" duration="short" durations="107.0" speed="medium" speedwm="153.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1632:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.00&end=00.00.07">
+<s id="1632:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.00&end=00.00.07">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -34831,7 +34831,7 @@ traiter	VMN0000	traiter-v
 .	Fp	.-x
 </s>
 
-<s id="1632:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.07&end=00.00.12">
+<s id="1632:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.07&end=00.00.12">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -34852,7 +34852,7 @@ développement	NCMS000	développement-n
 .	Fp	.-x
 </s>
 
-<s id="1632:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.12&end=00.00.18">
+<s id="1632:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.12&end=00.00.18">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -34880,7 +34880,7 @@ solides	AQ0CP00	solide-j
 .	Fp	.-x
 </s>
 
-<s id="1632:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.18&end=00.00.27">
+<s id="1632:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.18&end=00.00.27">
 
 Premier	AQ0MS00	premier-j
 constat	NCMS000	constat-n
@@ -34924,7 +34924,7 @@ an	NCMS000	an-n
 .	Fp	.-x
 </s>
 
-<s id="1632:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.27&end=00.00.31">
+<s id="1632:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.27&end=00.00.31">
 
 À	SP	à-i
 ce	DD0MS0	ce-x
@@ -34945,7 +34945,7 @@ décombres	NCMP000	décombres-n
 .	Fp	.-x
 </s>
 
-<s id="1632:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.31&end=00.00.36">
+<s id="1632:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.31&end=00.00.36">
 
 Donc	CC	donc-c
 c	RG	c-r
@@ -34968,7 +34968,7 @@ contribution	NCFS000	contribution-n
 .	Fp	.-x
 </s>
 
-<s id="1632:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.36&end=00.00.43">
+<s id="1632:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.36&end=00.00.43">
 
 Une	DI0FS0	un-x
 autre	AQ0CS00	autre-j
@@ -35001,7 +35001,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1632:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.43&end=00.00.49">
+<s id="1632:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.43&end=00.00.49">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -35030,7 +35030,7 @@ compétences	NCFP000	compétence-n
 .	Fp	.-x
 </s>
 
-<s id="1632:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.50&end=00.00.58">
+<s id="1632:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.50&end=00.00.58">
 
 Sa	DP3FSS	son-x
 dépendance	NCFS000	dépendance-n
@@ -35064,7 +35064,7 @@ l	AQ0MS0	l-j
 .	Fp	.-x
 </s>
 
-<s id="1632:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.00.58&end=00.01.03">
+<s id="1632:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.00.58&end=00.01.03">
 
 Mais	CC	mais-c
 il	PP3MSN0	il-p
@@ -35082,7 +35082,7 @@ ONG	NP00000	ONG-n
 .	Fp	.-x
 </s>
 
-<s id="1632:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.01.04&end=00.01.15">
+<s id="1632:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.01.04&end=00.01.15">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -35126,7 +35126,7 @@ corrompue	VMP00SF	corrompre-v
 .	Fp	.-x
 </s>
 
-<s id="1632:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.01.16&end=00.01.25">
+<s id="1632:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.01.16&end=00.01.25">
 
 L	NP00000	L-n
 <g/>
@@ -35164,7 +35164,7 @@ pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
 
-<s id="1632:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.01.26&end=00.01.33">
+<s id="1632:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.01.26&end=00.01.33">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -35197,7 +35197,7 @@ séisme	NCMS000	séisme-n
 .	Fp	.-x
 </s>
 
-<s id="1632:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632&start=00.01.33&end=00.01.45">
+<s id="1632:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1632.mp4&start=00.01.33&end=00.01.45">
 
 Et	CC	et-c
 j	RG	j-r
@@ -35244,7 +35244,7 @@ haïtien	AQ0MS00	haïtien-j
 <speaker name="Trautmann Catherine" gender="F" country="France" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="260" duration="medium" durations="123.0" speed="slow" speedwm="126.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1633:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.00.05&end=00.00.23">
+<s id="1633:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.00.05&end=00.00.23">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -35315,7 +35315,7 @@ publiques	AQ0FP00	public-j
 .	Fp	.-x
 </s>
 
-<s id="1633:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.00.23&end=00.00.37">
+<s id="1633:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.00.23&end=00.00.37">
 
 Comment	PT00000	comment-p
 peut-on	VMIP3S0	pouvoir-v
@@ -35362,7 +35362,7 @@ sexuelle	AQ0FS00	sexuel-j
 ?	Fit	?-x
 </s>
 
-<s id="1633:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.00.37&end=00.00.49">
+<s id="1633:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.00.37&end=00.00.49">
 
 Nous	PP1CP00	nous-p
 le	PP3MSA0	le-p
@@ -35404,7 +35404,7 @@ LGBT	NPMS000	LGBT-n
 .	Fp	.-x
 </s>
 
-<s id="1633:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.00.49&end=00.01.04">
+<s id="1633:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.00.49&end=00.01.04">
 
 Mais	CC	mais-c
 c	RG	c-r
@@ -35458,7 +35458,7 @@ violence	NCFS000	violence-n
 .	Fp	.-x
 </s>
 
-<s id="1633:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.01.05&end=00.01.15">
+<s id="1633:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.01.05&end=00.01.15">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -35506,7 +35506,7 @@ autrui	PI0CS00	autrui-p
 .	Fp	.-x
 </s>
 
-<s id="1633:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.01.15&end=00.01.29">
+<s id="1633:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.01.15&end=00.01.29">
 
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
@@ -35559,7 +35559,7 @@ fondamentales	AQ0FP00	fondamental-j
 .	Fp	.-x
 </s>
 
-<s id="1633:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.01.29&end=00.01.47">
+<s id="1633:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.01.29&end=00.01.47">
 
 Elle	PP3FS00	elle-p
 s	NCFP000	s-n
@@ -35634,7 +35634,7 @@ l	NCMS000	l-n
 .	Fp	.-x
 </s>
 
-<s id="1633:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.01.47&end=00.01.56">
+<s id="1633:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.01.47&end=00.01.56">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -35673,7 +35673,7 @@ collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
 
-<s id="1633:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633&start=00.01.57&end=00.02.09">
+<s id="1633:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1633.mp4&start=00.01.57&end=00.02.09">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -35731,7 +35731,7 @@ résolution	NCFS000	résolution-n
 <speaker name="Daul Joseph" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="480" duration="medium" durations="200.0" speed="medium" speedwm="144.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1634:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.00.05&end=00.00.19">
+<s id="1634:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.00.05&end=00.00.19">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -35789,7 +35789,7 @@ renforcer	VMN0000	renforcer-v
 .	Fp	.-x
 </s>
 
-<s id="1634:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.00.19&end=00.00.39">
+<s id="1634:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.00.19&end=00.00.39">
 
 Nos	DP1CPP	notre-x
 chefs	NCCP000	chef-n
@@ -35870,7 +35870,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="1634:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.00.39&end=00.00.47">
+<s id="1634:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.00.39&end=00.00.47">
 
 Ceci	PD0CS00	ceci-p
 dit	VMIP3S0	dire-v
@@ -35908,7 +35908,7 @@ euro	NCMS000	euro-n
 .	Fp	.-x
 </s>
 
-<s id="1634:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.00.48&end=00.01.00">
+<s id="1634:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.00.48&end=00.01.00">
 
 Tout	PI0MS00	tout-p
 doit	VMIP3S0	devoir-v
@@ -35959,7 +35959,7 @@ terme	NCMS000	terme-n
 .	Fp	.-x
 </s>
 
-<s id="1634:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.00&end=00.01.02">
+<s id="1634:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.00&end=00.01.02">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -35973,7 +35973,7 @@ langage	NCMS000	langage-n
 .	Fp	.-x
 </s>
 
-<s id="1634:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.02&end=00.01.07">
+<s id="1634:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.02&end=00.01.07">
 
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
@@ -35992,7 +35992,7 @@ assainies	VMP00PF	assainir-v
 .	Fp	.-x
 </s>
 
-<s id="1634:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.08&end=00.01.11">
+<s id="1634:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.08&end=00.01.11">
 
 Poussez	VMM02P0	pousser-v
 très	RG	très-r
@@ -36008,7 +36008,7 @@ prise	VMP00SF	prendre-v
 !	Fat	!-x
 </s>
 
-<s id="1634:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.11&end=00.01.18">
+<s id="1634:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.11&end=00.01.18">
 
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
@@ -36032,7 +36032,7 @@ sociales	AQ0FP00	social-j
 .	Fp	.-x
 </s>
 
-<s id="1634:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.19&end=00.01.32">
+<s id="1634:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.19&end=00.01.32">
 
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
@@ -36083,7 +36083,7 @@ budgétaire	AQ0CS00	budgétaire-j
 .	Fp	.-x
 </s>
 
-<s id="1634:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.32&end=00.01.45">
+<s id="1634:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.32&end=00.01.45">
 
 Nos	DP1CPP	notre-x
 concitoyens	NCMP000	concitoyen-n
@@ -36136,7 +36136,7 @@ ainsi	RG	ainsi-r
 .	Fp	.-x
 </s>
 
-<s id="1634:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.45&end=00.01.58">
+<s id="1634:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.45&end=00.01.58">
 
 Enfin	RG	enfin-r
 ,	Fc	,-x
@@ -36203,7 +36203,7 @@ vie	NCFS000	vie-n
 .	Fp	.-x
 </s>
 
-<s id="1634:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.01.58&end=00.02.11">
+<s id="1634:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.01.58&end=00.02.11">
 
 Mon	DP1CSS	mon-x
 groupe	NCMS000	groupe-n
@@ -36249,7 +36249,7 @@ durable	AQ0CS00	durable-j
 .	Fp	.-x
 </s>
 
-<s id="1634:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.02.12&end=00.02.26">
+<s id="1634:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.02.12&end=00.02.26">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -36300,7 +36300,7 @@ commencer	VMN0000	commencer-v
 .	Fp	.-x
 </s>
 
-<s id="1634:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.02.27&end=00.02.38">
+<s id="1634:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.02.27&end=00.02.38">
 
 Mon	DP1CSS	mon-x
 groupe	NCMS000	groupe-n
@@ -36352,7 +36352,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1634:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.02.39&end=00.03.00">
+<s id="1634:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.02.39&end=00.03.00">
 
 Mon	DP1CSS	mon-x
 cher	AQ0MS00	cher-j
@@ -36438,7 +36438,7 @@ rentrons	VMIP1P0	rentrer-v
 ?	Fit	?-x
 </s>
 
-<s id="1634:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.03.00&end=00.03.01">
+<s id="1634:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.03.00&end=00.03.01">
 
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
@@ -36451,7 +36451,7 @@ diminuant	VMG0000	diminuer-v
 ;	Fx	;-x
 </s>
 
-<s id="1634:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.03.02&end=00.03.09">
+<s id="1634:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.03.02&end=00.03.09">
 
 si	CS	si-c
 nous	PP1CP00	nous-p
@@ -36485,7 +36485,7 @@ argent	NCMS000	argent-n
 .	Fp	.-x
 </s>
 
-<s id="1634:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.03.09&end=00.03.24">
+<s id="1634:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.03.09&end=00.03.24">
 
 N	NP00000	N-n
 <g/>
@@ -36545,7 +36545,7 @@ table	NCFS000	table-n
 .	Fp	.-x
 </s>
 
-<s id="1634:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634&start=00.03.24&end=00.03.26">
+<s id="1634:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1634.mp4&start=00.03.24&end=00.03.26">
 
 Merci	NCMS000	merci-n
 de	SP	de-i
@@ -36562,13 +36562,13 @@ attention	NCFS000	attention-n
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="366" duration="medium" durations="152.0" speed="medium" speedwm="144.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1635:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.06&end=00.00.07">
+<s id="1635:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.06&end=00.00.07">
 
 dent	NCFS000	dent-n
 .	Fp	.-x
 </s>
 
-<s id="1635:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.07&end=00.00.12">
+<s id="1635:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.07&end=00.00.12">
 
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
@@ -36592,7 +36592,7 @@ remarques	NCFP000	remarque-n
 .	Fp	.-x
 </s>
 
-<s id="1635:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.13&end=00.00.28">
+<s id="1635:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.13&end=00.00.28">
 
 La	DA0FS0	le-x
 première	AQ0FS00	premier-j
@@ -36654,7 +36654,7 @@ importante	AQ0FS00	important-j
 .	Fp	.-x
 </s>
 
-<s id="1635:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.28&end=00.00.42">
+<s id="1635:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.28&end=00.00.42">
 
 Donc	CC	donc-c
 il	PP3MSN0	il-p
@@ -36720,7 +36720,7 @@ juridisme	NCMS000	juridisme-n
 .	Fp	.-x
 </s>
 
-<s id="1635:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.42&end=00.00.47">
+<s id="1635:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.42&end=00.00.47">
 
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
@@ -36739,7 +36739,7 @@ marchés	NCMP000	marché-n
 .	Fp	.-x
 </s>
 
-<s id="1635:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.48&end=00.00.56">
+<s id="1635:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.48&end=00.00.56">
 
 D'	SP	de-i
 <g/>
@@ -36783,7 +36783,7 @@ rassurés	VMP00PM	rassurer-v
 .	Fp	.-x
 </s>
 
-<s id="1635:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.00.56&end=00.01.00">
+<s id="1635:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.00.56&end=00.01.00">
 
 Donc	CC	donc-c
 ,	Fc	,-x
@@ -36805,7 +36805,7 @@ marchés	NCMP000	marché-n
 .	Fp	.-x
 </s>
 
-<s id="1635:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.00&end=00.01.04">
+<s id="1635:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.00&end=00.01.04">
 
 Mais	CC	mais-c
 surtout	RG	surtout-r
@@ -36829,7 +36829,7 @@ révision	NCFS000	révision-n
 ?	Fit	?-x
 </s>
 
-<s id="1635:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.04&end=00.01.13">
+<s id="1635:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.04&end=00.01.13">
 
 Je	PP1CSN0	je-p
 viens	VMIP1S0	venir-v
@@ -36873,7 +36873,7 @@ là	RG	là-r
 .	Fp	.-x
 </s>
 
-<s id="1635:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.14&end=00.01.23">
+<s id="1635:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.14&end=00.01.23">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -36916,7 +36916,7 @@ lieu	NCMS000	lieu-n
 .	Fp	.-x
 </s>
 
-<s id="1635:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.23&end=00.01.29">
+<s id="1635:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.23&end=00.01.29">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -36940,7 +36940,7 @@ passe	VMIP1S0	passer-v
 .	Fp	.-x
 </s>
 
-<s id="1635:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.30&end=00.01.34">
+<s id="1635:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.30&end=00.01.34">
 
 Mais	CC	mais-c
 si	CS	si-c
@@ -36961,7 +36961,7 @@ populations	NCFP000	population-n
 .	Fp	.-x
 </s>
 
-<s id="1635:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.34&end=00.01.39">
+<s id="1635:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.34&end=00.01.39">
 
 Et	CC	et-c
 ça	PD0MS00	cela-p
@@ -36980,7 +36980,7 @@ nothing	NCMS000	nothing-n
 .	Fp	.-x
 </s>
 
-<s id="1635:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.40&end=00.01.44">
+<s id="1635:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.40&end=00.01.44">
 
 Vous	PP2CP00	vous-p
 changez	VMIP2P0	changer-v
@@ -36994,7 +36994,7 @@ droit	NCMS000	droit-n
 .	Fp	.-x
 </s>
 
-<s id="1635:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.44&end=00.01.49">
+<s id="1635:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.44&end=00.01.49">
 
 Vous	PP2CP00	vous-p
 ne	RN	ne-r
@@ -37015,7 +37015,7 @@ attendent	VMIP3P0	attendre-v
 .	Fp	.-x
 </s>
 
-<s id="1635:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.49&end=00.01.56">
+<s id="1635:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.49&end=00.01.56">
 
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -37044,7 +37044,7 @@ constants	AQ0MP00	constant-j
 .	Fp	.-x
 </s>
 
-<s id="1635:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.01.56&end=00.02.02">
+<s id="1635:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.01.56&end=00.02.02">
 
 Nous	PP1CP00	nous-p
 étions	VMII1P0	être-v
@@ -37075,7 +37075,7 @@ traités	NCMP000	traité-n
 .	Fp	.-x
 </s>
 
-<s id="1635:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.03&end=00.02.16">
+<s id="1635:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.03&end=00.02.16">
 
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
@@ -37149,7 +37149,7 @@ croissance	NCFS000	croissance-n
 .	Fp	.-x
 </s>
 
-<s id="1635:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.16&end=00.02.20">
+<s id="1635:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.16&end=00.02.20">
 
 Donc	CC	donc-c
 ,	Fc	,-x
@@ -37172,7 +37172,7 @@ travaux	NCMP000	travail-n
 .	Fp	.-x
 </s>
 
-<s id="1635:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.20&end=00.02.22">
+<s id="1635:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.20&end=00.02.22">
 
 Très	RG	très-r
 bien	RG	bien-r
@@ -37181,7 +37181,7 @@ accélérons	VMM01P0	accélérer-v
 !	Fat	!-x
 </s>
 
-<s id="1635:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.22&end=00.02.24">
+<s id="1635:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.22&end=00.02.24">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -37197,7 +37197,7 @@ accélère	VMIP3S0	accélérer-v
 .	Fp	.-x
 </s>
 
-<s id="1635:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.24&end=00.02.27">
+<s id="1635:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.24&end=00.02.27">
 
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
@@ -37209,7 +37209,7 @@ rapports	NCMP000	rapport-n
 .	Fp	.-x
 </s>
 
-<s id="1635:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.27&end=00.02.36">
+<s id="1635:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.27&end=00.02.36">
 
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -37261,7 +37261,7 @@ adapte	VMIP3S0	adapter-v
 .	Fp	.-x
 </s>
 
-<s id="1635:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635&start=00.02.37&end=00.02.38">
+<s id="1635:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1635.mp4&start=00.02.37&end=00.02.38">
 
 J	NPFS000	J-n
 <g/>
@@ -37284,7 +37284,7 @@ merci	NCMS000	merci-n
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="231" duration="short" durations="93.0" speed="medium" speedwm="149.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1636:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.05&end=00.00.10">
+<s id="1636:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.05&end=00.00.10">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -37304,7 +37304,7 @@ sages	NCCP000	sage-n
 .	Fp	.-x
 </s>
 
-<s id="1636:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.10&end=00.00.18">
+<s id="1636:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.10&end=00.00.18">
 
 Il	PP3MSN0	il-p
 était	VSII3S0	être-v
@@ -37336,7 +37336,7 @@ souveraine	AQ0FS00	souverain-j
 .	Fp	.-x
 </s>
 
-<s id="1636:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.18&end=00.00.21">
+<s id="1636:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.18&end=00.00.21">
 
 Pouvaient-ils	VMII3P0	pouvoir-v
 constituer	VMN0000	constituer-v
@@ -37348,7 +37348,7 @@ sages	NCCP000	sage-n
 ?	Fit	?-x
 </s>
 
-<s id="1636:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.21&end=00.00.33">
+<s id="1636:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.21&end=00.00.33">
 
 La	DA0FS0	le-x
 cacophonie	NCFS000	cacophonie-n
@@ -37398,7 +37398,7 @@ sages	NCCP000	sage-n
 .	Fp	.-x
 </s>
 
-<s id="1636:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.33&end=00.00.37">
+<s id="1636:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.33&end=00.00.37">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -37416,7 +37416,7 @@ euro	NCMS000	euro-n
 .	Fp	.-x
 </s>
 
-<s id="1636:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.37&end=00.00.42">
+<s id="1636:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.37&end=00.00.42">
 
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
@@ -37440,7 +37440,7 @@ spéculateurs	NCMP000	spéculateur-n
 .	Fp	.-x
 </s>
 
-<s id="1636:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.43&end=00.00.56">
+<s id="1636:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.43&end=00.00.56">
 
 Pour	SP	pour-i
 cela	PD0CS00	cela-p
@@ -37487,7 +37487,7 @@ Eurogroupe	NPMS000	Eurogroupe-n
 .	Fp	.-x
 </s>
 
-<s id="1636:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.00.56&end=00.01.05">
+<s id="1636:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.00.56&end=00.01.05">
 
 Pourtant	RG	pourtant-r
 ,	Fc	,-x
@@ -37527,7 +37527,7 @@ tard	RG	tard-r
 .	Fp	.-x
 </s>
 
-<s id="1636:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636&start=00.01.06&end=00.01.39">
+<s id="1636:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1636.wmv&start=00.01.06&end=00.01.39">
 
 Car	CC	car-c
 il	PP3MSN0	il-p
@@ -37657,7 +37657,7 @@ marchés	NCMP000	marché-n
 <speaker name="Audy Jean Pierre" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="159" duration="short" durations="63.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1637:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.05&end=00.00.13">
+<s id="1637:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.05&end=00.00.13">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -37694,7 +37694,7 @@ crise	NCFS000	crise-n
 .	Fp	.-x
 </s>
 
-<s id="1637:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.14&end=00.00.27">
+<s id="1637:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.14&end=00.00.27">
 
 Sur	SP	sur-i
 les	DA0CP0	le-x
@@ -37752,7 +37752,7 @@ représente	VMIP3S0	représenter-v
 .	Fp	.-x
 </s>
 
-<s id="1637:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.27&end=00.00.34">
+<s id="1637:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.27&end=00.00.34">
 
 Je	PP1CSN0	je-p
 suggère	VMIP3S0	suggérer-v
@@ -37789,7 +37789,7 @@ actuellement	RG	actuellement-r
 .	Fp	.-x
 </s>
 
-<s id="1637:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.35&end=00.00.39">
+<s id="1637:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.35&end=00.00.39">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -37809,7 +37809,7 @@ nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
 
-<s id="1637:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.39&end=00.00.45">
+<s id="1637:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.39&end=00.00.45">
 
 Dans	SP	dans-i
 la	DA0FS0	le-x
@@ -37838,7 +37838,7 @@ ratification	NCFS000	ratification-n
 .	Fp	.-x
 </s>
 
-<s id="1637:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.45&end=00.00.57">
+<s id="1637:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.45&end=00.00.57">
 
 Je	PP1CSN0	je-p
 propose	VMIP1S0	proposer-v
@@ -37884,7 +37884,7 @@ mécanisme	NCMS000	mécanisme-n
 .	Fp	.-x
 </s>
 
-<s id="1637:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.00.57&end=00.01.00">
+<s id="1637:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.00.57&end=00.01.00">
 
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
@@ -37900,7 +37900,7 @@ nationaux	AQ0MP00	national-j
 ?	Fit	?-x
 </s>
 
-<s id="1637:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.01.00&end=00.01.08">
+<s id="1637:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.01.00&end=00.01.08">
 
 Mais	CC	mais-c
 ,	Fc	,-x
@@ -37933,7 +37933,7 @@ mécanisme	NCMS000	mécanisme-n
 .	Fp	.-x
 </s>
 
-<s id="1637:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637&start=00.01.08&end=00.01.10">
+<s id="1637:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1637.wmv&start=00.01.08&end=00.01.10">
 
 Donc	CC	donc-c
 c	RG	c-r
@@ -37962,7 +37962,7 @@ soumets	VMIP1S0	soumettre-v
 <speaker name="Daul Joseph" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="754" duration="medium" durations="331.0" speed="medium" speedwm="136.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1638:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.04&end=00.00.12">
+<s id="1638:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.04&end=00.00.12">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -37995,7 +37995,7 @@ collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
 
-<s id="1638:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.13&end=00.00.35">
+<s id="1638:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.13&end=00.00.35">
 
 Rarement	RG	rarement-r
 présidence	NCFS000	présidence-n
@@ -38073,7 +38073,7 @@ alarmante	AQ0FS00	alarmant-j
 .	Fp	.-x
 </s>
 
-<s id="1638:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.35&end=00.00.43">
+<s id="1638:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.35&end=00.00.43">
 
 Ces	DD0CP0	ce-x
 défis	NCMP000	défi-n
@@ -38105,7 +38105,7 @@ relever	VMN0000	relever-v
 .	Fp	.-x
 </s>
 
-<s id="1638:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.43&end=00.00.48">
+<s id="1638:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.43&end=00.00.48">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -38126,7 +38126,7 @@ Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
 
-<s id="1638:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.48&end=00.00.57">
+<s id="1638:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.48&end=00.00.57">
 
 Votre	DP2CSP	votre-x
 parti	NCMS000	parti-n
@@ -38158,7 +38158,7 @@ démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
 
-<s id="1638:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.00.58&end=00.01.08">
+<s id="1638:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.00.58&end=00.01.08">
 
 Depuis	SP	depuis-i
 votre	DP2CSP	votre-x
@@ -38198,7 +38198,7 @@ majorité	NCFS000	majorité-n
 .	Fp	.-x
 </s>
 
-<s id="1638:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.01.08&end=00.01.17">
+<s id="1638:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.01.08&end=00.01.17">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -38243,7 +38243,7 @@ traités	NCMP000	traité-n
 .	Fp	.-x
 </s>
 
-<s id="1638:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.01.17&end=00.01.37">
+<s id="1638:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.01.17&end=00.01.37">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -38309,7 +38309,7 @@ parole	NCFS000	parole-n
 .	Fp	.-x
 </s>
 
-<s id="1638:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.01.38&end=00.01.50">
+<s id="1638:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.01.38&end=00.01.50">
 
 Pour	SP	pour-i
 ma	DP1FSS	mon-x
@@ -38355,7 +38355,7 @@ européennes	AQ0FP00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1638:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.01.50&end=00.01.56">
+<s id="1638:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.01.50&end=00.01.56">
 
 Viktor	NPMS000	Viktor-n
 Orbán	NP00000	Orbán-n
@@ -38379,7 +38379,7 @@ européen	NCMS000	européen-n
 !	Fat	!-x
 </s>
 
-<s id="1638:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.01.56&end=00.02.06">
+<s id="1638:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.01.56&end=00.02.06">
 
 Je	PP1CSN0	je-p
 n	NCFS000	n-n
@@ -38419,7 +38419,7 @@ présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
 
-<s id="1638:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.02.07&end=00.02.12">
+<s id="1638:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.02.07&end=00.02.12">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -38444,7 +38444,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1638:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.02.13&end=00.02.25">
+<s id="1638:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.02.13&end=00.02.25">
 
 C	NP00000	C-n
 <g/>
@@ -38494,7 +38494,7 @@ prochainement	RG	prochainement-r
 .	Fp	.-x
 </s>
 
-<s id="1638:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.02.25&end=00.02.34">
+<s id="1638:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.02.25&end=00.02.34">
 
 En	SP	en-i
 effet	NCMS000	effet-n
@@ -38524,7 +38524,7 @@ monnaie	NCFS000	monnaie-n
 .	Fp	.-x
 </s>
 
-<s id="1638:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.02.34&end=00.02.57">
+<s id="1638:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.02.34&end=00.02.57">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -38605,7 +38605,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1638:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.02.58&end=00.03.04">
+<s id="1638:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.02.58&end=00.03.04">
 
 Cela	PD0CS00	cela-p
 passe	VMIP1S0	passer-v
@@ -38628,7 +38628,7 @@ productivité	NCFS000	productivité-n
 .	Fp	.-x
 </s>
 
-<s id="1638:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.05&end=00.03.16">
+<s id="1638:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.05&end=00.03.16">
 
 Comme	CS	comme-c
 la	DA0FS0	le-x
@@ -38673,7 +38673,7 @@ cohérente	AQ0FS00	cohérent-j
 .	Fp	.-x
 </s>
 
-<s id="1638:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.16&end=00.03.21">
+<s id="1638:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.16&end=00.03.21">
 
 Il	PP3MSN0	il-p
 passe	VMIP1S0	passer-v
@@ -38695,7 +38695,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1638:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.21&end=00.03.29">
+<s id="1638:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.21&end=00.03.29">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -38723,7 +38723,7 @@ européenne	NCFS000	européen-n
 .	Fp	.-x
 </s>
 
-<s id="1638:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.30&end=00.03.35">
+<s id="1638:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.30&end=00.03.35">
 
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
@@ -38745,7 +38745,7 @@ sens	NCMN000	sens-n
 .	Fp	.-x
 </s>
 
-<s id="1638:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.36&end=00.03.42">
+<s id="1638:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.36&end=00.03.42">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -38780,7 +38780,7 @@ commune	AQ0FS00	commun-j
 .	Fp	.-x
 </s>
 
-<s id="1638:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.43&end=00.03.49">
+<s id="1638:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.43&end=00.03.49">
 
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -38813,7 +38813,7 @@ présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
 
-<s id="1638:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.03.49&end=00.03.59">
+<s id="1638:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.03.49&end=00.03.59">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -38853,7 +38853,7 @@ genres	NCMP000	genre-n
 .	Fp	.-x
 </s>
 
-<s id="1638:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.00&end=00.04.09">
+<s id="1638:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.00&end=00.04.09">
 
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -38890,7 +38890,7 @@ pauvres	AQ0CP00	pauvre-j
 .	Fp	.-x
 </s>
 
-<s id="1638:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.10&end=00.04.15">
+<s id="1638:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.10&end=00.04.15">
 
 Je	PP1CSN0	je-p
 souhaite	VMIP1S0	souhaiter-v
@@ -38911,7 +38911,7 @@ spéculateurs	NCMP000	spéculateur-n
 .	Fp	.-x
 </s>
 
-<s id="1638:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.15&end=00.04.27">
+<s id="1638:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.15&end=00.04.27">
 
 Je	PP1CSN0	je-p
 souhaite	VMIP1S0	souhaiter-v
@@ -38956,7 +38956,7 @@ normal	AQ0MS00	normal-j
 !	Fat	!-x
 </s>
 
-<s id="1638:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.27&end=00.04.41">
+<s id="1638:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.27&end=00.04.41">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -39008,7 +39008,7 @@ changement	NCMS000	changement-n
 .	Fp	.-x
 </s>
 
-<s id="1638:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.41&end=00.04.52">
+<s id="1638:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.41&end=00.04.52">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -39051,7 +39051,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1638:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.04.52&end=00.05.05">
+<s id="1638:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.04.52&end=00.05.05">
 
 Et	CC	et-c
 vous	PP2CP00	vous-p
@@ -39100,7 +39100,7 @@ budget	NCMS000	budget-n
 .	Fp	.-x
 </s>
 
-<s id="1638:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.05.05&end=00.05.09">
+<s id="1638:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.05.05&end=00.05.09">
 
 Merci	NCMS000	merci-n
 déjà	RG	déjà-r
@@ -39121,7 +39121,7 @@ décembre	NCMS000	décembre-n
 !	Fat	!-x
 </s>
 
-<s id="1638:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.05.09&end=00.05.21">
+<s id="1638:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.05.09&end=00.05.21">
 
 Vous	PP2CP00	vous-p
 avez	VMIP2P0	avoir-v
@@ -39165,7 +39165,7 @@ européennes	AQ0FP00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1638:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.05.22&end=00.05.34">
+<s id="1638:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.05.22&end=00.05.34">
 
 Autant	RG	autant-r
 de	SP	de-i
@@ -39211,7 +39211,7 @@ ici	RG	ici-r
 .	Fp	.-x
 </s>
 
-<s id="1638:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638&start=00.05.34&end=00.05.35">
+<s id="1638:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1638.mp4&start=00.05.34&end=00.05.35">
 
 Merci	NCMS000	merci-n
 de	SP	de-i
@@ -39228,7 +39228,7 @@ attention	NCFS000	attention-n
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="423" duration="medium" durations="258.0" speed="slow" speedwm="98.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1639:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.10&end=00.00.15">
+<s id="1639:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.10&end=00.00.15">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -39247,7 +39247,7 @@ clair	AQ0MS00	clair-j
 .	Fp	.-x
 </s>
 
-<s id="1639:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.16&end=00.00.20">
+<s id="1639:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.16&end=00.00.20">
 
 Les	DA0CP0	le-x
 Verts	AQ0MP00	vert-j
@@ -39263,7 +39263,7 @@ Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
 
-<s id="1639:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.21&end=00.00.25">
+<s id="1639:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.21&end=00.00.25">
 
 J	NPFS000	J-n
 <g/>
@@ -39284,7 +39284,7 @@ monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
 
-<s id="1639:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.25&end=00.00.35">
+<s id="1639:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.25&end=00.00.35">
 
 Ma	DP1FSS	mon-x
 première	AQ0FS00	premier-j
@@ -39319,7 +39319,7 @@ Budapest	NPMS000	Budapest-n
 .	Fp	.-x
 </s>
 
-<s id="1639:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.36&end=00.00.44">
+<s id="1639:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.36&end=00.00.44">
 
 Comme	CS	comme-c
 l	NCMS000	l-n
@@ -39355,7 +39355,7 @@ années	NCFP000	année-n
 .	Fp	.-x
 </s>
 
-<s id="1639:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.45&end=00.00.53">
+<s id="1639:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.45&end=00.00.53">
 
 J	NP00000	J-n
 <g/>
@@ -39391,7 +39391,7 @@ années	NCFP000	année-n
 .	Fp	.-x
 </s>
 
-<s id="1639:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.00.53&end=00.01.05">
+<s id="1639:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.00.53&end=00.01.05">
 
 J	NP00000	J-n
 <g/>
@@ -39425,7 +39425,7 @@ européen	NCMS000	européen-n
 .	Fp	.-x
 </s>
 
-<s id="1639:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.05&end=00.01.12">
+<s id="1639:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.05&end=00.01.12">
 
 Vous	PP2CP00	vous-p
 y	PP3CN00	y-p
@@ -39450,7 +39450,7 @@ respecter	VMN0000	respecter-v
 .	Fp	.-x
 </s>
 
-<s id="1639:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.12&end=00.01.28">
+<s id="1639:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.12&end=00.01.28">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -39494,7 +39494,7 @@ démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
 
-<s id="1639:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.29&end=00.01.38">
+<s id="1639:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.29&end=00.01.38">
 
 Et	CC	et-c
 je	PP1CSN0	je-p
@@ -39531,7 +39531,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="1639:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.39&end=00.01.45">
+<s id="1639:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.39&end=00.01.45">
 
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
@@ -39551,14 +39551,14 @@ Watergate	NPFS000	Watergate-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.46&end=00.01.47">
+<s id="1639:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.46&end=00.01.47">
 
 Évidemment	RG	évidemment-r
 non	RG	non-r
 !	Fat	!-x
 </s>
 
-<s id="1639:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.47&end=00.01.53">
+<s id="1639:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.47&end=00.01.53">
 
 Et	CC	et-c
 que	CS	que-c
@@ -39579,7 +39579,7 @@ Ghraïb	NPMS000	Ghraïb-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.53&end=00.01.54">
+<s id="1639:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.53&end=00.01.54">
 
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
@@ -39588,7 +39588,7 @@ non	RG	non-r
 !	Fat	!-x
 </s>
 
-<s id="1639:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.01.54&end=00.02.04">
+<s id="1639:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.01.54&end=00.02.04">
 
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
@@ -39617,7 +39617,7 @@ information	NCFS000	information-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.04&end=00.02.16">
+<s id="1639:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.04&end=00.02.16">
 
 Les	DA0CP0	le-x
 recherches	NCFP000	recherche-n
@@ -39656,7 +39656,7 @@ information	NCFS000	information-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.16&end=00.02.17">
+<s id="1639:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.16&end=00.02.17">
 
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
@@ -39665,7 +39665,7 @@ non	RG	non-r
 !	Fat	!-x
 </s>
 
-<s id="1639:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.18&end=00.02.22">
+<s id="1639:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.18&end=00.02.22">
 
 L	NP00000	L-n
 <g/>
@@ -39678,7 +39678,7 @@ politique	NCFS000	politique-n
 .	Fp	.-x
 </s>
 
-<s id="1639:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.22&end=00.02.25">
+<s id="1639:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.22&end=00.02.25">
 
 Et	CC	et-c
 elle	PP3FS00	elle-p
@@ -39693,7 +39693,7 @@ fois	NCFN000	fois-n
 .	Fp	.-x
 </s>
 
-<s id="1639:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.26&end=00.02.37">
+<s id="1639:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.26&end=00.02.37">
 
 Et	CC	et-c
 c	RG	c-r
@@ -39732,7 +39732,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1639:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.37&end=00.02.40">
+<s id="1639:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.37&end=00.02.40">
 
 Vous	PP2CP00	vous-p
 dites	VMIP2P0	dire-v
@@ -39749,7 +39749,7 @@ forte	AQ0FS00	fort-j
 .	Fp	.-x
 </s>
 
-<s id="1639:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.40&end=00.02.47">
+<s id="1639:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.40&end=00.02.47">
 
 Une	DI0FS0	un-x
 Europe	NPCS000	Europe-n
@@ -39770,7 +39770,7 @@ crédible	AQ0CS00	crédible-j
 .	Fp	.-x
 </s>
 
-<s id="1639:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.47&end=00.02.55">
+<s id="1639:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.47&end=00.02.55">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -39791,7 +39791,7 @@ Loukachenko	NPMS000	Loukachenko-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.55&end=00.02.58">
+<s id="1639:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.55&end=00.02.58">
 
 Comment	PT00000	comment-p
 allons-nous	VMIP1P0	aller-v
@@ -39802,7 +39802,7 @@ Chine	NPCS000	Chine-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.02.58&end=00.03.01">
+<s id="1639:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.02.58&end=00.03.01">
 
 Ils	PP3MPN0	ils-p
 veulent	VMIP3P0	vouloir-v
@@ -39813,7 +39813,7 @@ informations	NCFP000	information-n
 .	Fp	.-x
 </s>
 
-<s id="1639:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.01&end=00.03.09">
+<s id="1639:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.01&end=00.03.09">
 
 Monsieur	NCMS000	monsieur-n
 Orbán	NP00000	Orbán-n
@@ -39837,7 +39837,7 @@ totalitarismes	NCMP000	totalitarisme-n
 ?	Fit	?-x
 </s>
 
-<s id="1639:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.09&end=00.03.18">
+<s id="1639:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.09&end=00.03.18">
 
 Et	CC	et-c
 que	CS	que-c
@@ -39867,7 +39867,7 @@ expression	NCFS000	expression-n
 .	Fp	.-x
 </s>
 
-<s id="1639:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.18&end=00.03.23">
+<s id="1639:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.18&end=00.03.23">
 
 Jamais	RN	jamais-r
 une	DI0FS0	un-x
@@ -39890,7 +39890,7 @@ libertés	NCFP000	liberté-n
 .	Fp	.-x
 </s>
 
-<s id="1639:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.23&end=00.03.30">
+<s id="1639:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.23&end=00.03.30">
 
 Les	DA0CP0	le-x
 démocraties	NCFP000	démocratie-n
@@ -39911,7 +39911,7 @@ Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
 
-<s id="1639:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.30&end=00.03.36">
+<s id="1639:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.30&end=00.03.36">
 
 Vous	PP2CP00	vous-p
 le	PP3MSA0	le-p
@@ -39944,7 +39944,7 @@ plus	RG	plus-r
 .	Fp	.-x
 </s>
 
-<s id="1639:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.37&end=00.03.42">
+<s id="1639:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.37&end=00.03.42">
 
 Donc	CC	donc-c
 vous	PP2CP00	vous-p
@@ -39973,7 +39973,7 @@ Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
 
-<s id="1639:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.03.42&end=00.04.02">
+<s id="1639:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.03.42&end=00.04.02">
 
 Si	CS	si-c
 vous	PP2CP00	vous-p
@@ -40043,7 +40043,7 @@ dictature	NCFS000	dictature-n
 .	Fp	.-x
 </s>
 
-<s id="1639:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.04.02&end=00.04.08">
+<s id="1639:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.04.02&end=00.04.08">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -40069,7 +40069,7 @@ reproche	VMIP1S0	reprocher-v
 .	Fp	.-x
 </s>
 
-<s id="1639:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.04.08&end=00.04.10">
+<s id="1639:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.04.08&end=00.04.10">
 
 Pour	SP	pour-i
 les	DA0CP0	le-x
@@ -40085,7 +40085,7 @@ vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
 
-<s id="1639:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.04.10&end=00.04.23">
+<s id="1639:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.04.10&end=00.04.23">
 
 J	NP00000	J-n
 <g/>
@@ -40140,7 +40140,7 @@ soit	VMSP3S0	être-v
 .	Fp	.-x
 </s>
 
-<s id="1639:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.04.23&end=00.04.27">
+<s id="1639:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.04.23&end=00.04.27">
 
 C	NP00000	C-n
 <g/>
@@ -40162,7 +40162,7 @@ ensemble	RG	ensemble-r
 .	Fp	.-x
 </s>
 
-<s id="1639:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639&start=00.04.27&end=00.04.28">
+<s id="1639:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1639.wmv&start=00.04.27&end=00.04.28">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -40176,7 +40176,7 @@ Merci	NCMS000	merci-n
 <speaker name="De Sarnez Marielle" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="238" duration="short" durations="103.0" speed="medium" speedwm="138.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1640:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.00.05&end=00.00.14">
+<s id="1640:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.00.05&end=00.00.14">
 
 Les	DA0CP0	le-x
 peuples	NCMP000	peuple-n
@@ -40219,7 +40219,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1640:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.00.15&end=00.00.32">
+<s id="1640:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.00.15&end=00.00.32">
 
 La	DA0FS0	le-x
 première	NCFS000	premier-n
@@ -40280,7 +40280,7 @@ internationales	AQ0FP00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1640:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.00.32&end=00.00.36">
+<s id="1640:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.00.32&end=00.00.36">
 
 La	DA0FS0	le-x
 deuxième	NCCS000	deuxième-n
@@ -40303,7 +40303,7 @@ libertés	NCFP000	liberté-n
 .	Fp	.-x
 </s>
 
-<s id="1640:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.00.36&end=00.00.46">
+<s id="1640:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.00.36&end=00.00.46">
 
 Or	CC	or-c
 ,	Fc	,-x
@@ -40342,7 +40342,7 @@ répondre	VMN0000	répondre-v
 .	Fp	.-x
 </s>
 
-<s id="1640:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.00.46&end=00.01.07">
+<s id="1640:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.00.46&end=00.01.07">
 
 Les	DA0CP0	le-x
 pouvoirs	NCMP000	pouvoir-n
@@ -40427,7 +40427,7 @@ démontré	VMP00SM	démontrer-v
 .	Fp	.-x
 </s>
 
-<s id="1640:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.01.08&end=00.01.27">
+<s id="1640:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.01.08&end=00.01.27">
 
 Vous	PP2CP00	vous-p
 expliquez	VMIP2P0	expliquer-v
@@ -40495,7 +40495,7 @@ morale	NCFS000	morale-n
 ?	Fit	?-x
 </s>
 
-<s id="1640:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.01.28&end=00.01.38">
+<s id="1640:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.01.28&end=00.01.38">
 
 L	NP00000	L-n
 <g/>
@@ -40541,7 +40541,7 @@ expression	NCFS000	expression-n
 .	Fp	.-x
 </s>
 
-<s id="1640:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.01.39&end=00.01.43">
+<s id="1640:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.01.39&end=00.01.43">
 
 Si	RG	si-r
 c	RG	c-r
@@ -40569,7 +40569,7 @@ fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
 
-<s id="1640:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.01.44&end=00.01.46">
+<s id="1640:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.01.44&end=00.01.46">
 
 C	NP00000	C-n
 <g/>
@@ -40585,7 +40585,7 @@ attendons	VMIP1P0	attendre-v
 .	Fp	.-x
 </s>
 
-<s id="1640:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640&start=00.01.46&end=00.01.47">
+<s id="1640:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1640.wmv&start=00.01.46&end=00.01.47">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -40601,7 +40601,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Audy Jean Pierre" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="199" duration="short" durations="93.0" speed="slow" speedwm="128.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1641:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.05&end=00.00.08">
+<s id="1641:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.05&end=00.00.08">
 
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
@@ -40615,7 +40615,7 @@ ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
 
-<s id="1641:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.09&end=00.00.12">
+<s id="1641:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.09&end=00.00.12">
 
 La	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
@@ -40632,7 +40632,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1641:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.12&end=00.00.24">
+<s id="1641:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.12&end=00.00.24">
 
 La	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
@@ -40691,7 +40691,7 @@ salue	VMIP3S0	saluer-v
 .	Fp	.-x
 </s>
 
-<s id="1641:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.25&end=00.00.27">
+<s id="1641:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.25&end=00.00.27">
 
 La	DA0FS0	le-x
 démocratie	NCFS000	démocratie-n
@@ -40699,7 +40699,7 @@ fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="1641:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.28&end=00.00.29">
+<s id="1641:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.28&end=00.00.29">
 
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -40708,13 +40708,13 @@ avez	VAIP2P0	avoir-v
 .	Fp	.-x
 </s>
 
-<s id="1641:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.29&end=00.00.30">
+<s id="1641:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.29&end=00.00.30">
 
 Bravo	NCMS000	bravo-n
 !	Fat	!-x
 </s>
 
-<s id="1641:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.30&end=00.00.32">
+<s id="1641:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.30&end=00.00.32">
 
 L	NP00000	L-n
 <g/>
@@ -40724,7 +40724,7 @@ fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="1641:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.32&end=00.00.35">
+<s id="1641:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.32&end=00.00.35">
 
 Une	DI0FS0	un-x
 loi	NCFS000	loi-n
@@ -40742,7 +40742,7 @@ changerai	VMIF1S0	changer-v
 .	Fp	.-x
 </s>
 
-<s id="1641:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.36&end=00.00.47">
+<s id="1641:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.36&end=00.00.47">
 
 On	PP3CSN0	on-p
 vous	PP2CP00	vous-p
@@ -40791,13 +40791,13 @@ fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
 
-<s id="1641:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.47&end=00.00.48">
+<s id="1641:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.47&end=00.00.48">
 
 Bravo	NCMS000	bravo-n
 !	Fat	!-x
 </s>
 
-<s id="1641:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.48&end=00.00.49">
+<s id="1641:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.48&end=00.00.49">
 
 La	DA0FS0	le-x
 politique	NCFS000	politique-n
@@ -40805,7 +40805,7 @@ fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
 
-<s id="1641:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.49&end=00.00.53">
+<s id="1641:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.49&end=00.00.53">
 
 Si	RG	si-r
 quelqu	RG	quelqu-r
@@ -40825,7 +40825,7 @@ politique	AQ0CS00	politique-j
 .	Fp	.-x
 </s>
 
-<s id="1641:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.53&end=00.00.54">
+<s id="1641:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.53&end=00.00.54">
 
 Voilà	I	voilà-x
 de	SP	de-i
@@ -40834,7 +40834,7 @@ nouvelles	NCFP000	nouveau-n
 !	Fat	!-x
 </s>
 
-<s id="1641:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.54&end=00.00.58">
+<s id="1641:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.54&end=00.00.58">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -40852,7 +40852,7 @@ enjeux	NCMP000	enjeu-n
 .	Fp	.-x
 </s>
 
-<s id="1641:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.00.58&end=00.01.01">
+<s id="1641:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.00.58&end=00.01.01">
 
 Vous	PP2CP00	vous-p
 redressez	VMIP2P0	redresser-v
@@ -40871,7 +40871,7 @@ ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
 
-<s id="1641:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.01&end=00.01.05">
+<s id="1641:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.01&end=00.01.05">
 
 Vous	PP2CP00	vous-p
 êtes	VMIP2P0	être-v
@@ -40888,7 +40888,7 @@ besoin	NCMS000	besoin-n
 .	Fp	.-x
 </s>
 
-<s id="1641:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.05&end=00.01.07">
+<s id="1641:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.05&end=00.01.07">
 
 Mais	CC	mais-c
 c	RG	c-r
@@ -40906,7 +40906,7 @@ faites	VMIP2P0	faire-v
 .	Fp	.-x
 </s>
 
-<s id="1641:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.07&end=00.01.12">
+<s id="1641:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.07&end=00.01.12">
 
 Vous	PP2CP00	vous-p
 l	NCMS000	l-n
@@ -40927,7 +40927,7 @@ ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
 
-<s id="1641:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.12&end=00.01.15">
+<s id="1641:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.12&end=00.01.15">
 
 Je	PP1CSN0	je-p
 termine	VMIP1S0	terminer-v
@@ -40941,7 +40941,7 @@ Croatie	NPFS000	Croatie-n
 .	Fp	.-x
 </s>
 
-<s id="1641:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.16&end=00.01.19">
+<s id="1641:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.16&end=00.01.19">
 
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
@@ -40957,7 +40957,7 @@ favorables	AQ0CP00	favorable-j
 .	Fp	.-x
 </s>
 
-<s id="1641:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641&start=00.01.19&end=00.01.38">
+<s id="1641:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1641.mp4&start=00.01.19&end=00.01.38">
 
 J	NP00000	J-n
 <g/>
@@ -41048,7 +41048,7 @@ Berlin	NPMS000	Berlin-n
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="125" duration="short" durations="88.0" speed="slow" speedwm="85.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1642:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.00.00&end=00.00.18">
+<s id="1642:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.00.00&end=00.00.18">
 
 Mes	DP1CPS	mon-x
 chers	AQ0MP00	cher-j
@@ -41105,7 +41105,7 @@ ligne	NCFS000	ligne-n
 .	Fp	.-x
 </s>
 
-<s id="1642:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.00.19&end=00.00.34">
+<s id="1642:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.00.19&end=00.00.34">
 
 Monsieur	NCMS000	monsieur-n
 Orbán	NP00000	Orbán-n
@@ -41140,7 +41140,7 @@ démocratie	NCFS000	démocratie-n
 :	Fd	:-x
 </s>
 
-<s id="1642:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.00.35&end=00.00.41">
+<s id="1642:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.00.35&end=00.00.41">
 
 "	Fe	"-x
 La	DA0FS0	le-x
@@ -41160,7 +41160,7 @@ majorité	NCFS000	majorité-n
 .	Fp	.-x
 </s>
 
-<s id="1642:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.00.41&end=00.00.46">
+<s id="1642:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.00.41&end=00.00.46">
 
 La	DA0FS0	le-x
 vérité	NCFS000	vérité-n
@@ -41178,7 +41178,7 @@ majorité	NCFS000	majorité-n
 .	Fp	.-x
 </s>
 
-<s id="1642:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.00.47&end=00.01.09">
+<s id="1642:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.00.47&end=00.01.09">
 
 Et	CC	et-c
 c	RG	c-r
@@ -41201,7 +41201,7 @@ hein	I	hein-x
 ?	Fit	?-x
 </s>
 
-<s id="1642:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.09&end=00.01.14">
+<s id="1642:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.09&end=00.01.14">
 
 Quand	CS	quand-c
 il	PP3MSN0	il-p
@@ -41214,7 +41214,7 @@ Orbán	NP00000	Orbán-n
 ...	EPAUSE	...-x
 </s>
 
-<s id="1642:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.15&end=00.01.17">
+<s id="1642:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.15&end=00.01.17">
 
 Vous	PP2CP00	vous-p
 mobilisez	VMIP2P0	mobiliser-v
@@ -41225,7 +41225,7 @@ extrême-droite	NCFS000	extrême-droite-n
 ?	Fit	?-x
 </s>
 
-<s id="1642:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.17&end=00.01.18">
+<s id="1642:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.17&end=00.01.18">
 
 Vous	PP2CP00	vous-p
 avez	VMIP2P0	avoir-v
@@ -41233,7 +41233,7 @@ raison	NCFS000	raison-n
 .	Fp	.-x
 </s>
 
-<s id="1642:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.19&end=00.01.35">
+<s id="1642:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.19&end=00.01.35">
 
 Quand	CS	quand-c
 il	PP3MSN0	il-p
@@ -41286,7 +41286,7 @@ autres	PI0CP00	autre-p
 .	Fp	.-x
 </s>
 
-<s id="1642:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.35&end=00.01.39">
+<s id="1642:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.35&end=00.01.39">
 
 C	NP00000	C-n
 <g/>
@@ -41305,7 +41305,7 @@ Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
 
-<s id="1642:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.39&end=00.01.42">
+<s id="1642:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.39&end=00.01.42">
 
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
@@ -41318,7 +41318,7 @@ vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
 
-<s id="1642:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.42&end=00.01.46">
+<s id="1642:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.42&end=00.01.46">
 
 Je	PP1CSN0	je-p
 n	NCFS000	n-n
@@ -41348,7 +41348,7 @@ vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
 
-<s id="1642:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642&start=00.01.46&end=00.01.48">
+<s id="1642:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1642.wmv&start=00.01.46&end=00.01.48">
 
 C	NP00000	C-n
 <g/>
@@ -41371,7 +41371,7 @@ fait	VMP00SM	faire-v
 <speaker name="Le Grip Constance" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="150" duration="short" durations="66.0" speed="medium" speedwm="136.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1643:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643&start=00.00.06&end=00.00.16">
+<s id="1643:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643.wmv&start=00.00.06&end=00.00.16">
 
 J	NPFS000	J-n
 <g/>
@@ -41407,7 +41407,7 @@ transfrontaliers	AQ0MP00	transfrontalier-j
 .	Fp	.-x
 </s>
 
-<s id="1643:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643&start=00.00.16&end=00.00.22">
+<s id="1643:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643.wmv&start=00.00.16&end=00.00.22">
 
 En	SP	en-i
 effet	NCMS000	effet-n
@@ -41435,7 +41435,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1643:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643&start=00.00.22&end=00.00.44">
+<s id="1643:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643.wmv&start=00.00.22&end=00.00.44">
 
 Après	RG	après-r
 de	SP	de-i
@@ -41512,7 +41512,7 @@ remboursement	NCMS000	remboursement-n
 .	Fp	.-x
 </s>
 
-<s id="1643:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643&start=00.00.44&end=00.00.55">
+<s id="1643:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643.wmv&start=00.00.44&end=00.00.55">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -41547,7 +41547,7 @@ situation	NCFS000	situation-n
 .	Fp	.-x
 </s>
 
-<s id="1643:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643&start=00.00.55&end=00.01.12">
+<s id="1643:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1643.wmv&start=00.00.55&end=00.01.12">
 
 Je	PP1CSN0	je-p
 tiens	VMIP1S0	tenir-v
@@ -41624,7 +41624,7 @@ Union	NPFS000	Union-n
 <speaker name="Kiil Nielsen Nicole" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="236" duration="medium" durations="125.0" speed="slow" speedwm="113.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1644:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.05&end=00.00.13">
+<s id="1644:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.05&end=00.00.13">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -41657,7 +41657,7 @@ internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
 
-<s id="1644:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.13&end=00.00.18">
+<s id="1644:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.13&end=00.00.18">
 
 D	NP00000	D-n
 <g/>
@@ -41685,7 +41685,7 @@ préoccupante	AQ0FS00	préoccupant-j
 .	Fp	.-x
 </s>
 
-<s id="1644:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.18&end=00.00.28">
+<s id="1644:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.18&end=00.00.28">
 
 En	SP	en-i
 Irak	NPMS000	Irak-n
@@ -41726,7 +41726,7 @@ israélienne	AQ0FS00	israélien-j
 .	Fp	.-x
 </s>
 
-<s id="1644:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.28&end=00.00.41">
+<s id="1644:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.28&end=00.00.41">
 
 Je	PP1CSN0	je-p
 me	PP1CS00	me-p
@@ -41770,7 +41770,7 @@ discriminé	VMP00SM	discriminer-v
 .	Fp	.-x
 </s>
 
-<s id="1644:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.41&end=00.00.55">
+<s id="1644:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.41&end=00.00.55">
 
 Alors	RG	alors-r
 que	CS	que-c
@@ -41817,7 +41817,7 @@ péril	NCMS000	péril-n
 .	Fp	.-x
 </s>
 
-<s id="1644:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.00.55&end=00.01.04">
+<s id="1644:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.00.55&end=00.01.04">
 
 Des	SP+D	de+les-i
 actes	NCMP000	acte-n
@@ -41843,7 +41843,7 @@ antisémites	AQ0CP00	antisémite-j
 .	Fp	.-x
 </s>
 
-<s id="1644:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.01.04&end=00.01.20">
+<s id="1644:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.01.04&end=00.01.20">
 
 L	NP00000	L-n
 <g/>
@@ -41899,7 +41899,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1644:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.01.20&end=00.01.31">
+<s id="1644:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.01.20&end=00.01.31">
 
 Les	DA0CP0	le-x
 réfugiés	NCMP000	réfugié-n
@@ -41935,7 +41935,7 @@ fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
 
-<s id="1644:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.01.32&end=00.01.39">
+<s id="1644:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.01.32&end=00.01.39">
 
 L	NP00000	L-n
 <g/>
@@ -41959,7 +41959,7 @@ intercommunautaire	AQ0CS0	intercommunautaire-j
 .	Fp	.-x
 </s>
 
-<s id="1644:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.01.39&end=00.01.54">
+<s id="1644:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.01.39&end=00.01.54">
 
 Si	CS	si-c
 les	DA0CP0	le-x
@@ -42011,7 +42011,7 @@ terrorisme	NCMS000	terrorisme-n
 .	Fp	.-x
 </s>
 
-<s id="1644:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.01.55&end=00.02.00">
+<s id="1644:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.01.55&end=00.02.00">
 
 Je	PP1CSN0	je-p
 me	PP1CS00	me-p
@@ -42033,7 +42033,7 @@ Aragon	NP00000	Aragon-n
 :	Fd	:-x
 </s>
 
-<s id="1644:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644&start=00.02.01&end=00.02.10">
+<s id="1644:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1644.mp4&start=00.02.01&end=00.02.10">
 
 "	Fe	"-x
 Celui	PD0MS00	celui-p
@@ -42074,7 +42074,7 @@ même	AQ0CS00	même-j
 <speaker name="Gollnisch Bruno" gender="M" country="France" politfunc="MEP" politgroup="AENM">
 <st language="fr" length="short" lengthw="173" duration="short" durations="84.0" speed="slow" speedwm="123.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1645:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.07&end=00.00.10">
+<s id="1645:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.07&end=00.00.10">
 
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
@@ -42088,7 +42088,7 @@ essentielle	AQ0FS00	essentiel-j
 .	Fp	.-x
 </s>
 
-<s id="1645:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.10&end=00.00.13">
+<s id="1645:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.10&end=00.00.13">
 
 Dieu	NCMS000	dieu-n
 ne	RN	ne-r
@@ -42103,7 +42103,7 @@ contrainte	VMP00SF	contraindre-v
 .	Fp	.-x
 </s>
 
-<s id="1645:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.13&end=00.00.17">
+<s id="1645:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.13&end=00.00.17">
 
 Cette	DD0FS0	ce-x
 liberté	NCFS000	liberté-n
@@ -42117,7 +42117,7 @@ communistes	AQ0CP00	communiste-j
 .	Fp	.-x
 </s>
 
-<s id="1645:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.18&end=00.00.26">
+<s id="1645:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.18&end=00.00.26">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -42147,7 +42147,7 @@ islam	NCMS000	islam-n
 .	Fp	.-x
 </s>
 
-<s id="1645:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.26&end=00.00.32">
+<s id="1645:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.26&end=00.00.32">
 
 On	PP3CSN0	on-p
 condamne	VMIP3S0	condamner-v
@@ -42172,7 +42172,7 @@ raison	NCFS000	raison-n
 .	Fp	.-x
 </s>
 
-<s id="1645:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.32&end=00.00.35">
+<s id="1645:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.32&end=00.00.35">
 
 Mais	CC	mais-c
 il	PP3MSN0	il-p
@@ -42188,7 +42188,7 @@ extrémistes	NCCP000	extrémiste-n
 .	Fp	.-x
 </s>
 
-<s id="1645:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.35&end=00.00.42">
+<s id="1645:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.35&end=00.00.42">
 
 Dans	SP	dans-i
 nombre	NCMS000	nombre-n
@@ -42216,7 +42216,7 @@ zone	NCFS000	zone-n
 .	Fp	.-x
 </s>
 
-<s id="1645:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.42&end=00.00.47">
+<s id="1645:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.42&end=00.00.47">
 
 Les	DA0CP0	le-x
 conversions	NCFP000	conversion-n
@@ -42231,7 +42231,7 @@ mort	NCFS000	mort-n
 .	Fp	.-x
 </s>
 
-<s id="1645:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.47&end=00.00.56">
+<s id="1645:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.47&end=00.00.56">
 
 Alors	RG	alors-r
 que	CS	que-c
@@ -42270,7 +42270,7 @@ souhaite	VMIP1S0	souhaiter-v
 .	Fp	.-x
 </s>
 
-<s id="1645:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.00.56&end=00.01.02">
+<s id="1645:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.00.56&end=00.01.02">
 
 Dans	SP	dans-i
 les	DA0CP0	le-x
@@ -42299,7 +42299,7 @@ sort	NCMS000	sort-n
 .	Fp	.-x
 </s>
 
-<s id="1645:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.01.02&end=00.01.08">
+<s id="1645:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.01.02&end=00.01.08">
 
 En	PP3CN00	en-p
 particulier	AQ0MS00	particulier-j
@@ -42316,7 +42316,7 @@ abrogée	VMP00SF	abroger-v
 .	Fp	.-x
 </s>
 
-<s id="1645:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.01.08&end=00.01.16">
+<s id="1645:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.01.08&end=00.01.16">
 
 Et	CC	et-c
 nous	PP1CP00	nous-p
@@ -42342,7 +42342,7 @@ voisines	NCFP000	voisin-n
 .	Fp	.-x
 </s>
 
-<s id="1645:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.01.16&end=00.01.19">
+<s id="1645:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.01.16&end=00.01.19">
 
 En	SP	en-i
 1	Z	1-m
@@ -42362,7 +42362,7 @@ paroles	NCFP000	parole-n
 .	Fp	.-x
 </s>
 
-<s id="1645:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645&start=00.01.20&end=00.01.30">
+<s id="1645:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1645.mp4&start=00.01.20&end=00.01.30">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -42403,7 +42403,7 @@ conscience	NCFS000	conscience-n
 <speaker name="De Sarnez Marielle" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="187" duration="short" durations="81.0" speed="medium" speedwm="138.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1646:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.00.06&end=00.00.21">
+<s id="1646:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.00.06&end=00.00.21">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -42467,7 +42467,7 @@ monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
 
-<s id="1646:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.00.21&end=00.00.41">
+<s id="1646:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.00.21&end=00.00.41">
 
 Les	DA0CP0	le-x
 terribles	AQ0CP00	terrible-j
@@ -42530,7 +42530,7 @@ civilisations	NCFP000	civilisation-n
 .	Fp	.-x
 </s>
 
-<s id="1646:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.00.41&end=00.00.51">
+<s id="1646:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.00.41&end=00.00.51">
 
 Cette	DD0FS0	ce-x
 tentative	NCFS000	tentative-n
@@ -42562,7 +42562,7 @@ barbares	AQ0CP00	barbare-j
 .	Fp	.-x
 </s>
 
-<s id="1646:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.00.51&end=00.01.03">
+<s id="1646:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.00.51&end=00.01.03">
 
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
@@ -42600,7 +42600,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1646:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.01.04&end=00.01.26">
+<s id="1646:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.01.04&end=00.01.26">
 
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -42670,7 +42670,7 @@ laïcité	NCFS000	laïcité-n
 .	Fp	.-x
 </s>
 
-<s id="1646:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646&start=00.01.26&end=00.01.27">
+<s id="1646:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1646.wmv&start=00.01.26&end=00.01.27">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -42686,7 +42686,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="204" duration="short" durations="89.0" speed="medium" speedwm="137.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1647:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.09&end=00.00.17">
+<s id="1647:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.09&end=00.00.17">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -42724,7 +42724,7 @@ hui	RG	hui-r
 .	Fp	.-x
 </s>
 
-<s id="1647:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.17&end=00.00.25">
+<s id="1647:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.17&end=00.00.25">
 
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
@@ -42768,7 +42768,7 @@ lieu	NCMS000	lieu-n
 .	Fp	.-x
 </s>
 
-<s id="1647:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.26&end=00.00.30">
+<s id="1647:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.26&end=00.00.30">
 
 Mais	CC	mais-c
 nous	PP1CP00	nous-p
@@ -42789,7 +42789,7 @@ sécularisme	NCMS000	sécularisme-n
 .	Fp	.-x
 </s>
 
-<s id="1647:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.30&end=00.00.33">
+<s id="1647:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.30&end=00.00.33">
 
 Nous	PP1CP00	nous-p
 condamnons	VMIP1P0	condamner-v
@@ -42803,7 +42803,7 @@ blasphème	NCMS000	blasphème-n
 .	Fp	.-x
 </s>
 
-<s id="1647:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.34&end=00.00.51">
+<s id="1647:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.34&end=00.00.51">
 
 Cela	PD0CS00	cela-p
 veut	VMIP3S0	vouloir-v
@@ -42872,7 +42872,7 @@ concernée	VMP00SF	concerner-v
 .	Fp	.-x
 </s>
 
-<s id="1647:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.00.51&end=00.01.05">
+<s id="1647:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.00.51&end=00.01.05">
 
 Cela	PD0CS00	cela-p
 veut	VMIP3S0	vouloir-v
@@ -42927,7 +42927,7 @@ répondre	VMN0000	répondre-v
 .	Fp	.-x
 </s>
 
-<s id="1647:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.01.05&end=00.01.09">
+<s id="1647:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.01.05&end=00.01.09">
 
 Nous	PP1CP00	nous-p
 considérons	VMIP1P0	considérer-v
@@ -42944,7 +42944,7 @@ sens	NCMN000	sens-n
 .	Fp	.-x
 </s>
 
-<s id="1647:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.01.09&end=00.01.15">
+<s id="1647:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.01.09&end=00.01.15">
 
 Je	PP1CSN0	je-p
 dirais	VMIC1S0	dire-v
@@ -42978,7 +42978,7 @@ groupe	NCMS000	groupe-n
 .	Fp	.-x
 </s>
 
-<s id="1647:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.01.15&end=00.01.24">
+<s id="1647:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.01.15&end=00.01.24">
 
 Pour	SP	pour-i
 nous	PP1CP00	nous-p
@@ -43016,7 +43016,7 @@ entier	AQ0MS00	entier-j
 .	Fp	.-x
 </s>
 
-<s id="1647:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647&start=00.01.24&end=00.01.28">
+<s id="1647:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1647.wmv&start=00.01.24&end=00.01.28">
 
 Nous	PP1CP00	nous-p
 pensons	VMIP1P0	penser-v
@@ -43047,7 +43047,7 @@ communautarismes	NCMP000	communautarisme-n
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="264" duration="short" durations="94.0" speed="high" speedwm="168.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1648:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.00.06&end=00.00.24">
+<s id="1648:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.00.06&end=00.00.24">
 
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
@@ -43121,7 +43121,7 @@ récemment	RG	récemment-r
 .	Fp	.-x
 </s>
 
-<s id="1648:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.00.24&end=00.00.31">
+<s id="1648:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.00.24&end=00.00.31">
 
 Une	DI0FS0	un-x
 persécution	NCFS000	persécution-n
@@ -43155,7 +43155,7 @@ Orient	NPMS000	Orient-n
 .	Fp	.-x
 </s>
 
-<s id="1648:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.00.31&end=00.00.36">
+<s id="1648:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.00.31&end=00.00.36">
 
 Le	DA0MS0	le-x
 mal	NCMS000	mal-n
@@ -43173,7 +43173,7 @@ réalité	NCFS000	réalité-n
 .	Fp	.-x
 </s>
 
-<s id="1648:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.00.36&end=00.00.51">
+<s id="1648:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.00.36&end=00.00.51">
 
 C	NP00000	C-n
 <g/>
@@ -43232,7 +43232,7 @@ cercueil	NCMS000	cercueil-n
 .	Fp	.-x
 </s>
 
-<s id="1648:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.00.51&end=00.01.05">
+<s id="1648:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.00.51&end=00.01.05">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -43285,7 +43285,7 @@ hommes	NCMP000	homme-n
 .	Fp	.-x
 </s>
 
-<s id="1648:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.01.05&end=00.01.17">
+<s id="1648:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.01.05&end=00.01.17">
 
 Nous	PP1CP00	nous-p
 attendons	VMIP1P0	attendre-v
@@ -43340,7 +43340,7 @@ aussi	RG	aussi-r
 .	Fp	.-x
 </s>
 
-<s id="1648:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.01.17&end=00.01.31">
+<s id="1648:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.01.17&end=00.01.31">
 
 Il	PP3MSN0	il-p
 me	PP1CS00	me-p
@@ -43401,7 +43401,7 @@ judiciaires	AQ0CP00	judiciaire-j
 .	Fp	.-x
 </s>
 
-<s id="1648:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.01.31&end=00.01.33">
+<s id="1648:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.01.31&end=00.01.33">
 
 C	NP00000	C-n
 <g/>
@@ -43416,7 +43416,7 @@ résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
 
-<s id="1648:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648&start=00.01.33&end=00.01.50">
+<s id="1648:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1648.mp4&start=00.01.33&end=00.01.50">
 
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
@@ -43499,7 +43499,7 @@ danger	NCMS000	danger-n
 <speaker name="Danjean Arnaud" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="364" duration="medium" durations="166.0" speed="medium" speedwm="131.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1649:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.00.07&end=00.00.20">
+<s id="1649:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.00.07&end=00.00.20">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -43553,7 +43553,7 @@ maintenant	RG	maintenant-r
 .	Fp	.-x
 </s>
 
-<s id="1649:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.00.21&end=00.00.36">
+<s id="1649:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.00.21&end=00.00.36">
 
 Et	CC	et-c
 nous	PP1CP00	nous-p
@@ -43605,7 +43605,7 @@ semaines	NCFP000	semaine-n
 .	Fp	.-x
 </s>
 
-<s id="1649:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.00.36&end=00.00.59">
+<s id="1649:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.00.36&end=00.00.59">
 
 Au-delà	RG	au-delà-r
 de	SP	de-i
@@ -43690,7 +43690,7 @@ Niger	NP00000	Niger-n
 .	Fp	.-x
 </s>
 
-<s id="1649:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.00.59&end=00.01.01">
+<s id="1649:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.00.59&end=00.01.01">
 
 Les	DA0CP0	le-x
 réseaux	NCMP000	réseau-n
@@ -43699,7 +43699,7 @@ prospèrent	VMIP3P0	prospérer-v
 .	Fp	.-x
 </s>
 
-<s id="1649:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.01&end=00.01.10">
+<s id="1649:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.01&end=00.01.10">
 
 Les	DA0CP0	le-x
 trafics	NCMP000	trafic-n
@@ -43735,7 +43735,7 @@ continent	NCMS000	continent-n
 .	Fp	.-x
 </s>
 
-<s id="1649:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.10&end=00.01.22">
+<s id="1649:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.10&end=00.01.22">
 
 Car	CC	car-c
 ,	Fc	,-x
@@ -43788,7 +43788,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1649:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.23&end=00.01.35">
+<s id="1649:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.23&end=00.01.35">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -43825,7 +43825,7 @@ sécurité	NCFS000	sécurité-n
 .	Fp	.-x
 </s>
 
-<s id="1649:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.35&end=00.01.37">
+<s id="1649:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.35&end=00.01.37">
 
 C	NP00000	C-n
 <g/>
@@ -43837,7 +43837,7 @@ vitale	AQ0FS00	vital-j
 .	Fp	.-x
 </s>
 
-<s id="1649:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.38&end=00.01.54">
+<s id="1649:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.38&end=00.01.54">
 
 Des	SP+D	de+les-i
 actions	NCFP000	action-n
@@ -43903,7 +43903,7 @@ gouvernance	NCFS000	gouvernance-n
 .	Fp	.-x
 </s>
 
-<s id="1649:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.54&end=00.01.59">
+<s id="1649:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.54&end=00.01.59">
 
 Et	CC	et-c
 ,	Fc	,-x
@@ -43923,7 +43923,7 @@ bilatérales	AQ0FP00	bilatéral-j
 .	Fp	.-x
 </s>
 
-<s id="1649:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.01.59&end=00.02.02">
+<s id="1649:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.01.59&end=00.02.02">
 
 Mais	CC	mais-c
 il	PP3MSN0	il-p
@@ -43939,7 +43939,7 @@ loin	RG	loin-r
 .	Fp	.-x
 </s>
 
-<s id="1649:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.02.02&end=00.02.05">
+<s id="1649:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.02.02&end=00.02.05">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -43953,7 +43953,7 @@ coordonnée	VMP00SF	coordonner-v
 .	Fp	.-x
 </s>
 
-<s id="1649:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.02.05&end=00.02.24">
+<s id="1649:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.02.05&end=00.02.24">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -44023,7 +44023,7 @@ police	NCFS000	police-n
 .	Fp	.-x
 </s>
 
-<s id="1649:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.02.25&end=00.02.47">
+<s id="1649:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.02.25&end=00.02.47">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -44106,7 +44106,7 @@ présider	VMN0000	présider-v
 .	Fp	.-x
 </s>
 
-<s id="1649:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649&start=00.02.47&end=00.02.53">
+<s id="1649:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1649.mp4&start=00.02.47&end=00.02.53">
 
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -44142,7 +44142,7 @@ région	NCFS000	région-n
 <speaker name="Goerens Charles" gender="M" country="Luxembourg" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="213" duration="short" durations="103.0" speed="slow" speedwm="124.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1650:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.00.06&end=00.00.16">
+<s id="1650:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.00.06&end=00.00.16">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -44171,7 +44171,7 @@ sahélienne	AQ0FS00	sahélien-j
 .	Fp	.-x
 </s>
 
-<s id="1650:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.00.17&end=00.00.30">
+<s id="1650:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.00.17&end=00.00.30">
 
 Sont	VSIP3P0	être-v
 concernés	VMP00PM	concerner-v
@@ -44223,7 +44223,7 @@ tragique	AQ0CS00	tragique-j
 .	Fp	.-x
 </s>
 
-<s id="1650:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.00.30&end=00.00.48">
+<s id="1650:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.00.30&end=00.00.48">
 
 En	SP	en-i
 même	AQ0CS00	même-j
@@ -44286,7 +44286,7 @@ pas	RN	pas-r
 .	Fp	.-x
 </s>
 
-<s id="1650:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.00.49&end=00.00.51">
+<s id="1650:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.00.49&end=00.00.51">
 
 Les	DA0CP0	le-x
 questions	NCFP000	question-n
@@ -44301,7 +44301,7 @@ pertinentes	AQ0FP00	pertinent-j
 .	Fp	.-x
 </s>
 
-<s id="1650:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.00.52&end=00.01.04">
+<s id="1650:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.00.52&end=00.01.04">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -44350,7 +44350,7 @@ général	NCMS000	général-n
 .	Fp	.-x
 </s>
 
-<s id="1650:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.01.05&end=00.01.13">
+<s id="1650:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.01.05&end=00.01.13">
 
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
@@ -44377,7 +44377,7 @@ région	NCFS000	région-n
 .	Fp	.-x
 </s>
 
-<s id="1650:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.01.14&end=00.01.23">
+<s id="1650:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.01.14&end=00.01.23">
 
 Parmi	SP	parmi-i
 les	DA0CP0	le-x
@@ -44405,7 +44405,7 @@ régaliennes	AQ0FP00	régalien-j
 .	Fp	.-x
 </s>
 
-<s id="1650:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.01.23&end=00.01.27">
+<s id="1650:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.01.23&end=00.01.27">
 
 Troisièmement	NP00000	Troisièmement-n
 ,	Fc	,-x
@@ -44423,7 +44423,7 @@ domaine	NCMS000	domaine-n
 .	Fp	.-x
 </s>
 
-<s id="1650:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.01.27&end=00.01.30">
+<s id="1650:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.01.27&end=00.01.30">
 
 Merci	NCMS000	merci-n
 ,	Fc	,-x
@@ -44440,7 +44440,7 @@ annoncée	VMP00SF	annoncer-v
 .	Fp	.-x
 </s>
 
-<s id="1650:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650&start=00.01.30&end=00.01.49">
+<s id="1650:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1650.mp4&start=00.01.30&end=00.01.49">
 
 Quatrièmement	NP00000	Quatrièmement-n
 ,	Fc	,-x
@@ -44511,7 +44511,7 @@ sécurité	NCFS000	sécurité-n
 <speaker name="Gabriel Mariya" gender="F" country="Bulgaria" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="226" duration="short" durations="94.0" speed="medium" speedwm="144.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1651:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.06&end=00.00.12">
+<s id="1651:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.06&end=00.00.12">
 
 Président	NCMS000	président-n
 ,	Fc	,-x
@@ -44541,7 +44541,7 @@ Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
 
-<s id="1651:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.12&end=00.00.16">
+<s id="1651:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.12&end=00.00.16">
 
 Le	DA0MS0	le-x
 niveau	NCMS000	niveau-n
@@ -44560,7 +44560,7 @@ tous	PI0MP00	tout-p
 .	Fp	.-x
 </s>
 
-<s id="1651:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.16&end=00.00.29">
+<s id="1651:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.16&end=00.00.29">
 
 J	NP00000	J-n
 <g/>
@@ -44606,7 +44606,7 @@ faites	VMP00PF	faire-v
 .	Fp	.-x
 </s>
 
-<s id="1651:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.29&end=00.00.36">
+<s id="1651:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.29&end=00.00.36">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -44643,7 +44643,7 @@ agir	VMN0000	agir-v
 .	Fp	.-x
 </s>
 
-<s id="1651:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.36&end=00.00.41">
+<s id="1651:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.36&end=00.00.41">
 
 C	NP00000	C-n
 <g/>
@@ -44666,7 +44666,7 @@ région	NCFS000	région-n
 .	Fp	.-x
 </s>
 
-<s id="1651:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.42&end=00.00.56">
+<s id="1651:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.42&end=00.00.56">
 
 Organiser	VMN0000	organiser-v
 un	DI0MS0	un-x
@@ -44739,7 +44739,7 @@ large	AQ0CS00	large-j
 .	Fp	.-x
 </s>
 
-<s id="1651:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.00.56&end=00.01.03">
+<s id="1651:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.00.56&end=00.01.03">
 
 La	DA0FS0	le-x
 mise	NCFS000	mise-n
@@ -44772,7 +44772,7 @@ indispensable	AQ0CS00	indispensable-j
 .	Fp	.-x
 </s>
 
-<s id="1651:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.03&end=00.01.06">
+<s id="1651:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.03&end=00.01.06">
 
 La	DA0FS0	le-x
 première	AQ0FS00	premier-j
@@ -44786,7 +44786,7 @@ urgence	NCFS000	urgence-n
 .	Fp	.-x
 </s>
 
-<s id="1651:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.06&end=00.01.13">
+<s id="1651:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.06&end=00.01.13">
 
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
@@ -44822,7 +44822,7 @@ actions	NCFP000	action-n
 .	Fp	.-x
 </s>
 
-<s id="1651:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.14&end=00.01.28">
+<s id="1651:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.14&end=00.01.28">
 
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
@@ -44877,7 +44877,7 @@ région	NCFS000	région-n
 .	Fp	.-x
 </s>
 
-<s id="1651:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.28&end=00.01.31">
+<s id="1651:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.28&end=00.01.31">
 
 Face	NCFS000	face-n
 à	SP	à-i
@@ -44898,7 +44898,7 @@ faire	VMN0000	faire-v
 .	Fp	.-x
 </s>
 
-<s id="1651:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.32&end=00.01.39">
+<s id="1651:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.32&end=00.01.39">
 
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
@@ -44927,7 +44927,7 @@ majeur	AQ0MS00	majeur-j
 .	Fp	.-x
 </s>
 
-<s id="1651:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651&start=00.01.39&end=00.01.40">
+<s id="1651:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1651.mp4&start=00.01.39&end=00.01.40">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -44943,7 +44943,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Vlasto Dominique" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="157" duration="short" durations="63.0" speed="medium" speedwm="149.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1652:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.06&end=00.00.24">
+<s id="1652:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.06&end=00.00.24">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -45013,7 +45013,7 @@ attendre	VMN0000	attendre-v
 .	Fp	.-x
 </s>
 
-<s id="1652:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.24&end=00.00.28">
+<s id="1652:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.24&end=00.00.28">
 
 Les	DA0CP0	le-x
 groupes	NCMP000	groupe-n
@@ -45030,7 +45030,7 @@ civiles	AQ0FP00	civil-j
 .	Fp	.-x
 </s>
 
-<s id="1652:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.29&end=00.00.34">
+<s id="1652:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.29&end=00.00.34">
 
 À	SP	à-i
 mon	DP1CSS	mon-x
@@ -45064,7 +45064,7 @@ place	NCFS000	place-n
 .	Fp	.-x
 </s>
 
-<s id="1652:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.35&end=00.00.39">
+<s id="1652:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.35&end=00.00.39">
 
 Jusqu	NPMS000	Jusqu-n
 <g/>
@@ -45090,7 +45090,7 @@ Sahel	NPMS000	Sahel-n
 .	Fp	.-x
 </s>
 
-<s id="1652:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.39&end=00.00.48">
+<s id="1652:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.39&end=00.00.48">
 
 Or	CC	or-c
 désormais	RG	désormais-r
@@ -45133,7 +45133,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1652:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.48&end=00.00.54">
+<s id="1652:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.48&end=00.00.54">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -45168,7 +45168,7 @@ menaces	NCFP000	menace-n
 .	Fp	.-x
 </s>
 
-<s id="1652:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.54&end=00.00.59">
+<s id="1652:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.54&end=00.00.59">
 
 La	DA0FS0	le-x
 sécurité	NCFS000	sécurité-n
@@ -45191,7 +45191,7 @@ direct	AQ0MS00	direct-j
 .	Fp	.-x
 </s>
 
-<s id="1652:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.00.59&end=00.01.08">
+<s id="1652:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.00.59&end=00.01.08">
 
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
@@ -45234,7 +45234,7 @@ Sahel	NPMS000	Sahel-n
 .	Fp	.-x
 </s>
 
-<s id="1652:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652&start=00.01.08&end=00.01.09">
+<s id="1652:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1652.mp4&start=00.01.08&end=00.01.09">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -45248,7 +45248,7 @@ Merci	NCMS000	merci-n
 <speaker name="Pargneaux Gilles" gender="M" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="130" duration="short" durations="69.0" speed="slow" speedwm="113.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1653:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653&start=00.00.04&end=00.00.36">
+<s id="1653:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653.wmv&start=00.00.04&end=00.00.36">
 
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -45350,7 +45350,7 @@ débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
 
-<s id="1653:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653&start=00.00.36&end=00.00.55">
+<s id="1653:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653.wmv&start=00.00.36&end=00.00.55">
 
 Mais	CC	mais-c
 permettez-moi	VMM02P0	permettre-v
@@ -45413,7 +45413,7 @@ hui	RG	hui-r
 .	Fp	.-x
 </s>
 
-<s id="1653:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653&start=00.00.55&end=00.01.13">
+<s id="1653:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1653.wmv&start=00.00.55&end=00.01.13">
 
 Donc	RG	donc-r
 pouvez-vous	VMIP2P0	pouvoir-v
@@ -45485,7 +45485,7 @@ algériennes	AQ0FP00	algérien-j
 <speaker name="Flautre Hélène" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="237" duration="short" durations="96.0" speed="medium" speedwm="148.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1654:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.00.05&end=00.00.15">
+<s id="1654:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.00.05&end=00.00.15">
 
 Oui	RG	oui-r
 ,	Fc	,-x
@@ -45531,7 +45531,7 @@ scabreux	AQ0MN00	scabreux-j
 .	Fp	.-x
 </s>
 
-<s id="1654:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.00.15&end=00.00.21">
+<s id="1654:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.00.15&end=00.00.21">
 
 L	NP00000	L-n
 <g/>
@@ -45562,7 +45562,7 @@ négociations	NCFP000	négociation-n
 .	Fp	.-x
 </s>
 
-<s id="1654:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.00.21&end=00.00.38">
+<s id="1654:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.00.21&end=00.00.38">
 
 On	PP3CSN0	on-p
 ne	RN	ne-r
@@ -45625,7 +45625,7 @@ fondamentales	AQ0FP00	fondamental-j
 .	Fp	.-x
 </s>
 
-<s id="1654:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.00.39&end=00.01.04">
+<s id="1654:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.00.39&end=00.01.04">
 
 Les	DA0CP0	le-x
 migrants	NCMP000	migrant-n
@@ -45729,7 +45729,7 @@ Libye	NP00000	Libye-n
 .	Fp	.-x
 </s>
 
-<s id="1654:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.01.04&end=00.01.12">
+<s id="1654:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.01.04&end=00.01.12">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -45765,7 +45765,7 @@ urgent	AQ0MS00	urgent-j
 .	Fp	.-x
 </s>
 
-<s id="1654:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.01.12&end=00.01.28">
+<s id="1654:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.01.12&end=00.01.28">
 
 Cela	PD0CS00	cela-p
 passe	VMIP1S0	passer-v
@@ -45826,7 +45826,7 @@ moyens	NCMP000	moyen-n
 .	Fp	.-x
 </s>
 
-<s id="1654:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654&start=00.01.28&end=00.01.42">
+<s id="1654:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1654.mp4&start=00.01.28&end=00.01.42">
 
 De	SP	de-i
 là	RG	là-r
@@ -45882,7 +45882,7 @@ traités	NCMP000	traité-n
 <speaker name="Guillaume Sylvie" gender="F" country="France" politfunc="MEP" politgroup="SD">
 <st language="fr" length="medium" lengthw="442" duration="medium" durations="176.0" speed="medium" speedwm="150.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1655:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.06&end=00.00.18">
+<s id="1655:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.06&end=00.00.18">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -45953,7 +45953,7 @@ asile	NCMS000	asile-n
 .	Fp	.-x
 </s>
 
-<s id="1655:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.18&end=00.00.24">
+<s id="1655:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.18&end=00.00.24">
 
 Ne	RN	ne-r
 perdons	VMM01P0	perdre-v
@@ -45982,7 +45982,7 @@ communes	AQ0FP00	commun-j
 .	Fp	.-x
 </s>
 
-<s id="1655:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.25&end=00.00.30">
+<s id="1655:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.25&end=00.00.30">
 
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
@@ -46010,7 +46010,7 @@ asile	NCMS000	asile-n
 .	Fp	.-x
 </s>
 
-<s id="1655:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.31&end=00.00.38">
+<s id="1655:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.31&end=00.00.38">
 
 Permettez-moi	VMM02P0	permettre-v
 également	RG	également-r
@@ -46043,7 +46043,7 @@ Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
 
-<s id="1655:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.38&end=00.00.41">
+<s id="1655:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.38&end=00.00.41">
 
 On	PP3CSN0	on-p
 peut	VMIP3S0	pouvoir-v
@@ -46065,7 +46065,7 @@ compliquée	VMP00SF	compliquer-v
 .	Fp	.-x
 </s>
 
-<s id="1655:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.41&end=00.00.48">
+<s id="1655:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.41&end=00.00.48">
 
 J	NP00000	J-n
 <g/>
@@ -46093,7 +46093,7 @@ directives	NCFP000	directive-n
 .	Fp	.-x
 </s>
 
-<s id="1655:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.48&end=00.00.53">
+<s id="1655:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.48&end=00.00.53">
 
 Ces	DD0CP0	ce-x
 préalables	NCMP000	préalable-n
@@ -46127,7 +46127,7 @@ hui	RG	hui-r
 .	Fp	.-x
 </s>
 
-<s id="1655:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.00.54&end=00.01.08">
+<s id="1655:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.00.54&end=00.01.08">
 
 Ce	PP0CNN0	ce-p
 que	PR00000	que-p
@@ -46194,7 +46194,7 @@ crise	NCFS000	crise-n
 .	Fp	.-x
 </s>
 
-<s id="1655:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.08&end=00.01.15">
+<s id="1655:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.08&end=00.01.15">
 
 Or	CC	or-c
 ,	Fc	,-x
@@ -46222,7 +46222,7 @@ membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
 
-<s id="1655:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.15&end=00.01.26">
+<s id="1655:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.15&end=00.01.26">
 
 Et	CC	et-c
 c	RG	c-r
@@ -46284,13 +46284,13 @@ d	AQ0MS0	d-j
 .	Fp	.-x
 </s>
 
-<s id="1655:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.27&end=00.01.27">
+<s id="1655:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.27&end=00.01.27">
 
 Pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
 
-<s id="1655:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.28&end=00.01.51">
+<s id="1655:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.28&end=00.01.51">
 
 Parce	NPFS000	Parce-n
 que	CS	que-c
@@ -46382,7 +46382,7 @@ coûts	NCMP000	coût-n
 .	Fp	.-x
 </s>
 
-<s id="1655:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.52&end=00.01.57">
+<s id="1655:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.52&end=00.01.57">
 
 Par	SP	par-i
 ailleurs	RG	ailleurs-r
@@ -46407,7 +46407,7 @@ Dublin-Eurodac	NPMS000	Dublin-Eurodac-n
 ?	Fit	?-x
 </s>
 
-<s id="1655:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.01.58&end=00.02.03">
+<s id="1655:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.01.58&end=00.02.03">
 
 Pourquoi	PT00000	pourquoi-p
 aucun	DI0MS0	aucun-x
@@ -46436,7 +46436,7 @@ système	NCMS000	système-n
 ?	Fit	?-x
 </s>
 
-<s id="1655:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.04&end=00.02.17">
+<s id="1655:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.04&end=00.02.17">
 
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -46494,7 +46494,7 @@ Dublin	NP00000	Dublin-n
 .	Fp	.-x
 </s>
 
-<s id="1655:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.17&end=00.02.23">
+<s id="1655:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.17&end=00.02.23">
 
 Donc	CC	donc-c
 ,	Fc	,-x
@@ -46528,7 +46528,7 @@ Dublin	NP00000	Dublin-n
 .	Fp	.-x
 </s>
 
-<s id="1655:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.23&end=00.02.33">
+<s id="1655:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.23&end=00.02.33">
 
 De	SP	de-i
 mon	DP1CSS	mon-x
@@ -46580,7 +46580,7 @@ processus	NCMN000	processus-n
 .	Fp	.-x
 </s>
 
-<s id="1655:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.33&end=00.02.37">
+<s id="1655:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.33&end=00.02.37">
 
 Ces	DD0CP0	ce-x
 dysfonctionnements	NCMP000	dysfonctionnement-n
@@ -46601,7 +46601,7 @@ persécutions	NCFP000	persécution-n
 .	Fp	.-x
 </s>
 
-<s id="1655:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.37&end=00.02.49">
+<s id="1655:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.37&end=00.02.49">
 
 L	NP00000	L-n
 <g/>
@@ -46648,7 +46648,7 @@ communs	AQ0MP00	commun-j
 .	Fp	.-x
 </s>
 
-<s id="1655:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.50&end=00.02.57">
+<s id="1655:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.50&end=00.02.57">
 
 Ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
@@ -46684,7 +46684,7 @@ débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
 
-<s id="1655:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655&start=00.02.57&end=00.02.58">
+<s id="1655:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1655.mp4&start=00.02.57&end=00.02.58">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -46700,7 +46700,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Flautre Hélène" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="326" duration="medium" durations="151.0" speed="slow" speedwm="129.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1656:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.00.20&end=00.00.48">
+<s id="1656:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.00.20&end=00.00.48">
 
 Oui	RG	oui-r
 ,	Fc	,-x
@@ -46824,7 +46824,7 @@ temps	NCMN000	temps-n
 .	Fp	.-x
 </s>
 
-<s id="1656:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.00.48&end=00.00.59">
+<s id="1656:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.00.48&end=00.00.59">
 
 Ehm	FPAUSE	ehm
 alors	RG	alors-r
@@ -46864,7 +46864,7 @@ là	RG	là-r
 .	Fp	.-x
 </s>
 
-<s id="1656:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.00.59&end=00.01.03">
+<s id="1656:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.00.59&end=00.01.03">
 
 Est-ce	VMIP3S0	être-v
 qu	RG	qu-r
@@ -46898,7 +46898,7 @@ financier	AQ0MS00	financier-j
 ?	Fit	?-x
 </s>
 
-<s id="1656:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.03&end=00.01.07">
+<s id="1656:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.03&end=00.01.07">
 
 Et	CC	et-c
 quelquefois	RG	quelquefois-r
@@ -46915,7 +46915,7 @@ liés	VMP00PM	lier-v
 .	Fp	.-x
 </s>
 
-<s id="1656:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.08&end=00.01.15">
+<s id="1656:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.08&end=00.01.15">
 
 Ehm	FPAUSE	ehm
 il	PP3MSN0	il-p
@@ -46956,7 +46956,7 @@ déficiente	AQ0FS00	déficient-j
 .	Fp	.-x
 </s>
 
-<s id="1656:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.15&end=00.01.30">
+<s id="1656:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.15&end=00.01.30">
 
 D'	SP	de-i
 <g/>
@@ -47033,7 +47033,7 @@ insupportables	AQ0CP00	insupportable-j
 .	Fp	.-x
 </s>
 
-<s id="1656:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.30&end=00.01.35">
+<s id="1656:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.30&end=00.01.35">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -47050,7 +47050,7 @@ Europe	NPCS000	Europe-n
 !	Fat	!-x
 </s>
 
-<s id="1656:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.35&end=00.01.49">
+<s id="1656:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.35&end=00.01.49">
 
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -47092,7 +47092,7 @@ bâclées	VMP00PF	bâcler-v
 .	Fp	.-x
 </s>
 
-<s id="1656:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.01.49&end=00.02.05">
+<s id="1656:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.01.49&end=00.02.05">
 
 Donc	CC	donc-c
 je	PP1CSN0	je-p
@@ -47151,7 +47151,7 @@ situation	NCFS000	situation-n
 .	Fp	.-x
 </s>
 
-<s id="1656:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.05&end=00.02.19">
+<s id="1656:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.05&end=00.02.19">
 
 Alors	RG	alors-r
 ,	Fc	,-x
@@ -47213,7 +47213,7 @@ instance	NCFS000	instance-n
 .	Fp	.-x
 </s>
 
-<s id="1656:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.19&end=00.02.25">
+<s id="1656:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.19&end=00.02.25">
 
 Et	CC	et-c
 ça	PD0MS00	cela-p
@@ -47242,7 +47242,7 @@ considérable	AQ0CS00	considérable-j
 .	Fp	.-x
 </s>
 
-<s id="1656:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.25&end=00.02.37">
+<s id="1656:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.25&end=00.02.37">
 
 Les	DA0CP0	le-x
 aberrations	NCFP000	aberration-n
@@ -47286,7 +47286,7 @@ considérable	AQ0CS00	considérable-j
 .	Fp	.-x
 </s>
 
-<s id="1656:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.37&end=00.02.41">
+<s id="1656:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.37&end=00.02.41">
 
 Et	CC	et-c
 puis	CC	puis-c
@@ -47320,7 +47320,7 @@ détention	NCFS000	détention-n
 .	Fp	.-x
 </s>
 
-<s id="1656:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.42&end=00.02.45">
+<s id="1656:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.42&end=00.02.45">
 
 La	DA0FS0	le-x
 détention	NCFS000	détention-n
@@ -47337,7 +47337,7 @@ prohibitif	AQ0MS00	prohibitif-j
 .	Fp	.-x
 </s>
 
-<s id="1656:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656&start=00.02.46&end=00.02.50">
+<s id="1656:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1656.mp4&start=00.02.46&end=00.02.50">
 
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -47373,7 +47373,7 @@ urgent	AQ0MS00	urgent-j
 <speaker name="Lamberts Philippe" gender="M" country="Belgium" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="437" duration="medium" durations="163.0" speed="high" speedwm="160.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1657:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.05&end=00.00.05">
+<s id="1657:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.05&end=00.00.05">
 
 Vous	PP2CP00	vous-p
 m	NCMS000	m-n
@@ -47383,13 +47383,13 @@ entendez	VMIP2P0	entendre-v
 ?	Fit	?-x
 </s>
 
-<s id="1657:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.05&end=00.00.06">
+<s id="1657:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.05&end=00.00.06">
 
 Ouais	I	ouais-x
 .	Fp	.-x
 </s>
 
-<s id="1657:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.06&end=00.00.26">
+<s id="1657:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.06&end=00.00.26">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -47472,7 +47472,7 @@ matières-là	RG	matières-là-r
 .	Fp	.-x
 </s>
 
-<s id="1657:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.26&end=00.00.28">
+<s id="1657:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.26&end=00.00.28">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -47483,7 +47483,7 @@ rapporteur	NCMS000	rapporteur-n
 .	Fp	.-x
 </s>
 
-<s id="1657:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.28&end=00.00.44">
+<s id="1657:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.28&end=00.00.44">
 
 On	PP3CSN0	on-p
 fait	VMIP3S0	faire-v
@@ -47564,7 +47564,7 @@ souligné	VMP00SM	souligner-v
 .	Fp	.-x
 </s>
 
-<s id="1657:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.44&end=00.00.50">
+<s id="1657:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.44&end=00.00.50">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -47587,7 +47587,7 @@ avancer	VMN0000	avancer-v
 .	Fp	.-x
 </s>
 
-<s id="1657:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.50&end=00.00.55">
+<s id="1657:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.50&end=00.00.55">
 
 On	PP3CSN0	on-p
 l	NCMS000	l-n
@@ -47618,7 +47618,7 @@ l	NCMS000	l-n
 .	Fp	.-x
 </s>
 
-<s id="1657:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.00.56&end=00.01.03">
+<s id="1657:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.00.56&end=00.01.03">
 
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -47650,7 +47650,7 @@ forts	AQ0MP00	fort-j
 .	Fp	.-x
 </s>
 
-<s id="1657:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.01.03&end=00.01.22">
+<s id="1657:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.01.03&end=00.01.22">
 
 Et	CC	et-c
 donc	CC	donc-c
@@ -47739,7 +47739,7 @@ transparents	AQ0MP00	transparent-j
 .	Fp	.-x
 </s>
 
-<s id="1657:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.01.22&end=00.01.41">
+<s id="1657:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.01.22&end=00.01.41">
 
 Et	CC	et-c
 donc	CC	donc-c
@@ -47848,7 +47848,7 @@ marché	NCMS000	marché-n
 .	Fp	.-x
 </s>
 
-<s id="1657:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.01.41&end=00.01.47">
+<s id="1657:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.01.41&end=00.01.47">
 
 Deuxième	AO0CS00	2-j
 secteur	NCMS000	secteur-n
@@ -47874,7 +47874,7 @@ alimentaires	AQ0CP00	alimentaire-j
 .	Fp	.-x
 </s>
 
-<s id="1657:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.01.47&end=00.02.05">
+<s id="1657:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.01.47&end=00.02.05">
 
 Nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
@@ -47944,7 +47944,7 @@ fiscale	AQ0FS00	fiscal-j
 .	Fp	.-x
 </s>
 
-<s id="1657:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.06&end=00.02.16">
+<s id="1657:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.06&end=00.02.16">
 
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -47992,7 +47992,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1657:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.16&end=00.02.19">
+<s id="1657:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.16&end=00.02.19">
 
 Ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
@@ -48009,7 +48009,7 @@ terme	NCMS000	terme-n
 .	Fp	.-x
 </s>
 
-<s id="1657:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.19&end=00.02.27">
+<s id="1657:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.19&end=00.02.27">
 
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -48053,7 +48053,7 @@ problème-là	RG	problème-là-r
 .	Fp	.-x
 </s>
 
-<s id="1657:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.28&end=00.02.38">
+<s id="1657:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.28&end=00.02.38">
 
 Dernier	AQ0MS00	dernier-j
 point	NCMS000	point-n
@@ -48093,7 +48093,7 @@ aérien	AQ0MS00	aérien-j
 .	Fp	.-x
 </s>
 
-<s id="1657:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.39&end=00.02.47">
+<s id="1657:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.39&end=00.02.47">
 
 Nous	PP1CP00	nous-p
 saluons	VMIP1P0	saluer-v
@@ -48133,7 +48133,7 @@ instant	NCMS000	instant-n
 .	Fp	.-x
 </s>
 
-<s id="1657:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657&start=00.02.47&end=00.02.47">
+<s id="1657:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1657.wmv&start=00.02.47&end=00.02.47">
 
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -48149,7 +48149,7 @@ remercie	VMIP1S0	remercier-v
 <speaker name="Lamberts Philippe" gender="M" country="Belgium" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="150" duration="short" durations="59.0" speed="medium" speedwm="152.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1658:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.06&end=00.00.10">
+<s id="1658:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.06&end=00.00.10">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -48181,7 +48181,7 @@ impossible	AQ0CS00	impossible-j
 .	Fp	.-x
 </s>
 
-<s id="1658:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.10&end=00.00.11">
+<s id="1658:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.10&end=00.00.11">
 
 Simplement	RG	simplement-r
 ,	Fc	,-x
@@ -48194,7 +48194,7 @@ agit-il	VMIP3S0	agir-v
 ?	Fit	?-x
 </s>
 
-<s id="1658:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.12&end=00.00.25">
+<s id="1658:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.12&end=00.00.25">
 
 La	DA0FS0	le-x
 Banque	NPFS000	Banque-n
@@ -48230,7 +48230,7 @@ sortes	NCFP000	sorte-n
 .	Fp	.-x
 </s>
 
-<s id="1658:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.26&end=00.00.40">
+<s id="1658:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.26&end=00.00.40">
 
 Mais	CC	mais-c
 on	PP3CSN0	on-p
@@ -48291,7 +48291,7 @@ nulle	AQ0FS00	nul-j
 .	Fp	.-x
 </s>
 
-<s id="1658:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.40&end=00.00.44">
+<s id="1658:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.40&end=00.00.44">
 
 Et	CC	et-c
 donc	RG	donc-r
@@ -48311,7 +48311,7 @@ aide	NCCS000	aide-n
 .	Fp	.-x
 </s>
 
-<s id="1658:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.44&end=00.00.58">
+<s id="1658:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.44&end=00.00.58">
 
 Clairement	RG	clairement-r
 ,	Fc	,-x
@@ -48362,7 +48362,7 @@ paillasson	NCMS000	paillasson-n
 .	Fp	.-x
 </s>
 
-<s id="1658:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658&start=00.00.58&end=00.01.04">
+<s id="1658:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1658.mp4&start=00.00.58&end=00.01.04">
 
 Alors	RG	alors-r
 trouver	VMN0000	trouver-v
@@ -48414,7 +48414,7 @@ actions-là	RG	actions-là-r
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="208" duration="short" durations="76.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1659:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.04&end=00.00.19">
+<s id="1659:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.04&end=00.00.19">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -48477,7 +48477,7 @@ choses	NCFP000	chose-n
 .	Fp	.-x
 </s>
 
-<s id="1659:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.19&end=00.00.22">
+<s id="1659:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.19&end=00.00.22">
 
 Nous	PP1CP00	nous-p
 rendons	VMIP1P0	rendre-v
@@ -48492,7 +48492,7 @@ mort	VMP00SM	mourir-v
 .	Fp	.-x
 </s>
 
-<s id="1659:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.22&end=00.00.43">
+<s id="1659:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.22&end=00.00.43">
 
 On	PP3CSN0	on-p
 est	VMIP3S0	être-v
@@ -48597,7 +48597,7 @@ acheteurs	NCMP000	acheteur-n
 .	Fp	.-x
 </s>
 
-<s id="1659:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.43&end=00.00.47">
+<s id="1659:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.43&end=00.00.47">
 
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
@@ -48618,7 +48618,7 @@ internet	NCMS000	internet-n
 .	Fp	.-x
 </s>
 
-<s id="1659:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.48&end=00.00.51">
+<s id="1659:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.48&end=00.00.51">
 
 Mais	CC	mais-c
 c	RG	c-r
@@ -48635,7 +48635,7 @@ Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
 
-<s id="1659:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.51&end=00.00.56">
+<s id="1659:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.51&end=00.00.56">
 
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
@@ -48654,7 +48654,7 @@ sujets	NCMP000	sujet-n
 .	Fp	.-x
 </s>
 
-<s id="1659:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.56&end=00.00.59">
+<s id="1659:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.56&end=00.00.59">
 
 On	PP3CSN0	on-p
 répond	VMIP3S0	répondre-v
@@ -48686,7 +48686,7 @@ tiroir	NCMS000	tiroir-n
 .	Fp	.-x
 </s>
 
-<s id="1659:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.00.59&end=00.01.06">
+<s id="1659:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.00.59&end=00.01.06">
 
 Voilà	I	voilà-x
 ,	Fc	,-x
@@ -48728,7 +48728,7 @@ change	NCMS000	change-n
 .	Fp	.-x
 </s>
 
-<s id="1659:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.01.06&end=00.01.11">
+<s id="1659:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.01.06&end=00.01.11">
 
 C	NP00000	C-n
 <g/>
@@ -48780,7 +48780,7 @@ d	AQ0MS0	d-j
 .	Fp	.-x
 </s>
 
-<s id="1659:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.01.12&end=00.01.13">
+<s id="1659:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.01.12&end=00.01.13">
 
 Moi	PP1CS00	moi-p
 ,	Fc	,-x
@@ -48792,7 +48792,7 @@ favorable	AQ0CS00	favorable-j
 .	Fp	.-x
 </s>
 
-<s id="1659:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.01.13&end=00.01.20">
+<s id="1659:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.01.13&end=00.01.20">
 
 Je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -48821,7 +48821,7 @@ réveillons-nous	VMM01P0	réveiller-v
 !	Fat	!-x
 </s>
 
-<s id="1659:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659&start=00.01.20&end=00.01.20">
+<s id="1659:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1659.wmv&start=00.01.20&end=00.01.20">
 
 Merci	NCMS000	merci-n
 .	Fp	.-x
@@ -48835,7 +48835,7 @@ Merci	NCMS000	merci-n
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="375" duration="medium" durations="169.0" speed="medium" speedwm="133.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1660:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.00.06&end=00.00.19">
+<s id="1660:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.00.06&end=00.00.19">
 
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -48893,7 +48893,7 @@ intérêt	NCMS000	intérêt-n
 .	Fp	.-x
 </s>
 
-<s id="1660:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.00.20&end=00.00.25">
+<s id="1660:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.00.20&end=00.00.25">
 
 Elle	PP3FS00	elle-p
 offre	VMIP1S0	offrir-v
@@ -48915,7 +48915,7 @@ chrétiennes	AQ0FP00	chrétien-j
 .	Fp	.-x
 </s>
 
-<s id="1660:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.00.26&end=00.00.48">
+<s id="1660:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.00.26&end=00.00.48">
 
 Nous	PP1CP00	nous-p
 sommes	VSIP1P0	être-v
@@ -48999,7 +48999,7 @@ Dieu	NPMS000	Dieu-n
 .	Fp	.-x
 </s>
 
-<s id="1660:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.00.49&end=00.00.59">
+<s id="1660:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.00.49&end=00.00.59">
 
 Si	CS	si-c
 nous	PP1CP00	nous-p
@@ -49039,7 +49039,7 @@ intégrismes	NCMP000	intégrisme-n
 .	Fp	.-x
 </s>
 
-<s id="1660:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.00.59&end=00.01.06">
+<s id="1660:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.00.59&end=00.01.06">
 
 Aucune	DI0FS0	aucun-x
 religion	NCFS000	religion-n
@@ -49071,7 +49071,7 @@ intolérables	AQ0CP00	intolérable-j
 .	Fp	.-x
 </s>
 
-<s id="1660:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.06&end=00.01.13">
+<s id="1660:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.06&end=00.01.13">
 
 Rappelons-nous	VMM01P0	rappeler-v
 simplement	RG	simplement-r
@@ -49093,7 +49093,7 @@ latine	NCFS000	latin-n
 .	Fp	.-x
 </s>
 
-<s id="1660:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.13&end=00.01.19">
+<s id="1660:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.13&end=00.01.19">
 
 Rappelons-nous	VMM01P0	rappeler-v
 de	SP	de-i
@@ -49120,7 +49120,7 @@ protestants	AQ0MP00	protestant-j
 .	Fp	.-x
 </s>
 
-<s id="1660:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.19&end=00.01.28">
+<s id="1660:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.19&end=00.01.28">
 
 Souvenons-nous	VMM01P0	souvenir-v
 de	SP	de-i
@@ -49162,7 +49162,7 @@ européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1660:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.29&end=00.01.37">
+<s id="1660:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.29&end=00.01.37">
 
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
@@ -49188,7 +49188,7 @@ religions	NCFP000	religion-n
 .	Fp	.-x
 </s>
 
-<s id="1660:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.37&end=00.01.43">
+<s id="1660:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.37&end=00.01.43">
 
 De	SP	de-i
 ce	DD0MS0	ce-x
@@ -49216,7 +49216,7 @@ exemplaire	AQ0CS00	exemplaire-j
 .	Fp	.-x
 </s>
 
-<s id="1660:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.01.43&end=00.02.02">
+<s id="1660:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.01.43&end=00.02.02">
 
 Cet	DD0MS0	ce-x
 homme	NCMS000	homme-n
@@ -49291,7 +49291,7 @@ pakistanais	NCMN000	pakistanais-n
 .	Fp	.-x
 </s>
 
-<s id="1660:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.02.03&end=00.02.10">
+<s id="1660:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.02.03&end=00.02.10">
 
 L	NP00000	L-n
 <g/>
@@ -49321,7 +49321,7 @@ insupportable	AQ0CS00	insupportable-j
 .	Fp	.-x
 </s>
 
-<s id="1660:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.02.11&end=00.02.33">
+<s id="1660:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.02.11&end=00.02.33">
 
 N	NP00000	N-n
 <g/>
@@ -49401,7 +49401,7 @@ clandestinité	NCFS000	clandestinité-n
 .	Fp	.-x
 </s>
 
-<s id="1660:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660&start=00.02.33&end=00.02.54">
+<s id="1660:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1660.mp4&start=00.02.33&end=00.02.54">
 
 En	SP	en-i
 conséquence	NCFS000	conséquence-n
@@ -49494,7 +49494,7 @@ leçon	NCFS000	leçon-n
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="368" duration="medium" durations="156.0" speed="medium" speedwm="141.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1661:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.06&end=00.00.14">
+<s id="1661:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.06&end=00.00.14">
 
 Oui	RG	oui-r
 ,	Fc	,-x
@@ -49530,7 +49530,7 @@ après-midi	NCCS000	après-midi-n
 .	Fp	.-x
 </s>
 
-<s id="1661:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.15&end=00.00.23">
+<s id="1661:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.15&end=00.00.23">
 
 Moi	PP1CS00	moi-p
 qui	PR00000	qui-p
@@ -49569,7 +49569,7 @@ exceptionnel	AQ0MS00	exceptionnel-j
 .	Fp	.-x
 </s>
 
-<s id="1661:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.24&end=00.00.39">
+<s id="1661:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.24&end=00.00.39">
 
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -49640,7 +49640,7 @@ oh	I	oh-x
 ...	EPAUSE	...-x
 </s>
 
-<s id="1661:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.46&end=00.00.48">
+<s id="1661:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.46&end=00.00.48">
 
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
@@ -49653,7 +49653,7 @@ collègue	NCCS000	collègue-n
 ?	Fit	?-x
 </s>
 
-<s id="1661:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.48&end=00.00.50">
+<s id="1661:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.48&end=00.00.50">
 
 Mais	CC	mais-c
 faites-le	VMP00PF	faire-v
@@ -49667,7 +49667,7 @@ répondrai	VMIF1S0	répondre-v
 .	Fp	.-x
 </s>
 
-<s id="1661:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.51&end=00.00.53">
+<s id="1661:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.51&end=00.00.53">
 
 Ça	PD0MS00	cela-p
 s	VMII1S0	s-v
@@ -49683,7 +49683,7 @@ personnelle	AQ0FS00	personnel-j
 ...	EPAUSE	...-x
 </s>
 
-<s id="1661:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.00.56&end=00.01.00">
+<s id="1661:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.00.56&end=00.01.00">
 
 Vous	PP2CP00	vous-p
 êtes	VMIP2P0	être-v
@@ -49707,7 +49707,7 @@ Italien	NPMS000	Italien-n
 .	Fp	.-x
 </s>
 
-<s id="1661:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.00&end=00.01.07">
+<s id="1661:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.00&end=00.01.07">
 
 N	NP00000	N-n
 <g/>
@@ -49745,7 +49745,7 @@ après-midi	NCCS000	après-midi-n
 .	Fp	.-x
 </s>
 
-<s id="1661:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.08&end=00.01.11">
+<s id="1661:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.08&end=00.01.11">
 
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
@@ -49760,7 +49760,7 @@ monsieur	NCMS000	monsieur-n
 !	Fat	!-x
 </s>
 
-<s id="1661:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.11&end=00.01.14">
+<s id="1661:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.11&end=00.01.14">
 
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
@@ -49775,7 +49775,7 @@ séance	NCFS000	séance-n
 !	Fat	!-x
 </s>
 
-<s id="1661:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.17&end=00.01.26">
+<s id="1661:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.17&end=00.01.26">
 
 Alors	RG	alors-r
 laissez-moi	VMIP2P0	laisser-v
@@ -49815,7 +49815,7 @@ interrompue	VMP00SF	interrompre-v
 .	Fp	.-x
 </s>
 
-<s id="1661:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.28&end=00.01.30">
+<s id="1661:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.28&end=00.01.30">
 
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
@@ -49833,7 +49833,7 @@ parole	NCFS000	parole-n
 ?	Fit	?-x
 </s>
 
-<s id="1661:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.35&end=00.01.47">
+<s id="1661:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.35&end=00.01.47">
 
 Je	PP1CSN0	je-p
 constate	VMIP1S0	constater-v
@@ -49889,7 +49889,7 @@ italiennes	AQ0FP00	italien-j
 .	Fp	.-x
 </s>
 
-<s id="1661:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.47&end=00.01.48">
+<s id="1661:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.47&end=00.01.48">
 
 C	NP00000	C-n
 <g/>
@@ -49900,7 +49900,7 @@ constat	NCMS000	constat-n
 .	Fp	.-x
 </s>
 
-<s id="1661:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.48&end=00.01.50">
+<s id="1661:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.48&end=00.01.50">
 
 Il	PP3MSN0	il-p
 suffit	VMIP3S0	suffire-v
@@ -49914,7 +49914,7 @@ européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
 
-<s id="1661:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.51&end=00.01.55">
+<s id="1661:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.51&end=00.01.55">
 
 Il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -49937,7 +49937,7 @@ coupable	AQ0CS00	coupable-j
 .	Fp	.-x
 </s>
 
-<s id="1661:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.01.56&end=00.02.02">
+<s id="1661:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.01.56&end=00.02.02">
 
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -49968,7 +49968,7 @@ Italiens	NPMP000	Italiens-n
 .	Fp	.-x
 </s>
 
-<s id="1661:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.02&end=00.02.05">
+<s id="1661:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.02&end=00.02.05">
 
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -49986,7 +49986,7 @@ Italiens	NPMP000	Italiens-n
 .	Fp	.-x
 </s>
 
-<s id="1661:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.05&end=00.02.08">
+<s id="1661:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.05&end=00.02.08">
 
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -50000,7 +50000,7 @@ victimes	NCFP000	victime-n
 .	Fp	.-x
 </s>
 
-<s id="1661:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.08&end=00.02.15">
+<s id="1661:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.08&end=00.02.15">
 
 Mais	CC	mais-c
 je	PP1CSN0	je-p
@@ -50027,7 +50027,7 @@ Italie	NP00000	Italie-n
 .	Fp	.-x
 </s>
 
-<s id="1661:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.15&end=00.02.19">
+<s id="1661:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.15&end=00.02.19">
 
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
@@ -50049,7 +50049,7 @@ Italie	NP00000	Italie-n
 !	Fat	!-x
 </s>
 
-<s id="1661:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.21&end=00.02.26">
+<s id="1661:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.21&end=00.02.26">
 
 Donc	CC	donc-c
 je	PP1CSN0	je-p
@@ -50075,7 +50075,7 @@ interrompre	VMN0000	interrompre-v
 ?	Fit	?-x
 </s>
 
-<s id="1661:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.26&end=00.02.28">
+<s id="1661:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.26&end=00.02.28">
 
 On	PP3CSN0	on-p
 se	PP3CN00	se-p
@@ -50087,7 +50087,7 @@ national	AQ0MS00	national-j
 !	Fat	!-x
 </s>
 
-<s id="1661:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.28&end=00.02.30">
+<s id="1661:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.28&end=00.02.30">
 
 C	NP00000	C-n
 <g/>
@@ -50108,7 +50108,7 @@ habitude	NCFS000	habitude-n
 !	Fat	!-x
 </s>
 
-<s id="1661:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.32&end=00.02.52">
+<s id="1661:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.32&end=00.02.52">
 
 Mais	CC	mais-c
 ,	Fc	,-x
@@ -50164,7 +50164,7 @@ Italie	NP00000	Italie-n
 .	Fp	.-x
 </s>
 
-<s id="1661:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.02.53&end=00.03.02">
+<s id="1661:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.02.53&end=00.03.02">
 
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
@@ -50208,7 +50208,7 @@ décision	NCFS000	décision-n
 .	Fp	.-x
 </s>
 
-<s id="1661:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.03.02&end=00.03.29">
+<s id="1661:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.03.02&end=00.03.29">
 
 La	DA0FS0	le-x
 justice	NCFS000	justice-n
@@ -50278,7 +50278,7 @@ phrases	NCFP000	phrase-n
 .	Fp	.-x
 </s>
 
-<s id="1661:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.03.50&end=00.03.53">
+<s id="1661:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.03.50&end=00.03.53">
 
 respecter	VMN0000	respecter-v
 mes	DP1CPS	mon-x
@@ -50295,7 +50295,7 @@ question	NCFS000	question-n
 .	Fp	.-x
 </s>
 
-<s id="1661:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661&start=00.03.53&end=00.03.56">
+<s id="1661:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1661.mp4&start=00.03.53&end=00.03.56">
 
 J	NP00000	J-n
 <g/>

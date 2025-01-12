@@ -2,7 +2,7 @@
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="315" duration="medium" durations="121.0" speed="medium" speedwm="156.2" delivery="impromptu">
 <interpreter id="EN21" gender="F" native="Y">
-<s id="788:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.00&end=00.00.08">
+<s id="788:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.00&end=00.00.08">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -24,7 +24,7 @@ evening	NN	evening-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.08&end=00.00.14">
+<s id="788:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.08&end=00.00.14">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -46,7 +46,7 @@ answers	VVZ	answer-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.14&end=00.00.21">
+<s id="788:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.14&end=00.00.21">
 As	IN	as-i
 my	PPZ	my-d
 colleagues	NNS	colleague-n
@@ -65,7 +65,7 @@ us	PP	us-d
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.21&end=00.00.31">
+<s id="788:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.21&end=00.00.31">
 Within	IN	within-i
 4	CD	[number]-m
 months	NNS	month-n
@@ -86,7 +86,7 @@ times	NNS	time-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.31&end=00.00.38">
+<s id="788:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.31&end=00.00.38">
 During	IN	during-i
 the	DT	the-x
 pre-crisis	NN	pre-crisis-n
@@ -101,7 +101,7 @@ activity	NN	activity-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.38&end=00.00.48">
+<s id="788:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.38&end=00.00.48">
 Now	RB	now-a
 we	PP	we-d
 are	VBP	be-v
@@ -134,7 +134,7 @@ place	NN	place-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.00.48&end=00.01.12">
+<s id="788:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.00.48&end=00.01.12">
 Quite	RB	quite-a
 frankly	RB	frankly-a
 during	IN	during-i
@@ -188,7 +188,7 @@ in	IN	in-i
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.12&end=00.01.31">
+<s id="788:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.12&end=00.01.31">
 Now	RB	now-a
 it	PP	it-d
 is	VBZ	be-v
@@ -249,7 +249,7 @@ forward	RB	forward-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.31&end=00.01.34">
+<s id="788:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.31&end=00.01.34">
 Of	IN	of-i
 course	NN	course-n
 we	PP	we-d
@@ -261,7 +261,7 @@ responsibilities	NNS	responsibility-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.34&end=00.01.40">
+<s id="788:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.34&end=00.01.40">
 We	PP	we-d
 want	VVP	want-v
 those	DT	those-x
@@ -282,7 +282,7 @@ being	VBG	be-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.40&end=00.01.42">
+<s id="788:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.40&end=00.01.42">
 We	PP	we-d
 do	VVP	do-v
 <g/>
@@ -295,7 +295,7 @@ work	NN	work-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.42&end=00.01.50">
+<s id="788:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.42&end=00.01.50">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -324,7 +324,7 @@ time	NN	time-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.50&end=00.01.57">
+<s id="788:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.50&end=00.01.57">
 We	PP	we-d
 will	MD	will-x
 think	VV	think-v
@@ -347,7 +347,7 @@ us	PP	us-d
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.01.57&end=00.02.04">
+<s id="788:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.01.57&end=00.02.04">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -372,7 +372,7 @@ naive	JJ	naive-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="788:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=788&start=00.02.04&end=00.02.11">
+<s id="788:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=788.mp4&start=00.02.04&end=00.02.11">
 There	EX	there-x
 are	VBP	be-v
 major	JJ	major-j
@@ -395,7 +395,7 @@ play	NN	play-n
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="medium" lengthw="414" duration="medium" durations="191.0" speed="medium" speedwm="130.1" delivery="impromptu">
 <interpreter id="EN21" gender="F" native="Y">
-<s id="792:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.10&end=00.00.13">
+<s id="792:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.10&end=00.00.13">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -407,7 +407,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.13&end=00.00.22">
+<s id="792:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.13&end=00.00.22">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -426,7 +426,7 @@ done	VVN	do-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.22&end=00.00.27">
+<s id="792:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.22&end=00.00.27">
 And	CC	and-c
 ehm	FPAUSE	ehm
 support	VVP	support-v
@@ -444,7 +444,7 @@ Committee	NP	Committee-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.27&end=00.00.29">
+<s id="792:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.27&end=00.00.29">
 That	DT	that-x
 vote	NN	vote-n
 will	MD	will-x
@@ -454,7 +454,7 @@ tomorrow	NN	tomorrow-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.29&end=00.00.57">
+<s id="792:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.29&end=00.00.57">
 Now	RB	now-a
 let	VV	let-v
 <g/>
@@ -517,7 +517,7 @@ bill	NN	bill-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.00.57&end=00.01.03">
+<s id="792:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.00.57&end=00.01.03">
 So	RB	so-a
 20	CD	[number]-m
 percent	NN	percent-n
@@ -536,7 +536,7 @@ pipeline	NN	pipeline-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.03&end=00.01.25">
+<s id="792:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.03&end=00.01.25">
 That	DT	that-x
 <g/>
 's	VBZ	be-v
@@ -604,7 +604,7 @@ doing	VVG	do-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.25&end=00.01.36">
+<s id="792:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.25&end=00.01.36">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -636,7 +636,7 @@ set	VVN	set-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.36&end=00.01.38">
+<s id="792:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.36&end=00.01.38">
 I	PP	I-d
 <g/>
 'm	VBP	be-v
@@ -648,7 +648,7 @@ discussions	NNS	discussion-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.38&end=00.01.40">
+<s id="792:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.38&end=00.01.40">
 I	PP	I-d
 do	VVP	do-v
 apologize	VV	apologize-v
@@ -658,7 +658,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.40&end=00.01.56">
+<s id="792:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.40&end=00.01.56">
 You	PP	you-d
 say	VVP	say-v
 that	IN/that	that-i
@@ -713,7 +713,7 @@ baseline	NN	baseline-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.01.56&end=00.02.02">
+<s id="792:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.01.56&end=00.02.02">
 So	RB	so-a
 we	PP	we-d
 do	VVP	do-v
@@ -736,7 +736,7 @@ package	NN	package-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.02&end=00.02.06">
+<s id="792:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.02&end=00.02.06">
 We	PP	we-d
 have	VHP	have-v
 been	VBN	be-v
@@ -751,7 +751,7 @@ imposed	VVN	impose-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.06&end=00.02.10">
+<s id="792:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.06&end=00.02.10">
 Well	RB	well-a
 we	PP	we-d
 have	VHP	have-v
@@ -762,7 +762,7 @@ renewables	NNS	renewable-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.10&end=00.02.21">
+<s id="792:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.10&end=00.02.21">
 The	DT	the-x
 European	JJ	European-j
 Commission	NP	Commission-n
@@ -789,7 +789,7 @@ protocol	NN	protocol-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.21&end=00.02.32">
+<s id="792:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.21&end=00.02.32">
 Yet	RB	yet-a
 here	RB	here-a
 we	PP	we-d
@@ -835,7 +835,7 @@ targets	NNS	target-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.32&end=00.02.41">
+<s id="792:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.32&end=00.02.41">
 Now	RB	now-a
 on	IN	on-i
 the	DT	the-x
@@ -857,7 +857,7 @@ housing	NN	housing-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.41&end=00.02.43">
+<s id="792:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.41&end=00.02.43">
 I	PP	I-d
 think	VVP	think-v
 there	EX	there-x
@@ -868,7 +868,7 @@ there	RB	there-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.43&end=00.02.48">
+<s id="792:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.43&end=00.02.48">
 40	CD	[number]-m
 percent	NN	percent-n
 of	IN	of-i
@@ -888,7 +888,7 @@ renewables	NNS	renewable-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.48&end=00.02.53">
+<s id="792:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.48&end=00.02.53">
 Finally	RB	finally-a
 citizens	NNS	citizen-n
 today	RB	today-a
@@ -901,7 +901,7 @@ weather	NN	weather-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.53&end=00.02.57">
+<s id="792:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.53&end=00.02.57">
 They	PP	they-d
 pay	VVP	pay-v
 a	DT	a-x
@@ -913,7 +913,7 @@ bills	NNS	bill-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.02.57&end=00.03.04">
+<s id="792:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.02.57&end=00.03.04">
 If	IN	if-i
 Europe	NP	Europe-n
 exits	VVZ	exit-v
@@ -932,7 +932,7 @@ level	NN	level-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.03.04&end=00.03.07">
+<s id="792:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.03.04&end=00.03.07">
 So	RB	so-a
 we	PP	we-d
 need	VVP	need-v
@@ -947,7 +947,7 @@ action	NN	action-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.03.07&end=00.03.22">
+<s id="792:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.03.07&end=00.03.22">
 Commissioner	NP	Commissioner-n
 <g/>
 ,	,	,-x
@@ -985,7 +985,7 @@ expectations	NNS	expectation-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="792:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=792&start=00.03.22&end=00.03.23">
+<s id="792:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=792.mp4&start=00.03.22&end=00.03.23">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -1001,7 +1001,7 @@ much	RB	much-a
 <speaker name="De Keyser Véronique" gender="F" country="Belgium" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="210" duration="short" durations="112.0" speed="slow" speedwm="112.5" delivery="impromptu">
 <interpreter id="EN82" gender="M" native="Y">
-<s id="790:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.00&end=00.00.05">
+<s id="790:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.00&end=00.00.05">
 Thank	VV	thank-v
 you	PP	you-d
 Mr	NP	Mr-n
@@ -1012,7 +1012,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.05&end=00.00.16">
+<s id="790:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.05&end=00.00.16">
 A	DT	a-x
 year	NN	year-n
 ago	RB	ago-a
@@ -1041,7 +1041,7 @@ Uganda	NP	Uganda-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.16&end=00.00.24">
+<s id="790:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.16&end=00.00.24">
 So	RB	so-a
 1	CD	[number]-m
 year	NN	year-n
@@ -1063,7 +1063,7 @@ resolution	NN	resolution-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="790:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.24&end=00.00.27">
+<s id="790:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.24&end=00.00.27">
 Well	RB	well-a
 it	PP	it-d
 <g/>
@@ -1081,7 +1081,7 @@ addressed	VVN	address-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.27&end=00.00.37">
+<s id="790:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.27&end=00.00.37">
 The	DT	the-x
 evangelical	JJ	evangelical-j
 movement	NN	movement-n
@@ -1110,7 +1110,7 @@ through	RP	through-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.00.37&end=00.01.07">
+<s id="790:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.00.37&end=00.01.07">
 The	DT	the-x
 second	JJ	second-j
 reason	NN	reason-n
@@ -1176,7 +1176,7 @@ banned	VVN	ban-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.07&end=00.01.12">
+<s id="790:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.07&end=00.01.12">
 So	RB	so-a
 basically	RB	basically-a
 it	PP	it-d
@@ -1199,7 +1199,7 @@ on	RP	on-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.12&end=00.01.16">
+<s id="790:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.12&end=00.01.16">
 Only	RB	only-a
 13	CD	[number]-m
 countries	NNS	country-n
@@ -1213,7 +1213,7 @@ rights	NNS	right-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.16&end=00.01.26">
+<s id="790:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.16&end=00.01.26">
 The	DT	the-x
 other	JJ	other-j
 countries	NNS	country-n
@@ -1246,7 +1246,7 @@ death	NN	death-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.26&end=00.01.43">
+<s id="790:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.26&end=00.01.43">
 I	PP	I-d
 <g/>
 'll	MD	will-x
@@ -1294,7 +1294,7 @@ issue	NN	issue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.43&end=00.01.44">
+<s id="790:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.43&end=00.01.44">
 No	RB	no-a
 not	RB	not-a
 at	IN	at-i
@@ -1302,7 +1302,7 @@ all	DT	all-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.44&end=00.01.57">
+<s id="790:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.44&end=00.01.57">
 These	DT	these-x
 are	VBP	be-v
 human	JJ	human-j
@@ -1334,7 +1334,7 @@ Commission	NP	Commission-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="790:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=790&start=00.01.57&end=00.01.59">
+<s id="790:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=790.mp4&start=00.01.57&end=00.01.59">
 Thank	VV	thank-v
 you	PP	you-d
 <g/>
@@ -1348,7 +1348,7 @@ you	PP	you-d
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="medium" lengthw="466" duration="medium" durations="235.0" speed="slow" speedwm="119.0" delivery="impromptu">
 <interpreter id="EN132" gender="F" native="Y">
-<s id="786:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.00.00&end=00.00.08">
+<s id="786:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.00.00&end=00.00.08">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -1366,7 +1366,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.00.08&end=00.00.21">
+<s id="786:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.00.08&end=00.00.21">
 2	CD	[number]-m
 institutions	NNS	institution-n
 have	VHP	have-v
@@ -1401,7 +1401,7 @@ governance	NN	governance-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.00.21&end=00.00.46">
+<s id="786:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.00.21&end=00.00.46">
 We	PP	we-d
 <g/>
 're	VBP	be-v
@@ -1468,7 +1468,7 @@ health	NN	health-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.00.46&end=00.00.52">
+<s id="786:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.00.46&end=00.00.52">
 And	CC	and-c
 this	DT	this-x
 article	NN	article-n
@@ -1481,7 +1481,7 @@ policies	NNS	policy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.00.52&end=00.01.00">
+<s id="786:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.00.52&end=00.01.00">
 Now	RB	now-a
 today	NN	today-n
 you	PP	you-d
@@ -1508,7 +1508,7 @@ for	IN	for-i
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.01.00&end=00.01.14">
+<s id="786:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.01.00&end=00.01.14">
 This	DT	this-x
 impact	NN	impact-n
 assessment	NN	assessment-n
@@ -1533,7 +1533,7 @@ illnesses	NNS	illness-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.01.14&end=00.01.31">
+<s id="786:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.01.14&end=00.01.31">
 That	DT	that-x
 would	MD	would-x
 be	VB	be-v
@@ -1589,7 +1589,7 @@ markets	NNS	market-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.01.31&end=00.01.39">
+<s id="786:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.01.31&end=00.01.39">
 But	CC	but-c
 if	IN	if-i
 the	DT	the-x
@@ -1618,7 +1618,7 @@ policy	NN	policy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.01.39&end=00.01.46">
+<s id="786:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.01.39&end=00.01.46">
 There	EX	there-x
 will	MD	will-x
 be	VB	be-v
@@ -1639,7 +1639,7 @@ article	NN	article-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.01.46&end=00.02.03">
+<s id="786:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.01.46&end=00.02.03">
 So	RB	so-a
 what	WP	what-x
 we	PP	we-d
@@ -1674,7 +1674,7 @@ take	VV	take-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.02.03&end=00.02.11">
+<s id="786:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.02.03&end=00.02.11">
 What	WP	what-x
 will	MD	will-x
 be	VB	be-v
@@ -1693,7 +1693,7 @@ poverty	NN	poverty-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="786:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.02.11&end=00.02.19">
+<s id="786:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.02.11&end=00.02.19">
 In	IN	in-i
 the	DT	the-x
 European	JJ	European-j
@@ -1716,7 +1716,7 @@ exclusion	NN	exclusion-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.02.19&end=00.02.25">
+<s id="786:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.02.19&end=00.02.25">
 These	DT	these-x
 are	VBP	be-v
 the	DT	the-x
@@ -1728,7 +1728,7 @@ cover	NN	cover-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.02.25&end=00.02.42">
+<s id="786:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.02.25&end=00.02.42">
 The	DT	the-x
 reality	NN	reality-n
 is	VBZ	be-v
@@ -1769,7 +1769,7 @@ Council	NP	Council-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.02.42&end=00.03.01">
+<s id="786:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.02.42&end=00.03.01">
 Some	DT	some-x
 want	VVP	want-v
 to	TO	to-x
@@ -1806,7 +1806,7 @@ adopted	VVD	adopt-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.03.01&end=00.03.26">
+<s id="786:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.03.01&end=00.03.26">
 Now	RB	now-a
 in	IN	in-i
 terms	NNS	term-n
@@ -1868,7 +1868,7 @@ growth	NN	growth-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.03.26&end=00.03.30">
+<s id="786:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.03.26&end=00.03.30">
 But	CC	but-c
 how	WRB	how-x
 can	MD	can-x
@@ -1885,7 +1885,7 @@ financing	NN	financing-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="786:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.03.30&end=00.03.32">
+<s id="786:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.03.30&end=00.03.32">
 What	WP	what-x
 if	IN	if-i
 what	WP	what-x
@@ -1894,7 +1894,7 @@ austerity	NN	austerity-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="786:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.03.32&end=00.03.50">
+<s id="786:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.03.32&end=00.03.50">
 Austerity	NN	austerity-n
 plans	NNS	plan-n
 have	VHP	have-v
@@ -1930,7 +1930,7 @@ wealth	NN	wealth-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="786:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=786&start=00.03.50&end=00.04.17">
+<s id="786:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=786.mp4&start=00.03.50&end=00.04.17">
 But	CC	but-c
 we	PP	we-d
 fought	VVD	fight-v
@@ -1961,7 +1961,7 @@ President-in-Office	NP	President-in-Office-n
 <speaker name="Morin-Chartier Elisabeth " gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="210" duration="short" durations="105.0" speed="slow" speedwm="120.0" delivery="impromptu">
 <interpreter id="EN93" gender="M" native="Y">
-<s id="780:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.00&end=00.00.08">
+<s id="780:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.00&end=00.00.08">
 Thank	VV	thank-v
 you	PP	you-d
 Madam	NN	madam-n
@@ -1977,7 +1977,7 @@ friends	NNS	friend-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.08&end=00.00.18">
+<s id="780:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.08&end=00.00.18">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -2021,7 +2021,7 @@ women	NNS	woman-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.18&end=00.00.20">
+<s id="780:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.18&end=00.00.20">
 It	PP	it-d
 <g/>
 's	VBZ	be-v
@@ -2033,7 +2033,7 @@ society	NN	society-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.20&end=00.00.33">
+<s id="780:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.20&end=00.00.33">
 Which	WDT	which-x
 society	NN	society-n
 today	NN	today-n
@@ -2064,7 +2064,7 @@ life	NN	life-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.33&end=00.00.36">
+<s id="780:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.33&end=00.00.36">
 This	DT	this-x
 must	MD	must-x
 <g/>
@@ -2079,7 +2079,7 @@ in	IN	in-i
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.36&end=00.00.56">
+<s id="780:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.36&end=00.00.56">
 I	PP	I-d
 ask	VVP	ask-v
 for	IN	for-i
@@ -2130,7 +2130,7 @@ intelligence	NN	intelligence-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.00.56&end=00.01.02">
+<s id="780:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.00.56&end=00.01.02">
 The	DT	the-x
 second	JJ	second-j
 point	NN	point-n
@@ -2147,7 +2147,7 @@ responsibility	NN	responsibility-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.02&end=00.01.11">
+<s id="780:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.02&end=00.01.11">
 You	PP	you-d
 know	VVP	know-v
 I	PP	I-d
@@ -2179,7 +2179,7 @@ succeed	VV	succeed-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.11&end=00.01.18">
+<s id="780:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.11&end=00.01.18">
 Without	IN	without-i
 quotas	NNS	quota-n
 we	PP	we-d
@@ -2198,7 +2198,7 @@ posts	NNS	post-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.18&end=00.01.23">
+<s id="780:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.18&end=00.01.23">
 And	CC	and-c
 ehm	FPAUSE	ehm
 last	JJ	last-j
@@ -2218,7 +2218,7 @@ too	RB	too-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.23&end=00.01.29">
+<s id="780:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.23&end=00.01.29">
 I	PP	I-d
 think	VVP	think-v
 today	NN	today-n
@@ -2236,7 +2236,7 @@ road	NN	road-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.29&end=00.01.40">
+<s id="780:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.29&end=00.01.40">
 You	PP	you-d
 know	VVP	know-v
 I	PP	I-d
@@ -2272,7 +2272,7 @@ there	RB	there-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.40&end=00.01.41">
+<s id="780:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.40&end=00.01.41">
 But	CC	but-c
 we	PP	we-d
 need	VVP	need-v
@@ -2281,7 +2281,7 @@ now	RB	now-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.41&end=00.01.49">
+<s id="780:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.41&end=00.01.49">
 Finally	RB	finally-a
 third	JJ	third-j
 point	NN	point-n
@@ -2301,7 +2301,7 @@ women	NNS	woman-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="780:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=780&start=00.01.49&end=00.01.54">
+<s id="780:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=780.mp4&start=00.01.49&end=00.01.54">
 Thank	VV	thank-v
 you	PP	you-d
 ehm	FPAUSE	ehm
@@ -2715,14 +2715,14 @@ you	PP	you-d
 <speaker name="Lepage Corinne " gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="220" duration="short" durations="91.0" speed="medium" speedwm="145.1" delivery="impromptu">
 <interpreter id="EN63" gender="M" native="Y">
-<s id="778:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.00&end=00.00.01">
+<s id="778:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.00&end=00.00.01">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.01&end=00.00.16">
+<s id="778:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.01&end=00.00.16">
 Of	IN	of-i
 course	NN	course-n
 I	PP	I-d
@@ -2755,7 +2755,7 @@ tests	NNS	test-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.16&end=00.00.24">
+<s id="778:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.16&end=00.00.24">
 And	CC	and-c
 of	IN	of-i
 course	NN	course-n
@@ -2769,7 +2769,7 @@ level	NN	level-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.24&end=00.00.33">
+<s id="778:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.24&end=00.00.33">
 However	RB	however-a
 do	VVP	do-v
 not	RB	not-a
@@ -2793,7 +2793,7 @@ risks	NNS	risk-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.33&end=00.00.42">
+<s id="778:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.33&end=00.00.42">
 So	IN	so-i
 whatever	WDT	whatever-x
 tests	NNS	test-n
@@ -2816,7 +2816,7 @@ safe	JJ	safe-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.42&end=00.00.46">
+<s id="778:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.42&end=00.00.46">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -2827,7 +2827,7 @@ that	DT	that-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.46&end=00.00.52">
+<s id="778:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.46&end=00.00.52">
 And	CC	and-c
 I	PP	I-d
 do	VVP	do-v
@@ -2861,7 +2861,7 @@ Europe	NP	Europe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.52&end=00.00.57">
+<s id="778:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.52&end=00.00.57">
 We	PP	we-d
 ca	MD	can-x
 <g/>
@@ -2880,7 +2880,7 @@ that	DT	that-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.00.57&end=00.01.10">
+<s id="778:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.00.57&end=00.01.10">
 So	RB	so-a
 we	PP	we-d
 have	VHP	have-v
@@ -2926,7 +2926,7 @@ gas	NN	gas-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.01.10&end=00.01.21">
+<s id="778:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.01.10&end=00.01.21">
 Well	RB	well-a
 with	IN	with-i
 the	DT	the-x
@@ -2964,7 +2964,7 @@ that	DT	that-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.01.21&end=00.01.31">
+<s id="778:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.01.21&end=00.01.31">
 But	CC	but-c
 this	DT	this-x
 is	VBZ	be-v
@@ -2998,7 +2998,7 @@ whole	NN	whole-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="778:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=778&start=00.01.31&end=00.01.38">
+<s id="778:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=778.mp4&start=00.01.31&end=00.01.38">
 Because	IN	because-i
 Fukushima	NP	Fukushima-n
 <g/>
@@ -3392,7 +3392,7 @@ elsewhere	RB	elsewhere-a
 <speaker name="Gollnisch Bruno" gender="M" country="France" politfunc="MEP" politgroup="AENM">
 <st language="fr" length="short" lengthw="179" duration="short" durations="85.0" speed="slow" speedwm="126.4" delivery="impromptu">
 <interpreter id="EN26" gender="F" native="Y">
-<s id="773:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.00&end=00.00.03">
+<s id="773:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.00&end=00.00.03">
 I	PP	I-d
 do	VVP	do-v
 not	RB	not-a
@@ -3403,7 +3403,7 @@ government	NN	government-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.03&end=00.00.07">
+<s id="773:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.03&end=00.00.07">
 Mr	NP	Mr-n
 Sarkozy	NP	Sarkozy-n
 and	CC	and-c
@@ -3418,7 +3418,7 @@ past	NN	past-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.07&end=00.00.28">
+<s id="773:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.07&end=00.00.28">
 They	PP	they-d
 should	MD	should-x
 <g/>
@@ -3466,7 +3466,7 @@ here	RB	here-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.28&end=00.00.45">
+<s id="773:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.28&end=00.00.45">
 But	CC	but-c
 I	PP	I-d
 <g/>
@@ -3512,7 +3512,7 @@ territory	NN	territory-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.45&end=00.00.51">
+<s id="773:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.45&end=00.00.51">
 They	PP	they-d
 will	MD	will-x
 only	RB	only-a
@@ -3531,7 +3531,7 @@ this	DT	this-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.00.51&end=00.01.16">
+<s id="773:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.00.51&end=00.01.16">
 We	PP	we-d
 talk	VVP	talk-v
 about	RB	about-a
@@ -3592,7 +3592,7 @@ evil	JJ	evil-j
 <g/>
 ?	SENT	?-x
 </s>
-<s id="773:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.01.16&end=00.01.25">
+<s id="773:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.01.16&end=00.01.25">
 Do	VVP	do-v
 you	PP	you-d
 think	VVP	think-v
@@ -3612,7 +3612,7 @@ them	PP	them-d
 <g/>
 ?	SENT	?-x
 </s>
-<s id="773:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.01.25&end=00.01.37">
+<s id="773:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.01.25&end=00.01.37">
 Your	PPZ	your-d
 ehm	FPAUSE	ehm
 naïveté	NN	naïveté-n
@@ -3645,7 +3645,7 @@ Europe	NP	Europe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="773:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=773&start=00.01.37&end=00.01.38">
+<s id="773:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=773.mp4&start=00.01.37&end=00.01.38">
 Thank	VV	thank-v
 you	PP	you-d
 <g/>
@@ -3791,7 +3791,7 @@ them	PP	them-d
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="113" duration="short" durations="55.0" speed="slow" speedwm="123.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1183:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.08&end=00.00.17">
+<s id="1183:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.08&end=00.00.17">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -3825,7 +3825,7 @@ the	DT	the-x
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1183:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.21&end=00.00.35">
+<s id="1183:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.21&end=00.00.35">
 So	RB	so-a
 now	RB	now-a
 ,	,	,-x
@@ -3873,7 +3873,7 @@ Commission	NP	Commission-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1183:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.37&end=00.00.43">
+<s id="1183:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.37&end=00.00.43">
 You	PP	you-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -3904,7 +3904,7 @@ until	IN	until-i
 February	NP	February-n
 .	SENT	.-x
 </s>
-<s id="1183:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.43&end=00.00.54">
+<s id="1183:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.43&end=00.00.54">
 The	DT	the-x
 European	NP	European-n
 Union	NP	Union-n
@@ -3942,14 +3942,14 @@ at	IN	at-i
 noon	NN	noon-n
 .	SENT	.-x
 </s>
-<s id="1183:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.54&end=00.00.55">
+<s id="1183:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.54&end=00.00.55">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
 much	RB	much-a
 .	SENT	.-x
 </s>
-<s id="1183:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183&start=00.00.55&end=00.01.04">
+<s id="1183:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1183.mp4&start=00.00.55&end=00.01.04">
 I	PP	I-d
 understand	VVP	understand-v
 that	IN/that	that-i
@@ -3990,13 +3990,13 @@ you	PP	you-d
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="476" duration="medium" durations="266.0" speed="slow" speedwm="107.4" delivery="mixed">
 <interpreter id="EN14" gender="M" native="Y">
-<s id="1184:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.11&end=00.00.13">
+<s id="1184:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.11&end=00.00.13">
 Ladies	NNS	lady-n
 and	CC	and-c
 gentlemen	NNS	gentleman-n
 .	SENT	.-x
 </s>
-<s id="1184:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.14&end=00.00.28">
+<s id="1184:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.14&end=00.00.28">
 I	PP	I-d
 have	VHP	have-v
 to	TO	to-x
@@ -4028,7 +4028,7 @@ Ben	NP	Ben-n
 Ali	NP	Ali-n
 .	SENT	.-x
 </s>
-<s id="1184:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.28&end=00.00.33">
+<s id="1184:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.28&end=00.00.33">
 Well	RB	well-a
 ,	,	,-x
 the	DT	the-x
@@ -4051,7 +4051,7 @@ in	IN	in-i
 Tunisia	NP	Tunisia-n
 .	SENT	.-x
 </s>
-<s id="1184:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.33&end=00.00.37">
+<s id="1184:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.33&end=00.00.37">
 And	CC	and-c
 today	NN	today-n
 we	PP	we-d
@@ -4062,7 +4062,7 @@ extremely	RB	extremely-a
 careful	JJ	careful-j
 .	SENT	.-x
 </s>
-<s id="1184:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.37&end=00.00.49">
+<s id="1184:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.37&end=00.00.49">
 European	JJ	European-j
 governments	NNS	government-n
 ,	,	,-x
@@ -4089,7 +4089,7 @@ in	IN	in-i
 Tunisia	NP	Tunisia-n
 .	SENT	.-x
 </s>
-<s id="1184:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.49&end=00.00.58">
+<s id="1184:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.49&end=00.00.58">
 Last	JJ	last-j
 week	NN	week-n
 still	RB	still-a
@@ -4113,14 +4113,14 @@ Ben	NP	Ben-n
 Ali	NP	Ali-n
 .	SENT	.-x
 </s>
-<s id="1184:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.00.59&end=00.01.00">
+<s id="1184:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.00.59&end=00.01.00">
 W-	DYSF	W-
 The	NP	The-n
 French	NP	French-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1184:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.02&end=00.01.08">
+<s id="1184:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.02&end=00.01.08">
 Foreign	NP	Foreign-n
 Affairs	NPS	Affairs-n
 Minister	NP	Minister-n
@@ -4146,22 +4146,22 @@ all	PDT	all-x
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1184:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.08&end=00.01.09">
+<s id="1184:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.08&end=00.01.09">
 Why	WRB	why-x
 ?	SENT	?-x
 </s>
-<s id="1184:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.09&end=00.01.10">
+<s id="1184:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.09&end=00.01.10">
 Why	WRB	why-x
 ?	SENT	?-x
 </s>
-<s id="1184:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.10&end=00.01.11">
+<s id="1184:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.10&end=00.01.11">
 Because	IN	because-i
 they	PP	they-d
 are	VBP	be-v
 scared	VVN	scare-v
 .	SENT	.-x
 </s>
-<s id="1184:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.11&end=00.01.15">
+<s id="1184:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.11&end=00.01.15">
 Because	IN	because-i
 we	PP	we-d
 '	''	'-x
@@ -4172,7 +4172,7 @@ of	IN	of-i
 Islam	NP	Islam-n
 .	SENT	.-x
 </s>
-<s id="1184:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.16&end=00.01.32">
+<s id="1184:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.16&end=00.01.32">
 Yes	UH	yes-x
 ,	,	,-x
 we	PP	we-d
@@ -4218,7 +4218,7 @@ a	DT	a-x
 struggle	NN	struggle-n
 .	SENT	.-x
 </s>
-<s id="1184:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.32&end=00.01.40">
+<s id="1184:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.32&end=00.01.40">
 The	DT	the-x
 ehm	FPAUSE	ehm
 Tunisian	JJ	Tunisian-j
@@ -4242,7 +4242,7 @@ of	IN	of-i
 Tunisia	NP	Tunisia-n
 .	SENT	.-x
 </s>
-<s id="1184:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.40&end=00.01.44">
+<s id="1184:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.40&end=00.01.44">
 And	CC	and-c
 when	WRB	when-x
 he	PP	he-d
@@ -4263,7 +4263,7 @@ here	RB	here-a
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1184:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.44&end=00.01.45">
+<s id="1184:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.44&end=00.01.45">
 So	RB	so-a
 ,	,	,-x
 we	PP	we-d
@@ -4272,7 +4272,7 @@ to	TO	to-x
 act	VV	act-v
 .	SENT	.-x
 </s>
-<s id="1184:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.45&end=00.01.47">
+<s id="1184:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.45&end=00.01.47">
 So	RB	so-a
 ,	,	,-x
 Commissioner	NP	Commissioner-n
@@ -4283,7 +4283,7 @@ to	TO	to-x
 act	VV	act-v
 .	SENT	.-x
 </s>
-<s id="1184:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.47&end=00.01.48">
+<s id="1184:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.47&end=00.01.48">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -4292,7 +4292,7 @@ simple	JJ	simple-j
 enough	NN	enough-n
 .	SENT	.-x
 </s>
-<s id="1184:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.48&end=00.01.57">
+<s id="1184:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.48&end=00.01.57">
 You	PP	you-d
 just	RB	just-a
 have	VH	have-v
@@ -4320,7 +4320,7 @@ ehm	FPAUSE	ehm
 dictatorship	NN	dictatorship-n
 .	SENT	.-x
 </s>
-<s id="1184:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.57&end=00.01.59">
+<s id="1184:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.57&end=00.01.59">
 It	PP	it-d
 ca	MD	can-x
 n	NN	n-n
@@ -4338,7 +4338,7 @@ months'	NNSZ	month-n
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1184:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.01.59&end=00.02.01">
+<s id="1184:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.01.59&end=00.02.01">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -4349,7 +4349,7 @@ for	IN	for-i
 democracy	NN	democracy-n
 .	SENT	.-x
 </s>
-<s id="1184:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.01&end=00.02.10">
+<s id="1184:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.01&end=00.02.10">
 The	DT	the-x
 freedom	NN	freedom-n
 of	IN	of-i
@@ -4376,7 +4376,7 @@ printing	NN	printing-n
 shop	NN	shop-n
 .	SENT	.-x
 </s>
-<s id="1184:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.10&end=00.02.25">
+<s id="1184:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.10&end=00.02.25">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -4422,7 +4422,7 @@ Tunisian	JJ	Tunisian-j
 government	NN	government-n
 .	SENT	.-x
 </s>
-<s id="1184:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.25&end=00.02.30">
+<s id="1184:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.25&end=00.02.30">
 Secondly	RB	secondly-a
 ,	,	,-x
 the	DT	the-x
@@ -4436,14 +4436,14 @@ unity	NN	unity-n
 government	NN	government-n
 .	SENT	.-x
 </s>
-<s id="1184:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.30&end=00.02.31">
+<s id="1184:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.30&end=00.02.31">
 And	CC	and-c
 why	WRB	why-x
 is	VBZ	be-v
 this	DT	this-x
 ?	SENT	?-x
 </s>
-<s id="1184:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.31&end=00.02.39">
+<s id="1184:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.31&end=00.02.39">
 Well	RB	well-a
 ,	,	,-x
 because	IN	because-i
@@ -4480,7 +4480,7 @@ been	VBN	be-v
 recognised	VVN	recognise-v
 .	SENT	.-x
 </s>
-<s id="1184:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.39&end=00.02.46">
+<s id="1184:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.39&end=00.02.46">
 So	RB	so-a
 we	PP	we-d
 have	VHP	have-v
@@ -4495,7 +4495,7 @@ can	MD	can-x
 assemble	VV	assemble-v
 .	SENT	.-x
 </s>
-<s id="1184:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.46&end=00.02.54">
+<s id="1184:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.46&end=00.02.54">
 They	PP	they-d
 '	''	'-x
 <g/>
@@ -4521,7 +4521,7 @@ to	TO	to-x
 develop	VV	develop-v
 .	SENT	.-x
 </s>
-<s id="1184:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.02.54&end=00.03.12">
+<s id="1184:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.02.54&end=00.03.12">
 The	DT	the-x
 European	JJ	European-j
 union	NN	union-n
@@ -4570,7 +4570,7 @@ in	IN	in-i
 hand	NN	hand-n
 .	SENT	.-x
 </s>
-<s id="1184:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.12&end=00.03.26">
+<s id="1184:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.12&end=00.03.26">
 And	CC	and-c
 if	IN	if-i
 we	PP	we-d
@@ -4622,7 +4622,7 @@ their	PPZ	their-d
 dictators	NNS	dictator-n
 .	SENT	.-x
 </s>
-<s id="1184:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.26&end=00.03.29">
+<s id="1184:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.26&end=00.03.29">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -4637,7 +4637,7 @@ us	PP	us-d
 here	RB	here-a
 .	SENT	.-x
 </s>
-<s id="1184:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.29&end=00.03.51">
+<s id="1184:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.29&end=00.03.51">
 Because	IN	because-i
 when	WRB	when-x
 it	PP	it-d
@@ -4687,7 +4687,7 @@ and	CC	and-c
 Jordan	NP	Jordan-n
 .	SENT	.-x
 </s>
-<s id="1184:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.51&end=00.03.58">
+<s id="1184:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.51&end=00.03.58">
 And	CC	and-c
 it	PP	it-d
 '	''	'-x
@@ -4715,7 +4715,7 @@ sideline	NN	sideline-n
 say	VVP	say-v
 :	:	:-x
 </s>
-<s id="1184:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.58&end=00.03.59">
+<s id="1184:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.58&end=00.03.59">
 '	''	'-x
 Well	RB	well-a
 ,	,	,-x
@@ -4728,7 +4728,7 @@ maybe	RB	maybe-a
 
 '	''	'-x
 </s>
-<s id="1184:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.03.59&end=00.04.08">
+<s id="1184:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.03.59&end=00.04.08">
 In	IN	in-i
 89	CD	[number]-m
 we	PP	we-d
@@ -4766,7 +4766,7 @@ with	IN	with-i
 Russia	NP	Russia-n
 .	SENT	.-x
 </s>
-<s id="1184:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.04.08&end=00.04.20">
+<s id="1184:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.04.08&end=00.04.20">
 If	IN	if-i
 every	DT	every-x
 time	NN	time-n
@@ -4819,7 +4819,7 @@ support	VV	support-v
 liberty	NN	liberty-n
 .	SENT	.-x
 </s>
-<s id="1184:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.04.20&end=00.04.36">
+<s id="1184:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.04.20&end=00.04.36">
 And	CC	and-c
 that	DT	that-x
 is	VBZ	be-v
@@ -4860,7 +4860,7 @@ dictators'	NNSZ	dictator-n
 structures	NNS	structure-n
 .	SENT	.-x
 </s>
-<s id="1184:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184&start=00.04.36&end=00.04.37">
+<s id="1184:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1184.mp4&start=00.04.36&end=00.04.37">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -4873,7 +4873,7 @@ you	PP	you-d
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="medium" lengthw="452" duration="medium" durations="214.0" speed="slow" speedwm="126.7" delivery="read">
 <interpreter id="EN108" gender="F" native="N">
-<s id="1185:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.00.07&end=00.00.18">
+<s id="1185:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.00.07&end=00.00.18">
 President	NN	president-n
 ,	,	,-x
 colleagues	NNS	colleague-n
@@ -4916,7 +4916,7 @@ Left	NP	Left-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1185:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.00.20&end=00.00.48">
+<s id="1185:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.00.20&end=00.00.48">
 There	EX	there-x
 were	VBD	be-v
 n	NN	n-n
@@ -4994,7 +4994,7 @@ themselves	PP	themselves-d
 up	RP	up-x
 .	SENT	.-x
 </s>
-<s id="1185:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.00.48&end=00.00.51">
+<s id="1185:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.00.48&end=00.00.51">
 He	PP	he-d
 was	VBD	be-v
 n	NN	n-n
@@ -5009,7 +5009,7 @@ felt	VVD	feel-v
 alone	RB	alone-a
 .	SENT	.-x
 </s>
-<s id="1185:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.00.51&end=00.00.54">
+<s id="1185:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.00.51&end=00.00.54">
 The	DT	the-x
 hope	NN	hope-n
 for	IN	for-i
@@ -5019,7 +5019,7 @@ been	VBN	be-v
 born	VVN	bear-v
 .	SENT	.-x
 </s>
-<s id="1185:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.00.54&end=00.01.24">
+<s id="1185:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.00.54&end=00.01.24">
 Now	RB	now-a
 they	PP	they-d
 had	VHD	have-v
@@ -5099,7 +5099,7 @@ were	VBD	be-v
 appointed	VVN	appoint-v
 .	SENT	.-x
 </s>
-<s id="1185:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.01.24&end=00.01.29">
+<s id="1185:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.01.24&end=00.01.29">
 So	IN	so-i
 these	DT	these-x
 res-	DYSF	res-
@@ -5118,7 +5118,7 @@ my	PPZ	my-d
 throat	NN	throat-n
 .	SENT	.-x
 </s>
-<s id="1185:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.01.29&end=00.01.35">
+<s id="1185:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.01.29&end=00.01.35">
 The	DT	the-x
 European	NP	European-n
 Parliament	NP	Parliament-n
@@ -5137,7 +5137,7 @@ Maghreb	NP	Maghreb-n
 delegation	NN	delegation-n
 .	SENT	.-x
 </s>
-<s id="1185:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.01.35&end=00.01.49">
+<s id="1185:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.01.35&end=00.01.49">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -5181,7 +5181,7 @@ other	JJ	other-j
 regimes	NNS	regime-n
 .	SENT	.-x
 </s>
-<s id="1185:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.01.49&end=00.01.57">
+<s id="1185:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.01.49&end=00.01.57">
 As	IN	as-i
 a	DT	a-x
 French	JJ	French-j
@@ -5218,7 +5218,7 @@ Affairs	NPS	Affairs-n
 said	VVD	say-v
 .	SENT	.-x
 </s>
-<s id="1185:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.01.57&end=00.02.09">
+<s id="1185:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.01.57&end=00.02.09">
 Obviously	RB	obviously-a
 ,	,	,-x
 for	IN	for-i
@@ -5260,7 +5260,7 @@ Tunisian	JJ	Tunisian-j
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1185:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.02.09&end=00.02.17">
+<s id="1185:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.02.09&end=00.02.17">
 In	IN	in-i
 a	DT	a-x
 few	JJ	few-j
@@ -5283,7 +5283,7 @@ true	JJ	true-j
 face	NN	face-n
 .	SENT	.-x
 </s>
-<s id="1185:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.02.17&end=00.02.28">
+<s id="1185:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.02.17&end=00.02.28">
 Now	RB	now-a
 today	NN	today-n
 the	DT	the-x
@@ -5309,7 +5309,7 @@ democratic	JJ	democratic-j
 transition	NN	transition-n
 .	SENT	.-x
 </s>
-<s id="1185:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.02.28&end=00.02.40">
+<s id="1185:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.02.28&end=00.02.40">
 The	DT	the-x
 European	NP	European-n
 Union	NP	Union-n
@@ -5343,7 +5343,7 @@ and	CC	and-c
 corruption	NN	corruption-n
 .	SENT	.-x
 </s>
-<s id="1185:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.02.40&end=00.03.05">
+<s id="1185:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.02.40&end=00.03.05">
 The	DT	the-x
 Tunisian	JJ	Tunisian-j
 people	NNS	people-n
@@ -5417,7 +5417,7 @@ in	IN	in-i
 Tunisia	NP	Tunisia-n
 .	SENT	.-x
 </s>
-<s id="1185:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.05&end=00.03.11">
+<s id="1185:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.05&end=00.03.11">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -5435,7 +5435,7 @@ where	WRB	where-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1185:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.11&end=00.03.16">
+<s id="1185:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.11&end=00.03.16">
 Westerners	NNS	westerner-n
 are	VBP	be-v
 looking	VVG	look-v
@@ -5453,7 +5453,7 @@ those	DT	those-x
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1185:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.16&end=00.03.20">
+<s id="1185:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.16&end=00.03.20">
 Some	DT	some-x
 people	NNS	people-n
 have	VHP	have-v
@@ -5469,7 +5469,7 @@ and	CC	and-c
 Algeria	NP	Algeria-n
 .	SENT	.-x
 </s>
-<s id="1185:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.20&end=00.03.25">
+<s id="1185:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.20&end=00.03.25">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -5491,7 +5491,7 @@ human	JJ	human-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1185:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.25&end=00.03.37">
+<s id="1185:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.25&end=00.03.37">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -5533,7 +5533,7 @@ and	CC	and-c
 equality	NN	equality-n
 .	SENT	.-x
 </s>
-<s id="1185:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185&start=00.03.37&end=00.03.44">
+<s id="1185:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1185.mp4&start=00.03.37&end=00.03.44">
 If	IN	if-i
 not	RB	not-a
 ,	,	,-x
@@ -5561,7 +5561,7 @@ fundamentalists	NNS	fundamentalist-n
 <speaker name="Lepage Corinne" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="226" duration="short" durations="108.0" speed="slow" speedwm="125.6" delivery="mixed">
 <interpreter id="EN108" gender="F" native="N">
-<s id="1186:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.07&end=00.00.12">
+<s id="1186:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.07&end=00.00.12">
 Thank	VV	thank-v
 you	PP	you-d
 president	NN	president-n
@@ -5576,7 +5576,7 @@ your	PPZ	your-d
 statement	NN	statement-n
 .	SENT	.-x
 </s>
-<s id="1186:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.13&end=00.00.16">
+<s id="1186:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.13&end=00.00.16">
 Well	RB	well-a
 ,	,	,-x
 we	PP	we-d
@@ -5594,7 +5594,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1186:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.17&end=00.00.22">
+<s id="1186:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.17&end=00.00.22">
 And	CC	and-c
 of	IN	of-i
 course	NN	course-n
@@ -5612,7 +5612,7 @@ fairly	RB	fairly-a
 well	RB	well-a
 .	SENT	.-x
 </s>
-<s id="1186:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.22&end=00.00.25">
+<s id="1186:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.22&end=00.00.25">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -5629,7 +5629,7 @@ recurrence	NN	recurrence-n
 unacceptable	JJ	unacceptable-j
 .	SENT	.-x
 </s>
-<s id="1186:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.25&end=00.00.39">
+<s id="1186:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.25&end=00.00.39">
 The	DT	the-x
 health	NN	health-n
 of	IN	of-i
@@ -5653,7 +5653,7 @@ when	WRB	when-x
 sanctions	NNS	sanction-n
 .	SENT	.-x
 </s>
-<s id="1186:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.39&end=00.00.45">
+<s id="1186:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.39&end=00.00.45">
 So	IN	so-i
 Commissioner	NP	Commissioner-n
 we	PP	we-d
@@ -5675,7 +5675,7 @@ our	PPZ	our-d
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1186:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.45&end=00.00.47">
+<s id="1186:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.45&end=00.00.47">
 So	RB	so-a
 what	WP	what-x
 actions	NNS	action-n
@@ -5684,7 +5684,7 @@ you	PP	you-d
 consider	VVP	consider-v
 ?	SENT	?-x
 </s>
-<s id="1186:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.00.47&end=00.01.11">
+<s id="1186:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.00.47&end=00.01.11">
 You	PP	you-d
 talked	VVD	talk-v
 about	RB	about-a
@@ -5742,7 +5742,7 @@ more	JJR	more-j
 certainty	NN	certainty-n
 .	SENT	.-x
 </s>
-<s id="1186:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.11&end=00.01.21">
+<s id="1186:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.11&end=00.01.21">
 Secondly	RB	secondly-a
 ,	,	,-x
 it	PP	it-d
@@ -5769,7 +5769,7 @@ be	VB	be-v
 organised	VVN	organise-v
 .	SENT	.-x
 </s>
-<s id="1186:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.21&end=00.01.25">
+<s id="1186:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.21&end=00.01.25">
 What	WP	what-x
 actions	NNS	action-n
 can	MD	can-x
@@ -5782,7 +5782,7 @@ set	VV	set-v
 up	RP	up-x
 ?	SENT	?-x
 </s>
-<s id="1186:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.25&end=00.01.31">
+<s id="1186:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.25&end=00.01.31">
 Because	IN	because-i
 this	DT	this-x
 has	VHZ	have-v
@@ -5807,7 +5807,7 @@ we	PP	we-d
 have	VHP	have-v
 .	SENT	.-x
 </s>
-<s id="1186:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.31&end=00.01.50">
+<s id="1186:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.31&end=00.01.50">
 And	CC	and-c
 what	WP	what-x
 actions	NNS	action-n
@@ -5871,7 +5871,7 @@ need	VVP	need-v
 them	PP	them-d
 .	SENT	.-x
 </s>
-<s id="1186:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.51&end=00.01.54">
+<s id="1186:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.51&end=00.01.54">
 Do	VVP	do-v
 you	PP	you-d
 think	VVP	think-v
@@ -5885,7 +5885,7 @@ here	RB	here-a
 Commissioner	NP	Commissioner-n
 ?	SENT	?-x
 </s>
-<s id="1186:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186&start=00.01.54&end=00.01.55">
+<s id="1186:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1186.mp4&start=00.01.54&end=00.01.55">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -5898,7 +5898,7 @@ you	PP	you-d
 <speaker name="Dantin Michel" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="212" duration="short" durations="95.0" speed="medium" speedwm="133.9" delivery="mixed">
 <interpreter id="EN108" gender="F" native="N">
-<s id="1187:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.08&end=00.00.10">
+<s id="1187:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.08&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 ,	,	,-x
@@ -5908,7 +5908,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1187:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.11&end=00.00.19">
+<s id="1187:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.11&end=00.00.19">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -5942,7 +5942,7 @@ work	NN	work-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1187:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.20&end=00.00.46">
+<s id="1187:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.20&end=00.00.46">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -6027,12 +6027,12 @@ this	DT	this-x
 delay	NN	delay-n
 .	SENT	.-x
 </s>
-<s id="1187:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.46&end=00.00.48">
+<s id="1187:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.46&end=00.00.48">
 But	CC	but-c
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1187:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.48&end=00.00.50">
+<s id="1187:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.48&end=00.00.50">
 I	PP	I-d
 think	VVP	think-v
 we	PP	we-d
@@ -6044,11 +6044,11 @@ about	RB	about-a
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1187:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.50&end=00.00.52">
+<s id="1187:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.50&end=00.00.52">
 Why	WRB	why-x
 ?	SENT	?-x
 </s>
-<s id="1187:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.00.52&end=00.01.12">
+<s id="1187:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.00.52&end=00.01.12">
 I	PP	I-d
 mean	VVP	mean-v
 besides	IN	besides-i
@@ -6098,7 +6098,7 @@ criminal	JJ	criminal-j
 act	NN	act-n
 .	SENT	.-x
 </s>
-<s id="1187:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.01.12&end=00.01.45">
+<s id="1187:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.01.12&end=00.01.45">
 So	RB	so-a
 ,	,	,-x
 Commissioner	NP	Commissioner-n
@@ -6189,7 +6189,7 @@ normal	JJ	normal-j
 speed	NN	speed-n
 .	SENT	.-x
 </s>
-<s id="1187:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187&start=00.01.48&end=00.01.48">
+<s id="1187:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1187.mp4&start=00.01.48&end=00.01.48">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -6204,7 +6204,7 @@ much	RB	much-a
 <speaker name="Dantin Michel" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="long" lengthw="61" duration="short" durations="26.0" speed="medium" speedwm="140.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1188:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188&start=00.00.06&end=00.00.13">
+<s id="1188:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188.mp4&start=00.00.06&end=00.00.13">
 Well	RB	well-a
 I	PP	I-d
 think	VVP	think-v
@@ -6229,7 +6229,7 @@ at	IN	at-i
 me	PP	me-d
 .	SENT	.-x
 </s>
-<s id="1188:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188&start=00.00.13&end=00.00.26">
+<s id="1188:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188.mp4&start=00.00.13&end=00.00.26">
 Of	IN	of-i
 course	NN	course-n
 we	PP	we-d
@@ -6265,7 +6265,7 @@ protective	JJ	protective-j
 systems	NNS	system-n
 .	SENT	.-x
 </s>
-<s id="1188:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188&start=00.00.26&end=00.00.31">
+<s id="1188:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1188.mp4&start=00.00.26&end=00.00.31">
 We	PP	we-d
 can	MD	can-x
 hear	VV	hear-v
@@ -6291,7 +6291,7 @@ world	NN	world-n
 <speaker name="Tarabella Marc" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="140" duration="short" durations="60.0" speed="medium" speedwm="140.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1189:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.00.06&end=00.00.14">
+<s id="1189:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.00.06&end=00.00.14">
 Thank	VV	thank-v
 you	PP	you-d
 ehm	FPAUSE	ehm
@@ -6317,7 +6317,7 @@ repeated	VVD	repeat-v
 crisis	NN	crisis-n
 .	SENT	.-x
 </s>
-<s id="1189:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.00.14&end=00.00.16">
+<s id="1189:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.00.14&end=00.00.16">
 We	PP	we-d
 had	VHD	have-v
 one	CD	one-m
@@ -6327,7 +6327,7 @@ in	IN	in-i
 1999	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1189:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.00.16&end=00.00.38">
+<s id="1189:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.00.16&end=00.00.38">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -6416,7 +6416,7 @@ talking	VVG	talk-v
 about	RB	about-a
 .	SENT	.-x
 </s>
-<s id="1189:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.00.38&end=00.01.05">
+<s id="1189:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.00.38&end=00.01.05">
 They	PP	they-d
 are	VBP	be-v
 criminals	NNS	criminal-n
@@ -6506,7 +6506,7 @@ to	IN	to-i
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1189:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.01.05&end=00.01.08">
+<s id="1189:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.01.05&end=00.01.08">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -6524,7 +6524,7 @@ on	IN	on-i
 that	DT	that-x
 .	SENT	.-x
 </s>
-<s id="1189:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189&start=00.01.08&end=00.01.09">
+<s id="1189:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1189.mp4&start=00.01.08&end=00.01.09">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -6537,7 +6537,7 @@ you	PP	you-d
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="medium" lengthw="753" duration="long" durations="369.0" speed="slow" speedwm="122.4" delivery="mixed">
 <interpreter id="EN04" gender="F" native="Y">
-<s id="1190:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.10&end=00.00.14">
+<s id="1190:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.10&end=00.00.14">
 Thank	VV	thank-v
 you	PP	you-d
 madam	NN	madam-n
@@ -6549,7 +6549,7 @@ dear	JJ	dear-j
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1190:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.16&end=00.00.24">
+<s id="1190:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.16&end=00.00.24">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -6579,7 +6579,7 @@ matter	NN	matter-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1190:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.25&end=00.00.40">
+<s id="1190:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.25&end=00.00.40">
 I	PP	I-d
 am	VBP	be-v
 really	RB	really-a
@@ -6626,7 +6626,7 @@ partnership	NN	partnership-n
 agreements	NNS	agreement-n
 .	SENT	.-x
 </s>
-<s id="1190:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.40&end=00.00.43">
+<s id="1190:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.40&end=00.00.43">
 Because	IN	because-i
 this	DT	this-x
 is	VBZ	be-v
@@ -6636,7 +6636,7 @@ important	JJ	important-j
 subject	NN	subject-n
 .	SENT	.-x
 </s>
-<s id="1190:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.43&end=00.00.57">
+<s id="1190:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.43&end=00.00.57">
 You	PP	you-d
 all	RB	all-a
 know	VVP	know-v
@@ -6674,7 +6674,7 @@ to	IN	to-i
 deforestation	NN	deforestation-n
 .	SENT	.-x
 </s>
-<s id="1190:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.00.57&end=00.01.18">
+<s id="1190:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.00.57&end=00.01.18">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -6737,7 +6737,7 @@ planet	NN	planet-n
 earth	NN	earth-n
 .	SENT	.-x
 </s>
-<s id="1190:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.01.18&end=00.01.36">
+<s id="1190:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.01.18&end=00.01.36">
 It	PP	it-d
 is	VBZ	be-v
 also	RB	also-a
@@ -6792,7 +6792,7 @@ the	DT	the-x
 forest	NN	forest-n
 .	SENT	.-x
 </s>
-<s id="1190:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.01.36&end=00.01.48">
+<s id="1190:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.01.36&end=00.01.48">
 So	RB	so-a
 so	RB	so-a
 the	DT	the-x
@@ -6823,7 +6823,7 @@ us	PP	us-d
 today	RB	today-a
 .	SENT	.-x
 </s>
-<s id="1190:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.01.48&end=00.01.58">
+<s id="1190:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.01.48&end=00.01.58">
 In	IN	in-i
 in	IN	in-i
 the	DT	the-x
@@ -6853,7 +6853,7 @@ traded	VVN	trade-v
 timber	NN	timber-n
 .	SENT	.-x
 </s>
-<s id="1190:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.01.58&end=00.02.02">
+<s id="1190:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.01.58&end=00.02.02">
 And	CC	and-c
 so	IN	so-i
 what	WP	what-x
@@ -6871,7 +6871,7 @@ crucial	JJ	crucial-j
 matter	NN	matter-n
 .	SENT	.-x
 </s>
-<s id="1190:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.02.03&end=00.02.15">
+<s id="1190:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.02.03&end=00.02.15">
 So	IN	so-i
 these	DT	these-x
 voluntary	JJ	voluntary-j
@@ -6891,7 +6891,7 @@ Trade	NP	Trade-n
 Committee	NP	Committee-n
 .	SENT	.-x
 </s>
-<s id="1190:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.02.16&end=00.03.06">
+<s id="1190:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.02.16&end=00.03.06">
 We	PP	we-d
 were	VBD	be-v
 given	VVN	give-v
@@ -7025,7 +7025,7 @@ these	DT	these-x
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1190:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.06&end=00.03.09">
+<s id="1190:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.06&end=00.03.09">
 Today	NN	today-n
 ,	,	,-x
 we	PP	we-d
@@ -7040,7 +7040,7 @@ and	CC	and-c
 Cameroon	NP	Cameroon-n
 .	SENT	.-x
 </s>
-<s id="1190:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.09&end=00.03.20">
+<s id="1190:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.09&end=00.03.20">
 But	CC	but-c
 ,	,	,-x
 the	DT	the-x
@@ -7077,7 +7077,7 @@ sustainable	JJ	sustainable-j
 timber	NN	timber-n
 .	SENT	.-x
 </s>
-<s id="1190:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.20&end=00.03.24">
+<s id="1190:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.20&end=00.03.24">
 Here	RB	here-a
 we	PP	we-d
 are	VBP	be-v
@@ -7092,7 +7092,7 @@ traded	VVN	trade-v
 timber	NN	timber-n
 .	SENT	.-x
 </s>
-<s id="1190:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.24&end=00.03.31">
+<s id="1190:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.24&end=00.03.31">
 But	CC	but-c
 when	WRB	when-x
 you	PP	you-d
@@ -7118,7 +7118,7 @@ forestry	NN	forestry-n
 holding	NN	holding-n
 .	SENT	.-x
 </s>
-<s id="1190:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.31&end=00.03.56">
+<s id="1190:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.31&end=00.03.56">
 So	IN	so-i
 the	DT	the-x
 1st	JJ	[number]-j
@@ -7199,7 +7199,7 @@ REDD	NN	redd-n
 mechanism	NN	mechanism-n
 ?	SENT	?-x
 </s>
-<s id="1190:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.03.56&end=00.04.26">
+<s id="1190:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.03.56&end=00.04.26">
 And	CC	and-c
 also	RB	also-a
 take	VV	take-v
@@ -7277,7 +7277,7 @@ of	IN	of-i
 biofuels	NNS	biofuel-n
 .	SENT	.-x
 </s>
-<s id="1190:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.04.26&end=00.04.31">
+<s id="1190:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.04.26&end=00.04.31">
 Now	RB	now-a
 when	WRB	when-x
 it	PP	it-d
@@ -7301,7 +7301,7 @@ to	IN	to-i
 these	DT	these-x
 .	SENT	.-x
 </s>
-<s id="1190:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.04.31&end=00.04.45">
+<s id="1190:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.04.31&end=00.04.45">
 We	PP	we-d
 very	RB	very-a
 much	RB	much-a
@@ -7335,7 +7335,7 @@ of	IN	of-i
 Congo	NP	Congo-n
 .	SENT	.-x
 </s>
-<s id="1190:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.04.45&end=00.04.52">
+<s id="1190:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.04.45&end=00.04.52">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -7362,7 +7362,7 @@ a	DT	a-x
 success	NN	success-n
 .	SENT	.-x
 </s>
-<s id="1190:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.04.52&end=00.04.57">
+<s id="1190:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.04.52&end=00.04.57">
 But	CC	but-c
 as	IN	as-i
 I	PP	I-d
@@ -7383,7 +7383,7 @@ ask	VV	ask-v
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1190:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.04.57&end=00.05.07">
+<s id="1190:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.04.57&end=00.05.07">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -7414,7 +7414,7 @@ an	DT	a-x
 agreement	NN	agreement-n
 ?	SENT	?-x
 </s>
-<s id="1190:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.07&end=00.05.11">
+<s id="1190:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.07&end=00.05.11">
 Are	VBP	be-v
 you	PP	you-d
 ready	JJ	ready-j
@@ -7433,7 +7433,7 @@ the	DT	the-x
 agreement	NN	agreement-n
 ?	SENT	?-x
 </s>
-<s id="1190:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.11&end=00.05.19">
+<s id="1190:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.11&end=00.05.19">
 Because	IN	because-i
 obviously	RB	obviously-a
 ,	,	,-x
@@ -7464,7 +7464,7 @@ implementation	NN	implementation-n
 occurs	VVZ	occur-v
 .	SENT	.-x
 </s>
-<s id="1190:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.19&end=00.05.25">
+<s id="1190:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.19&end=00.05.25">
 So	RB	so-a
 ,	,	,-x
 when	WRB	when-x
@@ -7487,7 +7487,7 @@ implementation	NN	implementation-n
 stage	NN	stage-n
 ?	SENT	?-x
 </s>
-<s id="1190:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.25&end=00.05.27">
+<s id="1190:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.25&end=00.05.27">
 And	CC	and-c
 we	PP	we-d
 have	VHP	have-v
@@ -7495,7 +7495,7 @@ another	DT	another-x
 question	NN	question-n
 .	SENT	.-x
 </s>
-<s id="1190:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.27&end=00.05.34">
+<s id="1190:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.27&end=00.05.34">
 We	PP	we-d
 would	MD	would-x
 like	VV	like-v
@@ -7525,7 +7525,7 @@ is	VBZ	be-v
 corruption	NN	corruption-n
 .	SENT	.-x
 </s>
-<s id="1190:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.34&end=00.05.36">
+<s id="1190:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.34&end=00.05.36">
 Do	VV	do-v
 you	PP	you-d
 have	VHP	have-v
@@ -7534,7 +7534,7 @@ complaint	NN	complaint-n
 mechanism	NN	mechanism-n
 ?	SENT	?-x
 </s>
-<s id="1190:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.36&end=00.05.47">
+<s id="1190:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.36&end=00.05.47">
 An	DT	an-x
 independent	JJ	independent-j
 complaint	NN	complaint-n
@@ -7567,7 +7567,7 @@ listened	VVN	listen-v
 to	IN	to-i
 .	SENT	.-x
 </s>
-<s id="1190:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.05.47&end=00.06.08">
+<s id="1190:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.05.47&end=00.06.08">
 And	CC	and-c
 will	MD	will-x
 you	PP	you-d
@@ -7639,7 +7639,7 @@ the	DT	the-x
 case	NN	case-n
 ?	SENT	?-x
 </s>
-<s id="1190:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.06.08&end=00.06.13">
+<s id="1190:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.06.08&end=00.06.13">
 And	CC	and-c
 then	RB	then-a
 you	PP	you-d
@@ -7668,7 +7668,7 @@ these	DT	these-x
 measures	NNS	measure-n
 .	SENT	.-x
 </s>
-<s id="1190:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.06.13&end=00.06.19">
+<s id="1190:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.06.13&end=00.06.19">
 So	RB	so-a
 ,	,	,-x
 could	MD	could-x
@@ -7685,7 +7685,7 @@ partnership	NN	partnership-n
 agreements	NNS	agreement-n
 ?	SENT	?-x
 </s>
-<s id="1190:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190&start=00.06.19&end=00.06.20">
+<s id="1190:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1190.mp4&start=00.06.19&end=00.06.20">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -7700,7 +7700,7 @@ much	RB	much-a
 <speaker name="Joly Eva" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="142" duration="short" durations="81.0" speed="slow" speedwm="105.2" delivery="read">
 <interpreter id="EN12" gender="M" native="Y">
-<s id="1191:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.00.08&end=00.00.12">
+<s id="1191:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.00.08&end=00.00.12">
 Thank	VV	thank-v
 you	PP	you-d
 ehm	FPAUSE	ehm
@@ -7714,7 +7714,7 @@ dear	JJ	dear-j
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1191:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.00.12&end=00.00.24">
+<s id="1191:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.00.12&end=00.00.24">
 This	DT	this-x
 partnership	NN	partnership-n
 agreement	NN	agreement-n
@@ -7742,7 +7742,7 @@ too	RB	too-a
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1191:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.00.25&end=00.00.32">
+<s id="1191:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.00.25&end=00.00.32">
 But	CC	but-c
 it	PP	it-d
 is	VBZ	be-v
@@ -7765,7 +7765,7 @@ very	RB	very-a
 carefully	RB	carefully-a
 .	SENT	.-x
 </s>
-<s id="1191:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.00.32&end=00.01.03">
+<s id="1191:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.00.32&end=00.01.03">
 If	IN	if-i
 we	PP	we-d
 want	VVP	want-v
@@ -7848,7 +7848,7 @@ in	IN	in-i
 consultation	NN	consultation-n
 .	SENT	.-x
 </s>
-<s id="1191:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.01.03&end=00.01.20">
+<s id="1191:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.01.03&end=00.01.20">
 This	DT	this-x
 must	MD	must-x
 ehm	FPAUSE	ehm
@@ -7896,7 +7896,7 @@ an	DT	a-x
 excuse	NN	excuse-n
 .	SENT	.-x
 </s>
-<s id="1191:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191&start=00.01.20&end=00.01.30">
+<s id="1191:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1191.wmv&start=00.01.20&end=00.01.30">
 So	RB	so-a
 ,	,	,-x
 we	PP	we-d
@@ -7938,14 +7938,14 @@ countries	NNS	country-n
 <speaker name="Jadot Yannick" gender="M" country="France" politfunc="MEP" politgroup="ALE">
 <st language="fr" length="short" lengthw="260" duration="medium" durations="124.0" speed="slow" speedwm="125.8" delivery="impromptu">
 <interpreter id="EN04" gender="F" native="Y">
-<s id="1192:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.08&end=00.00.10">
+<s id="1192:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.08&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 ,	,	,-x
 Commissioner	NP	Commissioner-n
 .	SENT	.-x
 </s>
-<s id="1192:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.10&end=00.00.15">
+<s id="1192:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.10&end=00.00.15">
 Once	RB	once-a
 again	RB	again-a
 ,	,	,-x
@@ -7967,7 +7967,7 @@ this	DT	this-x
 debate	NN	debate-n
 .	SENT	.-x
 </s>
-<s id="1192:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.15&end=00.00.19">
+<s id="1192:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.15&end=00.00.19">
 I	PP	I-d
 think	VVP	think-v
 nearly	RB	nearly-a
@@ -7983,7 +7983,7 @@ EM	NN	em-n
 sheet	NN	sheet-n
 .	SENT	.-x
 </s>
-<s id="1192:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.19&end=00.00.22">
+<s id="1192:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.19&end=00.00.22">
 Let	VV	let-v
 me	PP	me-d
 remind	VV	remind-v
@@ -7995,7 +7995,7 @@ point	NN	point-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1192:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.22&end=00.00.30">
+<s id="1192:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.22&end=00.00.30">
 This	DT	this-x
 this	DT	this-x
 theses	NNS	thesis-n
@@ -8015,7 +8015,7 @@ civil	JJ	civil-j
 society	NN	society-n
 .	SENT	.-x
 </s>
-<s id="1192:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.30&end=00.00.41">
+<s id="1192:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.30&end=00.00.41">
 I	PP	I-d
 think	VVP	think-v
 today	NN	today-n
@@ -8052,7 +8052,7 @@ civil	JJ	civil-j
 society	NN	society-n
 .	SENT	.-x
 </s>
-<s id="1192:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.41&end=00.00.56">
+<s id="1192:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.41&end=00.00.56">
 So	RB	so-a
 ,	,	,-x
 in	IN	in-i
@@ -8095,7 +8095,7 @@ efficient	JJ	efficient-j
 progress	NN	progress-n
 .	SENT	.-x
 </s>
-<s id="1192:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.00.56&end=00.01.16">
+<s id="1192:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.00.56&end=00.01.16">
 So	RB	so-a
 ,	,	,-x
 w-	DYSF	w-
@@ -8148,7 +8148,7 @@ in	IN	in-i
 implementation	NN	implementation-n
 .	SENT	.-x
 </s>
-<s id="1192:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.01.16&end=00.01.23">
+<s id="1192:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.01.16&end=00.01.23">
 So	IN	so-i
 it	PP	it-d
 '	''	'-x
@@ -8181,7 +8181,7 @@ of	IN	of-i
 China	NP	China-n
 .	SENT	.-x
 </s>
-<s id="1192:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.01.23&end=00.01.25">
+<s id="1192:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.01.23&end=00.01.25">
 That	DT	that-x
 is	VBZ	be-v
 why	WRB	why-x
@@ -8189,7 +8189,7 @@ ehm	FPAUSE	ehm
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1192:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.01.27&end=00.01.36">
+<s id="1192:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.01.27&end=00.01.36">
 Why	WRB	why-x
 should	MD	should-x
 we	PP	we-d
@@ -8215,7 +8215,7 @@ development	NN	development-n
 agreements	NNS	agreement-n
 ?	SENT	?-x
 </s>
-<s id="1192:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.01.36&end=00.01.50">
+<s id="1192:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.01.36&end=00.01.50">
 So	RB	so-a
 with	IN	with-i
 these	DT	these-x
@@ -8254,7 +8254,7 @@ that	DT	that-x
 question	NN	question-n
 ?	SENT	?-x
 </s>
-<s id="1192:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.01.50&end=00.02.03">
+<s id="1192:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.01.50&end=00.02.03">
 And	CC	and-c
 you	PP	you-d
 said	VVD	say-v
@@ -8294,7 +8294,7 @@ good	JJ	good-j
 return	NN	return-n
 .	SENT	.-x
 </s>
-<s id="1192:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.02.03&end=00.02.07">
+<s id="1192:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.02.03&end=00.02.07">
 And	CC	and-c
 that	DT	that-x
 is	VBZ	be-v
@@ -8312,7 +8312,7 @@ theses	NNS	thesis-n
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1192:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.02.07&end=00.02.11">
+<s id="1192:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.02.07&end=00.02.11">
 So	RB	so-a
 thanks	NNS	thanks-n
 for	IN	for-i
@@ -8331,7 +8331,7 @@ European	NP	European-n
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1192:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.02.11&end=00.02.12">
+<s id="1192:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.02.11&end=00.02.12">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -8340,7 +8340,7 @@ very	RB	very-a
 pleased	VVN	please-v
 .	SENT	.-x
 </s>
-<s id="1192:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192&start=00.02.12&end=00.02.14">
+<s id="1192:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1192.mp4&start=00.02.12&end=00.02.14">
 We	PP	we-d
 look	VVP	look-v
 forward	RB	forward-a
@@ -8357,19 +8357,19 @@ cooperation	NN	cooperation-n
 <speaker name="Hoarau Elie" gender="M" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="188" duration="short" durations="104.0" speed="slow" speedwm="108.5" delivery="read">
 <interpreter id="EN130" gender="F" native="Y">
-<s id="1193:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.09&end=00.00.11">
+<s id="1193:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.09&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1193:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.11&end=00.00.13">
+<s id="1193:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.11&end=00.00.13">
 President	NP	President-n
 ,	,	,-x
 Commissioner	NP	Commissioner-n
 .	SENT	.-x
 </s>
-<s id="1193:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.14&end=00.00.31">
+<s id="1193:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.14&end=00.00.31">
 I	PP	I-d
 think	VVP	think-v
 it	PP	it-d
@@ -8406,7 +8406,7 @@ are	VBP	be-v
 affected	VVN	affect-v
 .	SENT	.-x
 </s>
-<s id="1193:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.31&end=00.00.33">
+<s id="1193:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.31&end=00.00.33">
 They	PP	they-d
 are	VBP	be-v
 really	RB	really-a
@@ -8416,7 +8416,7 @@ bilateral	JJ	bilateral-j
 agreements	NNS	agreement-n
 .	SENT	.-x
 </s>
-<s id="1193:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.33&end=00.00.44">
+<s id="1193:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.33&end=00.00.44">
 They	PP	they-d
 are	VBP	be-v
 not	RB	not-a
@@ -8443,7 +8443,7 @@ regional	JJ	regional-j
 integration	NN	integration-n
 .	SENT	.-x
 </s>
-<s id="1193:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.00.44&end=00.01.02">
+<s id="1193:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.00.44&end=00.01.02">
 So	RB	so-a
 this	DT	this-x
 is	VBZ	be-v
@@ -8477,7 +8477,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1193:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.01.04&end=00.01.11">
+<s id="1193:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.01.04&end=00.01.11">
 And	CC	and-c
 because	IN	because-i
 of	IN	of-i
@@ -8504,7 +8504,7 @@ development	NN	development-n
 instrument	NN	instrument-n
 .	SENT	.-x
 </s>
-<s id="1193:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.01.11&end=00.01.31">
+<s id="1193:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.01.11&end=00.01.31">
 The	DT	the-x
 huge	JJ	huge-j
 pressure	NN	pressure-n
@@ -8547,7 +8547,7 @@ in	IN	in-i
 Brussels	NP	Brussels-n
 .	SENT	.-x
 </s>
-<s id="1193:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.01.31&end=00.01.40">
+<s id="1193:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.01.31&end=00.01.40">
 The	DT	the-x
 real	JJ	real-j
 tragedy	NN	tragedy-n
@@ -8575,7 +8575,7 @@ into	IN	into-i
 force	NN	force-n
 .	SENT	.-x
 </s>
-<s id="1193:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193&start=00.01.40&end=00.01.55">
+<s id="1193:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1193.mp4&start=00.01.40&end=00.01.55">
 A	DT	a-x
 failure	NN	failure-n
 bec-	DYSF	bec-
@@ -8620,12 +8620,12 @@ June	NP	June-n
 <speaker name="Cadec Alain" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="241" duration="short" durations="95.0" speed="medium" speedwm="152.2" delivery="read">
 <interpreter id="EN13" gender="M" native="Y">
-<s id="1194:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.08&end=00.00.09">
+<s id="1194:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.08&end=00.00.09">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1194:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.09&end=00.00.12">
+<s id="1194:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.09&end=00.00.12">
 President	NP	President-n
 ,	,	,-x
 Commissionner	NP	Commissionner-n
@@ -8635,7 +8635,7 @@ dear	JJ	dear-j
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1194:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.12&end=00.00.22">
+<s id="1194:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.12&end=00.00.22">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -8670,7 +8670,7 @@ canned	JJ	canned-j
 tuna	NN	tuna-n
 .	SENT	.-x
 </s>
-<s id="1194:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.22&end=00.00.24">
+<s id="1194:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.22&end=00.00.24">
 I	PP	I-d
 think	VVP	think-v
 it	PP	it-d
@@ -8680,7 +8680,7 @@ dangerous	JJ	dangerous-j
 indeed	RB	indeed-a
 .	SENT	.-x
 </s>
-<s id="1194:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.24&end=00.00.33">
+<s id="1194:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.24&end=00.00.33">
 This	DT	this-x
 country	NN	country-n
 gets	VVZ	get-v
@@ -8702,7 +8702,7 @@ exported	VVN	export-v
 here	RB	here-a
 .	SENT	.-x
 </s>
-<s id="1194:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.33&end=00.00.42">
+<s id="1194:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.33&end=00.00.42">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -8732,7 +8732,7 @@ completely	RB	completely-a
 unacceptable	JJ	unacceptable-j
 .	SENT	.-x
 </s>
-<s id="1194:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.00.42&end=00.01.06">
+<s id="1194:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.00.42&end=00.01.06">
 This	DT	this-x
 exception	NN	exception-n
 allows	VVZ	allow-v
@@ -8802,7 +8802,7 @@ to	IN	to-i
 2009	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1194:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.01.06&end=00.01.11">
+<s id="1194:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.01.06&end=00.01.11">
 Now	RB	now-a
 ,	,	,-x
 in	IN	in-i
@@ -8828,7 +8828,7 @@ useful	JJ	useful-j
 purpose	NN	purpose-n
 .	SENT	.-x
 </s>
-<s id="1194:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.01.11&end=00.01.17">
+<s id="1194:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.01.11&end=00.01.17">
 Moreover	RB	moreover-a
 ,	,	,-x
 the	DT	the-x
@@ -8849,7 +8849,7 @@ European	JJ	European-j
 processes	NNS	process-n
 .	SENT	.-x
 </s>
-<s id="1194:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.01.17&end=00.01.20">
+<s id="1194:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.01.17&end=00.01.20">
 It	PP	it-d
 is	VBZ	be-v
 impossible	JJ	impossible-j
@@ -8862,7 +8862,7 @@ is	VBZ	be-v
 caught	VVN	catch-v
 .	SENT	.-x
 </s>
-<s id="1194:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.01.20&end=00.01.33">
+<s id="1194:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.01.20&end=00.01.33">
 So	RB	so-a
 has	VHZ	have-v
 n	NN	n-n
@@ -8900,7 +8900,7 @@ European	NP	European-n
 Union	NP	Union-n
 ?	SENT	?-x
 </s>
-<s id="1194:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194&start=00.01.33&end=00.01.44">
+<s id="1194:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1194.mp4&start=00.01.33&end=00.01.44">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -8953,7 +8953,7 @@ permanent	JJ	permanent-j
 <speaker name="Juvin Philippe" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="165" duration="short" durations="71.0" speed="medium" speedwm="139.4" delivery="read">
 <interpreter id="EN53" gender="F" native="Y">
-<s id="1195:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.08&end=00.00.14">
+<s id="1195:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.08&end=00.00.14">
 In	IN	in-i
 Iraq	NP	Iraq-n
 ehm	FPAUSE	ehm
@@ -8976,7 +8976,7 @@ to	TO	to-x
 bear	VV	bear-v
 .	SENT	.-x
 </s>
-<s id="1195:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.14&end=00.00.17">
+<s id="1195:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.14&end=00.00.17">
 Well	RB	well-a
 colleagues	NNS	colleague-n
 ,	,	,-x
@@ -8988,7 +8988,7 @@ no	DT	no-x
 Christians	NNS	Christian-n
 .	SENT	.-x
 </s>
-<s id="1195:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.17&end=00.00.29">
+<s id="1195:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.17&end=00.00.29">
 In	IN	in-i
 the	DT	the-x
 countries	NNS	country-n
@@ -9037,7 +9037,7 @@ ago	RB	ago-a
 ehm	FPAUSE	ehm
 .	SENT	.-x
 </s>
-<s id="1195:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.29&end=00.00.34">
+<s id="1195:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.29&end=00.00.34">
 This	DT	this-x
 is	VBZ	be-v
 1	CD	[number]-m
@@ -9054,7 +9054,7 @@ a	DT	a-x
 groundswell	NN	groundswell-n
 .	SENT	.-x
 </s>
-<s id="1195:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.35&end=00.00.43">
+<s id="1195:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.35&end=00.00.43">
 The	DT	the-x
 Muslim	JJ	Muslim-j
 world	NN	world-n
@@ -9077,7 +9077,7 @@ them	PP	them-d
 ehm	FPAUSE	ehm
 .	SENT	.-x
 </s>
-<s id="1195:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.43&end=00.00.51">
+<s id="1195:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.43&end=00.00.51">
 We	PP	we-d
 see	VVP	see-v
 that	IN/that	that-i
@@ -9104,7 +9104,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1195:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.00.52&end=00.01.05">
+<s id="1195:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.00.52&end=00.01.05">
 To	TO	to-x
 protect	VV	protect-v
 the	DT	the-x
@@ -9148,7 +9148,7 @@ their	PPZ	their-d
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1195:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195&start=00.01.05&end=00.01.22">
+<s id="1195:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1195.wmv&start=00.01.05&end=00.01.22">
 And	CC	and-c
 I	PP	I-d
 really	RB	really-a
@@ -9208,14 +9208,14 @@ religion	NN	religion-n
 <speaker name="Daerden Frédéric" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="135" duration="short" durations="68.0" speed="slow" speedwm="119.1" delivery="read">
 <interpreter id="EN119" gender="F" native="Y">
-<s id="1196:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.00.14&end=00.00.16">
+<s id="1196:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.00.14&end=00.00.16">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1196:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.00.16&end=00.00.26">
+<s id="1196:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.00.16&end=00.00.26">
 At	IN	at-i
 the	DT	the-x
 end	NN	end-n
@@ -9239,7 +9239,7 @@ in	IN	in-i
 Budapest	NP	Budapest-n
 .	SENT	.-x
 </s>
-<s id="1196:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.00.26&end=00.00.36">
+<s id="1196:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.00.26&end=00.00.36">
 This	DT	this-x
 Hungarian	JJ	Hungarian-j
 scientist	NN	scientist-n
@@ -9267,7 +9267,7 @@ scientific	JJ	scientific-j
 basis	NN	basis-n
 .	SENT	.-x
 </s>
-<s id="1196:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.00.36&end=00.00.51">
+<s id="1196:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.00.36&end=00.00.51">
 The	DT	the-x
 efficacy	NN	efficacy-n
 of	IN	of-i
@@ -9303,7 +9303,7 @@ in	IN	in-i
 Belgium	NP	Belgium-n
 .	SENT	.-x
 </s>
-<s id="1196:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.00.51&end=00.01.01">
+<s id="1196:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.00.51&end=00.01.01">
 It	PP	it-d
 is	VBZ	be-v
 a	DT	a-x
@@ -9337,14 +9337,14 @@ this	DT	this-x
 kind	NN	kind-n
 .	SENT	.-x
 </s>
-<s id="1196:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.01.01&end=00.01.02">
+<s id="1196:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.01.01&end=00.01.02">
 This	DT	this-x
 decision	NN	decision-n
 is	VBZ	be-v
 surprising	JJ	surprising-j
 .	SENT	.-x
 </s>
-<s id="1196:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.01.03&end=00.01.15">
+<s id="1196:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.01.03&end=00.01.15">
 In	IN	in-i
 view	NN	view-n
 of	IN	of-i
@@ -9375,7 +9375,7 @@ they	PP	they-d
 did	VVD	do-v
 .	SENT	.-x
 </s>
-<s id="1196:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.01.15&end=00.01.22">
+<s id="1196:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.01.15&end=00.01.22">
 And	CC	and-c
 I	PP	I-d
 <g/>
@@ -9399,7 +9399,7 @@ Hungarian	JJ	Hungarian-j
 government	NN	government-n
 .	SENT	.-x
 </s>
-<s id="1196:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196&start=00.01.22&end=00.01.23">
+<s id="1196:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1196.wmv&start=00.01.22&end=00.01.23">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -9412,7 +9412,7 @@ you	PP	you-d
 <speaker name="Le Grip Constance" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="156" duration="short" durations="79.0" speed="slow" speedwm="118.5" delivery="impromptu">
 <interpreter id="EN131" gender="F" native="Y">
-<s id="1197:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.00.09&end=00.00.11">
+<s id="1197:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.00.09&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -9421,7 +9421,7 @@ ehm	FPAUSE	ehm
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1197:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.00.11&end=00.00.23">
+<s id="1197:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.00.11&end=00.00.23">
 In	IN	in-i
 turn	NN	turn-n
 ehm	FPAUSE	ehm
@@ -9461,7 +9461,7 @@ East	NP	East-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1197:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.00.24&end=00.00.29">
+<s id="1197:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.00.24&end=00.00.29">
 We	PP	we-d
 are	VBP	be-v
 aware	JJ	aware-j
@@ -9475,7 +9475,7 @@ and	CC	and-c
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1197:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.00.30&end=00.00.52">
+<s id="1197:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.00.30&end=00.00.52">
 I	PP	I-d
 '	''	'-x
 <g/>
@@ -9532,7 +9532,7 @@ ehm	FPAUSE	ehm
 EU	NP	EU-n
 .	SENT	.-x
 </s>
-<s id="1197:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.00.54&end=00.01.03">
+<s id="1197:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.00.54&end=00.01.03">
 Now	RB	now-a
 we	PP	we-d
 '	''	'-x
@@ -9564,7 +9564,7 @@ deeds	NNS	deed-n
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1197:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.01.04&end=00.01.27">
+<s id="1197:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.01.04&end=00.01.27">
 And	CC	and-c
 I	PP	I-d
 believe	VVP	believe-v
@@ -9622,7 +9622,7 @@ a	DT	a-x
 priority	NN	priority-n
 .	SENT	.-x
 </s>
-<s id="1197:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197&start=00.01.27&end=00.01.28">
+<s id="1197:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1197.wmv&start=00.01.27&end=00.01.28">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -9635,7 +9635,7 @@ you	PP	you-d
 <speaker name="Striffler Michèle" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="478" duration="medium" durations="211.0" speed="medium" speedwm="135.9" delivery="read">
 <interpreter id="EN131" gender="F" native="Y">
-<s id="1198:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.00.09&end=00.00.11">
+<s id="1198:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.00.09&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -9648,7 +9648,7 @@ Commissioner	NP	Commissioner-n
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1198:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.00.13&end=00.00.23">
+<s id="1198:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.00.13&end=00.00.23">
 The	DT	the-x
 overall	JJ	overall-j
 humanitarian	JJ	humanitarian-j
@@ -9673,7 +9673,7 @@ in	IN	in-i
 number	NN	number-n
 .	SENT	.-x
 </s>
-<s id="1198:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.00.23&end=00.00.48">
+<s id="1198:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.00.23&end=00.00.48">
 We	PP	we-d
 have	VHP	have-v
 a	DT	a-x
@@ -9753,7 +9753,7 @@ to	IN	to-i
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1198:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.00.48&end=00.00.59">
+<s id="1198:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.00.48&end=00.00.59">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -9777,7 +9777,7 @@ agencies	NNS	agency-n
 involved	VVN	involve-v
 .	SENT	.-x
 </s>
-<s id="1198:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.00.59&end=00.01.22">
+<s id="1198:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.00.59&end=00.01.22">
 In	IN	in-i
 2009	CD	[number]-m
 ,	,	,-x
@@ -9824,7 +9824,7 @@ the	DT	the-x
 COPS	VVZ	cop-v
 .	SENT	.-x
 </s>
-<s id="1198:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.01.23&end=00.01.31">
+<s id="1198:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.01.23&end=00.01.31">
 It	PP	it-d
 seems	VVZ	seem-v
 to	IN	to-i
@@ -9851,7 +9851,7 @@ be	VB	be-v
 paid	VVN	pay-v
 .	SENT	.-x
 </s>
-<s id="1198:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.01.32&end=00.01.50">
+<s id="1198:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.01.32&end=00.01.50">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -9902,7 +9902,7 @@ wrong	JJ	wrong-j
 reasons	NNS	reason-n
 .	SENT	.-x
 </s>
-<s id="1198:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.01.51&end=00.02.10">
+<s id="1198:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.01.51&end=00.02.10">
 Again	RB	again-a
 let	VV	let-v
 me	PP	me-d
@@ -9951,7 +9951,7 @@ UN	NP	UN-n
 mandate	NN	mandate-n
 .	SENT	.-x
 </s>
-<s id="1198:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.10&end=00.02.22">
+<s id="1198:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.10&end=00.02.22">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -9976,7 +9976,7 @@ agencies	NNS	agency-n
 involved	VVD	involve-v
 .	SENT	.-x
 </s>
-<s id="1198:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.22&end=00.02.26">
+<s id="1198:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.22&end=00.02.26">
 They	PP	they-d
 must	MD	must-x
 talk	VV	talk-v
@@ -9987,7 +9987,7 @@ separate	JJ	separate-j
 entities	NNS	entity-n
 .	SENT	.-x
 </s>
-<s id="1198:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.26&end=00.02.41">
+<s id="1198:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.26&end=00.02.41">
 So	RB	so-a
 there	EX	there-x
 '	''	'-x
@@ -10025,7 +10025,7 @@ to	IN	to-i
 catastrophes	NNS	catastrophe-n
 .	SENT	.-x
 </s>
-<s id="1198:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.42&end=00.02.52">
+<s id="1198:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.42&end=00.02.52">
 When	WRB	when-x
 it	PP	it-d
 comes	VVZ	come-v
@@ -10048,7 +10048,7 @@ further	JJR	further-j
 work	NN	work-n
 .	SENT	.-x
 </s>
-<s id="1198:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.52&end=00.02.56">
+<s id="1198:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.52&end=00.02.56">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -10070,7 +10070,7 @@ being	VBG	be-v
 recognized	VVN	recognize-v
 .	SENT	.-x
 </s>
-<s id="1198:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.02.56&end=00.03.08">
+<s id="1198:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.02.56&end=00.03.08">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -10096,7 +10096,7 @@ policy	NN	policy-n
 purposes	NNS	purpose-n
 .	SENT	.-x
 </s>
-<s id="1198:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.03.08&end=00.03.21">
+<s id="1198:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.03.08&end=00.03.21">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -10134,7 +10134,7 @@ extensive	JJ	extensive-j
 crisis	NN	crisis-n
 .	SENT	.-x
 </s>
-<s id="1198:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.03.22&end=00.03.42">
+<s id="1198:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.03.22&end=00.03.42">
 Again	RB	again-a
 ,	,	,-x
 when	WRB	when-x
@@ -10176,7 +10176,7 @@ medical	JJ	medical-j
 aid	NN	aid-n
 .	SENT	.-x
 </s>
-<s id="1198:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198&start=00.03.42&end=00.03.43">
+<s id="1198:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1198.wmv&start=00.03.42&end=00.03.43">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -10189,7 +10189,7 @@ you	PP	you-d
 <speaker name="Záborská Anna" gender="F" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="110" duration="short" durations="59.0" speed="slow" speedwm="111.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1199:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199&start=00.00.11&end=00.00.15">
+<s id="1199:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199.mp4&start=00.00.11&end=00.00.15">
 I	PP	I-d
 congratulate	VVP	congratulate-v
 ehm	FPAUSE	ehm
@@ -10200,7 +10200,7 @@ her	PPZ	her-d
 report	NN	report-n
 .	SENT	.-x
 </s>
-<s id="1199:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199&start=00.00.16&end=00.00.36">
+<s id="1199:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199.mp4&start=00.00.16&end=00.00.36">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -10260,7 +10260,7 @@ Christian	JJ	Christian-j
 faith	NN	faith-n
 .	SENT	.-x
 </s>
-<s id="1199:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199&start=00.00.36&end=00.00.47">
+<s id="1199:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199.mp4&start=00.00.36&end=00.00.47">
 The	DT	the-x
 report	NN	report-n
 once	RB	once-a
@@ -10286,7 +10286,7 @@ Christians	NNS	Christian-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1199:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199&start=00.00.49&end=00.00.56">
+<s id="1199:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199.mp4&start=00.00.49&end=00.00.56">
 These	DT	these-x
 people	NNS	people-n
 have	VHP	have-v
@@ -10310,7 +10310,7 @@ natural	JJ	natural-j
 disaster	NN	disaster-n
 .	SENT	.-x
 </s>
-<s id="1199:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199&start=00.00.57&end=00.01.08">
+<s id="1199:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1199.mp4&start=00.00.57&end=00.01.08">
 I	PP	I-d
 call	VVP	call-v
 on	IN	on-i
@@ -10347,7 +10347,7 @@ faith	NN	faith-n
 <speaker name="Leterme Yves" gender="M" country="Belgium" politfunc="Guest" politgroup="NA">
 <st language="fr" length="short" lengthw="329" duration="medium" durations="153.0" speed="slow" speedwm="129.0" delivery="read">
 <interpreter id="EN19" gender="M" native="Y">
-<s id="1200:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.00.15&end=00.00.20">
+<s id="1200:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.00.15&end=00.00.20">
 President	NN	president-n
 of	IN	of-i
 the	DT	the-x
@@ -10365,7 +10365,7 @@ Parliament	NP	Parliament-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1200:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.00.21&end=00.00.45">
+<s id="1200:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.00.21&end=00.00.45">
 Although	IN	although-i
 it	PP	it-d
 may	MD	may-x
@@ -10416,7 +10416,7 @@ French	JJ	French-j
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1200:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.00.50&end=00.00.56">
+<s id="1200:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.00.50&end=00.00.56">
 Ladies	NNS	lady-n
 and	CC	and-c
 gentlemen	NNS	gentleman-n
@@ -10443,7 +10443,7 @@ last	JJ	last-j
 months	NNS	month-n
 .	SENT	.-x
 </s>
-<s id="1200:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.00.57&end=00.01.08">
+<s id="1200:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.00.57&end=00.01.08">
 Belgium	NP	Belgium-n
 ,	,	,-x
 my	PPZ	my-d
@@ -10476,7 +10476,7 @@ Lisbon	NP	Lisbon-n
 Treaty	NP	Treaty-n
 .	SENT	.-x
 </s>
-<s id="1200:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.08&end=00.01.11">
+<s id="1200:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.08&end=00.01.11">
 Now	RB	now-a
 ,	,	,-x
 it	PP	it-d
@@ -10494,7 +10494,7 @@ unknown	JJ	unknown-j
 territory	NN	territory-n
 .	SENT	.-x
 </s>
-<s id="1200:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.11&end=00.01.23">
+<s id="1200:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.11&end=00.01.23">
 Nonetheless	RB	nonetheless-a
 ,	,	,-x
 we	PP	we-d
@@ -10520,7 +10520,7 @@ institutional	JJ	institutional-j
 arrangements	NNS	arrangement-n
 .	SENT	.-x
 </s>
-<s id="1200:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.23&end=00.01.35">
+<s id="1200:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.23&end=00.01.35">
 In	IN	in-i
 line	NN	line-n
 with	IN	with-i
@@ -10558,7 +10558,7 @@ positive	JJ	positive-j
 precedents	NNS	precedent-n
 .	SENT	.-x
 </s>
-<s id="1200:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.35&end=00.01.43">
+<s id="1200:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.35&end=00.01.43">
 Ladies	NNS	lady-n
 and	CC	and-c
 gentlemen	NNS	gentleman-n
@@ -10591,7 +10591,7 @@ working	VVG	work-v
 today	NN	today-n
 .	SENT	.-x
 </s>
-<s id="1200:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.43&end=00.01.44">
+<s id="1200:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.43&end=00.01.44">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -10600,7 +10600,7 @@ working	VVG	work-v
 well	RB	well-a
 .	SENT	.-x
 </s>
-<s id="1200:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.45&end=00.01.57">
+<s id="1200:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.45&end=00.01.57">
 Thus	RB	thus-a
 ,	,	,-x
 it	PP	it-d
@@ -10639,7 +10639,7 @@ just	RB	just-a
 seen	VVN	see-v
 .	SENT	.-x
 </s>
-<s id="1200:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.01.58&end=00.02.10">
+<s id="1200:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.01.58&end=00.02.10">
 An	DT	an-x
 agreement	NN	agreement-n
 was	VBD	be-v
@@ -10676,7 +10676,7 @@ the	DT	the-x
 Council	NP	Council-n
 .	SENT	.-x
 </s>
-<s id="1200:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.02.12&end=00.02.22">
+<s id="1200:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.02.12&end=00.02.22">
 Ladies	NNS	lady-n
 and	CC	and-c
 gentlemen	NNS	gentleman-n
@@ -10708,7 +10708,7 @@ Union's	NPZ	Union-n
 future	NN	future-n
 .	SENT	.-x
 </s>
-<s id="1200:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.02.22&end=00.02.25">
+<s id="1200:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.02.22&end=00.02.25">
 We	PP	we-d
 are	VBP	be-v
 are	VBP	be-v
@@ -10720,7 +10720,7 @@ European	JJ	European-j
 cooperation	NN	cooperation-n
 .	SENT	.-x
 </s>
-<s id="1200:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.02.25&end=00.02.37">
+<s id="1200:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.02.25&end=00.02.37">
 In	IN	in-i
 pursuit	NN	pursuit-n
 of	IN	of-i
@@ -10761,7 +10761,7 @@ ahead	RB	ahead-a
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1200:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200&start=00.02.38&end=00.02.53">
+<s id="1200:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1200.mp4&start=00.02.38&end=00.02.53">
 We	PP	we-d
 rather	RB	rather-a
 established	VVD	establish-v
@@ -10811,7 +10811,7 @@ colleagues	NNS	colleague-n
 <speaker name="Barroso José Manuel" gender="M" country="Portugal" politfunc="European Commission" politgroup="NA">
 <st language="fr" length="long" lengthw="1231" duration="long" durations="584.0" speed="slow" speedwm="126.5" delivery="read">
 <interpreter id="EN67" gender="M" native="Y">
-<s id="1201:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.00.10&end=00.00.15">
+<s id="1201:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.00.10&end=00.00.15">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -10827,7 +10827,7 @@ Members	NNS	member-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.00.18&end=00.00.35">
+<s id="1201:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.00.18&end=00.00.35">
 I	PP	I-d
 think	VVP	think-v
 with	IN	with-i
@@ -10869,7 +10869,7 @@ and	CC	and-c
 recognition	NN	recognition-n
 .	SENT	.-x
 </s>
-<s id="1201:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.00.35&end=00.00.51">
+<s id="1201:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.00.35&end=00.00.51">
 On	IN	on-i
 behalf	NN	behalf-n
 of	IN	of-i
@@ -10915,7 +10915,7 @@ Presidency	NP	Presidency-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.00.52&end=00.01.02">
+<s id="1201:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.00.52&end=00.01.02">
 It	PP	it-d
 was	VBD	be-v
 a	DT	a-x
@@ -10938,7 +10938,7 @@ Union	NP	Union-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.03&end=00.01.06">
+<s id="1201:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.03&end=00.01.06">
 We	PP	we-d
 had	VHD	have-v
 some	DT	some-x
@@ -10951,7 +10951,7 @@ this	DT	this-x
 period	NN	period-n
 .	SENT	.-x
 </s>
-<s id="1201:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.06&end=00.01.19">
+<s id="1201:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.06&end=00.01.19">
 Over	IN	over-i
 these	DT	these-x
 long	JJ	long-j
@@ -10980,7 +10980,7 @@ cause	NN	cause-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.22&end=00.01.30">
+<s id="1201:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.22&end=00.01.30">
 Belgian	NP	Belgian-n
 Presidency	NP	Presidency-n
 has	VHZ	have-v
@@ -11006,7 +11006,7 @@ a	DT	a-x
 whole	NN	whole-n
 .	SENT	.-x
 </s>
-<s id="1201:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.32&end=00.01.41">
+<s id="1201:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.32&end=00.01.41">
 Belgian	NP	Belgian-n
 Presidency	NP	Presidency-n
 clearly	RB	clearly-a
@@ -11036,7 +11036,7 @@ jobs	NNS	job-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.43&end=00.01.56">
+<s id="1201:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.43&end=00.01.56">
 Over	IN	over-i
 the	DT	the-x
 last	JJ	last-j
@@ -11069,7 +11069,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1201:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.01.56&end=00.02.03">
+<s id="1201:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.01.56&end=00.02.03">
 We	PP	we-d
 <g/>
 ...	EPAUSE	...-x
@@ -11086,7 +11086,7 @@ the	DT	the-x
 Eurozone	NN	Eurozone-n
 .	SENT	.-x
 </s>
-<s id="1201:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.04&end=00.02.11">
+<s id="1201:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.04&end=00.02.11">
 I	PP	I-d
 think	VVP	think-v
 it	PP	it-d
@@ -11105,7 +11105,7 @@ common	JJ	common-j
 destiny	NN	destiny-n
 .	SENT	.-x
 </s>
-<s id="1201:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.12&end=00.02.17">
+<s id="1201:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.12&end=00.02.17">
 The	DT	the-x
 future	NN	future-n
 of	IN	of-i
@@ -11125,7 +11125,7 @@ coin	NN	coin-n
 coin	NN	coin-n
 .	SENT	.-x
 </s>
-<s id="1201:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.17&end=00.02.22">
+<s id="1201:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.17&end=00.02.22">
 That	IN/that	that-i
 we	PP	we-d
 want	VVP	want-v
@@ -11141,7 +11141,7 @@ future	JJ	future-j
 generations	NNS	generation-n
 .	SENT	.-x
 </s>
-<s id="1201:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.22&end=00.02.27">
+<s id="1201:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.22&end=00.02.27">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -11160,7 +11160,7 @@ Union	NP	Union-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.30&end=00.02.39">
+<s id="1201:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.30&end=00.02.39">
 The	DT	the-x
 far-reaching	JJ	far-reaching-j
 reforms	NNS	reform-n
@@ -11187,7 +11187,7 @@ ehm	FPAUSE	ehm
 adapt	VV	adapt-v
 .	SENT	.-x
 </s>
-<s id="1201:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.39&end=00.02.56">
+<s id="1201:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.39&end=00.02.56">
 If	IN	if-i
 we	PP	we-d
 are	VBP	be-v
@@ -11235,7 +11235,7 @@ international	JJ	international-j
 stage	NN	stage-n
 .	SENT	.-x
 </s>
-<s id="1201:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.02.57&end=00.03.08">
+<s id="1201:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.02.57&end=00.03.08">
 The	DT	the-x
 decisions	NNS	decision-n
 that	IN/that	that-i
@@ -11261,7 +11261,7 @@ just	RB	just-a
 choice	JJ	choice-j
 .	SENT	.-x
 </s>
-<s id="1201:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.08&end=00.03.09">
+<s id="1201:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.08&end=00.03.09">
 They	PP	they-d
 '	''	'-x
 <g/>
@@ -11270,7 +11270,7 @@ an	DT	a-x
 imperative	NN	imperative-n
 .	SENT	.-x
 </s>
-<s id="1201:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.09&end=00.03.17">
+<s id="1201:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.09&end=00.03.17">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -11292,7 +11292,7 @@ proposals	NNS	proposal-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.18&end=00.03.23">
+<s id="1201:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.18&end=00.03.23">
 The	DT	the-x
 question	NN	question-n
 is	VBZ	be-v
@@ -11315,7 +11315,7 @@ through	IN	through-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1201:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.23&end=00.03.39">
+<s id="1201:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.23&end=00.03.39">
 Rather	RB	rather-a
 ,	,	,-x
 the	DT	the-x
@@ -11360,7 +11360,7 @@ from	IN	from-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1201:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.39&end=00.03.44">
+<s id="1201:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.39&end=00.03.44">
 The	DT	the-x
 answer	NN	answer-n
 is	VBZ	be-v
@@ -11384,7 +11384,7 @@ from	IN	from-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1201:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.44&end=00.03.45">
+<s id="1201:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.44&end=00.03.45">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11394,7 +11394,7 @@ be	VB	be-v
 losers	NNS	loser-n
 .	SENT	.-x
 </s>
-<s id="1201:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.45&end=00.03.48">
+<s id="1201:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.45&end=00.03.48">
 Within	IN	within-i
 the	DT	the-x
 Eurozone	NN	Eurozone-n
@@ -11405,7 +11405,7 @@ wider	JJR	wide-j
 EU	NP	EU-n
 .	SENT	.-x
 </s>
-<s id="1201:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.49&end=00.03.55">
+<s id="1201:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.49&end=00.03.55">
 So	RB	so-a
 ,	,	,-x
 without	IN	without-i
@@ -11430,7 +11430,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1201:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.03.55&end=00.04.02">
+<s id="1201:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.03.55&end=00.04.02">
 Without	IN	without-i
 reinforcing	VVG	reinforce-v
 our	PPZ	our-d
@@ -11450,7 +11450,7 @@ of	IN	of-i
 tomorrow	NN	tomorrow-n
 .	SENT	.-x
 </s>
-<s id="1201:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.02&end=00.04.08">
+<s id="1201:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.02&end=00.04.08">
 Without	IN	without-i
 reinforcing	VVG	reinforce-v
 our	PPZ	our-d
@@ -11468,7 +11468,7 @@ international	JJ	international-j
 stage	NN	stage-n
 .	SENT	.-x
 </s>
-<s id="1201:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.09&end=00.04.22">
+<s id="1201:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.09&end=00.04.22">
 So	RB	so-a
 ,	,	,-x
 if	IN	if-i
@@ -11503,7 +11503,7 @@ international	JJ	international-j
 partners	NNS	partner-n
 .	SENT	.-x
 </s>
-<s id="1201:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.22&end=00.04.26">
+<s id="1201:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.22&end=00.04.26">
 And	CC	and-c
 how	WRB	how-x
 would	MD	would-x
@@ -11528,7 +11528,7 @@ European	JJ	European-j
 level	NN	level-n
 ?	SENT	?-x
 </s>
-<s id="1201:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.27&end=00.04.35">
+<s id="1201:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.27&end=00.04.35">
 So	RB	so-a
 <g/>
 ...	EPAUSE	...-x
@@ -11555,7 +11555,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1201:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.38&end=00.04.43">
+<s id="1201:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.38&end=00.04.43">
 Are	VBP	be-v
 we	PP	we-d
 simply	RB	simply-a
@@ -11576,7 +11576,7 @@ defensive	NN	defensive-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.45&end=00.04.56">
+<s id="1201:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.45&end=00.04.56">
 Fortunately	RB	fortunately-a
 ,	,	,-x
 I	PP	I-d
@@ -11607,7 +11607,7 @@ Presidency	NP	Presidency-n
 for	IN	for-i
 .	SENT	.-x
 </s>
-<s id="1201:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.04.56&end=00.05.04">
+<s id="1201:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.04.56&end=00.05.04">
 The	DT	the-x
 ehm	FPAUSE	ehm
 Belgian	JJ	Belgian-j
@@ -11626,7 +11626,7 @@ the	DT	the-x
 development	NN	development-n
 .	SENT	.-x
 </s>
-<s id="1201:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.06&end=00.05.10">
+<s id="1201:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.06&end=00.05.10">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11641,7 +11641,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1201:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.10&end=00.05.14">
+<s id="1201:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.10&end=00.05.14">
 We	PP	we-d
 have	VHP	have-v
 set	VVN	set-v
@@ -11655,7 +11655,7 @@ coming	VVG	come-v
 years	NNS	year-n
 .	SENT	.-x
 </s>
-<s id="1201:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.14&end=00.05.26">
+<s id="1201:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.14&end=00.05.26">
 We	PP	we-d
 are	VBP	be-v
 looking	VVG	look-v
@@ -11680,14 +11680,14 @@ creates	VVZ	create-v
 jobs	NNS	job-n
 .	SENT	.-x
 </s>
-<s id="1201:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.26&end=00.05.27">
+<s id="1201:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.26&end=00.05.27">
 Those	DT	those-x
 are	VBP	be-v
 our	PPZ	our-d
 priorities	NNS	priority-n
 .	SENT	.-x
 </s>
-<s id="1201:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.27&end=00.05.31">
+<s id="1201:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.27&end=00.05.31">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11700,7 +11700,7 @@ financial	JJ	financial-j
 supervision	NN	supervision-n
 .	SENT	.-x
 </s>
-<s id="1201:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.31&end=00.05.38">
+<s id="1201:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.31&end=00.05.38">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11724,7 +11724,7 @@ January	NP	January-n
 2011	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1201:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.38&end=00.05.50">
+<s id="1201:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.38&end=00.05.50">
 We	PP	we-d
 have	VHP	have-v
 the	DT	the-x
@@ -11748,7 +11748,7 @@ and	CC	and-c
 insurance	NN	insurance-n
 .	SENT	.-x
 </s>
-<s id="1201:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.51&end=00.05.53">
+<s id="1201:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.51&end=00.05.53">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11760,7 +11760,7 @@ hedge	JJ	hedge-j
 funds	NNS	fund-n
 .	SENT	.-x
 </s>
-<s id="1201:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.05.53&end=00.05.57">
+<s id="1201:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.05.53&end=00.05.57">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -11778,7 +11778,7 @@ agencies	NNS	agency-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.00&end=00.06.05">
+<s id="1201:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.00&end=00.06.05">
 For	IN	for-i
 us	PP	us-d
 ,	,	,-x
@@ -11796,7 +11796,7 @@ ehm	FPAUSE	ehm
 concept	NN	concept-n
 .	SENT	.-x
 </s>
-<s id="1201:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.05&end=00.06.09">
+<s id="1201:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.05&end=00.06.09">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -11815,7 +11815,7 @@ daily	JJ	daily-j
 lives	NNS	life-n
 .	SENT	.-x
 </s>
-<s id="1201:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.09&end=00.06.27">
+<s id="1201:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.09&end=00.06.27">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -11858,7 +11858,7 @@ carried	VVN	carry-v
 through	RP	through-x
 .	SENT	.-x
 </s>
-<s id="1201:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.28&end=00.06.36">
+<s id="1201:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.28&end=00.06.36">
 The	DT	the-x
 European	NP	European-n
 Union	NP	Union-n
@@ -11884,7 +11884,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1201:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.37&end=00.06.47">
+<s id="1201:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.37&end=00.06.47">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -11919,7 +11919,7 @@ the	DT	the-x
 environment	NN	environment-n
 .	SENT	.-x
 </s>
-<s id="1201:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.49&end=00.06.54">
+<s id="1201:48" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.49&end=00.06.54">
 But	CC	but-c
 I	PP	I-d
 could	MD	could-x
@@ -11937,7 +11937,7 @@ foreign	JJ	foreign-j
 relations	NNS	relation-n
 .	SENT	.-x
 </s>
-<s id="1201:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.06.55&end=00.07.04">
+<s id="1201:49" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.06.55&end=00.07.04">
 For	IN	for-i
 example	NN	example-n
 ,	,	,-x
@@ -11972,7 +11972,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1201:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.04&end=00.07.09">
+<s id="1201:50" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.04&end=00.07.09">
 It	PP	it-d
 is	VBZ	be-v
 going	VVG	go-v
@@ -11992,7 +11992,7 @@ agreements	NNS	agreement-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.12&end=00.07.15">
+<s id="1201:51" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.12&end=00.07.15">
 And	CC	and-c
 ehm	FPAUSE	ehm
 we	PP	we-d
@@ -12001,7 +12001,7 @@ the	DT	the-x
 pessimist	NN	pessimist-n
 .	SENT	.-x
 </s>
-<s id="1201:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.15&end=00.07.22">
+<s id="1201:52" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.15&end=00.07.22">
 We	PP	we-d
 showed	VVD	show-v
 that	IN/that	that-i
@@ -12022,7 +12022,7 @@ climate	NN	climate-n
 change	NN	change-n
 .	SENT	.-x
 </s>
-<s id="1201:53" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.23&end=00.07.31">
+<s id="1201:53" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.23&end=00.07.31">
 And	CC	and-c
 now	RB	now-a
 it	PP	it-d
@@ -12058,7 +12058,7 @@ voice	NN	voice-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:54" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.33&end=00.07.43">
+<s id="1201:54" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.33&end=00.07.43">
 Also	RB	also-a
 in	IN	in-i
 terms	NNS	term-n
@@ -12090,7 +12090,7 @@ Eurovignette	NN	Eurovignette-n
 dossier	NN	dossier-n
 .	SENT	.-x
 </s>
-<s id="1201:55" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.43&end=00.07.45">
+<s id="1201:55" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.43&end=00.07.45">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -12103,7 +12103,7 @@ citizens	NNS	citizen-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:56" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.48&end=00.07.58">
+<s id="1201:56" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.48&end=00.07.58">
 I	PP	I-d
 '	''	'-x
 <g/>
@@ -12135,7 +12135,7 @@ Treaty	NP	Treaty-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:57" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.07.59&end=00.08.08">
+<s id="1201:57" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.07.59&end=00.08.08">
 The	DT	the-x
 Belgian	NP	Belgian-n
 Presidency	NP	Presidency-n
@@ -12158,7 +12158,7 @@ rules	NNS	rule-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:58" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.10&end=00.08.15">
+<s id="1201:58" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.10&end=00.08.15">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -12175,7 +12175,7 @@ and	CC	and-c
 compromise	NN	compromise-n
 .	SENT	.-x
 </s>
-<s id="1201:59" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.16&end=00.08.21">
+<s id="1201:59" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.16&end=00.08.21">
 The	DT	the-x
 Commission	NP	Commission-n
 is	VBZ	be-v
@@ -12193,7 +12193,7 @@ in	RP	in-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:60" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.24&end=00.08.39">
+<s id="1201:60" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.24&end=00.08.39">
 I	PP	I-d
 will	MD	will-x
 have	VH	have-v
@@ -12233,7 +12233,7 @@ difficult	JJ	difficult-j
 year	NN	year-n
 .	SENT	.-x
 </s>
-<s id="1201:61" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.39&end=00.08.43">
+<s id="1201:61" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.39&end=00.08.43">
 It	PP	it-d
 was	VBD	be-v
 quite	RB	quite-a
@@ -12254,7 +12254,7 @@ end	NN	end-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:62" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.45&end=00.08.53">
+<s id="1201:62" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.45&end=00.08.53">
 Belgium	NP	Belgium-n
 and	CC	and-c
 S-	DYSF	S-
@@ -12272,7 +12272,7 @@ forward	RB	forward-a
 solidly	RB	solidly-a
 .	SENT	.-x
 </s>
-<s id="1201:63" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.08.53&end=00.08.57">
+<s id="1201:63" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.08.53&end=00.08.57">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -12293,7 +12293,7 @@ is	VBZ	be-v
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:64" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.00&end=00.09.02">
+<s id="1201:64" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.00&end=00.09.02">
 But	CC	but-c
 we	PP	we-d
 have	VHP	have-v
@@ -12308,7 +12308,7 @@ trio	NN	trio-n
 Hungary	NP	Hungary-n
 .	SENT	.-x
 </s>
-<s id="1201:65" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.02&end=00.09.06">
+<s id="1201:65" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.02&end=00.09.06">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -12324,7 +12324,7 @@ progress	NN	progress-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:66" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.10&end=00.09.18">
+<s id="1201:66" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.10&end=00.09.18">
 The	DT	the-x
 Parliament	NP	Parliament-n
 ,	,	,-x
@@ -12356,7 +12356,7 @@ future	NN	future-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1201:67" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.20&end=00.09.22">
+<s id="1201:67" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.20&end=00.09.22">
 Now	RB	now-a
 ,	,	,-x
 we	PP	we-d
@@ -12369,7 +12369,7 @@ the	DT	the-x
 implementation	NN	implementation-n
 .	SENT	.-x
 </s>
-<s id="1201:68" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.23&end=00.09.39">
+<s id="1201:68" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.23&end=00.09.39">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -12404,7 +12404,7 @@ of	IN	of-i
 recovery	NN	recovery-n
 .	SENT	.-x
 </s>
-<s id="1201:69" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.39&end=00.09.45">
+<s id="1201:69" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.39&end=00.09.45">
 We	PP	we-d
 need	VVP	need-v
 <g/>
@@ -12427,7 +12427,7 @@ on	IN	on-i
 us	PP	us-d
 .	SENT	.-x
 </s>
-<s id="1201:70" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.45&end=00.09.54">
+<s id="1201:70" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.45&end=00.09.54">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -12454,7 +12454,7 @@ for	IN	for-i
 freedom	NN	freedom-n
 .	SENT	.-x
 </s>
-<s id="1201:71" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201&start=00.09.54&end=00.09.56">
+<s id="1201:71" video="http://amelia.sslmit.unibo.it/video/video.php?id=1201.wmv&start=00.09.54&end=00.09.56">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -12476,13 +12476,13 @@ attention	NN	attention-n
 <speaker name="Durant Isabelle" gender="F" country="Belgium" politfunc="Vice President of the European Parliament" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="344" duration="medium" durations="134.0" speed="medium" speedwm="154.0" delivery="mixed">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1202:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.08&end=00.00.09">
+<s id="1202:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.08&end=00.00.09">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1202:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.09&end=00.00.20">
+<s id="1202:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.09&end=00.00.20">
 Well	RB	well-a
 ,	,	,-x
 it	PP	it-d
@@ -12511,7 +12511,7 @@ at	IN	at-i
 home	NN	home-n
 .	SENT	.-x
 </s>
-<s id="1202:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.20&end=00.00.24">
+<s id="1202:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.20&end=00.00.24">
 Anyway	RB	anyway-a
 ,	,	,-x
 I	PP	I-d
@@ -12524,7 +12524,7 @@ Belgian	JJ	Belgian-j
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1202:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.24&end=00.00.47">
+<s id="1202:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.24&end=00.00.47">
 They	PP	they-d
 worked	VVD	work-v
 well	RB	well-a
@@ -12585,7 +12585,7 @@ your	PPZ	your-d
 acknowledgement	NN	acknowledgement-n
 .	SENT	.-x
 </s>
-<s id="1202:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.47&end=00.00.55">
+<s id="1202:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.47&end=00.00.55">
 Maybe	RB	maybe-a
 the	DT	the-x
 European	NP	European-n
@@ -12607,7 +12607,7 @@ the	DT	the-x
 EU	NP	EU-n
 .	SENT	.-x
 </s>
-<s id="1202:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.55&end=00.00.58">
+<s id="1202:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.55&end=00.00.58">
 Maybe	RB	maybe-a
 the	DT	the-x
 EU	NP	EU-n
@@ -12616,7 +12616,7 @@ help	VV	help-v
 Belgium	NP	Belgium-n
 .	SENT	.-x
 </s>
-<s id="1202:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.00.58&end=00.01.01">
+<s id="1202:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.00.58&end=00.01.01">
 And	CC	and-c
 then	RB	then-a
 ,	,	,-x
@@ -12632,7 +12632,7 @@ Prime	NP	Prime-n
 Minister	NP	Minister-n
 .	SENT	.-x
 </s>
-<s id="1202:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.01.01&end=00.01.29">
+<s id="1202:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.01.01&end=00.01.29">
 On	IN	on-i
 the	DT	the-x
 questions	NNS	question-n
@@ -12730,7 +12730,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1202:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.01.29&end=00.01.31">
+<s id="1202:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.01.29&end=00.01.31">
 It	PP	it-d
 is	VBZ	be-v
 just	RB	just-a
@@ -12742,7 +12742,7 @@ on	IN	on-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1202:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.01.31&end=00.01.40">
+<s id="1202:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.01.31&end=00.01.40">
 The	DT	the-x
 second	JJ	second-j
 important	JJ	important-j
@@ -12760,7 +12760,7 @@ you	PP	you-d
 will	MD	will-x
 .	SENT	.-x
 </s>
-<s id="1202:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.01.40&end=00.02.02">
+<s id="1202:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.01.40&end=00.02.02">
 I	PP	I-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -12848,7 +12848,7 @@ national	JJ	national-j
 representatives	NNS	representative-n
 .	SENT	.-x
 </s>
-<s id="1202:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.02.02&end=00.02.04">
+<s id="1202:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.02.02&end=00.02.04">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -12860,7 +12860,7 @@ important	JJ	important-j
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1202:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.02.04&end=00.02.09">
+<s id="1202:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.02.04&end=00.02.09">
 And	CC	and-c
 the	DT	the-x
 third	JJ	third-j
@@ -12879,7 +12879,7 @@ European	JJ	European-j
 citizenship	NN	citizenship-n
 .	SENT	.-x
 </s>
-<s id="1202:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.02.09&end=00.02.13">
+<s id="1202:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.02.09&end=00.02.13">
 And	CC	and-c
 here	RB	here-a
 I	PP	I-d
@@ -12896,7 +12896,7 @@ of	IN	of-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1202:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.02.13&end=00.02.22">
+<s id="1202:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.02.13&end=00.02.22">
 This	DT	this-x
 is	VBZ	be-v
 an	DT	a-x
@@ -12929,7 +12929,7 @@ more	JJR	more-j
 strongly	RB	strongly-a
 .	SENT	.-x
 </s>
-<s id="1202:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202&start=00.02.22&end=00.02.23">
+<s id="1202:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1202.mp4&start=00.02.22&end=00.02.23">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -12942,7 +12942,7 @@ you	PP	you-d
 <speaker name="Le Hyaric Patrick" gender="M" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="367" duration="medium" durations="146.0" speed="medium" speedwm="150.8" delivery="read">
 <interpreter id="EN108" gender="F" native="N">
-<s id="1203:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.00.08&end=00.00.10">
+<s id="1203:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.00.08&end=00.00.10">
 President	NP	President-n
 ,	,	,-x
 President	NP	President-n
@@ -12951,7 +12951,7 @@ Prime	NP	Prime-n
 Minister	NP	Minister-n
 .	SENT	.-x
 </s>
-<s id="1203:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.00.10&end=00.00.53">
+<s id="1203:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.00.10&end=00.00.53">
 Well	RB	well-a
 ,	,	,-x
 I	PP	I-d
@@ -13078,7 +13078,7 @@ and	CC	and-c
 equality	NN	equality-n
 .	SENT	.-x
 </s>
-<s id="1203:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.00.53&end=00.01.07">
+<s id="1203:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.00.53&end=00.01.07">
 As	RB	as-a
 to	IN	to-i
 social	JJ	social-j
@@ -13115,7 +13115,7 @@ enlargeable	JJ	enlargeable-j
 Bolkestein	NP	Bolkestein-n
 .	SENT	.-x
 </s>
-<s id="1203:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.07&end=00.01.10">
+<s id="1203:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.07&end=00.01.10">
 So	RB	so-a
 ,	,	,-x
 we	PP	we-d
@@ -13129,7 +13129,7 @@ this	DT	this-x
 year	NN	year-n
 .	SENT	.-x
 </s>
-<s id="1203:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.11&end=00.01.13">
+<s id="1203:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.11&end=00.01.13">
 There	EX	there-x
 is	VBZ	be-v
 not	RB	not-a
@@ -13143,7 +13143,7 @@ person	NN	person-n
 less	RBR	less-a
 .	SENT	.-x
 </s>
-<s id="1203:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.13&end=00.01.22">
+<s id="1203:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.13&end=00.01.22">
 There	EX	there-x
 is	VBZ	be-v
 more	JJR	more-j
@@ -13178,7 +13178,7 @@ social	JJ	social-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1203:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.22&end=00.01.47">
+<s id="1203:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.22&end=00.01.47">
 Now	RB	now-a
 ,	,	,-x
 the	DT	the-x
@@ -13243,7 +13243,7 @@ national	JJ	national-j
 parliaments	NNS	parliament-n
 .	SENT	.-x
 </s>
-<s id="1203:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.47&end=00.01.54">
+<s id="1203:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.47&end=00.01.54">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -13271,7 +13271,7 @@ were	VBD	be-v
 intangible	JJ	intangible-j
 .	SENT	.-x
 </s>
-<s id="1203:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.01.54&end=00.02.17">
+<s id="1203:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.01.54&end=00.02.17">
 But	CC	but-c
 you	PP	you-d
 '	''	'-x
@@ -13334,7 +13334,7 @@ social	JJ	social-j
 progress	NN	progress-n
 .	SENT	.-x
 </s>
-<s id="1203:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203&start=00.02.17&end=00.02.33">
+<s id="1203:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1203.mp4&start=00.02.17&end=00.02.33">
 At	IN	at-i
 the	DT	the-x
 beginning	NN	beginning-n
@@ -13390,7 +13390,7 @@ poorer	RBR	poorer-a
 <speaker name="Tarabella Marc" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="338" duration="medium" durations="122.0" speed="high" speedwm="166.2" delivery="read">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1204:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.09&end=00.00.11">
+<s id="1204:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.09&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -13399,7 +13399,7 @@ Prime	NP	Prime-n
 Minister	NP	Minister-n
 .	SENT	.-x
 </s>
-<s id="1204:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.11&end=00.00.20">
+<s id="1204:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.11&end=00.00.20">
 When	WRB	when-x
 you	PP	you-d
 presented	VVD	present-v
@@ -13439,7 +13439,7 @@ the	DT	the-x
 results	NNS	result-n
 .	SENT	.-x
 </s>
-<s id="1204:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.20&end=00.00.33">
+<s id="1204:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.20&end=00.00.33">
 I	PP	I-d
 admit	VVP	admit-v
 that	IN/that	that-i
@@ -13494,7 +13494,7 @@ June	NP	June-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1204:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.34&end=00.00.36">
+<s id="1204:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.34&end=00.00.36">
 But	CC	but-c
 please	RB	please-a
 do	VVP	do-v
@@ -13508,7 +13508,7 @@ that	IN/that	that-i
 badly	RB	badly-a
 .	SENT	.-x
 </s>
-<s id="1204:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.36&end=00.00.46">
+<s id="1204:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.36&end=00.00.46">
 But	CC	but-c
 let	VV	let-v
 '	''	'-x
@@ -13543,7 +13543,7 @@ Arthur	NP	Arthur-n
 Ashe	NP	Ashe-n
 .	SENT	.-x
 </s>
-<s id="1204:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.46&end=00.00.49">
+<s id="1204:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.46&end=00.00.49">
 He	PP	he-d
 said	VVD	say-v
 "	``	"-x
@@ -13557,7 +13557,7 @@ is	VBZ	be-v
 self-confidence	NN	self-confidence-n
 .	SENT	.-x
 </s>
-<s id="1204:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.49&end=00.00.52">
+<s id="1204:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.49&end=00.00.52">
 One	CD	one-m
 of	IN	of-i
 the	DT	the-x
@@ -13569,7 +13569,7 @@ preparation	NN	preparation-n
 "	''	"-x
 .	SENT	.-x
 </s>
-<s id="1204:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.00.52&end=00.01.27">
+<s id="1204:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.00.52&end=00.01.27">
 And	CC	and-c
 of	IN	of-i
 course	NN	course-n
@@ -13684,7 +13684,7 @@ already	RB	already-a
 accepted	VVN	accept-v
 .	SENT	.-x
 </s>
-<s id="1204:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.01.27&end=00.01.36">
+<s id="1204:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.01.27&end=00.01.36">
 But	CC	but-c
 what	WP	what-x
 agriculture	NN	agriculture-n
@@ -13709,7 +13709,7 @@ certain	JJ	certain-j
 limits	NNS	limit-n
 .	SENT	.-x
 </s>
-<s id="1204:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.01.36&end=00.01.47">
+<s id="1204:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.01.36&end=00.01.47">
 Now	RB	now-a
 ,	,	,-x
 in	IN	in-i
@@ -13762,7 +13762,7 @@ for	IN	for-i
 them	PP	them-d
 .	SENT	.-x
 </s>
-<s id="1204:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204&start=00.01.48&end=00.02.10">
+<s id="1204:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1204.wmv&start=00.01.48&end=00.02.10">
 And	CC	and-c
 besides	IN	besides-i
 good	JJ	good-j
@@ -13847,7 +13847,7 @@ example	NN	example-n
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="214" duration="short" durations="88.0" speed="medium" speedwm="145.9" delivery="impromptu">
 <interpreter id="EN108" gender="F" native="N">
-<s id="1205:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205&start=00.00.07&end=00.00.09">
+<s id="1205:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205.wmv&start=00.00.07&end=00.00.09">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -13856,7 +13856,7 @@ Prime	NP	Prime-n
 Minister	NP	Minister-n
 .	SENT	.-x
 </s>
-<s id="1205:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205&start=00.00.10&end=00.00.52">
+<s id="1205:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205.wmv&start=00.00.10&end=00.00.52">
 Well	RB	well-a
 with	IN	with-i
 your	PPZ	your-d
@@ -13970,7 +13970,7 @@ coming	VVG	come-v
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1205:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205&start=00.00.52&end=00.01.25">
+<s id="1205:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205.wmv&start=00.00.52&end=00.01.25">
 There	EX	there-x
 is	VBZ	be-v
 another	DT	another-x
@@ -14075,7 +14075,7 @@ reduce	VV	reduce-v
 pensions	NNS	pension-n
 .	SENT	.-x
 </s>
-<s id="1205:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205&start=00.01.25&end=00.01.34">
+<s id="1205:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1205.wmv&start=00.01.25&end=00.01.34">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -14110,13 +14110,13 @@ workers	NNS	worker-n
 <speaker name="Daerden Frédéric" gender="M" country="Belgium" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="184" duration="short" durations="78.0" speed="medium" speedwm="141.5" delivery="read">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1206:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.00.07&end=00.00.08">
+<s id="1206:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.00.07&end=00.00.08">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1206:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.00.09&end=00.00.13">
+<s id="1206:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.00.09&end=00.00.13">
 Well	RB	well-a
 I	NP	I-n
 '	''	'-x
@@ -14133,7 +14133,7 @@ this	DT	this-x
 morning	NN	morning-n
 .	SENT	.-x
 </s>
-<s id="1206:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.00.13&end=00.00.37">
+<s id="1206:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.00.13&end=00.00.37">
 The	DT	the-x
 Belgian	JJ	Belgian-j
 presidency	NN	presidency-n
@@ -14203,7 +14203,7 @@ been	VBN	be-v
 harmful	JJ	harmful-j
 .	SENT	.-x
 </s>
-<s id="1206:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.00.37&end=00.00.55">
+<s id="1206:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.00.37&end=00.00.55">
 In	IN	in-i
 social	JJ	social-j
 affairs	NNS	affair-n
@@ -14246,7 +14246,7 @@ your	PPZ	your-d
 ministers	NNS	minister-n
 .	SENT	.-x
 </s>
-<s id="1206:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.00.56&end=00.01.17">
+<s id="1206:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.00.56&end=00.01.17">
 There	EX	there-x
 was	VBD	be-v
 a	DT	a-x
@@ -14300,7 +14300,7 @@ this	DT	this-x
 out	RP	out-x
 .	SENT	.-x
 </s>
-<s id="1206:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.01.17&end=00.01.25">
+<s id="1206:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.01.17&end=00.01.25">
 The	DT	the-x
 EPSCO	NP	Epsco-n
 declaration	NN	declaration-n
@@ -14327,7 +14327,7 @@ following	VVG	follow-v
 presidency	NN	presidency-n
 .	SENT	.-x
 </s>
-<s id="1206:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206&start=00.01.25&end=00.01.26">
+<s id="1206:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1206.wmv&start=00.01.25&end=00.01.26">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -14340,7 +14340,7 @@ you	PP	you-d
 <speaker name="Leterme Yves" gender="M" country="Belgium" politfunc="Guest" politgroup="NA">
 <st language="fr" length="short" lengthw="133" duration="short" durations="60.0" speed="medium" speedwm="133.0" delivery="mixed">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1207:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.00.16&end=00.02.18">
+<s id="1207:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.00.16&end=00.02.18">
 Some	DT	some-x
 colleagues	NNS	colleague-n
 said	VVD	say-v
@@ -14376,7 +14376,7 @@ ambitious	JJ	ambitious-j
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1207:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.02.20&end=00.02.25">
+<s id="1207:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.02.20&end=00.02.25">
 Yes	UH	yes-x
 ,	,	,-x
 but	CC	but-c
@@ -14390,7 +14390,7 @@ its	PPZ	its-d
 role	NN	role-n
 .	SENT	.-x
 </s>
-<s id="1207:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.02.25&end=00.02.30">
+<s id="1207:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.02.25&end=00.02.30">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -14412,7 +14412,7 @@ the	DT	the-x
 strategy	NN	strategy-n
 .	SENT	.-x
 </s>
-<s id="1207:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.02.30&end=00.02.51">
+<s id="1207:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.02.30&end=00.02.51">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -14487,7 +14487,7 @@ of	IN	of-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1207:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.02.51&end=00.02.56">
+<s id="1207:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.02.51&end=00.02.56">
 But	CC	but-c
 it	PP	it-d
 is	VBZ	be-v
@@ -14512,7 +14512,7 @@ move	VV	move-v
 forward	RB	forward-a
 .	SENT	.-x
 </s>
-<s id="1207:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207&start=00.02.56&end=00.03.09">
+<s id="1207:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1207.mp4&start=00.02.56&end=00.03.09">
 In	IN	in-i
 the	DT	the-x
 same	JJ	same-j
@@ -14570,13 +14570,13 @@ better	JJR	good-j
 <speaker name="Grossetête Françoise" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="672" duration="medium" durations="321.0" speed="slow" speedwm="125.6" delivery="read">
 <interpreter id="EN18" gender="M" native="Y">
-<s id="1208:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.11&end=00.00.12">
+<s id="1208:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.11&end=00.00.12">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1208:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.12&end=00.00.19">
+<s id="1208:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.12&end=00.00.19">
 If	IN	if-i
 you	PP	you-d
 do	VVP	do-v
@@ -14607,12 +14607,12 @@ the	DT	the-x
 debate	NN	debate-n
 .	SENT	.-x
 </s>
-<s id="1208:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.19&end=00.00.21">
+<s id="1208:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.19&end=00.00.21">
 President	NN	president-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1208:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.24&end=00.00.34">
+<s id="1208:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.24&end=00.00.34">
 Madam	NN	madam-n
 President	NP	President-n
 of	IN	of-i
@@ -14643,7 +14643,7 @@ to	IN	to-i
 patients	NNS	patient-n
 .	SENT	.-x
 </s>
-<s id="1208:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.34&end=00.00.41">
+<s id="1208:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.34&end=00.00.41">
 We	PP	we-d
 can	MD	can-x
 no	RB	no-a
@@ -14671,7 +14671,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1208:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.41&end=00.00.48">
+<s id="1208:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.41&end=00.00.48">
 The	DT	the-x
 directive	NN	directive-n
 now	RB	now-a
@@ -14688,7 +14688,7 @@ of	IN	of-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1208:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.48&end=00.00.51">
+<s id="1208:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.48&end=00.00.51">
 What	WP	what-x
 sort	NN	sort-n
 of	IN	of-i
@@ -14700,7 +14700,7 @@ enjoy	VV	enjoy-v
 abroad	RB	abroad-a
 ?	SENT	?-x
 </s>
-<s id="1208:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.52&end=00.00.56">
+<s id="1208:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.52&end=00.00.56">
 What	WP	what-x
 criteria	NNS	criterion-n
 will	MD	will-x
@@ -14709,7 +14709,7 @@ your	PPZ	your-d
 repayment	NN	repayment-n
 ?	SENT	?-x
 </s>
-<s id="1208:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.00.56&end=00.01.01">
+<s id="1208:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.00.56&end=00.01.01">
 How	WRB	how-x
 will	MD	will-x
 responsibilities	NNS	responsibility-n
@@ -14733,7 +14733,7 @@ is	VBZ	be-v
 treated	VVN	treat-v
 ?	SENT	?-x
 </s>
-<s id="1208:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.01&end=00.01.07">
+<s id="1208:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.01&end=00.01.07">
 The	DT	the-x
 answers	NNS	answer-n
 to	IN	to-i
@@ -14752,7 +14752,7 @@ a	DT	a-x
 directive	NN	directive-n
 .	SENT	.-x
 </s>
-<s id="1208:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.07&end=00.01.16">
+<s id="1208:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.07&end=00.01.16">
 Perhaps	RB	perhaps-a
 before	IN	before-i
 going	VVG	go-v
@@ -14789,7 +14789,7 @@ the	DT	the-x
 negotiations	NNS	negotiation-n
 .	SENT	.-x
 </s>
-<s id="1208:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.16&end=00.01.29">
+<s id="1208:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.16&end=00.01.29">
 The	DT	the-x
 strength	NN	strength-n
 of	IN	of-i
@@ -14831,7 +14831,7 @@ responsibilities	NNS	responsibility-n
 here	RB	here-a
 .	SENT	.-x
 </s>
-<s id="1208:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.30&end=00.01.46">
+<s id="1208:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.30&end=00.01.46">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -14896,7 +14896,7 @@ patients'	NNSZ	patient-n
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1208:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.46&end=00.01.57">
+<s id="1208:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.46&end=00.01.57">
 I	PP	I-d
 would	MD	would-x
 also	RB	also-a
@@ -14926,7 +14926,7 @@ the	DT	the-x
 negotiations	NNS	negotiation-n
 .	SENT	.-x
 </s>
-<s id="1208:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.01.57&end=00.01.59">
+<s id="1208:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.01.57&end=00.01.59">
 Without	IN	without-i
 them	PP	them-d
 none	NN	none-n
@@ -14938,7 +14938,7 @@ come	VVN	come-v
 about	RB	about-a
 .	SENT	.-x
 </s>
-<s id="1208:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.00&end=00.02.02">
+<s id="1208:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.00&end=00.02.02">
 So	RB	so-a
 what	WP	what-x
 '	''	'-x
@@ -14951,7 +14951,7 @@ for	IN	for-i
 patients	NNS	patient-n
 ?	SENT	?-x
 </s>
-<s id="1208:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.02&end=00.02.12">
+<s id="1208:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.02&end=00.02.12">
 Medical	JJ	medical-j
 progress	NN	progress-n
 is	VBZ	be-v
@@ -14972,7 +14972,7 @@ pathological	JJ	pathological-j
 condition	NN	condition-n
 .	SENT	.-x
 </s>
-<s id="1208:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.12&end=00.02.31">
+<s id="1208:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.12&end=00.02.31">
 There	EX	there-x
 are	VBP	be-v
 occasions	NNS	occasion-n
@@ -15035,7 +15035,7 @@ of	IN	of-i
 treatment	NN	treatment-n
 .	SENT	.-x
 </s>
-<s id="1208:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.31&end=00.02.41">
+<s id="1208:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.31&end=00.02.41">
 For	IN	for-i
 certain	JJ	certain-j
 Europeans	NNS	European-n
@@ -15074,7 +15074,7 @@ living	VVG	live-v
 there	RB	there-a
 .	SENT	.-x
 </s>
-<s id="1208:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.42&end=00.02.54">
+<s id="1208:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.42&end=00.02.54">
 So	IN	so-i
 consumers	NNS	consumer-n
 ,	,	,-x
@@ -15106,7 +15106,7 @@ legislative	JJ	legislative-j
 provisions	NNS	provision-n
 .	SENT	.-x
 </s>
-<s id="1208:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.02.54&end=00.03.10">
+<s id="1208:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.02.54&end=00.03.10">
 Now	RB	now-a
 of	IN	of-i
 course	NN	course-n
@@ -15148,7 +15148,7 @@ State	NP	State-n
 competence	NN	competence-n
 .	SENT	.-x
 </s>
-<s id="1208:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.10&end=00.03.23">
+<s id="1208:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.10&end=00.03.23">
 From	IN	from-i
 this	DT	this-x
 point	NN	point-n
@@ -15198,7 +15198,7 @@ national	JJ	national-j
 systems	NNS	system-n
 .	SENT	.-x
 </s>
-<s id="1208:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.23&end=00.03.38">
+<s id="1208:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.23&end=00.03.38">
 In	IN	in-i
 the	DT	the-x
 case	NN	case-n
@@ -15246,7 +15246,7 @@ prior	JJ	prior-j
 authorisation	NN	authorisation-n
 .	SENT	.-x
 </s>
-<s id="1208:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.38&end=00.03.44">
+<s id="1208:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.38&end=00.03.44">
 That	DT	that-x
 will	MD	will-x
 help	VV	help-v
@@ -15268,7 +15268,7 @@ care	NN	care-n
 structures	NNS	structure-n
 .	SENT	.-x
 </s>
-<s id="1208:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.44&end=00.03.56">
+<s id="1208:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.44&end=00.03.56">
 Parliament	NP	Parliament-n
 has	VHZ	have-v
 a-	DYSF	a-
@@ -15300,7 +15300,7 @@ for	IN	for-i
 patients	NNS	patient-n
 .	SENT	.-x
 </s>
-<s id="1208:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.56&end=00.03.59">
+<s id="1208:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.56&end=00.03.59">
 Parliament	NP	Parliament-n
 has	VHZ	have-v
 also	RB	also-a
@@ -15314,7 +15314,7 @@ other	JJ	other-j
 fronts	NNS	front-n
 .	SENT	.-x
 </s>
-<s id="1208:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.03.59&end=00.04.09">
+<s id="1208:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.03.59&end=00.04.09">
 For	IN	for-i
 example	NN	example-n
 ,	,	,-x
@@ -15349,7 +15349,7 @@ their	PPZ	their-d
 needs	NNS	need-n
 .	SENT	.-x
 </s>
-<s id="1208:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.04.09&end=00.04.15">
+<s id="1208:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.04.09&end=00.04.15">
 Each	DT	each-x
 of	IN	of-i
 these	DT	these-x
@@ -15372,7 +15372,7 @@ contact	NN	contact-n
 points	NNS	point-n
 .	SENT	.-x
 </s>
-<s id="1208:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.04.15&end=00.04.20">
+<s id="1208:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.04.15&end=00.04.20">
 This	DT	this-x
 means	VVZ	mean-v
 that	IN/that	that-i
@@ -15390,7 +15390,7 @@ at	IN	at-i
 that	DT	that-x
 .	SENT	.-x
 </s>
-<s id="1208:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.04.20&end=00.04.26">
+<s id="1208:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.04.20&end=00.04.26">
 The	DT	the-x
 reimbursement	NN	reimbursement-n
 provisions	NNS	provision-n
@@ -15408,7 +15408,7 @@ significantly	RB	significantly-a
 improved	VVN	improve-v
 .	SENT	.-x
 </s>
-<s id="1208:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.04.26&end=00.04.42">
+<s id="1208:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.04.26&end=00.04.42">
 Either	CC	either-c
 you	PP	you-d
 can	MD	can-x
@@ -15451,7 +15451,7 @@ possible	JJ	possible-j
 period	NN	period-n
 .	SENT	.-x
 </s>
-<s id="1208:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.04.42&end=00.05.01">
+<s id="1208:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.04.42&end=00.05.01">
 At	IN	at-i
 the	DT	the-x
 end	NN	end-n
@@ -15508,7 +15508,7 @@ relevant	JJ	relevant-j
 treatment	NN	treatment-n
 .	SENT	.-x
 </s>
-<s id="1208:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.05.03&end=00.05.08">
+<s id="1208:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.05.03&end=00.05.08">
 We	PP	we-d
 will	MD	will-x
 have	VH	have-v
@@ -15529,7 +15529,7 @@ specialist	NN	specialist-n
 treatment	NN	treatment-n
 .	SENT	.-x
 </s>
-<s id="1208:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.05.08&end=00.05.18">
+<s id="1208:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.05.08&end=00.05.18">
 The	DT	the-x
 idea	NN	idea-n
 is	VBZ	be-v
@@ -15555,7 +15555,7 @@ of	IN	of-i
 patients	NNS	patient-n
 .	SENT	.-x
 </s>
-<s id="1208:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.05.18&end=00.05.24">
+<s id="1208:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.05.18&end=00.05.24">
 I	PP	I-d
 think	VVP	think-v
 we	PP	we-d
@@ -15585,7 +15585,7 @@ once	RB	once-a
 again	RB	again-a
 .	SENT	.-x
 </s>
-<s id="1208:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208&start=00.05.24&end=00.05.31">
+<s id="1208:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1208.wmv&start=00.05.24&end=00.05.31">
 I	PP	I-d
 I	PP	I-d
 would	MD	would-x
@@ -15620,7 +15620,7 @@ directive	NN	directive-n
 <speaker name="Pargneaux Gilles" gender="M" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="273" duration="medium" durations="126.0" speed="medium" speedwm="130.0" delivery="mixed">
 <interpreter id="EN18" gender="M" native="Y">
-<s id="1209:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.10&end=00.00.14">
+<s id="1209:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.10&end=00.00.14">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -15631,7 +15631,7 @@ madam	NN	madam-n
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1209:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.14&end=00.00.20">
+<s id="1209:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.14&end=00.00.20">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -15661,7 +15661,7 @@ vote	NN	vote-n
 tomorrow	NN	tomorrow-n
 .	SENT	.-x
 </s>
-<s id="1209:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.20&end=00.00.28">
+<s id="1209:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.20&end=00.00.28">
 Up	RB	up-a
 until	IN	until-i
 now	RB	now-a
@@ -15686,7 +15686,7 @@ cross-border	JJ	cross-border-j
 healthcare	NN	healthcare-n
 .	SENT	.-x
 </s>
-<s id="1209:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.28&end=00.00.46">
+<s id="1209:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.28&end=00.00.46">
 This	DT	this-x
 is	VBZ	be-v
 no	DT	no-x
@@ -15753,7 +15753,7 @@ recent	JJ	recent-j
 years	NNS	year-n
 .	SENT	.-x
 </s>
-<s id="1209:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.46&end=00.00.50">
+<s id="1209:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.46&end=00.00.50">
 Unfortunately	RB	unfortunately-a
 ,	,	,-x
 that	IN/that	that-i
@@ -15765,7 +15765,7 @@ increasingly	RB	increasingly-a
 lucrative	JJ	lucrative-j
 .	SENT	.-x
 </s>
-<s id="1209:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.00.50&end=00.01.10">
+<s id="1209:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.00.50&end=00.01.10">
 There	EX	there-x
 is	VBZ	be-v
 a	DT	a-x
@@ -15808,7 +15808,7 @@ so	RB	so-a
 on	IN	on-i
 .	SENT	.-x
 </s>
-<s id="1209:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.10&end=00.01.13">
+<s id="1209:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.10&end=00.01.13">
 But	CC	but-c
 we	PP	we-d
 should	MD	should-x
@@ -15826,7 +15826,7 @@ a	DT	a-x
 commodity	NN	commodity-n
 .	SENT	.-x
 </s>
-<s id="1209:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.13&end=00.01.15">
+<s id="1209:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.13&end=00.01.15">
 We	PP	we-d
 need	VVP	need-v
 an	DT	a-x
@@ -15837,7 +15837,7 @@ for	IN	for-i
 everyone	NN	everyone-n
 .	SENT	.-x
 </s>
-<s id="1209:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.15&end=00.01.25">
+<s id="1209:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.15&end=00.01.25">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -15872,7 +15872,7 @@ non-hospital	JJ	non-hospital-j
 care	NN	care-n
 .	SENT	.-x
 </s>
-<s id="1209:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.25&end=00.01.32">
+<s id="1209:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.25&end=00.01.32">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -15896,7 +15896,7 @@ socialist	JJ	socialist-j
 coordinator	NN	coordinator-n
 .	SENT	.-x
 </s>
-<s id="1209:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.32&end=00.01.48">
+<s id="1209:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.32&end=00.01.48">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -15955,7 +15955,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1209:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.48&end=00.01.52">
+<s id="1209:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.48&end=00.01.52">
 However	RB	however-a
 ,	,	,-x
 President	NP	President-n
@@ -15971,7 +15971,7 @@ been	VBN	be-v
 completed	VVN	complete-v
 .	SENT	.-x
 </s>
-<s id="1209:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.01.52&end=00.02.01">
+<s id="1209:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.01.52&end=00.02.01">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -16001,7 +16001,7 @@ across	IN	across-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1209:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.02.02&end=00.02.14">
+<s id="1209:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.02.02&end=00.02.14">
 I	PP	I-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -16029,7 +16029,7 @@ European	JJ	European-j
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1209:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209&start=00.02.14&end=00.02.15">
+<s id="1209:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1209.mp4&start=00.02.14&end=00.02.15">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -16042,7 +16042,7 @@ you	PP	you-d
 <speaker name="Lepage Corinne" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="246" duration="short" durations="113.0" speed="medium" speedwm="130.6" delivery="read">
 <interpreter id="EN106" gender="F" native="Y">
-<s id="1210:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.00.10&end=00.00.23">
+<s id="1210:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.00.10&end=00.00.23">
 President	NP	President-n
 ,	,	,-x
 Commissioner	NP	Commissioner-n
@@ -16066,7 +16066,7 @@ colleagues	NNS	colleague-n
 said	VVD	say-v
 .	SENT	.-x
 </s>
-<s id="1210:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.00.23&end=00.00.35">
+<s id="1210:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.00.23&end=00.00.35">
 It	PP	it-d
 was	VBD	be-v
 the	DT	the-x
@@ -16104,7 +16104,7 @@ for	IN	for-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1210:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.00.35&end=00.00.43">
+<s id="1210:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.00.35&end=00.00.43">
 It	PP	it-d
 ehm	FPAUSE	ehm
 provides	VVZ	provide-v
@@ -16127,7 +16127,7 @@ and	CC	and-c
 reinvestments	NNS	reinvestment-n
 .	SENT	.-x
 </s>
-<s id="1210:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.00.43&end=00.00.53">
+<s id="1210:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.00.43&end=00.00.53">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -16163,7 +16163,7 @@ for	IN	for-i
 patients	NNS	patient-n
 .	SENT	.-x
 </s>
-<s id="1210:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.00.53&end=00.01.08">
+<s id="1210:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.00.53&end=00.01.08">
 Obviously	RB	obviously-a
 we	PP	we-d
 can	MD	can-x
@@ -16200,7 +16200,7 @@ systems	NNS	system-n
 undermined	VVD	undermine-v
 .	SENT	.-x
 </s>
-<s id="1210:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.08&end=00.01.20">
+<s id="1210:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.08&end=00.01.20">
 I	PP	I-d
 have	VHP	have-v
 mixed	VVN	mix-v
@@ -16236,7 +16236,7 @@ period	NN	period-n
 mean	NN	mean-n
 ?	SENT	?-x
 </s>
-<s id="1210:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.20&end=00.01.27">
+<s id="1210:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.20&end=00.01.27">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -16256,7 +16256,7 @@ patients'	NNSZ	patient-n
 needs	NNS	need-n
 .	SENT	.-x
 </s>
-<s id="1210:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.27&end=00.01.40">
+<s id="1210:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.27&end=00.01.40">
 We	PP	we-d
 also	RB	also-a
 need	VVP	need-v
@@ -16294,7 +16294,7 @@ vulnerable	JJ	vulnerable-j
 positions	NNS	position-n
 .	SENT	.-x
 </s>
-<s id="1210:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.40&end=00.01.45">
+<s id="1210:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.40&end=00.01.45">
 We	PP	we-d
 should	MD	should-x
 n	NN	n-n
@@ -16310,7 +16310,7 @@ patients'	NNSZ	patient-n
 possibilities	NNS	possibility-n
 .	SENT	.-x
 </s>
-<s id="1210:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.45&end=00.01.59">
+<s id="1210:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.45&end=00.01.59">
 There	EX	there-x
 are	VBP	be-v
 different	JJ	different-j
@@ -16350,7 +16350,7 @@ else	RB	else-a
 elsewhere	RB	elsewhere-a
 .	SENT	.-x
 </s>
-<s id="1210:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.01.59&end=00.02.01">
+<s id="1210:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.01.59&end=00.02.01">
 So	RB	so-a
 ,	,	,-x
 those	DT	those-x
@@ -16363,7 +16363,7 @@ to	TO	to-x
 raise	VV	raise-v
 .	SENT	.-x
 </s>
-<s id="1210:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210&start=00.02.01&end=00.02.02">
+<s id="1210:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1210.mp4&start=00.02.01&end=00.02.02">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -16376,7 +16376,7 @@ you	PP	you-d
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="204" duration="short" durations="78.0" speed="medium" speedwm="156.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1211:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.12&end=00.00.27">
+<s id="1211:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.12&end=00.00.27">
 President	NP	President-n
 ,	,	,-x
 Commissioner	NP	Commissioner-n
@@ -16411,7 +16411,7 @@ John	NP	John-n
 Bowis	NP	Bowis-n
 .	SENT	.-x
 </s>
-<s id="1211:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.27&end=00.00.35">
+<s id="1211:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.27&end=00.00.35">
 And	CC	and-c
 he	PP	he-d
 he	PP	he-d
@@ -16429,7 +16429,7 @@ Bowis	NP	Bowis-n
 today	NN	today-n
 .	SENT	.-x
 </s>
-<s id="1211:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.35&end=00.00.40">
+<s id="1211:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.35&end=00.00.40">
 The	DT	the-x
 Belgian	NP	Belgian-n
 Presidency	NP	Presidency-n
@@ -16444,7 +16444,7 @@ with	IN	with-i
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1211:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.40&end=00.00.45">
+<s id="1211:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.40&end=00.00.45">
 The	DT	the-x
 Belgian	JJ	Belgian-j
 Presidency	NP	Presidency-n
@@ -16465,7 +16465,7 @@ we	PP	we-d
 say	VV	say-v
 .	SENT	.-x
 </s>
-<s id="1211:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.45&end=00.00.52">
+<s id="1211:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.45&end=00.00.52">
 Now	RB	now-a
 ,	,	,-x
 cross-border	JJ	cross-border-j
@@ -16492,7 +16492,7 @@ to	IN	to-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1211:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.00.53&end=00.01.03">
+<s id="1211:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.00.53&end=00.01.03">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -16534,7 +16534,7 @@ full	JJ	full-j
 information	NN	information-n
 .	SENT	.-x
 </s>
-<s id="1211:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.01.03&end=00.01.21">
+<s id="1211:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.01.03&end=00.01.21">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -16606,7 +16606,7 @@ rare	JJ	rare-j
 diseases	NNS	disease-n
 .	SENT	.-x
 </s>
-<s id="1211:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.01.21&end=00.01.28">
+<s id="1211:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.01.21&end=00.01.28">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -16646,7 +16646,7 @@ our	PPZ	our-d
 hearts	NNS	heart-n
 .	SENT	.-x
 </s>
-<s id="1211:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211&start=00.01.28&end=00.01.29">
+<s id="1211:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1211.mp4&start=00.01.28&end=00.01.29">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -16659,13 +16659,13 @@ you	PP	you-d
 <speaker name="Grossetête Françoise" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="274" duration="short" durations="117.0" speed="medium" speedwm="140.5" delivery="impromptu">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1212:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.10&end=00.00.11">
+<s id="1212:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.10&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1212:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.12&end=00.00.21">
+<s id="1212:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.12&end=00.00.21">
 Well	RB	well-a
 I	PP	I-d
 share	VVP	share-v
@@ -16696,7 +16696,7 @@ this	DT	this-x
 directive	NN	directive-n
 .	SENT	.-x
 </s>
-<s id="1212:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.22&end=00.00.34">
+<s id="1212:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.22&end=00.00.34">
 And	CC	and-c
 of	IN	of-i
 course	NN	course-n
@@ -16740,7 +16740,7 @@ mention	NN	mention-n
 everybody	NN	everybody-n
 .	SENT	.-x
 </s>
-<s id="1212:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.34&end=00.00.42">
+<s id="1212:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.34&end=00.00.42">
 But	CC	but-c
 I	PP	I-d
 think	VVP	think-v
@@ -16774,7 +16774,7 @@ the	DT	the-x
 Council	NP	Council-n
 .	SENT	.-x
 </s>
-<s id="1212:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.42&end=00.00.45">
+<s id="1212:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.42&end=00.00.45">
 And	CC	and-c
 so	RB	so-a
 that	IN/that	that-i
@@ -16785,7 +16785,7 @@ it	PP	it-d
 tomorrow	NN	tomorrow-n
 .	SENT	.-x
 </s>
-<s id="1212:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.45&end=00.00.52">
+<s id="1212:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.45&end=00.00.52">
 And	CC	and-c
 now	RB	now-a
 to	IN	to-i
@@ -16816,7 +16816,7 @@ Well	UH	well-x
 no	UH	no-x
 !	SENT	!-x
 </s>
-<s id="1212:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.52&end=00.00.54">
+<s id="1212:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.52&end=00.00.54">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -16828,7 +16828,7 @@ this	DT	this-x
 "	''	"-x
 .	SENT	.-x
 </s>
-<s id="1212:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.54&end=00.00.58">
+<s id="1212:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.54&end=00.00.58">
 And	CC	and-c
 the	DT	the-x
 directive	NN	directive-n
@@ -16844,7 +16844,7 @@ member	NN	member-n
 states	NNS	state-n
 .	SENT	.-x
 </s>
-<s id="1212:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.00.58&end=00.01.07">
+<s id="1212:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.00.58&end=00.01.07">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -16869,7 +16869,7 @@ their	PPZ	their-d
 infrastructure	NN	infrastructure-n
 .	SENT	.-x
 </s>
-<s id="1212:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.07&end=00.01.10">
+<s id="1212:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.07&end=00.01.10">
 And	CC	and-c
 all	DT	all-x
 of	IN	of-i
@@ -16883,7 +16883,7 @@ medical	JJ	medical-j
 tourism	NN	tourism-n
 .	SENT	.-x
 </s>
-<s id="1212:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.11&end=00.01.19">
+<s id="1212:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.11&end=00.01.19">
 And	CC	and-c
 for	IN	for-i
 those	DT	those-x
@@ -16931,7 +16931,7 @@ further	RBR	further-a
 !	SENT	!-x
 "	''	"-x
 </s>
-<s id="1212:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.19&end=00.01.28">
+<s id="1212:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.19&end=00.01.28">
 But	CC	but-c
 today	NN	today-n
 we	PP	we-d
@@ -16964,7 +16964,7 @@ with	IN	with-i
 me	PP	me-d
 .	SENT	.-x
 </s>
-<s id="1212:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.29&end=00.01.38">
+<s id="1212:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.29&end=00.01.38">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -16998,7 +16998,7 @@ within	IN	within-i
 months	NNS	month-n
 .	SENT	.-x
 </s>
-<s id="1212:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.38&end=00.01.48">
+<s id="1212:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.38&end=00.01.48">
 This	DT	this-x
 directive	NN	directive-n
 will	MD	will-x
@@ -17039,7 +17039,7 @@ of	IN	of-i
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1212:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.49&end=00.01.52">
+<s id="1212:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.49&end=00.01.52">
 And	CC	and-c
 I	PP	I-d
 '	''	'-x
@@ -17060,7 +17060,7 @@ is	VBZ	be-v
 essential	JJ	essential-j
 .	SENT	.-x
 </s>
-<s id="1212:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.01.53&end=00.02.07">
+<s id="1212:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.01.53&end=00.02.07">
 I	PP	I-d
 expect	VVP	expect-v
 of	IN	of-i
@@ -17106,7 +17106,7 @@ quality	NN	quality-n
 healthcare	NN	healthcare-n
 .	SENT	.-x
 </s>
-<s id="1212:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212&start=00.02.07&end=00.02.08">
+<s id="1212:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1212.wmv&start=00.02.07&end=00.02.08">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -17119,14 +17119,14 @@ you	PP	you-d
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="287" duration="medium" durations="124.0" speed="medium" speedwm="138.9" delivery="mixed">
 <interpreter id="EN109" gender="F" native="Y">
-<s id="1213:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.12&end=00.00.13">
+<s id="1213:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.12&end=00.00.13">
 Thank	VV	thank-v
 you	PP	you-d
 ,	,	,-x
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1213:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.13&end=00.00.24">
+<s id="1213:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.13&end=00.00.24">
 Well	RB	well-a
 ,	,	,-x
 fighting	VVG	fight-v
@@ -17164,7 +17164,7 @@ Commissioner	NP	Commissioner-n
 Dalli	NP	Dalli-n
 .	SENT	.-x
 </s>
-<s id="1213:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.24&end=00.00.37">
+<s id="1213:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.24&end=00.00.37">
 This	DT	this-x
 form	NN	form-n
 of	IN	of-i
@@ -17200,7 +17200,7 @@ neurodegenerative	JJ	neurodegenerative-j
 diseases	NNS	disease-n
 .	SENT	.-x
 </s>
-<s id="1213:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.38&end=00.00.55">
+<s id="1213:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.38&end=00.00.55">
 So	RB	so-a
 ,	,	,-x
 we	PP	we-d
@@ -17251,7 +17251,7 @@ Fund	NP	Fund-n
 2014	NP	[number]-n
 .	SENT	.-x
 </s>
-<s id="1213:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.55&end=00.00.58">
+<s id="1213:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.55&end=00.00.58">
 And	CC	and-c
 that	WDT	that-x
 '	''	'-x
@@ -17265,7 +17265,7 @@ this	DT	this-x
 resolution	NN	resolution-n
 .	SENT	.-x
 </s>
-<s id="1213:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.00.58&end=00.01.10">
+<s id="1213:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.00.58&end=00.01.10">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -17304,7 +17304,7 @@ and	CC	and-c
 20	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1213:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.01.10&end=00.01.35">
+<s id="1213:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.01.10&end=00.01.35">
 And	CC	and-c
 in	IN	in-i
 this	DT	this-x
@@ -17373,7 +17373,7 @@ of	IN	of-i
 patient	NN	patient-n
 .	SENT	.-x
 </s>
-<s id="1213:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.01.35&end=00.01.40">
+<s id="1213:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.01.35&end=00.01.40">
 Helping	VVG	help-v
 this	DT	this-x
 kind	NN	kind-n
@@ -17389,7 +17389,7 @@ the	DT	the-x
 diagnosis	NN	diagnosis-n
 .	SENT	.-x
 </s>
-<s id="1213:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.01.40&end=00.01.53">
+<s id="1213:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.01.40&end=00.01.53">
 The	DT	the-x
 scientific	JJ	scientific-j
 world	NN	world-n
@@ -17429,7 +17429,7 @@ of	IN	of-i
 dementia	NN	dementia-n
 .	SENT	.-x
 </s>
-<s id="1213:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.01.54&end=00.02.09">
+<s id="1213:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.01.54&end=00.02.09">
 And	CC	and-c
 to	IN	to-i
 then	RB	then-a
@@ -17478,7 +17478,7 @@ for	IN	for-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1213:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213&start=00.02.09&end=00.02.19">
+<s id="1213:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1213.mp4&start=00.02.09&end=00.02.19">
 And	CC	and-c
 the	DT	the-x
 review	NN	review-n
@@ -17510,7 +17510,7 @@ families	NNS	family-n
 <speaker name="Juvin Philippe" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="238" duration="short" durations="98.0" speed="medium" speedwm="145.7" delivery="mixed">
 <interpreter id="EN33" gender="F" native="Y">
-<s id="1214:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.10&end=00.00.24">
+<s id="1214:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.10&end=00.00.24">
 President	NN	president-n
 ,	,	,-x
 colleagues	NNS	colleague-n
@@ -17554,7 +17554,7 @@ at	IN	at-i
 home	NN	home-n
 .	SENT	.-x
 </s>
-<s id="1214:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.24&end=00.00.34">
+<s id="1214:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.24&end=00.00.34">
 We	PP	we-d
 know	VVP	know-v
 from	IN	from-i
@@ -17589,7 +17589,7 @@ get	VV	get-v
 worse	JJR	bad-j
 .	SENT	.-x
 </s>
-<s id="1214:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.34&end=00.00.50">
+<s id="1214:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.34&end=00.00.50">
 So	RB	so-a
 one	CD	one-m
 of	IN	of-i
@@ -17645,7 +17645,7 @@ their	PPZ	their-d
 own	JJ	own-j
 .	SENT	.-x
 </s>
-<s id="1214:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.50&end=00.00.53">
+<s id="1214:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.50&end=00.00.53">
 The	DT	the-x
 second	JJ	second-j
 point	NN	point-n
@@ -17657,12 +17657,12 @@ about	RB	about-a
 research	NN	research-n
 .	SENT	.-x
 </s>
-<s id="1214:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.53&end=00.00.55">
+<s id="1214:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.53&end=00.00.55">
 Why	WRB	why-x
 research	NN	research-n
 ?	SENT	?-x
 </s>
-<s id="1214:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.00.55&end=00.01.00">
+<s id="1214:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.00.55&end=00.01.00">
 The	DT	the-x
 reason	NN	reason-n
 I	PP	I-d
@@ -17686,7 +17686,7 @@ a	DT	a-x
 cure	NN	cure-n
 .	SENT	.-x
 </s>
-<s id="1214:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.00&end=00.01.04">
+<s id="1214:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.00&end=00.01.04">
 And	CC	and-c
 if	IN	if-i
 we	PP	we-d
@@ -17708,7 +17708,7 @@ be	VB	be-v
 research	NN	research-n
 .	SENT	.-x
 </s>
-<s id="1214:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.04&end=00.01.08">
+<s id="1214:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.04&end=00.01.08">
 I	PP	I-d
 hear	VVP	hear-v
 people	NNS	people-n
@@ -17734,7 +17734,7 @@ about	IN	about-i
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1214:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.08&end=00.01.12">
+<s id="1214:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.08&end=00.01.12">
 But	CC	but-c
 before	IN	before-i
 we	PP	we-d
@@ -17754,7 +17754,7 @@ of	IN	of-i
 resources	NNS	resource-n
 .	SENT	.-x
 </s>
-<s id="1214:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.12&end=00.01.20">
+<s id="1214:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.12&end=00.01.20">
 Up	RB	up-a
 to	IN	to-i
 now	RB	now-a
@@ -17794,7 +17794,7 @@ each	DT	each-x
 other	JJ	other-j
 .	SENT	.-x
 </s>
-<s id="1214:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.20&end=00.01.28">
+<s id="1214:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.20&end=00.01.28">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -17823,7 +17823,7 @@ so	RB	so-a
 forth	RB	forth-a
 .	SENT	.-x
 </s>
-<s id="1214:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.28&end=00.01.29">
+<s id="1214:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.28&end=00.01.29">
 People	NNS	people-n
 need	VVP	need-v
 to	TO	to-x
@@ -17834,7 +17834,7 @@ work	VV	work-v
 together	RB	together-a
 .	SENT	.-x
 </s>
-<s id="1214:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.29&end=00.01.31">
+<s id="1214:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.29&end=00.01.31">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -17845,7 +17845,7 @@ do	VV	do-v
 so	RB	so-a
 .	SENT	.-x
 </s>
-<s id="1214:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.31&end=00.01.38">
+<s id="1214:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.31&end=00.01.38">
 I	PP	I-d
 hope	VVP	hope-v
 the	DT	the-x
@@ -17867,7 +17867,7 @@ French	JJ	French-j
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1214:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214&start=00.01.39&end=00.01.51">
+<s id="1214:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1214.mp4&start=00.01.39&end=00.01.51">
 President	NP	President-n
 ,	,	,-x
 let	VVD	let-v
@@ -17913,7 +17913,7 @@ alone	RB	alone-a
 <speaker name="Striffler Michèle" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="233" duration="short" durations="103.0" speed="medium" speedwm="135.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1215:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.00.00&end=00.00.06">
+<s id="1215:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.00.00&end=00.00.06">
 Yes	UH	yes-x
 ,	,	,-x
 ehm	FPAUSE	ehm
@@ -17937,7 +17937,7 @@ emergency	NN	emergency-n
 situation	NN	situation-n
 .	SENT	.-x
 </s>
-<s id="1215:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.00.06&end=00.00.32">
+<s id="1215:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.00.06&end=00.00.32">
 Reconstruction	NN	reconstruction-n
 has	VHZ	have-v
 ehm	FPAUSE	ehm
@@ -18040,7 +18040,7 @@ been	VBN	be-v
 saved	VVN	save-v
 .	SENT	.-x
 </s>
-<s id="1215:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.00.38&end=00.00.44">
+<s id="1215:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.00.38&end=00.00.44">
 But	CC	but-c
 ehm	FPAUSE	ehm
 those	DT	those-x
@@ -18062,7 +18062,7 @@ Haitian	JJ	Haitian-j
 state	NN	state-n
 .	SENT	.-x
 </s>
-<s id="1215:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.00.44&end=00.00.51">
+<s id="1215:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.00.44&end=00.00.51">
 So	IN	so-i
 the	DT	the-x
 European	JJ	European-j
@@ -18087,7 +18087,7 @@ ehm	FPAUSE	ehm
 process	NN	process-n
 .	SENT	.-x
 </s>
-<s id="1215:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.00.51&end=00.01.12">
+<s id="1215:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.00.51&end=00.01.12">
 We	PP	we-d
 should	MD	should-x
 be	VB	be-v
@@ -18147,7 +18147,7 @@ reconstruction	NN	reconstruction-n
 process	NN	process-n
 .	SENT	.-x
 </s>
-<s id="1215:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.01.12&end=00.01.29">
+<s id="1215:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.01.12&end=00.01.29">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -18193,7 +18193,7 @@ operate	VVP	operate-v
 properly	RB	properly-a
 .	SENT	.-x
 </s>
-<s id="1215:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.01.29&end=00.01.43">
+<s id="1215:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.01.29&end=00.01.43">
 Since	IN	since-i
 the	DT	the-x
 ehm	FPAUSE	ehm
@@ -18247,7 +18247,7 @@ of	IN	of-i
 Haiti	NP	Haiti-n
 .	SENT	.-x
 </s>
-<s id="1215:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215&start=00.01.43&end=00.01.44">
+<s id="1215:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1215.mp4&start=00.01.43&end=00.01.44">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -18260,7 +18260,7 @@ you	PP	you-d
 <speaker name="Goerens Charles" gender="M" country="Luxembourg" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="194" duration="short" durations="91.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1216:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.00&end=00.00.05">
+<s id="1216:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.00&end=00.00.05">
 Thank	VV	thank-v
 you	PP	you-d
 ,	,	,-x
@@ -18268,7 +18268,7 @@ Madam	NN	madam-n
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1216:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.06&end=00.00.11">
+<s id="1216:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.06&end=00.00.11">
 The	DT	the-x
 quality	NN	quality-n
 of	IN	of-i
@@ -18306,7 +18306,7 @@ in	IN	in-i
 ruins	NNS	ruin-n
 .	SENT	.-x
 </s>
-<s id="1216:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.12&end=00.00.19">
+<s id="1216:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.12&end=00.00.19">
 Given	VVN	give-v
 the	DT	the-x
 scale	NN	scale-n
@@ -18329,7 +18329,7 @@ helping	VVG	help-v
 Haiti	NP	Haiti-n
 .	SENT	.-x
 </s>
-<s id="1216:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.20&end=00.00.28">
+<s id="1216:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.20&end=00.00.28">
 There	EX	there-x
 are	VBP	be-v
 a	DT	a-x
@@ -18360,7 +18360,7 @@ a	DT	a-x
 disaster	NN	disaster-n
 .	SENT	.-x
 </s>
-<s id="1216:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.29&end=00.00.38">
+<s id="1216:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.29&end=00.00.38">
 With	IN	with-i
 these	DT	these-x
 structural	JJ	structural-j
@@ -18393,7 +18393,7 @@ the	DT	the-x
 ground	NN	ground-n
 .	SENT	.-x
 </s>
-<s id="1216:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.38&end=00.00.40">
+<s id="1216:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.38&end=00.00.40">
 Who	WP	who-x
 is	VBZ	be-v
 to	TO	to-x
@@ -18404,13 +18404,13 @@ this	DT	this-x
 situation	NN	situation-n
 ?	SENT	?-x
 </s>
-<s id="1216:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.40&end=00.00.41">
+<s id="1216:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.40&end=00.00.41">
 Who	WP	who-x
 is	VBZ	be-v
 responsible	JJ	responsible-j
 ?	SENT	?-x
 </s>
-<s id="1216:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.41&end=00.00.49">
+<s id="1216:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.41&end=00.00.49">
 Even	RB	even-a
 though	IN	though-i
 there	EX	there-x
@@ -18431,7 +18431,7 @@ state	NN	state-n
 itself	PP	itself-d
 .	SENT	.-x
 </s>
-<s id="1216:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.50&end=00.00.57">
+<s id="1216:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.50&end=00.00.57">
 An	DT	an-x
 alternative	JJ	alternative-j
 ehm	FPAUSE	ehm
@@ -18459,7 +18459,7 @@ nobody	NN	nobody-n
 wants	VVZ	want-v
 .	SENT	.-x
 </s>
-<s id="1216:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.00.58&end=00.01.05">
+<s id="1216:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.00.58&end=00.01.05">
 We	PP	we-d
 need	VVP	need-v
 to	IN	to-i
@@ -18481,7 +18481,7 @@ it	PP	it-d
 can	MD	can-x
 .	SENT	.-x
 </s>
-<s id="1216:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.01.05&end=00.01.10">
+<s id="1216:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.01.05&end=00.01.10">
 The	DT	the-x
 ehm	FPAUSE	ehm
 European	NP	European-n
@@ -18503,7 +18503,7 @@ done	VVN	do-v
 so	RB	so-a
 .	SENT	.-x
 </s>
-<s id="1216:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216&start=00.01.11&end=00.01.32">
+<s id="1216:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1216.mp4&start=00.01.11&end=00.01.32">
 And	CC	and-c
 what	WP	what-x
 we	PP	we-d
@@ -18574,14 +18574,14 @@ months	NNS	month-n
 <speaker name="Hénin Jacky" gender="M" country="France" politfunc="MEP" politgroup="GUE/NGL">
 <st language="fr" length="medium" lengthw="406" duration="medium" durations="191.0" speed="slow" speedwm="127.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1217:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.00&end=00.00.00">
+<s id="1217:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.00&end=00.00.00">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
 much	RB	much-a
 .	SENT	.-x
 </s>
-<s id="1217:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.00&end=00.00.08">
+<s id="1217:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.00&end=00.00.08">
 Haiti	NP	Haiti-n
 and	CC	and-c
 its	PPZ	its-d
@@ -18605,7 +18605,7 @@ death	NN	death-n
 everywhere	RB	everywhere-a
 .	SENT	.-x
 </s>
-<s id="1217:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.09&end=00.00.20">
+<s id="1217:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.09&end=00.00.20">
 Of	IN	of-i
 course	NN	course-n
 ehm	FPAUSE	ehm
@@ -18641,7 +18641,7 @@ the	DT	the-x
 most	JJS	most-j
 .	SENT	.-x
 </s>
-<s id="1217:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.20&end=00.00.26">
+<s id="1217:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.20&end=00.00.26">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -18662,7 +18662,7 @@ ve	NNS	ve-n
 done	VVN	do-v
 .	SENT	.-x
 </s>
-<s id="1217:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.26&end=00.00.40">
+<s id="1217:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.26&end=00.00.40">
 Giving	VVG	give-v
 help	NN	help-n
 without	IN	without-i
@@ -18690,7 +18690,7 @@ help	NN	help-n
 centres	NNS	centre-n
 .	SENT	.-x
 </s>
-<s id="1217:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.40&end=00.00.52">
+<s id="1217:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.40&end=00.00.52">
 Cuba	NP	Cuba-n
 ,	,	,-x
 whe-	DYSF	whe-
@@ -18713,7 +18713,7 @@ ehm	FPAUSE	ehm
 Norway	NP	Norway-n
 .	SENT	.-x
 </s>
-<s id="1217:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.00.52&end=00.00.59">
+<s id="1217:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.00.52&end=00.00.59">
 So	RB	so-a
 I	PP	I-d
 think	VVP	think-v
@@ -18729,7 +18729,7 @@ ehm	FPAUSE	ehm
 example	NN	example-n
 .	SENT	.-x
 </s>
-<s id="1217:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.01.01&end=00.01.16">
+<s id="1217:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.01.01&end=00.01.16">
 Sometimes	RB	sometimes-a
 ,	,	,-x
 there	EX	there-x
@@ -18760,7 +18760,7 @@ ehm	FPAUSE	ehm
 democracy	NN	democracy-n
 .	SENT	.-x
 </s>
-<s id="1217:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.01.17&end=00.01.43">
+<s id="1217:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.01.17&end=00.01.43">
 We	PP	we-d
 we	PP	we-d
 see	VVP	see-v
@@ -18815,7 +18815,7 @@ their	PPZ	their-d
 loans	NNS	loan-n
 .	SENT	.-x
 </s>
-<s id="1217:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.01.46&end=00.01.56">
+<s id="1217:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.01.46&end=00.01.56">
 In	IN	in-i
 the	DT	the-x
 medium	NN	medium-n
@@ -18843,7 +18843,7 @@ in	IN	in-i
 Haiti	NP	Haiti-n
 .	SENT	.-x
 </s>
-<s id="1217:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.01.56&end=00.02.15">
+<s id="1217:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.01.56&end=00.02.15">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -18903,7 +18903,7 @@ be	VB	be-v
 funded	VVN	fund-v
 .	SENT	.-x
 </s>
-<s id="1217:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.02.15&end=00.02.30">
+<s id="1217:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.02.15&end=00.02.30">
 There	EX	there-x
 are	VBP	be-v
 people	NNS	people-n
@@ -18936,7 +18936,7 @@ for	IN	for-i
 tender	NN	tender-n
 .	SENT	.-x
 </s>
-<s id="1217:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.02.32&end=00.02.50">
+<s id="1217:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.02.32&end=00.02.50">
 We	PP	we-d
 should	MD	should-x
 n	NN	n-n
@@ -18978,7 +18978,7 @@ colonial-	DYSF	colonial-
 colonialism	NN	colonialism-n
 .	SENT	.-x
 </s>
-<s id="1217:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.02.50&end=00.02.58">
+<s id="1217:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.02.50&end=00.02.58">
 They	PP	they-d
 ehm	FPAUSE	ehm
 suffered	VVD	suffer-v
@@ -19001,7 +19001,7 @@ euros	NNS	euro-n
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1217:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.02.58&end=00.03.01">
+<s id="1217:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.02.58&end=00.03.01">
 This	DT	this-x
 because	IN	because-i
 of	IN	of-i
@@ -19010,7 +19010,7 @@ and	CC	and-c
 colonialism	NN	colonialism-n
 .	SENT	.-x
 </s>
-<s id="1217:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217&start=00.03.01&end=00.03.10">
+<s id="1217:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1217.mp4&start=00.03.01&end=00.03.10">
 Europe	NP	Europe-n
 and	CC	and-c
 more	JJR	more-j
@@ -19039,7 +19039,7 @@ Haiti	NP	Haiti-n
 <speaker name="Rivasi Michèle" gender="F" country="France" politfunc="MEP" politgroup="Greens/ALE">
 <st language="fr" length="short" lengthw="273" duration="short" durations="107.0" speed="medium" speedwm="153.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1218:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.00&end=00.00.01">
+<s id="1218:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.00&end=00.00.01">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -19048,7 +19048,7 @@ much	RB	much-a
 Chairman	NP	Chairman-n
 .	SENT	.-x
 </s>
-<s id="1218:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.03&end=00.00.11">
+<s id="1218:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.03&end=00.00.11">
 After	IN	after-i
 what	WP	what-x
 I	PP	I-d
@@ -19080,7 +19080,7 @@ are	VBP	be-v
 more	JJR	more-j
 .	SENT	.-x
 </s>
-<s id="1218:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.11&end=00.00.14">
+<s id="1218:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.11&end=00.00.14">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -19094,7 +19094,7 @@ to	IN	to-i
 development	NN	development-n
 .	SENT	.-x
 </s>
-<s id="1218:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.14&end=00.00.21">
+<s id="1218:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.14&end=00.00.21">
 We	PP	we-d
 do	VVP	do-v
 n	NN	n-n
@@ -19119,7 +19119,7 @@ solid	JJ	solid-j
 footing	NN	footing-n
 .	SENT	.-x
 </s>
-<s id="1218:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.21&end=00.00.30">
+<s id="1218:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.21&end=00.00.30">
 There	EX	there-x
 are	VBP	be-v
 20	CD	[number]-m
@@ -19142,7 +19142,7 @@ cleared	VVN	clear-v
 away	RB	away-a
 .	SENT	.-x
 </s>
-<s id="1218:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.31&end=00.00.38">
+<s id="1218:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.31&end=00.00.38">
 And	CC	and-c
 ehm	FPAUSE	ehm
 Port-au-Prince	NN	Port-au-Prince-n
@@ -19163,7 +19163,7 @@ effort	NN	effort-n
 there	RB	there-a
 .	SENT	.-x
 </s>
-<s id="1218:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.38&end=00.00.45">
+<s id="1218:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.38&end=00.00.45">
 Then	RB	then-a
 there	EX	there-x
 '	''	'-x
@@ -19193,7 +19193,7 @@ budgetary	JJ	budgetary-j
 support	NN	support-n
 .	SENT	.-x
 </s>
-<s id="1218:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.45&end=00.00.53">
+<s id="1218:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.45&end=00.00.53">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -19222,7 +19222,7 @@ its	PPZ	its-d
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1218:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.00.53&end=00.01.08">
+<s id="1218:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.00.53&end=00.01.08">
 What	WP	what-x
 we	PP	we-d
 hear	VVP	hear-v
@@ -19265,7 +19265,7 @@ to	IN	to-i
 NGOs	NNS	Ngo-n
 .	SENT	.-x
 </s>
-<s id="1218:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.01.08&end=00.01.14">
+<s id="1218:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.01.08&end=00.01.14">
 So	RB	so-a
 we	PP	we-d
 have	VHP	have-v
@@ -19292,7 +19292,7 @@ under	IN	under-i
 way	NN	way-n
 .	SENT	.-x
 </s>
-<s id="1218:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.01.14&end=00.01.20">
+<s id="1218:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.01.14&end=00.01.20">
 And	CC	and-c
 we	PP	we-d
 should	MD	should-x
@@ -19314,7 +19314,7 @@ into	IN	into-i
 power	NN	power-n
 .	SENT	.-x
 </s>
-<s id="1218:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.01.20&end=00.01.30">
+<s id="1218:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.01.20&end=00.01.30">
 That	DT	that-x
 impedes	VVZ	impede-v
 development	NN	development-n
@@ -19331,7 +19331,7 @@ the	DT	the-x
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1218:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218&start=00.01.30&end=00.01.46">
+<s id="1218:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1218.mp4&start=00.01.30&end=00.01.46">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -19384,7 +19384,7 @@ Haiti	NP	Haiti-n
 <speaker name="Trautmann Catherine" gender="F" country="France" politfunc="MEP" politgroup="SD">
 <st language="fr" length="short" lengthw="260" duration="medium" durations="123.0" speed="slow" speedwm="126.8" delivery="read">
 <interpreter id="EN132" gender="F" native="Y">
-<s id="1219:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.00.07&end=00.00.10">
+<s id="1219:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.00.07&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -19397,7 +19397,7 @@ Commissioner	NP	Commissioner-n
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1219:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.00.11&end=00.00.31">
+<s id="1219:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.00.11&end=00.00.31">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -19434,7 +19434,7 @@ ehm	FPAUSE	ehm
 influences	NNS	influence-n
 .	SENT	.-x
 </s>
-<s id="1219:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.00.31&end=00.00.40">
+<s id="1219:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.00.31&end=00.00.40">
 Now	RB	now-a
 this	DT	this-x
 ehm	FPAUSE	ehm
@@ -19464,7 +19464,7 @@ sexual	JJ	sexual-j
 orientation	NN	orientation-n
 .	SENT	.-x
 </s>
-<s id="1219:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.00.40&end=00.00.55">
+<s id="1219:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.00.40&end=00.00.55">
 We	PP	we-d
 all	RB	all-a
 know	VVP	know-v
@@ -19491,7 +19491,7 @@ the	DT	the-x
 LGBTs	NP	LGBTs-n
 .	SENT	.-x
 </s>
-<s id="1219:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.00.56&end=00.01.07">
+<s id="1219:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.00.56&end=00.01.07">
 Now	RB	now-a
 there	EX	there-x
 '	''	'-x
@@ -19519,7 +19519,7 @@ in	IN	in-i
 violence	NN	violence-n
 .	SENT	.-x
 </s>
-<s id="1219:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.01.07&end=00.01.14">
+<s id="1219:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.01.07&end=00.01.14">
 So	RB	so-a
 I	PP	I-d
 do	VVP	do-v
@@ -19543,7 +19543,7 @@ p-	DYSF	p-
 persons	NNS	person-n
 .	SENT	.-x
 </s>
-<s id="1219:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.01.14&end=00.01.18">
+<s id="1219:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.01.14&end=00.01.18">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -19557,7 +19557,7 @@ ehm	FPAUSE	ehm
 aggressive	JJ	aggressive-j
 .	SENT	.-x
 </s>
-<s id="1219:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.01.18&end=00.01.34">
+<s id="1219:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.01.18&end=00.01.34">
 So	IN	so-i
 this	DT	this-x
 law	NN	law-n
@@ -19591,7 +19591,7 @@ Fundamental	NP	Fundamental-n
 Freedoms	NNS	freedom-n
 .	SENT	.-x
 </s>
-<s id="1219:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.01.35&end=00.01.52">
+<s id="1219:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.01.35&end=00.01.52">
 And	CC	and-c
 so	RB	so-a
 this	DT	this-x
@@ -19621,7 +19621,7 @@ and	CC	and-c
 education	NN	education-n
 .	SENT	.-x
 </s>
-<s id="1219:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219&start=00.01.52&end=00.02.13">
+<s id="1219:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1219.mp4&start=00.01.52&end=00.02.13">
 So	RB	so-a
 thank	VV	thank-v
 you	PP	you-d
@@ -19693,7 +19693,7 @@ resolution	NN	resolution-n
 <speaker name="Daul Joseph" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="480" duration="medium" durations="200.0" speed="medium" speedwm="144.0" delivery="mixed">
 <interpreter id="EN122" gender="F" native="Y">
-<s id="1220:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.00.08&end=00.00.23">
+<s id="1220:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.00.08&end=00.00.23">
 President	NN	president-n
 of	IN	of-i
 the	DT	the-x
@@ -19743,7 +19743,7 @@ stabilization	NN	stabilization-n
 and	CC	and-c
 .	SENT	.-x
 </s>
-<s id="1220:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.00.23&end=00.00.44">
+<s id="1220:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.00.23&end=00.00.44">
 Our	PPZ	our-d
 Heads	NP	Heads-n
 of	IN	of-i
@@ -19808,7 +19808,7 @@ n	NN	n-n
 t	NN	t-n
 .	SENT	.-x
 </s>
-<s id="1220:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.00.44&end=00.00.52">
+<s id="1220:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.00.44&end=00.00.52">
 Having	VHG	have-v
 said	VVN	say-v
 this	DT	this-x
@@ -19830,7 +19830,7 @@ and	CC	and-c
 economically	RB	economically-a
 .	SENT	.-x
 </s>
-<s id="1220:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.00.52&end=00.01.00">
+<s id="1220:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.00.52&end=00.01.00">
 Everything	NN	everything-n
 has	VHZ	have-v
 to	TO	to-x
@@ -19855,7 +19855,7 @@ but	CC	but-c
 structurally	RB	structurally-a
 .	SENT	.-x
 </s>
-<s id="1220:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.01.00&end=00.01.16">
+<s id="1220:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.01.00&end=00.01.16">
 Creating	VVG	create-v
 the	DT	the-x
 necessary	JJ	necessary-j
@@ -19910,7 +19910,7 @@ relinquishing	VVG	relinquish-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1220:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.01.16&end=00.01.23">
+<s id="1220:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.01.16&end=00.01.23">
 This	DT	this-x
 means	VVZ	mean-v
 that	IN/that	that-i
@@ -19929,7 +19929,7 @@ convert	VVP	convert-v
 more	RBR	more-a
 .	SENT	.-x
 </s>
-<s id="1220:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.01.23&end=00.01.37">
+<s id="1220:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.01.23&end=00.01.37">
 That	DT	that-x
 means	VVZ	mean-v
 essentially	RB	essentially-a
@@ -19957,7 +19957,7 @@ trade	NN	trade-n
 discipline	NN	discipline-n
 .	SENT	.-x
 </s>
-<s id="1220:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.01.37&end=00.01.49">
+<s id="1220:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.01.37&end=00.01.49">
 Our	PPZ	our-d
 citizens	NNS	citizen-n
 should	MD	should-x
@@ -19993,7 +19993,7 @@ any	RB	any-a
 more	RBR	more-a
 .	SENT	.-x
 </s>
-<s id="1220:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.01.49&end=00.02.03">
+<s id="1220:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.01.49&end=00.02.03">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -20038,7 +20038,7 @@ lifelong	JJ	lifelong-j
 education	NN	education-n
 .	SENT	.-x
 </s>
-<s id="1220:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.02.03&end=00.02.15">
+<s id="1220:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.02.03&end=00.02.15">
 Our-	DYSF	Our-
 my	PPZ	my-d
 group	NN	group-n
@@ -20078,7 +20078,7 @@ s	NN	S-n
 a	DT	a-x
 .	SENT	.-x
 </s>
-<s id="1220:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.02.15&end=00.02.26">
+<s id="1220:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.02.15&end=00.02.26">
 Mr	NP	Mr-n
 President	NP	President-n
 of	IN	of-i
@@ -20114,7 +20114,7 @@ as	RB	as-a
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1220:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.02.26&end=00.02.43">
+<s id="1220:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.02.26&end=00.02.43">
 And	CC	and-c
 that	IN/that	that-i
 a	DT	a-x
@@ -20160,7 +20160,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1220:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.02.43&end=00.03.04">
+<s id="1220:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.02.43&end=00.03.04">
 President	NN	president-n
 of	IN	of-i
 the	DT	the-x
@@ -20231,7 +20231,7 @@ re	NN	re-n
 in	IN	in-i
 ?	SENT	?-x
 </s>
-<s id="1220:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.03.04&end=00.03.12">
+<s id="1220:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.03.04&end=00.03.12">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -20272,7 +20272,7 @@ more	JJR	more-j
 money	NN	money-n
 .	SENT	.-x
 </s>
-<s id="1220:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.03.12&end=00.03.26">
+<s id="1220:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.03.12&end=00.03.26">
 Let	NP	Let-n
 '	''	'-x
 <g/>
@@ -20316,7 +20316,7 @@ right	JJ	right-j
 solution	NN	solution-n
 .	SENT	.-x
 </s>
-<s id="1220:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.03.26&end=00.03.28">
+<s id="1220:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.03.26&end=00.03.28">
 But	CC	but-c
 let's	NNZ	let-n
 just	RB	just-a
@@ -20327,7 +20327,7 @@ before	IN	before-i
 us	PP	us-d
 .	SENT	.-x
 </s>
-<s id="1220:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220&start=00.03.28&end=00.03.29">
+<s id="1220:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1220.mp4&start=00.03.28&end=00.03.29">
 Thank	VV	thank-v
 you	PP	you-d
 for	IN	for-i
@@ -20343,13 +20343,13 @@ attention	NN	attention-n
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="366" duration="medium" durations="152.0" speed="medium" speedwm="144.5" delivery="mixed">
 <interpreter id="EN07" gender="F" native="Y">
-<s id="1221:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.00.08&end=00.00.09">
+<s id="1221:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.00.08&end=00.00.09">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1221:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.00.10&end=00.00.16">
+<s id="1221:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.00.10&end=00.00.16">
 President	NP	President-n
 ,	,	,-x
 on	IN	on-i
@@ -20372,7 +20372,7 @@ make	VV	make-v
 comments	NNS	comment-n
 .	SENT	.-x
 </s>
-<s id="1221:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.00.16&end=00.00.46">
+<s id="1221:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.00.16&end=00.00.46">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -20476,7 +20476,7 @@ ehm	FPAUSE	ehm
 legalities	NNS	legality-n
 .	SENT	.-x
 </s>
-<s id="1221:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.00.46&end=00.00.59">
+<s id="1221:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.00.46&end=00.00.59">
 You	PP	you-d
 say	VVP	say-v
 that	IN/that	that-i
@@ -20508,7 +20508,7 @@ not	RB	not-a
 reassured	VVN	reassure-v
 .	SENT	.-x
 </s>
-<s id="1221:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.00.59&end=00.01.03">
+<s id="1221:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.00.59&end=00.01.03">
 So	RB	so-a
 do	VVP	do-v
 be	VB	be-v
@@ -20521,7 +20521,7 @@ reassure	VV	reassure-v
 markets	NNS	market-n
 .	SENT	.-x
 </s>
-<s id="1221:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.03&end=00.01.07">
+<s id="1221:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.03&end=00.01.07">
 But	CC	but-c
 what	WP	what-x
 would	MD	would-x
@@ -20534,7 +20534,7 @@ failed	VVN	fail-v
 fails	VVZ	fail-v
 ?	SENT	?-x
 </s>
-<s id="1221:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.07&end=00.01.16">
+<s id="1221:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.07&end=00.01.16">
 I	PP	I-d
 come	VVP	come-v
 from	IN	from-i
@@ -20564,7 +20564,7 @@ there	RB	there-a
 actually	RB	actually-a
 .	SENT	.-x
 </s>
-<s id="1221:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.16&end=00.01.24">
+<s id="1221:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.16&end=00.01.24">
 Think	VV	think-v
 about	RB	about-a
 what	WP	what-x
@@ -20592,13 +20592,13 @@ date	NN	date-n
 "	''	"-x
 .	SENT	.-x
 </s>
-<s id="1221:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.24&end=00.01.25">
+<s id="1221:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.24&end=00.01.25">
 They	PP	they-d
 will	MD	will-x
 hope	VV	hope-v
 .	SENT	.-x
 </s>
-<s id="1221:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.25&end=00.01.27">
+<s id="1221:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.25&end=00.01.27">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -20607,7 +20607,7 @@ get	VVP	get-v
 done	VVN	do-v
 .	SENT	.-x
 </s>
-<s id="1221:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.27&end=00.01.33">
+<s id="1221:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.27&end=00.01.33">
 I	PP	I-d
 mean	VVP	mean-v
 of	IN	of-i
@@ -20631,7 +20631,7 @@ will	MD	will-x
 pass	VV	pass-v
 .	SENT	.-x
 </s>
-<s id="1221:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.33&end=00.01.39">
+<s id="1221:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.33&end=00.01.39">
 You	PP	you-d
 may	MD	may-x
 reassure	VV	reassure-v
@@ -20650,7 +20650,7 @@ the	DT	the-x
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1221:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.39&end=00.01.42">
+<s id="1221:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.39&end=00.01.42">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -20662,7 +20662,7 @@ about	IN	about-i
 nothing	NN	nothing-n
 .	SENT	.-x
 </s>
-<s id="1221:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.42&end=00.01.47">
+<s id="1221:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.42&end=00.01.47">
 You	PP	you-d
 changed	VVD	change-v
 the	DT	the-x
@@ -20679,7 +20679,7 @@ of	IN	of-i
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1221:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.47&end=00.01.52">
+<s id="1221:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.47&end=00.01.52">
 But	CC	but-c
 you	PP	you-d
 do	VVP	do-v
@@ -20702,7 +20702,7 @@ European	JJ	European-j
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1221:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.52&end=00.01.59">
+<s id="1221:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.52&end=00.01.59">
 We	PP	we-d
 are	VBP	be-v
 rapporteurs	NNS	rapporteur-n
@@ -20722,7 +20722,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1221:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.01.59&end=00.02.17">
+<s id="1221:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.01.59&end=00.02.17">
 We	PP	we-d
 were	VBD	be-v
 prepared	VVN	prepare-v
@@ -20776,7 +20776,7 @@ help	NN	help-n
 citizens	NNS	citizen-n
 ;	:	;-x
 </s>
-<s id="1221:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.17&end=00.02.23">
+<s id="1221:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.17&end=00.02.23">
 they	PP	they-d
 '	''	'-x
 <g/>
@@ -20812,13 +20812,13 @@ this	DT	this-x
 work	NN	work-n
 ?	SENT	?-x
 </s>
-<s id="1221:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.23&end=00.02.25">
+<s id="1221:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.23&end=00.02.25">
 Well	RB	well-a
 do	VVP	do-v
 accelerate	VV	accelerate-v
 !	SENT	!-x
 </s>
-<s id="1221:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.25&end=00.02.30">
+<s id="1221:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.25&end=00.02.30">
 Mr	NP	Mr-n
 Van	NP	Van-n
 Rompuy	NP	Rompuy-n
@@ -20836,7 +20836,7 @@ up	RP	up-x
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1221:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.30&end=00.02.32">
+<s id="1221:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.30&end=00.02.32">
 There	EX	there-x
 is	VBZ	be-v
 one	CD	one-m
@@ -20846,7 +20846,7 @@ can	MD	can-x
 do	VV	do-v
 .	SENT	.-x
 </s>
-<s id="1221:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.32&end=00.02.40">
+<s id="1221:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.32&end=00.02.40">
 You	PP	you-d
 should	MD	should-x
 bring	VV	bring-v
@@ -20867,7 +20867,7 @@ on	IN	on-i
 board	NN	board-n
 .	SENT	.-x
 </s>
-<s id="1221:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221&start=00.02.40&end=00.02.41">
+<s id="1221:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1221.mp4&start=00.02.40&end=00.02.41">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -20880,7 +20880,7 @@ you	PP	you-d
 <speaker name="Berès Pervenche" gender="F" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="231" duration="short" durations="93.0" speed="medium" speedwm="149.0" delivery="impromptu">
 <interpreter id="EN93" gender="M" native="Y">
-<s id="1222:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.07&end=00.00.24">
+<s id="1222:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.07&end=00.00.24">
 President	NN	president-n
 ,	,	,-x
 you	PP	you-d
@@ -20927,7 +20927,7 @@ wise	JJ	wise-j
 men	NNS	man-n
 ?	SENT	?-x
 </s>
-<s id="1222:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.25&end=00.00.36">
+<s id="1222:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.25&end=00.00.36">
 The	DT	the-x
 ehm	FPAUSE	ehm
 nature	NN	nature-n
@@ -20965,7 +20965,7 @@ wise	JJ	wise-j
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1222:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.36&end=00.00.45">
+<s id="1222:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.36&end=00.00.45">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -20997,7 +20997,7 @@ not	RB	not-a
 speculators	NNS	speculator-n
 .	SENT	.-x
 </s>
-<s id="1222:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.45&end=00.00.49">
+<s id="1222:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.45&end=00.00.49">
 For	IN	for-i
 that	DT	that-x
 ,	,	,-x
@@ -21016,7 +21016,7 @@ the	DT	the-x
 Treaty	NP	Treaty-n
 .	SENT	.-x
 </s>
-<s id="1222:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.50&end=00.00.58">
+<s id="1222:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.50&end=00.00.58">
 Our	PPZ	our-d
 conference	NN	conference-n
 of	IN	of-i
@@ -21043,7 +21043,7 @@ Euro	NP	Euro-n
 Group	NP	Group-n
 .	SENT	.-x
 </s>
-<s id="1222:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.00.58&end=00.01.09">
+<s id="1222:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.00.58&end=00.01.09">
 But	CC	but-c
 you	PP	you-d
 '	''	'-x
@@ -21073,7 +21073,7 @@ late	JJ	late-j
 '	''	'-x
 .	SENT	.-x
 </s>
-<s id="1222:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.01.10&end=00.01.30">
+<s id="1222:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.01.10&end=00.01.30">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -21128,7 +21128,7 @@ economic	JJ	economic-j
 policies	NNS	policy-n
 .	SENT	.-x
 </s>
-<s id="1222:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222&start=00.01.30&end=00.01.44">
+<s id="1222:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1222.wmv&start=00.01.30&end=00.01.44">
 We	PP	we-d
 do	VVP	do-v
 n	NN	n-n
@@ -21194,7 +21194,7 @@ markets	NNS	market-n
 <speaker name="Audy Jean Pierre" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="159" duration="short" durations="63.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="EN05" gender="F" native="Y">
-<s id="1223:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.08&end=00.00.12">
+<s id="1223:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.08&end=00.00.12">
 Well	RB	well-a
 thank	VV	thank-v
 you	PP	you-d
@@ -21210,7 +21210,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1223:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.12&end=00.00.14">
+<s id="1223:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.12&end=00.00.14">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -21226,7 +21226,7 @@ to	TO	to-x
 make	VV	make-v
 .	SENT	.-x
 </s>
-<s id="1223:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.14&end=00.00.21">
+<s id="1223:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.14&end=00.00.21">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -21245,7 +21245,7 @@ crisis	NN	crisis-n
 mechanism	NN	mechanism-n
 .	SENT	.-x
 </s>
-<s id="1223:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.22&end=00.00.31">
+<s id="1223:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.22&end=00.00.31">
 Note	NN	note-n
 that	IN/that	that-i
 there	EX	there-x
@@ -21281,7 +21281,7 @@ represent	VVP	represent-v
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1223:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.31&end=00.00.38">
+<s id="1223:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.31&end=00.00.38">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -21306,7 +21306,7 @@ this	DT	this-x
 mechanism	NN	mechanism-n
 .	SENT	.-x
 </s>
-<s id="1223:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.38&end=00.00.40">
+<s id="1223:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.38&end=00.00.40">
 This	DT	this-x
 has	VHZ	have-v
 not	RB	not-a
@@ -21318,7 +21318,7 @@ the	DT	the-x
 moment	NN	moment-n
 .	SENT	.-x
 </s>
-<s id="1223:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.40&end=00.00.42">
+<s id="1223:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.40&end=00.00.42">
 Can	MD	can-x
 I	PP	I-d
 draw	VV	draw-v
@@ -21329,7 +21329,7 @@ national	JJ	national-j
 parliaments	NNS	parliament-n
 ?	SENT	?-x
 </s>
-<s id="1223:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.42&end=00.00.50">
+<s id="1223:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.42&end=00.00.50">
 In	IN	in-i
 these	DT	these-x
 simplified	VVN	simplify-v
@@ -21352,7 +21352,7 @@ about	IN	about-i
 ratification	NN	ratification-n
 .	SENT	.-x
 </s>
-<s id="1223:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.00.50&end=00.01.01">
+<s id="1223:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.00.50&end=00.01.01">
 I	PP	I-d
 believe	VVP	believe-v
 on	IN	on-i
@@ -21392,7 +21392,7 @@ future	JJ	future-j
 mechanism	NN	mechanism-n
 .	SENT	.-x
 </s>
-<s id="1223:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.01.01&end=00.01.04">
+<s id="1223:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.01.01&end=00.01.04">
 Is	VBZ	be-v
 it	PP	it-d
 going	VVG	go-v
@@ -21407,7 +21407,7 @@ national	JJ	national-j
 parliaments	NNS	parliament-n
 ?	SENT	?-x
 </s>
-<s id="1223:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.01.04&end=00.01.14">
+<s id="1223:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.01.04&end=00.01.14">
 Since	IN	since-i
 there	EX	there-x
 is	VBZ	be-v
@@ -21447,7 +21447,7 @@ before	IN	before-i
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1223:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223&start=00.01.14&end=00.01.15">
+<s id="1223:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1223.wmv&start=00.01.14&end=00.01.15">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -21460,7 +21460,7 @@ you	PP	you-d
 <speaker name="Daul Joseph" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="medium" lengthw="754" duration="medium" durations="331.0" speed="medium" speedwm="136.7" delivery="mixed">
 <interpreter id="EN123" gender="F" native="Y">
-<s id="1224:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.00.09&end=00.00.40">
+<s id="1224:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.00.09&end=00.00.40">
 Thank	VV	thank-v
 you	PP	you-d
 Mr	NP	Mr-n
@@ -21546,7 +21546,7 @@ rising	VVG	rise-v
 astronomically	RB	astronomically-a
 .	SENT	.-x
 </s>
-<s id="1224:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.00.40&end=00.00.48">
+<s id="1224:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.00.40&end=00.00.48">
 And	CC	and-c
 I	PP	I-d
 have	VHP	have-v
@@ -21579,7 +21579,7 @@ these	DT	these-x
 challenges	NNS	challenge-n
 .	SENT	.-x
 </s>
-<s id="1224:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.00.48&end=00.01.01">
+<s id="1224:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.00.48&end=00.01.01">
 Mr	NP	Mr-n
 President	NP	President-n
 of	IN	of-i
@@ -21617,7 +21617,7 @@ and	CC	and-c
 democracy	NN	democracy-n
 .	SENT	.-x
 </s>
-<s id="1224:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.01.01&end=00.01.13">
+<s id="1224:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.01.01&end=00.01.13">
 Since	IN	since-i
 your	PPZ	your-d
 election	NN	election-n
@@ -21648,7 +21648,7 @@ majority	NN	majority-n
 democratically	RB	democratically-a
 .	SENT	.-x
 </s>
-<s id="1224:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.01.13&end=00.01.22">
+<s id="1224:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.01.13&end=00.01.22">
 Today	NN	today-n
 one	CD	one-m
 of	IN	of-i
@@ -21684,7 +21684,7 @@ the	DT	the-x
 Treaty	NP	Treaty-n
 .	SENT	.-x
 </s>
-<s id="1224:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.01.22&end=00.01.41">
+<s id="1224:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.01.22&end=00.01.41">
 And	CC	and-c
 you	PP	you-d
 yourself	PP	yourself-d
@@ -21738,7 +21738,7 @@ your	PPZ	your-d
 word	NN	word-n
 .	SENT	.-x
 </s>
-<s id="1224:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.01.41&end=00.01.55">
+<s id="1224:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.01.41&end=00.01.55">
 As	RB	as-a
 far	RB	far-a
 as	IN	as-i
@@ -21791,7 +21791,7 @@ European	JJ	European-j
 rules	NNS	rule-n
 .	SENT	.-x
 </s>
-<s id="1224:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.01.55&end=00.02.00">
+<s id="1224:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.01.55&end=00.02.00">
 Mr	NP	Mr-n
 Viktor	NP	Viktor-n
 Orbán	NP	Orbán-n
@@ -21816,7 +21816,7 @@ great	JJ	great-j
 European	NP	European-n
 .	SENT	.-x
 </s>
-<s id="1224:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.02.00&end=00.02.11">
+<s id="1224:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.02.00&end=00.02.11">
 As	RB	as-a
 far	RB	far-a
 as	IN	as-i
@@ -21855,7 +21855,7 @@ your	PPZ	your-d
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1224:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.02.11&end=00.02.16">
+<s id="1224:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.02.11&end=00.02.16">
 And	CC	and-c
 I	PP	I-d
 now	RB	now-a
@@ -21881,7 +21881,7 @@ the	DT	the-x
 euro	NN	euro-n
 .	SENT	.-x
 </s>
-<s id="1224:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.02.16&end=00.02.30">
+<s id="1224:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.02.16&end=00.02.30">
 It	PP	it-d
 is	VBZ	be-v
 perhaps	RB	perhaps-a
@@ -21933,7 +21933,7 @@ ehm	FPAUSE	ehm
 quickly	RB	quickly-a
 .	SENT	.-x
 </s>
-<s id="1224:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.02.30&end=00.02.37">
+<s id="1224:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.02.30&end=00.02.37">
 Both	DT	both-x
 Hungary	NP	Hungary-n
 and	CC	and-c
@@ -21954,7 +21954,7 @@ this	DT	this-x
 currency	NN	currency-n
 .	SENT	.-x
 </s>
-<s id="1224:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.02.37&end=00.03.01">
+<s id="1224:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.02.37&end=00.03.01">
 And	CC	and-c
 I	PP	I-d
 will	MD	will-x
@@ -22018,7 +22018,7 @@ new	JJ	new-j
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1224:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.03.02&end=00.03.08">
+<s id="1224:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.03.02&end=00.03.08">
 This	DT	this-x
 will	MD	will-x
 require	VV	require-v
@@ -22037,7 +22037,7 @@ greater	JJR	great-j
 productivity	NN	productivity-n
 .	SENT	.-x
 </s>
-<s id="1224:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.03.08&end=00.03.21">
+<s id="1224:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.03.08&end=00.03.21">
 As	IN	as-i
 the	DT	the-x
 Hungarian	NP	Hungarian-n
@@ -22069,7 +22069,7 @@ consistent	JJ	consistent-j
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1224:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.03.21&end=00.03.27">
+<s id="1224:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.03.21&end=00.03.27">
 And	CC	and-c
 it	PP	it-d
 does	VVZ	do-v
@@ -22090,7 +22090,7 @@ less	JJR	less-j
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1224:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.03.27&end=00.03.54">
+<s id="1224:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.03.27&end=00.03.54">
 President	NN	president-n
 of	IN	of-i
 the	DT	the-x
@@ -22172,7 +22172,7 @@ his	PPZ	his-d
 Presidency	NP	Presidency-n
 .	SENT	.-x
 </s>
-<s id="1224:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.03.54&end=00.04.04">
+<s id="1224:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.03.54&end=00.04.04">
 I	PP	I-d
 ehm	FPAUSE	ehm
 endorse	VV	endorse-v
@@ -22206,7 +22206,7 @@ few	JJ	few-j
 months	NNS	month-n
 .	SENT	.-x
 </s>
-<s id="1224:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.04.04&end=00.04.14">
+<s id="1224:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.04.04&end=00.04.14">
 We	PP	we-d
 have	VHP	have-v
 seen	VVN	see-v
@@ -22236,7 +22236,7 @@ poorer	JJR	poor-j
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1224:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.04.14&end=00.04.21">
+<s id="1224:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.04.14&end=00.04.21">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -22259,7 +22259,7 @@ in	IN	in-i
 speculation	NN	speculation-n
 .	SENT	.-x
 </s>
-<s id="1224:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.04.21&end=00.04.45">
+<s id="1224:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.04.21&end=00.04.45">
 I	PP	I-d
 also	RB	also-a
 wish	VVP	wish-v
@@ -22325,7 +22325,7 @@ its	PPZ	its-d
 change	NN	change-n
 .	SENT	.-x
 </s>
-<s id="1224:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.04.45&end=00.04.56">
+<s id="1224:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.04.45&end=00.04.56">
 Mr	NP	Mr-n
 President	NP	President-n
 of	IN	of-i
@@ -22369,7 +22369,7 @@ European	NP	European-n
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1224:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.04.56&end=00.05.09">
+<s id="1224:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.04.56&end=00.05.09">
 And	CC	and-c
 you	PP	you-d
 have	VHP	have-v
@@ -22409,7 +22409,7 @@ its	PPZ	its-d
 budget	NN	budget-n
 .	SENT	.-x
 </s>
-<s id="1224:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.05.09&end=00.05.27">
+<s id="1224:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.05.09&end=00.05.27">
 Thank	VV	thank-v
 you	PP	you-d
 in	IN	in-i
@@ -22462,7 +22462,7 @@ European	JJ	European-j
 affairs	NNS	affair-n
 .	SENT	.-x
 </s>
-<s id="1224:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.05.27&end=00.05.37">
+<s id="1224:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.05.27&end=00.05.37">
 And	CC	and-c
 these	DT	these-x
 are	VBP	be-v
@@ -22499,7 +22499,7 @@ defend	VVP	defend-v
 together	RB	together-a
 .	SENT	.-x
 </s>
-<s id="1224:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224&start=00.05.37&end=00.05.38">
+<s id="1224:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1224.mp4&start=00.05.37&end=00.05.38">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -22512,7 +22512,7 @@ you	PP	you-d
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="423" duration="medium" durations="258.0" speed="slow" speedwm="98.4" delivery="impromptu">
 <interpreter id="EN17" gender="M" native="Y">
-<s id="1225:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.00.13&end=00.00.24">
+<s id="1225:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.00.13&end=00.00.24">
 President	NN	president-n
 ,	,	,-x
 just	RB	just-a
@@ -22546,7 +22546,7 @@ love	VVP	love-v
 Hungary	NP	Hungary-n
 .	SENT	.-x
 </s>
-<s id="1225:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.00.24&end=00.00.28">
+<s id="1225:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.00.24&end=00.00.28">
 I	PP	I-d
 shed	VVD	shed-v
 tears	NNS	tear-n
@@ -22560,7 +22560,7 @@ World	NP	World-n
 Cup	NP	Cup-n
 .	SENT	.-x
 </s>
-<s id="1225:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.00.28&end=00.00.38">
+<s id="1225:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.00.28&end=00.00.38">
 My	PPZ	my-d
 first	JJ	first-j
 demo	NN	demo-n
@@ -22579,7 +22579,7 @@ in	IN	in-i
 Budapest	NP	Budapest-n
 .	SENT	.-x
 </s>
-<s id="1225:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.00.38&end=00.01.07">
+<s id="1225:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.00.38&end=00.01.07">
 As	IN	as-i
 Guy	NP	Guy-n
 Verhofstadt	NP	Verhofstadt-n
@@ -22651,7 +22651,7 @@ liberal	JJ	liberal-j
 party	NN	party-n
 .	SENT	.-x
 </s>
-<s id="1225:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.09&end=00.01.16">
+<s id="1225:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.09&end=00.01.16">
 Viktor	NP	Viktor-n
 Orbán	NP	Orbán-n
 is	VBZ	be-v
@@ -22667,7 +22667,7 @@ of	IN	of-i
 respect	NN	respect-n
 .	SENT	.-x
 </s>
-<s id="1225:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.16&end=00.01.31">
+<s id="1225:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.16&end=00.01.31">
 But	CC	but-c
 today	NN	today-n
 ,	,	,-x
@@ -22711,7 +22711,7 @@ of	IN	of-i
 democracy	NN	democracy-n
 .	SENT	.-x
 </s>
-<s id="1225:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.31&end=00.01.37">
+<s id="1225:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.31&end=00.01.37">
 And	CC	and-c
 one	CD	one-m
 thing	NN	thing-n
@@ -22729,7 +22729,7 @@ very	RB	very-a
 simple	JJ	simple-j
 .	SENT	.-x
 </s>
-<s id="1225:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.39&end=00.01.43">
+<s id="1225:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.39&end=00.01.43">
 There	EX	there-x
 is	VBZ	be-v
 no	DT	no-x
@@ -22737,7 +22737,7 @@ balanced	JJ	balanced-j
 education	NN	education-n
 .	SENT	.-x
 </s>
-<s id="1225:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.43&end=00.01.52">
+<s id="1225:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.43&end=00.01.52">
 Do	VV	do-v
 you	PP	you-d
 think	VV	think-v
@@ -22764,7 +22764,7 @@ in	IN	in-i
 it	PP	it-d
 ?	SENT	?-x
 </s>
-<s id="1225:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.52&end=00.01.54">
+<s id="1225:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.52&end=00.01.54">
 Or	CC	or-c
 Mr	NP	Mr-n
 Bush	NP	Bush-n
@@ -22773,7 +22773,7 @@ Abu	NP	Abu-n
 Ghraib	NP	Ghraib-n
 ?	SENT	?-x
 </s>
-<s id="1225:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.54&end=00.01.59">
+<s id="1225:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.54&end=00.01.59">
 Was	VBD	be-v
 that	DT	that-x
 ehm	FPAUSE	ehm
@@ -22785,7 +22785,7 @@ Abu	NP	Abu-n
 Ghraib	NP	Ghraib-n
 ?	SENT	?-x
 </s>
-<s id="1225:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.01.59&end=00.02.04">
+<s id="1225:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.01.59&end=00.02.04">
 Do	VV	do-v
 you	PP	you-d
 know	VV	know-v
@@ -22799,7 +22799,7 @@ in	IN	in-i
 France	NP	France-n
 ?	SENT	?-x
 </s>
-<s id="1225:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.05&end=00.02.08">
+<s id="1225:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.05&end=00.02.08">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -22811,7 +22811,7 @@ balanced	JJ	balanced-j
 information	NN	information-n
 !	SENT	!-x
 </s>
-<s id="1225:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.08&end=00.02.15">
+<s id="1225:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.08&end=00.02.15">
 Research	NN	research-n
 for	IN	for-i
 example	NN	example-n
@@ -22829,7 +22829,7 @@ that	WDT	that-x
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1225:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.15&end=00.02.21">
+<s id="1225:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.15&end=00.02.21">
 Do	VVP	do-v
 you	PP	you-d
 think	VVP	think-v
@@ -22852,11 +22852,11 @@ that	DT	that-x
 information	NN	information-n
 ?	SENT	?-x
 </s>
-<s id="1225:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.22&end=00.02.23">
+<s id="1225:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.22&end=00.02.23">
 No	UH	no-x
 !	SENT	!-x
 </s>
-<s id="1225:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.23&end=00.02.29">
+<s id="1225:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.23&end=00.02.29">
 I	PP	I-d
 think	VVP	think-v
 information	NN	information-n
@@ -22876,7 +22876,7 @@ the	DT	the-x
 point	NN	point-n
 .	SENT	.-x
 </s>
-<s id="1225:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.30&end=00.02.40">
+<s id="1225:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.30&end=00.02.40">
 And	CC	and-c
 that	WDT	that-x
 '	''	'-x
@@ -22904,7 +22904,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1225:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.40&end=00.02.43">
+<s id="1225:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.40&end=00.02.43">
 Mr	NP	Mr-n
 Orbán	NP	Orbán-n
 ,	,	,-x
@@ -22917,7 +22917,7 @@ strong	JJ	strong-j
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1225:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.44&end=00.02.48">
+<s id="1225:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.44&end=00.02.48">
 A	DT	a-x
 strong	JJ	strong-j
 Europe	NP	Europe-n
@@ -22933,7 +22933,7 @@ be	VB	be-v
 credible	JJ	credible-j
 .	SENT	.-x
 </s>
-<s id="1225:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.02.48&end=00.03.03">
+<s id="1225:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.02.48&end=00.03.03">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -22983,7 +22983,7 @@ ehm	FPAUSE	ehm
 China	NP	China-n
 ?	SENT	?-x
 </s>
-<s id="1225:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.03&end=00.03.19">
+<s id="1225:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.03&end=00.03.19">
 Everybody	NN	everybody-n
 says	VVZ	say-v
 they	PP	they-d
@@ -23026,7 +23026,7 @@ of	IN	of-i
 expression	NN	expression-n
 .	SENT	.-x
 </s>
-<s id="1225:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.19&end=00.03.32">
+<s id="1225:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.19&end=00.03.32">
 And	CC	and-c
 that	DT	that-x
 disturbs	VVZ	disturb-v
@@ -23052,7 +23052,7 @@ Mr	NP	Mr-n
 Orbán	NP	Orbán-n
 .	SENT	.-x
 </s>
-<s id="1225:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.33&end=00.03.35">
+<s id="1225:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.33&end=00.03.35">
 I	PP	I-d
 think	VVP	think-v
 you	PP	you-d
@@ -23063,7 +23063,7 @@ years	NNS	year-n
 ago	RB	ago-a
 .	SENT	.-x
 </s>
-<s id="1225:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.35&end=00.03.40">
+<s id="1225:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.35&end=00.03.40">
 Come	VV	come-v
 back	RB	back-a
 into	IN	into-i
@@ -23084,7 +23084,7 @@ had	VHD	have-v
 then	RB	then-a
 .	SENT	.-x
 </s>
-<s id="1225:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.40&end=00.03.43">
+<s id="1225:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.40&end=00.03.43">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -23109,7 +23109,7 @@ is	VBZ	be-v
 correct	JJ	correct-j
 .	SENT	.-x
 </s>
-<s id="1225:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.43&end=00.03.51">
+<s id="1225:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.43&end=00.03.51">
 One	CD	one-m
 last	JJ	last-j
 thing	NN	thing-n
@@ -23133,7 +23133,7 @@ with	IN	with-i
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1225:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.03.52&end=00.04.06">
+<s id="1225:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.03.52&end=00.04.06">
 But	CC	but-c
 it	PP	it-d
 was	VBD	be-v
@@ -23177,7 +23177,7 @@ a	DT	a-x
 dictatorship	NN	dictatorship-n
 .	SENT	.-x
 </s>
-<s id="1225:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.04.07&end=00.04.12">
+<s id="1225:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.04.07&end=00.04.12">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -23206,7 +23206,7 @@ s	NNS	s-n
 wrong	JJ	wrong-j
 .	SENT	.-x
 </s>
-<s id="1225:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.04.12&end=00.04.27">
+<s id="1225:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.04.12&end=00.04.27">
 For	IN	for-i
 the	DT	the-x
 Christians	NNS	Christian-n
@@ -23262,7 +23262,7 @@ it	PP	it-d
 is	VBZ	be-v
 .	SENT	.-x
 </s>
-<s id="1225:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.04.27&end=00.04.30">
+<s id="1225:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.04.27&end=00.04.30">
 That	DT	that-x
 is	VBZ	be-v
 our	PPZ	our-d
@@ -23274,7 +23274,7 @@ common	JJ	common-j
 staples	NNS	staple-n
 .	SENT	.-x
 </s>
-<s id="1225:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225&start=00.04.30&end=00.04.31">
+<s id="1225:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1225.wmv&start=00.04.30&end=00.04.31">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -23287,7 +23287,7 @@ you	PP	you-d
 <speaker name="De Sarnez Marielle" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="238" duration="short" durations="103.0" speed="medium" speedwm="138.6" delivery="read">
 <interpreter id="EN13" gender="M" native="Y">
-<s id="1226:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.10&end=00.00.18">
+<s id="1226:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.10&end=00.00.18">
 ehm	FPAUSE	ehm
 I	PP	I-d
 think	VVP	think-v
@@ -23315,7 +23315,7 @@ underpin	VVP	underpin-v
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1226:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.18&end=00.00.30">
+<s id="1226:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.18&end=00.00.30">
 And	CC	and-c
 the	DT	the-x
 1st	JJ	[number]-j
@@ -23350,7 +23350,7 @@ ehm	FPAUSE	ehm
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1226:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.30&end=00.00.36">
+<s id="1226:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.30&end=00.00.36">
 You	PP	you-d
 want	VVP	want-v
 to	TO	to-x
@@ -23374,7 +23374,7 @@ international	JJ	international-j
 conventions	NNS	convention-n
 .	SENT	.-x
 </s>
-<s id="1226:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.36&end=00.00.39">
+<s id="1226:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.36&end=00.00.39">
 The	DT	the-x
 2nd	JJ	[number]-j
 aspect	NN	aspect-n
@@ -23387,7 +23387,7 @@ and	CC	and-c
 freedom	NN	freedom-n
 .	SENT	.-x
 </s>
-<s id="1226:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.39&end=00.00.49">
+<s id="1226:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.39&end=00.00.49">
 Since	IN	since-i
 you	PP	you-d
 took	VVD	take-v
@@ -23417,7 +23417,7 @@ on	IN	on-i
 these	DT	these-x
 .	SENT	.-x
 </s>
-<s id="1226:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.00.49&end=00.01.11">
+<s id="1226:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.00.49&end=00.01.11">
 The	DT	the-x
 powers	NNS	power-n
 of	IN	of-i
@@ -23495,7 +23495,7 @@ shown	VVN	show-v
 recently	RB	recently-a
 .	SENT	.-x
 </s>
-<s id="1226:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.01.11&end=00.01.16">
+<s id="1226:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.01.11&end=00.01.16">
 You	PP	you-d
 explained	VVD	explain-v
 that	IN/that	that-i
@@ -23511,7 +23511,7 @@ States	NPS	States-n
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1226:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.01.16&end=00.01.34">
+<s id="1226:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.01.16&end=00.01.34">
 But	CC	but-c
 even	RB	even-a
 if	IN	if-i
@@ -23566,7 +23566,7 @@ moral	JJ	moral-j
 considerations	NNS	consideration-n
 ?	SENT	?-x
 </s>
-<s id="1226:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.01.34&end=00.01.49">
+<s id="1226:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.01.34&end=00.01.49">
 So	IN	so-i
 ehm	FPAUSE	ehm
 the	DT	the-x
@@ -23622,7 +23622,7 @@ from	IN	from-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1226:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226&start=00.01.49&end=00.01.50">
+<s id="1226:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1226.wmv&start=00.01.49&end=00.01.50">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -23635,7 +23635,7 @@ you	PP	you-d
 <speaker name="Audy Jean Pierre" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="199" duration="short" durations="93.0" speed="slow" speedwm="128.4" delivery="read">
 <interpreter id="EN17" gender="M" native="Y">
-<s id="1227:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.09&end=00.00.11">
+<s id="1227:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.09&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -23644,7 +23644,7 @@ Prime	NP	Prime-n
 Minister	NP	Minister-n
 .	SENT	.-x
 </s>
-<s id="1227:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.12&end=00.00.29">
+<s id="1227:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.12&end=00.00.29">
 Hungary	NP	Hungary-n
 is	VBZ	be-v
 a	DT	a-x
@@ -23703,7 +23703,7 @@ welcome	VVP	welcome-v
 her	PP	her-d
 .	SENT	.-x
 </s>
-<s id="1227:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.29&end=00.00.32">
+<s id="1227:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.29&end=00.00.32">
 Now	RB	now-a
 democracy	NN	democracy-n
 works	NNS	work-n
@@ -23715,11 +23715,11 @@ re	NN	re-n
 elected	VVD	elect-v
 .	SENT	.-x
 </s>
-<s id="1227:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.32&end=00.00.33">
+<s id="1227:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.32&end=00.00.33">
 Good	JJ	good-j
 !	SENT	!-x
 </s>
-<s id="1227:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.33&end=00.00.58">
+<s id="1227:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.33&end=00.00.58">
 Europe	NP	Europe-n
 works	VVZ	work-v
 .	SENT	.-x
@@ -23799,7 +23799,7 @@ good	JJ	good-j
 news	NN	news-n
 .	SENT	.-x
 </s>
-<s id="1227:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.00.58&end=00.01.10">
+<s id="1227:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.00.58&end=00.01.10">
 Now	RB	now-a
 politically	RB	politically-a
 you	PP	you-d
@@ -23835,7 +23835,7 @@ right	JJ	right-j
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1227:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.01.10&end=00.01.16">
+<s id="1227:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.01.10&end=00.01.16">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -23866,7 +23866,7 @@ minister	NN	minister-n
 then	RB	then-a
 .	SENT	.-x
 </s>
-<s id="1227:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.01.16&end=00.01.18">
+<s id="1227:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.01.16&end=00.01.18">
 Now	RB	now-a
 coming	VVG	come-v
 back	RB	back-a
@@ -23874,7 +23874,7 @@ to	IN	to-i
 Croatia	NP	Croatia-n
 .	SENT	.-x
 </s>
-<s id="1227:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.01.18&end=00.01.28">
+<s id="1227:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.01.18&end=00.01.28">
 You	PP	you-d
 want	VVP	want-v
 ehm	FPAUSE	ehm
@@ -23903,7 +23903,7 @@ about	IN	about-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1227:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227&start=00.01.28&end=00.01.41">
+<s id="1227:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1227.mp4&start=00.01.28&end=00.01.41">
 I	PP	I-d
 think	VVP	think-v
 you	PP	you-d
@@ -23954,7 +23954,7 @@ wall	NN	wall-n
 <speaker name="Cohn Bendit Daniel" gender="M" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="125" duration="short" durations="88.0" speed="slow" speedwm="85.2" delivery="impromptu">
 <interpreter id="EN30" gender="M" native="Y">
-<s id="1228:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.14&end=00.00.17">
+<s id="1228:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.14&end=00.00.17">
 Dear	JJ	dear-j
 colleagues	NNS	colleague-n
 ,	,	,-x
@@ -23962,7 +23962,7 @@ dear	JJ	dear-j
 colleagues	NNS	colleague-n
 .	SENT	.-x
 </s>
-<s id="1228:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.20&end=00.00.30">
+<s id="1228:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.20&end=00.00.30">
 There	EX	there-x
 are	VBP	be-v
 moments	NNS	moment-n
@@ -23992,7 +23992,7 @@ certain	JJ	certain-j
 line	NN	line-n
 .	SENT	.-x
 </s>
-<s id="1228:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.30&end=00.00.40">
+<s id="1228:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.30&end=00.00.40">
 Mr	NP	Mr-n
 Orbán	NP	Orbán-n
 <g/>
@@ -24016,7 +24016,7 @@ be	VB	be-v
 proud	JJ	proud-j
 .	SENT	.-x
 </s>
-<s id="1228:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.40&end=00.00.53">
+<s id="1228:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.40&end=00.00.53">
 But	CC	but-c
 democracy	NN	democracy-n
 says	VVZ	say-v
@@ -24046,7 +24046,7 @@ the	DT	the-x
 majority	NN	majority-n
 .	SENT	.-x
 </s>
-<s id="1228:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.53&end=00.00.58">
+<s id="1228:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.53&end=00.00.58">
 The	DT	the-x
 truth	NN	truth-n
 is	VBZ	be-v
@@ -24060,7 +24060,7 @@ the	DT	the-x
 majority	NN	majority-n
 .	SENT	.-x
 </s>
-<s id="1228:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.58&end=00.00.60">
+<s id="1228:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.58&end=00.00.60">
 When	WRB	when-x
 he	PP	he-d
 claims	VVZ	claim-v
@@ -24070,7 +24070,7 @@ Orbán	NP	Orbán-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1228:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.60&end=00.00.66">
+<s id="1228:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.60&end=00.00.66">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -24105,7 +24105,7 @@ national	JJ	national-j
 populism	NN	populism-n
 .	SENT	.-x
 </s>
-<s id="1228:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.66&end=00.00.72">
+<s id="1228:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.66&end=00.00.72">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -24129,7 +24129,7 @@ proper	JJ	proper-j
 debate	NN	debate-n
 .	SENT	.-x
 </s>
-<s id="1228:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.72&end=00.00.76">
+<s id="1228:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.72&end=00.00.76">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -24141,7 +24141,7 @@ each	DT	each-x
 other	JJ	other-j
 .	SENT	.-x
 </s>
-<s id="1228:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.76&end=00.00.80">
+<s id="1228:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.76&end=00.00.80">
 Mr	NP	Mr-n
 Orbán	NP	Orbán-n
 ,	,	,-x
@@ -24164,7 +24164,7 @@ appetite	NN	appetite-n
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1228:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228&start=00.00.80&end=00.00.83">
+<s id="1228:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1228.wmv&start=00.00.80&end=00.00.83">
 We	PP	we-d
 do	VVP	do-v
 n	NN	n-n
@@ -24189,7 +24189,7 @@ all	DT	all-x
 <speaker name="Le Grip Constance" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="150" duration="short" durations="66.0" speed="medium" speedwm="136.4" delivery="mixed">
 <interpreter id="EN105" gender="F" native="Y">
-<s id="1229:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.10&end=00.00.21">
+<s id="1229:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.10&end=00.00.21">
 I	PP	I-d
 also	RB	also-a
 wanted	VVD	want-v
@@ -24214,7 +24214,7 @@ Mrs	NN	Mrs-n
 Grossetête	NP	Grossetête-n
 .	SENT	.-x
 </s>
-<s id="1229:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.21&end=00.00.26">
+<s id="1229:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.21&end=00.00.26">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -24236,7 +24236,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1229:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.26&end=00.00.33">
+<s id="1229:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.26&end=00.00.33">
 For	IN	for-i
 in	IN	in-i
 many	JJ	many-j
@@ -24262,7 +24262,7 @@ European	NP	European-n
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1229:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.33&end=00.00.48">
+<s id="1229:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.33&end=00.00.48">
 And	CC	and-c
 now	RB	now-a
 this	DT	this-x
@@ -24302,7 +24302,7 @@ and	CC	and-c
 reimbursement	NN	reimbursement-n
 .	SENT	.-x
 </s>
-<s id="1229:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.48&end=00.00.59">
+<s id="1229:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.48&end=00.00.59">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -24337,7 +24337,7 @@ own	JJ	own-j
 condition	NN	condition-n
 .	SENT	.-x
 </s>
-<s id="1229:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.00.59&end=00.01.09">
+<s id="1229:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.00.59&end=00.01.09">
 This	DT	this-x
 directive	NN	directive-n
 is	VBZ	be-v
@@ -24359,7 +24359,7 @@ new	JJ	new-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1229:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229&start=00.01.09&end=00.01.15">
+<s id="1229:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1229.wmv&start=00.01.09&end=00.01.15">
 And	CC	and-c
 as	RB	as-a
 such	JJ	such-j
@@ -24386,7 +24386,7 @@ Union	NP	Union-n
 <speaker name="Kiil Nielsen Nicole" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="236" duration="medium" durations="125.0" speed="slow" speedwm="113.3" delivery="read">
 <interpreter id="EN07" gender="F" native="Y">
-<s id="1230:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.00.08&end=00.00.18">
+<s id="1230:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.00.08&end=00.00.18">
 Thank	VV	thank-v
 you	PP	you-d
 ehm	FPAUSE	ehm
@@ -24414,7 +24414,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1230:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.00.18&end=00.00.34">
+<s id="1230:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.00.18&end=00.00.34">
 The	DT	the-x
 Eastern	NP	Eastern-n
 ehm	FPAUSE	ehm
@@ -24454,7 +24454,7 @@ Israelis	NPS	Israelis-n
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1230:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.00.34&end=00.00.45">
+<s id="1230:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.00.34&end=00.00.45">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -24487,7 +24487,7 @@ without	IN	without-i
 discrimination	NN	discrimination-n
 .	SENT	.-x
 </s>
-<s id="1230:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.00.45&end=00.00.51">
+<s id="1230:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.00.45&end=00.00.51">
 Well	RB	well-a
 as	IN	as-i
 our	PPZ	our-d
@@ -24502,7 +24502,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1230:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.00.51&end=00.01.00">
+<s id="1230:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.00.51&end=00.01.00">
 We	PP	we-d
 must	MD	must-x
 also	RB	also-a
@@ -24528,7 +24528,7 @@ is	VBZ	be-v
 endangered	VVN	endanger-v
 .	SENT	.-x
 </s>
-<s id="1230:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.00&end=00.01.09">
+<s id="1230:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.00&end=00.01.09">
 There	EX	there-x
 is	VBZ	be-v
 a	DT	a-x
@@ -24550,7 +24550,7 @@ ehm	FPAUSE	ehm
 attitudes	NNS	attitude-n
 .	SENT	.-x
 </s>
-<s id="1230:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.09&end=00.01.24">
+<s id="1230:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.09&end=00.01.24">
 The	DT	the-x
 vote	NN	vote-n
 taken	VVN	take-v
@@ -24580,7 +24580,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1230:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.24&end=00.01.35">
+<s id="1230:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.24&end=00.01.35">
 The	DT	the-x
 for	IN	for-i
 asylum	NN	asylum-n
@@ -24606,7 +24606,7 @@ universal	JJ	universal-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1230:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.35&end=00.01.42">
+<s id="1230:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.35&end=00.01.42">
 Europe	NP	Europe-n
 has	VHZ	have-v
 to	TO	to-x
@@ -24623,7 +24623,7 @@ intercommunity	NN	intercommunity-n
 dialogue	NN	dialogue-n
 .	SENT	.-x
 </s>
-<s id="1230:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.42&end=00.01.51">
+<s id="1230:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.42&end=00.01.51">
 If	IN	if-i
 the	DT	the-x
 Christians	NNS	Christian-n
@@ -24645,7 +24645,7 @@ the	DT	the-x
 West	NP	West-n
 .	SENT	.-x
 </s>
-<s id="1230:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.51&end=00.01.59">
+<s id="1230:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.51&end=00.01.59">
 The	DT	the-x
 Muslims	NPS	Muslims-n
 of	IN	of-i
@@ -24663,7 +24663,7 @@ to	IN	to-i
 terrorism	NN	terrorism-n
 .	SENT	.-x
 </s>
-<s id="1230:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230&start=00.01.59&end=00.02.15">
+<s id="1230:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1230.mp4&start=00.01.59&end=00.02.15">
 So	RB	so-a
 allow	VV	allow-v
 me	PP	me-d
@@ -24713,7 +24713,7 @@ outcry	NN	outcry-n
 <speaker name="Gollnisch Bruno" gender="M" country="France" politfunc="MEP" politgroup="AENM">
 <st language="fr" length="short" lengthw="173" duration="short" durations="84.0" speed="slow" speedwm="123.6" delivery="read">
 <interpreter id="EN07" gender="F" native="Y">
-<s id="1231:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.10&end=00.00.18">
+<s id="1231:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.10&end=00.00.18">
 The	DT	the-x
 freedom	NN	freedom-n
 of	IN	of-i
@@ -24734,7 +24734,7 @@ ehm	FPAUSE	ehm
 constraints	NNS	constraint-n
 .	SENT	.-x
 </s>
-<s id="1231:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.18&end=00.00.20">
+<s id="1231:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.18&end=00.00.20">
 And	CC	and-c
 this	DT	this-x
 was	VBD	be-v
@@ -24744,7 +24744,7 @@ communist	JJ	communist-j
 regimes	NNS	regime-n
 .	SENT	.-x
 </s>
-<s id="1231:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.20&end=00.00.28">
+<s id="1231:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.20&end=00.00.28">
 I	PP	I-d
 think	VVP	think-v
 we	PP	we-d
@@ -24767,7 +24767,7 @@ Islamic	JJ	Islamic-j
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1231:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.28&end=00.00.34">
+<s id="1231:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.28&end=00.00.34">
 We	PP	we-d
 are	VBP	be-v
 condemning	VVG	condemn-v
@@ -24780,7 +24780,7 @@ by	IN	by-i
 fanatics	NNS	fanatic-n
 .	SENT	.-x
 </s>
-<s id="1231:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.34&end=00.00.44">
+<s id="1231:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.34&end=00.00.44">
 But	CC	but-c
 it	PP	it-d
 is	VBZ	be-v
@@ -24809,7 +24809,7 @@ second-class	JJ	second-class-j
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1231:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.00.44&end=00.01.07">
+<s id="1231:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.00.44&end=00.01.07">
 Conversions	NNS	conversion-n
 to	IN	to-i
 Christianity	NN	Christianity-n
@@ -24860,7 +24860,7 @@ and	CC	and-c
 condemned	VVN	condemn-v
 .	SENT	.-x
 </s>
-<s id="1231:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.01.07&end=00.01.19">
+<s id="1231:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.01.07&end=00.01.19">
 Even	RB	even-a
 blasphemy	NN	blasphemy-n
 ehm	FPAUSE	ehm
@@ -24892,7 +24892,7 @@ poor	JJ	poor-j
 woman	NN	woman-n
 .	SENT	.-x
 </s>
-<s id="1231:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.01.19&end=00.01.24">
+<s id="1231:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.01.19&end=00.01.24">
 We	PP	we-d
 ca	MD	can-x
 n	NN	n-n
@@ -24908,7 +24908,7 @@ with	IN	with-i
 words	NNS	word-n
 .	SENT	.-x
 </s>
-<s id="1231:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.01.24&end=00.01.33">
+<s id="1231:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.01.24&end=00.01.33">
 We	PP	we-d
 must	MD	must-x
 indicate	VV	indicate-v
@@ -24936,7 +24936,7 @@ of	IN	of-i
 belief	NN	belief-n
 .	SENT	.-x
 </s>
-<s id="1231:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231&start=00.01.33&end=00.01.34">
+<s id="1231:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1231.mp4&start=00.01.33&end=00.01.34">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -24949,13 +24949,13 @@ you	PP	you-d
 <speaker name="De Sarnez Marielle" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="187" duration="short" durations="81.0" speed="medium" speedwm="138.5" delivery="read">
 <interpreter id="EN93" gender="M" native="Y">
-<s id="1232:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.06&end=00.00.08">
+<s id="1232:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.06&end=00.00.08">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1232:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.08&end=00.00.16">
+<s id="1232:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.08&end=00.00.16">
 Fanaticism	NN	fanaticism-n
 ,	,	,-x
 which	WDT	which-x
@@ -24981,7 +24981,7 @@ all	DT	all-x
 democrats	NNS	democrat-n
 .	SENT	.-x
 </s>
-<s id="1232:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.16&end=00.00.23">
+<s id="1232:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.16&end=00.00.23">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -25012,7 +25012,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1232:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.24&end=00.00.43">
+<s id="1232:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.24&end=00.00.43">
 The	DT	the-x
 terrible	JJ	terrible-j
 attacks	NNS	attack-n
@@ -25059,7 +25059,7 @@ of	IN	of-i
 civilizations	NNS	civilization-n
 .	SENT	.-x
 </s>
-<s id="1232:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.43&end=00.00.56">
+<s id="1232:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.43&end=00.00.56">
 This	DT	this-x
 attempt	NN	attempt-n
 ehm	FPAUSE	ehm
@@ -25079,7 +25079,7 @@ to	IN	to-i
 condemm	NP	condemm-n
 .	SENT	.-x
 </s>
-<s id="1232:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.00.56&end=00.01.06">
+<s id="1232:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.00.56&end=00.01.06">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -25111,7 +25111,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1232:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.01.06&end=00.01.15">
+<s id="1232:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.01.06&end=00.01.15">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -25133,7 +25133,7 @@ the	DT	the-x
 world	NN	world-n
 .	SENT	.-x
 </s>
-<s id="1232:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.01.15&end=00.01.16">
+<s id="1232:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.01.15&end=00.01.16">
 And	CC	and-c
 that	WDT	that-x
 '	''	'-x
@@ -25142,7 +25142,7 @@ s	NN	S-n
 why	WRB	why-x
 .	SENT	.-x
 </s>
-<s id="1232:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.01.17&end=00.01.32">
+<s id="1232:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.01.17&end=00.01.32">
 It	PP	it-d
 is	VBZ	be-v
 my	PPZ	my-d
@@ -25176,7 +25176,7 @@ lay	JJ	lay-j
 approach	NN	approach-n
 .	SENT	.-x
 </s>
-<s id="1232:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232&start=00.01.32&end=00.01.32">
+<s id="1232:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1232.wmv&start=00.01.32&end=00.01.32">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -25189,14 +25189,14 @@ you	PP	you-d
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="204" duration="short" durations="89.0" speed="medium" speedwm="137.5" delivery="read">
 <interpreter id="EN117" gender="F" native="Y">
-<s id="1233:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.11&end=00.00.14">
+<s id="1233:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.11&end=00.00.14">
 Thank	VV	thank-v
 you	PP	you-d
 Mr	NP	Mr-n
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1233:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.14&end=00.00.20">
+<s id="1233:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.14&end=00.00.20">
 The	DT	the-x
 <g/>
 ...	EPAUSE	...-x
@@ -25217,7 +25217,7 @@ as	IN	as-i
 today	NN	today-n
 .	SENT	.-x
 </s>
-<s id="1233:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.20&end=00.00.34">
+<s id="1233:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.20&end=00.00.34">
 Of	IN	of-i
 course	NN	course-n
 we	PP	we-d
@@ -25256,7 +25256,7 @@ to	IN	to-i
 secularism	NN	secularism-n
 .	SENT	.-x
 </s>
-<s id="1233:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.34&end=00.00.37">
+<s id="1233:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.34&end=00.00.37">
 We	PP	we-d
 ,	,	,-x
 therefore	RB	therefore-a
@@ -25266,7 +25266,7 @@ condemn	VV	condemn-v
 blasphemy	NN	blasphemy-n
 .	SENT	.-x
 </s>
-<s id="1233:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.37&end=00.00.53">
+<s id="1233:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.37&end=00.00.53">
 We	PP	we-d
 are	VBP	be-v
 particularly	RB	particularly-a
@@ -25318,7 +25318,7 @@ religion	NN	religion-n
 concerned	VVN	concern-v
 .	SENT	.-x
 </s>
-<s id="1233:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.00.53&end=00.01.09">
+<s id="1233:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.00.53&end=00.01.09">
 This	DT	this-x
 means	VVZ	mean-v
 that	IN/that	that-i
@@ -25360,7 +25360,7 @@ discome-	DYSF	discome-
 discrets	NNS	discret-n
 .	SENT	.-x
 </s>
-<s id="1233:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.01.09&end=00.01.12">
+<s id="1233:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.01.09&end=00.01.12">
 We	PP	we-d
 consider	VVP	consider-v
 this	DT	this-x
@@ -25375,7 +25375,7 @@ right	JJ	right-j
 direction	NN	direction-n
 .	SENT	.-x
 </s>
-<s id="1233:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.01.12&end=00.01.18">
+<s id="1233:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.01.12&end=00.01.18">
 It	PP	it-d
 lacks	VVZ	lack-v
 balance	NN	balance-n
@@ -25393,7 +25393,7 @@ has	VHZ	have-v
 tabled	VVN	table-v
 .	SENT	.-x
 </s>
-<s id="1233:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233&start=00.01.18&end=00.01.29">
+<s id="1233:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1233.wmv&start=00.01.18&end=00.01.29">
 As	RB	as-a
 far	RB	far-a
 as	IN	as-i
@@ -25427,7 +25427,7 @@ Christians	NPS	Christian-n
 <speaker name="Ries Frédérique" gender="F" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="264" duration="short" durations="94.0" speed="high" speedwm="168.5" delivery="mixed">
 <interpreter id="EN124" gender="F" native="Y">
-<s id="1234:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.00.07&end=00.00.11">
+<s id="1234:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.00.07&end=00.00.11">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -25436,7 +25436,7 @@ High	NP	High-n
 Representative	NP	Representative-n
 .	SENT	.-x
 </s>
-<s id="1234:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.00.11&end=00.00.35">
+<s id="1234:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.00.11&end=00.00.35">
 The	DT	the-x
 barbaric	JJ	barbaric-j
 attempt	NN	attempt-n
@@ -25509,7 +25509,7 @@ the	DT	the-x
 victims	NNS	victim-n
 .	SENT	.-x
 </s>
-<s id="1234:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.00.35&end=00.00.55">
+<s id="1234:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.00.35&end=00.00.55">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -25562,7 +25562,7 @@ a	DT	a-x
 suitcase	NN	suitcase-n
 .	SENT	.-x
 </s>
-<s id="1234:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.00.55&end=00.01.01">
+<s id="1234:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.00.55&end=00.01.01">
 This	DT	this-x
 must	MD	must-x
 not	RB	not-a
@@ -25579,7 +25579,7 @@ to	IN	to-i
 another	DT	another-x
 .	SENT	.-x
 </s>
-<s id="1234:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.01.01&end=00.01.08">
+<s id="1234:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.01.01&end=00.01.08">
 But	CC	but-c
 ehm	FPAUSE	ehm
 simply	RB	simply-a
@@ -25597,7 +25597,7 @@ kills	VVZ	kill-v
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1234:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.01.08&end=00.01.34">
+<s id="1234:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.01.08&end=00.01.34">
 We	PP	we-d
 expect	VVP	expect-v
 from	IN	from-i
@@ -25688,7 +25688,7 @@ are	VBP	be-v
 responsible	JJ	responsible-j
 .	SENT	.-x
 </s>
-<s id="1234:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.01.34&end=00.01.36">
+<s id="1234:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.01.34&end=00.01.36">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -25700,7 +25700,7 @@ our	PPZ	our-d
 resolution	NN	resolution-n
 .	SENT	.-x
 </s>
-<s id="1234:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.01.36&end=00.01.44">
+<s id="1234:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.01.36&end=00.01.44">
 The	DT	the-x
 freedom	NN	freedom-n
 of	IN	of-i
@@ -25729,7 +25729,7 @@ to	TO	to-x
 believe	VV	believe-v
 .	SENT	.-x
 </s>
-<s id="1234:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234&start=00.01.45&end=00.01.54">
+<s id="1234:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1234.mp4&start=00.01.45&end=00.01.54">
 And	CC	and-c
 ehm	FPAUSE	ehm
 if	IN	if-i
@@ -25761,7 +25761,7 @@ danger	NN	danger-n
 <speaker name="Danjean Arnaud" gender="M" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="364" duration="medium" durations="166.0" speed="medium" speedwm="131.6" delivery="read">
 <interpreter id="EN121" gender="F" native="Y">
-<s id="1235:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.00.13&end=00.00.15">
+<s id="1235:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.00.13&end=00.00.15">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -25770,7 +25770,7 @@ High	NP	High-n
 Representative	NP	Representative-n
 .	SENT	.-x
 </s>
-<s id="1235:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.00.15&end=00.00.39">
+<s id="1235:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.00.15&end=00.00.39">
 The	DT	the-x
 subject	NN	subject-n
 that	IN/that	that-i
@@ -25844,7 +25844,7 @@ weeks	NNS	week-n
 ago	RB	ago-a
 .	SENT	.-x
 </s>
-<s id="1235:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.00.39&end=00.00.46">
+<s id="1235:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.00.39&end=00.00.46">
 Apart	RB	apart-a
 from	IN	from-i
 the	DT	the-x
@@ -25861,7 +25861,7 @@ the	DT	the-x
 threats	NNS	threat-n
 .	SENT	.-x
 </s>
-<s id="1235:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.00.46&end=00.00.50">
+<s id="1235:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.00.46&end=00.00.50">
 The	DT	the-x
 threats	NNS	threat-n
 that	WDT	that-x
@@ -25881,7 +25881,7 @@ of	IN	of-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1235:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.00.50&end=00.01.15">
+<s id="1235:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.00.50&end=00.01.15">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -25946,7 +25946,7 @@ no	DT	no-x
 illusion	NN	illusion-n
 .	SENT	.-x
 </s>
-<s id="1235:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.01.15&end=00.01.25">
+<s id="1235:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.01.15&end=00.01.25">
 Just	RB	just-a
 as	IN	as-i
 the	DT	the-x
@@ -25974,7 +25974,7 @@ European	JJ	European-j
 continent	NN	continent-n
 .	SENT	.-x
 </s>
-<s id="1235:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.01.26&end=00.01.41">
+<s id="1235:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.01.26&end=00.01.41">
 So	RB	so-a
 faced	VVN	face-v
 with	IN	with-i
@@ -26015,7 +26015,7 @@ vital	JJ	vital-j
 important	JJ	important-j
 .	SENT	.-x
 </s>
-<s id="1235:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.01.41&end=00.02.02">
+<s id="1235:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.01.41&end=00.02.02">
 Actions	NNS	action-n
 already	RB	already-a
 exist	VVP	exist-v
@@ -26064,7 +26064,7 @@ cooperation	NN	cooperation-n
 policies	NNS	policy-n
 .	SENT	.-x
 </s>
-<s id="1235:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.02.02&end=00.02.04">
+<s id="1235:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.02.02&end=00.02.04">
 But	CC	but-c
 today	NN	today-n
 we	PP	we-d
@@ -26076,7 +26076,7 @@ much	RB	much-a
 further	RBR	further-a
 .	SENT	.-x
 </s>
-<s id="1235:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.02.04&end=00.02.51">
+<s id="1235:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.02.04&end=00.02.51">
 Above	IN	above-i
 all	DT	all-x
 ,	,	,-x
@@ -26212,7 +26212,7 @@ head	VV	head-v
 today	NN	today-n
 .	SENT	.-x
 </s>
-<s id="1235:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235&start=00.02.51&end=00.02.56">
+<s id="1235:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1235.mp4&start=00.02.51&end=00.02.56">
 High	NP	High-n
 Representative	NP	Representative-n
 ,	,	,-x
@@ -26239,13 +26239,13 @@ implement	VV	implement-v
 <speaker name="Goerens Charles" gender="M" country="Luxembourg" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="213" duration="short" durations="103.0" speed="slow" speedwm="124.1" delivery="read">
 <interpreter id="EN94" gender="M" native="Y">
-<s id="1236:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.08&end=00.00.10">
+<s id="1236:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.08&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1236:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.12&end=00.00.19">
+<s id="1236:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.12&end=00.00.19">
 The	DT	the-x
 incidents	NNS	incident-n
 mentioned	VVN	mention-v
@@ -26265,7 +26265,7 @@ Sahel	NP	Sahel-n
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1236:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.20&end=00.00.35">
+<s id="1236:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.20&end=00.00.35">
 The	DT	the-x
 <g/>
 ...	EPAUSE	...-x
@@ -26296,7 +26296,7 @@ been	VBN	be-v
 affected	VVN	affect-v
 .	SENT	.-x
 </s>
-<s id="1236:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.35&end=00.00.50">
+<s id="1236:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.35&end=00.00.50">
 Also	RB	also-a
 ehm	FPAUSE	ehm
 there	EX	there-x
@@ -26327,14 +26327,14 @@ European	JJ	European-j
 aspiration	NN	aspiration-n
 .	SENT	.-x
 </s>
-<s id="1236:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.50&end=00.00.52">
+<s id="1236:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.50&end=00.00.52">
 Let's	NPZ	Let-n
 not	RB	not-a
 forget	VV	forget-v
 that	DT	that-x
 .	SENT	.-x
 </s>
-<s id="1236:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.52&end=00.00.54">
+<s id="1236:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.52&end=00.00.54">
 The	DT	the-x
 questions	NNS	question-n
 raised	VVN	raise-v
@@ -26346,7 +26346,7 @@ very	RB	very-a
 pertinent	JJ	pertinent-j
 .	SENT	.-x
 </s>
-<s id="1236:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.00.54&end=00.01.04">
+<s id="1236:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.00.54&end=00.01.04">
 If	IN	if-i
 we	PP	we-d
 want	VVP	want-v
@@ -26377,7 +26377,7 @@ Sahel	NP	Sahel-n
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1236:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.01.07&end=00.01.28">
+<s id="1236:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.01.07&end=00.01.28">
 Secondly	RB	secondly-a
 <g/>
 ...	EPAUSE	...-x
@@ -26427,7 +26427,7 @@ of	IN	of-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1236:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.01.30&end=00.01.34">
+<s id="1236:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.01.30&end=00.01.34">
 And	CC	and-c
 ehm	FPAUSE	ehm
 thank	VVP	thank-v
@@ -26441,7 +26441,7 @@ EU	NP	EU-n
 strategy	NN	strategy-n
 .	SENT	.-x
 </s>
-<s id="1236:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236&start=00.01.35&end=00.01.54">
+<s id="1236:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1236.mp4&start=00.01.35&end=00.01.54">
 And	CC	and-c
 fourthly	RB	fourthly-a
 we	PP	we-d
@@ -26504,7 +26504,7 @@ well	RB	well-a
 <speaker name="Gabriel Mariya" gender="F" country="Bulgaria" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="226" duration="short" durations="94.0" speed="medium" speedwm="144.3" delivery="read">
 <interpreter id="EN94" gender="M" native="Y">
-<s id="1237:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.13&end=00.00.19">
+<s id="1237:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.13&end=00.00.19">
 ehm	FPAUSE	ehm
 The	DT	the-x
 insecurity	NN	insecurity-n
@@ -26517,7 +26517,7 @@ the	DT	the-x
 area	NN	area-n
 .	SENT	.-x
 </s>
-<s id="1237:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.19&end=00.00.34">
+<s id="1237:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.19&end=00.00.34">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -26557,7 +26557,7 @@ recommendations	NNS	recommendation-n
 made	VVD	make-v
 .	SENT	.-x
 </s>
-<s id="1237:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.34&end=00.00.36">
+<s id="1237:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.34&end=00.00.36">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -26568,7 +26568,7 @@ common	JJ	common-j
 approach	NN	approach-n
 .	SENT	.-x
 </s>
-<s id="1237:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.36&end=00.00.39">
+<s id="1237:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.36&end=00.00.39">
 The	DT	the-x
 EU	NP	EU-n
 <g/>
@@ -26579,7 +26579,7 @@ to	TO	to-x
 act	VV	act-v
 .	SENT	.-x
 </s>
-<s id="1237:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.39&end=00.00.45">
+<s id="1237:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.39&end=00.00.45">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -26602,7 +26602,7 @@ the	DT	the-x
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1237:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.00.46&end=00.01.00">
+<s id="1237:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.00.46&end=00.01.00">
 Amongst	IN	amongst-i
 the	DT	the-x
 ehm	FPAUSE	ehm
@@ -26634,7 +26634,7 @@ the	DT	the-x
 problem	NN	problem-n
 .	SENT	.-x
 </s>
-<s id="1237:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.00&end=00.01.05">
+<s id="1237:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.00&end=00.01.05">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -26652,7 +26652,7 @@ political	JJ	political-j
 will	NN	will-n
 .	SENT	.-x
 </s>
-<s id="1237:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.05&end=00.01.06">
+<s id="1237:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.05&end=00.01.06">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -26660,7 +26660,7 @@ s	NNS	s-n
 essential	JJ	essential-j
 .	SENT	.-x
 </s>
-<s id="1237:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.06&end=00.01.09">
+<s id="1237:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.06&end=00.01.09">
 The	DT	the-x
 first	JJ	first-j
 ehm	FPAUSE	ehm
@@ -26669,7 +26669,7 @@ is	VBZ	be-v
 urgent	JJ	urgent-j
 .	SENT	.-x
 </s>
-<s id="1237:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.09&end=00.01.18">
+<s id="1237:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.09&end=00.01.18">
 We	PP	we-d
 need	VVP	need-v
 to	IN	to-i
@@ -26694,7 +26694,7 @@ coordinate	VV	coordinate-v
 actions	NNS	action-n
 .	SENT	.-x
 </s>
-<s id="1237:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.18&end=00.01.31">
+<s id="1237:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.18&end=00.01.31">
 The	DT	the-x
 second	JJ	second-j
 step	NN	step-n
@@ -26732,7 +26732,7 @@ the	DT	the-x
 regions	NNS	region-n
 .	SENT	.-x
 </s>
-<s id="1237:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237&start=00.01.32&end=00.01.44">
+<s id="1237:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1237.mp4&start=00.01.32&end=00.01.44">
 The	DT	the-x
 ehm	FPAUSE	ehm
 EU	NP	EU-n
@@ -26776,7 +26776,7 @@ situation	NN	situation-n
 <speaker name="Vlasto Dominique" gender="F" country="France" politfunc="MEP" politgroup="PPE">
 <st language="fr" length="short" lengthw="157" duration="short" durations="63.0" speed="medium" speedwm="149.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1238:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.09&end=00.00.13">
+<s id="1238:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.09&end=00.00.13">
 President	NP	President-n
 ,	,	,-x
 ehm	FPAUSE	ehm
@@ -26786,7 +26786,7 @@ High	NP	High-n
 Representative	NP	Representative-n
 .	SENT	.-x
 </s>
-<s id="1238:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.13&end=00.00.21">
+<s id="1238:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.13&end=00.00.21">
 We	PP	we-d
 all	RB	all-a
 <g/>
@@ -26807,7 +26807,7 @@ gotten	VVN	get-v
 worse	RBR	worse-a
 .	SENT	.-x
 </s>
-<s id="1238:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.21&end=00.00.28">
+<s id="1238:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.21&end=00.00.28">
 There	EX	there-x
 are	VBP	be-v
 parts	NNS	part-n
@@ -26833,7 +26833,7 @@ of	IN	of-i
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1238:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.28&end=00.00.32">
+<s id="1238:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.28&end=00.00.32">
 And	CC	and-c
 this	DT	this-x
 is	VBZ	be-v
@@ -26851,7 +26851,7 @@ of	IN	of-i
 civilians	NNS	civilian-n
 .	SENT	.-x
 </s>
-<s id="1238:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.32&end=00.00.58">
+<s id="1238:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.32&end=00.00.58">
 And	CC	and-c
 I	PP	I-d
 would	MD	would-x
@@ -26923,7 +26923,7 @@ to	IN	to-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1238:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.00.58&end=00.01.04">
+<s id="1238:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.00.58&end=00.01.04">
 We	PP	we-d
 need	VVP	need-v
 to	IN	to-i
@@ -26943,7 +26943,7 @@ neighbouring	VVG	neighbour-v
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1238:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.01.04&end=00.01.05">
+<s id="1238:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.01.04&end=00.01.05">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -26953,7 +26953,7 @@ to	TO	to-x
 act	VV	act-v
 .	SENT	.-x
 </s>
-<s id="1238:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.01.05&end=00.01.12">
+<s id="1238:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.01.05&end=00.01.12">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -26980,7 +26980,7 @@ Sahel	NP	Sahel-n
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1238:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238&start=00.01.12&end=00.01.13">
+<s id="1238:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1238.mp4&start=00.01.12&end=00.01.13">
 Thank	VV	thank-v
 you	PP	you-d
 .	SENT	.-x
@@ -26993,7 +26993,7 @@ you	PP	you-d
 <speaker name="Pargneaux Gilles" gender="M" country="France" politfunc="MEP" politgroup="S&D">
 <st language="fr" length="short" lengthw="130" duration="short" durations="69.0" speed="slow" speedwm="113.0" delivery="impromptu">
 <interpreter id="EN119" gender="F" native="Y">
-<s id="1239:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.00.09&end=00.00.12">
+<s id="1239:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.00.09&end=00.00.12">
 Mr	NP	Mr-n
 President	NP	President-n
 and	CC	and-c
@@ -27003,7 +27003,7 @@ High	NP	High-n
 Representative	NP	Representative-n
 .	SENT	.-x
 </s>
-<s id="1239:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.00.14&end=00.00.40">
+<s id="1239:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.00.14&end=00.00.40">
 After	IN	after-i
 Mr	NP	Mr-n
 Danjean	NP	Danjean-n
@@ -27063,7 +27063,7 @@ our	PPZ	our-d
 debate	NN	debate-n
 .	SENT	.-x
 </s>
-<s id="1239:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.00.40&end=00.00.44">
+<s id="1239:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.00.40&end=00.00.44">
 But	CC	but-c
 Mrs-	DYSF	Mrs-
 Lady	NP	Lady-n
@@ -27078,7 +27078,7 @@ to	IN	to-i
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1239:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.00.44&end=00.00.50">
+<s id="1239:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.00.44&end=00.00.50">
 We	PP	we-d
 are	VBP	be-v
 aware	JJ	aware-j
@@ -27094,7 +27094,7 @@ this	DT	this-x
 area	NN	area-n
 .	SENT	.-x
 </s>
-<s id="1239:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.00.50&end=00.01.01">
+<s id="1239:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.00.50&end=00.01.01">
 And	CC	and-c
 a-	DYSF	a-
 apart	RB	apart-a
@@ -27119,7 +27119,7 @@ Sahel	NP	Sahel-n
 itself	PP	itself-d
 .	SENT	.-x
 </s>
-<s id="1239:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.01.01&end=00.01.13">
+<s id="1239:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.01.01&end=00.01.13">
 Can	MD	can-x
 you	PP	you-d
 tell	VV	tell-v
@@ -27149,7 +27149,7 @@ U-	DYSF	U-
 UN	NP	UN-n
 .	SENT	.-x
 </s>
-<s id="1239:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239&start=00.01.13&end=00.01.18">
+<s id="1239:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1239.wmv&start=00.01.13&end=00.01.18">
 Do	VV	do-v
 you	PP	you-d
 think	VVP	think-v
@@ -27176,7 +27176,7 @@ authorities	NNS	authority-n
 <speaker name="Flautre Hélène" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="237" duration="short" durations="96.0" speed="medium" speedwm="148.1" delivery="mixed">
 <interpreter id="EN30" gender="M" native="Y">
-<s id="1240:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.00.09&end=00.00.20">
+<s id="1240:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.00.09&end=00.00.20">
 Yes	UH	yes-x
 ,	,	,-x
 I	PP	I-d
@@ -27221,7 +27221,7 @@ outrageous	JJ	outrageous-j
 really	RB	really-a
 .	SENT	.-x
 </s>
-<s id="1240:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.00.20&end=00.00.26">
+<s id="1240:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.00.20&end=00.00.26">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -27249,7 +27249,7 @@ here	RB	here-a
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1240:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.00.28&end=00.00.39">
+<s id="1240:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.00.28&end=00.00.39">
 You	PP	you-d
 ca	MD	can-x
 n	NN	n-n
@@ -27296,7 +27296,7 @@ as	IN	as-i
 well	RB	well-a
 .	SENT	.-x
 </s>
-<s id="1240:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.00.39&end=00.00.42">
+<s id="1240:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.00.39&end=00.00.42">
 Because	IN	because-i
 this	DT	this-x
 is	VBZ	be-v
@@ -27310,7 +27310,7 @@ fundamental	JJ	fundamental-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1240:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.00.42&end=00.01.00">
+<s id="1240:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.00.42&end=00.01.00">
 And	CC	and-c
 migrants	NNS	migrant-n
 who	WP	who-x
@@ -27383,7 +27383,7 @@ so	RB	so-a
 on	IN	on-i
 .	SENT	.-x
 </s>
-<s id="1240:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.00&end=00.01.01">
+<s id="1240:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.00&end=00.01.01">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -27393,7 +27393,7 @@ been	VBN	be-v
 said	VVN	say-v
 .	SENT	.-x
 </s>
-<s id="1240:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.01&end=00.01.07">
+<s id="1240:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.01&end=00.01.07">
 There	EX	there-x
 is	VBZ	be-v
 a	DT	a-x
@@ -27413,7 +27413,7 @@ in	IN	in-i
 Libya	NP	Libya-n
 .	SENT	.-x
 </s>
-<s id="1240:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.07&end=00.01.15">
+<s id="1240:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.07&end=00.01.15">
 Now	RB	now-a
 ,	,	,-x
 yes	UH	yes-x
@@ -27444,7 +27444,7 @@ is	VBZ	be-v
 urgent	JJ	urgent-j
 .	SENT	.-x
 </s>
-<s id="1240:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.15&end=00.01.23">
+<s id="1240:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.15&end=00.01.23">
 It	PP	it-d
 goes	VVZ	go-v
 through	IN	through-i
@@ -27463,7 +27463,7 @@ human	JJ	human-j
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1240:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.23&end=00.01.30">
+<s id="1240:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.23&end=00.01.30">
 But	CC	but-c
 we	PP	we-d
 '	''	'-x
@@ -27495,7 +27495,7 @@ the	DT	the-x
 moment	NN	moment-n
 .	SENT	.-x
 </s>
-<s id="1240:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.30&end=00.01.32">
+<s id="1240:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.30&end=00.01.32">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -27511,7 +27511,7 @@ way	NN	way-n
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1240:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240&start=00.01.32&end=00.01.46">
+<s id="1240:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1240.mp4&start=00.01.32&end=00.01.46">
 Sending	VVG	send-v
 people	NNS	people-n
 back	RB	back-a
@@ -27572,7 +27572,7 @@ you	PP	you-d
 <speaker name="Guillaume Sylvie" gender="F" country="France" politfunc="MEP" politgroup="SD">
 <st language="fr" length="medium" lengthw="442" duration="medium" durations="176.0" speed="medium" speedwm="150.7" delivery="read">
 <interpreter id="EN30" gender="M" native="Y">
-<s id="1241:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.08&end=00.00.09">
+<s id="1241:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.08&end=00.00.09">
 Thank	VV	thank-v
 you	PP	you-d
 very	RB	very-a
@@ -27580,11 +27580,11 @@ much	JJ	much-j
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1241:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.09&end=00.00.10">
+<s id="1241:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.09&end=00.00.10">
 President	NN	president-n
 .	SENT	.-x
 </s>
-<s id="1241:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.10&end=00.00.24">
+<s id="1241:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.10&end=00.00.24">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -27635,7 +27635,7 @@ current	JJ	current-j
 procedures	NNS	procedure-n
 .	SENT	.-x
 </s>
-<s id="1241:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.24&end=00.00.27">
+<s id="1241:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.24&end=00.00.27">
 We	PP	we-d
 '	''	'-x
 <g/>
@@ -27654,7 +27654,7 @@ common	JJ	common-j
 rules	NNS	rule-n
 .	SENT	.-x
 </s>
-<s id="1241:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.28&end=00.00.34">
+<s id="1241:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.28&end=00.00.34">
 And	CC	and-c
 I	PP	I-d
 think	VVP	think-v
@@ -27679,7 +27679,7 @@ have	VHP	have-v
 today	NN	today-n
 .	SENT	.-x
 </s>
-<s id="1241:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.34&end=00.00.44">
+<s id="1241:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.34&end=00.00.44">
 I	PP	I-d
 also	RB	also-a
 want	VVP	want-v
@@ -27716,7 +27716,7 @@ complicated	JJ	complicated-j
 enterprise	NN	enterprise-n
 .	SENT	.-x
 </s>
-<s id="1241:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.44&end=00.00.58">
+<s id="1241:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.44&end=00.00.58">
 Look	VV	look-v
 for	IN	for-i
 example	NN	example-n
@@ -27763,7 +27763,7 @@ that	DT	that-x
 front	NN	front-n
 .	SENT	.-x
 </s>
-<s id="1241:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.00.58&end=00.01.07">
+<s id="1241:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.00.58&end=00.01.07">
 What	WP	what-x
 about	IN	about-i
 more	JJR	more-j
@@ -27788,7 +27788,7 @@ Member	NP	Member-n
 States	NPS	States-n
 ?	SENT	?-x
 </s>
-<s id="1241:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.07&end=00.01.18">
+<s id="1241:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.07&end=00.01.18">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -27838,7 +27838,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1241:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.18&end=00.01.30">
+<s id="1241:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.18&end=00.01.30">
 And	CC	and-c
 this	DT	this-x
 front-loading	NN	front-loading-n
@@ -27876,11 +27876,11 @@ real	JJ	real-j
 savings	NNS	saving-n
 .	SENT	.-x
 </s>
-<s id="1241:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.30&end=00.01.30">
+<s id="1241:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.30&end=00.01.30">
 Why	WRB	why-x
 ?	SENT	?-x
 </s>
-<s id="1241:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.30&end=00.01.38">
+<s id="1241:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.30&end=00.01.38">
 Well	RB	well-a
 because	IN	because-i
 these	DT	these-x
@@ -27901,7 +27901,7 @@ the	DT	the-x
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1241:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.38&end=00.01.46">
+<s id="1241:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.38&end=00.01.46">
 And	CC	and-c
 it	PP	it-d
 will	MD	will-x
@@ -27931,7 +27931,7 @@ the	DT	the-x
 day	NN	day-n
 .	SENT	.-x
 </s>
-<s id="1241:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.46&end=00.01.55">
+<s id="1241:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.46&end=00.01.55">
 There	EX	there-x
 will	MD	will-x
 be	VB	be-v
@@ -27962,7 +27962,7 @@ the	DT	the-x
 costs	NNS	cost-n
 .	SENT	.-x
 </s>
-<s id="1241:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.01.55&end=00.02.00">
+<s id="1241:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.01.55&end=00.02.00">
 But	CC	but-c
 if	IN	if-i
 we	PP	we-d
@@ -27983,7 +27983,7 @@ Dublin	NP	Dublin-n
 system	NN	system-n
 ?	SENT	?-x
 </s>
-<s id="1241:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.00&end=00.02.07">
+<s id="1241:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.00&end=00.02.07">
 Why	WRB	why-x
 does	VVZ	do-v
 n	NN	n-n
@@ -28006,7 +28006,7 @@ particular	JJ	particular-j
 system	NN	system-n
 ?	SENT	?-x
 </s>
-<s id="1241:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.07&end=00.02.11">
+<s id="1241:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.07&end=00.02.11">
 Because	IN	because-i
 we	PP	we-d
 know	VVP	know-v
@@ -28019,7 +28019,7 @@ consequences	NNS	consequence-n
 here	RB	here-a
 .	SENT	.-x
 </s>
-<s id="1241:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.11&end=00.02.21">
+<s id="1241:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.11&end=00.02.21">
 If	IN	if-i
 we	PP	we-d
 think	VVP	think-v
@@ -28044,7 +28044,7 @@ Dublin	NP	Dublin-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1241:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.21&end=00.02.27">
+<s id="1241:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.21&end=00.02.27">
 So	RB	so-a
 if	IN	if-i
 we	PP	we-d
@@ -28076,7 +28076,7 @@ that	DT	that-x
 analysis	NN	analysis-n
 .	SENT	.-x
 </s>
-<s id="1241:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.27&end=00.02.36">
+<s id="1241:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.27&end=00.02.36">
 As	IN	as-i
 rapporteur	NN	rapporteur-n
 on	IN	on-i
@@ -28104,7 +28104,7 @@ the	DT	the-x
 process	NN	process-n
 .	SENT	.-x
 </s>
-<s id="1241:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.36&end=00.02.40">
+<s id="1241:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.36&end=00.02.40">
 And	CC	and-c
 this	DT	this-x
 is	VBZ	be-v
@@ -28122,7 +28122,7 @@ of	IN	of-i
 persecution	NN	persecution-n
 .	SENT	.-x
 </s>
-<s id="1241:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.40&end=00.02.56">
+<s id="1241:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.40&end=00.02.56">
 So	IN	so-i
 the	DT	the-x
 objective	NN	objective-n
@@ -28185,7 +28185,7 @@ efficient	JJ	efficient-j
 procedure	NN	procedure-n
 .	SENT	.-x
 </s>
-<s id="1241:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241&start=00.02.56&end=00.03.01">
+<s id="1241:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1241.mp4&start=00.02.56&end=00.03.01">
 That	IN/that	that-i
 '	''	'-x
 <g/>
@@ -28226,7 +28226,7 @@ you	PP	you-d
 <speaker name="Flautre Hélène" gender="F" country="France" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="326" duration="medium" durations="151.0" speed="slow" speedwm="129.5" delivery="impromptu">
 <interpreter id="EN17" gender="M" native="Y">
-<s id="1242:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.00.22&end=00.00.26">
+<s id="1242:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.00.22&end=00.00.26">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -28239,11 +28239,11 @@ microphone	NN	microphone-n
 working	NN	working-n
 ?	SENT	?-x
 </s>
-<s id="1242:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.00.26&end=00.00.27">
+<s id="1242:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.00.26&end=00.00.27">
 Yeah	RB	yeah-a
 .	SENT	.-x
 </s>
-<s id="1242:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.00.27&end=00.00.39">
+<s id="1242:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.00.27&end=00.00.39">
 I	PP	I-d
 think	VVP	think-v
 the	DT	the-x
@@ -28286,7 +28286,7 @@ is	VBZ	be-v
 necessary	JJ	necessary-j
 .	SENT	.-x
 </s>
-<s id="1242:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.00.39&end=00.01.11">
+<s id="1242:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.00.39&end=00.01.11">
 And	CC	and-c
 we	PP	we-d
 just	RB	just-a
@@ -28377,7 +28377,7 @@ are	VBP	be-v
 interlinked	VVN	interlink-v
 .	SENT	.-x
 </s>
-<s id="1242:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.01.11&end=00.01.20">
+<s id="1242:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.01.11&end=00.01.20">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -28409,7 +28409,7 @@ the	DT	the-x
 mark	NN	mark-n
 .	SENT	.-x
 </s>
-<s id="1242:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.01.20&end=00.01.26">
+<s id="1242:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.01.20&end=00.01.26">
 Euro	NP	Euro-n
 policy	NN	policy-n
 ehm	FPAUSE	ehm
@@ -28431,7 +28431,7 @@ t	NN	t-n
 exaggerate	VV	exaggerate-v
 .	SENT	.-x
 </s>
-<s id="1242:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.01.26&end=00.01.40">
+<s id="1242:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.01.26&end=00.01.40">
 There	EX	there-x
 '	''	'-x
 <g/>
@@ -28482,7 +28482,7 @@ and	CC	and-c
 unacceptable	JJ	unacceptable-j
 .	SENT	.-x
 </s>
-<s id="1242:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.01.41&end=00.02.16">
+<s id="1242:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.01.41&end=00.02.16">
 And	CC	and-c
 the	DT	the-x
 Torture	VVP	torture-v
@@ -28572,7 +28572,7 @@ given	VVN	give-v
 that	RB	that-a
 .	SENT	.-x
 </s>
-<s id="1242:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.02.16&end=00.02.18">
+<s id="1242:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.02.16&end=00.02.18">
 This	DT	this-x
 is	VBZ	be-v
 what	WP	what-x
@@ -28583,7 +28583,7 @@ the	DT	the-x
 report	NN	report-n
 .	SENT	.-x
 </s>
-<s id="1242:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.02.18&end=00.02.22">
+<s id="1242:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.02.18&end=00.02.22">
 How	WRB	how-x
 do	VVP	do-v
 you	PP	you-d
@@ -28597,7 +28597,7 @@ first	JJ	first-j
 instance	NN	instance-n
 ?	SENT	?-x
 </s>
-<s id="1242:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.02.22&end=00.02.31">
+<s id="1242:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.02.22&end=00.02.31">
 Obviously	RB	obviously-a
 this	DT	this-x
 gives	VVZ	give-v
@@ -28633,7 +28633,7 @@ you	PP	you-d
 like	VVP	like-v
 .	SENT	.-x
 </s>
-<s id="1242:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.02.31&end=00.02.47">
+<s id="1242:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.02.31&end=00.02.47">
 I	PP	I-d
 think	VVP	think-v
 the	DT	the-x
@@ -28683,7 +28683,7 @@ huge	JJ	huge-j
 costs	NNS	cost-n
 .	SENT	.-x
 </s>
-<s id="1242:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242&start=00.02.47&end=00.02.52">
+<s id="1242:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1242.mp4&start=00.02.47&end=00.02.52">
 You	PP	you-d
 have	VHP	have-v
 to	TO	to-x
@@ -28718,14 +28718,14 @@ urgent	JJ	urgent-j
 <speaker name="Lamberts Philippe" gender="M" country="Belgium" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="medium" lengthw="437" duration="medium" durations="163.0" speed="high" speedwm="160.9" delivery="impromptu">
 <interpreter id="EN80" gender="M" native="Y">
-<s id="1243:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.00.08&end=00.00.10">
+<s id="1243:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.00.08&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1243:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.00.11&end=00.00.31">
+<s id="1243:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.00.11&end=00.00.31">
 I	PP	I-d
 '	''	'-x
 <g/>
@@ -28794,7 +28794,7 @@ with	IN	with-i
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1243:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.00.31&end=00.00.49">
+<s id="1243:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.00.31&end=00.00.49">
 And	CC	and-c
 I	PP	I-d
 would	MD	would-x
@@ -28854,7 +28854,7 @@ underlined	VVN	underline-v
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1243:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.00.49&end=00.00.57">
+<s id="1243:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.00.49&end=00.00.57">
 The	DT	the-x
 3	CD	[number]-m
 points	NNS	point-n
@@ -28885,7 +28885,7 @@ financial	JJ	financial-j
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1243:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.00.57&end=00.01.00">
+<s id="1243:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.00.57&end=00.01.00">
 In	IN	in-i
 fact	NN	fact-n
 it	PP	it-d
@@ -28904,7 +28904,7 @@ right	RB	right-a
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1243:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.01.00&end=00.01.27">
+<s id="1243:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.01.00&end=00.01.27">
 We	PP	we-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -29008,7 +29008,7 @@ all	DT	all-x
 transparent	JJ	transparent-j
 .	SENT	.-x
 </s>
-<s id="1243:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.01.27&end=00.01.34">
+<s id="1243:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.01.27&end=00.01.34">
 So	RB	so-a
 we	PP	we-d
 think	VVP	think-v
@@ -29031,7 +29031,7 @@ assisted	VVN	assist-v
 banks	NNS	bank-n
 .	SENT	.-x
 </s>
-<s id="1243:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.01.34&end=00.01.52">
+<s id="1243:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.01.34&end=00.01.52">
 Perscl-	DYSF	Perscl-
 Because	IN	because-i
 clearly	RB	clearly-a
@@ -29095,7 +29095,7 @@ food	NN	food-n
 commodities	NNS	commodity-n
 .	SENT	.-x
 </s>
-<s id="1243:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.01.52&end=00.02.08">
+<s id="1243:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.01.52&end=00.02.08">
 Now	RB	now-a
 we	PP	we-d
 know	VVP	know-v
@@ -29146,7 +29146,7 @@ that	DT	that-x
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1243:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.02.08&end=00.02.11">
+<s id="1243:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.02.08&end=00.02.11">
 And	CC	and-c
 last	JJ	last-j
 but	CC	but-c
@@ -29157,7 +29157,7 @@ tax	NN	tax-n
 policy	NN	policy-n
 .	SENT	.-x
 </s>
-<s id="1243:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.02.11&end=00.02.20">
+<s id="1243:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.02.11&end=00.02.20">
 Many	JJ	many-j
 Member	NP	Member-n
 States	NPS	States-n
@@ -29187,7 +29187,7 @@ European	JJ	European-j
 interest	NN	interest-n
 .	SENT	.-x
 </s>
-<s id="1243:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.02.20&end=00.02.33">
+<s id="1243:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.02.20&end=00.02.33">
 These	DT	these-x
 are	VBP	be-v
 forms	NNS	form-n
@@ -29229,7 +29229,7 @@ these	DT	these-x
 areas	NNS	area-n
 .	SENT	.-x
 </s>
-<s id="1243:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243&start=00.02.33&end=00.02.51">
+<s id="1243:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1243.wmv&start=00.02.33&end=00.02.51">
 And	CC	and-c
 lastly	RB	lastly-a
 <g/>
@@ -29302,13 +29302,13 @@ ago	RB	ago-a
 <speaker name="Lamberts Philippe" gender="M" country="Belgium" politfunc="MEP" politgroup="Verts-ALE">
 <st language="fr" length="short" lengthw="150" duration="short" durations="59.0" speed="medium" speedwm="152.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1244:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.00.09&end=00.00.10">
+<s id="1244:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.00.09&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 .	SENT	.-x
 </s>
-<s id="1244:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.00.10&end=00.00.16">
+<s id="1244:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.00.10&end=00.00.16">
 Well	RB	well-a
 to	TO	to-x
 answer	VV	answer-v
@@ -29333,7 +29333,7 @@ this	DT	this-x
 about	RB	about-a
 ?	SENT	?-x
 </s>
-<s id="1244:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.00.16&end=00.00.29">
+<s id="1244:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.00.16&end=00.00.29">
 The	DT	the-x
 European	NP	European-n
 Central	NP	Central-n
@@ -29369,7 +29369,7 @@ of	IN	of-i
 assets	NNS	asset-n
 .	SENT	.-x
 </s>
-<s id="1244:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.00.31&end=00.00.43">
+<s id="1244:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.00.31&end=00.00.43">
 We	PP	we-d
 never	RB	never-a
 really	RB	really-a
@@ -29409,7 +29409,7 @@ to	TO	to-x
 establish	VV	establish-v
 .	SENT	.-x
 </s>
-<s id="1244:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.00.43&end=00.01.01">
+<s id="1244:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.00.43&end=00.01.01">
 And	CC	and-c
 in	IN	in-i
 fact	NN	fact-n
@@ -29470,7 +29470,7 @@ under	IN	under-i
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1244:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244&start=00.01.03&end=00.01.09">
+<s id="1244:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1244.mp4&start=00.01.03&end=00.01.09">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -29504,7 +29504,7 @@ areas	NNS	area-n
 <speaker name="Goulard Sylvie" gender="F" country="France" politfunc="MEP" politgroup="ALDE">
 <st language="fr" length="short" lengthw="208" duration="short" durations="76.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="EN80" gender="M" native="Y">
-<s id="1245:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.00.08&end=00.00.27">
+<s id="1245:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.00.08&end=00.00.27">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
@@ -29559,7 +29559,7 @@ constantly	RB	constantly-a
 here	RB	here-a
 .	SENT	.-x
 </s>
-<s id="1245:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.00.27&end=00.00.30">
+<s id="1245:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.00.27&end=00.00.30">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -29571,7 +29571,7 @@ dead	JJ	dead-j
 horse	NN	horse-n
 .	SENT	.-x
 </s>
-<s id="1245:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.00.30&end=00.00.51">
+<s id="1245:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.00.30&end=00.00.51">
 We	PP	we-d
 say	VVP	say-v
 we	PP	we-d
@@ -29656,7 +29656,7 @@ of	IN	of-i
 purchasers	NNS	purchaser-n
 .	SENT	.-x
 </s>
-<s id="1245:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.00.51&end=00.00.59">
+<s id="1245:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.00.51&end=00.00.59">
 And	CC	and-c
 we	PP	we-d
 need	VVP	need-v
@@ -29680,7 +29680,7 @@ and	CC	and-c
 boring	JJ	boring-j
 .	SENT	.-x
 </s>
-<s id="1245:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.00.59&end=00.01.09">
+<s id="1245:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.00.59&end=00.01.09">
 You	PP	you-d
 send	VVP	send-v
 us	PP	us-d
@@ -29722,7 +29722,7 @@ drawer	NN	drawer-n
 and	NP	and-n
 .	SENT	.-x
 </s>
-<s id="1245:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.01.09&end=00.01.15">
+<s id="1245:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.01.09&end=00.01.15">
 But	CC	but-c
 as	IN	as-i
 colleague	NN	colleague-n
@@ -29744,7 +29744,7 @@ is	VBZ	be-v
 changing	VVG	change-v
 .	SENT	.-x
 </s>
-<s id="1245:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.01.15&end=00.01.22">
+<s id="1245:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.01.15&end=00.01.22">
 We	PP	we-d
 do	VVP	do-v
 n	NN	n-n
@@ -29773,7 +29773,7 @@ state	NN	state-n
 aid	NN	aid-n
 .	SENT	.-x
 </s>
-<s id="1245:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245&start=00.01.22&end=00.01.27">
+<s id="1245:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1245.wmv&start=00.01.22&end=00.01.27">
 I	PP	I-d
 do-	DYSF	do-
 am	VBP	be-v
@@ -29811,14 +29811,14 @@ dreaming	VVG	dream-v
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="375" duration="medium" durations="169.0" speed="medium" speedwm="133.1" delivery="read">
 <interpreter id="EN83" gender="M" native="Y">
-<s id="1246:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.08&end=00.00.10">
+<s id="1246:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.08&end=00.00.10">
 Thank	VV	thank-v
 you	PP	you-d
 President	NP	President-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1246:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.11&end=00.00.24">
+<s id="1246:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.11&end=00.00.24">
 Dear	NP	Dear-n
 <g/>
 ...	EPAUSE	...-x
@@ -29862,7 +29862,7 @@ great	JJ	great-j
 interest	NN	interest-n
 .	SENT	.-x
 </s>
-<s id="1246:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.24&end=00.00.30">
+<s id="1246:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.24&end=00.00.30">
 It	PP	it-d
 '	''	'-x
 <g/>
@@ -29884,7 +29884,7 @@ Christian	JJ	Christian-j
 minorities	NNS	minority-n
 .	SENT	.-x
 </s>
-<s id="1246:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.30&end=00.00.39">
+<s id="1246:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.30&end=00.00.39">
 In	IN	in-i
 this	DT	this-x
 chamber	NN	chamber-n
@@ -29912,7 +29912,7 @@ and	CC	and-c
 religion	NN	religion-n
 .	SENT	.-x
 </s>
-<s id="1246:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.39&end=00.00.54">
+<s id="1246:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.39&end=00.00.54">
 And	CC	and-c
 we	PP	we-d
 should	MD	should-x
@@ -29954,7 +29954,7 @@ in	IN	in-i
 God	NP	God-n
 .	SENT	.-x
 </s>
-<s id="1246:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.00.54&end=00.01.03">
+<s id="1246:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.00.54&end=00.01.03">
 If	IN	if-i
 we	PP	we-d
 want	VVP	want-v
@@ -29986,7 +29986,7 @@ religious	JJ	religious-j
 freedom	NN	freedom-n
 .	SENT	.-x
 </s>
-<s id="1246:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.01.03&end=00.01.11">
+<s id="1246:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.01.03&end=00.01.11">
 No	DT	no-x
 religion	NN	religion-n
 is	VBZ	be-v
@@ -30001,7 +30001,7 @@ ehm	FPAUSE	ehm
 excesses	NNS	excess-n
 .	SENT	.-x
 </s>
-<s id="1246:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.01.11&end=00.01.24">
+<s id="1246:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.01.11&end=00.01.24">
 Let	VV	let-v
 us	PP	us-d
 just	RB	just-a
@@ -30038,7 +30038,7 @@ ehm	FPAUSE	ehm
 Protestants	NPS	Protestants-n
 .	SENT	.-x
 </s>
-<s id="1246:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.01.24&end=00.01.35">
+<s id="1246:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.01.24&end=00.01.35">
 Let	VV	let-v
 us	PP	us-d
 recall	VV	recall-v
@@ -30067,7 +30067,7 @@ EU	NP	EU-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1246:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.01.35&end=00.01.43">
+<s id="1246:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.01.35&end=00.01.43">
 So	RB	so-a
 there	EX	there-x
 are	VBP	be-v
@@ -30092,7 +30092,7 @@ are	VBP	be-v
 victims	NNS	victim-n
 .	SENT	.-x
 </s>
-<s id="1246:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.01.43&end=00.02.09">
+<s id="1246:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.01.43&end=00.02.09">
 In	IN	in-i
 that	DT	that-x
 light	NN	light-n
@@ -30164,7 +30164,7 @@ ehm	FPAUSE	ehm
 blasphemy	NN	blasphemy-n
 .	SENT	.-x
 </s>
-<s id="1246:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.02.09&end=00.02.15">
+<s id="1246:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.02.09&end=00.02.15">
 And	CC	and-c
 then	RB	then-a
 the	DT	the-x
@@ -30184,7 +30184,7 @@ un-	DYSF	un-
 intolerable	JJ	intolerable-j
 .	SENT	.-x
 </s>
-<s id="1246:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.02.15&end=00.02.29">
+<s id="1246:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.02.15&end=00.02.29">
 And	CC	and-c
 let	VV	let-v
 us	PP	us-d
@@ -30223,7 +30223,7 @@ lawyers	NNS	lawyer-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1246:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.02.29&end=00.02.39">
+<s id="1246:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.02.29&end=00.02.39">
 And	CC	and-c
 over	IN	over-i
 and	CC	and-c
@@ -30257,7 +30257,7 @@ clandestine	JJ	clandestine-j
 existence	NN	existence-n
 .	SENT	.-x
 </s>
-<s id="1246:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246&start=00.02.39&end=00.02.59">
+<s id="1246:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1246.mp4&start=00.02.39&end=00.02.59">
 So	IN	so-i
 it	PP	it-d
 '	''	'-x
@@ -30331,7 +30331,7 @@ you	PP	you-d
 <speaker name="Vergiat Marie Christine" gender="F" country="France" politfunc="MEP" politgroup="GUE-NGL">
 <st language="fr" length="short" lengthw="368" duration="medium" durations="156.0" speed="medium" speedwm="141.5" delivery="mixed">
 <interpreter id="EN83" gender="M" native="Y">
-<s id="1247:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.09&end=00.00.18">
+<s id="1247:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.09&end=00.00.18">
 Firstly	RB	firstly-a
 ,	,	,-x
 dear	JJ	dear-j
@@ -30360,7 +30360,7 @@ Thursday	NP	Thursday-n
 afternoon	NN	afternoon-n
 .	SENT	.-x
 </s>
-<s id="1247:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.18&end=00.00.29">
+<s id="1247:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.18&end=00.00.29">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -30399,7 +30399,7 @@ congratulate	VV	congratulate-v
 you	PP	you-d
 .	SENT	.-x
 </s>
-<s id="1247:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.30&end=00.00.37">
+<s id="1247:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.30&end=00.00.37">
 If	IN	if-i
 I	PP	I-d
 ehm	FPAUSE	ehm
@@ -30432,7 +30432,7 @@ rights	NNS	right-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.50&end=00.00.52">
+<s id="1247:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.50&end=00.00.52">
 Did	VVD	do-v
 you	PP	you-d
 wish	VVP	wish-v
@@ -30442,7 +30442,7 @@ dear	JJ	dear-j
 colleague	NN	colleague-n
 ?	SENT	?-x
 </s>
-<s id="1247:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.52&end=00.00.55">
+<s id="1247:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.52&end=00.00.55">
 Use	VV	use-v
 a	DT	a-x
 microphone	NN	microphone-n
@@ -30454,7 +30454,7 @@ shall	MD	shall-x
 respond	VV	respond-v
 !	SENT	!-x
 </s>
-<s id="1247:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.55&end=00.00.57">
+<s id="1247:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.55&end=00.00.57">
 You	PP	you-d
 can	MD	can-x
 use	VV	use-v
@@ -30463,7 +30463,7 @@ blue	JJ	blue-j
 card	NN	card-n
 .	SENT	.-x
 </s>
-<s id="1247:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.00.59&end=00.01.09">
+<s id="1247:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.00.59&end=00.01.09">
 You	PP	you-d
 '	''	'-x
 <g/>
@@ -30503,7 +30503,7 @@ are	VBP	be-v
 Italians	NNS	Italian-n
 .	SENT	.-x
 </s>
-<s id="1247:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.09&end=00.01.11">
+<s id="1247:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.09&end=00.01.11">
 It	PP	it-d
 is	VBZ	be-v
 unusual	JJ	unusual-j
@@ -30513,7 +30513,7 @@ Thursday	NP	Thursday-n
 afternoon	NN	afternoon-n
 .	SENT	.-x
 </s>
-<s id="1247:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.11&end=00.01.14">
+<s id="1247:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.11&end=00.01.14">
 I	NP	I-n
 '	''	'-x
 <g/>
@@ -30527,7 +30527,7 @@ afternoon	NN	afternoon-n
 sir	NN	sir-n
 !	SENT	!-x
 </s>
-<s id="1247:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.14&end=00.01.16">
+<s id="1247:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.14&end=00.01.16">
 Every	DT	every-x
 Thursday	NP	Thursday-n
 afternoon	NN	afternoon-n
@@ -30536,7 +30536,7 @@ come	VVP	come-v
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.20&end=00.01.23">
+<s id="1247:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.20&end=00.01.23">
 So	RB	so-a
 let	VV	let-v
 me	PP	me-d
@@ -30549,7 +30549,7 @@ quiet	NN	quiet-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.27&end=00.01.32">
+<s id="1247:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.27&end=00.01.32">
 I	PP	I-d
 do	VVP	do-v
 n	NN	n-n
@@ -30573,7 +30573,7 @@ being	VBG	be-v
 interrupted	VVN	interrupt-v
 .	SENT	.-x
 </s>
-<s id="1247:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.32&end=00.01.33">
+<s id="1247:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.32&end=00.01.33">
 May	MD	may-x
 I	PP	I-d
 speak	VV	speak-v
@@ -30582,7 +30582,7 @@ President	NP	President-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.38&end=00.01.41">
+<s id="1247:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.38&end=00.01.41">
 I	PP	I-d
 also	RB	also-a
 observe	VVP	observe-v
@@ -30590,7 +30590,7 @@ that	DT	that-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.43&end=00.01.57">
+<s id="1247:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.43&end=00.01.57">
 Italian	JJ	Italian-j
 Members	NNS	member-n
 of	IN	of-i
@@ -30632,7 +30632,7 @@ the	DT	the-x
 House	NP	House-n
 .	SENT	.-x
 </s>
-<s id="1247:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.01.57&end=00.02.03">
+<s id="1247:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.01.57&end=00.02.03">
 The	DT	the-x
 question	NN	question-n
 here	RB	here-a
@@ -30648,7 +30648,7 @@ not	RB	not-a
 guilty	JJ	guilty-j
 .	SENT	.-x
 </s>
-<s id="1247:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.03&end=00.02.09">
+<s id="1247:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.03&end=00.02.09">
 I	PP	I-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -30667,7 +30667,7 @@ know	VVP	know-v
 that	RB	that-a
 .	SENT	.-x
 </s>
-<s id="1247:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.09&end=00.02.22">
+<s id="1247:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.09&end=00.02.22">
 I	PP	I-d
 know	VVP	know-v
 there	EX	there-x
@@ -30712,7 +30712,7 @@ justice	NN	justice-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.27&end=00.02.28">
+<s id="1247:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.27&end=00.02.28">
 Would	MD	would-x
 you	PP	you-d
 let	VV	let-v
@@ -30720,7 +30720,7 @@ me	PP	me-d
 speak	VV	speak-v
 ?	SENT	?-x
 </s>
-<s id="1247:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.29&end=00.02.31">
+<s id="1247:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.29&end=00.02.31">
 You	PP	you-d
 think	VVP	think-v
 you	PP	you-d
@@ -30731,7 +30731,7 @@ national	JJ	national-j
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1247:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.31&end=00.02.34">
+<s id="1247:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.31&end=00.02.34">
 This	DT	this-x
 is	VBZ	be-v
 not	RB	not-a
@@ -30745,7 +30745,7 @@ European	NP	European-n
 Parliament	NP	Parliament-n
 !	SENT	!-x
 </s>
-<s id="1247:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.36&end=00.02.37">
+<s id="1247:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.36&end=00.02.37">
 President	NP	President-n
 ,	,	,-x
 may	MD	may-x
@@ -30754,7 +30754,7 @@ I	PP	I-d
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.50&end=00.02.57">
+<s id="1247:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.50&end=00.02.57">
 I	PP	I-d
 think	VVP	think-v
 that	IN/that	that-i
@@ -30776,7 +30776,7 @@ and	CC	and-c
 Italy	NP	Italy-n
 .	SENT	.-x
 </s>
-<s id="1247:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.02.57&end=00.03.00">
+<s id="1247:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.02.57&end=00.03.00">
 The	DT	the-x
 right	NN	right-n
 to	IN	to-i
@@ -30791,7 +30791,7 @@ with	IN	with-i
 that	DT	that-x
 .	SENT	.-x
 </s>
-<s id="1247:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.03.00&end=00.03.08">
+<s id="1247:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.03.00&end=00.03.08">
 But	CC	but-c
 let	VV	let-v
 us	PP	us-d
@@ -30814,7 +30814,7 @@ its	PPZ	its-d
 decision	NN	decision-n
 .	SENT	.-x
 </s>
-<s id="1247:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.03.08&end=00.03.14">
+<s id="1247:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.03.08&end=00.03.14">
 The	DT	the-x
 Supreme	NP	Supreme-n
 Court	NP	Court-n
@@ -30840,7 +30840,7 @@ yet	RB	yet-a
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1247:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247&start=00.03.30&end=00.03.33">
+<s id="1247:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1247.mp4&start=00.03.30&end=00.03.33">
 But	CC	but-c
 I	PP	I-d
 was	VBD	be-v
