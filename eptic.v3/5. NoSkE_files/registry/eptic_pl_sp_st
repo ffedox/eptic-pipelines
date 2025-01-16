@@ -3,7 +3,7 @@ INFO "EPTIC.V3 Polish spoken sources"
 NAME "EPTIC.V3 Polish spoken sources"
 PATH "/var/lib/manatee/data/EPTIC.V3/eptic_pl_sp_st"
 ENCODING "utf8"
-LANGUAGE "English"
+LANGUAGE "Polish"
 VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_pl_sp_st.vert"
 
 INFOHREF "https://corpora.dipintra.it/eptic/"
