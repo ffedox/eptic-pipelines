@@ -6,7 +6,7 @@ ENCODING "utf8"
 LANGUAGE "German"
 VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_de_wr_tt.vert"
 
-INFOHREF "http://terminologia.it/"
+INFOHREF "https://corpora.dipintra.it/eptic/"
 TAGSETDOC "https://www.sketchengine.eu/german-rftagger-part-of-speech-tagset/"
 
 

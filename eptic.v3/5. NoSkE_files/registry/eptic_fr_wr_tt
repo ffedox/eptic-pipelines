@@ -6,7 +6,7 @@ ENCODING "utf8"
 LANGUAGE "French"
 VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_fr_wr_tt.vert"
 
-INFOHREF "http://terminologia.it/"
+INFOHREF "https://corpora.dipintra.it/eptic/"
 TAGSETDOC "https://www.sketchengine.eu/french-freeling-part-of-speech-tagset/"
 
 DOCSTRUCTURE "text"

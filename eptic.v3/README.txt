@@ -1,6 +1,44 @@
-1. Rinominare i file in intertext_alignments con intertext2noske_cambiato.py (generalmente il secondo elemento nel nome file dovrebbe essere quello che va prima ma ci sono un paio di casi in cui è l'opposto)
+Proviamo con 2 corpora:
 
-es. python3.6 intertext2noske_cambiato.py '/var/lib/manatee/registry/eptic_sl_sp_tt' '/var/lib/manatee/registry/eptic_fr_sp_tt' 'eptic_fr_sp_tt.eptic_sl_sp_tt.xml'
+# Registry
 
-2. Applicare fixgaps.py a tutti i file (ho messo uno script in python rename_and_fixgaps.py che lo fa su tutti i .txt di output)
+/storage/manatee/vert/EPTIC.V3/eptic_de_sp_tt.vert
+/storage/manatee/vert/EPTIC.V3/eptic_de_wr_tt.vert
 
+# Registry
+
+/storage/manatee/registry/de_sp_tt  ? Però questo sovrascriverebbe
+/storage/manatee/registry/de_wr_tt  ?
+
+compilecorp
+
+# Allineamenti da convertire
+
+Io mi ero fatta una cartella /storage/manatee/utils
+
+Contenente gli script tipo intertext2noske_cambiato, fixgaps.py (quelli in NoSkE_scripts)
+
+E con una cartella /aligns, dentro /aligns mettevo gli .XML. In questo caso mettiamo:
+
+/storage/manatee/utils/aligns/eptic_de_sp_tt.eptic_de_wr_tt.xml
+
+Poi dentro /aligns facevo:
+
+python3.6 intertext2noske_cambiato.py '/storage/manatee/registry/eptic_de_wr_tt' '/storage/manatee/registry/eptic_de_sp_tt' 'eptic_de_sp_tt.eptic_de_wr_tt.xml'
+
+E infine usavo rename_and_fixgaps.py per applicare fixgaps.py a tutti gli allineamenti di NoSke (.txt)
+
+python3.6 rename_and_fixgaps.py
+
+Poi mettevo gli allineamenti .txt NoSke-compliant in /storage/manatee/aligndef_files/EPTIC.V3/
+
+A questo punto si potrebbe compilare un paio di volte per vedere se è tutto a posto
+
+
+
+
+fixgaps.py < > 
+
+no recompile
+
+metti eptic3_sl_wr_tt a tutti i file e correggi i registry

@@ -6,7 +6,7 @@ ENCODING "utf8"
 LANGUAGE "English"
 VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_en_sp_tt_from_fr.vert"
 
-INFOHREF "http://terminologia.it/"
+INFOHREF "https://corpora.dipintra.it/eptic/"
 TAGSETDOC "https://www.sketchengine.eu/english-treetagger-pipeline-3/"
 
 DOCSTRUCTURE "text"

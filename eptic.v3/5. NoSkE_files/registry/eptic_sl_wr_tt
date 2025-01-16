@@ -6,7 +6,7 @@ ENCODING "utf8"
 LANGUAGE "Slovenian"
 VERTICAL "/var/lib/manatee/vert/EPTIC.V3/eptic_sl_wr_tt.vert"
 
-INFOHREF "http://terminologia.it/"
+INFOHREF "https://corpora.dipintra.it/eptic/"
 TAGSETDOC "https://www.sketchengine.eu/slovene-tagset-multext-east-v4/"
 
 
