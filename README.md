@@ -1,4 +1,4 @@
-# eptic-pipelines
+# EPTIC Pipelines
 
 Developer-side code and documentation for the construction of EPTIC.
 
