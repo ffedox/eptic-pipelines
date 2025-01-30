@@ -1,4 +1,4 @@
-# EPTIC Pipelines
+# EPTIC and Beyond: Enlargement and Curation of Complex Multilingual Corpora
 
 Developer-side code and documentation for the construction of EPTIC.
 
