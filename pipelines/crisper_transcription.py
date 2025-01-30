@@ -5,9 +5,10 @@ import pandas as pd
 from glob import glob
 import librosa
 from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor, pipeline
+from CrisperWhisper.utils import adjust_pauses_for_hf_pipeline_output
 import json
 
-import os
+# Environment variable for CUDA module loading
 os.environ["CUDA_MODULE_LOADING"] = "LAZY"
 
 # Add CrisperWhisper directory to Python path
@@ -15,8 +16,8 @@ sys.path.append(os.path.abspath("/home/afedotova/EPTIC25/pipelines/CrisperWhispe
 
 # Paths
 xlsx_path = "/home/afedotova/EPTIC25/eptic.v4/1. database_tables/texts_for_test.xlsx"
-video_folder = "/home/afedotova/EPTIC25/eptic.v4/video"
-output_folder = "/home/afedotova/EPTIC25/eptic.v4/output_transcriptions"
+audio_folder = "/home/afedotova/EPTIC25/eptic.v4/2. extracted_audios"
+output_folder = "/home/afedotova/EPTIC25/eptic.v4/3. output_transcriptions"
 
 # Ensure output directory exists
 os.makedirs(output_folder, exist_ok=True)
@@ -40,7 +41,7 @@ try:
         torch_dtype=torch.float16,
         low_cpu_mem_usage=True,
         use_safetensors=True,
-        attn_implementation="eager",  # Add this argument
+        attn_implementation="eager",  # Keep this setting
         token="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",
     )
     model.to("cuda:0")
@@ -53,45 +54,40 @@ try:
         tokenizer=processor.tokenizer,
         feature_extractor=processor.feature_extractor,
         chunk_length_s=10,
-        batch_size=4,
-        return_timestamps='word',
+        batch_size=2,
+        return_timestamps="word",
         torch_dtype=torch.float16,
         device="cuda:0",
     )
 except Exception as e:
     print(f"Error initializing model or pipeline: {e}")
 
-
 # Load the Excel file
 df = pd.read_excel(xlsx_path)
 
-# Iterate over rows where texts.plain_text is empty
-for index, row in df[df['texts.plain_text'].isna()].iterrows():
-    video_id = row['id']
-    
-    # Find the video file with matching ID, ignoring extension
-    video_files = glob(os.path.join(video_folder, f"{video_id}.*"))  # Match any file extension
-    if video_files:
-        video_path = '/home/afedotova/EPTIC25/eptic.v4/video/1855.mp3'  # Use the first match
-        print(f"Processing video: {video_path}")
+# Process all .wav files in extracted_audios directory
+wav_files = glob(os.path.join(audio_folder, "*.wav"))
 
-        # Load audio from video (using librosa for simplicity)
-        try:
-            audio, sr = librosa.load(video_path, sr=16000)  # Resample to 16kHz as required by most ASR models
+for wav_file in wav_files:
+    video_id = os.path.splitext(os.path.basename(wav_file))[0]  # Extract ID from filename
+    print(f"Processing audio: {wav_file}")
 
-            # Transcribe the audio
-            hf_pipeline_output = pipe(audio)
-            crisper_whisper_result = adjust_pauses_for_hf_pipeline_output(hf_pipeline_output)
+    # Load audio using librosa
+    try:
+        audio, sr = librosa.load(wav_file, sr=16000)  # Ensure correct sample rate
 
-            # Save the transcription
-            output_file = os.path.join(output_folder, f"{video_id}_transcription.json")
-            with open(output_file, "w") as file:
-                json.dump(crisper_whisper_result, file, indent=4)
+        # Transcribe the audio
+        hf_pipeline_output = pipe(audio)
+        
+        # Adjust pauses (assuming adjust_pauses_for_hf_pipeline_output function exists)
+        crisper_whisper_result = adjust_pauses_for_hf_pipeline_output(hf_pipeline_output)
 
-            print(f"Transcription saved to {output_file}")
+        # Save the transcription
+        output_file = os.path.join(output_folder, f"{video_id}_transcription.json")
+        with open(output_file, "w") as file:
+            json.dump(crisper_whisper_result, file, indent=4)
 
-        except Exception as e:
-            print(f"Error processing video {video_path}: {e}")
-    else:
-        print(f"Video file not found for ID: {video_id}")
+        print(f"Transcription saved to {output_file}")
 
+    except Exception as e:
+        print(f"Error processing audio {wav_file}: {e}")
