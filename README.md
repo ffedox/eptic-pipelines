@@ -1,4 +1,4 @@
-# EPTIC and Beyond: Enlargement and Curation of Complex Multilingual Corpora
+# EPTIC Tools 2023-2024
 
 Developer-side code and documentation for the construction of EPTIC.
 
