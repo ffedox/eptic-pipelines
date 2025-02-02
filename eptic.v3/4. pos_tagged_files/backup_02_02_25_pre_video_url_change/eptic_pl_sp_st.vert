@@ -2,19 +2,19 @@
 <speaker name="Buzek Jerzy" gender="M" country="Poland" politfunc="President of the EP" politgroup="PPE">
 <st language="pl" length="short" lengthw="259" duration="long" durations="373.0" speed="slow" speedwm="41.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="19:1" video="https://media.dipintra.it/?id=19&start=00.00&end=00.01&collection=eptic3">
+<s id="19:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.00.00&end=00.00.01">
 Mam	fin:sg:pri:imperf	mieć-v
 uwagi	subst:pl:acc:f	uwaga-n
 wstępne	adj:pl:acc:m3:pos	wstępny-j
 .	interp	.-x
 </s>
-<s id="19:2" video="https://media.dipintra.it/?id=19&start=00.01&end=00.03&collection=eptic3">
+<s id="19:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.00.01&end=00.00.03">
 5	num:pl:nom:f:rec	5-x
 krótkich	adj:pl:gen:f:pos	krótki-j
 punktów	subst:pl:gen:m3	punkt-n
 .	interp	.-x
 </s>
-<s id="19:3" video="https://media.dipintra.it/?id=19&start=00.03&end=00.57&collection=eptic3">
+<s id="19:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.00.03&end=00.00.57">
 27	adj:sg:gen:m3:pos	27-j
 stycznia	subst:sg:gen:m3	styczeń-n
 mija	fin:sg:ter:imperf	mijać-v
@@ -30,7 +30,7 @@ zagłady	subst:sg:gen:f	zagłada-n
 Auschwitz-Birkenau	subst:sg:gen:n	Auschwitz-Birkenau-n
 .	interp	.-x
 </s>
-<s id="19:4" video="https://media.dipintra.it/?id=19&start=00.57&end=01.07&collection=eptic3">
+<s id="19:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.00.57&end=00.01.07">
 Każdego	adj:sg:gen:m3:pos	każdy-j
 roku	subst:sg:gen:m3	rok-n
 w	prep:loc:nwok	w-i
@@ -45,7 +45,7 @@ tam	adv	tam-a
 zamordowanych	ppas:pl:gen:m1:perf:aff	zamordować-v
 .	interp	.-x
 </s>
-<s id="19:5" video="https://media.dipintra.it/?id=19&start=01.07&end=01.29&collection=eptic3">
+<s id="19:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.01.07&end=00.01.29">
 Daje	fin:sg:ter:imperf	dawać-v
 nam	ppron12:pl:dat:m1:pri	my-x
 to	qub	to-x
@@ -69,7 +69,7 @@ koszmarów	subst:pl:gen:m3	koszmar-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="19:6" video="https://media.dipintra.it/?id=19&start=01.29&end=01.58&collection=eptic3">
+<s id="19:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.01.29&end=00.01.58">
 Druga	adj:sg:nom:f:pos	drugi-j
 informacja	subst:sg:nom:f	informacja-n
 :	interp	:-x
@@ -97,7 +97,7 @@ niepodległej	adj:sg:gen:f:pos	niepodległy-j
 Litwy	subst:sg:gen:f	Litwa-n
 .	interp	.-x
 </s>
-<s id="19:7" video="https://media.dipintra.it/?id=19&start=01.58&end=02.13&collection=eptic3">
+<s id="19:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.01.58&end=00.02.13">
 Litwini	subst:pl:voc:m1	Litwin-n
 obronili	praet:pl:m1:perf	obronić-v
 swoją	adj:sg:acc:f:pos	swój-j
@@ -111,7 +111,7 @@ wspólnoty	subst:sg:gen:f	wspólnota-n
 euroatlantyckiej	adj:sg:loc:f:pos	euroatlantycki-j
 .	interp	.-x
 </s>
-<s id="19:8" video="https://media.dipintra.it/?id=19&start=02.13&end=02.37&collection=eptic3">
+<s id="19:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.02.13&end=00.02.37">
 Wspominając	pcon:imperf	wspominać-v
 tę	adj:sg:acc:f:pos	ten-j
 ważną	adj:sg:acc:f:pos	ważny-j
@@ -143,7 +143,7 @@ ich	ppron3:pl:gen:m1:ter	on-x
 kraju	subst:sg:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="19:9" video="https://media.dipintra.it/?id=19&start=02.37&end=02.53&collection=eptic3">
+<s id="19:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.02.37&end=00.02.53">
 Kolejna	adj:sg:nom:f:pos	kolejny-j
 informacja	subst:sg:nom:f	informacja-n
 :	interp	:-x
@@ -164,7 +164,7 @@ Narodów	subst:pl:gen:m3	naród-n
 Zjednoczonych	adj:pl:gen:m3:pos	Zjednoczony-j
 .	interp	.-x
 </s>
-<s id="19:10" video="https://media.dipintra.it/?id=19&start=02.53&end=03.18&collection=eptic3">
+<s id="19:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.02.53&end=00.03.18">
 Konwencja	subst:sg:nom:f	konwencja-n
 ta	adj:sg:nom:f:pos	ten-j
 ,	interp	"-x
@@ -206,7 +206,7 @@ niepełnosprawności	subst:sg:gen:f	niepełnosprawność-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="19:11" video="https://media.dipintra.it/?id=19&start=03.18&end=03.35&collection=eptic3">
+<s id="19:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.03.18&end=00.03.35">
 Informacja	subst:sg:nom:f	informacja-n
 czwarta	adj:sg:nom:f:pos	czwarty-j
 :	interp	:-x
@@ -226,7 +226,7 @@ Gao	subst:sg:gen:f	Gao-n
 Zhishenga	subst:sg:gen:m1	Zhishenga-n
 .	interp	.-x
 </s>
-<s id="19:12" video="https://media.dipintra.it/?id=19&start=03.35&end=03.49&collection=eptic3">
+<s id="19:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.03.35&end=00.03.49">
 Według	prep:gen	według-i
 najnowszych	adj:pl:gen:n:sup	nowy-j
 informacji	subst:pl:gen:f	informacja-n
@@ -239,7 +239,7 @@ poddawany	ppas:sg:nom:m1:imperf:aff	poddawać-v
 torturom	subst:pl:dat:f	tortura-n
 .	interp	.-x
 </s>
-<s id="19:13" video="https://media.dipintra.it/?id=19&start=03.49&end=03.59&collection=eptic3">
+<s id="19:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.03.49&end=00.03.59">
 Parlament	subst:sg:nom:m3	parlament-n
 Europejski	adj:sg:nom:m3:pos	europejski-j
 kilkakrotnie	adv:pos	kilkakrotnie-a
@@ -251,7 +251,7 @@ pana	subst:sg:gen:m1	pan-n
 Zhishenga	subst:sg:gen:m1	Zhishenga-n
 .	interp	.-x
 </s>
-<s id="19:14" video="https://media.dipintra.it/?id=19&start=03.59&end=04.13&collection=eptic3">
+<s id="19:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.03.59&end=00.04.13">
 Dziś	adv	dziś-a
 pragnę	fin:sg:pri:imperf	pragnąć-v
 wezwać	inf:perf	wezwać-v
@@ -268,7 +268,7 @@ zdrowia	subst:sg:gen:n	zdrowie-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="19:15" video="https://media.dipintra.it/?id=19&start=04.13&end=04.48&collection=eptic3">
+<s id="19:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.04.13&end=00.04.48">
 I	conj	i-c
 ostatnia	adj:sg:nom:f:pos	ostatni-j
 informacja	subst:sg:nom:f	informacja-n
@@ -295,7 +295,7 @@ przejęły	praet:pl:f:perf	przejąć-v
 Węgry	subst:pl:acc:n	Węgry-n
 .	interp	.-x
 </s>
-<s id="19:16" video="https://media.dipintra.it/?id=19&start=04.48&end=05.07&collection=eptic3">
+<s id="19:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.04.48&end=00.05.07">
 Będziemy	bedzie:pl:pri:imperf	być-v
 na	prep:acc	na-i
 temat	subst:sg:acc:m3	temat-n
@@ -308,7 +308,7 @@ sesji	subst:sg:loc:f	sesja-n
 Parlamentu	subst:sg:gen:m3	parlament-n
 .	interp	.-x
 </s>
-<s id="19:17" video="https://media.dipintra.it/?id=19&start=05.07&end=05.30&collection=eptic3">
+<s id="19:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.05.07&end=00.05.30">
 W	prep:loc:nwok	w-i
 tym	adj:sg:loc:m3:pos	ten-j
 czasie	subst:sg:loc:m3	czas-n
@@ -331,7 +331,7 @@ w	prep:loc:nwok	w-i
 Tunezji	subst:sg:gen:f	Tunezja-n
 .	interp	.-x
 </s>
-<s id="19:18" video="https://media.dipintra.it/?id=19&start=05.30&end=05.40&collection=eptic3">
+<s id="19:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.05.30&end=00.05.40">
 Obydwa	num:pl:nom:m3:congr	obydwa-x
 te	adj:pl:nom:m3:pos	ten-j
 punkty	subst:pl:nom:m3	punkt-n
@@ -344,7 +344,7 @@ sesji	subst:sg:loc:f	sesja-n
 plenarnej	adj:sg:loc:f:pos	plenarny-j
 .	interp	.-x
 </s>
-<s id="19:19" video="https://media.dipintra.it/?id=19&start=05.40&end=05.58&collection=eptic3">
+<s id="19:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.05.40&end=00.05.58">
 Pragnę	fin:sg:pri:imperf	pragnąć-v
 też	qub	też-x
 przypomnieć	inf:perf	przypomnieć-v
@@ -364,7 +364,7 @@ klęsk	subst:pl:gen:f	klęska-n
 naturalnych	adj:pl:gen:f:pos	naturalny-j
 .	interp	.-x
 </s>
-<s id="19:20" video="https://media.dipintra.it/?id=19&start=05.58&end=06.13&collection=eptic3">
+<s id="19:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=19.mp4&start=00.05.58&end=00.06.13">
 Łączymy	fin:pl:pri:imperf	łączyć-v
 się	qub	się-x
 w	prep:loc:nwok	w-i
@@ -393,12 +393,12 @@ krajów	subst:pl:gen:m3	kraj-n
 <speaker name="Czarnecki  Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="80" duration="short" durations="65.0" speed="slow" speedwm="73.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1984:1" video="https://media.dipintra.it/?id=1984&start=00.00&end=00.10&collection=eptic3">
+<s id="1984:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.00.00&end=00.00.10">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="1984:2" video="https://media.dipintra.it/?id=1984&start=00.10&end=00.16&collection=eptic3">
+<s id="1984:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.00.10&end=00.00.16">
 To	pred	to-x
 bardzo	adv:pos	bardzo-a
 ważny	adj:sg:acc:m3:pos	ważny-j
@@ -410,7 +410,7 @@ drażliwy	adj:sg:acc:m3:pos	drażliwy-j
 temat	subst:sg:acc:m3	temat-n
 .	interp	.-x
 </s>
-<s id="1984:3" video="https://media.dipintra.it/?id=1984&start=00.16&end=00.35&collection=eptic3">
+<s id="1984:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.00.16&end=00.00.35">
 Przypomnę	fin:sg:pri:perf	przypomnieć-v
 ,	interp	"-x
 że	comp	że-c
@@ -443,7 +443,7 @@ natury	subst:sg:gen:f	natura-n
 politycznej	adj:sg:gen:f:pos	polityczny-j
 .	interp	.-x
 </s>
-<s id="1984:4" video="https://media.dipintra.it/?id=1984&start=00.35&end=00.42&collection=eptic3">
+<s id="1984:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.00.35&end=00.00.42">
 Ehm	FPAUSE	ehm
 teraz	adv	teraz-a
 ehm	FPAUSE	ehm
@@ -465,7 +465,7 @@ budzi	fin:sg:ter:imperf	budzić-v
 emocje	subst:pl:acc:f	emocja-n
 .	interp	.-x
 </s>
-<s id="1984:5" video="https://media.dipintra.it/?id=1984&start=00.42&end=01.18&collection=eptic3">
+<s id="1984:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.00.42&end=00.01.18">
 Ehm	FPAUSE	ehm
 myślę	fin:sg:pri:imperf	myślić-v
 że	comp	że-c
@@ -524,7 +524,7 @@ dzieci	subst:pl:gen:n	dziecko-n
 rodzicom	subst:pl:dat:m1	rodzic-n
 .	interp	.-x
 </s>
-<s id="1984:6" video="https://media.dipintra.it/?id=1984&start=01.18&end=01.36&collection=eptic3">
+<s id="1984:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1984.mp4&start=00.01.18&end=00.01.36">
 Przed	prep:inst:nwok	przed-i
 tym	subst:sg:inst:n	to-n
 bym	ppas:sg:inst:n:perf:aff	bym-v
@@ -541,14 +541,14 @@ przestrzegać	inf:imperf	przestrzegać-v
 <speaker name="Buzek Jerzy" gender="M" country="Poland" politfunc="President of the EP" politgroup="PPE">
 <st language="pl" length="short" lengthw="239" duration="medium" durations="222.0" speed="slow" speedwm="64.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1985:1&collection=eptic3">
+<s id="1985:1">
 Szanowne	adj:pl:nom:f:pos	szanowny-j
 Koleżanki	subst:pl:nom:f	koleżanka-n
 i	conj	i-c
 Koledzy	subst:pl:nom:m1	kolega-n
 !	interp	!-x
 </s>
-<s id="1985:2&collection=eptic3">
+<s id="1985:2">
 Z	prep:inst:nwok	z-i
 wielkimi	adj:pl:inst:f:pos	wielki-j
 obawami	subst:pl:inst:f	obawa-n
@@ -569,7 +569,7 @@ w	prep:loc:nwok	w-i
 Tunezji	subst:sg:gen:f	Tunezja-n
 .	interp	.-x
 </s>
-<s id="1985:3&collection=eptic3">
+<s id="1985:3">
 Pokojowe	adj:pl:nom:f:pos	pokojowy-j
 demonstracje	subst:pl:nom:f	demonstracja-n
 w	prep:loc:nwok	w-i
@@ -596,7 +596,7 @@ swoim	adj:pl:dat:m1:pos	swój-j
 obywatelom	subst:pl:dat:m1	obywatel-n
 .	interp	.-x
 </s>
-<s id="1985:4&collection=eptic3">
+<s id="1985:4">
 Dziś	adv	dziś-a
 chylimy	fin:pl:pri:imperf	chylić-v
 głowy	subst:pl:acc:f	głowa-n
@@ -606,7 +606,7 @@ tych	adj:pl:gen:n:pos	ten-j
 wydarzeń	subst:pl:gen:n	wydarzenie-n
 .	interp	.-x
 </s>
-<s id="1985:5&collection=eptic3">
+<s id="1985:5">
 Nasze	adj:sg:acc:n:pos	nasz-j
 głębokie	adj:sg:acc:n:pos	głęboki-j
 współczucie	subst:sg:acc:n	współczucie-n
@@ -621,7 +621,7 @@ swoich	adj:pl:acc:m1:pos	swój-j
 najbliższych	subst:pl:acc:m1	najbliższy-n
 .	interp	.-x
 </s>
-<s id="1985:6&collection=eptic3">
+<s id="1985:6">
 Szczególnie	adv:pos	szczególnie-a
 wspominamy	fin:pl:pri:imperf	wspominać-v
 pierwszą	adj:sg:acc:f:pos	pierwszy-j
@@ -633,7 +633,7 @@ Mohammeda	subst:sg:gen:m1	Mohammed-n
 Bouazizi	subst:sg:gen:m1	Bouazizi-n
 .	interp	.-x
 </s>
-<s id="1985:7&collection=eptic3">
+<s id="1985:7">
 Ten	adj:sg:nom:m3:pos	ten-j
 tragiczny	adj:sg:nom:m3:pos	tragiczny-j
 gest	subst:sg:nom:m3	gest-n
@@ -650,7 +650,7 @@ tunezyjskiego	adj:sg:gen:m1:pos	tunezyjski-j
 społeczeństwa	subst:sg:gen:n	społeczeństwo-n
 .	interp	.-x
 </s>
-<s id="1985:8&collection=eptic3">
+<s id="1985:8">
 Uczcijmy	impt:pl:pri:perf	uczcić-v
 minutą	subst:sg:inst:f	minuta-n
 ciszy	subst:sg:gen:f	cisza-n
@@ -660,7 +660,7 @@ tunezyjskich	adj:pl:acc:m1:pos	tunezyjski-j
 przyjaciół	subst:pl:acc:m1	przyjaciel-n
 .	interp	.-x
 </s>
-<s id="1985:9&collection=eptic3">
+<s id="1985:9">
 Proszę	fin:sg:pri:imperf	prosić-v
 o	prep:acc	o-i
 powstanie	ger:sg:acc:n:perf:aff	powstać-v
@@ -668,19 +668,19 @@ z	prep:gen:nwok	z-i
 miejsc	subst:pl:gen:n	miejsce-n
 .	interp	.-x
 </s>
-<s id="1985:10&collection=eptic3">
+<s id="1985:10">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
 </s>
-<s id="1985:11&collection=eptic3">
+<s id="1985:11">
 Drogie	adj:pl:nom:m3:pos	drogi-j
 Koleżanki	subst:pl:nom:f	koleżanka-n
 i	conj	i-c
 Koledzy	subst:pl:nom:m1	kolega-n
 !	interp	!-x
 </s>
-<s id="1985:12&collection=eptic3">
+<s id="1985:12">
 "	interp	"-x
 Jaśminowa	adj:sg:nom:f:pos	jaśminowy-j
 rewolucja	subst:sg:nom:f	rewolucja-n
@@ -688,7 +688,7 @@ rewolucja	subst:sg:nom:f	rewolucja-n
 trwa	fin:sg:ter:imperf	trwać-v
 .	interp	.-x
 </s>
-<s id="1985:13&collection=eptic3">
+<s id="1985:13">
 Pod	prep:inst:nwok	pod-i
 wieloma	num:pl:inst:m3:congr	wiele-x
 względami	subst:pl:inst:m3	wzgląd-n
@@ -699,7 +699,7 @@ historyczny	adj:sg:nom:m3:pos	historyczny-j
 czas	subst:sg:nom:m3	czas-n
 .	interp	.-x
 </s>
-<s id="1985:14&collection=eptic3">
+<s id="1985:14">
 Chcę	fin:sg:pri:imperf	chcieć-v
 wyrazić	inf:perf	wyrazić-v
 głębokie	adj:sg:acc:n:pos	głęboki-j
@@ -712,7 +712,7 @@ obywateli	subst:pl:gen:m1	obywatel-n
 Tunezji	subst:sg:gen:f	Tunezja-n
 .	interp	.-x
 </s>
-<s id="1985:15&collection=eptic3">
+<s id="1985:15">
 To	pred	to-x
 oni	ppron3:pl:nom:m1:ter	on-x
 są	fin:pl:ter:imperf	być-v
@@ -721,7 +721,7 @@ tych	adj:pl:gen:f:pos	ten-j
 zmian	subst:pl:gen:f	zmiana-n
 .	interp	.-x
 </s>
-<s id="1985:16&collection=eptic3">
+<s id="1985:16">
 Ale	conj	ale-c
 to	pred	to-x
 dopiero	qub	dopiero-x
@@ -730,7 +730,7 @@ długiej	adj:sg:gen:f:pos	długi-j
 drogi	subst:sg:gen:f	droga-n
 .	interp	.-x
 </s>
-<s id="1985:17&collection=eptic3">
+<s id="1985:17">
 Jako	conj	jako-c
 Europejczycy	subst:pl:nom:m1	Europejczyk-n
 dzielimy	fin:pl:pri:imperf	dzielić-v
@@ -748,7 +748,7 @@ pełnej	adj:sg:loc:f:pos	pełny-j
 realizacji	subst:sg:loc:f	realizacja-n
 .	interp	.-x
 </s>
-<s id="1985:18&collection=eptic3">
+<s id="1985:18">
 Europejczycy	subst:pl:nom:m1	Europejczyk-n
 są	fin:pl:ter:imperf	być-v
 szczególnie	adv:pos	szczególnie-a
@@ -775,7 +775,7 @@ przeszłości	subst:sg:gen:f	przeszłość-n
 przyszłości	subst:sg:gen:f	przyszłość-n
 .	interp	.-x
 </s>
-<s id="1985:19&collection=eptic3">
+<s id="1985:19">
 Dlatego	adv	dlatego-a
 nie	qub	nie-x
 pozostajemy	fin:pl:pri:imperf	pozostawać-v
@@ -783,7 +783,7 @@ dziś	adv	dziś-a
 obojętni	adj:pl:nom:m1:pos	obojętny-j
 .	interp	.-x
 </s>
-<s id="1985:20&collection=eptic3">
+<s id="1985:20">
 Wzywamy	fin:pl:pri:imperf	wzywać-v
 ,	interp	"-x
 by	comp	by-c
@@ -803,7 +803,7 @@ rządów	subst:pl:gen:m3	rząd-n
 prawa	subst:sg:gen:n	prawo-n
 .	interp	.-x
 </s>
-<s id="1985:21&collection=eptic3">
+<s id="1985:21">
 I	conj	i-c
 mamy	fin:pl:pri:imperf	mieć-v
 także	qub	także-x
@@ -811,7 +811,7 @@ fundamentalne	adj:pl:acc:n:pos	fundamentalny-j
 postulaty	subst:pl:nom:m3	postulat-n
 .	interp	.-x
 </s>
-<s id="1985:22&collection=eptic3">
+<s id="1985:22">
 Po	prep:acc	po-i
 pierwsze	adj:sg:acc:n:pos	pierwszy-j
 ,	interp	"-x
@@ -821,7 +821,7 @@ arbitralnie	adv:pos	arbitralnie-a
 aresztowanych	ppas:pl:gen:m1:perf:aff	aresztować-v
 .	interp	.-x
 </s>
-<s id="1985:23&collection=eptic3">
+<s id="1985:23">
 Po	prep:acc	po-i
 drugie	adj:sg:acc:n:pos	drugi-j
 ,	interp	"-x
@@ -842,7 +842,7 @@ nadużycia	subst:pl:nom:n	nadużycie-n
 siły	subst:sg:gen:f	siła-n
 .	interp	.-x
 </s>
-<s id="1985:24&collection=eptic3">
+<s id="1985:24">
 Po	prep:acc	po-i
 trzecie	adj:sg:acc:n:pos	trzeci-j
 ,	interp	"-x
@@ -878,7 +878,7 @@ wszystkich	adj:pl:gen:m1:pos	wszystek-j
 Tunezyjczyków	subst:pl:gen:m1	Tunezyjczyk-n
 .	interp	.-x
 </s>
-<s id="1985:25&collection=eptic3">
+<s id="1985:25">
 Unię	subst:sg:acc:f	unia-n
 Europejską	adj:sg:acc:f:pos	europejski-j
 i	conj	i-c
@@ -888,7 +888,7 @@ długoletnie	adj:sg:acc:n1:pos	długoletni-j
 partnerstwo	subst:sg:acc:n	partnerstwo-n
 .	interp	.-x
 </s>
-<s id="1985:26&collection=eptic3">
+<s id="1985:26">
 To	pred	to-x
 są	fin:pl:ter:imperf	być-v
 nasi	adj:pl:nom:m1:pos	nasz-j
@@ -898,7 +898,7 @@ Morza	subst:sg:gen:n	morze-n
 Śródziemnego	adj:sg:gen:n:pos	Śródziemny-j
 .	interp	.-x
 </s>
-<s id="1985:27&collection=eptic3">
+<s id="1985:27">
 To	adj:sg:nom:n:pos	ten-j
 partnerstwo	subst:sg:nom:n	partnerstwo-n
 musi	fin:sg:ter:imperf	musieć-v
@@ -913,7 +913,7 @@ i	conj	i-c
 Europejczykom	subst:pl:dat:m1	Europejczyk-n
 .	interp	.-x
 </s>
-<s id="1985:28&collection=eptic3">
+<s id="1985:28">
 Nasze	adj:sg:nom:n:pos	nasz-j
 partnerstwo	subst:sg:nom:n	partnerstwo-n
 ,	interp	"-x
@@ -935,7 +935,7 @@ głębokim	adj:sg:inst:m3:pos	głęboki-j
 przemianom	subst:pl:dat:m3	przemian-n
 .	interp	.-x
 </s>
-<s id="1985:29&collection=eptic3">
+<s id="1985:29">
 Musimy	fin:pl:pri:imperf	musieć-v
 pomóc	inf:perf	pomóc-v
 Tunezji	subst:sg:gen:f	Tunezja-n
@@ -943,21 +943,21 @@ odnieść	inf:perf	odnieść-v
 sukces	subst:sg:acc:m3	sukces-n
 .	interp	.-x
 </s>
-<s id="1985:30&collection=eptic3">
+<s id="1985:30">
 Drogie	adj:pl:nom:m3:pos	drogi-j
 Koleżanki	subst:pl:nom:f	koleżanka-n
 i	conj	i-c
 Koledzy	subst:pl:nom:m1	kolega-n
 !	interp	!-x
 </s>
-<s id="1985:31&collection=eptic3">
+<s id="1985:31">
 Bądźmy	impt:pl:pri:perf	być-v
 po	prep:loc	po-i
 stronie	subst:sg:loc:f	strona-n
 Tunezyjczyków	subst:pl:gen:m1	Tunezyjczyk-n
 .	interp	.-x
 </s>
-<s id="1985:32&collection=eptic3">
+<s id="1985:32">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -970,7 +970,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="227" duration="medium" durations="125.0" speed="slow" speedwm="109.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1986:1" video="https://media.dipintra.it/?id=1986&start=00.00&end=00.08&collection=eptic3">
+<s id="1986:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.00&end=00.00.08">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 ,	interp	"-x
@@ -981,7 +981,7 @@ szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="1986:2" video="https://media.dipintra.it/?id=1986&start=00.08&end=00.20&collection=eptic3">
+<s id="1986:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.08&end=00.00.20">
 Miesiąc	subst:sg:acc:m3	miesiąc-n
 temu	prep:acc	temu-i
 wraz	adv	wraz-a
@@ -1013,7 +1013,7 @@ organizacjami	subst:pl:inst:f	organizacja-n
 pozarządowymi	adj:pl:inst:f:pos	pozarządowy-j
 .	interp	.-x
 </s>
-<s id="1986:3" video="https://media.dipintra.it/?id=1986&start=00.20&end=00.29&collection=eptic3">
+<s id="1986:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.20&end=00.00.29">
 Ehm	FPAUSE	ehm
 przemysł	subst:sg:nom:m3	przemysł-n
 drzewny	adj:sg:nom:m3:pos	drzewny-j
@@ -1040,7 +1040,7 @@ ropie	subst:sg:dat:f	ropa-n
 naftowej	adj:sg:dat:f:pos	naftowy-j
 .	interp	.-x
 </s>
-<s id="1986:4" video="https://media.dipintra.it/?id=1986&start=00.29&end=00.40&collection=eptic3">
+<s id="1986:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.29&end=00.00.40">
 A	conj	a-c
 warto	pred	warto-x
 przypomnieć	inf:perf	przypomnieć-v
@@ -1082,7 +1082,7 @@ dużym	adj:sg:inst:n:pos	duży-j
 opóźnieniem	subst:sg:inst:n	opóźnienie-n
 .	interp	.-x
 </s>
-<s id="1986:5" video="https://media.dipintra.it/?id=1986&start=00.40&end=00.50&collection=eptic3">
+<s id="1986:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.40&end=00.00.50">
 Jednocześnie	adv:pos	jednocześnie-a
 rząd	subst:sg:nom:m3	rząd-n
 Republiki	subst:sg:gen:f	republika-n
@@ -1105,7 +1105,7 @@ program	subst:sg:acc:m3	program-n
 zalesiania	ger:sg:gen:n:imperf:aff	zalesiać-v
 .	interp	.-x
 </s>
-<s id="1986:6" video="https://media.dipintra.it/?id=1986&start=00.50&end=00.57&collection=eptic3">
+<s id="1986:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.50&end=00.00.57">
 My	ppron12:pl:nom:m1:pri	my-x
 oczywiście	qub	oczywiście-x
 jeszcze	qub	jeszcze-x
@@ -1136,7 +1136,7 @@ to	subst:sg:nom:n	to-n
 powiodło	praet:sg:n:perf	powieść-v
 .	interp	.-x
 </s>
-<s id="1986:7" video="https://media.dipintra.it/?id=1986&start=00.57&end=01.03&collection=eptic3">
+<s id="1986:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.00.57&end=00.01.03">
 I	conj	i-c
 dlatego	adv	dlatego-a
 też	qub	też-x
@@ -1152,7 +1152,7 @@ ehm	FPAUSE	ehm
 drewnem	subst:sg:inst:n	drewno-n
 .	interp	.-x
 </s>
-<s id="1986:8" video="https://media.dipintra.it/?id=1986&start=01.03&end=01.14&collection=eptic3">
+<s id="1986:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.03&end=00.01.14">
 Równie	adv:pos	równie-a
 istotne	adj:sg:nom:n:pos	istotny-j
 jest	fin:sg:ter:imperf	być-v
@@ -1182,7 +1182,7 @@ praktyce	subst:sg:loc:f	praktyka-n
 nieskuteczne	adj:pl:nom:m3:pos	nieskuteczny-j
 .	interp	.-x
 </s>
-<s id="1986:9" video="https://media.dipintra.it/?id=1986&start=01.14&end=01.26&collection=eptic3">
+<s id="1986:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.14&end=00.01.26">
 Nie	qub	nie-x
 wiemy	fin:pl:pri:imperf	wiedzieć-v
 jeszcze	qub	jeszcze-x
@@ -1215,7 +1215,7 @@ zwracali	praet:pl:m1:imperf	zwracać-v
 uwagę	subst:sg:acc:f	uwaga-n
 .	interp	.-x
 </s>
-<s id="1986:10" video="https://media.dipintra.it/?id=1986&start=01.26&end=01.30&collection=eptic3">
+<s id="1986:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.26&end=00.01.30">
 Ale	conj	ale-c
 ,	interp	"-x
 tak	adv:pos	tak-a
@@ -1233,7 +1233,7 @@ okazał	praet:sg:m3:perf	okazać-v
 skuteczny	adj:sg:nom:m3:pos	skuteczny-j
 .	interp	.-x
 </s>
-<s id="1986:11" video="https://media.dipintra.it/?id=1986&start=01.30&end=01.39&collection=eptic3">
+<s id="1986:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.30&end=00.01.39">
 Musimy	fin:pl:pri:imperf	musieć-v
 też	qub	też-x
 pomóc	inf:perf	pomóc-v
@@ -1255,7 +1255,7 @@ handel	subst:sg:acc:m3	handel-n
 drewnem	subst:sg:inst:n	drewno-n
 .	interp	.-x
 </s>
-<s id="1986:12" video="https://media.dipintra.it/?id=1986&start=01.39&end=01.51&collection=eptic3">
+<s id="1986:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.39&end=00.01.51">
 Inicjatywa	subst:sg:nom:f	inicjatywa-n
 FLEGT	subst:sg:gen:m3	FLEGT-n
 ma	fin:sg:ter:imperf	mieć-v
@@ -1283,7 +1283,7 @@ wielu	num:pl:loc:m3:congr	wiele-x
 krajach	subst:pl:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="1986:13" video="https://media.dipintra.it/?id=1986&start=01.51&end=02.01&collection=eptic3">
+<s id="1986:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.01.51&end=00.02.01">
 W	prep:loc:nwok	w-i
 przypadku	subst:sg:loc:m3	przypadek-n
 Republiki	subst:sg:gen:f	republika-n
@@ -1311,7 +1311,7 @@ tym	adj:sg:loc:m3:pos	ten-j
 kraju	subst:sg:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="1986:14" video="https://media.dipintra.it/?id=1986&start=02.01&end=02.19&collection=eptic3">
+<s id="1986:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.02.01&end=00.02.19">
 Dzięki	prep:dat	dzięki-i
 FLEGT	subst:sg:nom:m3	FLEGT-n
 światowy	adj:sg:acc:m3:pos	światowy-j
@@ -1331,7 +1331,7 @@ przyjazny	adj:sg:acc:m3:pos	przyjazny-j
 środowisku	subst:sg:dat:n	środowisko-n
 .	interp	.-x
 </s>
-<s id="1986:15" video="https://media.dipintra.it/?id=1986&start=02.19&end=02.28&collection=eptic3">
+<s id="1986:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.02.19&end=00.02.28">
 I	conj	i-c
 mamy	fin:pl:pri:imperf	mieć-v
 nadzieję	subst:sg:acc:f	nadzieja-n
@@ -1342,7 +1342,7 @@ się	qub	się-x
 stanie	fin:sg:ter:perf	stanąć-v
 .	interp	.-x
 </s>
-<s id="1986:16" video="https://media.dipintra.it/?id=1986&start=02.28&end=02.31&collection=eptic3">
+<s id="1986:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1986.mp4&start=00.02.28&end=00.02.31">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -1354,13 +1354,13 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Wojciechowski Janusz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="104" duration="short" durations="64.0" speed="slow" speedwm="97.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1987:1" video="https://media.dipintra.it/?id=1987&start=00.00&end=00.06&collection=eptic3">
+<s id="1987:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.00&end=00.00.06">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="1987:2" video="https://media.dipintra.it/?id=1987&start=00.06&end=00.12&collection=eptic3">
+<s id="1987:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.06&end=00.00.12">
 Ehm	FPAUSE	ehm
 mamy	fin:pl:pri:imperf	mieć-v
 do	prep:gen	do-i
@@ -1376,7 +1376,7 @@ mało	adv:pos	mało-a
 powiedziane	ppas:sg:nom:n:perf:aff	powiedzieć-v
 .	interp	.-x
 </s>
-<s id="1987:3" video="https://media.dipintra.it/?id=1987&start=00.12&end=00.17&collection=eptic3">
+<s id="1987:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.12&end=00.00.17">
 To	subst:sg:nom:n	To-n
 jest	fin:sg:ter:imperf	być-v
 wielkie	adj:sg:acc:n:pos	wielki-j
@@ -1386,7 +1386,7 @@ tysięcy	subst:pl:gen:m3	tysiąc-n
 ludzi	subst:pl:gen:m1	człowiek-n
 .	interp	.-x
 </s>
-<s id="1987:4" video="https://media.dipintra.it/?id=1987&start=00.17&end=00.20&collection=eptic3">
+<s id="1987:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.17&end=00.00.20">
 Ehm	FPAUSE	ehm
 zagrożenie	subst:sg:nom:n	zagrożenie-n
 życia	subst:sg:gen:n	życie-n
@@ -1394,7 +1394,7 @@ i	conj	i-c
 zdrowia	subst:sg:gen:n	zdrowie-n
 .	interp	.-x
 </s>
-<s id="1987:5" video="https://media.dipintra.it/?id=1987&start=00.20&end=00.33&collection=eptic3">
+<s id="1987:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.20&end=00.00.33">
 Ehm	FPAUSE	ehm
 liczę	fin:sg:pri:imperf	liczyć-v
 na	prep:acc	na-i
@@ -1430,7 +1430,7 @@ Unii	subst:sg:loc:f	unia-n
 Europejskiej	adj:sg:loc:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="1987:6" video="https://media.dipintra.it/?id=1987&start=00.33&end=00.35&collection=eptic3">
+<s id="1987:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.33&end=00.00.35">
 Ehm	FPAUSE	ehm
 rolnictwo	subst:sg:nom:n	rolnictwo-n
 stało	praet:sg:n:perf	stać-v
@@ -1438,7 +1438,7 @@ się	qub	się-x
 przemysłem	subst:sg:inst:m3	przemysł-n
 .	interp	.-x
 </s>
-<s id="1987:7" video="https://media.dipintra.it/?id=1987&start=00.35&end=00.54&collection=eptic3">
+<s id="1987:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.35&end=00.00.54">
 Już	qub	już-x
 nie	qub	nie-x
 mamy	fin:pl:pri:imperf	mieć-v
@@ -1484,7 +1484,7 @@ nie	qub	nie-x
 sprawdza	fin:sg:ter:imperf	sprawdzać-v
 .	interp	.-x
 </s>
-<s id="1987:8" video="https://media.dipintra.it/?id=1987&start=00.54&end=00.59&collection=eptic3">
+<s id="1987:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.54&end=00.00.59">
 To	pred	to-x
 jest	fin:sg:ter:imperf	być-v
 model	subst:sg:nom:m3	model-n
@@ -1496,7 +1496,7 @@ bezpieczeństwa	subst:sg:gen:n	bezpeczeństwo-n
 żywnościowego	adj:sg:gen:m3:pos	żywnościowy-j
 .	interp	.-x
 </s>
-<s id="1987:9" video="https://media.dipintra.it/?id=1987&start=00.59&end=01.23&collection=eptic3">
+<s id="1987:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.00.59&end=00.01.23">
 Wyjściem	subst:sg:inst:n	wyjście-n
 jest	fin:sg:ter:imperf	być-v
 większy	adj:sg:acc:m3:com	wielki-j
@@ -1527,7 +1527,7 @@ produkcji	subst:sg:loc:f	produkcja-n
 pasz	subst:pl:gen:f	pasza-n
 .	interp	.-x
 </s>
-<s id="1987:10" video="https://media.dipintra.it/?id=1987&start=01.23&end=01.31&collection=eptic3">
+<s id="1987:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1987.mp4&start=00.01.23&end=00.01.31">
 Powinniśmy	impt:pl:pri:perf	Powinniśmy-v
 to	qub	to-x
 popierać	inf:imperf	popierać-v
@@ -1541,17 +1541,17 @@ popierać	inf:imperf	popierać-v
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="220" duration="medium" durations="123.0" speed="slow" speedwm="107.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1988:1" video="https://media.dipintra.it/?id=1988&start=00.00&end=00.05&collection=eptic3">
+<s id="1988:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.00&end=00.00.05">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="1988:2" video="https://media.dipintra.it/?id=1988&start=00.05&end=00.07&collection=eptic3">
+<s id="1988:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.05&end=00.00.07">
 Szanowni	adj:pl:nom:m1:pos	szanowny-j
 Pańśtwo	subst:pl:nom:m1	Pańśtwo-n
 !	interp	!-x
 </s>
-<s id="1988:3" video="https://media.dipintra.it/?id=1988&start=00.07&end=00.10&collection=eptic3">
+<s id="1988:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.07&end=00.00.10">
 Unia	subst:sg:nom:f	unia-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 nie	qub	nie-x
@@ -1560,7 +1560,7 @@ o	prep:acc	o-i
 Haiti	subst:sg:acc:n	Haiti-n
 .	interp	.-x
 </s>
-<s id="1988:4" video="https://media.dipintra.it/?id=1988&start=00.10&end=00.13&collection=eptic3">
+<s id="1988:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.10&end=00.00.13">
 Do	prep:gen	do-i
 tej	adj:sg:gen:f:pos	ten-j
 pory	subst:sg:gen:f	pora-n
@@ -1571,7 +1571,7 @@ pomocy	subst:sg:gen:f	pomoc-n
 humanitarnej	adj:sg:gen:f:pos	humanitarny-j
 .	interp	.-x
 </s>
-<s id="1988:5" video="https://media.dipintra.it/?id=1988&start=00.13&end=00.20&collection=eptic3">
+<s id="1988:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.13&end=00.00.20">
 Natomiast	conj	natomiast-c
 przygnębiające	pact:pl:nom:m2:imperf:aff	przygnębiać-v
 jest	fin:sg:ter:imperf	być-v
@@ -1589,7 +1589,7 @@ i	conj	i-c
 politycznym	adj:sg:loc:m3:pos	polityczny-j
 .	interp	.-x
 </s>
-<s id="1988:6" video="https://media.dipintra.it/?id=1988&start=00.20&end=00.25&collection=eptic3">
+<s id="1988:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.20&end=00.00.25">
 Działania	subst:pl:nom:n	działanie-n
 pomocy	subst:sg:gen:f	pomoc-n
 humanitarnej	adj:sg:gen:f:pos	humanitarny-j
@@ -1607,7 +1607,7 @@ powiedzieć	inf:perf	powiedzieć-v
 etapach	subst:pl:loc:m3	etap-n
 .	interp	.-x
 </s>
-<s id="1988:7" video="https://media.dipintra.it/?id=1988&start=00.25&end=00.32&collection=eptic3">
+<s id="1988:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.25&end=00.00.32">
 Pierwszy	adj:sg:nom:m3:pos	pierwszy-j
 etap	subst:sg:nom:m3	etap-n
 udzielanej	ppas:sg:gen:f:imperf:aff	udzielać-v
@@ -1621,7 +1621,7 @@ najpilniejszych	adj:pl:gen:f:sup	pilny-j
 potrzebach	subst:pl:loc:f	potrzeba-n
 .	interp	.-x
 </s>
-<s id="1988:8" video="https://media.dipintra.it/?id=1988&start=00.32&end=00.39&collection=eptic3">
+<s id="1988:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.32&end=00.00.39">
 Na	prep:loc	Na-i
 drugim	adj:sg:loc:m3:pos	drugi-j
 etapie	subst:sg:loc:m3	etap-n
@@ -1640,7 +1640,7 @@ i	conj	i-c
 społeczno-politycznej	adj:sg:gen:f:pos	społeczno-politycznej-j
 .	interp	.-x
 </s>
-<s id="1988:9" video="https://media.dipintra.it/?id=1988&start=00.39&end=00.55&collection=eptic3">
+<s id="1988:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.39&end=00.00.55">
 Ale	conj	ale-c
 ze	prep:gen:wok	ze-i
 względu	subst:sg:gen:m3	wzgląd-n
@@ -1678,7 +1678,7 @@ początkowo	adv:pos	początkowo-a
 spodziewaliśmy	fin:pl:pri:imperf	spodziewaliśmy-v
 .	interp	.-x
 </s>
-<s id="1988:10" video="https://media.dipintra.it/?id=1988&start=00.55&end=01.03&collection=eptic3">
+<s id="1988:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.00.55&end=00.01.03">
 I	conj	i-c
 też	qub	też-x
 nie	qub	nie-x
@@ -1706,7 +1706,7 @@ byśmy	aglt:pl:pri:imperf:nwok	byśmy-v
 chcieli	praet:pl:m1:imperf	chcieć-v
 .	interp	.-x
 </s>
-<s id="1988:11" video="https://media.dipintra.it/?id=1988&start=01.03&end=01.06&collection=eptic3">
+<s id="1988:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.03&end=00.01.06">
 Kryzys	subst:sg:nom:m3	kryzys-n
 na	prep:loc	na-i
 Haiti	subst:sg:loc:n	Haiti-n
@@ -1714,7 +1714,7 @@ trwa	fin:sg:ter:imperf	trwać-v
 nadal	adv	nadal-a
 .	interp	.-x
 </s>
-<s id="1988:12" video="https://media.dipintra.it/?id=1988&start=01.06&end=01.09&collection=eptic3">
+<s id="1988:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.06&end=00.01.09">
 I	conj	i-c
 cały	adj:sg:acc:m3:pos	cały-j
 czas	subst:sg:acc:m3	czas-n
@@ -1724,7 +1724,7 @@ nasze	adj:sg:nom:n:pos	nasz-j
 zaangażowanie	subst:sg:nom:n	zaangażowanie-n
 .	interp	.-x
 </s>
-<s id="1988:13" video="https://media.dipintra.it/?id=1988&start=01.09&end=01.11&collection=eptic3">
+<s id="1988:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.09&end=00.01.11">
 Nie	qub	nie-x
 możemy	fin:pl:pri:imperf	móc-v
 zapominać	inf:imperf	zapominać-v
@@ -1733,7 +1733,7 @@ naszych	adj:pl:loc:n:pos	nasz-j
 zobowiązaniach	subst:pl:loc:n	zobowiązanie-n
 .	interp	.-x
 </s>
-<s id="1988:14" video="https://media.dipintra.it/?id=1988&start=01.11&end=01.20&collection=eptic3">
+<s id="1988:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.11&end=00.01.20">
 Zresztą	qub	zresztą-x
 pan	subst:sg:nom:m1	pan-n
 komisarz	subst:sg:nom:m1	komisarz-n
@@ -1758,7 +1758,7 @@ były	praet:pl:m2:imperf	być-v
 obiecane	ppas:pl:nom:m2:perf:aff	obiecać-v
 .	interp	.-x
 </s>
-<s id="1988:15" video="https://media.dipintra.it/?id=1988&start=01.20&end=01.23&collection=eptic3">
+<s id="1988:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.20&end=00.01.23">
 I	conj	i-c
 tutaj	adv	tutaj-a
 jesteśmy	fin:pl:pri:imperf	być-v
@@ -1769,7 +1769,7 @@ o	prep:acc	o-i
 wykonanie	ger:sg:acc:n:perf:aff	wykonać-v
 .	interp	.-x
 </s>
-<s id="1988:16" video="https://media.dipintra.it/?id=1988&start=01.23&end=01.33&collection=eptic3">
+<s id="1988:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.23&end=00.01.33">
 Celem	subst:sg:inst:m3	cel-n
 rezolucji	subst:sg:gen:f	rezolucja-n
 ,	interp	"-x
@@ -1796,7 +1796,7 @@ które	adj:pl:nom:f:pos	który-j
 składaliśmy	subst:pl:nom:f	składaliśmy-n
 .	interp	.-x
 </s>
-<s id="1988:17" video="https://media.dipintra.it/?id=1988&start=01.33&end=01.43&collection=eptic3">
+<s id="1988:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.33&end=00.01.43">
 Pamiętajmy	impt:pl:pri:imperf	pamiętać-v
 o	prep:loc	o-i
 tym	subst:sg:loc:n	to-n
@@ -1821,7 +1821,7 @@ tysiąca	subst:sg:gen:m3	tysiąc-n
 osób	subst:pl:gen:f	osoba-n
 .	interp	.-x
 </s>
-<s id="1988:18" video="https://media.dipintra.it/?id=1988&start=01.43&end=01.49&collection=eptic3">
+<s id="1988:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.43&end=00.01.49">
 Od	prep:gen:nwok	od-i
 samego	adj:sg:gen:m3:pos	sam-j
 początku	subst:sg:gen:m3	początek-n
@@ -1838,7 +1838,7 @@ sami	adj:pl:nom:m1:pos	sam-j
 Haitańczycy	subst:pl:voc:m1	Haitańczyk-n
 .	interp	.-x
 </s>
-<s id="1988:19" video="https://media.dipintra.it/?id=1988&start=01.49&end=01.57&collection=eptic3">
+<s id="1988:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.49&end=00.01.57">
 Haitański	adj:sg:nom:m3:pos	haitański-j
 plan	subst:sg:nom:m3	plan-n
 odbudowy	subst:sg:gen:f	odbudowa-n
@@ -1860,7 +1860,7 @@ bezpieczeństwo	subst:sg:acc:n	bezpieczeństwo-n
 żywnościowe	adj:pl:nom:m3:pos	żywnościowy-j
 .	interp	.-x
 </s>
-<s id="1988:20" video="https://media.dipintra.it/?id=1988&start=01.57&end=02.01&collection=eptic3">
+<s id="1988:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.01.57&end=00.02.01">
 I	conj	i-c
 my	ppron12:pl:nom:m1:pri	ja-x
 te	adj:pl:nom:m3:pos	ten-j
@@ -1871,14 +1871,14 @@ haitańskie	adj:pl:nom:m2:pos	haitański-j
 respektujemy	fin:pl:pri:imperf	respektować-v
 .	interp	.-x
 </s>
-<s id="1988:21" video="https://media.dipintra.it/?id=1988&start=02.01&end=02.02&collection=eptic3">
+<s id="1988:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.02.01&end=00.02.02">
 Jeszcze	qub	jeszcze-x
 jeden	adj:sg:nom:m3:pos	jeden-j
 jest	fin:sg:ter:imperf	być-v
 wniosek	subst:sg:nom:m3	wniosek-n
 .	interp	.-x
 </s>
-<s id="1988:22" video="https://media.dipintra.it/?id=1988&start=02.02&end=02.30&collection=eptic3">
+<s id="1988:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1988.mp4&start=00.02.02&end=00.02.30">
 Musimy	fin:pl:pri:imperf	musieć-v
 wzmocnić	inf:perf	wzmocnić-v
 nasze	adj:pl:acc:f:pos	nasz-j
@@ -1907,7 +1907,7 @@ pracuje	fin:sg:ter:imperf	pracować-v
 <speaker name="Ziobro Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="107" duration="short" durations="55.0" speed="slow" speedwm="116.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1989:1" video="https://media.dipintra.it/?id=1989&start=00.00&end=00.18&collection=eptic3">
+<s id="1989:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.00&end=00.00.18">
 Na	prep:loc	Na-i
 Haiti	subst:sg:loc:n	Haiti-n
 doszło	praet:sg:n:perf	dojść-v
@@ -1936,7 +1936,7 @@ pozbawionych	ppas:pl:gen:f:perf:aff	pozbawić-v
 domów	subst:pl:gen:m3	dom-n
 .	interp	.-x
 </s>
-<s id="1989:2" video="https://media.dipintra.it/?id=1989&start=00.18&end=00.20&collection=eptic3">
+<s id="1989:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.18&end=00.00.20">
 Od	prep:gen:nwok	od-i
 roku	subst:sg:gen:m3	rok-n
 trwa	fin:sg:ter:imperf	trwać-v
@@ -1946,7 +1946,7 @@ i	conj	i-c
 odbudowy	subst:sg:gen:f	odbudowa-n
 .	interp	.-x
 </s>
-<s id="1989:3" video="https://media.dipintra.it/?id=1989&start=00.20&end=00.25&collection=eptic3">
+<s id="1989:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.20&end=00.00.25">
 Jest	fin:sg:ter:imperf	być-v
 to	subst:sg:nom:n	to-n
 bez	prep:gen:nwok	bez-i
@@ -1959,7 +1959,7 @@ akcja	subst:sg:nom:f	akcja-n
 humanitarna	adj:sg:nom:f:pos	humanitarny-j
 .	interp	.-x
 </s>
-<s id="1989:4" video="https://media.dipintra.it/?id=1989&start=00.25&end=00.35&collection=eptic3">
+<s id="1989:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.25&end=00.00.35">
 Wyspa	subst:sg:nom:f	Wyspa-n
 jednak	qub	jednak-x
 potrzebuje	fin:sg:ter:imperf	potrzebować-v
@@ -1986,7 +1986,7 @@ się	qub	się-x
 rozwijać	inf:imperf	rozwijać-v
 .	interp	.-x
 </s>
-<s id="1989:5" video="https://media.dipintra.it/?id=1989&start=00.35&end=00.43&collection=eptic3">
+<s id="1989:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.35&end=00.00.43">
 Co	subst:sg:nom:n	co-n
 więcej	adv:com	dużo-a
 ,	interp	"-x
@@ -2006,7 +2006,7 @@ tysiącom	subst:pl:dat:m3	tysiąc-n
 ludzi	subst:pl:gen:m1	człowiek-n
 .	interp	.-x
 </s>
-<s id="1989:6" video="https://media.dipintra.it/?id=1989&start=00.43&end=00.49&collection=eptic3">
+<s id="1989:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.43&end=00.00.49">
 Doświadczenie	subst:sg:nom:n	doświadczenie-n
 Haiti	subst:sg:acc:n	Haiti-n
 pokazuje	fin:sg:ter:imperf	pokazywać-v
@@ -2027,7 +2027,7 @@ właściwie	adv:pos	właściwie-a
 wydawane	ppas:pl:nom:m3:imperf:aff	wydawać-v
 .	interp	.-x
 </s>
-<s id="1989:7" video="https://media.dipintra.it/?id=1989&start=00.49&end=00.52&collection=eptic3">
+<s id="1989:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.49&end=00.00.52">
 Kazus	subst:sg:nom:m1	kazus-n
 Haiti	subst:sg:acc:n	Haiti-n
 ponadto	qub	ponadto-x
@@ -2038,7 +2038,7 @@ do	prep:gen	do-i
 myślenia	subst:sg:gen:n	myślenie-n
 .	interp	.-x
 </s>
-<s id="1989:8" video="https://media.dipintra.it/?id=1989&start=00.52&end=01.15&collection=eptic3">
+<s id="1989:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1989.mp4&start=00.00.52&end=00.01.15">
 Wyraźnie	adv:pos	wyraźnie-a
 wska-	DYSF	wska-
 wskazuje	fin:sg:ter:imperf	wskazywać-v
@@ -2071,7 +2071,7 @@ zdarzyć	inf:perf	zdarzyć-v
 <speaker name="Wałęsa Jarosław Leszek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="190" duration="short" durations="105.0" speed="slow" speedwm="108.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1990:1" video="https://media.dipintra.it/?id=1990&start=00.00&end=00.09&collection=eptic3">
+<s id="1990:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.00&end=00.00.09">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 ,	interp	"-x
@@ -2079,7 +2079,7 @@ szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="1990:2" video="https://media.dipintra.it/?id=1990&start=00.09&end=00.16&collection=eptic3">
+<s id="1990:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.09&end=00.00.16">
 Niedługo	adv:pos	niedługo-a
 minie	fin:sg:ter:perf	minąć-v
 rok	subst:sg:acc:m3	rok-n
@@ -2098,7 +2098,7 @@ odbudowy	subst:sg:gen:f	odbudowa-n
 Haiti	subst:sg:acc:n	Haiti-n
 .	interp	.-x
 </s>
-<s id="1990:3" video="https://media.dipintra.it/?id=1990&start=00.16&end=00.25&collection=eptic3">
+<s id="1990:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.16&end=00.00.25">
 Więc	conj	więc-c
 ehm	FPAUSE	ehm
 dzisiaj	adv	dzisiaj-a
@@ -2123,7 +2123,7 @@ ciągle	adv:pos	ciągle-a
 przybywa	fin:sg:ter:imperf	przybywać-v
 .	interp	.-x
 </s>
-<s id="1990:4" video="https://media.dipintra.it/?id=1990&start=00.25&end=00.34&collection=eptic3">
+<s id="1990:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.25&end=00.00.34">
 Należy	fin:sg:ter:imperf	należeć-v
 tu	adv	tu-a
 podkreślić	inf:perf	podkreślić-v
@@ -2149,7 +2149,7 @@ nowych	adj:pl:gen:f:pos	nowy-j
 dróg	subst:pl:gen:f	droga-n
 .	interp	.-x
 </s>
-<s id="1990:5" video="https://media.dipintra.it/?id=1990&start=00.34&end=00.41&collection=eptic3">
+<s id="1990:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.34&end=00.00.41">
 Po	prep:acc	po-i
 pierwsze	adj:sg:acc:n:pos	pierwszy-j
 ,	interp	"-x
@@ -2168,7 +2168,7 @@ przemocy	subst:sg:gen:f	przemoc-n
 seksualnej	adj:sg:gen:f:pos	seksualny-j
 .	interp	.-x
 </s>
-<s id="1990:6" video="https://media.dipintra.it/?id=1990&start=00.41&end=00.52&collection=eptic3">
+<s id="1990:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.41&end=00.00.52">
 Jak	adv:pos	jak-a
 wykazują	fin:pl:ter:imperf	wykazywać-v
 źródła	subst:pl:nom:n	źródło-n
@@ -2194,7 +2194,7 @@ się	qub	się-x
 pogarsza	fin:sg:ter:imperf	pogarszać-v
 .	interp	.-x
 </s>
-<s id="1990:7" video="https://media.dipintra.it/?id=1990&start=00.52&end=00.55&collection=eptic3">
+<s id="1990:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.52&end=00.00.55">
 Ta	adj:sg:nom:f:pos	ten-j
 przemoc	subst:sg:nom:f	przemoc-n
 ehm	FPAUSE	ehm
@@ -2202,7 +2202,7 @@ ciągle	adv:pos	ciągle-a
 wzrasta	fin:sg:ter:imperf	wzrastać-v
 .	interp	.-x
 </s>
-<s id="1990:8" video="https://media.dipintra.it/?id=1990&start=00.55&end=01.04&collection=eptic3">
+<s id="1990:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.00.55&end=00.01.04">
 Najwyższy	adj:sg:nom:m3:sup	wysoki-j
 czas	subst:sg:nom:m3	czas-n
 zacząć	inf:perf	zacząć-v
@@ -2229,7 +2229,7 @@ na	prep:loc	na-i
 Haiti	subst:sg:loc:n	Haiti-n
 .	interp	.-x
 </s>
-<s id="1990:9" video="https://media.dipintra.it/?id=1990&start=01.04&end=01.09&collection=eptic3">
+<s id="1990:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.04&end=00.01.09">
 Drugą	adj:sg:inst:f:pos	drugi-j
 kwestią	subst:sg:inst:f	kwestia-n
 ,	interp	"-x
@@ -2245,7 +2245,7 @@ epidemii	subst:sg:gen:f	epidemia-n
 cholery	subst:sg:gen:f	cholera-n
 .	interp	.-x
 </s>
-<s id="1990:10" video="https://media.dipintra.it/?id=1990&start=01.09&end=01.13&collection=eptic3">
+<s id="1990:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.09&end=00.01.13">
 Liczba	subst:sg:nom:f	liczba-n
 zachorowań	subst:pl:gen:n	zachorowanie-n
 ehm	FPAUSE	ehm
@@ -2262,7 +2262,7 @@ porą	subst:sg:inst:f	pora-n
 roku	subst:sg:gen:m3	rok-n
 .	interp	.-x
 </s>
-<s id="1990:11" video="https://media.dipintra.it/?id=1990&start=01.13&end=01.23&collection=eptic3">
+<s id="1990:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.13&end=00.01.23">
 Ehm	FPAUSE	ehm
 ale	conj	ale-c
 z	prep:inst:nwok	z-i
@@ -2286,7 +2286,7 @@ objawy	subst:pl:acc:m3	objaw-n
 cholery	subst:sg:gen:f	cholera-n
 .	interp	.-x
 </s>
-<s id="1990:12" video="https://media.dipintra.it/?id=1990&start=01.23&end=01.36&collection=eptic3">
+<s id="1990:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.23&end=00.01.36">
 Ehm	FPAUSE	ehm
 no	qub	no-x
 nam	ppron12:pl:dat:m1:pri	my-x
@@ -2327,7 +2327,7 @@ zasadzie	subst:sg:loc:f	zasada-n
 szałasach	subst:pl:loc:m3	szałas-n
 .	interp	.-x
 </s>
-<s id="1990:13" video="https://media.dipintra.it/?id=1990&start=01.36&end=01.45&collection=eptic3">
+<s id="1990:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.36&end=00.01.45">
 Ehm	FPAUSE	ehm
 i	conj	i-c
 tutaj	adv	tutaj-a
@@ -2356,7 +2356,7 @@ pory	subst:sg:gen:f	pora-n
 roku	subst:sg:gen:m3	rok-n
 .	interp	.-x
 </s>
-<s id="1990:14" video="https://media.dipintra.it/?id=1990&start=01.45&end=02.12&collection=eptic3">
+<s id="1990:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1990.mp4&start=00.01.45&end=00.02.12">
 Dlatego	adv	dlatego-a
 też	qub	też-x
 musimy	fin:pl:pri:imperf	musieć-v
@@ -2383,7 +2383,7 @@ sytuację	subst:sg:acc:f	sytuacja-n
 <speaker name="Zemke Janusz Władysław" gender="M" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="long" lengthw="86" duration="short" durations="64.0" speed="slow" speedwm="80.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1991:1" video="https://media.dipintra.it/?id=1991&start=00.00&end=00.08&collection=eptic3">
+<s id="1991:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.00&end=00.00.08">
 Bardzo	adv:pos	bardzo-a
 chciałem	praet:sg:m1:imperf	chciałem-v
 podziękować	inf:perf	podziękować-v
@@ -2394,7 +2394,7 @@ Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="1991:2" video="https://media.dipintra.it/?id=1991&start=00.08&end=00.11&collection=eptic3">
+<s id="1991:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.08&end=00.00.11">
 Ehm	FPAUSE	ehm
 otóż	qub	otóż-x
 ehm	FPAUSE	ehm
@@ -2406,7 +2406,7 @@ dobrze	adv:pos	dobrze-a
 zrozumiany	ppas:sg:nom:m1:perf:aff	zrozumieć-v
 .	interp	.-x
 </s>
-<s id="1991:3" video="https://media.dipintra.it/?id=1991&start=00.11&end=00.19&collection=eptic3">
+<s id="1991:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.11&end=00.00.19">
 Ehm	FPAUSE	ehm
 nie	qub	nie-x
 mam	fin:sg:pri:imperf	mieć-v
@@ -2424,7 +2424,7 @@ dla	prep:gen	dla-i
 Haiti	subst:sg:acc:n	Haiti-n
 .	interp	.-x
 </s>
-<s id="1991:4" video="https://media.dipintra.it/?id=1991&start=00.19&end=00.31&collection=eptic3">
+<s id="1991:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.19&end=00.00.31">
 Ehm	FPAUSE	ehm
 Unia	subst:sg:nom:f	unia-n
 rzeczywiście	adv:pos	rzeczywiście-a
@@ -2454,7 +2454,7 @@ jak	prep:nom	jak-i
 Unia	subst:sg:nom:f	unia-n
 .	interp	.-x
 </s>
-<s id="1991:5" video="https://media.dipintra.it/?id=1991&start=00.31&end=00.39&collection=eptic3">
+<s id="1991:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.31&end=00.00.39">
 Ale	conj	ale-c
 chciałem	subst:sg:inst:n	chciałem-n
 przypomnieć	inf:perf	przypomnieć-v
@@ -2470,7 +2470,7 @@ po	prep:loc	po-i
 katastrofie	subst:sg:loc:f	katastrofa-n
 .	interp	.-x
 </s>
-<s id="1991:6" video="https://media.dipintra.it/?id=1991&start=00.39&end=00.46&collection=eptic3">
+<s id="1991:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.39&end=00.00.46">
 Unia	subst:sg:nom:f	unia-n
 działała	praet:sg:f:imperf	działać-v
 zbyt	qub	zbyt-x
@@ -2485,7 +2485,7 @@ ewidentnie	adv:pos	ewidentnie-a
 skoordynowana	ppas:sg:nom:f:perf:aff	skoordynować-v
 .	interp	.-x
 </s>
-<s id="1991:7" video="https://media.dipintra.it/?id=1991&start=00.46&end=00.58&collection=eptic3">
+<s id="1991:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.46&end=00.00.58">
 Chciałbym	subst:sg:nom:m1	Chciałbym-n
 się	qub	się-x
 więc	conj	więc-c
@@ -2507,7 +2507,7 @@ wówczas	adv	wówczas-a
 pomocy	subst:sg:gen:f	pomoc-n
 ?	interp	?-x
 </s>
-<s id="1991:8" video="https://media.dipintra.it/?id=1991&start=00.58&end=01.23&collection=eptic3">
+<s id="1991:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.00.58&end=00.01.23">
 Myślę	fin:sg:pri:imperf	myśleć-v
 ,	interp	"-x
 że	comp	że-c
@@ -2538,7 +2538,7 @@ ehm	FPAUSE	ehm
 umrzeć	inf:perf	umrzeć-v
 .	interp	.-x
 </s>
-<s id="1991:9" video="https://media.dipintra.it/?id=1991&start=01.23&end=01.29&collection=eptic3">
+<s id="1991:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1991.mp4&start=00.01.23&end=00.01.29">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -2550,12 +2550,12 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Skrzydlewska Joanna Katarzyna" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="167" duration="short" durations="81.0" speed="slow" speedwm="123.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1992:1" video="https://media.dipintra.it/?id=1992&start=00.00&end=00.05&collection=eptic3">
+<s id="1992:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.00&end=00.00.05">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="1992:2" video="https://media.dipintra.it/?id=1992&start=00.05&end=00.24&collection=eptic3">
+<s id="1992:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.05&end=00.00.24">
 Obecnie	adv:pos	obecnie-a
 na	prep:loc	na-i
 Litwie	subst:sg:loc:f	Litwa-n
@@ -2603,7 +2603,7 @@ międzynarodowe	adj:pl:acc:f:pos	międzynarodowy-j
 konwencje	subst:pl:acc:f	konwencja-n
 .	interp	.-x
 </s>
-<s id="1992:3" video="https://media.dipintra.it/?id=1992&start=00.24&end=00.36&collection=eptic3">
+<s id="1992:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.24&end=00.00.36">
 Niewątpliwie	adv:pos	niewątpliwie-a
 rolą	subst:sg:inst:f	rola-n
 Parlamentu	subst:sg:gen:m3	parlament-n
@@ -2639,7 +2639,7 @@ grup	subst:pl:gen:f	grupa-n
 społecznych	adj:pl:gen:f:pos	społeczny-j
 .	interp	.-x
 </s>
-<s id="1992:4" video="https://media.dipintra.it/?id=1992&start=00.36&end=00.39&collection=eptic3">
+<s id="1992:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.36&end=00.00.39">
 Parlament	subst:sg:nom:m3	parlament-n
 wielokrotnie	adv:pos	wielokrotnie-a
 podejmował	praet:sg:m3:imperf	podejmować-v
@@ -2649,7 +2649,7 @@ sprawach	subst:pl:loc:f	sprawa-n
 rezolucje	subst:pl:voc:f	rezolucja-n
 .	interp	.-x
 </s>
-<s id="1992:5" video="https://media.dipintra.it/?id=1992&start=00.39&end=00.43&collection=eptic3">
+<s id="1992:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.39&end=00.00.43">
 Zawsze	adv	zawsze-a
 przeciwstawiał	praet:sg:m1:imperf	przeciwstawiać-v
 się	qub	się-x
@@ -2661,7 +2661,7 @@ tych	adj:pl:gen:n:pos	ten-j
 praw	subst:pl:gen:n	prawo-n
 .	interp	.-x
 </s>
-<s id="1992:6" video="https://media.dipintra.it/?id=1992&start=00.43&end=00.54&collection=eptic3">
+<s id="1992:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.43&end=00.00.54">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j
 debata	subst:sg:nom:f	debata-n
 także	qub	także-x
@@ -2692,7 +2692,7 @@ orientację	subst:sg:acc:f	orientacja-n
 seksualną	adj:sg:acc:f:pos	seksualny-j
 .	interp	.-x
 </s>
-<s id="1992:7" video="https://media.dipintra.it/?id=1992&start=00.54&end=01.06&collection=eptic3">
+<s id="1992:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.00.54&end=00.01.06">
 Obawa	subst:sg:nom:f	obawa-n
 ta	adj:sg:nom:f:pos	ten-j
 uzasad-	DYSF	uzasad-
@@ -2722,7 +2722,7 @@ tego	adj:sg:gen:m3:pos	ten-j
 kraju	subst:sg:gen:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="1992:8" video="https://media.dipintra.it/?id=1992&start=01.06&end=01.18&collection=eptic3">
+<s id="1992:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.01.06&end=00.01.18">
 Mam	fin:sg:pri:imperf	mieć-v
 tu	adv	tu-a
 na	prep:loc	na-i
@@ -2752,7 +2752,7 @@ jednakowo	adv:pos	jednakowo-a
 traktowane	ppas:pl:nom:f:imperf:aff	traktować-v
 .	interp	.-x
 </s>
-<s id="1992:9" video="https://media.dipintra.it/?id=1992&start=01.18&end=01.49&collection=eptic3">
+<s id="1992:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.01.18&end=00.01.49">
 Dlatego	adv	dlatego-a
 warto	pred	warto-x
 podkreślać	inf:imperf	podkreślać-v
@@ -2783,7 +2783,7 @@ również	qub	również-x
 narodowym	adj:sg:inst:m3:pos	narodowy-j
 .	interp	.-x
 </s>
-<s id="1992:10" video="https://media.dipintra.it/?id=1992&start=01.49&end=01.49&collection=eptic3">
+<s id="1992:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1992.mp4&start=00.01.49&end=00.01.49">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -2795,12 +2795,12 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="132" duration="short" durations="73.0" speed="slow" speedwm="108.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1993:1" video="https://media.dipintra.it/?id=1993&start=00.00&end=00.04&collection=eptic3">
+<s id="1993:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.00&end=00.00.04">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
 </s>
-<s id="1993:2" video="https://media.dipintra.it/?id=1993&start=00.04&end=00.17&collection=eptic3">
+<s id="1993:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.04&end=00.00.17">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 się	qub	się-x
 ,	interp	"-x
@@ -2826,7 +2826,7 @@ Parlament	subst:sg:nom:m3	parlament-n
 Europejski	adj:sg:nom:m3:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="1993:3" video="https://media.dipintra.it/?id=1993&start=00.17&end=00.24&collection=eptic3">
+<s id="1993:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.17&end=00.00.24">
 Litewskie	adj:sg:nom:n:pos	litewski-j
 prawo	subst:sg:nom:n	prawo-n
 ,	interp	"-x
@@ -2848,7 +2848,7 @@ zostało	praet:sg:n:perf	zostać-v
 przyjęte	ppas:sg:nom:n:perf:aff	przyjąć-v
 .	interp	.-x
 </s>
-<s id="1993:4" video="https://media.dipintra.it/?id=1993&start=00.24&end=00.30&collection=eptic3">
+<s id="1993:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.24&end=00.00.30">
 Parlament	subst:sg:nom:m3	parlament-n
 Europejski	adj:sg:nom:m3:pos	europejski-j
 już	qub	już-x
@@ -2862,7 +2862,7 @@ państw	subst:pl:gen:n	państwo-n
 członkowskich	adj:pl:gen:n:pos	członkowski-j
 .	interp	.-x
 </s>
-<s id="1993:5" video="https://media.dipintra.it/?id=1993&start=00.30&end=00.37&collection=eptic3">
+<s id="1993:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.30&end=00.00.37">
 Myślę	fin:sg:pri:imperf	myśleć-v
 ,	interp	"-x
 że	comp	że-c
@@ -2885,7 +2885,7 @@ suwerennego	adj:sg:gen:m1:pos	suwerenny-j
 państwa	subst:pl:gen:m1	państwo-n
 .	interp	.-x
 </s>
-<s id="1993:6" video="https://media.dipintra.it/?id=1993&start=00.37&end=00.43&collection=eptic3">
+<s id="1993:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.37&end=00.00.43">
 Powinniśmy	fin:pl:pri:imperf	Powinniśmy-v
 z	prep:inst:nwok	z-i
 całą	adj:sg:inst:f:pos	cały-j
@@ -2901,7 +2901,7 @@ na	prep:loc	na-i
 Litwie	subst:sg:loc:f	Litwa-n
 .	interp	.-x
 </s>
-<s id="1993:7" video="https://media.dipintra.it/?id=1993&start=00.43&end=01.02&collection=eptic3">
+<s id="1993:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.00.43&end=00.01.02">
 Z	prep:inst:nwok	z-i
 całą	adj:sg:inst:f:pos	cały-j
 pewnością	subst:sg:inst:f	pewność-n
@@ -2946,7 +2946,7 @@ treści	subst:pl:gen:f	treść-n
 seksualnych	adj:pl:gen:f:pos	seksualny-j
 .	interp	.-x
 </s>
-<s id="1993:8" video="https://media.dipintra.it/?id=1993&start=01.02&end=01.03&collection=eptic3">
+<s id="1993:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.01.02&end=00.01.03">
 To	pred	to-x
 jest	fin:sg:ter:imperf	być-v
 zupełnie	adv:pos	zupełnie-a
@@ -2954,7 +2954,7 @@ naturalna	adj:sg:nom:f:pos	naturalny-j
 dyskusja	subst:sg:nom:f	dyskusja-n
 .	interp	.-x
 </s>
-<s id="1993:9" video="https://media.dipintra.it/?id=1993&start=01.03&end=01.07&collection=eptic3">
+<s id="1993:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.01.03&end=00.01.07">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 się	qub	się-x
 ,	interp	"-x
@@ -2969,7 +2969,7 @@ zupełnie	adv:pos	zupełnie-a
 pomijane	ppas:pl:nom:m2:imperf:aff	pomijać-v
 .	interp	.-x
 </s>
-<s id="1993:10" video="https://media.dipintra.it/?id=1993&start=01.07&end=01.27&collection=eptic3">
+<s id="1993:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.01.07&end=00.01.27">
 W	prep:loc:nwok	w-i
 tej	adj:sg:loc:f:pos	ten-j
 rezolucji	subst:sg:loc:f	rezolucja-n
@@ -3000,7 +3000,7 @@ prawami	subst:pl:inst:n	prawo-n
 dzieci	subst:pl:gen:n	dziecko-n
 .	interp	.-x
 </s>
-<s id="1993:11" video="https://media.dipintra.it/?id=1993&start=01.27&end=01.42&collection=eptic3">
+<s id="1993:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1993.mp4&start=00.01.27&end=00.01.42">
 Dlatego	adv	dlatego-a
 nie	qub	nie-x
 bardzo	adv:pos	bardzo-a
@@ -3018,7 +3018,7 @@ tekst	subst:sg:acc:m3	tekst-n
 <speaker name="Senyszyn Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="123" duration="short" durations="74.0" speed="slow" speedwm="99.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1994:1" video="https://media.dipintra.it/?id=1994&start=00.00&end=00.10&collection=eptic3">
+<s id="1994:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.00&end=00.00.10">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 ,	interp	"-x
@@ -3027,7 +3027,7 @@ i	conj	i-c
 koledzy	subst:pl:nom:m1	kolega-n
 .	interp	.-x
 </s>
-<s id="1994:2" video="https://media.dipintra.it/?id=1994&start=00.10&end=00.16&collection=eptic3">
+<s id="1994:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.10&end=00.00.16">
 Dla	prep:gen	dla-i
 większości	subst:sg:gen:f	większość-n
 mieszkańców	subst:pl:gen:m1	mieszkaniec-n
@@ -3048,7 +3048,7 @@ same	adj:pl:acc:n:pos	sam-j
 prawa	subst:pl:acc:n	prawo-n
 .	interp	.-x
 </s>
-<s id="1994:3" video="https://media.dipintra.it/?id=1994&start=00.16&end=00.23&collection=eptic3">
+<s id="1994:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.16&end=00.00.23">
 Niestety	qub	niestety-x
 w	prep:loc:nwok	w-i
 niektórych	adj:pl:loc:m3:pos	niektóry-j
@@ -3065,7 +3065,7 @@ zbyt	qub	zbyt-x
 niski	adj:sg:nom:m3:pos	niski-j
 .	interp	.-x
 </s>
-<s id="1994:4" video="https://media.dipintra.it/?id=1994&start=00.23&end=00.36&collection=eptic3">
+<s id="1994:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.23&end=00.00.36">
 Zdarzają	fin:pl:ter:imperf	zdarzać-v
 się	qub	się-x
 przypadki	subst:pl:nom:m3	przypadek-n
@@ -3096,7 +3096,7 @@ projekt	subst:sg:acc:m3	projekt-n
 litewski	adj:sg:nom:m3:pos	litewski-j
 .	interp	.-x
 </s>
-<s id="1994:5" video="https://media.dipintra.it/?id=1994&start=00.36&end=00.50&collection=eptic3">
+<s id="1994:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.36&end=00.00.50">
 Kres	subst:sg:nom:m3	kres-n
 takim	adj:pl:dat:f:pos	taki-j
 praktykom	subst:pl:dat:f	praktyka-n
@@ -3126,13 +3126,13 @@ lub	conj	lub-c
 światopogląd	subst:sg:acc:m3	światopogląd-n
 .	interp	.-x
 </s>
-<s id="1994:6" video="https://media.dipintra.it/?id=1994&start=00.50&end=00.52&collection=eptic3">
+<s id="1994:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.50&end=00.00.52">
 Kiedy	adv	kiedy-a
 to	qub	to-x
 nastąpi	fin:sg:ter:perf	nastąpić-v
 ?	interp	?-x
 </s>
-<s id="1994:7" video="https://media.dipintra.it/?id=1994&start=00.52&end=01.00&collection=eptic3">
+<s id="1994:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.00.52&end=00.01.00">
 Ważny	adj:sg:nom:m3:pos	ważny-j
 jest	fin:sg:ter:imperf	być-v
 całkowity	adj:sg:nom:m3:pos	całkowity-j
@@ -3156,7 +3156,7 @@ odgrywa	fin:sg:ter:imperf	odgrywać-v
 religia	subst:sg:nom:f	religia-n
 .	interp	.-x
 </s>
-<s id="1994:8" video="https://media.dipintra.it/?id=1994&start=01.00&end=01.09&collection=eptic3">
+<s id="1994:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.01.00&end=00.01.09">
 Wciąż	adv	wciąż-a
 w	prep:loc:nwok	w-i
 76	num:pl:acc:m3:rec	76-x
@@ -3178,7 +3178,7 @@ kara	subst:sg:nom:f	kara-n
 śmierci	subst:sg:gen:f	śmierć-n
 .	interp	.-x
 </s>
-<s id="1994:9" video="https://media.dipintra.it/?id=1994&start=01.09&end=01.15&collection=eptic3">
+<s id="1994:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.01.09&end=00.01.15">
 W	prep:loc:nwok	w-i
 Europie	subst:sg:loc:f	Europa-n
 pojawiają	fin:pl:ter:imperf	pojawiać-v
@@ -3192,7 +3192,7 @@ wolny	adj:sg:acc:m3:pos	wolny-j
 świat	subst:sg:acc:m3	świat-n
 .	interp	.-x
 </s>
-<s id="1994:10" video="https://media.dipintra.it/?id=1994&start=01.15&end=01.45&collection=eptic3">
+<s id="1994:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.01.15&end=00.01.45">
 Dlatego	adv	dlatego-a
 ważna	adj:sg:nom:f:pos	ważny-j
 jest	fin:sg:ter:imperf	być-v
@@ -3204,7 +3204,7 @@ dyrektywa	subst:sg:nom:f	dyrektywa-n
 antydyskryminacyjna	adj:sg:nom:f:pos	antydyskryminacyjna-j
 .	interp	.-x
 </s>
-<s id="1994:11" video="https://media.dipintra.it/?id=1994&start=01.45&end=01.46&collection=eptic3">
+<s id="1994:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1994.mp4&start=00.01.45&end=00.01.46">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -3216,7 +3216,7 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Cymanski Tadeusz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="135" duration="short" durations="83.0" speed="slow" speedwm="97.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1995:1" video="https://media.dipintra.it/?id=1995&start=00.00&end=00.10&collection=eptic3">
+<s id="1995:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.00&end=00.00.10">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -3227,14 +3227,14 @@ Pani	subst:sg:nom:f	pani-n
 Sprawozdawczyni	subst:sg:nom:f	sprawozdawczyni-n
 !	interp	!-x
 </s>
-<s id="1995:2" video="https://media.dipintra.it/?id=1995&start=00.10&end=00.11&collection=eptic3">
+<s id="1995:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.10&end=00.00.11">
 Nie	qub	nie-x
 ma	fin:sg:ter:imperf	mieć-v
 idealnych	adj:pl:gen:m1:pos	idealny-j
 praw	subst:pl:gen:n	prawo-n
 .	interp	.-x
 </s>
-<s id="1995:3" video="https://media.dipintra.it/?id=1995&start=00.11&end=00.18&collection=eptic3">
+<s id="1995:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.11&end=00.00.18">
 Ehm	FPAUSE	ehm
 wszędzie	adv	wszędzie-a
 są	fin:pl:ter:imperf	być-v
@@ -3254,7 +3254,7 @@ niż	conj	niż-c
 obaw	subst:pl:gen:f	obawa-n
 .	interp	.-x
 </s>
-<s id="1995:4" video="https://media.dipintra.it/?id=1995&start=00.18&end=00.24&collection=eptic3">
+<s id="1995:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.18&end=00.00.24">
 Ehm	FPAUSE	ehm
 Europa	subst:sg:nom:f	Europa-n
 ,	interp	"-x
@@ -3272,7 +3272,7 @@ nawet	qub	nawet-x
 kontrastów	subst:pl:gen:m3	kontrast-n
 .	interp	.-x
 </s>
-<s id="1995:5" video="https://media.dipintra.it/?id=1995&start=00.24&end=00.33&collection=eptic3">
+<s id="1995:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.24&end=00.00.33">
 Dotyczy	fin:sg:ter:imperf	dotyczyć-v
 to	subst:sg:nom:n	to-n
 również	qub	również-x
@@ -3300,7 +3300,7 @@ na	prep:loc	na-i
 dorobku	subst:sg:loc:m3	dorobek-n
 .	interp	.-x
 </s>
-<s id="1995:6" video="https://media.dipintra.it/?id=1995&start=00.33&end=00.41&collection=eptic3">
+<s id="1995:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.33&end=00.00.41">
 Ale	conj	ale-c
 jednak	conj	jednak-c
 poziom	subst:sg:nom:m3	poziom-n
@@ -3325,7 +3325,7 @@ daleko	adv:pos	daleko-a
 niższa	adj:sg:nom:f:com	niski-j
 .	interp	.-x
 </s>
-<s id="1995:7" video="https://media.dipintra.it/?id=1995&start=00.41&end=00.49&collection=eptic3">
+<s id="1995:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.41&end=00.00.49">
 Tak	adv:pos	tak-a
 więc	conj	więc-c
 ,	interp	"-x
@@ -3349,7 +3349,7 @@ których	adj:pl:loc:m3:pos	który-j
 mówię	fin:sg:pri:imperf	mówić-v
 .	interp	.-x
 </s>
-<s id="1995:8" video="https://media.dipintra.it/?id=1995&start=00.49&end=01.16&collection=eptic3">
+<s id="1995:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.00.49&end=00.01.16">
 Rządy	subst:pl:nom:m3	rząd-n
 stają	fin:pl:ter:imperf	stawać-v
 przed	prep:inst:nwok	przed-i
@@ -3404,7 +3404,7 @@ ma	fin:sg:ter:imperf	mieć-v
 zdrowie	subst:sg:acc:n	zdrowie-n
 .	interp	.-x
 </s>
-<s id="1995:9" video="https://media.dipintra.it/?id=1995&start=01.16&end=01.38&collection=eptic3">
+<s id="1995:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.01.16&end=00.01.38">
 Tak	adv:pos	tak-a
 więc	conj	więc-c
 ,	interp	"-x
@@ -3432,7 +3432,7 @@ wyrazem	subst:sg:inst:m3	wyraz-n
 kompromisu	subst:sg:gen:m3	kompromis-n
 .	interp	.-x
 </s>
-<s id="1995:10" video="https://media.dipintra.it/?id=1995&start=01.38&end=01.48&collection=eptic3">
+<s id="1995:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.01.38&end=00.01.48">
 I	conj	i-c
 to	conj	to-c
 słowo	subst:sg:nom:n	słowo-n
@@ -3440,7 +3440,7 @@ nas	ppron12:pl:acc:m1:pri	my-x
 cieszy	fin:sg:ter:imperf	cieszyć-v
 .	interp	.-x
 </s>
-<s id="1995:11" video="https://media.dipintra.it/?id=1995&start=01.48&end=01.49&collection=eptic3">
+<s id="1995:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1995.mp4&start=00.01.48&end=00.01.49">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -3453,7 +3453,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Lukacijewska Elzbieta Katarzyna" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="177" duration="short" durations="102.0" speed="slow" speedwm="104.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1996:1" video="https://media.dipintra.it/?id=1996&start=00.00&end=00.03&collection=eptic3">
+<s id="1996:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.00.00&end=00.00.03">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -3461,7 +3461,7 @@ Panie	subst:sg:voc:m1	pan-n
 Komisarzu	subst:sg:voc:m1	komisarz-n
 !	interp	!-x
 </s>
-<s id="1996:2" video="https://media.dipintra.it/?id=1996&start=00.03&end=00.25&collection=eptic3">
+<s id="1996:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.00.03&end=00.00.25">
 Na	prep:loc	Na-i
 samym	adj:sg:loc:m3:pos	sam-j
 początku	subst:sg:loc:m3	początek-n
@@ -3500,7 +3500,7 @@ poszczególnych	adj:pl:loc:m3:pos	poszczególny-j
 krajach	subst:pl:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="1996:3" video="https://media.dipintra.it/?id=1996&start=00.25&end=00.35&collection=eptic3">
+<s id="1996:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.00.25&end=00.00.35">
 Osiągnięcie	ger:sg:nom:n:perf:aff	osiągnąć-v
 kompromisu	subst:sg:gen:m3	kompromis-n
 pomiędzy	prep:inst	pomiędzy-i
@@ -3520,7 +3520,7 @@ znajomości	subst:sg:gen:f	znajomość-n
 tematu	subst:sg:gen:m3	temat-n
 .	interp	.-x
 </s>
-<s id="1996:4" video="https://media.dipintra.it/?id=1996&start=00.35&end=00.54&collection=eptic3">
+<s id="1996:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.00.35&end=00.00.54">
 Wszyscy	adj:pl:nom:m1:pos	wszystek-j
 mamy	fin:pl:pri:imperf	mieć-v
 świadomość	subst:sg:acc:f	świadomość-n
@@ -3569,7 +3569,7 @@ jest	fin:sg:ter:imperf	być-v
 ograniczony	ppas:sg:nom:m3:perf:aff	ograniczyć-v
 .	interp	.-x
 </s>
-<s id="1996:5" video="https://media.dipintra.it/?id=1996&start=00.54&end=01.03&collection=eptic3">
+<s id="1996:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.00.54&end=00.01.03">
 Ważne	adj:sg:nom:n:pos	ważny-j
 jest	fin:sg:ter:imperf	być-v
 ,	interp	"-x
@@ -3598,7 +3598,7 @@ jej	ppron3:sg:dat:f:ter	on-x
 zapisy	subst:pl:acc:m3	zapis-n
 .	interp	.-x
 </s>
-<s id="1996:6" video="https://media.dipintra.it/?id=1996&start=01.03&end=01.15&collection=eptic3">
+<s id="1996:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.01.03&end=00.01.15">
 Istotą	subst:sg:inst:f	istota-n
 tej	adj:sg:gen:f:pos	ten-j
 dyrektywy	subst:sg:gen:f	dyrektywa-n
@@ -3629,7 +3629,7 @@ określonych	ppas:pl:gen:m3:perf:aff	określić-v
 kosztów	subst:pl:gen:m3	koszt-n
 .	interp	.-x
 </s>
-<s id="1996:7" video="https://media.dipintra.it/?id=1996&start=01.15&end=01.19&collection=eptic3">
+<s id="1996:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.01.15&end=00.01.19">
 Dyrektywa	subst:sg:nom:f	dyrektywa-n
 opiera	fin:sg:ter:imperf	opierać-v
 się	qub	się-x
@@ -3644,7 +3644,7 @@ na	prep:loc	na-i
 finansowych	adj:pl:loc:m3:pos	finansowy-j
 .	interp	.-x
 </s>
-<s id="1996:8" video="https://media.dipintra.it/?id=1996&start=01.19&end=01.34&collection=eptic3">
+<s id="1996:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.01.19&end=00.01.34">
 Chciałabym	subst:pl:dat:m1	Chciałabym-n
 zauważyć	inf:perf	zauważyć-v
 ,	interp	"-x
@@ -3680,7 +3680,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="1996:9" video="https://media.dipintra.it/?id=1996&start=01.34&end=01.54&collection=eptic3">
+<s id="1996:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.01.34&end=00.01.54">
 Należy	fin:sg:ter:imperf	należeć-v
 podkreślić	inf:perf	podkreślić-v
 ,	interp	"-x
@@ -3713,7 +3713,7 @@ krajach	subst:pl:loc:m3	kraj-n
 członkowskich	adj:pl:loc:m3:pos	członkowski-j
 .	interp	.-x
 </s>
-<s id="1996:10" video="https://media.dipintra.it/?id=1996&start=01.54&end=02.08&collection=eptic3">
+<s id="1996:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1996.mp4&start=00.01.54&end=00.02.08">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -3726,12 +3726,12 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Kaminski Michal Tomasz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="153" duration="short" durations="89.0" speed="slow" speedwm="103.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1997:1" video="https://media.dipintra.it/?id=1997&start=00.00&end=00.04&collection=eptic3">
+<s id="1997:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.00.00&end=00.00.04">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="1997:2" video="https://media.dipintra.it/?id=1997&start=00.04&end=00.23&collection=eptic3">
+<s id="1997:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.00.04&end=00.00.23">
 Ehm	FPAUSE	ehm
 kilka	num:pl:acc:m3:rec	kilka-x
 dni	subst:pl:gen:m3	dzień-n
@@ -3762,7 +3762,7 @@ w	prep:loc:nwok	w-i
 Smoleńsku	subst:sg:loc:m3	Smoleńsk-n
 .	interp	.-x
 </s>
-<s id="1997:3" video="https://media.dipintra.it/?id=1997&start=00.23&end=00.36&collection=eptic3">
+<s id="1997:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.00.23&end=00.00.36">
 Ehm	FPAUSE	ehm
 polska	adj:sg:nom:f:pos	polski-j
 opinia	subst:sg:nom:f	opinia-n
@@ -3788,7 +3788,7 @@ charakteru	subst:sg:gen:m3	charakter-n
 obiektywnego	adj:sg:gen:m3:pos	obiektywny-j
 .	interp	.-x
 </s>
-<s id="1997:4" video="https://media.dipintra.it/?id=1997&start=00.36&end=00.52&collection=eptic3">
+<s id="1997:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.00.36&end=00.00.52">
 Ehm	FPAUSE	ehm
 zostało	praet:sg:n:perf	zostać-v
 już	qub	już-x
@@ -3837,7 +3837,7 @@ polską	adj:sg:acc:f:pos	polski-j
 stronę	subst:sg:acc:f	strona-n
 .	interp	.-x
 </s>
-<s id="1997:5" video="https://media.dipintra.it/?id=1997&start=00.52&end=01.05&collection=eptic3">
+<s id="1997:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.00.52&end=00.01.05">
 W	prep:loc:nwok	w-i
 Polsce	subst:sg:loc:f	Polska-n
 nikt	subst:sg:nom:m1	nikt-n
@@ -3867,7 +3867,7 @@ ehm	FPAUSE	ehm
 prezydenta	subst:sg:gen:m1	prezydent-n
 .	interp	.-x
 </s>
-<s id="1997:6" video="https://media.dipintra.it/?id=1997&start=01.05&end=01.17&collection=eptic3">
+<s id="1997:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.01.05&end=00.01.17">
 Tym	adv	tym-a
 niemniej	qub	niemniej-x
 jednak	conj	jednak-c
@@ -3898,7 +3898,7 @@ ehm	FPAUSE	ehm
 rosyjskiej	adj:sg:gen:f:pos	rosyjski-j
 .	interp	.-x
 </s>
-<s id="1997:7" video="https://media.dipintra.it/?id=1997&start=01.17&end=01.58&collection=eptic3">
+<s id="1997:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1997.mp4&start=00.01.17&end=00.01.58">
 Mam	fin:sg:pri:imperf	mieć-v
 w	prep:loc:nwok	w-i
 związku	subst:sg:loc:m3	związek-n
@@ -3957,7 +3957,7 @@ kraju	subst:sg:gen:m3	kraj-n
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="86" duration="short" durations="64.0" speed="slow" speedwm="80.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1998:1&collection=eptic3">
+<s id="1998:1">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -3965,14 +3965,14 @@ szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="1998:2&collection=eptic3">
+<s id="1998:2">
 Serbia	subst:sg:nom:f	Serbia-n
 to	pred	to-x
 europejski	adj:sg:nom:m3:pos	europejski-j
 kraj	subst:sg:nom:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="1998:3&collection=eptic3">
+<s id="1998:3">
 Serbia	subst:sg:nom:f	Serbia-n
 to	pred	to-x
 część	subst:sg:nom:f	część-n
@@ -3980,7 +3980,7 @@ europejskiej	adj:sg:gen:f:pos	europejski-j
 historii	subst:sg:gen:f	historia-n
 .	interp	.-x
 </s>
-<s id="1998:4&collection=eptic3">
+<s id="1998:4">
 Serbia	subst:sg:nom:f	Serbia-n
 to	pred	to-x
 część	subst:sg:nom:f	część-n
@@ -3988,7 +3988,7 @@ europejskiej	adj:sg:gen:f:pos	europejski-j
 kultury	subst:sg:gen:f	kultura-n
 .	interp	.-x
 </s>
-<s id="1998:5&collection=eptic3">
+<s id="1998:5">
 Ehm	FPAUSE	ehm
 Serbia	subst:sg:nom:f	Serbia-n
 to	pred	to-x
@@ -4000,7 +4000,7 @@ geografii	subst:sg:gen:f	geografia-n
 Europy	subst:sg:gen:f	Europa-n
 .	interp	.-x
 </s>
-<s id="1998:6&collection=eptic3">
+<s id="1998:6">
 Serbia	subst:sg:nom:f	Serbia-n
 więc	conj	więc-c
 musi	fin:sg:ter:imperf	musieć-v
@@ -4028,7 +4028,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="1998:7&collection=eptic3">
+<s id="1998:7">
 Mam	fin:sg:pri:imperf	mieć-v
 wrażenie	subst:sg:acc:n	wrażenie-n
 ,	interp	"-x
@@ -4057,7 +4057,7 @@ właśnie	qub	właśnie-x
 Serbii	subst:sg:gen:f	Serbia-n
 .	interp	.-x
 </s>
-<s id="1998:8&collection=eptic3">
+<s id="1998:8">
 Z	prep:inst:nwok	z-i
 tą	adj:sg:inst:f:pos	ten-j
 asymetrią	subst:sg:inst:f	asymetria-n
@@ -4068,7 +4068,7 @@ zawsze	adv	zawsze-a
 skończyć	inf:perf	skończyć-v
 .	interp	.-x
 </s>
-<s id="1998:9&collection=eptic3">
+<s id="1998:9">
 Nie	qub	nie-x
 szukajmy	impt:pl:pri:imperf	szukać-v
 pretekstów	subst:pl:gen:m3	pretekst-n
@@ -4090,7 +4090,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="1998:10&collection=eptic3">
+<s id="1998:10">
 Naród	subst:sg:acc:m3	naród-n
 serbski	adj:sg:acc:m3:pos	serbski-j
 zasłużył	praet:sg:m1:perf	zasłużyć-v
@@ -4114,7 +4114,7 @@ najszybciej	adv:sup	szybko-a
 <speaker name="Kalinowski Jaroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="110" duration="short" durations="57.0" speed="slow" speedwm="115.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1999:1" video="https://media.dipintra.it/?id=1999&start=00.00&end=00.06&collection=eptic3">
+<s id="1999:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.00&end=00.00.06">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 ,	interp	"-x
@@ -4122,7 +4122,7 @@ Panie	subst:sg:voc:m1	pan-n
 Komisarzu	subst:sg:voc:m1	komisarz-n
 !	interp	!-x
 </s>
-<s id="1999:2" video="https://media.dipintra.it/?id=1999&start=00.06&end=00.11&collection=eptic3">
+<s id="1999:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.06&end=00.00.11">
 Współpraca	subst:sg:nom:f	współpraca-n
 z	prep:inst:nwok	z-i
 naszymi	adj:pl:inst:m1:pos	nasz-j
@@ -4135,7 +4135,7 @@ polityki	subst:sg:gen:f	polityka-n
 Wspólnoty	subst:sg:gen:f	wspólnota-n
 .	interp	.-x
 </s>
-<s id="1999:3" video="https://media.dipintra.it/?id=1999&start=00.11&end=00.17&collection=eptic3">
+<s id="1999:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.11&end=00.00.17">
 Serbia	subst:sg:nom:f	Serbia-n
 ,	interp	"-x
 podobnie	adv:pos	podobnie-a
@@ -4152,7 +4152,7 @@ bardzo	adv:pos	bardzo-a
 szczególny	adj:sg:nom:m3:pos	szczególny-j
 .	interp	.-x
 </s>
-<s id="1999:4" video="https://media.dipintra.it/?id=1999&start=00.17&end=00.27&collection=eptic3">
+<s id="1999:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.17&end=00.00.27">
 W	prep:loc:nwok	w-i
 związku	subst:sg:loc:m3	związek-n
 z	prep:inst:nwok	z-i
@@ -4181,7 +4181,7 @@ i	conj	i-c
 politycznymi	adj:pl:inst:f:pos	polityczny-j
 .	interp	.-x
 </s>
-<s id="1999:5" video="https://media.dipintra.it/?id=1999&start=00.27&end=00.31&collection=eptic3">
+<s id="1999:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.27&end=00.00.31">
 Rolą	subst:sg:inst:f	rola-n
 Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
@@ -4193,7 +4193,7 @@ i	conj	i-c
 pomagać	inf:imperf	pomagać-v
 im.	inf:imperf	im.-v
 </s>
-<s id="1999:6" video="https://media.dipintra.it/?id=1999&start=00.31&end=00.40&collection=eptic3">
+<s id="1999:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.31&end=00.00.40">
 Historia	subst:sg:nom:f	historia-n
 nauczyła	praet:sg:f:perf	nauczyć-v
 nas	ppron12:pl:acc:m1:pri	my-x
@@ -4217,7 +4217,7 @@ wszyscy	subst:pl:nom:m1	wszyscy-n
 odczuwamy	fin:pl:pri:imperf	odczuwać-v
 .	interp	.-x
 </s>
-<s id="1999:7" video="https://media.dipintra.it/?id=1999&start=00.40&end=01.00&collection=eptic3">
+<s id="1999:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.00.40&end=00.01.00">
 Europa	subst:sg:nom:f	Europa-n
 ponosi	fin:sg:ter:imperf	ponosić-v
 w	prep:loc:nwok	w-i
@@ -4265,7 +4265,7 @@ to	pred	to-x
 konieczność	subst:sg:nom:f	konieczność-n
 .	interp	.-x
 </s>
-<s id="1999:8" video="https://media.dipintra.it/?id=1999&start=01.00&end=01.22&collection=eptic3">
+<s id="1999:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.01.00&end=00.01.22">
 Także	qub	także-x
 ,	interp	"-x
 aby	comp	aby-c
@@ -4278,7 +4278,7 @@ nie	qub	nie-x
 powtórzyła	praet:sg:f:perf	powtórzyć-v
 .	interp	.-x
 </s>
-<s id="1999:9" video="https://media.dipintra.it/?id=1999&start=01.22&end=01.24&collection=eptic3">
+<s id="1999:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1999.mp4&start=00.01.22&end=00.01.24">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -4291,7 +4291,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Protasiewicz Jacek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="188" duration="short" durations="110.0" speed="slow" speedwm="102.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2000:1" video="https://media.dipintra.it/?id=2000&start=00.00&end=00.11&collection=eptic3">
+<s id="2000:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.00&end=00.00.11">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
@@ -4302,7 +4302,7 @@ Wiceprzewodnicząca	subst:sg:nom:f	wiceprzewodnicząca-n
 Komisji	subst:sg:gen:f	komisja-n
 !	interp	!-x
 </s>
-<s id="2000:2" video="https://media.dipintra.it/?id=2000&start=00.11&end=00.17&collection=eptic3">
+<s id="2000:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.11&end=00.00.17">
 Obserwatorzy	subst:pl:nom:m1	obserwator-n
 międzynarodowi	adj:pl:nom:m1:pos	międzynarodowy-j
 nie	qub	nie-x
@@ -4321,7 +4321,7 @@ najmniejszym	adj:sg:loc:m3:sup	mały-j
 stopniu	subst:sg:loc:m3	stopień-n
 .	interp	.-x
 </s>
-<s id="2000:3" video="https://media.dipintra.it/?id=2000&start=00.17&end=00.22&collection=eptic3">
+<s id="2000:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.17&end=00.00.22">
 Ostatnie	adj:pl:nom:n:pos	ostatni-j
 wybory	subst:pl:nom:n	wybory-n
 prezydenckie	adj:pl:nom:n:pos	prezydencki-j
@@ -4334,7 +4334,7 @@ były	praet:pl:n:imperf	być-v
 uczciwe	adj:pl:nom:n:pos	uczciwy-j
 .	interp	.-x
 </s>
-<s id="2000:4" video="https://media.dipintra.it/?id=2000&start=00.22&end=00.37&collection=eptic3">
+<s id="2000:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.22&end=00.00.37">
 Ponieważ	comp	ponieważ-c
 nie	qub	nie-x
 były	praet:pl:n:imperf	być-v
@@ -4367,7 +4367,7 @@ dłużej	adv:com	długo-a
 kontynuowana	ppas:sg:nom:f:imperf:aff	kontynuować-v
 .	interp	.-x
 </s>
-<s id="2000:5" video="https://media.dipintra.it/?id=2000&start=00.37&end=00.54&collection=eptic3">
+<s id="2000:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.37&end=00.00.54">
 To	pred	to-x
 nie	qub	nie-x
 jest	fin:sg:ter:imperf	być-v
@@ -4410,7 +4410,7 @@ sankcji	subst:pl:gen:f	sankcja-n
 gospodarczych	adj:pl:gen:f:pos	gospodarczy-j
 .	interp	.-x
 </s>
-<s id="2000:6" video="https://media.dipintra.it/?id=2000&start=00.54&end=01.09&collection=eptic3">
+<s id="2000:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.00.54&end=00.01.09">
 Te	adj:pl:nom:f:pos	ten-j
 sankcje	subst:pl:nom:f	sankcja-n
 oczywiście	qub	oczywiście-x
@@ -4449,7 +4449,7 @@ Partnerstwie	subst:sg:loc:n	partnerstwo-n
 Wschodnim	adj:sg:loc:n:pos	wschodni-j
 .	interp	.-x
 </s>
-<s id="2000:7" video="https://media.dipintra.it/?id=2000&start=01.09&end=01.15&collection=eptic3">
+<s id="2000:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.01.09&end=00.01.15">
 Ponieważ	comp	ponieważ-c
 mieliśmy	fin:pl:pri:imperf	mieliśmy-v
 do	prep:gen	do-i
@@ -4466,7 +4466,7 @@ są	fin:pl:ter:imperf	być-v
 niewiarygodne	adj:pl:nom:m3:pos	niewiarygodny-j
 .	interp	.-x
 </s>
-<s id="2000:8" video="https://media.dipintra.it/?id=2000&start=01.15&end=01.23&collection=eptic3">
+<s id="2000:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.01.15&end=00.01.23">
 Możemy	fin:pl:pri:imperf	móc-v
 zatem	conj	zatem-c
 z	prep:inst:nwok	z-i
@@ -4490,7 +4490,7 @@ opozycja	subst:sg:nom:f	opozycja-n
 demokratyczna	adj:sg:nom:f:pos	demokratyczny-j
 .	interp	.-x
 </s>
-<s id="2000:9" video="https://media.dipintra.it/?id=2000&start=01.23&end=01.40&collection=eptic3">
+<s id="2000:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.01.23&end=00.01.40">
 Dlatego	adv	dlatego-a
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v
 wesprzeć	inf:perf	wesprzeć-v
@@ -4530,7 +4530,7 @@ forum	subst:sg:loc:n	forum-n
 politycznym	adj:sg:loc:n:pos	polityczny-j
 .	interp	.-x
 </s>
-<s id="2000:10" video="https://media.dipintra.it/?id=2000&start=01.40&end=02.02&collection=eptic3">
+<s id="2000:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.01.40&end=00.02.02">
 I	conj	i-c
 wreszcie	adv	wreszcie-a
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v
@@ -4563,7 +4563,7 @@ nauczycieli	subst:pl:acc:m1	nauczyciel-n
 akademickich	adj:pl:gen:n:pos	akademicki-j
 .	interp	.-x
 </s>
-<s id="2000:11" video="https://media.dipintra.it/?id=2000&start=02.02&end=02.18&collection=eptic3">
+<s id="2000:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2000.mp4&start=00.02.02&end=00.02.18">
 Oni	ppron3:pl:nom:m1:ter	on-x
 wszyscy	adj:pl:nom:m1:pos	wszystek-j
 muszą	fin:pl:ter:imperf	musieć-v
@@ -4589,7 +4589,7 @@ państwa	subst:sg:gen:n	państwo-n
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="114" duration="short" durations="66.0" speed="slow" speedwm="103.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2001:1" video="https://media.dipintra.it/?id=2001&start=00.00&end=00.10&collection=eptic3">
+<s id="2001:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.00&end=00.00.10">
 Mówimy	fin:pl:pri:imperf	mówić-v
 o	prep:loc	o-i
 sytuacji	subst:sg:loc:f	sytuacja-n
@@ -4603,7 +4603,7 @@ w	prep:loc:nwok	w-i
 piersi	subst:sg:loc:f	pierś-n
 .	interp	.-x
 </s>
-<s id="2001:2" video="https://media.dipintra.it/?id=2001&start=00.10&end=00.19&collection=eptic3">
+<s id="2001:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.10&end=00.00.19">
 Bo	comp	bo-c
 łatwo	adv:pos	łatwo-a
 jest	fin:sg:ter:imperf	być-v
@@ -4621,7 +4621,7 @@ go	ppron3:sg:acc:m1:ter	on-x
 piętnować	inf:imperf	piętnować-v
 .	interp	.-x
 </s>
-<s id="2001:3" video="https://media.dipintra.it/?id=2001&start=00.19&end=00.23&collection=eptic3">
+<s id="2001:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.19&end=00.00.23">
 Ale	conj	ale-c
 też	qub	też-x
 uderzmy	impt:pl:pri:perf	uderzyć-v
@@ -4632,7 +4632,7 @@ europejskie	adj:pl:acc:f:pos	europejski-j
 piersi	subst:pl:acc:f	pierś-n
 .	interp	.-x
 </s>
-<s id="2001:4" video="https://media.dipintra.it/?id=2001&start=00.23&end=00.31&collection=eptic3">
+<s id="2001:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.23&end=00.00.31">
 Czy	qub	czy-x
 nie	qub	nie-x
 jest	fin:sg:ter:imperf	być-v
@@ -4652,7 +4652,7 @@ pana	subst:sg:acc:m1	Pan-n
 Berlusconiego	subst:sg:acc:m1	Berlusconi-n
 ?	interp	?-x
 </s>
-<s id="2001:5" video="https://media.dipintra.it/?id=2001&start=00.31&end=00.39&collection=eptic3">
+<s id="2001:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.31&end=00.00.39">
 Czy	qub	czy-x
 nie	qub	nie-x
 jest	fin:sg:ter:imperf	być-v
@@ -4670,7 +4670,7 @@ pani	subst:sg:dat:f	pani-n
 Grybauskaitė	adj:sg:dat:f:pos	Grybauskaitė-j
 ?	interp	?-x
 </s>
-<s id="2001:6" video="https://media.dipintra.it/?id=2001&start=00.39&end=00.53&collection=eptic3">
+<s id="2001:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.39&end=00.00.53">
 I	conj	i-c
 czy	qub	czy-x
 nie	qub	nie-x
@@ -4707,7 +4707,7 @@ pana	subst:sg:gen:m1	pan-n
 Sikorskiego	subst:sg:gen:m1	Sikorski-n
 ?	interp	?-x
 </s>
-<s id="2001:7" video="https://media.dipintra.it/?id=2001&start=00.53&end=01.06&collection=eptic3">
+<s id="2001:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.00.53&end=00.01.06">
 Tak	adv:pos	tak-a
 naprawdę	qub	naprawdę-x
 to	pred	to-x
@@ -4737,7 +4737,7 @@ nie	qub	nie-x
 żądając	pcon:imperf	żądać-v
 .	interp	.-x
 </s>
-<s id="2001:8" video="https://media.dipintra.it/?id=2001&start=01.06&end=01.31&collection=eptic3">
+<s id="2001:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2001.mp4&start=00.01.06&end=00.01.31">
 Trzeba	pred	trzeba-x
 dzisiaj	adv	dzisiaj-a
 domagać	inf:imperf	domagać-v
@@ -4764,13 +4764,13 @@ piersi	subst:pl:acc:f	pierś-n
 <speaker name="Grzyb Angdrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="136" duration="short" durations="68.0" speed="slow" speedwm="120.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2002:1" video="https://media.dipintra.it/?id=2002&start=00.00&end=00.05&collection=eptic3">
+<s id="2002:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.00&end=00.00.05">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2002:2" video="https://media.dipintra.it/?id=2002&start=00.05&end=00.14&collection=eptic3">
+<s id="2002:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.05&end=00.00.14">
 To	pred	to-x
 był	praet:sg:m3:imperf	być-v
 gwałt	subst:sg:nom:m3	gwałt-n
@@ -4790,7 +4790,7 @@ Białorusi	subst:sg:loc:f	Białoruś-n
 grudnia	subst:sg:gen:m3	grudzień-n
 .	interp	.-x
 </s>
-<s id="2002:3" video="https://media.dipintra.it/?id=2002&start=00.14&end=00.20&collection=eptic3">
+<s id="2002:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.14&end=00.00.20">
 Aresztowanie	ger:sg:nom:n:perf:aff	aresztować-v
 siedmiuset	num:pl:gen:m1:congr	siedmset-x
 osób	subst:pl:gen:f	osoba-n
@@ -4808,14 +4808,14 @@ ogóle	subst:sg:loc:m3	ogól-n
 komentarza	subst:sg:gen:m3	komentarz-n
 .	interp	.-x
 </s>
-<s id="2002:4" video="https://media.dipintra.it/?id=2002&start=00.20&end=00.22&collection=eptic3">
+<s id="2002:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.20&end=00.00.22">
 Wybory	subst:pl:nom:n	wybory-n
 były	praet:pl:n:imperf	być-v
 zaś	conj	zaś-c
 nieuczciwe	adj:pl:acc:m3:pos	nieuczciwy-j
 .	interp	.-x
 </s>
-<s id="2002:5" video="https://media.dipintra.it/?id=2002&start=00.22&end=00.33&collection=eptic3">
+<s id="2002:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.22&end=00.00.33">
 To	subst:sg:nom:n	To-n
 jest	fin:sg:ter:imperf	być-v
 właściwie	qub	właściwie-x
@@ -4848,7 +4848,7 @@ wyniki	subst:pl:acc:m3	wynik-n
 wyborów	subst:pl:gen:n	wybory-n
 .	interp	.-x
 </s>
-<s id="2002:6" video="https://media.dipintra.it/?id=2002&start=00.33&end=00.45&collection=eptic3">
+<s id="2002:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.33&end=00.00.45">
 Musimy	fin:pl:pri:imperf	musieć-v
 wspierać	inf:imperf	wspierać-v
 środowiska	subst:pl:acc:n	środowisko-n
@@ -4886,7 +4886,7 @@ tego	adj:sg:gen:m3:pos	ten-j
 kraju	subst:sg:gen:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="2002:7" video="https://media.dipintra.it/?id=2002&start=00.45&end=00.48&collection=eptic3">
+<s id="2002:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.45&end=00.00.48">
 Restrykcje	subst:pl:nom:f	restrykcja-n
 zaś	conj	zaś-c
 nie	qub	nie-x
@@ -4896,7 +4896,7 @@ w	prep:acc:nwok	w-i
 obywateli	subst:pl:acc:m1	obywatel-n
 .	interp	.-x
 </s>
-<s id="2002:8" video="https://media.dipintra.it/?id=2002&start=00.48&end=00.51&collection=eptic3">
+<s id="2002:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.48&end=00.00.51">
 Musimy	fin:pl:pri:imperf	musieć-v
 złagodzić	inf:perf	złagodzić-v
 reżim	subst:sg:acc:m3	reżim-n
@@ -4907,7 +4907,7 @@ to	qub	to-x
 Polska	subst:sg:nom:f	Polska-n
 .	interp	.-x
 </s>
-<s id="2002:9" video="https://media.dipintra.it/?id=2002&start=00.51&end=00.58&collection=eptic3">
+<s id="2002:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.51&end=00.00.58">
 Należy	fin:sg:ter:imperf	należeć-v
 wspomóc	inf:perf	wspomóc-v
 zwolnionych	ppas:pl:gen:f:perf:aff	zwolnić-v
@@ -4927,7 +4927,7 @@ innych	adj:pl:loc:m3:pos	inny-j
 krajach	subst:pl:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="2002:10" video="https://media.dipintra.it/?id=2002&start=00.58&end=01.04&collection=eptic3">
+<s id="2002:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.00.58&end=00.01.04">
 Wsparcia	subst:sg:nom:f	wsparcie-n
 wymaga	fin:sg:ter:imperf	wymagać-v
 niezależne	adj:sg:nom:n:pos	niezależny-j
@@ -4944,7 +4944,7 @@ telewizja	subst:sg:nom:f	telewizja-n
 Biełsat	subst:sg:nom:m3	Biełsat-n
 .	interp	.-x
 </s>
-<s id="2002:11" video="https://media.dipintra.it/?id=2002&start=01.04&end=01.29&collection=eptic3">
+<s id="2002:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.01.04&end=00.01.29">
 To	pred	to-x
 nie	qub	nie-x
 tylko	qub	tylko-x
@@ -4970,7 +4970,7 @@ instytucji	subst:pl:gen:f	instytucja-n
 europejskich	adj:pl:gen:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2002:12" video="https://media.dipintra.it/?id=2002&start=01.29&end=01.35&collection=eptic3">
+<s id="2002:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.01.29&end=00.01.35">
 Chciałbym	subst:sg:nom:m3	Chciałbym-n
 o	prep:acc	o-i
 to	subst:sg:acc:n	to-n
@@ -4979,7 +4979,7 @@ mocno	adv:pos	mocno-a
 apelować	inf:imperf	apelować-v
 .	interp	.-x
 </s>
-<s id="2002:13" video="https://media.dipintra.it/?id=2002&start=01.35&end=01.36&collection=eptic3">
+<s id="2002:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2002.mp4&start=00.01.35&end=00.01.36">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -4992,12 +4992,12 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Borys Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="275" duration="short" durations="58.0" speed="high" speedwm="284.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2003:1" video="https://media.dipintra.it/?id=2003&start=00.00&end=00.05&collection=eptic3">
+<s id="2003:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.00&end=00.00.05">
 Ogromnie	adv:pos	ogromnie-a
 dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
-<s id="2003:2" video="https://media.dipintra.it/?id=2003&start=00.05&end=00.11&collection=eptic3">
+<s id="2003:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.05&end=00.00.11">
 Dla	prep:gen	dla-i
 nas	ppron12:pl:gen:m1:pri	my-x
 jest	fin:sg:ter:imperf	być-v
@@ -5011,7 +5011,7 @@ z	prep:inst:nwok	z-i
 Białorusią	subst:sg:inst:f	Białoruś-n
 .	interp	.-x
 </s>
-<s id="2003:3" video="https://media.dipintra.it/?id=2003&start=00.11&end=00.15&collection=eptic3">
+<s id="2003:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.11&end=00.00.15">
 Jak	adv:pos	jak-a
 wiemy	fin:pl:pri:imperf	wiedzieć-v
 ,	interp	"-x
@@ -5028,7 +5028,7 @@ pełną	adj:sg:acc:f:pos	pełny-j
 solidarność	subst:sg:acc:f	solidarność-n
 .	interp	.-x
 </s>
-<s id="2003:4" video="https://media.dipintra.it/?id=2003&start=00.15&end=00.34&collection=eptic3">
+<s id="2003:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.15&end=00.00.34">
 Jak	adv:pos	jak-a
 wiemy	fin:pl:pri:imperf	wiedzieć-v
 ,	interp	"-x
@@ -5073,7 +5073,7 @@ młodej	adj:sg:gen:f:pos	młody-j
 elity	subst:sg:gen:f	elita-n
 .	interp	.-x
 </s>
-<s id="2003:5" video="https://media.dipintra.it/?id=2003&start=00.34&end=00.50&collection=eptic3">
+<s id="2003:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.34&end=00.00.50">
 Mówię	fin:sg:pri:imperf	mówić-v
 tutaj	adv	tutaj-a
 głównie	qub	głównia-x
@@ -5118,7 +5118,7 @@ z	prep:gen:nwok	z-i
 Białorusi	subst:sg:gen:f	Białoruś-n
 .	interp	.-x
 </s>
-<s id="2003:6" video="https://media.dipintra.it/?id=2003&start=00.50&end=00.53&collection=eptic3">
+<s id="2003:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.50&end=00.00.53">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v
 ,	interp	"-x
 że	comp	że-c
@@ -5130,7 +5130,7 @@ tym	adj:sg:loc:m3:pos	ten-j
 programie	subst:sg:loc:m3	program-n
 .	interp	.-x
 </s>
-<s id="2003:7" video="https://media.dipintra.it/?id=2003&start=00.53&end=01.24&collection=eptic3">
+<s id="2003:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.00.53&end=00.01.24">
 Nie	qub	nie-x
 wymaga	fin:sg:ter:imperf	wymagać-v
 to	subst:sg:nom:n	to-n
@@ -5154,7 +5154,7 @@ być	inf:imperf	być-v
 skuteczny	adj:sg:nom:m3:pos	skuteczny-j
 .	interp	.-x
 </s>
-<s id="2003:8" video="https://media.dipintra.it/?id=2003&start=01.24&end=01.25&collection=eptic3">
+<s id="2003:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.01.24&end=00.01.25">
 I	conj	i-c
 o	prep:acc	o-i
 to	subst:sg:acc:n	to-n
@@ -5164,7 +5164,7 @@ pani	subst:sg:gen:f	pani-n
 komisarz	subst:sg:nom:m1	komisarz-n
 .	interp	.-x
 </s>
-<s id="2003:9" video="https://media.dipintra.it/?id=2003&start=01.25&end=01.26&collection=eptic3">
+<s id="2003:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2003.mp4&start=00.01.25&end=00.01.26">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -5177,7 +5177,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="164" duration="short" durations="97.0" speed="slow" speedwm="101.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2004:1" video="https://media.dipintra.it/?id=2004&start=00.00&end=00.12&collection=eptic3">
+<s id="2004:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.00&end=00.00.12">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -5186,7 +5186,7 @@ Wysoka	adj:sg:nom:f:pos	Wysoki-j
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n
 !	interp	!-x
 </s>
-<s id="2004:2" video="https://media.dipintra.it/?id=2004&start=00.12&end=00.21&collection=eptic3">
+<s id="2004:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.12&end=00.00.21">
 Chciałbym	subst:pl:dat:m1	Chciałbym-n
 zacząć	inf:perf	zacząć-v
 od	prep:gen:nwok	od-i
@@ -5216,7 +5216,7 @@ w	prep:loc:nwok	w-i
 Aleksandrii	subst:sg:loc:f	Aleksandria-n
 .	interp	.-x
 </s>
-<s id="2004:3" video="https://media.dipintra.it/?id=2004&start=00.21&end=00.26&collection=eptic3">
+<s id="2004:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.21&end=00.00.26">
 To	subst:sg:nom:n	To-n
 bardzo	adv:pos	bardzo-a
 ważne	adj:sg:nom:n:pos	ważny-j
@@ -5234,7 +5234,7 @@ bardziej	adv:com	bardzo-a
 nas	ppron12:pl:gen:m1:pri	my-x
 .	interp	.-x
 </s>
-<s id="2004:4" video="https://media.dipintra.it/?id=2004&start=00.26&end=00.33&collection=eptic3">
+<s id="2004:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.26&end=00.00.33">
 Panie	subst:pl:nom:f	pani-n
 i	conj	i-c
 panowie	subst:pl:nom:m1	pan-n
@@ -5252,7 +5252,7 @@ na	prep:loc	na-i
 świecie	subst:sg:loc:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2004:5" video="https://media.dipintra.it/?id=2004&start=00.33&end=00.42&collection=eptic3">
+<s id="2004:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.33&end=00.00.42">
 Dyskryminacja	subst:sg:nom:f	dyskryminacja-n
 prawna	adj:sg:nom:f:pos	prawny-j
 ,	interp	"-x
@@ -5273,7 +5273,7 @@ na	prep:loc	na-i
 rocznie	adv:pos	rocznie-a
 .	interp	.-x
 </s>
-<s id="2004:6" video="https://media.dipintra.it/?id=2004&start=00.42&end=00.49&collection=eptic3">
+<s id="2004:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.42&end=00.00.49">
 Wszyscy	adj:pl:nom:m1:pos	wszystek-j
 ,	interp	"-x
 którzy	adj:pl:nom:m1:pos	który-j
@@ -5292,7 +5292,7 @@ wolności	subst:sg:gen:f	wolność-n
 religijnej	adj:sg:gen:f:pos	religijny-j
 .	interp	.-x
 </s>
-<s id="2004:7" video="https://media.dipintra.it/?id=2004&start=00.49&end=00.59&collection=eptic3">
+<s id="2004:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.49&end=00.00.59">
 Sprawa	subst:sg:nom:f	sprawa-n
 wolności	subst:sg:gen:f	wolność-n
 religijnej	adj:sg:gen:f:pos	religijny-j
@@ -5314,7 +5314,7 @@ pomocy	subst:sg:gen:f	pomoc-n
 rozwojowej	adj:sg:gen:f:pos	rozwojowy-j
 .	interp	.-x
 </s>
-<s id="2004:8" video="https://media.dipintra.it/?id=2004&start=00.59&end=01.07&collection=eptic3">
+<s id="2004:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.00.59&end=00.01.07">
 Chiny	subst:pl:nom:n	Chiny-n
 ,	interp	"-x
 Indie	subst:pl:nom:n	Indie-n
@@ -5334,7 +5334,7 @@ Unią	subst:sg:inst:f	unia-n
 Europejską	adj:sg:inst:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2004:9" video="https://media.dipintra.it/?id=2004&start=01.07&end=01.13&collection=eptic3">
+<s id="2004:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.07&end=00.01.13">
 Wobec	prep:gen	wobec-i
 takich	adj:pl:gen:m3:pos	taki-j
 krajów	subst:pl:gen:m3	kraj-n
@@ -5347,7 +5347,7 @@ politykę	subst:sg:acc:f	polityka-n
 sąsiedztwa	subst:sg:gen:n	sąsiedztwo-n
 .	interp	.-x
 </s>
-<s id="2004:10" video="https://media.dipintra.it/?id=2004&start=01.13&end=01.22&collection=eptic3">
+<s id="2004:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.13&end=00.01.22">
 W	prep:loc:nwok	w-i
 końcu	subst:sg:loc:m3	koniec-n
 nasza	adj:sg:nom:f:pos	nasz-j
@@ -5366,7 +5366,7 @@ wolności	subst:sg:gen:f	wolność-n
 religijnej	adj:sg:gen:f:pos	religijny-j
 .	interp	.-x
 </s>
-<s id="2004:11" video="https://media.dipintra.it/?id=2004&start=01.22&end=01.33&collection=eptic3">
+<s id="2004:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.22&end=00.01.33">
 Mamy	fin:pl:pri:imperf	mieć-v
 więc	conj	więc-c
 instrumenty	subst:pl:acc:m3	instrument-n
@@ -5397,7 +5397,7 @@ nas	ppron12:pl:gen:m1:pri	my-x
 ważna	adj:sg:nom:f:pos	ważny-j
 .	interp	.-x
 </s>
-<s id="2004:12" video="https://media.dipintra.it/?id=2004&start=01.33&end=01.39&collection=eptic3">
+<s id="2004:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.33&end=00.01.39">
 Tylko	conj	tylko-c
 wtedy	adv	wtedy-a
 świat	subst:sg:nom:m3	Świat-n
@@ -5419,7 +5419,7 @@ naprawdę	qub	naprawdę-x
 ważna	adj:sg:nom:f:pos	ważny-j
 .	interp	.-x
 </s>
-<s id="2004:13" video="https://media.dipintra.it/?id=2004&start=01.39&end=01.57&collection=eptic3">
+<s id="2004:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.39&end=00.01.57">
 W	prep:loc:nwok	w-i
 innym	adj:sg:loc:m3:pos	inny-j
 wypadku	subst:sg:loc:m3	wypadek-n
@@ -5434,7 +5434,7 @@ tym	adj:sg:loc:m3:pos	ten-j
 obszarze	subst:sg:loc:m3	obszar-n
 .	interp	.-x
 </s>
-<s id="2004:14" video="https://media.dipintra.it/?id=2004&start=01.57&end=02.05&collection=eptic3">
+<s id="2004:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2004.mp4&start=00.01.57&end=00.02.05">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -5447,7 +5447,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Poreba Tomasz Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="218" duration="medium" durations="120.0" speed="slow" speedwm="109.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2005:1" video="https://media.dipintra.it/?id=2005&start=00.00&end=00.09&collection=eptic3">
+<s id="2005:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.00&end=00.00.09">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -5456,7 +5456,7 @@ Wysoka	adj:sg:nom:f:pos	Wysoki-j
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n
 !	interp	!-x
 </s>
-<s id="2005:2" video="https://media.dipintra.it/?id=2005&start=00.09&end=00.15&collection=eptic3">
+<s id="2005:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.09&end=00.00.15">
 Co	prep:acc	co-i
 najmniej	adv:sup	najmniej-a
 75	num:pl:acc:m3:rec	75-x
@@ -5471,7 +5471,7 @@ dotyczy	fin:sg:ter:imperf	dotyczyć-v
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2005:3" video="https://media.dipintra.it/?id=2005&start=00.15&end=00.18&collection=eptic3">
+<s id="2005:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.15&end=00.00.18">
 Unia	subst:sg:nom:f	unia-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 nie	qub	nie-x
@@ -5483,7 +5483,7 @@ sprawie	subst:sg:loc:f	sprawa-n
 bierna	adj:sg:nom:f:pos	bierny-j
 .	interp	.-x
 </s>
-<s id="2005:4" video="https://media.dipintra.it/?id=2005&start=00.18&end=00.21&collection=eptic3">
+<s id="2005:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.18&end=00.00.21">
 Unia	subst:sg:nom:f	unia-n
 Eur-	DYSF	Eur-
 Europejska	adj:sg:nom:f:pos	europejski-j
@@ -5496,7 +5496,7 @@ sprawie	subst:sg:loc:f	sprawa-n
 bezczynna	adj:sg:nom:f:pos	bezczynny-j
 .	interp	.-x
 </s>
-<s id="2005:5" video="https://media.dipintra.it/?id=2005&start=00.21&end=00.41&collection=eptic3">
+<s id="2005:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.21&end=00.00.41">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j
 debata	subst:sg:nom:f	debata-n
 służy	fin:sg:ter:imperf	służyć-v
@@ -5550,13 +5550,13 @@ przyszłości	subst:sg:loc:f	przyszłość-n
 zapobiec	inf:perf	zapobiec-v
 .	interp	.-x
 </s>
-<s id="2005:6" video="https://media.dipintra.it/?id=2005&start=00.41&end=00.42&collection=eptic3">
+<s id="2005:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.41&end=00.00.42">
 Co	subst:sg:acc:n	co-n
 możemy	fin:pl:pri:imperf	móc-v
 zrobić	inf:perf	zrobić-v
 ?	interp	?-x
 </s>
-<s id="2005:7" video="https://media.dipintra.it/?id=2005&start=00.42&end=00.54&collection=eptic3">
+<s id="2005:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.42&end=00.00.54">
 Po	prep:acc	po-i
 pierwsze	adj:sg:acc:n:pos	pierwszy-j
 ,	interp	"-x
@@ -5588,7 +5588,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2005:8" video="https://media.dipintra.it/?id=2005&start=00.54&end=01.05&collection=eptic3">
+<s id="2005:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.00.54&end=00.01.05">
 Chodzi	fin:sg:ter:imperf	chodzić-v
 o	prep:acc	o-i
 to	subst:sg:acc:n	to-n
@@ -5623,7 +5623,7 @@ tych	adj:pl:loc:m3:pos	ten-j
 krajach	subst:pl:loc:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="2005:9" video="https://media.dipintra.it/?id=2005&start=01.05&end=01.18&collection=eptic3">
+<s id="2005:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.05&end=00.01.18">
 Po	prep:acc	po-i
 drugie	adj:sg:acc:n:pos	drugi-j
 ,	interp	"-x
@@ -5662,7 +5662,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2005:10" video="https://media.dipintra.it/?id=2005&start=01.18&end=01.22&collection=eptic3">
+<s id="2005:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.18&end=00.01.22">
 Wreszcie	qub	wreszcie-x
 po	prep:acc	pod-i
 trzecie	adj:sg:acc:n:pos	trzeci-j
@@ -5675,7 +5675,7 @@ podwójnych	adj:pl:loc:f:pos	podwójny-j
 standardów	subst:pl:gen:m3	standard-n
 .	interp	.-x
 </s>
-<s id="2005:11" video="https://media.dipintra.it/?id=2005&start=01.22&end=01.27&collection=eptic3">
+<s id="2005:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.22&end=00.01.27">
 Unia	subst:sg:nom:f	unia-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 ,	interp	"-x
@@ -5693,7 +5693,7 @@ krajów	subst:pl:gen:m3	kraj-n
 świata	subst:sg:gen:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2005:12" video="https://media.dipintra.it/?id=2005&start=01.27&end=01.32&collection=eptic3">
+<s id="2005:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.27&end=00.01.32">
 Pozwalamy	fin:pl:pri:imperf	pozwalać-v
 budować	inf:imperf	budować-v
 im	ppron3:pl:dat:m1:ter	on-x
@@ -5706,7 +5706,7 @@ własne	adj:pl:acc:f:pos	własny-j
 religie	subst:pl:acc:f	religia-n
 .	interp	.-x
 </s>
-<s id="2005:13" video="https://media.dipintra.it/?id=2005&start=01.32&end=01.50&collection=eptic3">
+<s id="2005:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.32&end=00.01.50">
 Jednocześnie	adv:pos	jednocześnie-a
 z	prep:gen:nwok	z-i
 rzadka	adjp	rzadka-x
@@ -5760,7 +5760,7 @@ prostu	adjp	prostu-x
 niemożliwe	adj:sg:nom:n:pos	niemożliwy-j
 .	interp	.-x
 </s>
-<s id="2005:14" video="https://media.dipintra.it/?id=2005&start=01.50&end=01.56&collection=eptic3">
+<s id="2005:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.50&end=00.01.56">
 Dzisiaj	adv	dzisiaj-a
 przyszedł	praet:sg:m1:perf	przyjść-v
 czas	subst:sg:acc:m3	czas-n
@@ -5782,7 +5782,7 @@ na	prep:loc	na-i
 świecie	subst:sg:loc:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2005:15" video="https://media.dipintra.it/?id=2005&start=01.56&end=02.25&collection=eptic3">
+<s id="2005:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2005.mp4&start=00.01.56&end=00.02.25">
 Dzisiaj	adv	dzisiaj-a
 przyszedł	praet:sg:m1:perf	przyjść-v
 czas	subst:sg:acc:m3	czas-n
@@ -5817,7 +5817,7 @@ religijnych	adj:pl:gen:f:pos	religijny-j
 <speaker name="Ziobro Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="140" duration="short" durations="76.0" speed="slow" speedwm="110.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2006:1" video="https://media.dipintra.it/?id=2006&start=00.00&end=00.14&collection=eptic3">
+<s id="2006:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.00&end=00.00.14">
 Według	prep:gen	według-i
 organizacji	subst:pl:gen:f	organizacja-n
 monitorujących	pact:pl:gen:f:imperf:aff	monitorować-v
@@ -5834,7 +5834,7 @@ jest	fin:sg:ter:imperf	być-v
 prześladowaniami	subst:pl:inst:n	prześladowanie-n
 .	interp	.-x
 </s>
-<s id="2006:2" video="https://media.dipintra.it/?id=2006&start=00.14&end=00.22&collection=eptic3">
+<s id="2006:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.14&end=00.00.22">
 W	prep:loc:nwok	w-i
 ostatnich	adj:pl:loc:m3:pos	ostatni-j
 dwóch	num:pl:loc:m3:congr	dwa-x
@@ -5858,7 +5858,7 @@ byli	praet:pl:m1:imperf	być-v
 chrześcijanami	subst:pl:inst:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2006:3" video="https://media.dipintra.it/?id=2006&start=00.22&end=00.27&collection=eptic3">
+<s id="2006:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.22&end=00.00.27">
 Tak	adv:pos	tak-a
 podają	fin:pl:ter:imperf	podawać-v
 dane	subst:pl:nom:f	dana-n
@@ -5868,7 +5868,7 @@ prześladowania	ger:sg:gen:n2:imperf:aff	prześladować-v
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2006:4" video="https://media.dipintra.it/?id=2006&start=00.27&end=00.35&collection=eptic3">
+<s id="2006:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.27&end=00.00.35">
 Liczby	subst:pl:nom:f	liczba-n
 te	adj:pl:nom:f:pos	ten-j
 stawiają	fin:pl:ter:imperf	stawiać-v
@@ -5893,7 +5893,7 @@ Parlamencie	subst:sg:loc:m3	parlament-n
 pamiętać	inf:imperf	pamiętać-v
 .	interp	.-x
 </s>
-<s id="2006:5" video="https://media.dipintra.it/?id=2006&start=00.35&end=00.44&collection=eptic3">
+<s id="2006:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.35&end=00.00.44">
 Szczególnie	adv:pos	szczególnie-a
 napięta	adj:sg:nom:f:pos	napięty-j
 sytuacja	subst:sg:nom:f	sytuacja-n
@@ -5915,7 +5915,7 @@ drugiej	adj:sg:gen:f:pos	drugi-j
 kategorii	subst:sg:gen:f	kategoria-n
 .	interp	.-x
 </s>
-<s id="2006:6" video="https://media.dipintra.it/?id=2006&start=00.44&end=00.55&collection=eptic3">
+<s id="2006:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.44&end=00.00.55">
 Europa	subst:sg:nom:f	Europa-n
 ,	interp	"-x
 nie	qub	nie-x
@@ -5953,7 +5953,7 @@ innej	adj:sg:gen:f:pos	inny-j
 religii	subst:sg:gen:f	religia-n
 .	interp	.-x
 </s>
-<s id="2006:7" video="https://media.dipintra.it/?id=2006&start=00.55&end=01.02&collection=eptic3">
+<s id="2006:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.00.55&end=00.01.02">
 Wspólnota	subst:sg:nom:f	wspólnota-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 nie	qub	nie-x
@@ -5969,7 +5969,7 @@ na	prep:loc	na-i
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2006:8" video="https://media.dipintra.it/?id=2006&start=01.02&end=01.15&collection=eptic3">
+<s id="2006:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.01.02&end=00.01.15">
 Kwestia	subst:sg:nom:f	kwestia-n
 prześladowań	subst:pl:gen:n	prześladowanie-n
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
@@ -6000,7 +6000,7 @@ strasznych	adj:pl:gen:f:pos	straszny-j
 wydarzeń	subst:pl:gen:n	wydarzenie-n
 .	interp	.-x
 </s>
-<s id="2006:9" video="https://media.dipintra.it/?id=2006&start=01.15&end=01.39&collection=eptic3">
+<s id="2006:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.01.15&end=00.01.39">
 Parlament	subst:sg:nom:m3	parlament-n
 powinien	winien:sg:m3:imperf	powinien-x
 również	qub	również-x
@@ -6016,7 +6016,7 @@ zdecydowanych	adj:pl:gen:n:pos	zdecydowany-j
 działań	subst:pl:gen:n	działania-n
 .	interp	.-x
 </s>
-<s id="2006:10" video="https://media.dipintra.it/?id=2006&start=01.39&end=01.42&collection=eptic3">
+<s id="2006:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2006.mp4&start=00.01.39&end=00.01.42">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -6029,14 +6029,14 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Piotrowski Mirosław" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="95" duration="short" durations="62.0" speed="slow" speedwm="91.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2007:1" video="https://media.dipintra.it/?id=2007&start=00.00&end=00.08&collection=eptic3">
+<s id="2007:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.00&end=00.00.08">
 Przewodniczący	subst:pl:nom:m1	przewodniczący-n
 ,	interp	"-x
 szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2007:2" video="https://media.dipintra.it/?id=2007&start=00.08&end=00.13&collection=eptic3">
+<s id="2007:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.08&end=00.00.13">
 Wyznacznikiem	subst:sg:inst:m1	wyznacznik-n
 tożsamości	subst:sg:gen:f	tożsamość-n
 europejskiej	adj:sg:gen:f:pos	europejski-j
@@ -6045,7 +6045,7 @@ było	praet:sg:n:imperf	być-v
 chrześcijaństwo	subst:sg:nom:n	chrześcijaństwo-n
 .	interp	.-x
 </s>
-<s id="2007:3" video="https://media.dipintra.it/?id=2007&start=00.13&end=00.16&collection=eptic3">
+<s id="2007:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.13&end=00.00.16">
 Z	prep:gen:nwok	z-i
 niego	ppron3:sg:gen:m1:ter	on-x
 wypływają	fin:pl:ter:imperf	wypływać-v
@@ -6054,7 +6054,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2007:4" video="https://media.dipintra.it/?id=2007&start=00.16&end=00.23&collection=eptic3">
+<s id="2007:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.16&end=00.00.23">
 Dlatego	adv	dlatego-a
 też	qub	też-x
 Unia	subst:sg:nom:f	unia-n
@@ -6073,7 +6073,7 @@ częściach	subst:pl:loc:f	część-n
 świata	subst:sg:gen:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2007:5" video="https://media.dipintra.it/?id=2007&start=00.23&end=00.35&collection=eptic3">
+<s id="2007:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.23&end=00.00.35">
 W	prep:loc:nwok	w-i
 krajach	subst:pl:loc:m3	kraj-n
 arabskich	adj:pl:gen:m1:pos	arabski-j
@@ -6103,14 +6103,14 @@ w	prep:loc:nwok	w-i
 Indiach	subst:pl:loc:n	Indie-n
 .	interp	.-x
 </s>
-<s id="2007:6" video="https://media.dipintra.it/?id=2007&start=00.35&end=00.38&collection=eptic3">
+<s id="2007:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.35&end=00.00.38">
 Giną	fin:pl:ter:imperf	ginąć-v
 także	qub	także-x
 małe	adj:pl:nom:n:pos	mały-j
 dzieci	subst:pl:nom:n	dziecko-n
 .	interp	.-x
 </s>
-<s id="2007:7" video="https://media.dipintra.it/?id=2007&start=00.38&end=00.43&collection=eptic3">
+<s id="2007:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.38&end=00.00.43">
 Mamy	fin:pl:pri:imperf	mieć-v
 wiele	num:pl:acc:m3:rec	wiele-x
 instrumentów	subst:pl:gen:m3	instrument-n
@@ -6125,7 +6125,7 @@ je	ppron3:pl:acc:m3:ter	on-x
 piętnować	inf:imperf	piętnować-v
 .	interp	.-x
 </s>
-<s id="2007:8" video="https://media.dipintra.it/?id=2007&start=00.43&end=00.48&collection=eptic3">
+<s id="2007:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.43&end=00.00.48">
 Unia	subst:sg:nom:f	unia-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 musi	fin:sg:ter:imperf	musieć-v
@@ -6136,7 +6136,7 @@ na	prep:acc	na-i
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2007:9" video="https://media.dipintra.it/?id=2007&start=00.48&end=01.19&collection=eptic3">
+<s id="2007:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.00.48&end=00.01.19">
 Jednym	adj:sg:inst:m1:pos	jeden-j
 z	prep:gen:nwok	z-i
 najskuteczniejszych	adj:pl:gen:m1:sup	skuteczny-j
@@ -6173,7 +6173,7 @@ ich	ppron3:pl:gen:f:ter	on-x
 łamania	ger:sg:gen:n:imperf:aff	łamać-v
 .	interp	.-x
 </s>
-<s id="2007:10" video="https://media.dipintra.it/?id=2007&start=01.19&end=01.28&collection=eptic3">
+<s id="2007:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2007.mp4&start=00.01.19&end=00.01.28">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -6186,7 +6186,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Sonik Boguslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="156" duration="short" durations="79.0" speed="slow" speedwm="118.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2008:1" video="https://media.dipintra.it/?id=2008&start=00.00&end=00.28&collection=eptic3">
+<s id="2008:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.00.00&end=00.00.28">
 Nasrin	subst:sg:nom:m1	Nasrin-n
 Sotudeh	subst:sg:nom:m1	Sotudeh-n
 już	qub	już-x
@@ -6234,7 +6234,7 @@ na	prep:acc	na-i
 miesiące	subst:pl:acc:m3	miesiąc-n
 .	interp	.-x
 </s>
-<s id="2008:2" video="https://media.dipintra.it/?id=2008&start=00.28&end=00.41&collection=eptic3">
+<s id="2008:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.00.28&end=00.00.41">
 Teraz	adv	teraz-a
 po	prep:loc	po-i
 procesie	subst:sg:loc:m3	proces-n
@@ -6266,7 +6266,7 @@ opuszczania	ger:sg:gen:n:imperf:aff	opuszczać-v
 Iranu	subst:sg:gen:m3	Iran-n
 .	interp	.-x
 </s>
-<s id="2008:3" video="https://media.dipintra.it/?id=2008&start=00.41&end=00.54&collection=eptic3">
+<s id="2008:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.00.41&end=00.00.54">
 Pamiętajmy	impt:pl:pri:imperf	pamiętać-v
 ,	interp	"-x
 że	comp	że-c
@@ -6301,7 +6301,7 @@ samo	adj:sg:acc:n:pos	sam-j
 przestępstwo	subst:sg:acc:n	przestępstwo-n
 .	interp	.-x
 </s>
-<s id="2008:4" video="https://media.dipintra.it/?id=2008&start=00.54&end=01.04&collection=eptic3">
+<s id="2008:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.00.54&end=00.01.04">
 Trzeba	pred	trzeba-x
 jasno	adv:pos	jasno-a
 podkreślić	inf:perf	podkreślić-v
@@ -6332,7 +6332,7 @@ procesu	subst:sg:gen:m3	proces-n
 sądowego	adj:sg:gen:m3:pos	sądowy-j
 .	interp	.-x
 </s>
-<s id="2008:5" video="https://media.dipintra.it/?id=2008&start=01.04&end=01.23&collection=eptic3">
+<s id="2008:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.01.04&end=00.01.23">
 Nasrin	subst:sg:nom:m1	Nasrin-n
 Sotudeh	subst:sg:nom:m1	Sotudeh-n
 ,	interp	"-x
@@ -6379,7 +6379,7 @@ w	prep:loc:nwok	w-i
 Iranie	subst:sg:voc:m3	Iran-n
 .	interp	.-x
 </s>
-<s id="2008:6" video="https://media.dipintra.it/?id=2008&start=01.23&end=01.47&collection=eptic3">
+<s id="2008:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2008.mp4&start=00.01.23&end=00.01.47">
 Unia	subst:sg:nom:f	unia-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 nie	qub	nie-x
@@ -6404,14 +6404,14 @@ reżimem	subst:sg:inst:m3	reżim-n
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="98" duration="short" durations="69.0" speed="slow" speedwm="85.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2009:1" video="https://media.dipintra.it/?id=2009&start=00.00&end=00.05&collection=eptic3">
+<s id="2009:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.00&end=00.00.05">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2009:2" video="https://media.dipintra.it/?id=2009&start=00.05&end=00.17&collection=eptic3">
+<s id="2009:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.05&end=00.00.17">
 Szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 ,	interp	"-x
@@ -6432,7 +6432,7 @@ nas	ppron12:pl:acc:m1:pri	my-x
 parlamentarzystów	subst:pl:acc:m1	parlamentarzysta-n
 .	interp	.-x
 </s>
-<s id="2009:3" video="https://media.dipintra.it/?id=2009&start=00.17&end=00.33&collection=eptic3">
+<s id="2009:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.17&end=00.00.33">
 Ehm	FPAUSE	ehm
 no	qub	no-x
 to	pred	to-x
@@ -6473,7 +6473,7 @@ tego	adj:sg:gen:n:pos	ten-j
 państwa	subst:sg:gen:n	państwo-n
 .	interp	.-x
 </s>
-<s id="2009:4" video="https://media.dipintra.it/?id=2009&start=00.33&end=00.52&collection=eptic3">
+<s id="2009:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.33&end=00.00.52">
 No	qub	no-x
 ewidentnie	adv:pos	ewidentnie-a
 widać	pred	widać-x
@@ -6513,7 +6513,7 @@ nie	qub	nie-x
 idzie	fin:sg:ter:imperf	iść-v
 .	interp	.-x
 </s>
-<s id="2009:5" video="https://media.dipintra.it/?id=2009&start=00.52&end=00.55&collection=eptic3">
+<s id="2009:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.52&end=00.00.55">
 Ehm	FPAUSE	ehm
 ta	adj:sg:nom:f:pos	ten-j
 sprawa	subst:sg:nom:f	sprawa-n
@@ -6521,7 +6521,7 @@ jest	fin:sg:ter:imperf	być-v
 oczywista	adj:sg:nom:f:pos	oczywisty-j
 .	interp	.-x
 </s>
-<s id="2009:6" video="https://media.dipintra.it/?id=2009&start=00.55&end=00.57&collection=eptic3">
+<s id="2009:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.55&end=00.00.57">
 Dobrze	adv:pos	dobrze-a
 ,	interp	"-x
 że	comp	że-c
@@ -6532,7 +6532,7 @@ się	qub	się-x
 zajął	praet:sg:m3:perf	zająć-v
 .	interp	.-x
 </s>
-<s id="2009:7" video="https://media.dipintra.it/?id=2009&start=00.57&end=01.17&collection=eptic3">
+<s id="2009:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.00.57&end=00.01.17">
 Pytanie	subst:sg:nom:n	pytanie-n
 tylko	qub	tylko-x
 o	prep:acc	o-i
@@ -6568,7 +6568,7 @@ większego	adj:sg:gen:m3:com	wielki-j
 skutku	subst:sg:gen:m3	skutek-n
 .	interp	.-x
 </s>
-<s id="2009:8" video="https://media.dipintra.it/?id=2009&start=01.17&end=01.36&collection=eptic3">
+<s id="2009:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2009.mp4&start=00.01.17&end=00.01.36">
 Być	inf:imperf	być-v
 może	fin:sg:ter:imperf	móc-v
 należy	fin:sg:ter:imperf	należeć-v
@@ -6590,12 +6590,12 @@ dotychczas	adv	dotychczas-a
 <speaker name="Geringer de Oedenberg Lidia Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="130" duration="short" durations="76.0" speed="slow" speedwm="102.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2010:1" video="https://media.dipintra.it/?id=2010&start=00.00&end=00.06&collection=eptic3">
+<s id="2010:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.00&end=00.00.06">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2010:2" video="https://media.dipintra.it/?id=2010&start=00.06&end=00.22&collection=eptic3">
+<s id="2010:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.06&end=00.00.22">
 W	prep:loc:nwok	w-i
 trakcie	subst:sg:loc:m3	trakt-n
 poprzedniej	adj:sg:gen:f:pos	poprzedni-j
@@ -6641,7 +6641,7 @@ kary	subst:sg:gen:f	kara-n
 śmierci	subst:sg:gen:f	śmierć-n
 .	interp	.-x
 </s>
-<s id="2010:3" video="https://media.dipintra.it/?id=2010&start=00.22&end=00.32&collection=eptic3">
+<s id="2010:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.22&end=00.00.32">
 Do	prep:gen	do-i
 tej	adj:sg:gen:f:pos	ten-j
 tragicznej	adj:sg:loc:f:pos	tragiczny-j
@@ -6665,7 +6665,7 @@ wymiaru	subst:sg:gen:m3	wymiar-n
 sprawiedliwości	subst:sg:gen:f	sprawiedliwość-n
 .	interp	.-x
 </s>
-<s id="2010:4" video="https://media.dipintra.it/?id=2010&start=00.32&end=00.45&collection=eptic3">
+<s id="2010:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.32&end=00.00.45">
 Te	adj:pl:nom:n:pos	ten-j
 dwa	num:pl:nom:n:congr	dwa-x
 ostatnie	adj:pl:nom:n:pos	ostatni-j
@@ -6697,7 +6697,7 @@ tego	subst:sg:gen:n	to-n
 przykładem	subst:sg:inst:m3	przykład-n
 .	interp	.-x
 </s>
-<s id="2010:5" video="https://media.dipintra.it/?id=2010&start=00.45&end=00.49&collection=eptic3">
+<s id="2010:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.45&end=00.00.49">
 Represje	subst:pl:nom:f	represja-n
 spotkały	praet:pl:f:perf	spotkać-v
 także	qub	także-x
@@ -6706,7 +6706,7 @@ irańskich	adj:pl:acc:m1:pos	irański-j
 prawników	subst:pl:gen:m1	prawnik-n
 .	interp	.-x
 </s>
-<s id="2010:6" video="https://media.dipintra.it/?id=2010&start=00.49&end=01.08&collection=eptic3">
+<s id="2010:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.00.49&end=00.01.08">
 Shiva	subst:sg:nom:m1	Shiva-n
 Nazar	subst:sg:nom:m1	Nazar-n
 Ahari	subst:sg:nom:m1	Ahari-n
@@ -6751,7 +6751,7 @@ swoich	adj:pl:gen:m1:pos	swój-j
 klientów	subst:pl:gen:m1	klient-n
 .	interp	.-x
 </s>
-<s id="2010:7" video="https://media.dipintra.it/?id=2010&start=01.08&end=01.41&collection=eptic3">
+<s id="2010:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.01.08&end=00.01.41">
 Myślę	fin:sg:pri:imperf	myśleć-v
 ,	interp	"-x
 że	comp	że-c
@@ -6782,7 +6782,7 @@ z	prep:inst:nwok	z-i
 Iranem	subst:sg:inst:m3	Iran-n
 .	interp	.-x
 </s>
-<s id="2010:8" video="https://media.dipintra.it/?id=2010&start=01.41&end=01.42&collection=eptic3">
+<s id="2010:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2010.mp4&start=00.01.41&end=00.01.42">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -6794,17 +6794,17 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="92" duration="short" durations="65.0" speed="slow" speedwm="84.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2011:1" video="https://media.dipintra.it/?id=2011&start=00.00&end=00.04&collection=eptic3">
+<s id="2011:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.00&end=00.00.04">
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2011:2" video="https://media.dipintra.it/?id=2011&start=00.04&end=00.07&collection=eptic3">
+<s id="2011:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.04&end=00.00.07">
 Panie	subst:sg:voc:m1	pan-n
 ,	interp	"-x
 Panowie	subst:pl:nom:m1	pan-n
 !	interp	!-x
 </s>
-<s id="2011:3" video="https://media.dipintra.it/?id=2011&start=00.07&end=00.29&collection=eptic3">
+<s id="2011:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.07&end=00.00.29">
 Nie	qub	nie-x
 jestem	fin:sg:pri:imperf	być-v
 Włochem	subst:sg:inst:m1	Włoch-n
@@ -6847,7 +6847,7 @@ ofiar	subst:pl:gen:f	ofiara-n
 zbrodni	subst:sg:gen:f	zbrodnia-n
 .	interp	.-x
 </s>
-<s id="2011:4" video="https://media.dipintra.it/?id=2011&start=00.29&end=00.31&collection=eptic3">
+<s id="2011:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.29&end=00.00.31">
 To	subst:sg:nom:n	To-n
 jest	fin:sg:ter:imperf	być-v
 nie	qub	nie-x
@@ -6855,7 +6855,7 @@ do	prep:gen	do-i
 przyjęcia	ger:sg:gen:n:perf:aff	przyjąć-v
 .	interp	.-x
 </s>
-<s id="2011:5" video="https://media.dipintra.it/?id=2011&start=00.31&end=00.32&collection=eptic3">
+<s id="2011:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.31&end=00.00.32">
 To	subst:sg:nom:n	To-n
 jest	fin:sg:ter:imperf	być-v
 nie	qub	nie-x
@@ -6863,7 +6863,7 @@ do	prep:gen	do-i
 przyjęcia	ger:sg:gen:n:perf:aff	przyjąć-v
 .	interp	.-x
 </s>
-<s id="2011:6" video="https://media.dipintra.it/?id=2011&start=00.32&end=00.39&collection=eptic3">
+<s id="2011:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.32&end=00.00.39">
 Jest	fin:sg:ter:imperf	być-v
 to	pred	to-x
 kwestia	subst:sg:nom:f	kwestia-n
@@ -6881,7 +6881,7 @@ europejskich	adj:pl:gen:m3:pos	europejski-j
 standardów	subst:pl:gen:m3	standard-n
 .	interp	.-x
 </s>
-<s id="2011:7" video="https://media.dipintra.it/?id=2011&start=00.39&end=00.59&collection=eptic3">
+<s id="2011:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.39&end=00.00.59">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x
 się	qub	się-x
@@ -6929,7 +6929,7 @@ naszych	adj:pl:gen:m1:pos	nasz-j
 wyborców	subst:pl:gen:m1	wyborca-n
 .	interp	.-x
 </s>
-<s id="2011:8" video="https://media.dipintra.it/?id=2011&start=00.59&end=01.33&collection=eptic3">
+<s id="2011:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2011.mp4&start=00.00.59&end=00.01.33">
 Ehm	FPAUSE	ehm
 uważam	fin:sg:pri:imperf	uważać-v
 ,	interp	"-x
@@ -6966,12 +6966,12 @@ zagłębi	fin:sg:ter:perf	zagłębić-v
 <speaker name="Poreba Tomasz Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="148" duration="short" durations="72.0" speed="slow" speedwm="123.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2012:1" video="https://media.dipintra.it/?id=2012&start=00.00&end=00.05&collection=eptic3">
+<s id="2012:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.00&end=00.00.05">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2012:2" video="https://media.dipintra.it/?id=2012&start=00.05&end=00.15&collection=eptic3">
+<s id="2012:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.05&end=00.00.15">
 Kilka	num:pl:acc:m3:rec	kilka-x
 tygodni	subst:pl:gen:m3	tydzień-n
 po	prep:loc	po-i
@@ -6995,7 +6995,7 @@ gubernatora	subst:sg:gen:m1	gubernator-n
 Pendżabu	subst:sg:gen:m3	Pendżab-n
 .	interp	.-x
 </s>
-<s id="2012:3" video="https://media.dipintra.it/?id=2012&start=00.15&end=00.23&collection=eptic3">
+<s id="2012:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.15&end=00.00.23">
 Salmaan	subst:sg:nom:m1	Salmaan-n
 Taseer	subst:sg:nom:m1	Taseer-n
 był	praet:sg:m1:imperf	być-v
@@ -7017,7 +7017,7 @@ rządzącej	pact:sg:gen:f:imperf:aff	rządzić-v
 partii	subst:sg:gen:f	partia-n
 .	interp	.-x
 </s>
-<s id="2012:4" video="https://media.dipintra.it/?id=2012&start=00.23&end=00.32&collection=eptic3">
+<s id="2012:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.23&end=00.00.32">
 Zginął	praet:sg:m1:perf	zginąć-v
 ,	interp	"-x
 bo	comp	bo-c
@@ -7042,7 +7042,7 @@ zarzutem	subst:sg:inst:m3	zarzut-n
 bluźnierstwa	subst:sg:gen:n2	bluźnierstwo-n
 .	interp	.-x
 </s>
-<s id="2012:5" video="https://media.dipintra.it/?id=2012&start=00.32&end=00.59&collection=eptic3">
+<s id="2012:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.32&end=00.00.59">
 Jego	ppron3:sg:gen:m1:ter	on-x
 morderstwo	subst:sg:nom:n	morderstwo-n
 dokonane	ppas:sg:nom:n:perf:aff	dokonać-v
@@ -7117,7 +7117,7 @@ muzułmańskich	adj:pl:gen:m1:pos	muzułmański-j
 ekstremistów	subst:pl:gen:m1	ekstremista-n
 .	interp	.-x
 </s>
-<s id="2012:6" video="https://media.dipintra.it/?id=2012&start=00.59&end=01.02&collection=eptic3">
+<s id="2012:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.00.59&end=00.01.02">
 Wczoraj	adv	wczoraj-a
 dobe-	DYSF	dobe-
 debatowaliśmy	aglt:pl:pri:imperf:nwok	debatowaliśmy-v
@@ -7130,7 +7130,7 @@ prześladowania	ger:sg:gen:n2:imperf:aff	prześladować-v
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 .	interp	.-x
 </s>
-<s id="2012:7" video="https://media.dipintra.it/?id=2012&start=01.02&end=01.05&collection=eptic3">
+<s id="2012:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.01.02&end=00.01.05">
 Dzisiaj	adv	dzisiaj-a
 przyjęliśmy	fin:pl:pri:imperf	przyjęliśmy-v
 rezolucję	subst:sg:acc:f	rezolucja-n
@@ -7139,7 +7139,7 @@ tej	adj:sg:loc:f:pos	ten-j
 sprawie	subst:sg:loc:f	sprawa-n
 .	interp	.-x
 </s>
-<s id="2012:8" video="https://media.dipintra.it/?id=2012&start=01.05&end=01.39&collection=eptic3">
+<s id="2012:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2012.mp4&start=00.01.05&end=00.01.39">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x
 się	qub	się-x
@@ -7183,12 +7183,12 @@ religijnym	adj:sg:inst:m3:pos	religijny-j
 <speaker name="Geringer de Oedenberg Lidia Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="191" duration="short" durations="99.0" speed="slow" speedwm="115.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2013:1" video="https://media.dipintra.it/?id=2013&start=00.00&end=00.06&collection=eptic3">
+<s id="2013:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.00&end=00.00.06">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2013:2" video="https://media.dipintra.it/?id=2013&start=00.06&end=00.16&collection=eptic3">
+<s id="2013:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.06&end=00.00.16">
 Dokładnie	qub	dokładnie-x
 osiem	num:pl:acc:m3:rec	osiem-x
 miesięcy	subst:pl:gen:m3	miesiąc-n
@@ -7211,7 +7211,7 @@ Republice	subst:sg:loc:f	Republika-n
 Pakistanu	subst:sg:gen:m3	Pakistan-n
 .	interp	.-x
 </s>
-<s id="2013:3" video="https://media.dipintra.it/?id=2013&start=00.16&end=00.31&collection=eptic3">
+<s id="2013:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.16&end=00.00.31">
 Dziś	adv	dziś-a
 temat	subst:sg:nom:m3	temat-n
 ten	adj:sg:nom:m3:pos	ten-j
@@ -7248,7 +7248,7 @@ w	prep:acc:nwok	w-i
 obronę	subst:sg:acc:f	obrona-n
 .	interp	.-x
 </s>
-<s id="2013:4" video="https://media.dipintra.it/?id=2013&start=00.31&end=00.37&collection=eptic3">
+<s id="2013:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.31&end=00.00.37">
 Okazuje	fin:sg:ter:imperf	okazywać-v
 się	qub	się-x
 ,	interp	"-x
@@ -7272,7 +7272,7 @@ się	qub	się-x
 pogorszyła	praet:sg:f:perf	pogorszyć-v
 .	interp	.-x
 </s>
-<s id="2013:5" video="https://media.dipintra.it/?id=2013&start=00.37&end=00.47&collection=eptic3">
+<s id="2013:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.37&end=00.00.47">
 Dziś	adv	dziś-a
 w	prep:loc:nwok	w-i
 Pakistanie	subst:sg:loc:m3	Pakistan-n
@@ -7302,7 +7302,7 @@ temat	subst:sg:acc:m3	temat-n
 wyroku	subst:sg:gen:m3	wyrok-n
 .	interp	.-x
 </s>
-<s id="2013:6" video="https://media.dipintra.it/?id=2013&start=00.47&end=00.52&collection=eptic3">
+<s id="2013:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.47&end=00.00.52">
 Morderstwo	subst:sg:nom:n	morderstwo-n
 gubernatora	subst:sg:gen:m1	gubernator-n
 Taseera	subst:sg:gen:m1	Taseera-n
@@ -7317,7 +7317,7 @@ do	prep:gen	do-i
 czynienia	subst:sg:gen:n	czynienie-n
 .	interp	.-x
 </s>
-<s id="2013:7" video="https://media.dipintra.it/?id=2013&start=00.52&end=01.00&collection=eptic3">
+<s id="2013:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.00.52&end=00.01.00">
 Pakistan	subst:sg:nom:m3	Pakistan-n
 jest	fin:sg:ter:imperf	być-v
 podzielony	ppas:sg:nom:m3:perf:aff	podzielić-v
@@ -7345,7 +7345,7 @@ lokalnych	adj:pl:gen:f:pos	lokalny-j
 elit	subst:pl:gen:f	elita-n
 .	interp	.-x
 </s>
-<s id="2013:8" video="https://media.dipintra.it/?id=2013&start=01.00&end=01.09&collection=eptic3">
+<s id="2013:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.01.00&end=00.01.09">
 Publiczne	adj:sg:nom:n:pos	publiczny-j
 popieranie	ger:sg:nom:n:imperf:aff	popierać-v
 nowelizacji	subst:sg:gen:f	nowelizacja-n
@@ -7369,7 +7369,7 @@ grozić	inf:imperf	grozić-v
 śmiercią	subst:sg:inst:f	śmierć-n
 .	interp	.-x
 </s>
-<s id="2013:9" video="https://media.dipintra.it/?id=2013&start=01.09&end=01.19&collection=eptic3">
+<s id="2013:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.01.09&end=00.01.19">
 Powinniśmy	impt:pl:pri:perf	Powinniśmy-v
 jednak	qub	jednak-x
 wymagać	inf:imperf	wymagać-v
@@ -7396,7 +7396,7 @@ reformę	subst:sg:acc:f	reforma-n
 kodeksu	subst:sg:gen:m3	kodeks-n
 .	interp	.-x
 </s>
-<s id="2013:10" video="https://media.dipintra.it/?id=2013&start=01.19&end=01.31&collection=eptic3">
+<s id="2013:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.01.19&end=00.01.31">
 Możemy	fin:pl:pri:imperf	móc-v
 również	qub	również-x
 wspierać	inf:imperf	wspierać-v
@@ -7429,7 +7429,7 @@ w	prep:loc:nwok	w-i
 szkołach	subst:pl:loc:f	szkoła-n
 .	interp	.-x
 </s>
-<s id="2013:11" video="https://media.dipintra.it/?id=2013&start=01.31&end=02.08&collection=eptic3">
+<s id="2013:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.01.31&end=00.02.08">
 Dziś	adv	dziś-a
 Parlament	subst:sg:nom:m3	parlament-n
 Europejski	adj:sg:nom:m3:pos	europejski-j
@@ -7460,7 +7460,7 @@ wolności	subst:sg:gen:f	wolność-n
 wyznania	subst:sg:gen:n	wyznanie-n
 .	interp	.-x
 </s>
-<s id="2013:12" video="https://media.dipintra.it/?id=2013&start=02.08&end=02.09&collection=eptic3">
+<s id="2013:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2013.mp4&start=00.02.08&end=00.02.09">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -7472,13 +7472,13 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="66" duration="short" durations="71.0" speed="slow" speedwm="55.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2014:1" video="https://media.dipintra.it/?id=2014&start=00.00&end=00.08&collection=eptic3">
+<s id="2014:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.00&end=00.00.08">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2014:2" video="https://media.dipintra.it/?id=2014&start=00.08&end=00.14&collection=eptic3">
+<s id="2014:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.08&end=00.00.14">
 Znowu	adv	znowu-a
 Pakistan	subst:sg:nom:m3	Pakistan-n
 ,	interp	"-x
@@ -7491,7 +7491,7 @@ polityczne	adj:sg:acc:n:pos	polityczny-j
 morderstwo	subst:sg:acc:n	morderstwo-n
 .	interp	.-x
 </s>
-<s id="2014:3" video="https://media.dipintra.it/?id=2014&start=00.14&end=00.18&collection=eptic3">
+<s id="2014:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.14&end=00.00.18">
 Ehm	FPAUSE	ehm
 rzeczywiście	adv:pos	rzeczywiście-a
 po	prep:acc	pod-i
@@ -7503,7 +7503,7 @@ tą	adj:sg:inst:f:pos	ten-j
 sprawą	subst:sg:inst:f	sprawa-n
 .	interp	.-x
 </s>
-<s id="2014:4" video="https://media.dipintra.it/?id=2014&start=00.18&end=00.23&collection=eptic3">
+<s id="2014:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.18&end=00.00.23">
 Parę	num:pl:acc:m3:rec	parę-x
 miesięcy	subst:pl:gen:m3	miesiąc-n
 temu	prep:acc	temu-i
@@ -7515,7 +7515,7 @@ ehm	FPAUSE	ehm
 Pakistanu	subst:sg:gen:m3	Pakistan-n
 .	interp	.-x
 </s>
-<s id="2014:5" video="https://media.dipintra.it/?id=2014&start=00.23&end=00.29&collection=eptic3">
+<s id="2014:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.23&end=00.00.29">
 Problem	subst:sg:nom:m3	problem-n
 wraca	fin:sg:ter:imperf	wracać-v
 ,	interp	"-x
@@ -7531,7 +7531,7 @@ kartofel	subst:sg:nom:m3	kartofel-n
 "	interp	"-x
 .	interp	.-x
 </s>
-<s id="2014:6" video="https://media.dipintra.it/?id=2014&start=00.29&end=01.01&collection=eptic3">
+<s id="2014:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.00.29&end=00.01.01">
 Ehm	FPAUSE	ehm
 i	conj	i-c
 wydaje	fin:sg:ter:imperf	wydawać-v
@@ -7579,14 +7579,14 @@ nagrody	subst:pl:acc:f	nagroda-n
 pieniężne	adj:pl:acc:f:pos	pieniężny-j
 .	interp	.-x
 </s>
-<s id="2014:7" video="https://media.dipintra.it/?id=2014&start=01.01&end=01.03&collection=eptic3">
+<s id="2014:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.01.01&end=00.01.03">
 Takie	adj:pl:nom:f:pos	taki-j
 sytuacje	subst:pl:nom:f	sytuacja-n
 miały	praet:pl:f:imperf	mieć-v
 miejsce	subst:sg:acc:n	miejsce-n
 .	interp	.-x
 </s>
-<s id="2014:8" video="https://media.dipintra.it/?id=2014&start=01.03&end=01.06&collection=eptic3">
+<s id="2014:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.01.03&end=00.01.06">
 Władze	subst:pl:nom:f	władza-n
 Pakistanu	subst:sg:gen:m3	Pakistan-n
 na	prep:acc	na-i
@@ -7595,7 +7595,7 @@ nie	qub	nie-x
 reagują	fin:pl:ter:imperf	reagować-v
 .	interp	.-x
 </s>
-<s id="2014:9" video="https://media.dipintra.it/?id=2014&start=01.06&end=01.36&collection=eptic3">
+<s id="2014:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2014.mp4&start=00.01.06&end=00.01.36">
 I	conj	i-c
 trzeba	pred	trzeba-x
 to	pred	to-x
@@ -7627,11 +7627,11 @@ współodpowiedzialność	subst:sg:acc:f	współodpowiedzialność-n
 <speaker name="Bielan Adam" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="120" duration="short" durations="61.0" speed="slow" speedwm="118.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2015:1" video="https://media.dipintra.it/?id=2015&start=00.00&end=00.05&collection=eptic3">
+<s id="2015:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.00&end=00.00.05">
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2015:2" video="https://media.dipintra.it/?id=2015&start=00.05&end=00.14&collection=eptic3">
+<s id="2015:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.05&end=00.00.14">
 Ostatnio	adv:pos	ostatnio-a
 w	prep:loc:nwok	w-i
 kilku	num:pl:loc:m3:congr	kilka-x
@@ -7652,7 +7652,7 @@ mniejszości	subst:pl:gen:f	mniejszość-n
 chrześcijańskich	adj:pl:gen:f:pos	chrześcijański-j
 .	interp	.-x
 </s>
-<s id="2015:3" video="https://media.dipintra.it/?id=2015&start=00.14&end=00.17&collection=eptic3">
+<s id="2015:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.14&end=00.00.17">
 Nie	qub	nie-x
 możemy	fin:pl:pri:imperf	móc-v
 stać	inf:imperf	stać-v
@@ -7662,7 +7662,7 @@ takich	adj:pl:gen:n:pos	taki-j
 wydarzeń	subst:pl:gen:n	wydarzenie-n
 .	interp	.-x
 </s>
-<s id="2015:4" video="https://media.dipintra.it/?id=2015&start=00.17&end=00.25&collection=eptic3">
+<s id="2015:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.17&end=00.00.25">
 Kwestia	subst:sg:nom:f	kwestia-n
 poszanowania	ger:sg:gen:n:perf:aff	poszanować-v
 wolności	subst:sg:gen:f	wolność-n
@@ -7682,7 +7682,7 @@ Parlamentu	subst:sg:gen:m3	parlament-n
 Europejskiego	adj:sg:gen:m3:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2015:5" video="https://media.dipintra.it/?id=2015&start=00.25&end=00.30&collection=eptic3">
+<s id="2015:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.25&end=00.00.30">
 Dlatego	adv	dlatego-a
 w	prep:loc:nwok	w-i
 pełni	subst:sg:loc:f	pełnia-n
@@ -7696,7 +7696,7 @@ te	adj:pl:acc:f:pos	ten-j
 zbrodnie	subst:pl:acc:f	zbrodnia-n
 .	interp	.-x
 </s>
-<s id="2015:6" video="https://media.dipintra.it/?id=2015&start=00.30&end=00.43&collection=eptic3">
+<s id="2015:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.30&end=00.00.43">
 Apeluję	fin:sg:pri:imperf	apelować-v
 również	qub	również-x
 do	prep:gen	do-i
@@ -7730,7 +7730,7 @@ ich	ppron3:pl:gen:m1:ter	on-x
 łamania	ger:sg:gen:n:imperf:aff	łamać-v
 .	interp	.-x
 </s>
-<s id="2015:7" video="https://media.dipintra.it/?id=2015&start=00.43&end=01.00&collection=eptic3">
+<s id="2015:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.00.43&end=00.01.00">
 W	prep:loc:nwok	w-i
 przyjętym	ppas:sg:loc:n:perf:aff	przyjąć-v
 niedawno	adv:pos	niedawno-a
@@ -7761,7 +7761,7 @@ na	prep:loc	na-i
 świecie	subst:sg:loc:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2015:8" video="https://media.dipintra.it/?id=2015&start=01.00&end=01.16&collection=eptic3">
+<s id="2015:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.01.00&end=00.01.16">
 Wezwaliśmy	fin:pl:pri:imperf	Wezwaliśmy-v
 do	prep:gen	do-i
 powołania	subst:sg:gen:n	powołanie-n
@@ -7774,7 +7774,7 @@ praw	subst:pl:gen:n	prawo-n
 człowieka	subst:sg:gen:m1	człowiek-n
 .	interp	.-x
 </s>
-<s id="2015:9" video="https://media.dipintra.it/?id=2015&start=01.16&end=01.27&collection=eptic3">
+<s id="2015:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2015.mp4&start=00.01.16&end=00.01.27">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j
 rezolucja	subst:sg:nom:f	rezolucja-n
 stanowi	fin:sg:ter:imperf	stanowić-v
@@ -7801,7 +7801,7 @@ praw	subst:pl:gen:n	prawo-n
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="112" duration="short" durations="63.0" speed="slow" speedwm="106.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2016:1" video="https://media.dipintra.it/?id=2016&start=00.00&end=00.14&collection=eptic3">
+<s id="2016:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.00&end=00.00.14">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v
 wyrazić	inf:perf	wyrazić-v
 swoją	adj:sg:acc:f:pos	swój-j
@@ -7821,7 +7821,7 @@ byłem	praet:sg:m1:imperf	byłem-v
 współautorem	subst:sg:inst:m1	współautor-n
 .	interp	.-x
 </s>
-<s id="2016:2" video="https://media.dipintra.it/?id=2016&start=00.14&end=00.23&collection=eptic3">
+<s id="2016:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.14&end=00.00.23">
 Jednocześnie	adv:pos	jednocześnie-a
 podkreślić	inf:perf	podkreślić-v
 też	qub	też-x
@@ -7842,7 +7842,7 @@ w	prep:loc:nwok	w-i
 Aleksandrii	subst:sg:loc:f	Aleksandria-n
 .	interp	.-x
 </s>
-<s id="2016:3" video="https://media.dipintra.it/?id=2016&start=00.23&end=00.32&collection=eptic3">
+<s id="2016:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.23&end=00.00.32">
 Jednocześnie	adv:pos	jednocześnie-a
 pamiętamy	fin:pl:pri:imperf	pamiętać-v
 wizytę	subst:sg:acc:f	wizyta-n
@@ -7864,7 +7864,7 @@ w	prep:loc:nwok	w-i
 Iraku	subst:sg:loc:m3	Irak-n
 .	interp	.-x
 </s>
-<s id="2016:4" video="https://media.dipintra.it/?id=2016&start=00.32&end=00.45&collection=eptic3">
+<s id="2016:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.32&end=00.00.45">
 Chcę	fin:sg:pri:imperf	chcieć-v
 tutaj	adv	tutaj-a
 przypomnieć	inf:perf	przypomnieć-v
@@ -7900,7 +7900,7 @@ innych	adj:pl:gen:f:pos	inny-j
 religii	subst:pl:gen:f	religia-n
 .	interp	.-x
 </s>
-<s id="2016:5" video="https://media.dipintra.it/?id=2016&start=00.45&end=00.56&collection=eptic3">
+<s id="2016:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.45&end=00.00.56">
 Pamiętamy	fin:pl:pri:imperf	pamiętać-v
 spotkania	subst:pl:acc:n	spotkanie-n
 w	prep:loc:nwok	w-i
@@ -7929,7 +7929,7 @@ drugiego	adj:sg:gen:m1:pos	drugi-j
 człowieka	subst:sg:gen:m1	człowiek-n
 .	interp	.-x
 </s>
-<s id="2016:6" video="https://media.dipintra.it/?id=2016&start=00.56&end=01.00&collection=eptic3">
+<s id="2016:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.00.56&end=00.01.00">
 Sytuacja	subst:sg:nom:f	sytuacja-n
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n
 w	prep:loc:nwok	w-i
@@ -7942,14 +7942,14 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2016:7" video="https://media.dipintra.it/?id=2016&start=01.00&end=01.02&collection=eptic3">
+<s id="2016:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.01.00&end=00.01.02">
 To	pred	to-x
 jest	fin:sg:ter:imperf	być-v
 nasz	adj:sg:nom:m3:pos	nasz-j
 obowiązek	subst:sg:nom:m3	obowiązek-n
 .	interp	.-x
 </s>
-<s id="2016:8" video="https://media.dipintra.it/?id=2016&start=01.02&end=01.26&collection=eptic3">
+<s id="2016:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.01.02&end=00.01.26">
 Należy	fin:sg:ter:imperf	należeć-v
 wykorzystać	inf:perf	wykorzystać-v
 wszystkie	adj:pl:acc:m3:pos	wszystek-j
@@ -7970,7 +7970,7 @@ powodu	subst:sg:gen:m3	powód-n
 prześladowań	subst:pl:gen:n	prześladowanie-n
 .	interp	.-x
 </s>
-<s id="2016:9" video="https://media.dipintra.it/?id=2016&start=01.26&end=01.32&collection=eptic3">
+<s id="2016:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2016.mp4&start=00.01.26&end=00.01.32">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -7983,12 +7983,12 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="112" duration="short" durations="65.0" speed="slow" speedwm="103.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2017:1" video="https://media.dipintra.it/?id=2017&start=00.00&end=00.08&collection=eptic3">
+<s id="2017:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.00&end=00.00.08">
 Proszę	fin:sg:pri:imperf	prosić-v
 Państwa	subst:pl:acc:m1	państwo-n
 .	interp	.-x
 </s>
-<s id="2017:2" video="https://media.dipintra.it/?id=2017&start=00.08&end=00.18&collection=eptic3">
+<s id="2017:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.08&end=00.00.18">
 Ehm	FPAUSE	ehm
 ta	adj:sg:nom:f:pos	ten-j
 rezolucja	subst:sg:nom:f	rezolucja-n
@@ -8006,7 +8006,7 @@ momencie	subst:sg:loc:m3	moment-n
 szczególnym	adj:sg:inst:n:pos	szczególny-j
 .	interp	.-x
 </s>
-<s id="2017:3" video="https://media.dipintra.it/?id=2017&start=00.18&end=00.22&collection=eptic3">
+<s id="2017:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.18&end=00.00.22">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v
 o	interj	o-x
 pogromie	subst:sg:voc:m3	pogrom-n
@@ -8015,7 +8015,7 @@ w	prep:loc:nwok	w-i
 Iraku	subst:sg:loc:m3	Irak-n
 .	interp	.-x
 </s>
-<s id="2017:4" video="https://media.dipintra.it/?id=2017&start=00.22&end=00.31&collection=eptic3">
+<s id="2017:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.22&end=00.00.31">
 Ehm	FPAUSE	ehm
 wiemy	fin:pl:pri:imperf	wiedzieć-v
 o	prep:loc	o-i
@@ -8041,7 +8041,7 @@ ostatnie	adj:pl:acc:m3:pos	ostatni-j
 lata	subst:pl:acc:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2017:5" video="https://media.dipintra.it/?id=2017&start=00.31&end=00.44&collection=eptic3">
+<s id="2017:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.31&end=00.00.44">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v
 o	prep:loc	o-i
 sytuacji	subst:sg:loc:f	sytuacja-n
@@ -8072,7 +8072,7 @@ w	prep:loc:nwok	w-i
 Pakistanie	subst:sg:loc:m3	Pakistan-n
 .	interp	.-x
 </s>
-<s id="2017:6" video="https://media.dipintra.it/?id=2017&start=00.44&end=00.49&collection=eptic3">
+<s id="2017:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.44&end=00.00.49">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v
 ,	interp	"-x
 co	comp	co-c
@@ -8089,7 +8089,7 @@ większością	subst:sg:inst:f	większość-n
 muzułmańską	adj:sg:acc:f:pos	muzułmański-j
 .	interp	.-x
 </s>
-<s id="2017:7" video="https://media.dipintra.it/?id=2017&start=00.49&end=00.55&collection=eptic3">
+<s id="2017:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.49&end=00.00.55">
 I	conj	i-c
 dlatego	adv	dlatego-a
 mnie	ppron12:sg:acc:m1:pri:akc	ja-x
@@ -8104,7 +8104,7 @@ pana	subst:sg:gen:m1	pan-n
 Barroso	subst:sg:gen:m1	Barroso-n
 .	interp	.-x
 </s>
-<s id="2017:8" video="https://media.dipintra.it/?id=2017&start=00.55&end=00.57&collection=eptic3">
+<s id="2017:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.55&end=00.00.57">
 Ehm	FPAUSE	ehm
 przez	prep:acc:nwok	przez-i
 tydzień	subst:sg:acc:m3	tydzień-n
@@ -8113,7 +8113,7 @@ człowiek	subst:sg:nom:m1	człowiek-n
 milczał	praet:sg:m1:imperf	milczeć-v
 .	interp	.-x
 </s>
-<s id="2017:9" video="https://media.dipintra.it/?id=2017&start=00.57&end=01.08&collection=eptic3">
+<s id="2017:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.00.57&end=00.01.08">
 Dopiero	qub	dopiero-x
 naciskany	ppas:sg:nom:m1:imperf:aff	naciskać-v
 przez	prep:acc:nwok	przez-i
@@ -8137,7 +8137,7 @@ tej	adj:sg:loc:f:pos	ten-j
 sprawie	subst:sg:loc:f	sprawa-n
 .	interp	.-x
 </s>
-<s id="2017:10" video="https://media.dipintra.it/?id=2017&start=01.08&end=01.29&collection=eptic3">
+<s id="2017:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.01.08&end=00.01.29">
 Dobrze	adv:pos	dobrze-a
 ,	interp	"-x
 że	comp	że-c
@@ -8162,7 +8162,7 @@ sprawie	subst:sg:loc:f	sprawa-n
 interweniować	inf:imperf	interweniować-v
 .	interp	.-x
 </s>
-<s id="2017:11" video="https://media.dipintra.it/?id=2017&start=01.29&end=01.33&collection=eptic3">
+<s id="2017:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2017.mp4&start=00.01.29&end=00.01.33">
 Nie	qub	nie-x
 zrobił	praet:sg:m1:perf	zrobić-v
 tego	subst:sg:gen:n	to-n
@@ -8178,13 +8178,13 @@ szkoda	subst:sg:nom:f	szkoda-n
 <speaker name="Sonik Boguslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="103" duration="short" durations="78.0" speed="slow" speedwm="79.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2018:1" video="https://media.dipintra.it/?id=2018&start=00.00&end=00.07&collection=eptic3">
+<s id="2018:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.00&end=00.00.07">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2018:2" video="https://media.dipintra.it/?id=2018&start=00.07&end=00.18&collection=eptic3">
+<s id="2018:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.07&end=00.00.18">
 Na	prep:loc	Na-i
 początku	subst:sg:loc:m3	początek-n
 ehm	FPAUSE	ehm
@@ -8203,7 +8203,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2018:3" video="https://media.dipintra.it/?id=2018&start=00.18&end=00.31&collection=eptic3">
+<s id="2018:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.18&end=00.00.31">
 Brednie	adj:sg:nom:n:pos	Brednie-j
 ,	interp	"-x
 które	adj:sg:nom:n:pos	który-j
@@ -8230,14 +8230,14 @@ Frakcji	subst:sg:gen:f	frakcja-n
 Konserwatystów	subst:pl:gen:m1	konserwatysta-n
 .	interp	.-x
 </s>
-<s id="2018:4" video="https://media.dipintra.it/?id=2018&start=00.31&end=00.35&collection=eptic3">
+<s id="2018:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.31&end=00.00.35">
 Reżim	subst:sg:inst:n	reżim-n
 Łukaszenki	subst:sg:gen:m1	Łukaszenko-n
 trzeba	pred	trzeba-x
 izolować	inf:imperf	izolować-v
 .	interp	.-x
 </s>
-<s id="2018:5" video="https://media.dipintra.it/?id=2018&start=00.35&end=00.52&collection=eptic3">
+<s id="2018:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.35&end=00.00.52">
 Polityka	subst:sg:nom:f	polityka-n
 dotychczasowa	adj:sg:nom:f:pos	dotychczasowy-j
 wiary	subst:sg:gen:f	wiara-n
@@ -8260,7 +8260,7 @@ ehm	FPAUSE	ehm
 obliczenia	ger:sg:gen:n:perf:aff	obliczyć-v
 .	interp	.-x
 </s>
-<s id="2018:6" video="https://media.dipintra.it/?id=2018&start=00.52&end=01.16&collection=eptic3">
+<s id="2018:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.00.52&end=00.01.16">
 Sankcje	subst:pl:nom:f	sankcja-n
 ,	interp	"-x
 które	adj:pl:nom:f:pos	który-j
@@ -8288,7 +8288,7 @@ sąsiedztwie	subst:sg:loc:n	sąsiedztwo-n
 Europy	subst:sg:gen:f	Europa-n
 .	interp	.-x
 </s>
-<s id="2018:7" video="https://media.dipintra.it/?id=2018&start=01.16&end=01.30&collection=eptic3">
+<s id="2018:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.01.16&end=00.01.30">
 W	prep:loc:nwok	w-i
 stosunku	subst:sg:loc:m3	stosunek-n
 do	prep:gen	do-i
@@ -8308,7 +8308,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2018:8" video="https://media.dipintra.it/?id=2018&start=01.30&end=01.48&collection=eptic3">
+<s id="2018:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.01.30&end=00.01.48">
 W	prep:loc:nwok	w-i
 szczególności	subst:sg:loc:f	szczególność-n
 chciałbym	ppas:sg:loc:m3:perf:aff	chciałbym-v
@@ -8329,7 +8329,7 @@ i	conj	i-c
 inne	adj:sg:nom:n:pos	inny-j
 .	interp	.-x
 </s>
-<s id="2018:9" video="https://media.dipintra.it/?id=2018&start=01.48&end=02.04&collection=eptic3">
+<s id="2018:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2018.mp4&start=00.01.48&end=00.02.04">
 One	ppron3:pl:nom:f:ter	on-x
 są	fin:pl:ter:imperf	być-v
 ważne	adj:pl:nom:f:pos	ważny-j
@@ -8354,7 +8354,7 @@ białoruskich	adj:pl:gen:m1:pos	białoruski-j
 <speaker name="Bielan Adam" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="107" duration="short" durations="72.0" speed="slow" speedwm="89.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2019:1" video="https://media.dipintra.it/?id=2019&start=00.00&end=00.06&collection=eptic3">
+<s id="2019:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.00&end=00.00.06">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 ,	interp	"-x
@@ -8362,7 +8362,7 @@ Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2019:2" video="https://media.dipintra.it/?id=2019&start=00.06&end=00.13&collection=eptic3">
+<s id="2019:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.06&end=00.00.13">
 Wydarzenia	subst:pl:nom:n	wydarzenie-n
 na	prep:loc	na-i
 Białorusi	subst:sg:loc:f	Białoruś-n
@@ -8380,7 +8380,7 @@ w	prep:loc:nwok	w-i
 Europie	subst:sg:loc:f	Europa-n
 .	interp	.-x
 </s>
-<s id="2019:3" video="https://media.dipintra.it/?id=2019&start=00.13&end=00.19&collection=eptic3">
+<s id="2019:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.13&end=00.00.19">
 Po	prep:loc	po-i
 okresie	subst:sg:loc:m3	okres-n
 względnego	adj:sg:gen:m1:pos	względny-j
@@ -8396,7 +8396,7 @@ działaczy	subst:pl:gen:m1	działacz-n
 opozycyjnych	adj:pl:gen:m1:pos	opozycyjny-j
 .	interp	.-x
 </s>
-<s id="2019:4" video="https://media.dipintra.it/?id=2019&start=00.19&end=00.23&collection=eptic3">
+<s id="2019:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.19&end=00.00.23">
 Odwołał	praet:sg:m1:perf	odwołać-v
 się	qub	się-x
 do	prep:gen	do-i
@@ -8407,7 +8407,7 @@ swojej	adj:sg:gen:f:pos	swój-j
 dyktatury	subst:sg:gen:f	dyktatura-n
 .	interp	.-x
 </s>
-<s id="2019:5" video="https://media.dipintra.it/?id=2019&start=00.23&end=00.40&collection=eptic3">
+<s id="2019:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.23&end=00.00.40">
 Brutalna	adj:sg:nom:f:pos	brutalny-j
 rozprawa	subst:sg:nom:f	rozprawa-n
 z	prep:inst:nwok	z-i
@@ -8443,7 +8443,7 @@ krajami	subst:pl:inst:m3	kraj-n
 europejskimi	adj:pl:inst:m1:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2019:6" video="https://media.dipintra.it/?id=2019&start=00.40&end=00.49&collection=eptic3">
+<s id="2019:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.40&end=00.00.49">
 Dlatego	adv	dlatego-a
 w	prep:loc:nwok	w-i
 pełni	subst:sg:loc:f	pełnia-n
@@ -8461,7 +8461,7 @@ powtórzenia	subst:sg:gen:n	powtórzenie-n
 wyborów	subst:pl:gen:n	wybory-n
 .	interp	.-x
 </s>
-<s id="2019:7" video="https://media.dipintra.it/?id=2019&start=00.49&end=00.55&collection=eptic3">
+<s id="2019:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.49&end=00.00.55">
 Wyrażam	fin:sg:pri:imperf	wyrażać-v
 zdecydowane	adj:sg:acc:n:pos	zdecydowany-j
 potępienie	subst:sg:acc:n	potępienie-n
@@ -8473,7 +8473,7 @@ prezydenta	subst:sg:gen:m1	prezydent-n
 Łukaszenki	subst:sg:gen:m1	Łukaszenko-n
 .	interp	.-x
 </s>
-<s id="2019:8" video="https://media.dipintra.it/?id=2019&start=00.55&end=01.02&collection=eptic3">
+<s id="2019:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.00.55&end=00.01.02">
 Wierzę	fin:sg:pri:imperf	wierzyć-v
 ,	interp	"-x
 że	comp	że-c
@@ -8488,7 +8488,7 @@ obywateli	subst:pl:gen:m1	obywatel-n
 Białorusi	subst:sg:gen:f	Białoruś-n
 .	interp	.-x
 </s>
-<s id="2019:9" video="https://media.dipintra.it/?id=2019&start=01.02&end=01.22&collection=eptic3">
+<s id="2019:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.01.02&end=00.01.22">
 Jednocześnie	adv:pos	jednocześnie-a
 aprobuję	fin:sg:pri:imperf	aprobować-v
 wszelkie	adj:pl:acc:n:pos	wszelki-j
@@ -8516,7 +8516,7 @@ i	conj	i-c
 mediów	subst:pl:gen:n	medium-n
 .	interp	.-x
 </s>
-<s id="2019:10" video="https://media.dipintra.it/?id=2019&start=01.22&end=01.39&collection=eptic3">
+<s id="2019:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2019.mp4&start=00.01.22&end=00.01.39">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -8528,7 +8528,7 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="91" duration="short" durations="64.0" speed="slow" speedwm="85.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2020:1" video="https://media.dipintra.it/?id=2020&start=00.00&end=00.15&collection=eptic3">
+<s id="2020:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2020.mp4&start=00.00.00&end=00.00.15">
 Ehm	FPAUSE	ehm
 poparłem	praet:sg:m1:perf	poparłem-v
 tę	adj:sg:acc:f:pos	ten-j
@@ -8547,7 +8547,7 @@ bardzo	adv:pos	bardzo-a
 specyficzna	adj:sg:nom:f:pos	specyficzny-j
 .	interp	.-x
 </s>
-<s id="2020:2" video="https://media.dipintra.it/?id=2020&start=00.15&end=00.21&collection=eptic3">
+<s id="2020:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2020.mp4&start=00.00.15&end=00.00.21">
 Mamy	fin:pl:pri:imperf	mieć-v
 do	prep:gen	do-i
 czynienia	ger:sg:gen:n:imperf:aff	czynić-v
@@ -8561,7 +8561,7 @@ praw	subst:pl:gen:n	prawo-n
 człowieka	subst:sg:gen:m1	człowiek-n
 .	interp	.-x
 </s>
-<s id="2020:3" video="https://media.dipintra.it/?id=2020&start=00.21&end=00.56&collection=eptic3">
+<s id="2020:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2020.mp4&start=00.00.21&end=00.00.56">
 Z	prep:gen:nwok	z-i
 drugiej	adj:sg:gen:f:pos	drugi-j
 strony	subst:sg:gen:f	strona-n
@@ -8633,7 +8633,7 @@ absolutnie	adv:pos	absolutnie-a
 niepotrzebne	adj:sg:nom:n:pos	niepotrzebny-j
 .	interp	.-x
 </s>
-<s id="2020:4" video="https://media.dipintra.it/?id=2020&start=00.56&end=01.30&collection=eptic3">
+<s id="2020:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2020.mp4&start=00.00.56&end=00.01.30">
 Ehm	FPAUSE	ehm
 dzisiaj	adv	dzisiaj-a
 trzeba	pred	trzeba-x
@@ -8677,7 +8677,7 @@ ważne	adj:sg:nom:n:pos	ważny-j
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="58" duration="short" durations="55.0" speed="slow" speedwm="63.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2021:1" video="https://media.dipintra.it/?id=2021&start=00.00&end=00.16&collection=eptic3">
+<s id="2021:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2021.mp4&start=00.00.00&end=00.00.16">
 Ehm	FPAUSE	ehm
 to	pred	to-x
 ważny	adj:sg:nom:m3:pos	ważny-j
@@ -8692,7 +8692,7 @@ tej	adj:sg:loc:f:pos	ten-j
 kwestii	subst:sg:loc:f	kwestia-n
 .	interp	.-x
 </s>
-<s id="2021:2" video="https://media.dipintra.it/?id=2021&start=00.16&end=00.34&collection=eptic3">
+<s id="2021:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2021.mp4&start=00.00.16&end=00.00.34">
 Ehm	FPAUSE	ehm
 myślę	fin:sg:pri:imperf	myślić-v
 ,	interp	"-x
@@ -8719,7 +8719,7 @@ większą	adj:sg:acc:f:com	wielki-j
 konkurencyjność	subst:sg:acc:f	konkurencyjność-n
 .	interp	.-x
 </s>
-<s id="2021:3" video="https://media.dipintra.it/?id=2021&start=00.34&end=00.37&collection=eptic3">
+<s id="2021:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2021.mp4&start=00.00.34&end=00.00.37">
 Tego	subst:sg:gen:n	to-n
 nie	qub	nie-x
 wolno	pred	wolno-x
@@ -8728,7 +8728,7 @@ ehm	FPAUSE	ehm
 bać	inf:imperf	bać-v
 .	interp	.-x
 </s>
-<s id="2021:4" video="https://media.dipintra.it/?id=2021&start=00.37&end=00.51&collection=eptic3">
+<s id="2021:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2021.mp4&start=00.00.37&end=00.00.51">
 Ehm	FPAUSE	ehm
 to	subst:sg:nom:n	to-n
 sprzyja	fin:sg:ter:imperf	sprzyjać-v
@@ -8764,7 +8764,7 @@ z	prep:inst:nwok	z-i
 Azją	subst:sg:inst:f	Azja-n
 .	interp	.-x
 </s>
-<s id="2021:5" video="https://media.dipintra.it/?id=2021&start=00.51&end=01.25&collection=eptic3">
+<s id="2021:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2021.mp4&start=00.00.51&end=00.01.25">
 Ehm	FPAUSE	ehm
 tego	adj:sg:gen:m3:pos	ten-j
 typu	subst:sg:gen:m3	typ-n
@@ -8799,7 +8799,7 @@ głosowałem	subst:sg:inst:m3	głosowałem-n
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="102" duration="short" durations="57.0" speed="slow" speedwm="107.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2022:1" video="https://media.dipintra.it/?id=2022&start=00.00&end=00.18&collection=eptic3">
+<s id="2022:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2022.mp4&start=00.00.00&end=00.00.18">
 Inicjatywa	subst:sg:nom:f	inicjatywa-n
 ,	interp	"-x
 aby	comp	aby-c
@@ -8831,7 +8831,7 @@ wszelkie	adj:sg:acc:n:pos	wszelki-j
 poparcie	subst:sg:acc:n	poparcie-n
 .	interp	.-x
 </s>
-<s id="2022:2" video="https://media.dipintra.it/?id=2022&start=00.18&end=00.32&collection=eptic3">
+<s id="2022:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2022.mp4&start=00.00.18&end=00.00.32">
 Zarówno	conj	zarówno-c
 członkostwo	subst:sg:acc:n	członkostwo-n
 Bułgarii	subst:sg:gen:f	Bułgaria-n
@@ -8868,7 +8868,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2022:3" video="https://media.dipintra.it/?id=2022&start=00.32&end=00.46&collection=eptic3">
+<s id="2022:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2022.mp4&start=00.00.32&end=00.00.46">
 Morze	subst:sg:nom:n	morze-n
 Czarne	subst:sg:nom:n	Czarne-n
 stało	praet:sg:n:perf	stać-v
@@ -8902,7 +8902,7 @@ ehm	FPAUSE	ehm
 gazu	subst:sg:gen:m3	gaz-n
 .	interp	.-x
 </s>
-<s id="2022:4" video="https://media.dipintra.it/?id=2022&start=00.46&end=01.11&collection=eptic3">
+<s id="2022:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2022.mp4&start=00.00.46&end=00.01.11">
 W	prep:loc:nwok	w-i
 pełni	subst:sg:loc:f	pełnia-n
 podzielam	fin:sg:pri:imperf	podzielać-v
@@ -8947,7 +8947,7 @@ strategia	subst:sg:nom:f	strategia-n
 śródziemnomorska	adj:sg:nom:f:pos	śródziemnomorski-j
 .	interp	.-x
 </s>
-<s id="2022:5" video="https://media.dipintra.it/?id=2022&start=01.11&end=01.16&collection=eptic3">
+<s id="2022:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2022.mp4&start=00.01.11&end=00.01.16">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -8960,18 +8960,18 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Kowal Pawel Robert" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="129" duration="short" durations="65.0" speed="slow" speedwm="119.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2023:1" video="https://media.dipintra.it/?id=2023&start=00.00&end=00.01&collection=eptic3">
+<s id="2023:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.00&end=00.00.01">
 Szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2023:2" video="https://media.dipintra.it/?id=2023&start=00.01&end=00.04&collection=eptic3">
+<s id="2023:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.01&end=00.00.04">
 Ehm	FPAUSE	ehm
 panie	subst:sg:voc:m1	pan-n
 Komisarzu	subst:sg:voc:m1	komisarz-n
 !	interp	!-x
 </s>
-<s id="2023:3" video="https://media.dipintra.it/?id=2023&start=00.04&end=00.18&collection=eptic3">
+<s id="2023:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.04&end=00.00.18">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x
 się	qub	się-x
@@ -8994,7 +8994,7 @@ popieram	fin:sg:pri:imperf	popierać-v
 go	ppron3:sg:acc:m1:ter	on-x
 .	interp	.-x
 </s>
-<s id="2023:4" video="https://media.dipintra.it/?id=2023&start=00.18&end=00.25&collection=eptic3">
+<s id="2023:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.18&end=00.00.25">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v
 podkreślić	inf:perf	podkreślić-v
 ,	interp	"-x
@@ -9009,7 +9009,7 @@ na	prep:acc	na-i
 nowo	adv:pos	nowo-a
 .	interp	.-x
 </s>
-<s id="2023:5" video="https://media.dipintra.it/?id=2023&start=00.25&end=00.33&collection=eptic3">
+<s id="2023:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.25&end=00.00.33">
 Szczytne	subst:pl:nom:f	Szczytna-n
 intencje	subst:pl:nom:f	intencja-n
 nie	qub	nie-x
@@ -9037,7 +9037,7 @@ to	subst:sg:acc:n	to-n
 nacisk	subst:sg:acc:m3	nacisk-n
 .	interp	.-x
 </s>
-<s id="2023:6" video="https://media.dipintra.it/?id=2023&start=00.33&end=00.46&collection=eptic3">
+<s id="2023:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.33&end=00.00.46">
 Dlatego	adv	dlatego-a
 myślę	fin:sg:pri:imperf	myślić-v
 ,	interp	"-x
@@ -9078,7 +9078,7 @@ tym	adj:sg:loc:m3:pos	ten-j
 kontekście	subst:sg:loc:m3	kontekst-n
 .	interp	.-x
 </s>
-<s id="2023:7" video="https://media.dipintra.it/?id=2023&start=00.46&end=00.53&collection=eptic3">
+<s id="2023:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.46&end=00.00.53">
 Myślę	fin:sg:pri:imperf	myśleć-v
 ,	interp	"-x
 że	comp	że-c
@@ -9098,7 +9098,7 @@ sferze	subst:sg:loc:f	sfera-n
 energii	subst:sg:gen:f	energia-n
 .	interp	.-x
 </s>
-<s id="2023:8" video="https://media.dipintra.it/?id=2023&start=00.53&end=01.07&collection=eptic3">
+<s id="2023:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.00.53&end=00.01.07">
 Ehm	FPAUSE	ehm
 w	prep:loc:nwok	w-i
 sferze	subst:sg:loc:f	sfera-n
@@ -9129,7 +9129,7 @@ ostatnich	adj:pl:gen:m3:pos	ostatni-j
 lat	subst:pl:gen:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2023:9" video="https://media.dipintra.it/?id=2023&start=01.07&end=01.32&collection=eptic3">
+<s id="2023:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.01.07&end=00.01.32">
 Ale	conj	ale-c
 pierwszym	adj:sg:inst:m3:pos	pierwszy-j
 krokiem	subst:sg:inst:m3	krok-n
@@ -9165,7 +9165,7 @@ konkretnym	adj:sg:loc:m3:pos	konkretny-j
 celom	subst:pl:dat:m3	cel-n
 .	interp	.-x
 </s>
-<s id="2023:10" video="https://media.dipintra.it/?id=2023&start=01.32&end=01.35&collection=eptic3">
+<s id="2023:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2023.mp4&start=00.01.32&end=00.01.35">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -9177,7 +9177,7 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Siwiec Marek" gender="M" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="133" duration="short" durations="66.0" speed="slow" speedwm="120.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2024:1" video="https://media.dipintra.it/?id=2024&start=00.00&end=00.18&collection=eptic3">
+<s id="2024:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.00&end=00.00.18">
 Gdy	adv	gdy-a
 mówimy	fin:pl:pri:imperf	mówić-v
 o	prep:loc	o-i
@@ -9221,7 +9221,7 @@ sprzecznych	adj:pl:gen:m3:pos	sprzeczny-j
 interesów	subst:pl:gen:m3	interes-n
 .	interp	.-x
 </s>
-<s id="2024:2" video="https://media.dipintra.it/?id=2024&start=00.18&end=00.27&collection=eptic3">
+<s id="2024:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.18&end=00.00.27">
 Więc	conj	więc-c
 nie	qub	nie-x
 łudźmy	impt:pl:pri:imperf	łudzić-v
@@ -9246,7 +9246,7 @@ innych	subst:pl:acc:m1	inny-n
 polityk	subst:sg:nom:m1	polityk-n
 .	interp	.-x
 </s>
-<s id="2024:3" video="https://media.dipintra.it/?id=2024&start=00.27&end=00.35&collection=eptic3">
+<s id="2024:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.27&end=00.00.35">
 Ehm	FPAUSE	ehm
 to	qub	to-x
 nie	qub	nie-x
@@ -9277,7 +9277,7 @@ go	ppron3:sg:acc:m3:ter	on-x
 chcemy	fin:pl:pri:imperf	chcieć-v
 .	interp	.-x
 </s>
-<s id="2024:4" video="https://media.dipintra.it/?id=2024&start=00.35&end=00.41&collection=eptic3">
+<s id="2024:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.35&end=00.00.41">
 Nie	qub	nie-x
 można	pred	można-x
 rozwiązać	inf:perf	rozwiązać-v
@@ -9299,7 +9299,7 @@ ją	ppron3:sg:acc:f:ter	ona-x
 robić	inf:imperf	robić-v
 .	interp	.-x
 </s>
-<s id="2024:5" video="https://media.dipintra.it/?id=2024&start=00.41&end=00.48&collection=eptic3">
+<s id="2024:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.41&end=00.00.48">
 Skoro	comp	skoro-c
 mówimy	fin:pl:pri:imperf	mówić-v
 o	interj	o-x
@@ -9320,7 +9320,7 @@ wartość	subst:sg:acc:f	wartość-n
 dodaną	ppas:sg:acc:f:perf:aff	dodać-v
 .	interp	.-x
 </s>
-<s id="2024:6" video="https://media.dipintra.it/?id=2024&start=00.48&end=00.55&collection=eptic3">
+<s id="2024:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.48&end=00.00.55">
 Chciałbym	subst:pl:dat:m1	Chciałbym-n
 zapytać	inf:perf	zapytać-v
 dlaczego	adv	dlaczego-a
@@ -9338,7 +9338,7 @@ organizacjami	subst:pl:inst:f	organizacja-n
 ,	interp	"-x
 np.	subst:sg:nom:n	np.-n
 </s>
-<s id="2024:7" video="https://media.dipintra.it/?id=2024&start=00.55&end=01.02&collection=eptic3">
+<s id="2024:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.00.55&end=00.01.02">
 Parlamentarnym	adj:sg:inst:n:pos	parlamentarny-j
 Zgromadzeniem	subst:sg:inst:n	zgromadzenie-n
 ehm	FPAUSE	ehm
@@ -9352,7 +9352,7 @@ z	prep:inst:nwok	z-i
 PABSECiem	subst:sg:inst:m1	PABSECiem-n
 .	interp	.-x
 </s>
-<s id="2024:8" video="https://media.dipintra.it/?id=2024&start=01.02&end=01.05&collection=eptic3">
+<s id="2024:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.01.02&end=00.01.05">
 Ehm	FPAUSE	ehm
 oni	ppron3:pl:nom:m1:ter	on-x
 chcą	fin:pl:ter:imperf	chcieć-v
@@ -9361,7 +9361,7 @@ nami	ppron12:pl:inst:m1:pri	my-x
 współpracować	inf:imperf	współpracować-v
 .	interp	.-x
 </s>
-<s id="2024:9" video="https://media.dipintra.it/?id=2024&start=01.05&end=01.17&collection=eptic3">
+<s id="2024:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.01.05&end=00.01.17">
 Parlament	subst:sg:nom:m3	parlament-n
 Europejski	adj:sg:nom:m3:pos	europejski-j
 uważa	fin:sg:ter:imperf	uważać-v
@@ -9381,7 +9381,7 @@ nie	qub	nie-x
 podejmuje	fin:sg:ter:imperf	podejmować-v
 .	interp	.-x
 </s>
-<s id="2024:10" video="https://media.dipintra.it/?id=2024&start=01.17&end=01.34&collection=eptic3">
+<s id="2024:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2024.mp4&start=00.01.17&end=00.01.34">
 Postuluję	fin:sg:pri:imperf	postulować-v
 ,	interp	"-x
 aby	comp	aby-c
@@ -9405,7 +9405,7 @@ działają	fin:pl:ter:imperf	działać-v
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="119" duration="short" durations="73.0" speed="slow" speedwm="97.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2025:1" video="https://media.dipintra.it/?id=2025&start=00.00&end=00.06&collection=eptic3">
+<s id="2025:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.00&end=00.00.06">
 Panie	subst:sg:voc:m1	pan-n
 ,	interp	"-x
 Panie	subst:sg:voc:m1	pan-n
@@ -9413,7 +9413,7 @@ i	conj	i-c
 Panowie	subst:pl:nom:m1	pan-n
 !	interp	!-x
 </s>
-<s id="2025:2" video="https://media.dipintra.it/?id=2025&start=00.06&end=00.09&collection=eptic3">
+<s id="2025:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.06&end=00.00.09">
 Ehm	FPAUSE	ehm
 z	prep:inst:nwok	z-i
 całą	adj:sg:inst:f:pos	cały-j
@@ -9423,7 +9423,7 @@ się	qub	się-x
 zmienia	fin:sg:ter:imperf	zmieniać-v
 .	interp	.-x
 </s>
-<s id="2025:3" video="https://media.dipintra.it/?id=2025&start=00.09&end=00.26&collection=eptic3">
+<s id="2025:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.09&end=00.00.26">
 Najbardziej	adv:sup	bardzo-a
 oczywiste	adj:pl:nom:f:pos	oczywisty-j
 konsekwencje	subst:pl:nom:f	konsekwencja-n
@@ -9456,7 +9456,7 @@ i	conj	i-c
 gazu	subst:sg:gen:m3	gaz-n
 .	interp	.-x
 </s>
-<s id="2025:4" video="https://media.dipintra.it/?id=2025&start=00.26&end=00.30&collection=eptic3">
+<s id="2025:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.26&end=00.00.30">
 Reakcje	subst:pl:nom:f	reakcja-n
 na	prep:acc	na-i
 te	adj:pl:acc:f:pos	ten-j
@@ -9470,7 +9470,7 @@ bywają	fin:pl:ter:imperf	bywać-v
 chaotyczne	adj:sg:nom:n:pos	chaotyczny-j
 .	interp	.-x
 </s>
-<s id="2025:5" video="https://media.dipintra.it/?id=2025&start=00.30&end=00.43&collection=eptic3">
+<s id="2025:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.30&end=00.00.43">
 Z	prep:gen:nwok	z-i
 jednej	adj:sg:gen:f:pos	jeden-j
 strony	subst:sg:gen:f	strona-n
@@ -9503,7 +9503,7 @@ strony	subst:sg:gen:f	strona-n
 rosyjskiej	adj:sg:gen:f:pos	rosyjski-j
 .	interp	.-x
 </s>
-<s id="2025:6" video="https://media.dipintra.it/?id=2025&start=00.43&end=00.51&collection=eptic3">
+<s id="2025:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.43&end=00.00.51">
 Myślę	fin:sg:pri:imperf	myśleć-v
 ,	interp	"-x
 że	comp	że-c
@@ -9528,7 +9528,7 @@ społeczności	subst:sg:gen:f	społeczność-n
 międzynarodowej	adj:sg:gen:f:pos	międzynarodowy-j
 .	interp	.-x
 </s>
-<s id="2025:7" video="https://media.dipintra.it/?id=2025&start=00.51&end=00.56&collection=eptic3">
+<s id="2025:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.51&end=00.00.56">
 Do	prep:gen	do-i
 tego	subst:sg:gen:n	to-n
 zachęcaliśmy	fin:pl:pri:imperf	zachęcaliśmy-v
@@ -9540,7 +9540,7 @@ tym	adj:sg:inst:m3:pos	ten-j
 raportem	subst:sg:inst:m3	raport-n
 .	interp	.-x
 </s>
-<s id="2025:8" video="https://media.dipintra.it/?id=2025&start=00.56&end=01.01&collection=eptic3">
+<s id="2025:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.00.56&end=00.01.01">
 To	subst:sg:nom:n	To-n
 zostało	praet:sg:n:perf	zostać-v
 dobrze	adv:pos	dobrze-a
@@ -9550,7 +9550,7 @@ tym	adj:sg:loc:n:pos	ten-j
 sprawozdaniu	subst:sg:loc:n	sprawozdanie-n
 .	interp	.-x
 </s>
-<s id="2025:9" video="https://media.dipintra.it/?id=2025&start=01.01&end=01.17&collection=eptic3">
+<s id="2025:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.01.01&end=00.01.17">
 Drugą	adj:sg:inst:f:pos	drugi-j
 sprawą	subst:sg:inst:f	sprawa-n
 ,	interp	"-x
@@ -9572,7 +9572,7 @@ szlaków	subst:pl:gen:m3	szlak-n
 transportowych	adj:pl:gen:m3:pos	transportowy-j
 .	interp	.-x
 </s>
-<s id="2025:10" video="https://media.dipintra.it/?id=2025&start=01.17&end=01.29&collection=eptic3">
+<s id="2025:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.01.17&end=00.01.29">
 Ehm	FPAUSE	ehm
 ani	conj	ani-c
 względy	subst:pl:nom:m3	wzgląd-n
@@ -9592,7 +9592,7 @@ do	prep:gen	do-i
 szlaków	subst:pl:gen:m3	szlak-n
 .	interp	.-x
 </s>
-<s id="2025:11" video="https://media.dipintra.it/?id=2025&start=01.29&end=01.33&collection=eptic3">
+<s id="2025:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.01.29&end=00.01.33">
 To	adj:sg:nom:n:pos	ten-j
 wszystko	subst:sg:nom:n	wszystko-n
 zostało	praet:sg:n:perf	zostać-v
@@ -9602,7 +9602,7 @@ w	prep:loc:nwok	w-i
 sprawozdaniu	subst:sg:loc:n	sprawozdanie-n
 .	interp	.-x
 </s>
-<s id="2025:12" video="https://media.dipintra.it/?id=2025&start=01.33&end=01.41&collection=eptic3">
+<s id="2025:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2025.mp4&start=00.01.33&end=00.01.41">
 Dlatego	adv	dlatego-a
 z	prep:inst:nwok	z-i
 przyjemnością	subst:sg:inst:f	przyjemność-n
@@ -9622,17 +9622,17 @@ głosowaniu	subst:sg:loc:n	głosowanie-n
 <speaker name="Walesa Jaroslaw Leszek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="174" duration="short" durations="100.0" speed="slow" speedwm="104.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2026:1" video="https://media.dipintra.it/?id=2026&start=00.00&end=00.07&collection=eptic3">
+<s id="2026:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.00&end=00.00.07">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2026:2" video="https://media.dipintra.it/?id=2026&start=00.07&end=00.08&collection=eptic3">
+<s id="2026:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.07&end=00.00.08">
 Mili	adj:pl:nom:m1:pos	miły-j
 Państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2026:3" video="https://media.dipintra.it/?id=2026&start=00.08&end=00.17&collection=eptic3">
+<s id="2026:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.08&end=00.00.17">
 Ja	ppron12:sg:nom:m1:pri	ja-x
 oczywiście	qub	oczywiście-x
 również	qub	również-x
@@ -9653,7 +9653,7 @@ owocną	adj:sg:acc:f:pos	owocny-j
 pracę	subst:sg:acc:f	praca-n
 .	interp	.-x
 </s>
-<s id="2026:4" video="https://media.dipintra.it/?id=2026&start=00.17&end=00.28&collection=eptic3">
+<s id="2026:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.17&end=00.00.28">
 Dla	prep:gen	dla-i
 mnie	ppron12:sg:gen:m1:pri:akc	ja-x
 najważniejszym	adj:sg:inst:m3:sup	ważny-j
@@ -9681,7 +9681,7 @@ decyzji	subst:pl:gen:f	decyzja-n
 polityczno-gospodarczych	adj:pl:gen:f:pos	polityczno-gospodarczych-j
 .	interp	.-x
 </s>
-<s id="2026:5" video="https://media.dipintra.it/?id=2026&start=00.28&end=00.37&collection=eptic3">
+<s id="2026:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.28&end=00.00.37">
 Wygląda	fin:sg:ter:imperf	wyglądać-v
 na	prep:acc	na-i
 to	subst:sg:acc:n	to-n
@@ -9704,7 +9704,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2026:6" video="https://media.dipintra.it/?id=2026&start=00.37&end=00.48&collection=eptic3">
+<s id="2026:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.37&end=00.00.48">
 Szkoda	pred	szkoda-x
 ,	interp	"-x
 bo	comp	bo-c
@@ -9727,7 +9727,7 @@ na	prep:acc	na-i
 środowisko	subst:sg:acc:n	środowisko-n
 .	interp	.-x
 </s>
-<s id="2026:7" video="https://media.dipintra.it/?id=2026&start=00.48&end=00.51&collection=eptic3">
+<s id="2026:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.48&end=00.00.51">
 Wpływ	subst:sg:nom:m3	wpływ-n
 znacznie	adv:pos	znacznie-a
 większy	adj:sg:nom:m3:com	wielki-j
@@ -9737,11 +9737,11 @@ innych	adj:pl:loc:m3:pos	inny-j
 rejonach	subst:pl:loc:m3	rejon-n
 .	interp	.-x
 </s>
-<s id="2026:8" video="https://media.dipintra.it/?id=2026&start=00.51&end=00.52&collection=eptic3">
+<s id="2026:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.51&end=00.00.52">
 Jaki	adj:sg:nom:m3:pos	jaki-j
 ?	interp	?-x
 </s>
-<s id="2026:9" video="https://media.dipintra.it/?id=2026&start=00.52&end=00.55&collection=eptic3">
+<s id="2026:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.52&end=00.00.55">
 Tylko	qub	tylko-x
 specjaliści	subst:pl:nom:m1	specjalista-n
 są	fin:pl:ter:imperf	być-v
@@ -9751,7 +9751,7 @@ to	pred	to-x
 ocenić	inf:perf	ocenić-v
 .	interp	.-x
 </s>
-<s id="2026:10" video="https://media.dipintra.it/?id=2026&start=00.55&end=01.03&collection=eptic3">
+<s id="2026:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.00.55&end=00.01.03">
 Niestety	qub	niestety-x
 otwartość	subst:sg:nom:f	otwartość-n
 badań	subst:pl:gen:n	badanie-n
@@ -9771,7 +9771,7 @@ Oceanu	subst:sg:gen:m3	Ocean-n
 Arktycznego	adj:sg:gen:m3:pos	arktyczny-j
 .	interp	.-x
 </s>
-<s id="2026:11" video="https://media.dipintra.it/?id=2026&start=01.03&end=01.18&collection=eptic3">
+<s id="2026:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.01.03&end=00.01.18">
 Nawet	qub	nawet-x
 na	prep:loc	na-i
 terenach	subst:pl:loc:m3	teren-n
@@ -9803,7 +9803,7 @@ i	conj	i-c
 badań	subst:pl:gen:n	badanie-n
 .	interp	.-x
 </s>
-<s id="2026:12" video="https://media.dipintra.it/?id=2026&start=01.18&end=01.32&collection=eptic3">
+<s id="2026:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.01.18&end=00.01.32">
 Procesy	subst:pl:nom:m3	proces-n
 klimatyczne	adj:pl:nom:m3:pos	klimatyczny-j
 i	conj	i-c
@@ -9842,7 +9842,7 @@ u	prep:gen	u-i
 nas	ppron12:pl:gen:m1:pri	my-x
 .	interp	.-x
 </s>
-<s id="2026:13" video="https://media.dipintra.it/?id=2026&start=01.32&end=01.58&collection=eptic3">
+<s id="2026:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.01.32&end=00.01.58">
 Ponadto	qub	ponadto-x
 zrealizowane	ppas:pl:nom:f:perf:aff	zrealizować-v
 już	qub	już-x
@@ -9872,7 +9872,7 @@ obszaru	subst:sg:gen:m3	obszar-n
 polarnego	adj:sg:gen:m1:pos	polarny-j
 .	interp	.-x
 </s>
-<s id="2026:14" video="https://media.dipintra.it/?id=2026&start=01.58&end=02.08&collection=eptic3">
+<s id="2026:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2026.mp4&start=00.01.58&end=00.02.08">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -9884,13 +9884,13 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Jazlowiecka Danuta" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="121" duration="short" durations="65.0" speed="slow" speedwm="111.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2027:1" video="https://media.dipintra.it/?id=2027&start=00.00&end=00.07&collection=eptic3">
+<s id="2027:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.00&end=00.00.07">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2027:2" video="https://media.dipintra.it/?id=2027&start=00.07&end=00.14&collection=eptic3">
+<s id="2027:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.07&end=00.00.14">
 Autorzy	subst:pl:nom:m1	autor-n
 omawianej	ppas:sg:gen:f:imperf:aff	omawiać-v
 rezolucji	subst:sg:gen:f	rezolucja-n
@@ -9909,7 +9909,7 @@ polityki	subst:sg:gen:f	polityka-n
 konkurencji	subst:sg:gen:f	konkurencja-n
 .	interp	.-x
 </s>
-<s id="2027:3" video="https://media.dipintra.it/?id=2027&start=00.14&end=00.21&collection=eptic3">
+<s id="2027:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.14&end=00.00.21">
 Interesy	subst:pl:nom:m3	interes-n
 narodowe	adj:pl:nom:m3:pos	narodowy-j
 i	conj	i-c
@@ -9930,7 +9930,7 @@ zdrowym	adj:sg:inst:m3:pos	zdrowy-j
 rozsądkiem	subst:sg:inst:m3	rozsądek-n
 .	interp	.-x
 </s>
-<s id="2027:4" video="https://media.dipintra.it/?id=2027&start=00.21&end=00.32&collection=eptic3">
+<s id="2027:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.21&end=00.00.32">
 Wielki	adj:sg:nom:m3:pos	Wielki-j
 kryzys	subst:sg:nom:m3	kryzys-n
 gospodarczy	adj:sg:nom:m3:pos	gospodarczy-j
@@ -9957,7 +9957,7 @@ w	prep:loc:nwok	w-i
 roku	subst:sg:loc:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2027:5" video="https://media.dipintra.it/?id=2027&start=00.32&end=00.43&collection=eptic3">
+<s id="2027:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.32&end=00.00.43">
 Był	praet:sg:m3:imperf	być-v
 to	pred	to-x
 okres	subst:sg:nom:m3	okres-n
@@ -9987,7 +9987,7 @@ gospodarki	subst:sg:gen:f	gospodarka-n
 rynkowej	adj:sg:gen:f:pos	rynkowy-j
 .	interp	.-x
 </s>
-<s id="2027:6" video="https://media.dipintra.it/?id=2027&start=00.43&end=00.47&collection=eptic3">
+<s id="2027:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.43&end=00.00.47">
 To	pred	to-x
 zachowanie	subst:sg:nom:n	zachowanie-n
 najdotkliwsze	adj:sg:nom:n1:sup	dotkliwy-j
@@ -9999,7 +9999,7 @@ i	conj	i-c
 przedsiębiorstw	subst:pl:gen:n	przedsiębiorstwo-n
 .	interp	.-x
 </s>
-<s id="2027:7" video="https://media.dipintra.it/?id=2027&start=00.47&end=00.51&collection=eptic3">
+<s id="2027:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.47&end=00.00.51">
 Czy	qub	czy-x
 podjęte	ppas:pl:nom:f:perf:aff	podjąć-v
 zadania	subst:pl:nom:n	zadanie-n
@@ -10010,7 +10010,7 @@ długookresowej	adj:sg:loc:f:pos	długookresowy-j
 perspektywie	subst:sg:loc:f	perspektywa-n
 ?	interp	?-x
 </s>
-<s id="2027:8" video="https://media.dipintra.it/?id=2027&start=00.51&end=00.54&collection=eptic3">
+<s id="2027:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.51&end=00.00.54">
 To	pred	to-x
 dopiero	qub	dopiero-x
 ,	interp	"-x
@@ -10021,7 +10021,7 @@ dopiero	qub	dopiero-x
 przekonamy	fin:pl:pri:perf	przekonać-v
 .	interp	.-x
 </s>
-<s id="2027:9" video="https://media.dipintra.it/?id=2027&start=00.54&end=01.01&collection=eptic3">
+<s id="2027:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.00.54&end=00.01.01">
 Dlatego	adv	dlatego-a
 należy	fin:sg:ter:imperf	należeć-v
 wezwać	inf:perf	wezwać-v
@@ -10038,7 +10038,7 @@ na	prep:acc	na-i
 gospodarkę	subst:sg:acc:f	gospodarka-n
 .	interp	.-x
 </s>
-<s id="2027:10" video="https://media.dipintra.it/?id=2027&start=01.01&end=01.30&collection=eptic3">
+<s id="2027:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.01.01&end=00.01.30">
 Pozwoli	fin:sg:ter:perf	pozwolić-v
 to	pred	to-x
 nie	qub	nie-x
@@ -10061,7 +10061,7 @@ w	prep:loc:nwok	w-i
 przyszłości	subst:sg:loc:f	przyszłość-n
 .	interp	.-x
 </s>
-<s id="2027:11" video="https://media.dipintra.it/?id=2027&start=01.30&end=01.30&collection=eptic3">
+<s id="2027:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2027.mp4&start=00.01.30&end=00.01.30">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -10073,12 +10073,12 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Lukacijewska Elzbieta" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="131" duration="short" durations="69.0" speed="slow" speedwm="113.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2028:1" video="https://media.dipintra.it/?id=2028&start=00.00&end=00.07&collection=eptic3">
+<s id="2028:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.00&end=00.00.07">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2028:2" video="https://media.dipintra.it/?id=2028&start=00.07&end=00.14&collection=eptic3">
+<s id="2028:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.07&end=00.00.14">
 Wraz	adv	wraz-a
 ze	prep:inst:wok	z-i
 starzeniem	ger:sg:inst:n2:imperf:aff	starzyć-v
@@ -10096,7 +10096,7 @@ wieku	subst:sg:gen:m3	wiek-n
 podeszłego	adj:sg:gen:m3:pos	podeszły-j
 .	interp	.-x
 </s>
-<s id="2028:3" video="https://media.dipintra.it/?id=2028&start=00.14&end=00.21&collection=eptic3">
+<s id="2028:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.14&end=00.00.21">
 Dane	subst:pl:nom:f	dana-n
 statystyczne	adj:pl:nom:f:pos	statystyczny-j
 pokazują	fin:pl:ter:imperf	pokazywać-v
@@ -10115,7 +10115,7 @@ chorobę	subst:sg:acc:f	choroba-n
 Alzheimera	subst:sg:gen:m1	Alzheimer-n
 .	interp	.-x
 </s>
-<s id="2028:4" video="https://media.dipintra.it/?id=2028&start=00.21&end=00.29&collection=eptic3">
+<s id="2028:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.21&end=00.00.29">
 Nie	qub	nie-x
 wszyscy	subst:pl:nom:m1	wszyscy-n
 wiedzą	fin:pl:ter:imperf	wiedzieć-v
@@ -10140,7 +10140,7 @@ jej	ppron3:sg:gen:f:ter	on-x
 skutki	subst:pl:acc:m3	skutek-n
 .	interp	.-x
 </s>
-<s id="2028:5" video="https://media.dipintra.it/?id=2028&start=00.29&end=00.41&collection=eptic3">
+<s id="2028:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.29&end=00.00.41">
 Według	prep:gen	według-i
 światowego	adj:sg:gen:m3:pos	światowy-j
 raportu	subst:sg:gen:m3	raport-n
@@ -10172,7 +10172,7 @@ po	prep:loc	po-i
 Azji	subst:sg:loc:f	Azja-n
 .	interp	.-x
 </s>
-<s id="2028:6" video="https://media.dipintra.it/?id=2028&start=00.41&end=00.53&collection=eptic3">
+<s id="2028:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.41&end=00.00.53">
 W	prep:loc:nwok	w-i
 Polsce	subst:sg:loc:f	Polska-n
 ,	interp	"-x
@@ -10204,7 +10204,7 @@ się	qub	się-x
 potroi	fin:sg:ter:perf	potroić-v
 .	interp	.-x
 </s>
-<s id="2028:7" video="https://media.dipintra.it/?id=2028&start=00.53&end=00.55&collection=eptic3">
+<s id="2028:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.53&end=00.00.55">
 Jak	adv:pos	jak-a
 widać	pred	widać-x
 dane	subst:pl:nom:f	dana-n
@@ -10213,7 +10213,7 @@ są	fin:pl:ter:imperf	być-v
 niepokojące	adj:pl:nom:m3:pos	niepokojący-j
 .	interp	.-x
 </s>
-<s id="2028:8" video="https://media.dipintra.it/?id=2028&start=00.55&end=01.03&collection=eptic3">
+<s id="2028:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.00.55&end=00.01.03">
 Demencja	subst:sg:nom:f	demencja-n
 niesie	fin:sg:ter:imperf	nieść-v
 za	prep:inst	za-i
@@ -10238,7 +10238,7 @@ jego	ppron3:sg:gen:m1:ter	on-x
 najbliższych	subst:pl:acc:m1	najbliższy-n
 .	interp	.-x
 </s>
-<s id="2028:9" video="https://media.dipintra.it/?id=2028&start=01.03&end=01.07&collection=eptic3">
+<s id="2028:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.01.03&end=00.01.07">
 Dlatego	adv	dlatego-a
 cieszę	fin:sg:pri:imperf	cieszyć-v
 się	qub	się-x
@@ -10251,7 +10251,7 @@ ważny	adj:sg:acc:m3:pos	ważny-j
 problem	subst:sg:acc:m3	problem-n
 .	interp	.-x
 </s>
-<s id="2028:10" video="https://media.dipintra.it/?id=2028&start=01.07&end=01.37&collection=eptic3">
+<s id="2028:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2028.mp4&start=00.01.07&end=00.01.37">
 Tylko	qub	tylko-x
 współpraca	subst:sg:nom:f	współpraca-n
 ,	interp	"-x
@@ -10281,12 +10281,12 @@ profilaktykę	subst:sg:acc:f	profilaktyka-n
 <speaker name="Kowal Paweł Robert" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="148" duration="short" durations="76.0" speed="slow" speedwm="116.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2029:1" video="https://media.dipintra.it/?id=2029&start=00.00&end=00.04&collection=eptic3">
+<s id="2029:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.00&end=00.00.04">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
 </s>
-<s id="2029:2" video="https://media.dipintra.it/?id=2029&start=00.04&end=00.09&collection=eptic3">
+<s id="2029:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.04&end=00.00.09">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 Panie	subst:sg:voc:m1	pan-n
@@ -10297,7 +10297,7 @@ Panie	subst:sg:voc:m1	pan-n
 Premierze	subst:sg:voc:m1	premier-n
 !	interp	!-x
 </s>
-<s id="2029:3" video="https://media.dipintra.it/?id=2029&start=00.09&end=00.19&collection=eptic3">
+<s id="2029:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.09&end=00.00.19">
 Ja	ppron12:sg:nom:m1:pri	ja-x
 przyłączam	fin:sg:pri:imperf	przyłączać-v
 się	qub	się-x
@@ -10326,7 +10326,7 @@ prezydencji	subst:sg:gen:f	prezydencja-n
 belgijskiej	adj:sg:gen:f:pos	belgijski-j
 .	interp	.-x
 </s>
-<s id="2029:4" video="https://media.dipintra.it/?id=2029&start=00.19&end=00.24&collection=eptic3">
+<s id="2029:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.19&end=00.00.24">
 Jednak	conj	jednak-c
 pojawiają	fin:pl:ter:imperf	pojawiać-v
 się	qub	się-x
@@ -10339,7 +10339,7 @@ istotne	adj:pl:acc:n:pos	istotny-j
 pytania	subst:pl:acc:n	pytanie-n
 .	interp	.-x
 </s>
-<s id="2029:5" video="https://media.dipintra.it/?id=2029&start=00.24&end=00.38&collection=eptic3">
+<s id="2029:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.24&end=00.00.38">
 Czy	qub	czy-x
 to	subst:sg:nom:n	to-n
 jest	fin:sg:ter:imperf	być-v
@@ -10382,14 +10382,14 @@ rząd	subst:sg:nom:m3	rząd-n
 belgijski	adj:sg:acc:m3:pos	belgijski-j
 ?	interp	?-x
 </s>
-<s id="2029:6" video="https://media.dipintra.it/?id=2029&start=00.38&end=00.39&collection=eptic3">
+<s id="2029:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.38&end=00.00.39">
 Tak	adv:pos	tak-a
 przecież	qub	przecież-x
 nie	qub	nie-x
 było	praet:sg:n:imperf	być-v
 .	interp	.-x
 </s>
-<s id="2029:7" video="https://media.dipintra.it/?id=2029&start=00.39&end=00.50&collection=eptic3">
+<s id="2029:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.39&end=00.00.50">
 Obserwowaliśmy	impt:pl:pri:perf	Obserwowaliśmy-v
 ehm	FPAUSE	ehm
 życie	subst:sg:acc:n	życie-n
@@ -10422,7 +10422,7 @@ nie	qub	nie-x
 było	praet:sg:n:imperf	być-v
 .	interp	.-x
 </s>
-<s id="2029:8" video="https://media.dipintra.it/?id=2029&start=00.50&end=00.55&collection=eptic3">
+<s id="2029:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.50&end=00.00.55">
 I	conj	i-c
 wreszcie	qub	wreszcie-x
 druga	adj:sg:nom:f:pos	drugi-j
@@ -10440,7 +10440,7 @@ tej	adj:sg:gen:f:pos	ten-j
 debaty	subst:sg:gen:f	debata-n
 .	interp	.-x
 </s>
-<s id="2029:9" video="https://media.dipintra.it/?id=2029&start=00.55&end=01.01&collection=eptic3">
+<s id="2029:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.00.55&end=00.01.01">
 Otóż	qub	otóż-x
 nie	qub	nie-x
 byłoby	qub	byłoby-x
@@ -10460,7 +10460,7 @@ tutaj	adv	tutaj-a
 narodowymi	adj:pl:inst:m3:pos	narodowy-j
 .	interp	.-x
 </s>
-<s id="2029:10" video="https://media.dipintra.it/?id=2029&start=01.01&end=01.07&collection=eptic3">
+<s id="2029:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.01.01&end=00.01.07">
 Przecież	qub	przecież-x
 te	adj:pl:nom:m3:pos	ten-j
 narodowe	adj:pl:nom:m3:pos	narodowy-j
@@ -10478,7 +10478,7 @@ konkretnych	adj:pl:gen:m3:pos	konkretny-j
 krajów	subst:pl:gen:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="2029:11" video="https://media.dipintra.it/?id=2029&start=01.07&end=01.11&collection=eptic3">
+<s id="2029:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.01.07&end=00.01.11">
 To	pred	to-x
 jest	fin:sg:ter:imperf	być-v
 konkretny	adj:sg:nom:m3:pos	konkretny-j
@@ -10493,7 +10493,7 @@ bardziej	adv:com	bardzo-a
 uboga	adj:sg:nom:f:pos	ubogi-j
 .	interp	.-x
 </s>
-<s id="2029:12" video="https://media.dipintra.it/?id=2029&start=01.11&end=01.36&collection=eptic3">
+<s id="2029:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.01.11&end=00.01.36">
 Nie	qub	nie-x
 możemy	fin:pl:pri:imperf	móc-v
 dzisiaj	adv	dzisiaj-a
@@ -10524,7 +10524,7 @@ jako	prep:nom	jako-i
 problem	subst:sg:nom:m3	problem-n
 .	interp	.-x
 </s>
-<s id="2029:13" video="https://media.dipintra.it/?id=2029&start=01.36&end=01.43&collection=eptic3">
+<s id="2029:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2029.mp4&start=00.01.36&end=00.01.43">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -10536,7 +10536,7 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Piotrowski Miroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="89" duration="short" durations="56.0" speed="slow" speedwm="95.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2030:1" video="https://media.dipintra.it/?id=2030&start=00.00&end=00.09&collection=eptic3">
+<s id="2030:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2030.mp4&start=00.00.00&end=00.00.09">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -10544,7 +10544,7 @@ szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2030:2" video="https://media.dipintra.it/?id=2030&start=00.09&end=00.16&collection=eptic3">
+<s id="2030:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2030.mp4&start=00.00.09&end=00.00.16">
 Belgia	subst:sg:nom:f	Belgia-n
 jako	conj	jako-c
 jedno	adj:sg:nom:n:pos	jeden-j
@@ -10560,7 +10560,7 @@ sześciomiesięczną	adj:sg:acc:f:pos	sześciomiesięczny-j
 prezydencję	subst:sg:acc:f	prezydencja-n
 .	interp	.-x
 </s>
-<s id="2030:3" video="https://media.dipintra.it/?id=2030&start=00.16&end=00.30&collection=eptic3">
+<s id="2030:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2030.mp4&start=00.00.16&end=00.00.30">
 Pomimo	prep:gen	pomimo-i
 wewnętrznych	adj:pl:gen:f:pos	wewnętrzny-j
 trudności	subst:pl:gen:f	trudność-n
@@ -10587,7 +10587,7 @@ założonych	ppas:pl:gen:f:perf:aff	założyć-v
 priorytetów	subst:pl:gen:m3	priorytet-n
 .	interp	.-x
 </s>
-<s id="2030:4" video="https://media.dipintra.it/?id=2030&start=00.30&end=00.54&collection=eptic3">
+<s id="2030:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2030.mp4&start=00.00.30&end=00.00.54">
 Dlatego	adv	dlatego-a
 i	conj	i-c
 ja	ppron12:sg:nom:m1:pri	ja-x
@@ -10643,7 +10643,7 @@ zagranicznej	adj:sg:gen:f:pos	zagraniczny-j
 Unii	subst:sg:gen:f	Unia-n
 .	interp	.-x
 </s>
-<s id="2030:5" video="https://media.dipintra.it/?id=2030&start=00.54&end=01.26&collection=eptic3">
+<s id="2030:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2030.mp4&start=00.00.54&end=00.01.26">
 Rzadko	adv:pos	rzadko-a
 w	prep:loc:nwok	w-i
 historii	subst:sg:loc:f	historia-n
@@ -10670,13 +10670,13 @@ Europy	subst:sg:gen:f	Europa-n
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="124" duration="short" durations="72.0" speed="slow" speedwm="103.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2031:1" video="https://media.dipintra.it/?id=2031&start=00.00&end=00.07&collection=eptic3">
+<s id="2031:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.00&end=00.00.07">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2031:2" video="https://media.dipintra.it/?id=2031&start=00.07&end=00.23&collection=eptic3">
+<s id="2031:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.07&end=00.00.23">
 Wiele	num:pl:nom:f:rec	wiele-x
 dobrych	adj:pl:gen:f:pos	dobry-j
 ocen	subst:pl:gen:f	ocena-n
@@ -10715,7 +10715,7 @@ debaty	subst:sg:gen:f	debata-n
 budżetowej	adj:sg:gen:f:pos	budżetowy-j
 .	interp	.-x
 </s>
-<s id="2031:3" video="https://media.dipintra.it/?id=2031&start=00.23&end=00.37&collection=eptic3">
+<s id="2031:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.23&end=00.00.37">
 Dominowały	praet:pl:f:imperf	dominować-v
 sprawy	subst:pl:nom:f	sprawa-n
 powrotu	subst:sg:gen:m3	powrót-n
@@ -10747,7 +10747,7 @@ przy	prep:loc	przy-i
 budżecie	subst:sg:loc:m3	budżet-n
 .	interp	.-x
 </s>
-<s id="2031:4" video="https://media.dipintra.it/?id=2031&start=00.37&end=00.43&collection=eptic3">
+<s id="2031:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.37&end=00.00.43">
 Należy	fin:sg:ter:imperf	należeć-v
 pogratulować	inf:perf	pogratulować-v
 sprawności	subst:sg:dat:f	sprawność-n
@@ -10764,7 +10764,7 @@ wykonaniu	subst:sg:loc:n	wykonanie-n
 Belgii	subst:sg:gen:f	Belgia-n
 .	interp	.-x
 </s>
-<s id="2031:5" video="https://media.dipintra.it/?id=2031&start=00.43&end=00.51&collection=eptic3">
+<s id="2031:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.43&end=00.00.51">
 Premier	subst:sg:nom:m1	premier-n
 Leterme	subst:sg:nom:m1	Leterme-n
 stwierdził	praet:sg:m1:perf	stwierdzić-v
@@ -10789,7 +10789,7 @@ jakiś	adj:sg:nom:m3:pos	jakiś-j
 priorytet	subst:sg:nom:m3	priorytet-n
 .	interp	.-x
 </s>
-<s id="2031:6" video="https://media.dipintra.it/?id=2031&start=00.51&end=00.58&collection=eptic3">
+<s id="2031:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.51&end=00.00.58">
 Musimy	fin:pl:pri:imperf	musieć-v
 jednak	qub	jednak-x
 dopuścić	inf:perf	dopuścić-v
@@ -10807,7 +10807,7 @@ swoje	adj:pl:acc:m3:pos	swój-j
 priorytety	subst:pl:acc:m3	priorytet-n
 .	interp	.-x
 </s>
-<s id="2031:7" video="https://media.dipintra.it/?id=2031&start=00.58&end=01.04&collection=eptic3">
+<s id="2031:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.00.58&end=00.01.04">
 Wydaje	fin:sg:ter:imperf	wydawać-v
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x
 się	qub	się-x
@@ -10829,7 +10829,7 @@ premier	subst:sg:nom:m1	premier-n
 Leterme	subst:sg:nom:m1	Leterme-n
 .	interp	.-x
 </s>
-<s id="2031:8" video="https://media.dipintra.it/?id=2031&start=01.04&end=01.24&collection=eptic3">
+<s id="2031:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.01.04&end=00.01.24">
 To	pred	to-x
 co	subst:sg:nom:n	co-n
 mnie	ppron12:sg:acc:m1:pri:akc	ja-x
@@ -10868,7 +10868,7 @@ sposób	subst:sg:acc:m3	sposób-n
 negocjowana	ppas:sg:nom:f:imperf:aff	negocjować-v
 .	interp	.-x
 </s>
-<s id="2031:9" video="https://media.dipintra.it/?id=2031&start=01.24&end=01.38&collection=eptic3">
+<s id="2031:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2031.mp4&start=00.01.24&end=00.01.38">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -10881,7 +10881,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="SiekierskiCzeslawAdam" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="long" lengthw="98" duration="short" durations="64.0" speed="slow" speedwm="91.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2032:1" video="https://media.dipintra.it/?id=2032&start=00.00&end=00.15&collection=eptic3">
+<s id="2032:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.00&end=00.00.15">
 Prezydencja	subst:sg:nom:f	prezydencja-n
 belgijska	adj:sg:nom:f:pos	belgijski-j
 ,	interp	"-x
@@ -10905,7 +10905,7 @@ w	prep:loc:nwok	w-i
 Unii	subst:sg:loc:f	unia-n
 .	interp	.-x
 </s>
-<s id="2032:2" video="https://media.dipintra.it/?id=2032&start=00.15&end=00.22&collection=eptic3">
+<s id="2032:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.15&end=00.00.22">
 Obie	num:pl:acc:f:congr	oba-x
 te	adj:pl:acc:f:pos	ten-j
 prezydencje	subst:pl:acc:f	prezydencja-n
@@ -10922,7 +10922,7 @@ we	prep:loc:wok	w-i
 Wspólnocie	subst:sg:loc:f	wspólnota-n
 .	interp	.-x
 </s>
-<s id="2032:3" video="https://media.dipintra.it/?id=2032&start=00.22&end=00.28&collection=eptic3">
+<s id="2032:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.22&end=00.00.28">
 To	pred	to-x
 dobry	adj:sg:nom:m3:pos	dobry-j
 kierunek	subst:sg:nom:m3	kierunek-n
@@ -10936,7 +10936,7 @@ nie	qub	nie-x
 rządowego	adj:sg:gen:m3:pos	rządowy-j
 .	interp	.-x
 </s>
-<s id="2032:4" video="https://media.dipintra.it/?id=2032&start=00.28&end=00.35&collection=eptic3">
+<s id="2032:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.28&end=00.00.35">
 Ale	conj	ale-c
 z	prep:gen:nwok	z-i
 drugiej	adj:sg:gen:f:pos	drugi-j
@@ -10956,7 +10956,7 @@ swoich	adj:pl:gen:m3:pos	swój-j
 priorytetów	subst:pl:gen:m3	priorytet-n
 .	interp	.-x
 </s>
-<s id="2032:5" video="https://media.dipintra.it/?id=2032&start=00.35&end=00.38&collection=eptic3">
+<s id="2032:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.35&end=00.00.38">
 Tu	adv	tu-a
 musi	fin:sg:ter:imperf	musieć-v
 funkcjonować	inf:imperf	funkcjonować-v
@@ -10964,7 +10964,7 @@ specyficzna	adj:sg:nom:f:pos	specyficzny-j
 równowaga	subst:sg:nom:f	równowaga-n
 .	interp	.-x
 </s>
-<s id="2032:6" video="https://media.dipintra.it/?id=2032&start=00.38&end=00.44&collection=eptic3">
+<s id="2032:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.38&end=00.00.44">
 Niewątpliwym	adj:sg:inst:n:pos	niewątpliwy-j
 osiągnięciem	ger:sg:inst:n:perf:aff	osiągnąć-v
 prezydencji	subst:sg:gen:f	prezydencja-n
@@ -10975,7 +10975,7 @@ zarządzania	subst:sg:gen:n	zarządzanie-n
 gospodarczego	adj:sg:gen:n:pos	gospodarczy-j
 .	interp	.-x
 </s>
-<s id="2032:7" video="https://media.dipintra.it/?id=2032&start=00.44&end=00.48&collection=eptic3">
+<s id="2032:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.44&end=00.00.48">
 Rozpoczęły	praet:pl:f:perf	rozpocząć-v
 pracę	subst:sg:acc:f	praca-n
 agencje	subst:pl:nom:f	agencja-n
@@ -10985,7 +10985,7 @@ instytucjami	subst:pl:inst:f	instytucja-n
 finansowymi	adj:pl:inst:m3:pos	finansowy-j
 .	interp	.-x
 </s>
-<s id="2032:8" video="https://media.dipintra.it/?id=2032&start=00.48&end=00.54&collection=eptic3">
+<s id="2032:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.48&end=00.00.54">
 Wiele	adv	wiele-a
 uczyniono	imps:perf	uczynić-v
 dla	prep:gen	dla-i
@@ -10996,7 +10996,7 @@ dyscypliny	subst:sg:gen:f	dyscyplina-n
 budżetowej	adj:sg:gen:f:pos	budżetowy-j
 .	interp	.-x
 </s>
-<s id="2032:9" video="https://media.dipintra.it/?id=2032&start=00.54&end=00.59&collection=eptic3">
+<s id="2032:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.54&end=00.00.59">
 Działania	subst:pl:nom:n	działanie-n
 na	prep:acc	na-i
 rzecz	subst:sg:acc:f	rzecz-n
@@ -11009,7 +11009,7 @@ instrumentem	subst:sg:inst:m3	instrument-n
 rozwojowym	adj:sg:loc:m3:pos	rozwojowy-j
 .	interp	.-x
 </s>
-<s id="2032:10" video="https://media.dipintra.it/?id=2032&start=00.59&end=01.13&collection=eptic3">
+<s id="2032:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.00.59&end=00.01.13">
 Wreszcie	adv	wreszcie-a
 przełamano	imps:perf	przełamać-v
 powstały	adj:sg:acc:m3:pos	powstały-j
@@ -11024,7 +11024,7 @@ na	prep:acc	na-i
 rok	subst:sg:acc:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2032:11" video="https://media.dipintra.it/?id=2032&start=01.13&end=01.30&collection=eptic3">
+<s id="2032:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2032.mp4&start=00.01.13&end=00.01.30">
 Po	prep:acc	po-i
 prostu	adjp	prostu-x
 dziękujemy	fin:pl:pri:imperf	dziękować-v
@@ -11038,13 +11038,13 @@ dziękujemy	fin:pl:pri:imperf	dziękować-v
 <speaker name="Kurski Jacek Olgierd" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="135" duration="short" durations="68.0" speed="slow" speedwm="119.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2033:1" video="https://media.dipintra.it/?id=2033&start=00.00&end=00.06&collection=eptic3">
+<s id="2033:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.00&end=00.00.06">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2033:2" video="https://media.dipintra.it/?id=2033&start=00.06&end=00.16&collection=eptic3">
+<s id="2033:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.06&end=00.00.16">
 Polityka	subst:sg:nom:f	polityka-n
 realizowana	ppas:sg:nom:f:imperf:aff	realizować-v
 ostatnio	adv:pos	ostatnio-a
@@ -11072,7 +11072,7 @@ całkowitą	adj:sg:acc:f:pos	całkowity-j
 klęskę	subst:sg:acc:f	klęska-n
 .	interp	.-x
 </s>
-<s id="2033:3" video="https://media.dipintra.it/?id=2033&start=00.16&end=00.24&collection=eptic3">
+<s id="2033:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.16&end=00.00.24">
 Łukaszenko	subst:sg:nom:m1	Łukaszenko-n
 ,	interp	"-x
 ostatni	adj:sg:nom:m1:pos	ostatni-j
@@ -11096,7 +11096,7 @@ politycznych	adj:pl:gen:m1:pos	polityczny-j
 oponentów	subst:pl:gen:m1	oponent-n
 .	interp	.-x
 </s>
-<s id="2033:4" video="https://media.dipintra.it/?id=2033&start=00.24&end=00.27&collection=eptic3">
+<s id="2033:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.24&end=00.00.27">
 Polityka	subst:sg:nom:f	polityka-n
 ugody	subst:sg:gen:f	ugoda-n
 i	conj	i-c
@@ -11107,7 +11107,7 @@ przynieść	inf:perf	przynieść-v
 efektu	subst:sg:gen:m3	efekt-n
 .	interp	.-x
 </s>
-<s id="2033:5" video="https://media.dipintra.it/?id=2033&start=00.27&end=00.39&collection=eptic3">
+<s id="2033:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.27&end=00.00.39">
 Po	prep:acc	po-i
 raz	subst:sg:acc:m3	raz-n
 kolejny	adj:sg:acc:m3:pos	kolejny-j
@@ -11145,7 +11145,7 @@ działaczy	subst:pl:gen:m1	działacz-n
 opozycji	subst:sg:gen:f	opozycja-n
 .	interp	.-x
 </s>
-<s id="2033:6" video="https://media.dipintra.it/?id=2033&start=00.39&end=00.43&collection=eptic3">
+<s id="2033:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.39&end=00.00.43">
 Istotny	adj:sg:nom:m3:pos	istotny-j
 jest	fin:sg:ter:imperf	być-v
 jasny	adj:sg:nom:m3:pos	jasny-j
@@ -11160,7 +11160,7 @@ dla	prep:gen	dla-i
 Białorusi	subst:sg:gen:f	Białoruś-n
 .	interp	.-x
 </s>
-<s id="2033:7" video="https://media.dipintra.it/?id=2033&start=00.43&end=00.49&collection=eptic3">
+<s id="2033:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.43&end=00.00.49">
 Europa	subst:sg:nom:f	Europa-n
 nie	qub	nie-x
 będzie	bedzie:sg:ter:imperf	być-v
@@ -11173,7 +11173,7 @@ białoruskiego	adj:sg:gen:m1:pos	białoruski-j
 dyktatora	subst:sg:gen:m1	dyktator-n
 .	interp	.-x
 </s>
-<s id="2033:8" video="https://media.dipintra.it/?id=2033&start=00.49&end=00.53&collection=eptic3">
+<s id="2033:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.49&end=00.00.53">
 Sankcje	subst:pl:nom:f	sankcja-n
 muszą	fin:pl:ter:imperf	musieć-v
 być	inf:imperf	być-v
@@ -11188,7 +11188,7 @@ nie	qub	nie-x
 obywateli	subst:pl:gen:m1	obywatel-n
 .	interp	.-x
 </s>
-<s id="2033:9" video="https://media.dipintra.it/?id=2033&start=00.53&end=00.55&collection=eptic3">
+<s id="2033:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.53&end=00.00.55">
 Przeciwnie	adv:pos	przeciwnie-a
 ,	interp	"-x
 ludzie	subst:pl:nom:m1	człowiek-n
@@ -11197,7 +11197,7 @@ naszej	adj:sg:gen:f:pos	nasz-j
 pomocy	subst:sg:gen:f	pomoc-n
 .	interp	.-x
 </s>
-<s id="2033:10" video="https://media.dipintra.it/?id=2033&start=00.55&end=00.58&collection=eptic3">
+<s id="2033:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.55&end=00.00.58">
 Podobnie	adv:pos	podobnie-a
 organizacje	subst:pl:nom:f	organizacja-n
 społeczne	adj:pl:nom:f:pos	społeczny-j
@@ -11208,7 +11208,7 @@ i	conj	i-c
 opozycja	subst:sg:nom:f	opozycja-n
 .	interp	.-x
 </s>
-<s id="2033:11" video="https://media.dipintra.it/?id=2033&start=00.58&end=01.01&collection=eptic3">
+<s id="2033:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.00.58&end=00.01.01">
 Możemy	fin:pl:pri:imperf	móc-v
 realnie	adv:pos	realnie-a
 pomóc	inf:perf	pomóc-v
@@ -11219,7 +11219,7 @@ ułatwieniach	subst:pl:loc:n2	ułatwienie-n
 wizowych	adj:pl:gen:m1:pos	wizowy-j
 .	interp	.-x
 </s>
-<s id="2033:12" video="https://media.dipintra.it/?id=2033&start=01.01&end=01.15&collection=eptic3">
+<s id="2033:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.01.01&end=00.01.15">
 Partnerstwo	subst:sg:acc:n	partnerstwo-n
 wschodnie	adj:pl:acc:n:pos	wschodni-j
 musi	fin:sg:ter:imperf	musieć-v
@@ -11247,7 +11247,7 @@ jednego	adj:sg:gen:n:pos	jeden-j
 euro	subst:sg:gen:n	euro-n
 .	interp	.-x
 </s>
-<s id="2033:13" video="https://media.dipintra.it/?id=2033&start=01.15&end=01.29&collection=eptic3">
+<s id="2033:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.01.15&end=00.01.29">
 Im	conj	im-c
 więcej	num:pl:acc:f:rec	więcej-x
 Europy	subst:sg:gen:f	Europa-n
@@ -11264,7 +11264,7 @@ naszym	adj:sg:loc:m3:pos	nasz-j
 kontynencie	subst:sg:loc:m3	kontynent-n
 .	interp	.-x
 </s>
-<s id="2033:14" video="https://media.dipintra.it/?id=2033&start=01.29&end=01.34&collection=eptic3">
+<s id="2033:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2033.mp4&start=00.01.29&end=00.01.34">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -11277,12 +11277,12 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Kalinowski Jaroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="101" duration="short" durations="57.0" speed="slow" speedwm="106.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2034:1" video="https://media.dipintra.it/?id=2034&start=00.00&end=00.05&collection=eptic3">
+<s id="2034:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.00&end=00.00.05">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 !	interp	!-x
 </s>
-<s id="2034:2" video="https://media.dipintra.it/?id=2034&start=00.05&end=00.11&collection=eptic3">
+<s id="2034:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.05&end=00.00.11">
 W	prep:loc:nwok	w-i
 obliczu	subst:sg:loc:n	oblicze-n
 zwiększającego	pact:sg:gen:m1:imperf:aff	zwiększać-v
@@ -11298,7 +11298,7 @@ nasz	adj:sg:acc:m3:pos	nasz-j
 obowiązek	subst:sg:acc:m3	obowiązek-n
 .	interp	.-x
 </s>
-<s id="2034:3" video="https://media.dipintra.it/?id=2034&start=00.11&end=00.19&collection=eptic3">
+<s id="2034:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.11&end=00.00.19">
 Naszą	adj:sg:acc:f:pos	nasz-j
 pomoc	subst:sg:acc:f	pomoc-n
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v
@@ -11319,7 +11319,7 @@ Unii	subst:sg:gen:f	Unia-n
 Europejskiej	adj:sg:gen:f:pos	Europejski-j
 .	interp	.-x
 </s>
-<s id="2034:4" video="https://media.dipintra.it/?id=2034&start=00.19&end=00.22&collection=eptic3">
+<s id="2034:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.19&end=00.00.22">
 Dobrym	adj:sg:inst:n:pos	dobry-j
 przykładem	subst:sg:inst:m3	przykład-n
 jest	fin:sg:ter:imperf	być-v
@@ -11329,7 +11329,7 @@ w	prep:loc:nwok	w-i
 Polsce	subst:sg:loc:f	Polska-n
 .	interp	.-x
 </s>
-<s id="2034:5" video="https://media.dipintra.it/?id=2034&start=00.22&end=00.31&collection=eptic3">
+<s id="2034:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.22&end=00.00.31">
 Dobrym	adj:sg:inst:n:pos	dobry-j
 wsparciem	subst:sg:inst:n	wsparcie-n
 są	fin:pl:ter:imperf	być-v
@@ -11357,7 +11357,7 @@ działalność	subst:sg:acc:f	działalność-n
 opozycyjną	adj:sg:inst:f:pos	opozycyjny-j
 .	interp	.-x
 </s>
-<s id="2034:6" video="https://media.dipintra.it/?id=2034&start=00.31&end=00.38&collection=eptic3">
+<s id="2034:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.31&end=00.00.38">
 Podobnie	adv:pos	podobnie-a
 z	prep:inst:nwok	z-i
 kwestią	subst:sg:inst:f	kwestia-n
@@ -11376,14 +11376,14 @@ za	prep:acc	na-i
 drogie	adj:pl:acc:m3:pos	drogi-j
 .	interp	.-x
 </s>
-<s id="2034:7" video="https://media.dipintra.it/?id=2034&start=00.38&end=00.40&collection=eptic3">
+<s id="2034:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.38&end=00.00.40">
 To	subst:sg:nom:n	To-n
 trzeba	pred	trzeba-x
 szybko	adv:pos	szybko-a
 zmienić	inf:perf	zmienić-v
 .	interp	.-x
 </s>
-<s id="2034:8" video="https://media.dipintra.it/?id=2034&start=00.40&end=00.47&collection=eptic3">
+<s id="2034:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.40&end=00.00.47">
 Należy	fin:sg:ter:imperf	należeć-v
 zachować	inf:perf	zachować-v
 całkowitą	adj:sg:acc:f:pos	całkowity-j
@@ -11402,7 +11402,7 @@ przedstawicieli	subst:pl:gen:m1	przedstawiciel-n
 reżimu	subst:sg:gen:m3	reżim-n
 .	interp	.-x
 </s>
-<s id="2034:9" video="https://media.dipintra.it/?id=2034&start=00.47&end=01.06&collection=eptic3">
+<s id="2034:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.00.47&end=00.01.06">
 Wspieranie	ger:sg:nom:n:imperf:aff	wspierać-v
 społeczeństwa	subst:sg:gen:n	społeczeństwo-n
 obywatelskiego	adj:sg:gen:n:pos	obywatelski-j
@@ -11428,7 +11428,7 @@ całej	adj:sg:gen:f:pos	cały-j
 Białorusi	subst:sg:gen:f	Białoruś-n
 .	interp	.-x
 </s>
-<s id="2034:10" video="https://media.dipintra.it/?id=2034&start=01.06&end=01.14&collection=eptic3">
+<s id="2034:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2034.mp4&start=00.01.06&end=00.01.14">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -11441,7 +11441,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Lisek Krzysztof" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="113" duration="short" durations="73.0" speed="slow" speedwm="92.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2035:1" video="https://media.dipintra.it/?id=2035&start=00.00&end=00.08&collection=eptic3">
+<s id="2035:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.00&end=00.00.08">
 Panie	subst:sg:voc:m1	pan-n
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n
 ,	interp	"-x
@@ -11450,7 +11450,7 @@ Wysoka	adj:sg:nom:f:pos	Wysoki-j
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n
 !	interp	!-x
 </s>
-<s id="2035:2" video="https://media.dipintra.it/?id=2035&start=00.08&end=00.11&collection=eptic3">
+<s id="2035:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.08&end=00.00.11">
 Ja	ppron12:sg:nom:m1:pri	ja-x
 ,	interp	"-x
 ja	ppron12:sg:nom:m1:pri	ja-x
@@ -11463,7 +11463,7 @@ Wysokiej	adj:sg:dat:f:pos	Wysoki-j
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n
 .	interp	.-x
 </s>
-<s id="2035:3" video="https://media.dipintra.it/?id=2035&start=00.11&end=00.18&collection=eptic3">
+<s id="2035:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.11&end=00.00.18">
 Czy	qub	czy-x
 Pani	subst:sg:nom:f	pani-n
 wie	fin:sg:ter:imperf	wie-v
@@ -11478,7 +11478,7 @@ Jerzy	subst:sg:nom:m1	Jerzy-n
 Buzek	subst:sg:nom:m1	Buzek-n
 ?	interp	?-x
 </s>
-<s id="2035:4" video="https://media.dipintra.it/?id=2035&start=00.18&end=00.21&collection=eptic3">
+<s id="2035:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.18&end=00.00.21">
 Albo	conj	albo-c
 co	subst:sg:acc:n	co-n
 robił	praet:sg:m1:imperf	robić-v
@@ -11487,7 +11487,7 @@ Janusz	subst:sg:nom:m1	Janusz-n
 Lewandowski	subst:sg:nom:m1	Lewandowski-n
 ?	interp	?-x
 </s>
-<s id="2035:5" video="https://media.dipintra.it/?id=2035&start=00.21&end=00.24&collection=eptic3">
+<s id="2035:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.21&end=00.00.24">
 Albo	conj	albo-c
 co	subst:sg:acc:n	co-n
 robił	praet:sg:m1:imperf	robić-v
@@ -11496,7 +11496,7 @@ Donald	subst:sg:nom:m1	Donald-n
 Tusk	subst:sg:nom:m1	Tusk-n
 ?	interp	?-x
 </s>
-<s id="2035:6" video="https://media.dipintra.it/?id=2035&start=00.24&end=00.36&collection=eptic3">
+<s id="2035:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.24&end=00.00.36">
 Otóż	qub	otóż-x
 wszyscy	adj:pl:nom:m1:pos	wszystek-j
 oni	ppron3:pl:nom:m1:ter	on-x
@@ -11528,7 +11528,7 @@ w	prep:loc:nwok	w-i
 Polsce	subst:sg:loc:f	Polska-n
 .	interp	.-x
 </s>
-<s id="2035:7" video="https://media.dipintra.it/?id=2035&start=00.36&end=00.51&collection=eptic3">
+<s id="2035:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.36&end=00.00.51">
 Albo	conj	albo-c
 ważne	adj:sg:nom:n:pos	ważny-j
 pytanie	subst:sg:nom:n	pytanie-n
@@ -11564,7 +11564,7 @@ z	prep:gen:nwok	z-i
 pracy	subst:sg:gen:f	praca-n
 ?	interp	?-x
 </s>
-<s id="2035:8" video="https://media.dipintra.it/?id=2035&start=00.51&end=01.01&collection=eptic3">
+<s id="2035:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.00.51&end=00.01.01">
 Otóż	qub	otóż-x
 przetrw-	DYSF	przetrw-
 oni	ppron3:pl:nom:m1:ter	on-x
@@ -11585,7 +11585,7 @@ pomoc	subst:sg:acc:f	pomoc-n
 finansową	adj:sg:acc:f:pos	finansowy-j
 .	interp	.-x
 </s>
-<s id="2035:9" video="https://media.dipintra.it/?id=2035&start=01.01&end=01.08&collection=eptic3">
+<s id="2035:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.01.01&end=00.01.08">
 I	conj	i-c
 Ci	adj:pl:nom:m1:pos	ten-j
 ,	interp	"-x
@@ -11608,7 +11608,7 @@ i	conj	i-c
 finansowane	ppas:pl:nom:f:imperf:aff	finansować-v
 .	interp	.-x
 </s>
-<s id="2035:10" video="https://media.dipintra.it/?id=2035&start=01.08&end=01.39&collection=eptic3">
+<s id="2035:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2035.mp4&start=00.01.08&end=00.01.39">
 Dzisiaj	adv	dzisiaj-a
 na	prep:acc	na-i
 nas	ppron12:pl:acc:m1:pri	my-x
@@ -11640,13 +11640,13 @@ finansowa	adj:sg:nom:f:pos	finansowy-j
 <speaker name="Kozlowski Jan" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="111" duration="short" durations="67.0" speed="slow" speedwm="99.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2036:1" video="https://media.dipintra.it/?id=2036&start=00.00&end=00.06&collection=eptic3">
+<s id="2036:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.00.00&end=00.00.06">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="2036:2" video="https://media.dipintra.it/?id=2036&start=00.06&end=00.23&collection=eptic3">
+<s id="2036:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.00.06&end=00.00.23">
 Wytyczne	subst:pl:nom:f	wytyczna-n
 w	prep:loc:nwok	w-i
 sprawie	subst:sg:loc:f	sprawa-n
@@ -11671,7 +11671,7 @@ semestru	subst:sg:gen:m3	semestr-n
 europejskiego	adj:sg:gen:m3:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2036:3" video="https://media.dipintra.it/?id=2036&start=00.23&end=00.41&collection=eptic3">
+<s id="2036:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.00.23&end=00.00.41">
 Wytyczne	subst:pl:nom:f	wytyczna-n
 te	adj:pl:nom:f:pos	ten-j
 stanowią	fin:pl:ter:imperf	stanowić-v
@@ -11699,7 +11699,7 @@ Europa	subst:sg:nom:f	Europa-n
 2020	num:pl:nom:m3:rec	[number]-x
 .	interp	.-x
 </s>
-<s id="2036:4" video="https://media.dipintra.it/?id=2036&start=00.41&end=00.50&collection=eptic3">
+<s id="2036:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.00.41&end=00.00.50">
 Zgodnie	adv:pos	zgodnie-a
 z	prep:inst:nwok	z-i
 harmonogramem	subst:sg:inst:m3	harmonogram-n
@@ -11715,7 +11715,7 @@ w	prep:loc:nwok	w-i
 kwietniu	subst:sg:loc:m3	kwiecień-n
 .	interp	.-x
 </s>
-<s id="2036:5" video="https://media.dipintra.it/?id=2036&start=00.50&end=01.09&collection=eptic3">
+<s id="2036:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.00.50&end=00.01.09">
 Powołując	pcon:imperf	powoływać-v
 się	qub	się-x
 na	prep:acc	na-i
@@ -11745,7 +11745,7 @@ programami	subst:pl:inst:m3	program-n
 reform	subst:pl:gen:f	reforma-n
 .	interp	.-x
 </s>
-<s id="2036:6" video="https://media.dipintra.it/?id=2036&start=01.09&end=01.15&collection=eptic3">
+<s id="2036:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.01.09&end=00.01.15">
 Wprowadzenie	ger:sg:nom:n:perf:aff	wprowadzić-v
 na	prep:loc	na-i
 obecnym	adj:sg:loc:m3:pos	obecny-j
@@ -11759,7 +11759,7 @@ ten	adj:sg:acc:m3:pos	ten-j
 proces	subst:sg:acc:m3	proces-n
 .	interp	.-x
 </s>
-<s id="2036:7" video="https://media.dipintra.it/?id=2036&start=01.15&end=01.30&collection=eptic3">
+<s id="2036:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.01.15&end=00.01.30">
 Chciałbym	subst:sg:inst:m1	Chciałbym-n
 zwrócić	inf:perf	zwrócić-v
 uwagę	subst:sg:acc:f	uwaga-n
@@ -11775,7 +11775,7 @@ Europa	subst:sg:nom:f	Europa-n
 2020	num:pl:nom:m3:rec	[number]-x
 .	interp	.-x
 </s>
-<s id="2036:8" video="https://media.dipintra.it/?id=2036&start=01.30&end=01.43&collection=eptic3">
+<s id="2036:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.01.30&end=00.01.43">
 Dlatego	adv	dlatego-a
 też	qub	też-x
 podkreślam	fin:sg:pri:imperf	podkreślać-v
@@ -11792,7 +11792,7 @@ Europa	subst:sg:nom:f	Europa-n
 2020	num:pl:nom:m3:rec	[number]-x
 .	interp	.-x
 </s>
-<s id="2036:9" video="https://media.dipintra.it/?id=2036&start=01.43&end=01.44&collection=eptic3">
+<s id="2036:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2036.mp4&start=00.01.43&end=00.01.44">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -11804,13 +11804,13 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Siekierski Adam Czeslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="116" duration="short" durations="66.0" speed="slow" speedwm="105.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2037:1" video="https://media.dipintra.it/?id=2037&start=00.00&end=00.00&collection=eptic3">
+<s id="2037:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.00&end=00.00.00">
 Od	prep:gen:nwok	od-i
 ponad	qub	ponad-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="2037:2" video="https://media.dipintra.it/?id=2037&start=00.00&end=00.06&collection=eptic3">
+<s id="2037:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.00&end=00.00.06">
 Od	prep:gen:nwok	od-i
 przedstawionego	ppas:sg:gen:n:perf:aff	przedstawić-v
 przez	prep:acc:nwok	przez-i
@@ -11823,7 +11823,7 @@ prawie	qub	prawie-x
 rok	subst:sg:acc:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2037:3" video="https://media.dipintra.it/?id=2037&start=00.06&end=00.09&collection=eptic3">
+<s id="2037:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.06&end=00.00.09">
 Nie	qub	nie-x
 był	praet:sg:m1:imperf	być-v
 to	qub	to-x
@@ -11833,7 +11833,7 @@ Europy	subst:sg:gen:f	Europa-n
 czas	subst:sg:acc:m3	czas-n
 .	interp	.-x
 </s>
-<s id="2037:4" video="https://media.dipintra.it/?id=2037&start=00.09&end=00.13&collection=eptic3">
+<s id="2037:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.09&end=00.00.13">
 Państwa	subst:pl:acc:n	państwo-n
 członkowskie	adj:pl:acc:n:pos	członkowski-j
 nadal	adv	nadal-a
@@ -11844,7 +11844,7 @@ następstwami	subst:pl:inst:n	następstwo-n
 kryzysu	subst:sg:gen:m3	kryzys-n
 .	interp	.-x
 </s>
-<s id="2037:5" video="https://media.dipintra.it/?id=2037&start=00.13&end=00.15&collection=eptic3">
+<s id="2037:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.13&end=00.00.15">
 Zepchnięto	imps:perf	zepchnąć-v
 na	prep:acc	na-i
 dalszy	adj:sg:acc:m3:com	daleki-j
@@ -11857,7 +11857,7 @@ nowej	adj:sg:gen:f:pos	nowy-j
 strategii	subst:sg:gen:f	strategia-n
 .	interp	.-x
 </s>
-<s id="2037:6" video="https://media.dipintra.it/?id=2037&start=00.15&end=00.38&collection=eptic3">
+<s id="2037:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.15&end=00.00.38">
 Ambitne	adj:sg:nom:n:pos	ambitny-j
 plany	subst:pl:acc:m3	plan-n
 Europa	subst:sg:nom:f	Europa-n
@@ -11903,7 +11903,7 @@ strategii	subst:sg:gen:f	strategia-n
 zagrożone	ppas:sg:nom:n:perf:aff	zagrozić-v
 .	interp	.-x
 </s>
-<s id="2037:7" video="https://media.dipintra.it/?id=2037&start=00.38&end=00.43&collection=eptic3">
+<s id="2037:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.38&end=00.00.43">
 Bezrobocie	subst:sg:nom:n	bezrobocie-n
 w	prep:loc:nwok	w-i
 Unii	subst:sg:loc:f	unia-n
@@ -11913,7 +11913,7 @@ obecnie	adv:pos	obecnie-a
 procent	subst:sg:nom:m3	procent-n
 .	interp	.-x
 </s>
-<s id="2037:8" video="https://media.dipintra.it/?id=2037&start=00.43&end=00.47&collection=eptic3">
+<s id="2037:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.43&end=00.00.47">
 Wciąż	adv	wciąż-a
 nie	qub	nie-x
 widać	pred	widać-x
@@ -11924,7 +11924,7 @@ znaczący	adj:sg:acc:m3:pos	znaczący-j
 spadek	subst:sg:acc:m3	spadek-n
 .	interp	.-x
 </s>
-<s id="2037:9" video="https://media.dipintra.it/?id=2037&start=00.47&end=00.59&collection=eptic3">
+<s id="2037:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.47&end=00.00.59">
 Wręcz	qub	wręcz-x
 przeciwnie	adv:pos	przeciwnie-a
 :	interp	:-x
@@ -11956,7 +11956,7 @@ najbliższe	adj:pl:acc:m3:sup	bliski-j
 lata	subst:pl:acc:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2037:10" video="https://media.dipintra.it/?id=2037&start=00.59&end=01.06&collection=eptic3">
+<s id="2037:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.00.59&end=00.01.06">
 Niski	subst:sg:nom:m1	Niski-n
 poziom	subst:sg:acc:m3	poziom-n
 zatrudnienia	subst:sg:gen:n	zatrudnienie-n
@@ -11969,7 +11969,7 @@ marginalizacji	subst:sg:gen:f	marginalizacja-n
 społecznej	adj:sg:gen:f:pos	społeczny-j
 .	interp	.-x
 </s>
-<s id="2037:11" video="https://media.dipintra.it/?id=2037&start=01.06&end=01.13&collection=eptic3">
+<s id="2037:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.01.06&end=00.01.13">
 Potwierdza	fin:sg:ter:imperf	potwierdzać-v
 to	pred	to-x
 raport	subst:sg:nom:m3	raport-n
@@ -11980,7 +11980,7 @@ ubiegłego	adj:sg:gen:m3:pos	ubiegły-j
 roku	subst:sg:gen:m3	rok-n
 .	interp	.-x
 </s>
-<s id="2037:12" video="https://media.dipintra.it/?id=2037&start=01.13&end=01.15&collection=eptic3">
+<s id="2037:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2037.mp4&start=00.01.13&end=00.01.15">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -11993,7 +11993,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Migalski Marek Henryk" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="119" duration="short" durations="67.0" speed="slow" speedwm="106.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2038:1" video="https://media.dipintra.it/?id=2038&start=00.00&end=00.05&collection=eptic3">
+<s id="2038:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.00&end=00.00.05">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 ,	interp	"-x
@@ -12001,17 +12001,17 @@ Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 !	interp	!-x
 </s>
-<s id="2038:2" video="https://media.dipintra.it/?id=2038&start=00.05&end=00.08&collection=eptic3">
+<s id="2038:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.05&end=00.00.08">
 Panie	subst:sg:voc:m1	pan-n
 Komisarzu	subst:sg:voc:m1	komisarz-n
 !	interp	!-x
 </s>
-<s id="2038:3" video="https://media.dipintra.it/?id=2038&start=00.08&end=00.09&collection=eptic3">
+<s id="2038:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.08&end=00.00.09">
 Szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2038:4" video="https://media.dipintra.it/?id=2038&start=00.09&end=00.18&collection=eptic3">
+<s id="2038:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.09&end=00.00.18">
 Ma	fin:sg:ter:imperf	mieć-v
 rację	subst:sg:acc:f	racja-n
 pani	subst:sg:gen:f	pani-n
@@ -12052,7 +12052,7 @@ naszą	adj:sg:acc:f:pos	nasz-j
 uwagę	subst:sg:acc:f	uwaga-n
 .	interp	.-x
 </s>
-<s id="2038:5" video="https://media.dipintra.it/?id=2038&start=00.18&end=00.27&collection=eptic3">
+<s id="2038:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.18&end=00.00.27">
 I	conj	i-c
 rzeczywiście	adv:pos	rzeczywiście-a
 te	adj:pl:nom:m3:pos	ten-j
@@ -12083,7 +12083,7 @@ na	prep:loc	na-i
 świecie	subst:sg:loc:m3	świat-n
 .	interp	.-x
 </s>
-<s id="2038:6" video="https://media.dipintra.it/?id=2038&start=00.27&end=00.44&collection=eptic3">
+<s id="2038:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.27&end=00.00.44">
 I	conj	i-c
 w	prep:loc:nwok	w-i
 moim	adj:sg:loc:n:pos	mój-j
@@ -12141,7 +12141,7 @@ czymś	subst:sg:inst:n	coś-n
 naturalnym	adj:sg:inst:n:pos	naturalny-j
 .	interp	.-x
 </s>
-<s id="2038:7" video="https://media.dipintra.it/?id=2038&start=00.44&end=00.52&collection=eptic3">
+<s id="2038:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.44&end=00.00.52">
 To	adj:sg:nom:n:pos	ten-j
 ,	interp	"-x
 co	subst:sg:nom:n	co-n
@@ -12175,14 +12175,14 @@ władz	subst:pl:gen:f	władza-n
 publicznych	adj:pl:gen:f:pos	publiczny-j
 .	interp	.-x
 </s>
-<s id="2038:8" video="https://media.dipintra.it/?id=2038&start=00.52&end=00.53&collection=eptic3">
+<s id="2038:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.52&end=00.00.53">
 I	conj	i-c
 to	subst:sg:nom:n	to-n
 jest	fin:sg:ter:imperf	być-v
 istotne	adj:sg:nom:n:pos	istotny-j
 .	interp	.-x
 </s>
-<s id="2038:9" video="https://media.dipintra.it/?id=2038&start=00.53&end=01.00&collection=eptic3">
+<s id="2038:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.00.53&end=00.01.00">
 Ehm	FPAUSE	ehm
 naszej	adj:sg:gen:f:pos	nasz-j
 pomocy	subst:sg:gen:f	pomoc-n
@@ -12200,7 +12200,7 @@ Partnerstwa	subst:sg:gen:n	partnerstwo-n
 Wschodniego	adj:sg:gen:m3:pos	Wschodni-j
 .	interp	.-x
 </s>
-<s id="2038:10" video="https://media.dipintra.it/?id=2038&start=01.00&end=01.12&collection=eptic3">
+<s id="2038:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.01.00&end=00.01.12">
 I	conj	i-c
 myślę	fin:sg:pri:imperf	myślić-v
 ,	interp	"-x
@@ -12218,7 +12218,7 @@ tych	adj:pl:gen:m3:pos	ten-j
 krajów	subst:pl:gen:m3	kraj-n
 .	interp	.-x
 </s>
-<s id="2038:11" video="https://media.dipintra.it/?id=2038&start=01.12&end=01.13&collection=eptic3">
+<s id="2038:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2038.mp4&start=00.01.12&end=00.01.13">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x
@@ -12231,7 +12231,7 @@ bardzo	adv:pos	bardzo-a
 <speaker name="Ziobro-Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="108" duration="short" durations="62.0" speed="slow" speedwm="104.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2039:1" video="https://media.dipintra.it/?id=2039&start=00.00&end=00.16&collection=eptic3">
+<s id="2039:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.00.00&end=00.00.16">
 Ehm	FPAUSE	ehm
 wielokrotnie	adv:pos	wielokrotnie-a
 wypowiadałem	praet:sg:m1:perf:nagl	wypowiadałem-v
@@ -12267,7 +12267,7 @@ Komisja	subst:sg:nom:f	komisja-n
 Europejska	adj:sg:nom:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2039:2" video="https://media.dipintra.it/?id=2039&start=00.16&end=00.24&collection=eptic3">
+<s id="2039:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.00.16&end=00.00.24">
 Zwracałem	subst:sg:inst:m3	Zwracałem-n
 wszakże	conj	wszakże-c
 uwagę	subst:sg:acc:f	uwaga-n
@@ -12288,7 +12288,7 @@ zakresie	subst:sg:loc:m3	zakres-n
 gospodarki	subst:sg:gen:f	gospodarka-n
 .	interp	.-x
 </s>
-<s id="2039:3" video="https://media.dipintra.it/?id=2039&start=00.24&end=00.33&collection=eptic3">
+<s id="2039:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.00.24&end=00.00.33">
 W	prep:loc:nwok	w-i
 wielu	num:pl:loc:m3:congr	wiele-x
 sektorach	subst:pl:loc:m3	sektor-n
@@ -12310,7 +12310,7 @@ Unią	subst:sg:inst:f	unia-n
 Europejską	adj:sg:inst:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2039:4" video="https://media.dipintra.it/?id=2039&start=00.33&end=00.48&collection=eptic3">
+<s id="2039:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.00.33&end=00.00.48">
 Niestety	qub	niestety-x
 ,	interp	"-x
 ehm	FPAUSE	ehm
@@ -12340,7 +12340,7 @@ Komisję	subst:sg:acc:f	komisja-n
 Europejską	adj:sg:acc:f:pos	europejski-j
 .	interp	.-x
 </s>
-<s id="2039:5" video="https://media.dipintra.it/?id=2039&start=00.48&end=01.00&collection=eptic3">
+<s id="2039:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.00.48&end=00.01.00">
 I	conj	i-c
 tak	adv:pos	tak-a
 dowiadujemy	fin:pl:pri:imperf	dowiadywać-v
@@ -12376,7 +12376,7 @@ Ameryki	subst:sg:gen:f	Ameryka-n
 Południowej	adj:sg:gen:f:pos	południowy-j
 .	interp	.-x
 </s>
-<s id="2039:6" video="https://media.dipintra.it/?id=2039&start=01.00&end=01.14&collection=eptic3">
+<s id="2039:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.01.00&end=00.01.14">
 Ten	adj:sg:nom:m3:pos	ten-j
 fakt	subst:sg:nom:m3	fakt-n
 wymaga	fin:sg:ter:imperf	wymagać-v
@@ -12395,7 +12395,7 @@ i	conj	i-c
 wizji	subst:sg:gen:f	wizja-n
 .	interp	.-x
 </s>
-<s id="2039:7" video="https://media.dipintra.it/?id=2039&start=01.14&end=01.14&collection=eptic3">
+<s id="2039:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2039.mp4&start=00.01.14&end=00.01.14">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 .	interp	.-x
 </s>
@@ -12407,7 +12407,7 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="196" duration="short" durations="113.0" speed="slow" speedwm="104.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2040:1" video="https://media.dipintra.it/?id=2040&start=00.00&end=00.03&collection=eptic3">
+<s id="2040:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.00&end=00.00.03">
 Pani	subst:sg:nom:f	pani-n
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n
 ,	interp	"-x
@@ -12415,7 +12415,7 @@ szanowni	adj:pl:nom:m1:pos	szanowny-j
 państwo	subst:pl:nom:m1	państwo-n
 !	interp	!-x
 </s>
-<s id="2040:2" video="https://media.dipintra.it/?id=2040&start=00.03&end=00.17&collection=eptic3">
+<s id="2040:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.03&end=00.00.17">
 Cztery	num:pl:acc:m3:congr	cztery-x
 lata	subst:pl:acc:m3	rok-n
 przed	prep:inst:nwok	przed-i
@@ -12436,14 +12436,14 @@ jest	fin:sg:ter:imperf	być-v
 niepokojąca	adj:sg:nom:f:pos	niepokojący-j
 .	interp	.-x
 </s>
-<s id="2040:3" video="https://media.dipintra.it/?id=2040&start=00.17&end=00.19&collection=eptic3">
+<s id="2040:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.17&end=00.00.19">
 Gruźlica	subst:sg:nom:f	gruźlica-n
 jest	fin:sg:ter:imperf	być-v
 chorobą	subst:sg:inst:f	choroba-n
 uleczalną	adj:sg:acc:f:pos	uleczalny-j
 .	interp	.-x
 </s>
-<s id="2040:4" video="https://media.dipintra.it/?id=2040&start=00.19&end=00.32&collection=eptic3">
+<s id="2040:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.19&end=00.00.32">
 Niestety	qub	niestety-x
 w	prep:loc:nwok	w-i
 krajach	subst:pl:loc:m3	kraj-n
@@ -12464,7 +12464,7 @@ poważny	adj:sg:nom:m3:pos	poważny-j
 problem	subst:sg:nom:m3	problem-n
 .	interp	.-x
 </s>
-<s id="2040:5" video="https://media.dipintra.it/?id=2040&start=00.32&end=00.40&collection=eptic3">
+<s id="2040:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.32&end=00.00.40">
 Statystycznie	adv:pos	statystycznie-a
 jedna	adj:sg:nom:f:pos	jeden-j
 na	prep:acc	na-i
@@ -12477,7 +12477,7 @@ na	prep:acc	na-i
 gruźlicę	subst:sg:acc:f	gruźlica-n
 .	interp	.-x
 </s>
-<s id="2040:6" video="https://media.dipintra.it/?id=2040&start=00.40&end=00.52&collection=eptic3">
+<s id="2040:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.40&end=00.00.52">
 Ubogie	adj:pl:nom:m3:pos	ubogi-j
 regiony	subst:pl:nom:m3	region-n
 świata	subst:sg:gen:m3	świat-n
@@ -12504,7 +12504,7 @@ także	qub	także-x
 stres	subst:sg:nom:m3	stres-n
 .	interp	.-x
 </s>
-<s id="2040:7" video="https://media.dipintra.it/?id=2040&start=00.52&end=01.00&collection=eptic3">
+<s id="2040:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.00.52&end=00.01.00">
 W	prep:loc:nwok	w-i
 wielu	num:pl:loc:m3:congr	wiele-x
 krajach	subst:pl:loc:m3	kraj-n
@@ -12526,7 +12526,7 @@ i	conj	i-c
 gruźlicy	subst:sg:dat:f	gruźlica-n
 .	interp	.-x
 </s>
-<s id="2040:8" video="https://media.dipintra.it/?id=2040&start=01.00&end=01.06&collection=eptic3">
+<s id="2040:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.00&end=00.01.06">
 Wynika	fin:sg:ter:imperf	wynikać-v
 to	subst:sg:nom:n	to-n
 z	prep:gen:nwok	z-i
@@ -12547,7 +12547,7 @@ na	prep:acc	na-i
 zdrowie	subst:sg:acc:n	zdrowie-n
 .	interp	.-x
 </s>
-<s id="2040:9" video="https://media.dipintra.it/?id=2040&start=01.06&end=01.16&collection=eptic3">
+<s id="2040:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.06&end=00.01.16">
 Ponadto	qub	ponadto-x
 system	subst:sg:nom:m3	system-n
 opieki	subst:sg:gen:f	opieka-n
@@ -12567,7 +12567,7 @@ tych	adj:pl:gen:f:pos	ten-j
 chorób	subst:pl:gen:f	choroba-n
 .	interp	.-x
 </s>
-<s id="2040:10" video="https://media.dipintra.it/?id=2040&start=01.16&end=01.21&collection=eptic3">
+<s id="2040:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.16&end=00.01.21">
 Dlatego	adv	dlatego-a
 w	prep:loc:nwok	w-i
 krajach	subst:pl:loc:m3	kraj-n
@@ -12583,7 +12583,7 @@ terenach	subst:pl:loc:m3	teren-n
 wiejskich	adj:pl:loc:m3:pos	wiejski-j
 .	interp	.-x
 </s>
-<s id="2040:11" video="https://media.dipintra.it/?id=2040&start=01.21&end=01.31&collection=eptic3">
+<s id="2040:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.21&end=00.01.31">
 Kraje	subst:pl:nom:m3	kraj-n
 rozwinięte	adj:pl:nom:f:pos	rozwinięty-j
 wydają	fin:pl:ter:imperf	wydawać-v
@@ -12608,7 +12608,7 @@ połowę	subst:sg:acc:f	połowa-n
 mniejszy	adj:sg:nom:m2:com	mały-j
 .	interp	.-x
 </s>
-<s id="2040:12" video="https://media.dipintra.it/?id=2040&start=01.31&end=01.39&collection=eptic3">
+<s id="2040:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.31&end=00.01.39">
 Dlatego	adv	dlatego-a
 nie	qub	nie-x
 da	fin:sg:ter:perf	dać-v
@@ -12634,7 +12634,7 @@ poseł	subst:sg:nom:m1	poseł-n
 Goerens	subst:sg:nom:m1	Goerens-n
 .	interp	.-x
 </s>
-<s id="2040:13" video="https://media.dipintra.it/?id=2040&start=01.39&end=01.58&collection=eptic3">
+<s id="2040:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.39&end=00.01.58">
 Poza	prep:inst	poza-i
 tym	subst:sg:inst:n	to-n
 gruźlica	subst:sg:nom:f	gruźlica-n
@@ -12666,7 +12666,7 @@ ehm	FPAUSE	ehm
 ekonomiczne	adj:pl:nom:m3:pos	ekonomiczny-j
 .	interp	.-x
 </s>
-<s id="2040:14" video="https://media.dipintra.it/?id=2040&start=01.58&end=02.17&collection=eptic3">
+<s id="2040:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.01.58&end=00.02.17">
 Te	adj:pl:nom:m3:pos	ten-j
 wszystkie	adj:pl:nom:m3:pos	wszystek-j
 fakty	subst:pl:nom:m3	fakt-n
@@ -12696,7 +12696,7 @@ bardziej	adv:com	bardzo-a
 dostępna	adj:sg:nom:f:pos	dostępny-j
 .	interp	.-x
 </s>
-<s id="2040:15" video="https://media.dipintra.it/?id=2040&start=02.17&end=02.19&collection=eptic3">
+<s id="2040:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2040.mp4&start=00.02.17&end=00.02.19">
 Dziękuję	fin:sg:pri:imperf	dziękować-v
 bardzo	adv:pos	bardzo-a
 .	interp	.-x

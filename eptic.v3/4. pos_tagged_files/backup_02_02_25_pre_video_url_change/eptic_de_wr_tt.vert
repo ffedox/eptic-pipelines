@@ -2,13 +2,13 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="641:1&collection=eptic3">
+<s id="641:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="641:2&collection=eptic3">
+<s id="641:2">
 Einige	PRO.Indef.Attr.Nom.Pl.Masc	einige-p
 Kollegen	N.Reg.Nom.Pl.Masc	Kollege-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -40,7 +40,7 @@ setzen	VINF.Full	setzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:3&collection=eptic3">
+<s id="641:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 verstehe	VFIN.Full.1.Sg.Pres.Ind	verstehen-v
 ihre	PRO.Poss.Attr.Acc.Pl.Masc	ihre-p
@@ -66,7 +66,7 @@ Menschenrechtsfall	N.Reg.Acc.Sg.Masc	Menschenrechtsfall-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:4&collection=eptic3">
+<s id="641:4">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 kein	PRO.Indef.Attr.Nom.Sg.Masc	keine-p
@@ -95,7 +95,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:5&collection=eptic3">
+<s id="641:5">
 Außerdem	ADV	außerdem-a
 kommt	VFIN.Full.3.Sg.Pres.Ind	kommen-v
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
@@ -119,7 +119,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:6&collection=eptic3">
+<s id="641:6">
 Cesare	N.Name.Nom.Sg.Masc	Cesare-n
 Battisti	N.Name.Nom.Sg.Masc	Battisti-n
 befindet	VFIN.Full.3.Sg.Pres.Ind	befinden-v
@@ -129,7 +129,7 @@ Gefängnis	N.Reg.Dat.Sg.Neut	Gefängnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:7&collection=eptic3">
+<s id="641:7">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 wartet	VFIN.Full.3.Sg.Pres.Ind	warten-v
 auf	APPR	auf-i
@@ -165,7 +165,7 @@ Sitzungsperiode	N.Reg.Acc.Sg.Fem	Sitzungsperiode-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:8&collection=eptic3">
+<s id="641:8">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 keinen	PRO.Indef.Attr.Acc.Sg.Masc	keine-p
@@ -186,7 +186,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:9&collection=eptic3">
+<s id="641:9">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 den	ART.Def.Dat.Pl.Fem	die-x
@@ -262,7 +262,7 @@ nutzen	VINF.Full	nutzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="641:10&collection=eptic3">
+<s id="641:10">
 Wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 das	ART.Def.Nom.Sg.Neut	die-x
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -297,7 +297,7 @@ reservieren	VINF.Full	reservieren-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="641:11&collection=eptic3">
+<s id="641:11">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Sie	PRO.Pers.Subst.3.Acc.*.*	sie-p
@@ -327,13 +327,13 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="642:1&collection=eptic3">
+<s id="642:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="642:2&collection=eptic3">
+<s id="642:2">
 Der	ART.Def.Nom.Sg.Masc	die-x
 jüngste	ADJA.Sup.Nom.Sg.Masc	jung-j
 Volksaufstand	N.Reg.Nom.Sg.Masc	Volksaufstand-n
@@ -350,11 +350,11 @@ Landes	N.Reg.Gen.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:3&collection=eptic3">
+<s id="642:3">
 Am	APPRART.Dat.Sg.Masc	an-i
 17.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="642:4&collection=eptic3">
+<s id="642:4">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 2010	CARD	[number]-m
 zündete	VFIN.Full.3.Sg.Past.Ind	zünden-v
@@ -390,7 +390,7 @@ verdiente	VFIN.Full.3.Sg.Past.Ind	verdienen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:5&collection=eptic3">
+<s id="642:5">
 Weniger	PRO.Indef.Attr.*.*.*	weniger-p
 als	CONJ.Comp	als-c
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -412,7 +412,7 @@ verließ	VFIN.Full.3.Sg.Past.Ind	verlassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:6&collection=eptic3">
+<s id="642:6">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Union	N.Reg.Nom.Sg.Fem	Union-n
@@ -431,7 +431,7 @@ verurteilt	VPP.Full.Psp	verurteilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:7&collection=eptic3">
+<s id="642:7">
 Während	CONJ.SubFin	während-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hier	ADV	hier-a
@@ -446,7 +446,7 @@ prekär	ADJD.Pos	prekär-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:8&collection=eptic3">
+<s id="642:8">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 immer	ADV	immer-a
@@ -459,7 +459,7 @@ Gewalt	N.Reg.Acc.Sg.Fem	Gewalt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:9&collection=eptic3">
+<s id="642:9">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 befindet	VFIN.Full.3.Sg.Pres.Ind	befinden-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -491,7 +491,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:10&collection=eptic3">
+<s id="642:10">
 Trotz	APPR	trotz-i
 einiger	PRO.Indef.Attr.Gen.Pl.Fem	einige-p
 Unsicherheiten	N.Reg.Gen.Pl.Fem	Unsicherheit-n
@@ -524,7 +524,7 @@ achtet	VFIN.Full.3.Sg.Pres.Ind	achten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:11&collection=eptic3">
+<s id="642:11">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wünscht	VFIN.Full.3.Sg.Pres.Ind	wünschen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -538,7 +538,7 @@ Wahlen	N.Reg.Nom.Pl.Fem	Wahl-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:12&collection=eptic3">
+<s id="642:12">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Menschen	N.Reg.Nom.Pl.Masc	Mensch-n
 wollen	VFIN.Mod.3.Pl.Pres.Ind	wollen-v
@@ -560,7 +560,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:13&collection=eptic3">
+<s id="642:13">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Achtung	N.Reg.Nom.Sg.Fem	Achtung-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -593,7 +593,7 @@ Richtung	N.Reg.Acc.Sg.Fem	Richtung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:14&collection=eptic3">
+<s id="642:14">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 natürlich	ADV	natürlich-a
@@ -603,7 +603,7 @@ Anfang	N.Reg.Nom.Sg.Masc	Anfang-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:15&collection=eptic3">
+<s id="642:15">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Union	N.Reg.Nom.Sg.Fem	Union-n
@@ -625,7 +625,7 @@ angemahnt	VPP.Full.Psp	anmahnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:16&collection=eptic3">
+<s id="642:16">
 Seit	APPR	seit-i
 Beginn	N.Reg.Dat.Sg.Masc	Beginn-n
 meiner	PRO.Poss.Attr.Gen.Sg.Fem	meine-p
@@ -684,7 +684,7 @@ Menschenrechte	N.Reg.Nom.Pl.Neut	Menschenrecht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:17&collection=eptic3">
+<s id="642:17">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -716,7 +716,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:18&collection=eptic3">
+<s id="642:18">
 Bei	APPR	bei-i
 der	ART.Def.Dat.Sg.Fem	die-x
 ersten	ADJA.Pos.Dat.Sg.Fem	erst-j
@@ -779,7 +779,7 @@ steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:19&collection=eptic3">
+<s id="642:19">
 Und	CONJ.Coord	und-c
 sollte	VFIN.Mod.3.Sg.Past.Subj	sollen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -831,7 +831,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:20&collection=eptic3">
+<s id="642:20">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
@@ -852,7 +852,7 @@ Gerechtigkeit	N.Reg.Dat.Sg.Fem	Gerechtigkeit-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="642:21&collection=eptic3">
+<s id="642:21">
 Wie	PROADV.Inter	wie-x
 Catherine	N.Name.Nom.Sg.Fem	Catherine-n
 Ashton	N.Name.Nom.Sg.Fem	Ashton-n
@@ -884,7 +884,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:22&collection=eptic3">
+<s id="642:22">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hoffen	VFIN.Full.1.Pl.Pres.Ind	hoffen-v
 <g/>
@@ -918,7 +918,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:23&collection=eptic3">
+<s id="642:23">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 bereit	ADJD.Pos	bereit-j
@@ -948,7 +948,7 @@ Demokratie	N.Reg.Dat.Sg.Fem	Demokratie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:24&collection=eptic3">
+<s id="642:24">
 Zudem	PROADV.Dem	zudem-x
 arbeiten	VFIN.Full.3.Pl.Pres.Ind	arbeiten-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -992,7 +992,7 @@ Justiz	N.Reg.Gen.Sg.Fem	Justiz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:25&collection=eptic3">
+<s id="642:25">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -1011,7 +1011,7 @@ beraten	VINF.Full	beraten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:26&collection=eptic3">
+<s id="642:26">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Nachbarschaftspolitik	N.Reg.Nom.Sg.Fem	Nachbarschaftspolitik-n
@@ -1056,7 +1056,7 @@ Wohlstands	N.Reg.Gen.Sg.Masc	Wohlstand-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:27&collection=eptic3">
+<s id="642:27">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -1084,7 +1084,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:28&collection=eptic3">
+<s id="642:28">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 mit	APPR	mit-i
@@ -1167,7 +1167,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:29&collection=eptic3">
+<s id="642:29">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 pflegen	VFIN.Full.1.Pl.Pres.Ind	pflegen-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -1189,7 +1189,7 @@ Geschäftswelt	N.Reg.Dat.Sg.Fem	Geschäftswelt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:30&collection=eptic3">
+<s id="642:30">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 mein	PRO.Poss.Attr.Nom.Sg.Neut	meine-p
@@ -1247,7 +1247,7 @@ stärken	VINF.Full	stärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="642:31&collection=eptic3">
+<s id="642:31">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 alles	PRO.Indef.Subst.Acc.Sg.Neut	alle-p
@@ -1279,13 +1279,13 @@ lassen	VINF.Full	lassen-v
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="646:1&collection=eptic3">
+<s id="646:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="646:2&collection=eptic3">
+<s id="646:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 den	ART.Def.Dat.Pl.Masc	die-x
@@ -1341,7 +1341,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:3&collection=eptic3">
+<s id="646:3">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Bürgerinnen	N.Reg.Nom.Pl.Fem	Bürgerin-n
 und	CONJ.Coord	und-c
@@ -1366,7 +1366,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:4&collection=eptic3">
+<s id="646:4">
 Einen	ART.Indef.Acc.Sg.Masc	eine-x
 solchen	PRO.Indef.Attr.Acc.Sg.Masc	solche-p
 Aufwand	N.Reg.Acc.Sg.Masc	Aufwand-n
@@ -1392,7 +1392,7 @@ erhalten	VINF.Full	erhalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:5&collection=eptic3">
+<s id="646:5">
 Regierungen	N.Reg.Nom.Pl.Fem	Regierung-n
 erhalten	VFIN.Full.3.Pl.Pres.Ind	erhalten-v
 ihre	PRO.Poss.Attr.Acc.Sg.Fem	ihre-p
@@ -1431,7 +1431,7 @@ unterbinden	VINF.Full	unterbinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:6&collection=eptic3">
+<s id="646:6">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 den	ART.Def.Acc.Sg.Masc	die-x
 Zugang	N.Reg.Acc.Sg.Masc	Zugang-n
@@ -1467,7 +1467,7 @@ wichtiger	ADJD.Comp	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:7&collection=eptic3">
+<s id="646:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 von	APPR	von-i
@@ -1517,7 +1517,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:8&collection=eptic3">
+<s id="646:8">
 In	APPR	in-i
 derselben	PRO.Dem.Attr.Dat.Sg.Fem	dieselbe-p
 Woche	N.Reg.Dat.Sg.Fem	Woche-n
@@ -1547,7 +1547,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:9&collection=eptic3">
+<s id="646:9">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -1576,14 +1576,14 @@ Rechte	N.Reg.Gen.Pl.Neut	Recht-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="646:10&collection=eptic3">
+<s id="646:10">
 (	SYM.Paren.Left	(-x
 <g/>
 Beifall	N.Reg.Nom.Sg.Masc	Beifall-n
 <g/>
 )	SYM.Paren.Right	)-x
 </s>
-<s id="646:11&collection=eptic3">
+<s id="646:11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Konfrontation	N.Reg.Nom.Sg.Fem	Konfrontation-n
 zwischen	APPR	zwischen-i
@@ -1611,7 +1611,7 @@ statt	PART.Verb	statt-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:12&collection=eptic3">
+<s id="646:12">
 Die	ART.Def.Nom.Sg.Fem	die-x
 tunesische	ADJA.Pos.Nom.Sg.Fem	tunesisch-j
 Regierung	N.Reg.Nom.Sg.Fem	Regierung-n
@@ -1648,7 +1648,7 @@ unterdrücken	VINF.Full	unterdrücken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:13&collection=eptic3">
+<s id="646:13">
 Repressive	ADJA.Pos.Nom.Pl.Neut	repressiv-j
 Regimes	N.Reg.Nom.Pl.Neut	Regime-n
 auf	APPR	auf-i
@@ -1670,7 +1670,7 @@ unterbinden	VINF.Full	unterbinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:14&collection=eptic3">
+<s id="646:14">
 Heute	ADV	heute-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 Martin-Luther-King-Tag	N.Name.Nom.Sg.*	Martin-Luther-King-Tag-n
@@ -1703,7 +1703,7 @@ bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:15&collection=eptic3">
+<s id="646:15">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 Füle	N.Reg.Nom.Pl.Neut	Füle-n
@@ -1717,7 +1717,7 @@ gekommen	VPP.Full.Psp	kommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:16&collection=eptic3">
+<s id="646:16">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Vereinigten	ADJA.Pos.Nom.Pl.Masc	vereinigt-j
 Staaten	N.Reg.Nom.Pl.Masc	Staat-n
@@ -1740,7 +1740,7 @@ eingebüßt	VPP.Full.Psp	einbüßen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:17&collection=eptic3">
+<s id="646:17">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -1769,7 +1769,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="646:18&collection=eptic3">
+<s id="646:18">
 Aber	CONJ.Coord	aber-c
 die	ART.Def.Nom.Sg.Fem	die-x
 junge	ADJA.Pos.Nom.Sg.Fem	jung-j
@@ -1840,13 +1840,13 @@ Internetfreiheiten	N.Reg.Nom.Pl.Fem	Internetfreiheit-n
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="648:1&collection=eptic3">
+<s id="648:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="648:2&collection=eptic3">
+<s id="648:2">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Aufstand	N.Reg.Nom.Sg.Masc	Aufstand-n
 in	APPR	in-i
@@ -1872,7 +1872,7 @@ Stagnation	N.Reg.Acc.Sg.Fem	Stagnation-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:3&collection=eptic3">
+<s id="648:3">
 Die	ART.Def.Nom.Sg.Fem	die-x
 schamlose	ADJA.Pos.Nom.Sg.Fem	schamlos-j
 Korruption	N.Reg.Nom.Sg.Fem	Korruption-n
@@ -1903,7 +1903,7 @@ Bevölkerung	N.Reg.Dat.Sg.Fem	Bevölkerung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:4&collection=eptic3">
+<s id="648:4">
 Der	ART.Def.Nom.Sg.Masc	die-x
 ehemalige	ADJA.Pos.Nom.Sg.Masc	ehemalig-j
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
@@ -1967,7 +1967,7 @@ sei	VFIN.Aux.3.Sg.Pres.Subj	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:5&collection=eptic3">
+<s id="648:5">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 auf	APPR	auf-i
@@ -1987,7 +1987,7 @@ Landes	N.Reg.Gen.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:6&collection=eptic3">
+<s id="648:6">
 Beispielsweise	ADV	beispielsweise-a
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 Polygamie	N.Reg.Nom.Sg.Fem	Polygamie-n
@@ -2009,7 +2009,7 @@ gefördert	VPP.Full.Psp	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:7&collection=eptic3">
+<s id="648:7">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 es	PRO.Pers.Subst.3.Acc.Sg.Neut	sie-p
@@ -2039,7 +2039,7 @@ widersetzen	VINF.Full	widersetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:8&collection=eptic3">
+<s id="648:8">
 Daher	PROADV.Dem	daher-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -2056,7 +2056,7 @@ Tunesiens	N.Name.Gen.Sg.Neut	Tunesien-n
 d.	PRO.Dem.Subst.Nom.Sg.Neut	d.-p
 h.	VFIN.Full.3.Sg.Pres.Ind	h.-v
 </s>
-<s id="648:9&collection=eptic3">
+<s id="648:9">
 die	ART.Def.Nom.Pl.Masc	die-x
 neuen	ADJA.Pos.Nom.Pl.Masc	neu-j
 Führer	N.Reg.Nom.Pl.Masc	Führer-n
@@ -2114,7 +2114,7 @@ Außenpolitik	N.Reg.Gen.Sg.Fem	Außenpolitik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:10&collection=eptic3">
+<s id="648:10">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -2149,7 +2149,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:11&collection=eptic3">
+<s id="648:11">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p
@@ -2179,7 +2179,7 @@ stärken	VINF.Full	stärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:12&collection=eptic3">
+<s id="648:12">
 Derweil	ADV	derweil-a
 fordert	VFIN.Full.3.Sg.Pres.Ind	fordern-v
 meine	PRO.Poss.Attr.Nom.Sg.Fem	meine-p
@@ -2249,7 +2249,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:13&collection=eptic3">
+<s id="648:13">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 beglückwünsche	VFIN.Full.1.Sg.Pres.Ind	beglückwünschen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -2266,7 +2266,7 @@ Republik	N.Reg.Gen.Sg.Fem	Republik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="648:14&collection=eptic3">
+<s id="648:14">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -2317,13 +2317,13 @@ leisten	VINF.Full	leisten-v
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="647:1&collection=eptic3">
+<s id="647:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="647:2&collection=eptic3">
+<s id="647:2">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 zu	APPR	zu-i
@@ -2357,7 +2357,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:3&collection=eptic3">
+<s id="647:3">
 Kein	PRO.Indef.Attr.Nom.Sg.Masc	keine-p
 Demokrat	N.Reg.Nom.Sg.Masc	Demokrat-n
 würde	VFIN.Aux.3.Sg.Past.Subj	werden-v
@@ -2366,7 +2366,7 @@ widersprechen	VINF.Full	widersprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:4&collection=eptic3">
+<s id="647:4">
 Menschen	N.Reg.Nom.Pl.Masc	Mensch-n
 lassen	VFIN.Full.3.Pl.Pres.Ind	lassen-v
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -2396,7 +2396,7 @@ rebellieren	VINF.Full	rebellieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:5&collection=eptic3">
+<s id="647:5">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 bei	APPR	bei-i
@@ -2428,7 +2428,7 @@ ausgehen	VFIN.Full.3.Pl.Pres.Ind	ausgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:6&collection=eptic3">
+<s id="647:6">
 Gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 Parallelen	N.Reg.Acc.Pl.Fem	Parallele-n
@@ -2460,7 +2460,7 @@ können	VFIN.Mod.3.Pl.Pres.Ind	können-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="647:7&collection=eptic3">
+<s id="647:7">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -2471,7 +2471,7 @@ geführt	VPP.Full.Psp	führen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:8&collection=eptic3">
+<s id="647:8">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -2491,7 +2491,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:9&collection=eptic3">
+<s id="647:9">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Jugendarbeitslosigkeit	N.Reg.Nom.Sg.Fem	Jugendarbeitslosigkeit-n
 in	APPR	in-i
@@ -2513,7 +2513,7 @@ EU-Politik	N.Reg.Gen.Sg.Fem	EU-Politik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:10&collection=eptic3">
+<s id="647:10">
 In	APPR	in-i
 Griechenland	N.Name.Dat.Sg.Neut	Griechenland-n
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -2535,7 +2535,7 @@ Währung	N.Reg.Dat.Sg.Fem	Währung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:11&collection=eptic3">
+<s id="647:11">
 Länder	N.Reg.Nom.Pl.Neut	Land-n
 wie	CONJ.Comp	wie-c
 Spanien	N.Name.Nom.Sg.Neut	Spanien-n
@@ -2564,7 +2564,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:12&collection=eptic3">
+<s id="647:12">
 Glauben	VFIN.Full.3.Pl.Pres.Ind	glauben-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 bloß	ADV	bloß-a
@@ -2581,7 +2581,7 @@ passieren	VINF.Full	passieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:13&collection=eptic3">
+<s id="647:13">
 Wenn	CONJ.SubFin	wenn-c
 Regierungen	N.Reg.Nom.Pl.Fem	Regierung-n
 zum	APPRART.Dat.Sg.Masc	zu-i
@@ -2603,7 +2603,7 @@ rebellieren	VINF.Full	rebellieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="647:14&collection=eptic3">
+<s id="647:14">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 stimme	VFIN.Full.1.Sg.Pres.Ind	stimmen-v
 dem	PRO.Dem.Subst.Dat.Sg.Neut	die-p
@@ -2649,13 +2649,13 @@ Europa	N.Name.Dat.Sg.Neut	Europa-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="649:1&collection=eptic3">
+<s id="649:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="649:2&collection=eptic3">
+<s id="649:2">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -2692,7 +2692,7 @@ beginnen	VINF.Full	beginnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:3&collection=eptic3">
+<s id="649:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 zunächst	ADV	zunächst-a
@@ -2729,7 +2729,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:4&collection=eptic3">
+<s id="649:4">
 Außerdem	PROADV.Dem	außerdem-x
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -2758,7 +2758,7 @@ Arbeit	N.Reg.Acc.Sg.Fem	Arbeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:5&collection=eptic3">
+<s id="649:5">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bereits	ADV	bereits-a
@@ -2793,7 +2793,7 @@ Fragezeichen	N.Reg.Dat.Sg.Neut	Fragezeichen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:6&collection=eptic3">
+<s id="649:6">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -2819,7 +2819,7 @@ abzubauen	VINF.Full.zu	abbauen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:7&collection=eptic3">
+<s id="649:7">
 Wie	PROADV.Inter	wie-x
 Mario	N.Name.Nom.Sg.Masc	Mario-n
 Monti	N.Name.Nom.Sg.Masc	Monti-n
@@ -2884,7 +2884,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:8&collection=eptic3">
+<s id="649:8">
 Mit	APPR	mit-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Vorschlag	N.Reg.Dat.Sg.Masc	Vorschlag-n
@@ -2944,7 +2944,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:9&collection=eptic3">
+<s id="649:9">
 Derzeit	ADV	derzeit-a
 steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -2980,7 +2980,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:10&collection=eptic3">
+<s id="649:10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 niemals	ADV	niemals-a
@@ -3030,7 +3030,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:11&collection=eptic3">
+<s id="649:11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Bauwirtschaft	N.Reg.Nom.Sg.Fem	Bauwirtschaft-n
 trägt	VFIN.Full.3.Sg.Pres.Ind	tragen-v
@@ -3049,7 +3049,7 @@ Anteil	N.Reg.Acc.Sg.Masc	Anteil-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:12&collection=eptic3">
+<s id="649:12">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 außerdem	PROADV.Dem	außerdem-x
@@ -3068,7 +3068,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:13&collection=eptic3">
+<s id="649:13">
 Nehmen	VFIN.Full.3.Pl.Pres.Ind	nehmen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 als	APPR	als-i
@@ -3100,7 +3100,7 @@ Unfall	N.Reg.Acc.Sg.Masc	Unfall-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:14&collection=eptic3">
+<s id="649:14">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Sicherheit	N.Reg.Nom.Sg.Fem	Sicherheit-n
 und	CONJ.Coord	und-c
@@ -3140,7 +3140,7 @@ findet	VFIN.Full.3.Sg.Pres.Ind	finden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:15&collection=eptic3">
+<s id="649:15">
 Unter	APPR	unter-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Gesichtspunkt	N.Reg.Dat.Sg.Masc	Gesichtspunkt-n
@@ -3233,7 +3233,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:16&collection=eptic3">
+<s id="649:16">
 Die	ART.Def.Nom.Sg.Fem	die-x
 ordnungsgemäße	ADJA.Pos.Nom.Sg.Fem	ordnungsgemäß-j
 Kennzeichnung	N.Reg.Nom.Sg.Fem	Kennzeichnung-n
@@ -3258,7 +3258,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:17&collection=eptic3">
+<s id="649:17">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 stolz	ADJD.Pos	stolz-j
@@ -3278,7 +3278,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:18&collection=eptic3">
+<s id="649:18">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Gesundheit	N.Reg.Nom.Sg.Fem	Gesundheit-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -3310,7 +3310,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:19&collection=eptic3">
+<s id="649:19">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -3325,7 +3325,7 @@ sagen	VINF.Full	sagen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:20&collection=eptic3">
+<s id="649:20">
 Im	APPRART.Dat.Sg.Neut	in-i
 Parlament	N.Reg.Dat.Sg.Neut	Parlament-n
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
@@ -3354,7 +3354,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:21&collection=eptic3">
+<s id="649:21">
 Daher	PROADV.Dem	daher-x
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -3412,7 +3412,7 @@ verbessern	VINF.Full	verbessern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:22&collection=eptic3">
+<s id="649:22">
 Zu	APPR	zu-i
 der	ART.Def.Dat.Sg.Fem	die-x
 davon	PROADV.Dem	davon-x
@@ -3468,7 +3468,7 @@ hatten	VFIN.Aux.1.Pl.Past.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:23&collection=eptic3">
+<s id="649:23">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Transparenz	N.Reg.Nom.Sg.Fem	Transparenz-n
 der	ART.Def.Gen.Pl.Neut	die-x
@@ -3502,7 +3502,7 @@ bestehen	VINF.Full	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:24&collection=eptic3">
+<s id="649:24">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 den	ART.Def.Dat.Pl.Neut	die-x
@@ -3531,7 +3531,7 @@ Nutzen	N.Reg.Dat.Sg.Masc	Nutzen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:25&collection=eptic3">
+<s id="649:25">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 in	APPR	in-i
@@ -3546,7 +3546,7 @@ streben	VFIN.Full.3.Pl.Pres.Ind	streben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:26&collection=eptic3">
+<s id="649:26">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 zusammen	ADV	zusammen-a
@@ -3585,7 +3585,7 @@ geändert	VPP.Full.Psp	ändern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:27&collection=eptic3">
+<s id="649:27">
 In	APPR	in-i
 einem	ART.Indef.Dat.Sg.Neut	eine-x
 Gewerbe	N.Reg.Dat.Sg.Neut	Gewerbe-n
@@ -3626,7 +3626,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="649:28&collection=eptic3">
+<s id="649:28">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Auswirkungen	N.Reg.Nom.Pl.Fem	Auswirkung-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -3689,13 +3689,13 @@ sein	VINF.Aux	sein-v
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="650:1&collection=eptic3">
+<s id="650:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="650:2&collection=eptic3">
+<s id="650:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
@@ -3708,7 +3708,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:3&collection=eptic3">
+<s id="650:3">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -3717,7 +3717,7 @@ Weg	N.Reg.Nom.Sg.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:4&collection=eptic3">
+<s id="650:4">
 In	APPR	in-i
 Europa	N.Name.Dat.Sg.Neut	Europa-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -3736,7 +3736,7 @@ beschäftigt	VPP.Full.Psp	beschäftigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:5&collection=eptic3">
+<s id="650:5">
 Darüber	PROADV.Dem	darüber-x
 hinaus	APZR	hinaus-x
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -3757,14 +3757,14 @@ mehr	PRO.Indef.Attr.*.*.*	mehr-p
 als	CONJ.Comp	als-c
 65.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="650:6&collection=eptic3">
+<s id="650:6">
 000	CARD	[number]-m
 einzelne	ADJA.Pos.Nom.Pl.Neut	einzeln-j
 Unternehmen	N.Reg.Nom.Pl.Neut	Unternehmen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:7&collection=eptic3">
+<s id="650:7">
 Ohne	APPR	ohne-i
 Frage	N.Reg.Acc.Sg.Fem	Frage-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -3803,7 +3803,7 @@ Wirtschaftskrise	N.Reg.Dat.Sg.Fem	Wirtschaftskrise-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:8&collection=eptic3">
+<s id="650:8">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 enthält	VFIN.Full.3.Sg.Pres.Ind	enthalten-v
@@ -3829,7 +3829,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 so	ADV	so-a
 z.	APPRART.Dat.Sg.Neut	z.-i
 </s>
-<s id="650:9&collection=eptic3">
+<s id="650:9">
 B.	SYM.Other.XY	B.-x
 die	ART.Def.Nom.Sg.Fem	die-x
 Natur	N.Reg.Nom.Sg.Fem	Natur-n
@@ -3838,7 +3838,7 @@ EU-Gesetzgebung	N.Reg.Gen.Sg.Fem	EU-Gesetzgebung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:10&collection=eptic3">
+<s id="650:10">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -3854,7 +3854,7 @@ dar	PART.Verb	dar-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:11&collection=eptic3">
+<s id="650:11">
 Zentrale	ADJA.Pos.Nom.Pl.Fem	zentral-j
 Fragen	N.Reg.Nom.Pl.Fem	Frage-n
 umfassten	VFIN.Full.3.Pl.Past.Ind	umfassen-v
@@ -3894,7 +3894,7 @@ Unternehmen	N.Reg.Nom.Pl.Neut	Unternehmen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:12&collection=eptic3">
+<s id="650:12">
 Mit	APPR	mit-i
 Blick	N.Reg.Dat.Sg.Masc	Blick-n
 auf	APPR	auf-i
@@ -3925,7 +3925,7 @@ ausschließt	VFIN.Full.3.Sg.Pres.Ind	ausschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="650:13&collection=eptic3">
+<s id="650:13">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -4000,13 +4000,13 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="651:1&collection=eptic3">
+<s id="651:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="651:2&collection=eptic3">
+<s id="651:2">
 Als	APPR	als-i
 Vorsitzender	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 des	ART.Def.Gen.Sg.Masc	die-x
@@ -4036,7 +4036,7 @@ anschließen	VINF.Full	anschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:3&collection=eptic3">
+<s id="651:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -4072,7 +4072,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:4&collection=eptic3">
+<s id="651:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 anmerken	VINF.Full	anmerken-v
@@ -4109,7 +4109,7 @@ konnten	VFIN.Mod.3.Pl.Past.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:5&collection=eptic3">
+<s id="651:5">
 Wie	PROADV.Inter	wie-x
 insbesondere	ADV	insbesondere-a
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
@@ -4125,7 +4125,7 @@ Unstimmigkeiten	N.Reg.Acc.Pl.Fem	Unstimmigkeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:6&collection=eptic3">
+<s id="651:6">
 Uns	PRO.Pers.Subst.1.Dat.Pl.*	sie-p
 liegt	VFIN.Full.3.Sg.Pres.Ind	liegen-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -4149,7 +4149,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:7&collection=eptic3">
+<s id="651:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 zwei	CARD	zwei-m
@@ -4166,7 +4166,7 @@ machen	VINF.Full	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:8&collection=eptic3">
+<s id="651:8">
 Die	ART.Def.Nom.Sg.Fem	die-x
 erste	ADJA.Pos.Nom.Sg.Fem	erst-j
 besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
@@ -4207,7 +4207,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:9&collection=eptic3">
+<s id="651:9">
 Wie	PROADV.Inter	wie-x
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 aufgezeigt	ADJD.Pos	aufgezeigt-j
@@ -4242,7 +4242,7 @@ weiterzuverfolgen	VINF.Full.zu	weiterverfolgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="651:10&collection=eptic3">
+<s id="651:10">
 Zweitens	ADV	zweitens-a
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -4311,13 +4311,13 @@ unterbinden	VINF.Full	unterbinden-v
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="652:1&collection=eptic3">
+<s id="652:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="652:2&collection=eptic3">
+<s id="652:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 danke	VFIN.Full.1.Sg.Pres.Ind	danken-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -4337,7 +4337,7 @@ Abend	N.Reg.Dat.Sg.Masc	Abend-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:3&collection=eptic3">
+<s id="652:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -4398,7 +4398,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:4&collection=eptic3">
+<s id="652:4">
 Unsere	PRO.Poss.Attr.Nom.Sg.Fem	unsre-p
 Errungenschaft	N.Reg.Nom.Sg.Fem	Errungenschaft-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -4430,7 +4430,7 @@ konnten	VFIN.Mod.3.Pl.Past.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:5&collection=eptic3">
+<s id="652:5">
 Dem	ART.Def.Dat.Sg.Neut	die-x
 Parlament	N.Reg.Dat.Sg.Neut	Parlament-n
 gelang	VFIN.Full.3.Sg.Past.Ind	gelingen-v
@@ -4466,7 +4466,7 @@ Leistung	N.Reg.Nom.Sg.Fem	Leistung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:6&collection=eptic3">
+<s id="652:6">
 Im	APPRART.Dat.Sg.Masc	in-i
 Verlauf	N.Reg.Dat.Sg.Masc	Verlauf-n
 dieser	PRO.Dem.Attr.Gen.Sg.Fem	diese-p
@@ -4480,7 +4480,7 @@ Sinn	N.Reg.Acc.Sg.Masc	Sinn-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:7&collection=eptic3">
+<s id="652:7">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bausektor	N.Reg.Nom.Sg.Masc	Bausektor-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -4568,7 +4568,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="652:8&collection=eptic3">
+<s id="652:8">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 danke	VFIN.Full.1.Sg.Pres.Ind	danken-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -4633,13 +4633,13 @@ werde	VFIN.Aux.3.Sg.Pres.Subj	werden-v
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="653:1&collection=eptic3">
+<s id="653:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="653:2&collection=eptic3">
+<s id="653:2">
 Wie	PROADV.Inter	wie-x
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 wissen	VFIN.Full.3.Pl.Pres.Ind	wissen-v
@@ -4662,7 +4662,7 @@ Deutschland	N.Name.Dat.Sg.Neut	Deutschland-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:3&collection=eptic3">
+<s id="653:3">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Dienste	N.Reg.Nom.Pl.Masc	Dienst-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -4684,7 +4684,7 @@ zusammen	PART.Verb	zusammen-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:4&collection=eptic3">
+<s id="653:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 bereits	ADV	bereits-a
@@ -4720,7 +4720,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:5&collection=eptic3">
+<s id="653:5">
 Aber	CONJ.Coord	aber-c
 lassen	VFIN.Full.3.Pl.Pres.Ind	lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -4751,7 +4751,7 @@ Behörden	N.Reg.Acc.Pl.Fem	Behörde-n
 am	APPRART.Dat.Sg.Masc	an-i
 22.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="653:6&collection=eptic3">
+<s id="653:6">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 2010	CARD	[number]-m
 benachrichtigte	VFIN.Full.3.Sg.Past.Ind	benachrichtigen-v
@@ -4788,7 +4788,7 @@ entspricht	VFIN.Full.3.Sg.Pres.Ind	entsprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:7&collection=eptic3">
+<s id="653:7">
 Zwischen	APPR	zwischen-i
 Mitte	N.Reg.*.Sg.Fem	Mitte-n
 November	N.Reg.*.Sg.Masc	November-n
@@ -4823,7 +4823,7 @@ herstellt	VFIN.Full.3.Sg.Pres.Ind	herstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:8&collection=eptic3">
+<s id="653:8">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Unternehmen	N.Reg.Nom.Sg.Neut	Unternehmen-n
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
@@ -4848,7 +4848,7 @@ statt	PART.Verb	statt-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:9&collection=eptic3">
+<s id="653:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 stellte	VFIN.Full.3.Sg.Past.Ind	stellen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -4877,7 +4877,7 @@ waren	VFIN.Aux.3.Pl.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:10&collection=eptic3">
+<s id="653:10">
 Die	ART.Def.Nom.Pl.*	die-x
 anderen	PRO.Indef.Subst.Nom.Pl.*	andere-p
 drei	CARD	drei-m
@@ -4897,7 +4897,7 @@ verschmutzt	ADJD.Pos	verschmutzt-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:11&collection=eptic3">
+<s id="653:11">
 Bis	CONJ.SubFin	bis-c
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 jedoch	ADV	jedoch-a
@@ -4921,7 +4921,7 @@ behandelt	VPP.Full.Psp	behandeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:12&collection=eptic3">
+<s id="653:12">
 Insgesamt	ADV	insgesamt-a
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 fast	ADV	fast-a
@@ -4940,7 +4940,7 @@ geliefert	VPP.Full.Psp	liefern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:13&collection=eptic3">
+<s id="653:13">
 Außerhalb	APPR	außerhalb-i
 von	APPR	von-i
 Deutschland	N.Name.Dat.Sg.Neut	Deutschland-n
@@ -4953,7 +4953,7 @@ statt	PART.Verb	statt-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:14&collection=eptic3">
+<s id="653:14">
 Zwischen	APPR	zwischen-i
 100	CARD	[number]-m
 000	CARD	[number]-m
@@ -4989,7 +4989,7 @@ geliefert	VPP.Full.Psp	liefern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:15&collection=eptic3">
+<s id="653:15">
 Als	APPR	als-i
 reine	ADJA.Pos.Acc.Sg.Fem	rein-j
 Vorsichtsmaßnahme	N.Reg.Acc.Sg.Fem	Vorsichtsmaßnahme-n
@@ -5031,7 +5031,7 @@ Hasen	N.Reg.Dat.Pl.Masc	Hase-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:16&collection=eptic3">
+<s id="653:16">
 Einige	PRO.Indef.Attr.Nom.Pl.Fem	einige-p
 Lieferungen	N.Reg.Nom.Pl.Fem	Lieferung-n
 möglicherweise	ADV	möglicherweise-a
@@ -5050,7 +5050,7 @@ Dänemark	N.Name.Dat.Sg.Neut	Dänemark-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:17&collection=eptic3">
+<s id="653:17">
 Tierische	ADJA.Pos.Acc.Pl.Neut	tierisch-j
 Lebensmittel	N.Reg.Acc.Pl.Neut	Lebensmittel-n
 aus	APPR	aus-i
@@ -5076,7 +5076,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:18&collection=eptic3">
+<s id="653:18">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 nur	ADV	nur-a
@@ -5109,7 +5109,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:19&collection=eptic3">
+<s id="653:19">
 Derzeit	ADV	derzeit-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 von	APPR	von-i
@@ -5138,7 +5138,7 @@ blockiert	VPP.Full.Psp	blockieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:20&collection=eptic3">
+<s id="653:20">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 scheint	VFIN.Full.3.Sg.Pres.Ind	scheinen-v
 <g/>
@@ -5169,7 +5169,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:21&collection=eptic3">
+<s id="653:21">
 Schließlich	ADV	schließlich-a
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 Analyseergebnisse	N.Reg.Nom.Pl.Neut	Analyseergebnis-n
@@ -5184,7 +5184,7 @@ entsprechen	VFIN.Full.3.Pl.Pres.Ind	entsprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:22&collection=eptic3">
+<s id="653:22">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -5212,7 +5212,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:23&collection=eptic3">
+<s id="653:23">
 Zum	APPRART.Dat.Sg.Neut	zu-i
 Glück	N.Reg.Dat.Sg.Neut	Glück-n
 waren	VFIN.Aux.3.Pl.Past.Ind	sein-v
@@ -5258,7 +5258,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:24&collection=eptic3">
+<s id="653:24">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -5277,7 +5277,7 @@ helfen	VINF.Full	helfen-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="653:25&collection=eptic3">
+<s id="653:25">
 Meine	PRO.Poss.Attr.Nom.Pl.Masc	meine-p
 Dienste	N.Reg.Nom.Pl.Masc	Dienst-n
 standen	VFIN.Full.3.Pl.Past.Ind	stehen-v
@@ -5308,7 +5308,7 @@ weitergegeben	VPP.Full.Psp	weitergeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:26&collection=eptic3">
+<s id="653:26">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 standen	VFIN.Full.3.Pl.Past.Ind	stehen-v
 auch	ADV	auch-a
@@ -5334,7 +5334,7 @@ vermittelt	VPP.Full.Psp	vermitteln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:27&collection=eptic3">
+<s id="653:27">
 Darüber	PROADV.Dem	darüber-x
 hinaus	APZR	hinaus-x
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -5363,7 +5363,7 @@ erforschen	VINF.Full	erforschen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:28&collection=eptic3">
+<s id="653:28">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 persönlich	ADJD.Pos	persönlich-j
@@ -5386,7 +5386,7 @@ Aigner	N.Name.Nom.Sg.*	Aigner-n
 am	APPRART.Dat.Sg.Masc	an-i
 6.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="653:29&collection=eptic3">
+<s id="653:29">
 Januar	N.Reg.Nom.Sg.Masc	Januar-n
 kontaktiert	VPP.Full.Psp	kontaktieren-v
 <g/>
@@ -5417,7 +5417,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:30&collection=eptic3">
+<s id="653:30">
 Heute	ADV	heute-a
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -5490,7 +5490,7 @@ führte	VFIN.Full.3.Sg.Past.Ind	führen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:31&collection=eptic3">
+<s id="653:31">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 betrifft	VFIN.Full.3.Sg.Pres.Ind	betreffen-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -5504,7 +5504,7 @@ Lebensmittelsicherheit	N.Reg.Acc.Sg.Fem	Lebensmittelsicherheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:32&collection=eptic3">
+<s id="653:32">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -5541,7 +5541,7 @@ umzugehen	VINF.Full.zu	umgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:33&collection=eptic3">
+<s id="653:33">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -5569,7 +5569,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:34&collection=eptic3">
+<s id="653:34">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 jedoch	ADV	jedoch-a
@@ -5596,7 +5596,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:35&collection=eptic3">
+<s id="653:35">
 Aus	APPR	aus-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Grund	N.Reg.Dat.Sg.Masc	Grund-n
@@ -5642,7 +5642,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:36&collection=eptic3">
+<s id="653:36">
 Die	ART.Def.Nom.Pl.Fem	die-x
 deutschen	ADJA.Pos.Nom.Pl.Fem	deutsch-j
 Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
@@ -5656,7 +5656,7 @@ zugestimmt	VPP.Full.Psp	zustimmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:37&collection=eptic3">
+<s id="653:37">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -5677,7 +5677,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:38&collection=eptic3">
+<s id="653:38">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 Vorfall	N.Reg.Nom.Sg.Masc	Vorfall-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -5698,7 +5698,7 @@ Montag	N.Reg.Dat.Sg.Masc	Montag-n
 am	APPRART.Dat.Sg.Masc	an-i
 24.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="653:39&collection=eptic3">
+<s id="653:39">
 Januar	N.Reg.Nom.Sg.Masc	Januar-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -5709,7 +5709,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:40&collection=eptic3">
+<s id="653:40">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bereits	ADV	bereits-a
@@ -5732,7 +5732,7 @@ nach	PART.Verb	nach-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:41&collection=eptic3">
+<s id="653:41">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Vorfall	N.Reg.Nom.Sg.Masc	Vorfall-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -5768,7 +5768,7 @@ untermauern	VINF.Full	untermauern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:42&collection=eptic3">
+<s id="653:42">
 Um	CONJ.SubInf	um-c
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
 Frage	N.Reg.Acc.Sg.Fem	Frage-n
@@ -5827,7 +5827,7 @@ Futtermittelketten	N.Reg.Gen.Pl.Fem	Futtermittelkette-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="653:43&collection=eptic3">
+<s id="653:43">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 zuversichtlich	ADJD.Pos	zuversichtlich-j
@@ -5869,13 +5869,13 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="655:1&collection=eptic3">
+<s id="655:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="655:2&collection=eptic3">
+<s id="655:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 großes	ADJA.Pos.Acc.Sg.Neut	groß-j
@@ -5896,7 +5896,7 @@ befinden	VFIN.Full.3.Pl.Pres.Ind	befinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:3&collection=eptic3">
+<s id="655:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 vor	APPR	vor-i
@@ -5919,7 +5919,7 @@ durchmachten	VFIN.Full.1.Pl.Past.Ind	durchmachen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:4&collection=eptic3">
+<s id="655:4">
 Die	ART.Def.Nom.Pl.*	die-x
 Leute	N.Reg.Nom.Pl.*	Leute-n
 <g/>
@@ -5945,7 +5945,7 @@ waren	VFIN.Aux.3.Pl.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:5&collection=eptic3">
+<s id="655:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 <g/>
@@ -5977,7 +5977,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:6&collection=eptic3">
+<s id="655:6">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 fragen	VINF.Full	fragen-v
@@ -6008,7 +6008,7 @@ sagt	VFIN.Full.3.Sg.Pres.Ind	sagen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:7&collection=eptic3">
+<s id="655:7">
 Wenn	CONJ.SubFin	wenn-c
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 stimmt	VFIN.Full.3.Sg.Pres.Ind	stimmen-v
@@ -6023,7 +6023,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:8&collection=eptic3">
+<s id="655:8">
 Aber	CONJ.Coord	aber-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
@@ -6043,7 +6043,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:9&collection=eptic3">
+<s id="655:9">
 Verantwortlich	ADJD.Pos	verantwortlich-j
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 jene	PRO.Dem.Subst.Nom.Pl.*	jene-p
@@ -6060,7 +6060,7 @@ liefern	VINF.Full	liefern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:10&collection=eptic3">
+<s id="655:10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 gegen	APPR	gegen-i
@@ -6093,7 +6093,7 @@ herzustellen	VINF.Full.zu	herstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:11&collection=eptic3">
+<s id="655:11">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 kann	VFIN.Mod.1.Sg.Pres.Ind	können-v
 gut	ADJD.Pos	gut-j
@@ -6112,7 +6112,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:12&collection=eptic3">
+<s id="655:12">
 Wie	PROADV.Inter	wie-x
 jemand	PRO.Indef.Subst.Nom.Sg.Masc	jemand-p
 sagte	VFIN.Full.3.Sg.Past.Ind	sagen-v
@@ -6136,7 +6136,7 @@ geschieht	VFIN.Full.3.Sg.Pres.Ind	geschehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:13&collection=eptic3">
+<s id="655:13">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 uns	PRO.Pers.Subst.1.Acc.Pl.*	sie-p
@@ -6150,7 +6150,7 @@ vorbringen	VINF.Full	vorbringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="655:14&collection=eptic3">
+<s id="655:14">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 uns	PRO.Pers.Subst.1.Dat.Pl.*	sie-p
@@ -6172,7 +6172,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="656:1&collection=eptic3">
+<s id="656:1">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Dioxinkontaminierung	N.Reg.Nom.Sg.Fem	Dioxinkontaminierung-n
 scheint	VFIN.Full.3.Sg.Pres.Ind	scheinen-v
@@ -6221,7 +6221,7 @@ umzuwandeln	VINF.Full.zu	umwandeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:2&collection=eptic3">
+<s id="656:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Begeisterung	N.Reg.Nom.Sg.Fem	Begeisterung-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -6236,7 +6236,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:3&collection=eptic3">
+<s id="656:3">
 Meiner	PRO.Poss.Attr.Dat.Sg.Fem	meine-p
 Meinung	N.Reg.Dat.Sg.Fem	Meinung-n
 nach	APPO.Dat	nach-x
@@ -6267,7 +6267,7 @@ nicht	PART.Neg	nicht-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:4&collection=eptic3">
+<s id="656:4">
 Die	ART.Def.Nom.Pl.*	die-x
 Deutschen	N.Reg.Nom.Pl.*	Deutsche-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -6290,7 +6290,7 @@ Schritte	N.Reg.Acc.Pl.Masc	Schritt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:5&collection=eptic3">
+<s id="656:5">
 Im	APPRART.Dat.Sg.Neut	in-i
 Vereinigten	ADJA.Pos.Dat.Sg.Neut	vereinigt-j
 Königreich	N.Reg.Dat.Sg.Neut	Königreich-n
@@ -6309,7 +6309,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:6&collection=eptic3">
+<s id="656:6">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 deckt	VFIN.Full.3.Sg.Pres.Ind	decken-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -6342,7 +6342,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="656:7&collection=eptic3">
+<s id="656:7">
 Wenn	CONJ.SubFin	wenn-c
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 also	ADV	also-a
@@ -6381,13 +6381,13 @@ versorgen	VINF.Full	versorgen-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="657:1&collection=eptic3">
+<s id="657:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="657:2&collection=eptic3">
+<s id="657:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kontaminierung	N.Reg.Nom.Sg.Fem	Kontaminierung-n
 im	APPRART.Dat.Sg.Masc	in-i
@@ -6438,7 +6438,7 @@ auf	PART.Verb	auf-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="657:3&collection=eptic3">
+<s id="657:3">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 in	APPR	in-i
@@ -6490,7 +6490,7 @@ gelangte	VFIN.Full.3.Sg.Past.Ind	gelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="657:4&collection=eptic3">
+<s id="657:4">
 Rückverfolgbarkeit	N.Reg.Nom.Sg.Fem	Rückverfolgbarkeit-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 recht	ADV	recht-a
@@ -6550,7 +6550,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="657:5&collection=eptic3">
+<s id="657:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -6562,7 +6562,7 @@ stellen	VINF.Full	stellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="657:6&collection=eptic3">
+<s id="657:6">
 Erstens	ADV	erstens-a
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6598,7 +6598,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="657:7&collection=eptic3">
+<s id="657:7">
 Zweitens	ADV	zweitens-a
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6634,13 +6634,13 @@ gewährleisten	VINF.Full	gewährleisten-v
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="658:1&collection=eptic3">
+<s id="658:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="658:2&collection=eptic3">
+<s id="658:2">
 In	APPR	in-i
 Irland	N.Name.Dat.Sg.Neut	Irland-n
 hatten	VFIN.Aux.1.Pl.Past.Ind	haben-v
@@ -6656,7 +6656,7 @@ Problem	N.Reg.Acc.Sg.Neut	Problem-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:3&collection=eptic3">
+<s id="658:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 frage	VFIN.Full.1.Sg.Pres.Ind	fragen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -6682,7 +6682,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:4&collection=eptic3">
+<s id="658:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -6706,7 +6706,7 @@ Verbraucherschutz	N.Reg.Acc.Sg.Masc	Verbraucherschutz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:5&collection=eptic3">
+<s id="658:5">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.3.Pl.Pres.Ind	wollen-v
 Anleitung	N.Reg.Acc.Sg.Fem	Anleitung-n
@@ -6721,7 +6721,7 @@ Futtermittelhygiene	N.Reg.Acc.Pl.*	Futtermittelhygiene-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:6&collection=eptic3">
+<s id="658:6">
 Würden	VFIN.Aux.3.Pl.Past.Subj	werden-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -6742,7 +6742,7 @@ bitten	VFIN.Full.3.Pl.Pres.Ind	bitten-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="658:7&collection=eptic3">
+<s id="658:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 drei	CARD	drei-m
@@ -6752,7 +6752,7 @@ anzubringen	VINF.Full.zu	anbringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:8&collection=eptic3">
+<s id="658:8">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 ganz	ADV	ganz-a
@@ -6802,7 +6802,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:9&collection=eptic3">
+<s id="658:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 kein	PRO.Indef.Attr.Nom.Sg.Neut	keine-p
@@ -6810,7 +6810,7 @@ Hexenwerk	N.Reg.Nom.Sg.Neut	Hexenwerk-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:10&collection=eptic3">
+<s id="658:10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 brauchen	VFIN.Full.1.Pl.Pres.Ind	brauchen-v
 auch	ADV	auch-a
@@ -6848,7 +6848,7 @@ verdienen	VINF.Full	verdienen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:11&collection=eptic3">
+<s id="658:11">
 Bei	APPR	bei-i
 dem	ART.Def.Dat.Sg.Masc	die-x
 Einschnitt	N.Reg.Dat.Sg.Masc	Einschnitt-n
@@ -6864,7 +6864,7 @@ Wegen	N.Reg.Dat.Pl.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="658:12&collection=eptic3">
+<s id="658:12">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Problem	N.Reg.Nom.Sg.Neut	Problem-n
 besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
@@ -6894,13 +6894,13 @@ und	CONJ.Coord	und-c
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="659:1&collection=eptic3">
+<s id="659:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="659:2&collection=eptic3">
+<s id="659:2">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hatten	VFIN.Aux.1.Pl.Past.Ind	haben-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -6916,7 +6916,7 @@ diesen	PRO.Dem.Subst.Acc.Sg.Masc	diese-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:3&collection=eptic3">
+<s id="659:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hätte	VFIN.Aux.1.Sg.Past.Subj	haben-v
 gedacht	VPP.Full.Psp	denken|gedenken-v
@@ -6955,7 +6955,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:4&collection=eptic3">
+<s id="659:4">
 Dies	PRO.Dem.Subst.Acc.Sg.Neut	dies-p
 lässt	VFIN.Full.3.Sg.Pres.Ind	lassen-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -6967,7 +6967,7 @@ aufkommen	VINF.Full	aufkommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:5&collection=eptic3">
+<s id="659:5">
 Zunächst	ADV	zunächst-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -6990,7 +6990,7 @@ Beteiligte	N.Reg.Acc.Sg.Fem	Beteiligte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:6&collection=eptic3">
+<s id="659:6">
 Immer	ADV	immer-a
 leiden	VFIN.Full.3.Pl.Pres.Ind	leiden-v
 die	ART.Def.Nom.Pl.Masc	die-x
@@ -7010,7 +7010,7 @@ Industrie	N.Reg.Acc.Sg.Fem	Industrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:7&collection=eptic3">
+<s id="659:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 einigermaßen	ADV	einigermaßen-a
@@ -7050,7 +7050,7 @@ gab	VFIN.Full.3.Sg.Past.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="659:8&collection=eptic3">
+<s id="659:8">
 Dennoch	ADV	dennoch-a
 kommen	VFIN.Full.3.Pl.Pres.Ind	kommen-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -7105,13 +7105,13 @@ Aktion	N.Reg.Gen.Sg.Fem	Aktion-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="660:1&collection=eptic3">
+<s id="660:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="660:2&collection=eptic3">
+<s id="660:2">
 Die	ART.Def.Nom.Pl.Masc	die-x
 tropischen	ADJA.Pos.Nom.Pl.Masc	tropisch-j
 Regenwälder	N.Reg.Nom.Pl.Masc	Regenwald-n
@@ -7147,7 +7147,7 @@ anzugehen	VINF.Full.zu	angehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:3&collection=eptic3">
+<s id="660:3">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Wälder	N.Reg.Nom.Pl.Masc	Wald-n
 gehören	VFIN.Full.3.Pl.Pres.Ind	gehören-v
@@ -7185,7 +7185,7 @@ Kohlenstoff	N.Reg.Nom.Sg.Masc	Kohlenstoff-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:4&collection=eptic3">
+<s id="660:4">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Aufhalten	N.Reg.Nom.Sg.Neut	Aufhalten-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -7221,7 +7221,7 @@ tun	VINF.Full	tun-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:5&collection=eptic3">
+<s id="660:5">
 Diesen	PRO.Dem.Attr.Dat.Pl.Fem	diese-p
 zwei	CARD	zwei-m
 Ländern	N.Reg.Dat.Pl.Neut	Land-n
@@ -7246,7 +7246,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:6&collection=eptic3">
+<s id="660:6">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 jedoch	ADV	jedoch-a
@@ -7264,7 +7264,7 @@ durchzusetzen	VINF.Full.zu	durchsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:7&collection=eptic3">
+<s id="660:7">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Himmel	N.Reg.Nom.Sg.Masc	Himmel-n
 weiß	VFIN.Full.3.Sg.Pres.Ind	wissen-v
@@ -7290,7 +7290,7 @@ bauen	VINF.Full	bauen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:8&collection=eptic3">
+<s id="660:8">
 Aber	CONJ.Coord	aber-c
 der	ART.Def.Nom.Sg.Masc	die-x
 Wille	N.Reg.Nom.Sg.Masc	Wille-n
@@ -7306,7 +7306,7 @@ freuen	VINF.Full	freuen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:9&collection=eptic3">
+<s id="660:9">
 Sorgfältiges	ADJA.Pos.Nom.Sg.Neut	sorgfältig-j
 Management	N.Reg.Nom.Sg.Neut	Management-n
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
@@ -7320,7 +7320,7 @@ senken	VINF.Full	senken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:10&collection=eptic3">
+<s id="660:10">
 Derzeit	ADV	derzeit-a
 stellt	VFIN.Full.3.Sg.Pres.Ind	stellen-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -7359,7 +7359,7 @@ bewältigen	VINF.Full	bewältigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:11&collection=eptic3">
+<s id="660:11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Durchsetzung	N.Reg.Nom.Sg.Fem	Durchsetzung-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -7405,7 +7405,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:12&collection=eptic3">
+<s id="660:12">
 Schließlich	ADV	schließlich-a
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -7423,7 +7423,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:13&collection=eptic3">
+<s id="660:13">
 Der	ART.Def.Nom.Sg.Masc	die-x
 weit	ADJD.Pos	weit-j
 verbreitete	ADJA.Pos.Nom.Sg.Masc	verbreitet-j
@@ -7445,7 +7445,7 @@ angetrieben	VPP.Full.Psp	antreiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:14&collection=eptic3">
+<s id="660:14">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
@@ -7491,7 +7491,7 @@ gelangen	VINF.Full	gelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:15&collection=eptic3">
+<s id="660:15">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 darauf	PROADV.Dem	darauf-x
@@ -7533,7 +7533,7 @@ bieten	VINF.Full	bieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:16&collection=eptic3">
+<s id="660:16">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Ergebnis	N.Reg.Nom.Sg.Neut	Ergebnis-n
 dieser	PRO.Dem.Attr.Gen.Pl.Neut	diese-p
@@ -7564,7 +7564,7 @@ sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:17&collection=eptic3">
+<s id="660:17">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -7592,7 +7592,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:18&collection=eptic3">
+<s id="660:18">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 kennt	VFIN.Full.3.Sg.Pres.Ind	kennen-v
 den	ART.Def.Acc.Sg.Masc	die-x
@@ -7614,7 +7614,7 @@ tun	VINF.Full	tun-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:19&collection=eptic3">
+<s id="660:19">
 Diese	PRO.Dem.Attr.Nom.Pl.Masc	diese-p
 Menschen	N.Reg.Nom.Pl.Masc	Mensch-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -7640,7 +7640,7 @@ durchzusetzen	VINF.Full.zu	durchsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:20&collection=eptic3">
+<s id="660:20">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 brauchen	VFIN.Full.3.Pl.Pres.Ind	brauchen-v
 unsere	PRO.Poss.Attr.Acc.Sg.Fem	unsre-p
@@ -7656,7 +7656,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:21&collection=eptic3">
+<s id="660:21">
 Diese	PRO.Dem.Attr.Nom.Pl.Neut	diese-p
 Abkommen	N.Reg.Nom.Pl.Neut	Abkommen-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -7680,7 +7680,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:22&collection=eptic3">
+<s id="660:22">
 Die	ART.Def.Nom.Sg.Fem	die-x
 FPA	N.Name.Nom.Sg.Fem	FPA-n
 (	SYM.Paren.Left	(-x
@@ -7731,7 +7731,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="660:23&collection=eptic3">
+<s id="660:23">
 Dann	ADV	dann-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -7790,13 +7790,13 @@ erreichen	VINF.Full	erreichen-v
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="661:1&collection=eptic3">
+<s id="661:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="661:2&collection=eptic3">
+<s id="661:2">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -7818,7 +7818,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:3&collection=eptic3">
+<s id="661:3">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 alle	PRO.Indef.Subst.Acc.Pl.*	alle-p
@@ -7853,7 +7853,7 @@ erzielen	VINF.Full	erzielen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:4&collection=eptic3">
+<s id="661:4">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Abkommen	N.Reg.Nom.Pl.Neut	Abkommen-n
 mit	APPR	mit-i
@@ -7882,7 +7882,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:5&collection=eptic3">
+<s id="661:5">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Existenz	N.Reg.Nom.Sg.Fem	Existenz-n
 dieser	PRO.Dem.Attr.Gen.Pl.Neut	diese-p
@@ -7905,7 +7905,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:6&collection=eptic3">
+<s id="661:6">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 liefern	VFIN.Full.3.Pl.Pres.Ind	liefern-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -7921,7 +7921,7 @@ Holz	N.Reg.Dat.Sg.Neut	Holz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:7&collection=eptic3">
+<s id="661:7">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 liefern	VFIN.Full.3.Pl.Pres.Ind	liefern-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -7961,7 +7961,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:8&collection=eptic3">
+<s id="661:8">
 Während	CONJ.SubFin	während-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 diese	PRO.Dem.Attr.Acc.Pl.Neut	diese-p
@@ -7983,7 +7983,7 @@ Berichterstatter	N.Reg.Dat.Sg.Masc	Berichterstatter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:9&collection=eptic3">
+<s id="661:9">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 heute	ADV	heute-a
@@ -7996,7 +7996,7 @@ bringen	VINF.Full	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:10&collection=eptic3">
+<s id="661:10">
 Zuallererst	ADV	zuallererst-a
 besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -8058,7 +8058,7 @@ versuchen	VFIN.Full.1.Pl.Pres.Ind	versuchen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:11&collection=eptic3">
+<s id="661:11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 ein	ART.Indef.Acc.Sg.Neut	eine-x
@@ -8081,7 +8081,7 @@ beiträgt	VFIN.Full.3.Sg.Pres.Ind	beitragen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:12&collection=eptic3">
+<s id="661:12">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 stimme	VFIN.Full.1.Sg.Pres.Ind	stimmen-v
 dem	ART.Def.Dat.Sg.Masc	die-x
@@ -8116,7 +8116,7 @@ macht	VFIN.Full.3.Sg.Pres.Ind	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:13&collection=eptic3">
+<s id="661:13">
 Zweitens	ADV	zweitens-a
 sollten	VFIN.Mod.3.Pl.Past.Subj	sollen-v
 Eingeborene	N.Reg.Nom.Pl.Masc	Eingeborene-n
@@ -8140,7 +8140,7 @@ profitieren	VINF.Full	profitieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:14&collection=eptic3">
+<s id="661:14">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Versprechen	N.Reg.Nom.Sg.Neut	Versprechen-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -8180,7 +8180,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:15&collection=eptic3">
+<s id="661:15">
 Erneut	ADJD.Pos	erneut-j
 ermahne	VFIN.Full.1.Sg.Pres.Ind	ermahnen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -8214,7 +8214,7 @@ steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:16&collection=eptic3">
+<s id="661:16">
 Drittens	ADV	drittens-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -8250,7 +8250,7 @@ umzusetzen	VINF.Full.zu	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:17&collection=eptic3">
+<s id="661:17">
 Egal	ADJD.Pos	egal-j
 wie	CONJ.Coord	wie-c
 gut	ADJD.Pos	gut-j
@@ -8281,7 +8281,7 @@ Papier	N.Reg.Nom.Sg.Neut	Papier-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:18&collection=eptic3">
+<s id="661:18">
 Wie	PROADV.Inter	wie-x
 gesagt	VPP.Full.Psp	sagen-v
 <g/>
@@ -8297,7 +8297,7 @@ verbunden	VPP.Full.Psp	verbinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:19&collection=eptic3">
+<s id="661:19">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 liegt	VFIN.Full.3.Sg.Pres.Ind	liegen-v
 an	APPR	an-i
@@ -8341,7 +8341,7 @@ funktioniert	VFIN.Full.3.Sg.Pres.Ind	funktionieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:20&collection=eptic3">
+<s id="661:20">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
 <g/>
@@ -8427,7 +8427,7 @@ habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:21&collection=eptic3">
+<s id="661:21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 in	APPR	in-i
@@ -8456,7 +8456,7 @@ machen	VINF.Full	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:22&collection=eptic3">
+<s id="661:22">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wiederhole	VFIN.Full.1.Sg.Pres.Ind	wiederholen-v
 <g/>
@@ -8519,7 +8519,7 @@ funktionieren	VINF.Full	funktionieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:23&collection=eptic3">
+<s id="661:23">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 zu	APPR	zu-i
@@ -8556,7 +8556,7 @@ führen	VINF.Full	führen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="661:24&collection=eptic3">
+<s id="661:24">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 verlassen	VFIN.Full.1.Pl.Pres.Ind	verlassen-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -8584,13 +8584,13 @@ behält	VFIN.Full.3.Sg.Pres.Ind	behalten-v
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="662:1&collection=eptic3">
+<s id="662:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="662:2&collection=eptic3">
+<s id="662:2">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 stimmen	VFIN.Full.1.Pl.Pres.Ind	stimmen-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -8606,7 +8606,7 @@ zu	PART.Verb	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:3&collection=eptic3">
+<s id="662:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 begrüße	VFIN.Full.1.Sg.Pres.Ind	begrüßen-v
 jedes	PRO.Indef.Attr.Acc.Sg.Neut	jede-p
@@ -8651,7 +8651,7 @@ schenken	VINF.Full	schenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:4&collection=eptic3">
+<s id="662:4">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 zu	APPR	zu-i
@@ -8675,7 +8675,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:5&collection=eptic3">
+<s id="662:5">
 Kamerun	N.Name.Nom.Sg.Neut	Kamerun-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -8736,7 +8736,7 @@ schützen	VINF.Full	schützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:6&collection=eptic3">
+<s id="662:6">
 Die	ART.Def.Nom.Sg.Fem	die-x
 holzverarbeitende	ADJA.Pos.Nom.Sg.Fem	holzverarbeitend-j
 Industrie	N.Reg.Nom.Sg.Fem	Industrie-n
@@ -8771,7 +8771,7 @@ Eingeborenenvölker	N.Reg.Gen.Pl.Neut	Eingeborenenvolk-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:7&collection=eptic3">
+<s id="662:7">
 Aus	APPR	aus-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Grund	N.Reg.Dat.Sg.Masc	Grund-n
@@ -8831,7 +8831,7 @@ beteiligt	VPP.Full.Psp	beteiligen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:8&collection=eptic3">
+<s id="662:8">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entschließung	N.Reg.Nom.Sg.Fem	Entschließung-n
 der	ART.Def.Gen.Pl.*	die-x
@@ -8854,7 +8854,7 @@ zusammenhängt	VFIN.Full.3.Sg.Pres.Ind	zusammenhängen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:9&collection=eptic3">
+<s id="662:9">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 für	APPR	für-i
@@ -8902,7 +8902,7 @@ verbunden	VPP.Full.Psp	verbinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:10&collection=eptic3">
+<s id="662:10">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 nicht	PART.Neg	nicht-x
@@ -8948,7 +8948,7 @@ Ressourcen	N.Reg.Dat.Pl.Fem	Ressource-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="662:11&collection=eptic3">
+<s id="662:11">
 In	APPR	in-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Sinne	N.Reg.Dat.Sg.Masc	Sinn-n
@@ -8990,13 +8990,13 @@ lassen	VINF.Full	lassen-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="809" duration="long" durations="397.0" speed="slow" speedwm="122.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="663:1&collection=eptic3">
+<s id="663:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="663:2&collection=eptic3">
+<s id="663:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 zu	APPR	zu-i
@@ -9033,7 +9033,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:3&collection=eptic3">
+<s id="663:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -9057,7 +9057,7 @@ abzuschließen	VINF.Full.zu	abschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:4&collection=eptic3">
+<s id="663:4">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 würde	VFIN.Aux.3.Sg.Past.Subj	werden-v
 die	ART.Def.Acc.Pl.Neut	die-x
@@ -9080,7 +9080,7 @@ abzuschließen	VINF.Full.zu	abschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:5&collection=eptic3">
+<s id="663:5">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -9111,7 +9111,7 @@ alle	PRO.Indef.Subst.Acc.Pl.*	alle-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:6&collection=eptic3">
+<s id="663:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -9129,7 +9129,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:7&collection=eptic3">
+<s id="663:7">
 Im	APPRART.Dat.Sg.Masc	in-i
 Grunde	N.Reg.Dat.Sg.Masc	Grund-n
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
@@ -9152,7 +9152,7 @@ arbeiten	VINF.Full	arbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:8&collection=eptic3">
+<s id="663:8">
 Und	CONJ.Coord	und-c
 ja	ADV	ja-a
 <g/>
@@ -9203,7 +9203,7 @@ zu	PART.Zu	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:9&collection=eptic3">
+<s id="663:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 stimmt	VFIN.Full.3.Sg.Pres.Ind	stimmen-v
 <g/>
@@ -9216,7 +9216,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:10&collection=eptic3">
+<s id="663:10">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 Risiken	N.Reg.Acc.Pl.Neut	Risiko-n
@@ -9268,7 +9268,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:11&collection=eptic3">
+<s id="663:11">
 Für	APPR	für-i
 unsere	PRO.Poss.Attr.Acc.Pl.Neut	unsre-p
 Partnerländer	N.Reg.Acc.Pl.Neut	Partnerland-n
@@ -9299,7 +9299,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:12&collection=eptic3">
+<s id="663:12">
 Jedes	PRO.Indef.Attr.Acc.Sg.Neut	jede-p
 Jahr	N.Reg.Acc.Sg.Neut	Jahr-n
 gehen	VFIN.Full.3.Pl.Pres.Ind	gehen-v
@@ -9312,7 +9312,7 @@ verloren	VPP.Full.Psp	verlieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:13&collection=eptic3">
+<s id="663:13">
 Illegale	ADJA.Pos.Nom.Sg.Fem	illegal-j
 Abholzung	N.Reg.Nom.Sg.Fem	Abholzung-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -9336,7 +9336,7 @@ angeht	VFIN.Full.3.Sg.Pres.Ind	angehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:14&collection=eptic3">
+<s id="663:14">
 Gleichzeitig	ADJD.Pos	gleichzeitig-j
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -9359,7 +9359,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:15&collection=eptic3">
+<s id="663:15">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
 <g/>
@@ -9384,7 +9384,7 @@ herangehen	VINF.Full	herangehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:16&collection=eptic3">
+<s id="663:16">
 Von	APPR	von-i
 dem	ART.Def.Dat.Sg.Neut	die-x
 Tropenholz	N.Reg.Dat.Sg.Neut	Tropenholz-n
@@ -9426,7 +9426,7 @@ beziehen	VINF.Full	beziehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:17&collection=eptic3">
+<s id="663:17">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Frage	N.Reg.Nom.Sg.Fem	Frage-n
 des	ART.Def.Gen.Sg.Masc	die-x
@@ -9448,7 +9448,7 @@ beginnen	VINF.Full	beginnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:18&collection=eptic3">
+<s id="663:18">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 sehr	ADV	sehr-a
@@ -9489,7 +9489,7 @@ voraus	PART.Verb	voraus-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:19&collection=eptic3">
+<s id="663:19">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 versuchen	VINF.Full	versuchen-v
@@ -9510,7 +9510,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:20&collection=eptic3">
+<s id="663:20">
 Hinsichtlich	APPR	hinsichtlich-i
 der	ART.Def.Dat.Sg.Fem	die-x
 Durchsetzung	N.Reg.Dat.Sg.Fem	Durchsetzung-n
@@ -9535,7 +9535,7 @@ soll	VFIN.Mod.3.Sg.Pres.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:21&collection=eptic3">
+<s id="663:21">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 auch	ADV	auch-a
@@ -9560,7 +9560,7 @@ analysieren	VINF.Full	analysieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:22&collection=eptic3">
+<s id="663:22">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 auch	ADV	auch-a
@@ -9589,7 +9589,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:23&collection=eptic3">
+<s id="663:23">
 Darüber	PROADV.Dem	darüber-x
 hinaus	APZR	hinaus-x
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -9606,7 +9606,7 @@ beteiligt	VPP.Full.Psp	beteiligen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:24&collection=eptic3">
+<s id="663:24">
 Bis	APPR	bis-i
 jetzt	ADV	jetzt-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -9654,7 +9654,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:25&collection=eptic3">
+<s id="663:25">
 Zusätzlich	ADJD.Pos	zusätzlich-j
 enthalten	VFIN.Full.3.Pl.Pres.Ind	enthalten-v
 die	ART.Def.Nom.Pl.*	die-x
@@ -9694,7 +9694,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:26&collection=eptic3">
+<s id="663:26">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 hinsichtlich	APPR	hinsichtlich-i
@@ -9705,7 +9705,7 @@ Kosten	N.Reg.Acc.Pl.Fem	Kosten-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:27&collection=eptic3">
+<s id="663:27">
 Zwischen	APPR	zwischen-i
 2002	CARD	[number]-m
 und	CONJ.Coord	und-c
@@ -9739,7 +9739,7 @@ gerichtet	VPP.Full.Psp	richten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:28&collection=eptic3">
+<s id="663:28">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -9772,7 +9772,7 @@ ausgeben	VINF.Full	ausgeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:29&collection=eptic3">
+<s id="663:29">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -9788,7 +9788,7 @@ leisten	VINF.Full	leisten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:30&collection=eptic3">
+<s id="663:30">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -9801,7 +9801,7 @@ gewidmet	VPP.Full.Psp	widmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:31&collection=eptic3">
+<s id="663:31">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 sieben	CARD	sieben-m
@@ -9829,7 +9829,7 @@ zusammen	PART.Verb	zusammen-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:32&collection=eptic3">
+<s id="663:32">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 zusätzliche	ADJA.Pos.Nom.Sg.Fem	zusätzlich-j
 Anstrengung	N.Reg.Nom.Sg.Fem	Anstrengung-n
@@ -9864,7 +9864,7 @@ ergänzen	VINF.Full	ergänzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:33&collection=eptic3">
+<s id="663:33">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 von	APPR	von-i
@@ -9879,7 +9879,7 @@ abschrecken	VINF.Full	abschrecken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:34&collection=eptic3">
+<s id="663:34">
 Das	ART.Def.Nom.Sg.Neut	die-x
 jüngste	ADJA.Sup.Nom.Sg.Neut	jung-j
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
@@ -9920,7 +9920,7 @@ erleichtern	VINF.Full	erleichtern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:35&collection=eptic3">
+<s id="663:35">
 Unsere	PRO.Poss.Attr.Nom.Sg.Fem	unsre-p
 zukünftige	ADJA.Pos.Nom.Sg.Fem	zukünftig-j
 Arbeit	N.Reg.Nom.Sg.Fem	Arbeit-n
@@ -9956,7 +9956,7 @@ vorsieht	VFIN.Full.3.Sg.Pres.Ind	vorsehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:36&collection=eptic3">
+<s id="663:36">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 nehme	VFIN.Full.1.Sg.Pres.Ind	nehmen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -9968,7 +9968,7 @@ Kenntnis	N.Reg.Dat.Sg.Fem	Kenntnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:37&collection=eptic3">
+<s id="663:37">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 stimme	VFIN.Full.1.Sg.Pres.Ind	stimmen-v
 dem	ART.Def.Dat.Sg.Masc	die-x
@@ -9991,7 +9991,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:38&collection=eptic3">
+<s id="663:38">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 kann	VFIN.Mod.1.Sg.Pres.Ind	können-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -10045,7 +10045,7 @@ auseinandersetzen	VINF.Full	auseinandersetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:39&collection=eptic3">
+<s id="663:39">
 Aber	CONJ.Coord	aber-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -10078,7 +10078,7 @@ fühlen	VFIN.Full.3.Pl.Pres.Ind	fühlen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:40&collection=eptic3">
+<s id="663:40">
 Ohne	APPR	ohne-i
 echtes	ADJA.Pos.Acc.Sg.Neut	echt-j
 Engagement	N.Reg.Acc.Sg.Neut	Engagement-n
@@ -10101,7 +10101,7 @@ schützen	VINF.Full	schützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:41&collection=eptic3">
+<s id="663:41">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -10149,7 +10149,7 @@ berichten	VINF.Full	berichten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:42&collection=eptic3">
+<s id="663:42">
 Mit	APPR	mit-i
 FLEGT	N.Name.Dat.Sg.*	FLEGT-n
 machen	VFIN.Full.1.Pl.Pres.Ind	machen-v
@@ -10162,7 +10162,7 @@ Schritt	N.Reg.Acc.Sg.Masc	Schritt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:43&collection=eptic3">
+<s id="663:43">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -10181,7 +10181,7 @@ nicht	PART.Neg	nicht-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="663:44&collection=eptic3">
+<s id="663:44">
 Vielleicht	ADV	vielleicht-a
 reichen	VFIN.Full.3.Pl.Pres.Ind	reichen-v
 unsere	PRO.Poss.Attr.Nom.Pl.Fem	unsre-p
@@ -10217,13 +10217,13 @@ können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="674:1&collection=eptic3">
+<s id="674:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="674:2&collection=eptic3">
+<s id="674:2">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 diskutieren	VFIN.Full.1.Pl.Pres.Ind	diskutieren-v
 über	APPR	über-i
@@ -10232,7 +10232,7 @@ Partnerschaftsabkommen	N.Reg.Acc.Pl.Neut	Partnerschaftsabkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:3&collection=eptic3">
+<s id="674:3">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 schöne	ADJA.Pos.Nom.Pl.Neut	schön-j
@@ -10277,7 +10277,7 @@ erreichen	VINF.Full	erreichen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:4&collection=eptic3">
+<s id="674:4">
 Die	ART.Def.Nom.Pl.Neut	die-x
 praktischen	ADJA.Pos.Nom.Pl.Neut	praktisch-j
 Erfordernisse	N.Reg.Nom.Pl.Neut	Erfordernis-n
@@ -10302,7 +10302,7 @@ sich	PRO.Refl.Subst.3.Dat.Sg.*	sie-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:5&collection=eptic3">
+<s id="674:5">
 Allein	ADV	allein-a
 die	ART.Def.Nom.Sg.Fem	die-x
 Größe	N.Reg.Nom.Sg.Fem	Größe-n
@@ -10345,7 +10345,7 @@ Korruptionstabelle	N.Reg.Gen.Sg.Fem	Korruptionstabelle-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:6&collection=eptic3">
+<s id="674:6">
 Dann	ADV	dann-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 da	ADV	da-a
@@ -10443,7 +10443,7 @@ bringen	VINF.Full	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:7&collection=eptic3">
+<s id="674:7">
 All	PRO.Indef.Attr.*.*.*	all-p
 diese	PRO.Dem.Attr.Nom.Pl.Neut	diese-p
 Probleme	N.Reg.Nom.Pl.Neut	Problem-n
@@ -10479,7 +10479,7 @@ mögen	VFIN.Mod.3.Pl.Pres.Ind	mögen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="674:8&collection=eptic3">
+<s id="674:8">
 Welche	PRO.Inter.Attr.Acc.Pl.Fem	welche-p
 Sicherheiten	N.Reg.Acc.Pl.Fem	Sicherheit-n
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
@@ -10548,7 +10548,7 @@ werden	VINF.Aux	werden-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="46.0" speed="high" speedwm="164.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="675:1&collection=eptic3">
+<s id="675:1">
 Einer	PRO.Indef.Subst.Nom.Sg.Masc	eine-p
 der	ART.Def.Gen.Pl.Masc	die-x
 größten	ADJA.Sup.Gen.Pl.Masc	groß-j
@@ -10556,7 +10556,7 @@ Skandale	N.Reg.Gen.Pl.Masc	Skandal-n
 des	ART.Def.Gen.Sg.Neut	die-x
 20.	ADJA.Pos.Gen.Sg.Neut	[number]-j
 </s>
-<s id="675:2&collection=eptic3">
+<s id="675:2">
 Jahrhunderts	N.Reg.Gen.Sg.Neut	Jahrhundert-n
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -10607,7 +10607,7 @@ Regierungen	N.Reg.Nom.Pl.Fem	Regierung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="675:3&collection=eptic3">
+<s id="675:3">
 Aus	APPR	aus-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Grund	N.Reg.Dat.Sg.Masc	Grund-n
@@ -10634,7 +10634,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="675:4&collection=eptic3">
+<s id="675:4">
 Wenn	CONJ.SubFin	wenn-c
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 nicht	PART.Neg	nicht-x
@@ -10660,7 +10660,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="675:5&collection=eptic3">
+<s id="675:5">
 Im	APPRART.Dat.Sg.Masc	in-i
 weiteren	ADJA.Comp.Dat.Sg.Masc	weit-j
 Sinne	N.Reg.Dat.Sg.Masc	Sinn-n
@@ -10686,7 +10686,7 @@ beitragen	VINF.Full	beitragen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="675:6&collection=eptic3">
+<s id="675:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 beziehe	VFIN.Full.1.Sg.Pres.Ind	beziehen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -10731,7 +10731,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="675:7&collection=eptic3">
+<s id="675:7">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 also	ADV	also-a
@@ -10748,13 +10748,13 @@ sein	VINF.Aux	sein-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="692:1&collection=eptic3">
+<s id="692:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="692:2&collection=eptic3">
+<s id="692:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Aussprache	N.Reg.Nom.Sg.Fem	Aussprache-n
 ging	VFIN.Full.3.Sg.Past.Ind	gehen-v
@@ -10769,7 +10769,7 @@ hinaus	PART.Verb	hinaus-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:3&collection=eptic3">
+<s id="692:3">
 Nicht	PART.Neg	nicht-x
 nur	ADV	nur-a
 der	ART.Def.Nom.Sg.Masc	die-x
@@ -10806,7 +10806,7 @@ sich	PRO.Refl.Subst.3.Dat.Sg.*	sie-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:4&collection=eptic3">
+<s id="692:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 also	ADV	also-a
@@ -10829,7 +10829,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:5&collection=eptic3">
+<s id="692:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -10854,7 +10854,7 @@ anfangen	VINF.Full	anfangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:6&collection=eptic3">
+<s id="692:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Sie	PRO.Pers.Subst.3.Acc.*.*	sie-p
@@ -10872,7 +10872,7 @@ entmutigen	VINF.Full	entmutigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:7&collection=eptic3">
+<s id="692:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -10899,7 +10899,7 @@ Geschichte	N.Reg.Dat.Sg.Fem	Geschichte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:8&collection=eptic3">
+<s id="692:8">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 ihre	PRO.Poss.Attr.Acc.Sg.Fem	ihre-p
@@ -10938,7 +10938,7 @@ Zeit	N.Reg.Acc.Sg.Fem	Zeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:9&collection=eptic3">
+<s id="692:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 braucht	VFIN.Full.3.Sg.Pres.Ind	brauchen-v
 Zeit	N.Reg.Acc.Sg.Fem	Zeit-n
@@ -10969,7 +10969,7 @@ einzuführen	VINF.Full.zu	einführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:10&collection=eptic3">
+<s id="692:10">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 befinden	VFIN.Full.3.Pl.Pres.Ind	befinden-v
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -10981,7 +10981,7 @@ Weg	N.Reg.Dat.Sg.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:11&collection=eptic3">
+<s id="692:11">
 Insbesondere	ADV	insbesondere-a
 in	APPR	in-i
 Afrika	N.Name.Dat.Sg.Neut	Afrika-n
@@ -11007,7 +11007,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:12&collection=eptic3">
+<s id="692:12">
 Mir	N.Name.Nom.Sg.*	Mir-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 bewusst	ADJD.Pos	bewusst-j
@@ -11043,7 +11043,7 @@ Zusammenarbeit	N.Reg.Nom.Sg.Fem	Zusammenarbeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:13&collection=eptic3">
+<s id="692:13">
 Und	CONJ.Coord	und-c
 genau	ADJD.Pos	genau-j
 an	APPR	an-i
@@ -11089,7 +11089,7 @@ zusammen	PART.Verb	zusammen-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:14&collection=eptic3">
+<s id="692:14">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Verhandlungen	N.Reg.Nom.Pl.Fem	Verhandlung-n
 laufen	VFIN.Full.3.Pl.Pres.Ind	laufen-v
@@ -11112,7 +11112,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:15&collection=eptic3">
+<s id="692:15">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 würde	VFIN.Aux.1.Sg.Past.Subj	werden-v
 also	ADV	also-a
@@ -11128,7 +11128,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:16&collection=eptic3">
+<s id="692:16">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Engagement	N.Reg.Nom.Sg.Neut	Engagement-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -11146,7 +11146,7 @@ positiv	ADJD.Pos	positiv-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:17&collection=eptic3">
+<s id="692:17">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 auch	ADV	auch-a
@@ -11162,7 +11162,7 @@ berücksichtigen	VINF.Full	berücksichtigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:18&collection=eptic3">
+<s id="692:18">
 Cancún	N.Name.Nom.Sg.*	Cancún-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 uns	PRO.Pers.Subst.1.Acc.Pl.*	sie-p
@@ -11182,7 +11182,7 @@ nehmen	VINF.Full	nehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:19&collection=eptic3">
+<s id="692:19">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -11217,7 +11217,7 @@ lernen	VINF.Full	lernen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:20&collection=eptic3">
+<s id="692:20">
 Nehmen	VFIN.Full.1.Pl.Pres.Ind	nehmen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 zum	APPRART.Dat.Sg.Neut	zu-i
@@ -11230,7 +11230,7 @@ Energieeffizienz	N.Reg.Acc.Sg.Fem	Energieeffizienz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:21&collection=eptic3">
+<s id="692:21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 den	ART.Def.Acc.Sg.Masc	die-x
@@ -11248,7 +11248,7 @@ gefolgt	VPP.Full.Psp	folgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:22&collection=eptic3">
+<s id="692:22">
 Gleiches	N.Reg.Nom.Sg.Neut	Gleiche-n
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 für	APPR	für-i
@@ -11257,7 +11257,7 @@ Ressourceneffizienz	N.Reg.Acc.Sg.Fem	Ressourceneffizienz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:23&collection=eptic3">
+<s id="692:23">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 weniger	PRO.Indef.Attr.*.*.*	weniger-p
@@ -11280,7 +11280,7 @@ lernen	VINF.Full	lernen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:24&collection=eptic3">
+<s id="692:24">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -11301,7 +11301,7 @@ können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:25&collection=eptic3">
+<s id="692:25">
 Last	N.Reg.Nom.Sg.Fem	Last-n
 but	CONJ.Coord	but-c
 not	ADJD.Pos	not-j
@@ -11339,7 +11339,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:26&collection=eptic3">
+<s id="692:26">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 einer	PRO.Indef.Subst.Nom.Sg.Masc	eine-p
@@ -11359,7 +11359,7 @@ teilen	VINF.Full	teilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:27&collection=eptic3">
+<s id="692:27">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 arbeitet	VFIN.Full.3.Sg.Pres.Ind	arbeiten-v
@@ -11393,7 +11393,7 @@ erwiesen	VPP.Full.Psp	erweisen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="692:28&collection=eptic3">
+<s id="692:28">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
@@ -11453,13 +11453,13 @@ liefert	VFIN.Full.3.Sg.Pres.Ind	liefern-v
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="676:1&collection=eptic3">
+<s id="676:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="676:2&collection=eptic3">
+<s id="676:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -11468,7 +11468,7 @@ fassen	VINF.Full	fassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:3&collection=eptic3">
+<s id="676:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 stimme	VFIN.Full.1.Sg.Pres.Ind	stimmen-v
 mit	APPR	mit-i
@@ -11490,7 +11490,7 @@ vollkommen	ADJD.Pos	vollkommen-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:4&collection=eptic3">
+<s id="676:4">
 Zunächst	ADV	zunächst-a
 einmal	ADV	einmal-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -11530,7 +11530,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:5&collection=eptic3">
+<s id="676:5">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Interims-WPA	N.Reg.Nom.Sg.Neut	Interims-WPA-n
 leistet	VFIN.Full.3.Sg.Pres.Ind	leisten-v
@@ -11588,7 +11588,7 @@ fördert	VFIN.Full.3.Sg.Pres.Ind	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:6&collection=eptic3">
+<s id="676:6">
 Aber	CONJ.Coord	aber-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
@@ -11617,7 +11617,7 @@ gewährleisten	VINF.Full	gewährleisten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:7&collection=eptic3">
+<s id="676:7">
 Im	APPRART.Dat.Sg.Masc	in-i
 Hinblick	N.Reg.Dat.Sg.Masc	Hinblick-n
 auf	APPR	auf-i
@@ -11642,7 +11642,7 @@ handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:8&collection=eptic3">
+<s id="676:8">
 Dies	PRO.Dem.Subst.Acc.Sg.Neut	dies-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -11652,7 +11652,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:9&collection=eptic3">
+<s id="676:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 keine	PRO.Indef.Attr.Acc.Sg.Fem	keine-p
@@ -11674,7 +11674,7 @@ beabsichtigen	VFIN.Full.3.Pl.Pres.Ind	beabsichtigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:10&collection=eptic3">
+<s id="676:10">
 Warum	PROADV.Inter	warum-x
 erteilen	VFIN.Full.1.Pl.Pres.Ind	erteilen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -11684,7 +11684,7 @@ Ausnahmeregelung	N.Reg.Acc.Sg.Fem	Ausnahmeregelung-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="676:11&collection=eptic3">
+<s id="676:11">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 werde	VFIN.Aux.3.Sg.Pres.Subj	werden-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -11715,7 +11715,7 @@ befindet	VFIN.Full.3.Sg.Pres.Ind	befinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:12&collection=eptic3">
+<s id="676:12">
 Und	CONJ.Coord	und-c
 die	ART.Def.Nom.Sg.Fem	die-x
 Wahrscheinlichkeit	N.Reg.Nom.Sg.Fem	Wahrscheinlichkeit-n
@@ -11747,7 +11747,7 @@ tun	VINF.Full	tun-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:13&collection=eptic3">
+<s id="676:13">
 Nichts	PRO.Indef.Subst.Nom.Sg.Neut	nichts-p
 hält	VFIN.Full.3.Sg.Pres.Ind	halten-v
 die	ART.Def.Acc.Pl.Fem	die-x
@@ -11806,7 +11806,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:14&collection=eptic3">
+<s id="676:14">
 Aber	CONJ.Coord	aber-c
 die	ART.Def.Nom.Sg.Fem	die-x
 derzeitige	ADJA.Pos.Nom.Sg.Fem	derzeitig-j
@@ -11856,7 +11856,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:15&collection=eptic3">
+<s id="676:15">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 hier	ADV	hier-a
@@ -11879,7 +11879,7 @@ Frauen	N.Reg.Acc.Pl.Fem	Frau-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:16&collection=eptic3">
+<s id="676:16">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 beschweren	VFIN.Full.1.Pl.Pres.Ind	beschweren-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -11906,7 +11906,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:17&collection=eptic3">
+<s id="676:17">
 Hier	ADV	hier-a
 tun	VFIN.Full.1.Pl.Pres.Ind	tun-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -11920,7 +11920,7 @@ Aktivitäten	N.Reg.Gen.Pl.Fem	Aktivität-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:18&collection=eptic3">
+<s id="676:18">
 Wie	PROADV.Inter	wie-x
 die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
@@ -11959,7 +11959,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:19&collection=eptic3">
+<s id="676:19">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 all	PRO.Indef.Attr.*.*.*	all-p
@@ -11972,7 +11972,7 @@ erfüllen	VINF.Full	erfüllen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:20&collection=eptic3">
+<s id="676:20">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 von	APPR	von-i
@@ -11981,7 +11981,7 @@ Bedeutung	N.Reg.Dat.Sg.Fem	Bedeutung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:21&collection=eptic3">
+<s id="676:21">
 Die	ART.Def.Nom.Pl.Fem	die-x
 drei	CARD	drei-m
 Fabriken	N.Reg.Nom.Pl.Fem	Fabrik-n
@@ -11998,7 +11998,7 @@ Arbeitsplätze	N.Reg.Acc.Pl.Masc	Arbeitsplatz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:22&collection=eptic3">
+<s id="676:22">
 Wenn	CONJ.SubFin	wenn-c
 die	ART.Def.Nom.Sg.Fem	die-x
 Zahl	N.Reg.Nom.Sg.Fem	Zahl-n
@@ -12029,7 +12029,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:23&collection=eptic3">
+<s id="676:23">
 Im	APPRART.Dat.Sg.Masc	in-i
 Moment	N.Reg.Dat.Sg.Masc	Moment-n
 sprechen	VFIN.Full.3.Pl.Pres.Ind	sprechen-v
@@ -12041,14 +12041,14 @@ sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:24&collection=eptic3">
+<s id="676:24">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Vereinbarung	N.Reg.Nom.Sg.Fem	Vereinbarung-n
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 seit	APPR	seit-i
 2008.	CARD	[number]-m
 </s>
-<s id="676:25&collection=eptic3">
+<s id="676:25">
 Bisher	ADV	bisher-a
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -12058,7 +12058,7 @@ gegeben	VPP.Full.Psp	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:26&collection=eptic3">
+<s id="676:26">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 keine	PRO.Indef.Attr.Acc.Sg.Fem	keine-p
@@ -12070,7 +12070,7 @@ Thunfischindustrie	N.Reg.Acc.Sg.Fem	Thunfischindustrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:27&collection=eptic3">
+<s id="676:27">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -12099,7 +12099,7 @@ bestehe	VFIN.Full.3.Sg.Pres.Subj	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:28&collection=eptic3">
+<s id="676:28">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 machen	VFIN.Full.3.Pl.Pres.Ind	machen-v
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -12111,7 +12111,7 @@ Sorgen	VINF.Full	sorgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:29&collection=eptic3">
+<s id="676:29">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 stimmen	VFIN.Full.3.Pl.Pres.Ind	stimmen-v
 zu	PART.Verb	zu-x
@@ -12131,7 +12131,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:30&collection=eptic3">
+<s id="676:30">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -12142,7 +12142,7 @@ hochspielen	VINF.Full	hochspielen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="676:31&collection=eptic3">
+<s id="676:31">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 nicht	PART.Neg	nicht-x
@@ -12173,13 +12173,13 @@ muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="678:1&collection=eptic3">
+<s id="678:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="678:2&collection=eptic3">
+<s id="678:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 dem	ART.Def.Dat.Sg.Masc	die-x
@@ -12211,7 +12211,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:3&collection=eptic3">
+<s id="678:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -12227,7 +12227,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:4&collection=eptic3">
+<s id="678:4">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Zustimmung	N.Reg.Nom.Sg.Fem	Zustimmung-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -12290,7 +12290,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:5&collection=eptic3">
+<s id="678:5">
 Im	APPRART.Dat.Sg.Neut	in-i
 Jahr	N.Reg.Dat.Sg.Neut	Jahr-n
 2007	CARD	[number]-m
@@ -12336,7 +12336,7 @@ garantieren	VINF.Full	garantieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:6&collection=eptic3">
+<s id="678:6">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Engagement	N.Reg.Nom.Sg.Neut	Engagement-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -12373,7 +12373,7 @@ Partnern	N.Reg.Dat.Pl.Masc	Partner-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:7&collection=eptic3">
+<s id="678:7">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 nur	ADV	nur-a
@@ -12397,7 +12397,7 @@ gestalten	VINF.Full	gestalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:8&collection=eptic3">
+<s id="678:8">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 über	APPR	über-i
@@ -12428,7 +12428,7 @@ unterscheiden	VINF.Full	unterscheiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:9&collection=eptic3">
+<s id="678:9">
 Einige	PRO.Indef.Attr.Nom.Pl.Neut	einige-p
 Länder	N.Reg.Nom.Pl.Neut	Land-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -12458,7 +12458,7 @@ Waffen	N.Reg.Dat.Pl.Fem	Waffe-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:10&collection=eptic3">
+<s id="678:10">
 Andere	PRO.Indef.Subst.Nom.Pl.*	andere-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 wenig	ADV	wenig-a
@@ -12472,7 +12472,7 @@ Union	N.Reg.Dat.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:11&collection=eptic3">
+<s id="678:11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 daher	PROADV.Dem	daher-x
@@ -12507,7 +12507,7 @@ beeinflussen	VINF.Full	beeinflussen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:12&collection=eptic3">
+<s id="678:12">
 Unabhängig	ADJD.Pos	unabhängig-j
 davon	PROADV.Dem	davon-x
 <g/>
@@ -12541,7 +12541,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:13&collection=eptic3">
+<s id="678:13">
 Daher	PROADV.Dem	daher-x
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -12555,7 +12555,7 @@ Handelskapazität	N.Reg.Gen.Sg.Fem	Handelskapazität-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:14&collection=eptic3">
+<s id="678:14">
 Daher	PROADV.Dem	daher-x
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -12578,7 +12578,7 @@ auszuschließen	VINF.Full.zu	ausschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:15&collection=eptic3">
+<s id="678:15">
 Anderen	ADJA.Pos.Dat.Pl.Neut	ander-j
 Ländern	N.Reg.Dat.Pl.Neut	Land-n
 würden	VFIN.Aux.1.Pl.Past.Subj	werden-v
@@ -12589,7 +12589,7 @@ zugestehen	VINF.Full	zugestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:16&collection=eptic3">
+<s id="678:16">
 In	APPR	in-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Zusammenhang	N.Reg.Dat.Sg.Masc	Zusammenhang-n
@@ -12622,7 +12622,7 @@ genommen	VPP.Full.Psp	nehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:17&collection=eptic3">
+<s id="678:17">
 Diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
 Ausnahmeregelung	N.Reg.Acc.Sg.Fem	Ausnahmeregelung-n
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -12669,7 +12669,7 @@ könnten	VFIN.Mod.3.Pl.Past.Subj	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:18&collection=eptic3">
+<s id="678:18">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Union	N.Reg.Nom.Sg.Fem	Union-n
@@ -12696,7 +12696,7 @@ festgestellt	VPP.Full.Psp	feststellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:19&collection=eptic3">
+<s id="678:19">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -12719,7 +12719,7 @@ anzubieten	VINF.Full.zu	anbieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:20&collection=eptic3">
+<s id="678:20">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -12756,7 +12756,7 @@ erstatten	VINF.Full	erstatten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:21&collection=eptic3">
+<s id="678:21">
 Einige	PRO.Indef.Subst.Nom.Pl.*	einige-p
 von	APPR	von-i
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -12782,7 +12782,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:22&collection=eptic3">
+<s id="678:22">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -12809,7 +12809,7 @@ gewähren	VINF.Full	gewähren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:23&collection=eptic3">
+<s id="678:23">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 nehmen	VFIN.Full.1.Pl.Pres.Ind	nehmen-v
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
@@ -12835,7 +12835,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:24&collection=eptic3">
+<s id="678:24">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Zustimmung	N.Reg.Nom.Sg.Fem	Zustimmung-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -12856,7 +12856,7 @@ umzusetzen	VINF.Full.zu	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:25&collection=eptic3">
+<s id="678:25">
 Dazu	PROADV.Dem	dazu-x
 gehört	VFIN.Full.3.Sg.Pres.Ind	gehören-v
 auch	ADV	auch-a
@@ -12892,7 +12892,7 @@ darstellt	VFIN.Full.3.Sg.Pres.Ind	darstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:26&collection=eptic3">
+<s id="678:26">
 Ihre	PRO.Poss.Attr.Nom.Sg.Fem	ihre-p
 Stimmabgabe	N.Reg.Nom.Sg.Fem	Stimmabgabe-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -12915,7 +12915,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:27&collection=eptic3">
+<s id="678:27">
 Was	PRO.Inter.Subst.Acc.Sg.Neut	was-p
 Fidschi	N.Name.Nom.Sg.Neut	Fidschi-n
 betrifft	VFIN.Full.3.Sg.Pres.Ind	betreffen-v
@@ -12940,7 +12940,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:28&collection=eptic3">
+<s id="678:28">
 Somit	ADV	somit-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 Papua-Neuguinea	N.Name.Nom.Sg.Neut	Papua-Neuguinea-n
@@ -12964,7 +12964,7 @@ anwendet	VFIN.Full.3.Sg.Pres.Ind	anwenden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:29&collection=eptic3">
+<s id="678:29">
 Fidschi	N.Name.Nom.Sg.Neut	Fidschi-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -12991,7 +12991,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:30&collection=eptic3">
+<s id="678:30">
 Wie	PROADV.Inter	wie-x
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 wissen	VFIN.Full.3.Pl.Pres.Ind	wissen-v
@@ -13017,7 +13017,7 @@ auszusetzen	VINF.Full.zu	aussetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:31&collection=eptic3">
+<s id="678:31">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Wiederaufnahme	N.Reg.Nom.Sg.Fem	Wiederaufnahme-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -13043,7 +13043,7 @@ erfordern	VINF.Full	erfordern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:32&collection=eptic3">
+<s id="678:32">
 Derzeit	ADV	derzeit-a
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -13059,7 +13059,7 @@ Hinsicht	N.Reg.Dat.Sg.Fem	Hinsicht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:33&collection=eptic3">
+<s id="678:33">
 Das	ART.Def.Nom.Sg.Neut	die-x
 WPA	N.Reg.Nom.Sg.Neut	WPA-n
 <g/>
@@ -13094,7 +13094,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="678:34&collection=eptic3">
+<s id="678:34">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 setzt	VFIN.Full.3.Sg.Pres.Ind	setzen-v
@@ -13125,13 +13125,13 @@ fortzusetzen	VINF.Full.zu	fortsetzen-v
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="679:1&collection=eptic3">
+<s id="679:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="679:2&collection=eptic3">
+<s id="679:2">
 Als	APPR	als-i
 Schattenberichterstatterin	N.Reg.Nom.Sg.Fem	Schattenberichterstatterin-n
 für	APPR	für-i
@@ -13170,7 +13170,7 @@ begrüßen	VINF.Full	begrüßen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:3&collection=eptic3">
+<s id="679:3">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
 in	APPR	in-i
@@ -13183,7 +13183,7 @@ vollkommen	ADJD.Pos	vollkommen-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:4&collection=eptic3">
+<s id="679:4">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -13211,7 +13211,7 @@ handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:5&collection=eptic3">
+<s id="679:5">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hoffen	VFIN.Full.1.Pl.Pres.Ind	hoffen-v
 <g/>
@@ -13245,7 +13245,7 @@ einschließt	VFIN.Full.3.Sg.Pres.Ind	einschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:6&collection=eptic3">
+<s id="679:6">
 Zweitens	ADV	zweitens-a
 betrifft	VFIN.Full.3.Sg.Pres.Ind	betreffen-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -13278,7 +13278,7 @@ beläuft	VFIN.Full.3.Sg.Pres.Ind	belaufen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:7&collection=eptic3">
+<s id="679:7">
 Und	CONJ.Coord	und-c
 dennoch	ADV	dennoch-a
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -13301,7 +13301,7 @@ Fischereierzeugnisse	N.Reg.Acc.Pl.Neut	Fischereierzeugnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:8&collection=eptic3">
+<s id="679:8">
 In	APPR	in-i
 unserer	PRO.Poss.Attr.Dat.Sg.Fem	unsre-p
 Entschließung	N.Reg.Dat.Sg.Fem	Entschließung-n
@@ -13372,7 +13372,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="679:9&collection=eptic3">
+<s id="679:9">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 ermutigen	VFIN.Full.1.Pl.Pres.Ind	ermutigen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -13436,13 +13436,13 @@ einzuleiten	VINF.Full.zu	einleiten-v
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="680:1&collection=eptic3">
+<s id="680:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="680:2&collection=eptic3">
+<s id="680:2">
 Eines	PRO.Indef.Subst.Nom.Sg.Neut	eine-p
 der	ART.Def.Gen.Pl.Neut	die-x
 Ziele	N.Reg.Gen.Pl.Neut	Ziel-n
@@ -13457,7 +13457,7 @@ Integration	N.Reg.Gen.Sg.Fem	Integration-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:3&collection=eptic3">
+<s id="680:3">
 Bisher	ADV	bisher-a
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -13472,7 +13472,7 @@ stattfindet	VFIN.Full.3.Sg.Pres.Ind	stattfinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:4&collection=eptic3">
+<s id="680:4">
 Ganz	ADV	ganz-a
 im	APPRART.Dat.Sg.Neut	in-i
 Gegenteil	N.Reg.Dat.Sg.Neut	Gegenteil-n
@@ -13501,7 +13501,7 @@ anbietet	VFIN.Full.3.Sg.Pres.Ind	anbieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:5&collection=eptic3">
+<s id="680:5">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Ausnahmeregelung	N.Reg.Nom.Sg.Fem	Ausnahmeregelung-n
 zu	APPR	zu-i
@@ -13527,7 +13527,7 @@ hierfür	PROADV.Dem	hierfür-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:6&collection=eptic3">
+<s id="680:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -13560,7 +13560,7 @@ muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:7&collection=eptic3">
+<s id="680:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 sage	VFIN.Full.1.Sg.Pres.Ind	sagen-v
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
@@ -13587,7 +13587,7 @@ spricht	VFIN.Full.3.Sg.Pres.Ind	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:8&collection=eptic3">
+<s id="680:8">
 Welche	PRO.Inter.Attr.Acc.Pl.Fem	welche-p
 Auswirkungen	N.Reg.Acc.Pl.Fem	Auswirkung-n
 ergeben	VFIN.Full.3.Pl.Pres.Ind	ergeben-v
@@ -13611,7 +13611,7 @@ Papua-Neuguinea	N.Name.Dat.Sg.Neut	Papua-Neuguinea-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="680:9&collection=eptic3">
+<s id="680:9">
 Wie	PROADV.Inter	wie-x
 sieht	VFIN.Full.3.Sg.Pres.Ind	sehen-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -13623,7 +13623,7 @@ aus	PART.Verb	aus-x
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="680:10&collection=eptic3">
+<s id="680:10">
 All	PRO.Indef.Attr.*.*.*	all-p
 diese	PRO.Dem.Attr.Acc.Pl.Masc	diese-p
 Punkte	N.Reg.Acc.Pl.Masc	Punkt-n
@@ -13636,7 +13636,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="680:11&collection=eptic3">
+<s id="680:11">
 Dann	ADV	dann-a
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -13710,13 +13710,13 @@ nicht	PART.Neg	nicht-x
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="681:1&collection=eptic3">
+<s id="681:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="681:2&collection=eptic3">
+<s id="681:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 eigentlich	ADV	eigentlich-a
@@ -13771,7 +13771,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="681:3&collection=eptic3">
+<s id="681:3">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 vergangenen	ADJA.Pos.Dat.Sg.Fem	vergangen-j
@@ -13813,7 +13813,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="681:4&collection=eptic3">
+<s id="681:4">
 Und	CONJ.Coord	und-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 bekommen	VFIN.Full.1.Pl.Pres.Ind	bekommen-v
@@ -13828,7 +13828,7 @@ Bürgern	N.Reg.Dat.Pl.Masc	Bürger-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="681:5&collection=eptic3">
+<s id="681:5">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 spezielle	ADJA.Pos.Nom.Sg.Neut	speziell-j
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
@@ -13883,7 +13883,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="681:6&collection=eptic3">
+<s id="681:6">
 Nicht	PART.Neg	nicht-x
 nur	ADV	nur-a
 aus	APPR	aus-i
@@ -13915,13 +13915,13 @@ helfen	VINF.Full	helfen-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="682:1&collection=eptic3">
+<s id="682:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="682:2&collection=eptic3">
+<s id="682:2">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -13931,7 +13931,7 @@ Aussprache	N.Reg.Nom.Sg.Fem	Aussprache-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:3&collection=eptic3">
+<s id="682:3">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 Armut	N.Reg.Acc.Sg.Fem	Armut-n
@@ -13941,7 +13941,7 @@ Welt	N.Reg.Dat.Sg.Fem	Welt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:4&collection=eptic3">
+<s id="682:4">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -13950,7 +13950,7 @@ auseinandersetzen	VINF.Full	auseinandersetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:5&collection=eptic3">
+<s id="682:5">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 Möglichkeit	N.Reg.Nom.Sg.Fem	Möglichkeit-n
 wäre	VFIN.Aux.3.Sg.Past.Subj	sein-v
@@ -13961,7 +13961,7 @@ Finanzmitteln	N.Reg.Dat.Pl.Neut	Finanzmittel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:6&collection=eptic3">
+<s id="682:6">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 jedoch	ADV	jedoch-a
@@ -13989,7 +13989,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:7&collection=eptic3">
+<s id="682:7">
 Die	ART.Def.Nom.Pl.Fem	die-x
 drei	CARD	drei-m
 Thunfischverarbeitungsanlagen	N.Reg.Nom.Pl.Fem	Thunfischverarbeitungsanlage-n
@@ -14026,7 +14026,7 @@ Frauen	N.Reg.Nom.Pl.Fem	Frau-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:8&collection=eptic3">
+<s id="682:8">
 In	APPR	in-i
 Papua-Neuguinea	N.Name.Dat.Sg.Neut	Papua-Neuguinea-n
 <g/>
@@ -14048,7 +14048,7 @@ Spiel	N.Reg.Dat.Sg.Neut	Spiel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:9&collection=eptic3">
+<s id="682:9">
 Wenn	CONJ.SubFin	wenn-c
 Ausnahmeregelungen	N.Reg.Nom.Pl.Fem	Ausnahmeregelung-n
 vorgeschlagen	VPP.Full.Psp	vorschlagen-v
@@ -14073,7 +14073,7 @@ treffen	VINF.Full	treffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:10&collection=eptic3">
+<s id="682:10">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -14131,7 +14131,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:11&collection=eptic3">
+<s id="682:11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 vorläufige	ADJA.Pos.Nom.Sg.Fem	vorläufig-j
 Anwendung	N.Reg.Nom.Sg.Fem	Anwendung-n
@@ -14154,7 +14154,7 @@ Zahlen	N.Reg.Dat.Pl.Fem	Zahl-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:12&collection=eptic3">
+<s id="682:12">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 keine	PRO.Indef.Attr.Acc.Pl.Fem	keine-p
@@ -14170,7 +14170,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:13&collection=eptic3">
+<s id="682:13">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entwicklung	N.Reg.Nom.Sg.Fem	Entwicklung-n
 der	ART.Def.Gen.Pl.Masc	die-x
@@ -14206,7 +14206,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:14&collection=eptic3">
+<s id="682:14">
 Zusätzlich	ADJD.Pos	zusätzlich-j
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -14235,7 +14235,7 @@ abzeichnet	VFIN.Full.3.Sg.Pres.Ind	abzeichnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:15&collection=eptic3">
+<s id="682:15">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Interimsabkommen	N.Reg.Nom.Sg.Neut	Interimsabkommen-n
 erlaubt	VFIN.Full.3.Sg.Pres.Ind	erlauben-v
@@ -14255,7 +14255,7 @@ Schutzinstrumenten	N.Reg.Dat.Pl.Neut	Schutzinstrument-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:16&collection=eptic3">
+<s id="682:16">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 zum	APPRART.Dat.Sg.Masc	zu-i
@@ -14295,7 +14295,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:17&collection=eptic3">
+<s id="682:17">
 Auf	APPR	auf-i
 diesen	PRO.Dem.Attr.Acc.Sg.Masc	diese-p
 Aspekt	N.Reg.Acc.Sg.Masc	Aspekt-n
@@ -14316,7 +14316,7 @@ eingehen	VINF.Full	eingehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:18&collection=eptic3">
+<s id="682:18">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 hinzufügen	VINF.Full	hinzufügen-v
@@ -14373,7 +14373,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:19&collection=eptic3">
+<s id="682:19">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -14398,7 +14398,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:20&collection=eptic3">
+<s id="682:20">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 nun	ADV	nun-a
@@ -14416,7 +14416,7 @@ Allgemeinen	ADJA.Pos.Dat.Sg.Masc	allgemein-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:21&collection=eptic3">
+<s id="682:21">
 Wirtschaftsverkehr	N.Reg.Nom.Sg.Masc	Wirtschaftsverkehr-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ganz	ADV	ganz-a
@@ -14428,7 +14428,7 @@ Thema	N.Reg.Acc.Sg.Neut	Thema-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:22&collection=eptic3">
+<s id="682:22">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bereits	ADV	bereits-a
@@ -14460,7 +14460,7 @@ ermöglichen	VINF.Full	ermöglichen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:23&collection=eptic3">
+<s id="682:23">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 richtig	ADJD.Pos	richtig-j
@@ -14478,7 +14478,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:24&collection=eptic3">
+<s id="682:24">
 Regionale	ADJA.Pos.Nom.Sg.Fem	regional-j
 Entwicklung	N.Reg.Nom.Sg.Fem	Entwicklung-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -14491,14 +14491,14 @@ Handelsabkommen	N.Reg.Dat.Sg.Neut	Handelsabkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:25&collection=eptic3">
+<s id="682:25">
 Daher	PROADV.Dem	daher-x
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 45	CARD	45-m
 Mio.	N.Reg.Nom.Pl.Fem	mio.-n
 </s>
-<s id="682:26&collection=eptic3">
+<s id="682:26">
 EUR	N.Reg.Nom.Sg.Fem	EUR-n
 für	APPR	für-i
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -14513,7 +14513,7 @@ vorgesehen	VPP.Full.Psp	vorsehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:27&collection=eptic3">
+<s id="682:27">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 dreimal	ADV	dreimal-a
@@ -14530,7 +14530,7 @@ war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:28&collection=eptic3">
+<s id="682:28">
 Nur	ADV	nur-a
 wenn	CONJ.SubFin	wenn-c
 die	ART.Def.Nom.Pl.Masc	die-x
@@ -14548,7 +14548,7 @@ stattfinden	VINF.Full	stattfinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:29&collection=eptic3">
+<s id="682:29">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -14584,7 +14584,7 @@ Fluktuationsrate	N.Reg.Dat.Sg.Fem	Fluktuationsrate-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:30&collection=eptic3">
+<s id="682:30">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 in	APPR	in-i
@@ -14625,7 +14625,7 @@ sei	VFIN.Aux.3.Sg.Pres.Subj	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:31&collection=eptic3">
+<s id="682:31">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 darf	VFIN.Mod.3.Sg.Pres.Ind	dürfen-v
 uns	PRO.Pers.Subst.1.Dat.Pl.*	sie-p
@@ -14645,7 +14645,7 @@ durchgeführt	VPP.Full.Psp	durchführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:32&collection=eptic3">
+<s id="682:32">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 schlagen	VFIN.Full.1.Pl.Pres.Ind	schlagen-v
 sehr	ADV	sehr-a
@@ -14668,7 +14668,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:33&collection=eptic3">
+<s id="682:33">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -14701,7 +14701,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="682:34&collection=eptic3">
+<s id="682:34">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -14729,13 +14729,13 @@ Abkommen	N.Reg.Acc.Sg.Neut	Abkommen-n
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="677:1&collection=eptic3">
+<s id="677:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="677:2&collection=eptic3">
+<s id="677:2">
 Zunächst	ADV	zunächst-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -14763,7 +14763,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:3&collection=eptic3">
+<s id="677:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ihm	PRO.Pers.Subst.3.Dat.Sg.Masc	sie-p
@@ -14824,7 +14824,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:4&collection=eptic3">
+<s id="677:4">
 In	APPR	in-i
 meiner	PRO.Poss.Attr.Dat.Sg.Fem	meine-p
 Funktion	N.Reg.Dat.Sg.Fem	Funktion-n
@@ -14854,7 +14854,7 @@ fortzusetzen	VINF.Full.zu	fortsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:5&collection=eptic3">
+<s id="677:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -14892,7 +14892,7 @@ hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:6&collection=eptic3">
+<s id="677:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 in	APPR	in-i
@@ -14915,7 +14915,7 @@ folgen	VINF.Full	folgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:7&collection=eptic3">
+<s id="677:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Donatella	N.Name.Nom.Sg.Fem	Donatella-n
@@ -14934,7 +14934,7 @@ war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:8&collection=eptic3">
+<s id="677:8">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 ihr	PRO.Poss.Attr.Nom.Sg.Masc	ihre-p
@@ -14977,7 +14977,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:9&collection=eptic3">
+<s id="677:9">
 Schließlich	ADV	schließlich-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -15000,7 +15000,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:10&collection=eptic3">
+<s id="677:10">
 Die	ART.Def.Nom.Pl.Masc	die-x
 von	APPR	von-i
 ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -15020,7 +15020,7 @@ hinzuzufügen	VINF.Full.zu	hinzufügen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:11&collection=eptic3">
+<s id="677:11">
 Erstens	ADV	erstens-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -15037,7 +15037,7 @@ machen	VINF.Full	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:12&collection=eptic3">
+<s id="677:12">
 Zweitens	ADV	zweitens-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -15075,7 +15075,7 @@ Fischerei	N.Reg.Acc.Sg.Fem	Fischerei-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:13&collection=eptic3">
+<s id="677:13">
 Drittens	ADV	drittens-a
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -15093,7 +15093,7 @@ kommentieren	VINF.Full	kommentieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:14&collection=eptic3">
+<s id="677:14">
 Im	APPRART.Dat.Sg.Masc	in-i
 Hinblick	N.Reg.Dat.Sg.Masc	Hinblick-n
 auf	APPR	auf-i
@@ -15123,7 +15123,7 @@ Fidschi	N.Name.Nom.Sg.Neut	Fidschi-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:15&collection=eptic3">
+<s id="677:15">
 Hierbei	PROADV.Dem	hierbei-x
 handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -15163,7 +15163,7 @@ Zucker	N.Reg.Acc.Sg.Masc	Zucker-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:16&collection=eptic3">
+<s id="677:16">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Wirtschaftspartnerschaftsabkommen	N.Reg.Nom.Sg.Neut	Wirtschaftspartnerschaftsabkommen-n
 bietet	VFIN.Full.3.Sg.Pres.Ind	bieten-v
@@ -15193,7 +15193,7 @@ Jahren	N.Reg.Dat.Pl.Neut	Jahr-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:17&collection=eptic3">
+<s id="677:17">
 Papua-Neuguinea	N.Name.Nom.Sg.Neut	Papua-Neuguinea-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -15229,7 +15229,7 @@ liberalisieren	VINF.Full	liberalisieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:18&collection=eptic3">
+<s id="677:18">
 Die	ART.Def.Nom.Pl.Masc	die-x
 übrigen	ADJA.Pos.Nom.Pl.Masc	übrig-j
 12	CARD	12-m
@@ -15275,7 +15275,7 @@ interessiert	VPP.Full.Psp	interessieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:19&collection=eptic3">
+<s id="677:19">
 Nichtsdestotrotz	PROADV.Dem	Nichtsdestotrotz-x
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -15316,7 +15316,7 @@ hinzuarbeiten	VINF.Full	hinzuarbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:20&collection=eptic3">
+<s id="677:20">
 Im	APPRART.Dat.Sg.Masc	in-i
 Hinblick	N.Reg.Dat.Sg.Masc	Hinblick-n
 auf	APPR	auf-i
@@ -15340,7 +15340,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:21&collection=eptic3">
+<s id="677:21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 am	APPRART.Dat.Sg.Masc	an-i
@@ -15364,7 +15364,7 @@ abstimmen	VINF.Full	abstimmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:22&collection=eptic3">
+<s id="677:22">
 Zum	APPRART.Dat.Sg.*	zu-i
 einen	PRO.Indef.Subst.Dat.Sg.*	eine-p
 über	APPR	über-i
@@ -15394,7 +15394,7 @@ Entschließungsantrag	N.Reg.Acc.Sg.Masc	Entschließungsantrag-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:23&collection=eptic3">
+<s id="677:23">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Entschließungsantrag	N.Reg.Nom.Sg.Masc	Entschließungsantrag-n
 umfasst	VFIN.Full.3.Sg.Pres.Ind	umfassen-v
@@ -15404,7 +15404,7 @@ Fragen	N.Reg.Acc.Pl.Fem	Frage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:24&collection=eptic3">
+<s id="677:24">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 jedoch	ADV	jedoch-a
@@ -15421,7 +15421,7 @@ kommentieren	VINF.Full	kommentieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:25&collection=eptic3">
+<s id="677:25">
 Erstens	ADV	erstens-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 finanzielle	ADJA.Pos.Nom.Pl.Neut	finanziell-j
@@ -15456,7 +15456,7 @@ Armut	N.Reg.Gen.Sg.Fem	Armut-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:26&collection=eptic3">
+<s id="677:26">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -15490,7 +15490,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:27&collection=eptic3">
+<s id="677:27">
 Außerdem	PROADV.Dem	außerdem-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -15530,7 +15530,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:28&collection=eptic3">
+<s id="677:28">
 Unter	APPR	unter-i
 Berücksichtigung	N.Reg.Dat.Sg.Fem	Berücksichtigung-n
 dieser	PRO.Dem.Attr.Gen.Sg.Fem	diese-p
@@ -15557,7 +15557,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:29&collection=eptic3">
+<s id="677:29">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -15580,7 +15580,7 @@ unternehmen	VINF.Full	unternehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:30&collection=eptic3">
+<s id="677:30">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -15604,7 +15604,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:31&collection=eptic3">
+<s id="677:31">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Fischereiindustrie	N.Reg.Nom.Sg.Fem	Fischereiindustrie-n
 spielt	VFIN.Full.3.Sg.Pres.Ind	spielen-v
@@ -15630,7 +15630,7 @@ Einkommen	N.Reg.Acc.Pl.Neut	Einkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:32&collection=eptic3">
+<s id="677:32">
 In	APPR	in-i
 drei	CARD	drei-m
 Thunfischverarbeitungsfabriken	N.Reg.Dat.Pl.Fem	Thunfischverarbeitungsfabrik-n
@@ -15646,7 +15646,7 @@ exportieren	VFIN.Full.3.Pl.Pres.Ind	exportieren-v
 arbeiten	VFIN.Full.3.Pl.Pres.Ind	arbeiten-v
 5.	ADV	5.-a
 </s>
-<s id="677:33&collection=eptic3">
+<s id="677:33">
 700	CARD	[number]-m
 Beschäftigte	N.Reg.Nom.Pl.*	Beschäftigte-n
 <g/>
@@ -15658,7 +15658,7 @@ Frauen	N.Reg.Nom.Pl.Fem	Frau-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:34&collection=eptic3">
+<s id="677:34">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -15685,7 +15685,7 @@ finden	VINF.Full	finden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:35&collection=eptic3">
+<s id="677:35">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 unterstütze	VFIN.Full.1.Sg.Pres.Ind	unterstützen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -15710,7 +15710,7 @@ Industrie	N.Reg.Gen.Sg.Fem	Industrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:36&collection=eptic3">
+<s id="677:36">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 jedoch	ADV	jedoch-a
@@ -15728,7 +15728,7 @@ entwickelt	VPP.Full.Psp	entwickeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:37&collection=eptic3">
+<s id="677:37">
 Umweltbezogene	ADJA.Pos.Nom.Pl.Fem	umweltbezogen-j
 Überlegungen	N.Reg.Nom.Pl.Fem	Überlegung-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -15776,7 +15776,7 @@ erstatten	VINF.Full	erstatten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:38&collection=eptic3">
+<s id="677:38">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 verstehe	VFIN.Full.1.Sg.Pres.Ind	verstehen-v
 <g/>
@@ -15809,7 +15809,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:39&collection=eptic3">
+<s id="677:39">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 jedoch	ADV	jedoch-a
@@ -15843,7 +15843,7 @@ gemachten	ADJA.Pos.Gen.Pl.Masc	gemacht-j
 Fischimporte	N.Reg.Gen.Pl.Masc	Fischimport-n
 bzw.	CONJ.Coord	bzw.-c
 </s>
-<s id="677:40&collection=eptic3">
+<s id="677:40">
 lediglich	ADV	lediglich-a
 3	CARD	3-m
 %	N.Reg.*.*.Neut	%-n
@@ -15858,7 +15858,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:41&collection=eptic3">
+<s id="677:41">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 nicht	PART.Neg	nicht-x
@@ -15899,7 +15899,7 @@ berücksichtigen	VINF.Full	berücksichtigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:42&collection=eptic3">
+<s id="677:42">
 Nichtsdestotrotz	PROADV.Dem	Nichtsdestotrotz-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -15934,7 +15934,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:43&collection=eptic3">
+<s id="677:43">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bereits	ADV	bereits-a
@@ -15961,7 +15961,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:44&collection=eptic3">
+<s id="677:44">
 In	APPR	in-i
 meinem	PRO.Poss.Attr.Dat.Sg.Masc	meine-p
 Bericht	N.Reg.Dat.Sg.Masc	Bericht-n
@@ -15989,7 +15989,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:45&collection=eptic3">
+<s id="677:45">
 Hierzu	PROADV.Dem	hierzu-x
 gehört	VFIN.Full.3.Sg.Pres.Ind	gehören-v
 geistiges	ADJA.Pos.Acc.Sg.Neut	geistig-j
@@ -15997,7 +15997,7 @@ Eigentum	N.Reg.Acc.Sg.Neut	Eigentum-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:46&collection=eptic3">
+<s id="677:46">
 Zu	APPR	zu-i
 oft	ADV	oft-a
 gehen	VFIN.Full.1.Pl.Pres.Ind	gehen-v
@@ -16014,7 +16014,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:47&collection=eptic3">
+<s id="677:47">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 jedoch	ADV	jedoch-a
@@ -16036,7 +16036,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:48&collection=eptic3">
+<s id="677:48">
 Außerdem	PROADV.Dem	außerdem-x
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -16070,7 +16070,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:49&collection=eptic3">
+<s id="677:49">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -16093,7 +16093,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="677:50&collection=eptic3">
+<s id="677:50">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 uns	PRO.Pers.Subst.1.Acc.Pl.*	sie-p
@@ -16141,13 +16141,13 @@ können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="683:1&collection=eptic3">
+<s id="683:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="683:2&collection=eptic3">
+<s id="683:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -16159,7 +16159,7 @@ bedanken	VINF.Full	bedanken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:3&collection=eptic3">
+<s id="683:3">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Schutz	N.Reg.Nom.Sg.Masc	Schutz-n
 und	CONJ.Coord	und-c
@@ -16193,7 +16193,7 @@ Priorität	N.Reg.Acc.Sg.Fem	Priorität-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:4&collection=eptic3">
+<s id="683:4">
 Im	APPRART.Dat.Sg.Masc	in-i
 Mittelpunkt	N.Reg.Dat.Sg.Masc	Mittelpunkt-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -16213,7 +16213,7 @@ Kinder	N.Reg.Gen.Pl.Neut	Kind-n
 u.	APPR	u.-i
 a.	PRO.Indef.Subst.Dat.Sg.*	a.-p
 </s>
-<s id="683:5&collection=eptic3">
+<s id="683:5">
 der	ART.Def.Nom.Sg.Masc	die-x
 Schutz	N.Reg.Nom.Sg.Masc	Schutz-n
 zum	APPRART.Dat.Sg.Neut	zu-i
@@ -16237,7 +16237,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:6&collection=eptic3">
+<s id="683:6">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -16274,7 +16274,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:7&collection=eptic3">
+<s id="683:7">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Praxis	N.Reg.Nom.Sg.Fem	Praxis-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -16304,7 +16304,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:8&collection=eptic3">
+<s id="683:8">
 Ab	APPR	ab-i
 2011	CARD	[number]-m
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -16327,7 +16327,7 @@ erstatten	VINF.Full	erstatten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:9&collection=eptic3">
+<s id="683:9">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gelten	VFIN.Full.3.Pl.Pres.Ind	gelten-v
 jedoch	ADV	jedoch-a
@@ -16359,7 +16359,7 @@ umsetzen	VINF.Full	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:10&collection=eptic3">
+<s id="683:10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -16386,7 +16386,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:11&collection=eptic3">
+<s id="683:11">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -16397,7 +16397,7 @@ Haager	ADJA.Pos.*.*.*	Haager-j
 vom	APPRART.Dat.Sg.Masc	von-i
 29.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="683:12&collection=eptic3">
+<s id="683:12">
 Mai	N.Reg.*.Sg.Masc	Mai-n
 1993	CARD	[number]-m
 über	APPR	über-i
@@ -16424,7 +16424,7 @@ geregelt	VPP.Full.Psp	regeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:13&collection=eptic3">
+<s id="683:13">
 Alle	PRO.Indef.Attr.Nom.Pl.Masc	alle-p
 Mitgliedstaaten	N.Reg.Nom.Pl.Masc	Mitgliedstaat-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -16441,7 +16441,7 @@ nicht	PART.Neg	nicht-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:14&collection=eptic3">
+<s id="683:14">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Ziel	N.Reg.Nom.Sg.Neut	Ziel-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -16491,7 +16491,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:15&collection=eptic3">
+<s id="683:15">
 Auf	APPR	auf-i
 internationaler	ADJA.Pos.Dat.Sg.Fem	international-j
 Ebene	N.Reg.Dat.Sg.Fem	Ebene-n
@@ -16526,7 +16526,7 @@ Vertragsstaaten	N.Reg.Gen.Pl.Masc	Vertragsstaat-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:16&collection=eptic3">
+<s id="683:16">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 erachtet	VFIN.Full.3.Sg.Pres.Ind	erachten-v
@@ -16556,7 +16556,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:17&collection=eptic3">
+<s id="683:17">
 Trotzdem	PROADV.Dem	trotzdem-x
 behält	VFIN.Full.3.Sg.Pres.Ind	behalten-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -16582,7 +16582,7 @@ Auge	N.Reg.Dat.Sg.Neut	Auge-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:18&collection=eptic3">
+<s id="683:18">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -16605,7 +16605,7 @@ umsetzen	VINF.Full	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:19&collection=eptic3">
+<s id="683:19">
 Im	APPRART.Dat.Sg.Masc	in-i
 November	N.Reg.Dat.Sg.Masc	November-n
 2009	CARD	[number]-m
@@ -16623,12 +16623,12 @@ Thema	N.Reg.Dat.Sg.Neut	Thema-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:20&collection=eptic3">
+<s id="683:20">
 Das	ART.Def.Nom.Sg.Neut	die-x
 am	APPRART.Dat.Sg.Masc	an-i
 14.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="683:21&collection=eptic3">
+<s id="683:21">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 2010	CARD	[number]-m
 herausgegebene	ADJA.Pos.Nom.Sg.Neut	herausgegeben-j
@@ -16675,7 +16675,7 @@ Bürgern	N.Reg.Dat.Pl.Masc	Bürger-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="683:22&collection=eptic3">
+<s id="683:22">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -16703,13 +16703,13 @@ angeht	VFIN.Full.3.Sg.Pres.Ind	angehen-v
 <speaker name="Yannakoudakis Marina" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="174" duration="short" durations="73.0" speed="medium" speedwm="143.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="684:1&collection=eptic3">
+<s id="684:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="684:2&collection=eptic3">
+<s id="684:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Adoption	N.Reg.Nom.Sg.Fem	Adoption-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -16742,7 +16742,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:3&collection=eptic3">
+<s id="684:3">
 Für	APPR	für-i
 die	ART.Def.Acc.Sg.Fem	die-x
 Adoption	N.Reg.Acc.Sg.Fem	Adoption-n
@@ -16768,7 +16768,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:4&collection=eptic3">
+<s id="684:4">
 Dabei	PROADV.Dem	dabei-x
 steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 stets	ADV	stets-a
@@ -16792,7 +16792,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:5&collection=eptic3">
+<s id="684:5">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
 internationaler	ADJA.Pos.Gen.Pl.Fem	international-j
@@ -16809,7 +16809,7 @@ Ebene	N.Reg.Dat.Sg.Fem	Ebene-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:6&collection=eptic3">
+<s id="684:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 jedoch	ADV	jedoch-a
@@ -16829,7 +16829,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:7&collection=eptic3">
+<s id="684:7">
 Während	CONJ.SubFin	während-c
 Fortschritte	N.Reg.Nom.Pl.Masc	Fortschritt-n
 bei	APPR	bei-i
@@ -16877,7 +16877,7 @@ richten	VINF.Full	richten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:8&collection=eptic3">
+<s id="684:8">
 Daher	PROADV.Dem	daher-x
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 alle	PRO.Indef.Attr.Nom.Pl.Masc	alle-p
@@ -16903,7 +16903,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="684:9&collection=eptic3">
+<s id="684:9">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Mitgliedstaaten	N.Reg.Nom.Pl.Masc	Mitgliedstaat-n
 müssen	VFIN.Mod.3.Pl.Pres.Ind	müssen-v
@@ -16944,13 +16944,13 @@ einräumt	VFIN.Full.3.Sg.Pres.Ind	einräumen-v
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="685:1&collection=eptic3">
+<s id="685:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="685:2&collection=eptic3">
+<s id="685:2">
 In	APPR	in-i
 Irland	N.Name.Dat.Sg.Neut	Irland-n
 lautet	VFIN.Full.3.Sg.Pres.Ind	lauten-v
@@ -16972,7 +16972,7 @@ können	VFIN.Mod.3.Pl.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:3&collection=eptic3">
+<s id="685:3">
 Die	ART.Def.Nom.Sg.Fem	die-x
 heute	ADV	heute-a
 hier	ADV	hier-a
@@ -16991,7 +16991,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:4&collection=eptic3">
+<s id="685:4">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Association	N.Reg.Nom.Sg.Fem	Association-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -17013,7 +17013,7 @@ adoptieren	VINF.Full	adoptieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:5&collection=eptic3">
+<s id="685:5">
 Unsere	PRO.Poss.Attr.Nom.Sg.Fem	unsre-p
 Einstellung	N.Reg.Nom.Sg.Fem	Einstellung-n
 zu	APPR	zu-i
@@ -17025,7 +17025,7 @@ verändert	VPP.Full.Psp	verändern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:6&collection=eptic3">
+<s id="685:6">
 In	APPR	in-i
 Irland	N.Name.Dat.Sg.Neut	Irland-n
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
@@ -17052,7 +17052,7 @@ freigegeben	VPP.Full.Psp	freigeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:7&collection=eptic3">
+<s id="685:7">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 kein	PRO.Indef.Attr.Nom.Sg.Neut	keine-p
@@ -17081,7 +17081,7 @@ stehen	VINF.Full	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:8&collection=eptic3">
+<s id="685:8">
 Die	ART.Def.Nom.Sg.Fem	die-x
 leibliche	ADJA.Pos.Nom.Sg.Fem	leiblich-j
 Familie	N.Reg.Nom.Sg.Fem	Familie-n
@@ -17096,7 +17096,7 @@ ein	PART.Verb	ein-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:9&collection=eptic3">
+<s id="685:9">
 Zugleich	ADV	zugleich-a
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -17118,7 +17118,7 @@ bieten	VINF.Full	bieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:10&collection=eptic3">
+<s id="685:10">
 Jeder	PRO.Indef.Attr.Nom.Sg.Masc	jede-p
 Mitgliedstaat	N.Reg.Nom.Sg.Masc	Mitgliedstaat-n
 –	CARD	[number]-m
@@ -17143,7 +17143,7 @@ schützen	VINF.Full	schützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:11&collection=eptic3">
+<s id="685:11">
 Europa	N.Name.Nom.Sg.Neut	Europa-n
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 dabei	PROADV.Dem	dabei-x
@@ -17154,7 +17154,7 @@ einnehmen	VINF.Full	einnehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:12&collection=eptic3">
+<s id="685:12">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -17175,7 +17175,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:13&collection=eptic3">
+<s id="685:13">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 reden	VFIN.Full.1.Pl.Pres.Ind	reden-v
 darüber	PROADV.Dem	darüber-x
@@ -17199,7 +17199,7 @@ handeln	VINF.Full	handeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:14&collection=eptic3">
+<s id="685:14">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -17212,7 +17212,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:15&collection=eptic3">
+<s id="685:15">
 Dann	ADV	dann-a
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -17223,7 +17223,7 @@ verbessern	VINF.Full	verbessern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="685:16&collection=eptic3">
+<s id="685:16">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -17251,13 +17251,13 @@ dafür	PROADV.Dem	dafür-x
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="686:1&collection=eptic3">
+<s id="686:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="686:2&collection=eptic3">
+<s id="686:2">
 Das	ART.Def.Nom.Sg.Neut	die-x
 größte	ADJA.Sup.Nom.Sg.Neut	groß-j
 Geschenk	N.Reg.Nom.Sg.Neut	Geschenk-n
@@ -17279,7 +17279,7 @@ Zuhauses	N.Reg.Gen.Sg.Neut	Zuhause-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:3&collection=eptic3">
+<s id="686:3">
 Die	ART.Def.Nom.Pl.Neut	die-x
 meisten	PRO.Indef.Attr.Nom.Pl.Neut	meiste-p
 Kinder	N.Reg.Nom.Pl.Neut	Kind-n
@@ -17296,7 +17296,7 @@ Eltern	N.Reg.Dat.Pl.Masc	Eltern-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:4&collection=eptic3">
+<s id="686:4">
 Viele	PRO.Indef.Subst.Nom.Pl.*	viele-p
 erhalten	VFIN.Full.3.Pl.Pres.Ind	erhalten-v
 dies	PRO.Dem.Subst.Acc.Sg.Neut	dies-p
@@ -17307,7 +17307,7 @@ Adoptiveltern	N.Reg.Acc.Pl.*	Adoptiveltern-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:5&collection=eptic3">
+<s id="686:5">
 Beides	PRO.Indef.Subst.Nom.Sg.Neut	beide-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 einem	ART.Indef.Dat.Sg.Neut	eine-x
@@ -17327,7 +17327,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:6&collection=eptic3">
+<s id="686:6">
 Das	ART.Def.Acc.Sg.Neut	die-x
 richtige	ADJA.Pos.Acc.Sg.Neut	richtig-j
 Gleichgewicht	N.Reg.Acc.Sg.Neut	Gleichgewicht-n
@@ -17341,7 +17341,7 @@ schwierig	ADJD.Pos	schwierig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:7&collection=eptic3">
+<s id="686:7">
 Aber	CONJ.Coord	aber-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
@@ -17371,7 +17371,7 @@ Berücksichtigung	N.Reg.Dat.Sg.Fem	Berücksichtigung-n
 u.	APPR	u.-i
 a.	PRO.Indef.Subst.Dat.Sg.*	a.-p
 </s>
-<s id="686:8&collection=eptic3">
+<s id="686:8">
 des	ART.Def.Gen.Sg.Neut	die-x
 Haager	ADJA.Pos.*.*.*	Haager-j
 Übereinkommens	N.Reg.Gen.Sg.Neut	Übereinkommen-n
@@ -17420,7 +17420,7 @@ belasten	VINF.Full	belasten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:9&collection=eptic3">
+<s id="686:9">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -17430,7 +17430,7 @@ finden	VINF.Full	finden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="686:10&collection=eptic3">
+<s id="686:10">
 Als	APPR	als-i
 Lehrer	N.Reg.Acc.Sg.Masc	Lehrer-n
 kam	VFIN.Full.3.Sg.Past.Ind	kommen-v
@@ -17468,13 +17468,13 @@ untergebracht	VPP.Full.Psp	unterbringen-v
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="687:1&collection=eptic3">
+<s id="687:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="687:2&collection=eptic3">
+<s id="687:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 breite	ADJA.Pos.Nom.Sg.Fem	breit-j
 Spanne	N.Reg.Nom.Sg.Fem	Spanne-n
@@ -17518,7 +17518,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="687:3&collection=eptic3">
+<s id="687:3">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -17576,7 +17576,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="687:4&collection=eptic3">
+<s id="687:4">
 Insbesondere	ADV	insbesondere-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 dringend	ADJD.Pos	dringend-j
@@ -17599,7 +17599,7 @@ begegnen	VINF.Full	begegnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="687:5&collection=eptic3">
+<s id="687:5">
 Wie	PROADV.Inter	wie-x
 ein	ART.Indef.Nom.Sg.Masc	eine-x
 aktueller	ADJA.Pos.Nom.Sg.Masc	aktuell-j
@@ -17629,7 +17629,7 @@ Europa	N.Name.Dat.Sg.Neut	Europa-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="687:6&collection=eptic3">
+<s id="687:6">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Kinderhandel	N.Reg.Nom.Sg.Masc	Kinderhandel-n
 und	CONJ.Coord	und-c
@@ -17673,7 +17673,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="687:7&collection=eptic3">
+<s id="687:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -17739,13 +17739,13 @@ schützen	VINF.Full	schützen-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="688:1&collection=eptic3">
+<s id="688:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="688:2&collection=eptic3">
+<s id="688:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 würde	VFIN.Aux.1.Sg.Past.Subj	werden-v
 gerne	ADV	gerne-a
@@ -17760,7 +17760,7 @@ lenken	VINF.Full	lenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:3&collection=eptic3">
+<s id="688:3">
 In	APPR	in-i
 Europa	N.Name.Dat.Sg.Neut	Europa-n
 besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
@@ -17785,7 +17785,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:4&collection=eptic3">
+<s id="688:4">
 Hunderte	N.Reg.Nom.Pl.Neut	Hundert-n
 von	APPR	von-i
 Kindern	N.Reg.Dat.Pl.Neut	Kind-n
@@ -17799,7 +17799,7 @@ freigegeben	VPP.Full.Psp	freigeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:5&collection=eptic3">
+<s id="688:5">
 Nach	APPR	nach-i
 all	PRO.Indef.Attr.*.*.*	all-p
 unseren	PRO.Poss.Attr.Dat.Pl.Masc	unsre-p
@@ -17830,7 +17830,7 @@ Menschenhandel	N.Reg.Acc.Sg.Masc	Menschenhandel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:6&collection=eptic3">
+<s id="688:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -17855,7 +17855,7 @@ ergreifen	VINF.Full	ergreifen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:7&collection=eptic3">
+<s id="688:7">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 könnten	VFIN.Mod.1.Pl.Past.Subj	können-v
 gegen	APPR	gegen-i
@@ -17879,7 +17879,7 @@ angehen	VINF.Full	angehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="688:8&collection=eptic3">
+<s id="688:8">
 Hierbei	PROADV.Dem	hierbei-x
 handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -17911,13 +17911,13 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="689:1&collection=eptic3">
+<s id="689:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="689:2&collection=eptic3">
+<s id="689:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wollte	VFIN.Mod.1.Sg.Past.Ind	wollen-v
 etwas	ADV	etwas-a
@@ -17935,7 +17935,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:3&collection=eptic3">
+<s id="689:3">
 Bei	APPR	bei-i
 den	ART.Def.Dat.Pl.*	die-x
 meisten	PRO.Indef.Subst.Dat.Pl.*	meiste-p
@@ -17956,7 +17956,7 @@ betreuen	VFIN.Full.3.Pl.Pres.Ind	betreuen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:4&collection=eptic3">
+<s id="689:4">
 Normalerweise	ADV	normalerweise-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
@@ -17978,7 +17978,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:5&collection=eptic3">
+<s id="689:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -18005,7 +18005,7 @@ machen	VINF.Full	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:6&collection=eptic3">
+<s id="689:6">
 Einige	PRO.Indef.Subst.Nom.Pl.*	einige-p
 von	APPR	von-i
 diesen	PRO.Dem.Attr.Dat.Pl.Masc	diese-p
@@ -18039,7 +18039,7 @@ Zuhause	N.Reg.Nom.Sg.Neut	Zuhause-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:7&collection=eptic3">
+<s id="689:7">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Rechte	N.Reg.Nom.Pl.Neut	Recht-n
 von	APPR	von-i
@@ -18063,7 +18063,7 @@ aufwachsen	VFIN.Full.3.Pl.Pres.Ind	aufwachsen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:8&collection=eptic3">
+<s id="689:8">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 etwas	PRO.Indef.Subst.*.*.Neut	etwas-p
@@ -18083,7 +18083,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="689:9&collection=eptic3">
+<s id="689:9">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Sie	PRO.Pers.Subst.3.Acc.*.*	sie-p
@@ -18100,7 +18100,7 @@ Thema	N.Reg.Dat.Sg.Neut	Thema-n
 verwandte	ADJA.Pos.Nom.Sg.Fem	verwandt-j
 bzw.	CONJ.Coord	bzw.-c
 </s>
-<s id="689:10&collection=eptic3">
+<s id="689:10">
 befreundete	ADJA.Pos.Nom.Pl.Masc	befreundet-j
 Betreuer	N.Reg.Nom.Pl.Masc	Betreuer-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -18144,13 +18144,13 @@ an	PART.Verb	an-x
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="690:1&collection=eptic3">
+<s id="690:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="690:2&collection=eptic3">
+<s id="690:2">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -18182,7 +18182,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:3&collection=eptic3">
+<s id="690:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 als	APPR	als-i
@@ -18228,7 +18228,7 @@ betrifft	VFIN.Full.3.Sg.Pres.Ind	betreffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:4&collection=eptic3">
+<s id="690:4">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -18271,7 +18271,7 @@ Europa	N.Name.Dat.Sg.Neut	Europa-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:5&collection=eptic3">
+<s id="690:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 bezüglich	APPR	bezüglich-i
@@ -18310,7 +18310,7 @@ sollen	VFIN.Mod.3.Pl.Pres.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:6&collection=eptic3">
+<s id="690:6">
 Dazu	PROADV.Dem	dazu-x
 gehören	VFIN.Full.3.Pl.Pres.Ind	gehören-v
 Aktionen	N.Reg.Nom.Pl.Fem	Aktion-n
@@ -18342,7 +18342,7 @@ umzusetzen	VINF.Full.zu	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:7&collection=eptic3">
+<s id="690:7">
 Wie	PROADV.Inter	wie-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 unter	APPR	unter-i
@@ -18378,7 +18378,7 @@ Adoptionsentscheidungen	N.Reg.Nom.Pl.Fem	Adoptionsentscheidung-n
 d.	PRO.Dem.Subst.Nom.Sg.Neut	d.-p
 h.	VFIN.Full.3.Sg.Pres.Ind	h.-v
 </s>
-<s id="690:8&collection=eptic3">
+<s id="690:8">
 die	ART.Def.Nom.Sg.Fem	die-x
 gegenseitige	ADJA.Pos.Nom.Sg.Fem	gegenseitig-j
 Anerkennung	N.Reg.Nom.Sg.Fem	Anerkennung-n
@@ -18391,7 +18391,7 @@ erleichtern	VINF.Full	erleichtern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:9&collection=eptic3">
+<s id="690:9">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 die	ART.Def.Acc.Pl.Neut	die-x
 Bedenken	N.Reg.Acc.Pl.Neut	Bedenken-n
@@ -18449,7 +18449,7 @@ liegt	VFIN.Full.3.Sg.Pres.Ind	liegen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:10&collection=eptic3">
+<s id="690:10">
 Die	ART.Def.Nom.Pl.Fem	die-x
 ergriffenen	ADJA.Pos.Nom.Pl.Fem	ergriffen-j
 Maßnahmen	N.Reg.Nom.Pl.Fem	Maßnahme-n
@@ -18477,7 +18477,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:11&collection=eptic3">
+<s id="690:11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 verfolgt	VFIN.Full.3.Sg.Pres.Ind	verfolgen-v
@@ -18511,7 +18511,7 @@ entwickeln	VINF.Full	entwickeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:12&collection=eptic3">
+<s id="690:12">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 die	ART.Def.Acc.Sg.Fem	die-x
 Kontrolle	N.Reg.Acc.Sg.Fem	Kontrolle-n
@@ -18557,7 +18557,7 @@ handelt	VFIN.Full.3.Sg.Pres.Ind	handeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:13&collection=eptic3">
+<s id="690:13">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 beteiligt	VFIN.Full.3.Sg.Pres.Ind	beteiligen-v
@@ -18568,7 +18568,7 @@ Kontrollorgan	N.Reg.Dat.Sg.Neut	Kontrollorgan-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:14&collection=eptic3">
+<s id="690:14">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 viele	PRO.Indef.Subst.Nom.Pl.Masc	viele-p
@@ -18598,7 +18598,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:15&collection=eptic3">
+<s id="690:15">
 Für	APPR	für-i
 die	ART.Def.Acc.Sg.Fem	die-x
 Kommission	N.Reg.Acc.Sg.Fem	Kommission-n
@@ -18618,7 +18618,7 @@ Kompetenz	N.Reg.Gen.Sg.Fem	Kompetenz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:16&collection=eptic3">
+<s id="690:16">
 Hier	ADV	hier-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -18637,7 +18637,7 @@ entwickeln	VFIN.Full.3.Pl.Pres.Ind	entwickeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:17&collection=eptic3">
+<s id="690:17">
 Daher	PROADV.Dem	daher-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -18655,7 +18655,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:18&collection=eptic3">
+<s id="690:18">
 Und	CONJ.Coord	und-c
 schließlich	ADV	schließlich-a
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
@@ -18679,7 +18679,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 u.	APPR	u.-i
 a.	PRO.Indef.Subst.Dat.Sg.*	a.-p
 </s>
-<s id="690:19&collection=eptic3">
+<s id="690:19">
 die	ART.Def.Nom.Sg.Fem	die-x
 Frage	N.Reg.Nom.Sg.Fem	Frage-n
 eines	ART.Indef.Gen.Sg.Masc	eine-x
@@ -18695,7 +18695,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:20&collection=eptic3">
+<s id="690:20">
 Als	APPR	als-i
 Patin	N.Reg.Acc.Sg.Fem	Patin-n
 eines	ART.Indef.Gen.Sg.Masc	eine-x
@@ -18731,7 +18731,7 @@ hineinspielen	VINF.Full	hineinspielen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:21&collection=eptic3">
+<s id="690:21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 mir	PRO.Refl.Subst.1.Dat.Sg.*	sie-p
@@ -18746,7 +18746,7 @@ angehört	VPP.Full.Psp	angehören|anhören-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:22&collection=eptic3">
+<s id="690:22">
 Dabei	PROADV.Dem	dabei-x
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -18783,7 +18783,7 @@ beschäftigt	VPP.Full.Psp	beschäftigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="690:23&collection=eptic3">
+<s id="690:23">
 Wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 also	ADV	also-a
@@ -18834,13 +18834,13 @@ Ländern	N.Reg.Dat.Pl.Neut	Land-n
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="691:1&collection=eptic3">
+<s id="691:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="691:2&collection=eptic3">
+<s id="691:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -18896,7 +18896,7 @@ transportieren	VINF.Full	transportieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:3&collection=eptic3">
+<s id="691:3">
 Weil	CONJ.SubFin	weil-c
 unsere	PRO.Poss.Attr.Nom.Pl.Fem	unsre-p
 Fluggesellschaften	N.Reg.Nom.Pl.Fem	Fluggesellschaft-n
@@ -18941,7 +18941,7 @@ Reisenden	N.Reg.Dat.Pl.*	Reisende-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:4&collection=eptic3">
+<s id="691:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 rufe	VFIN.Full.1.Sg.Pres.Ind	rufen-v
 den	ART.Def.Acc.Sg.Masc	die-x
@@ -19034,7 +19034,7 @@ prüfen	VINF.Full	prüfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:5&collection=eptic3">
+<s id="691:5">
 Ungewöhnlicher	ADJA.Pos.Nom.Sg.Masc	ungewöhnlich-j
 Schneefall	N.Reg.Nom.Sg.Masc	Schneefall-n
 und	CONJ.Coord	und-c
@@ -19063,7 +19063,7 @@ Polkappe	N.Reg.Gen.Sg.Fem	Polkappe-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:6&collection=eptic3">
+<s id="691:6">
 Solche	PRO.Indef.Attr.Nom.Pl.Fem	solche-p
 Bedingungen	N.Reg.Nom.Pl.Fem	Bedingung-n
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -19074,7 +19074,7 @@ auftreten	VINF.Full	auftreten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:7&collection=eptic3">
+<s id="691:7">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 sie	PRO.Pers.Subst.3.Acc.Sg.Fem	sie-p
@@ -19093,7 +19093,7 @@ begrenzen	VINF.Full	begrenzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="691:8&collection=eptic3">
+<s id="691:8">
 Aber	CONJ.Coord	aber-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
@@ -19117,13 +19117,13 @@ sein	VINF.Aux	sein-v
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="693:1&collection=eptic3">
+<s id="693:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="693:2&collection=eptic3">
+<s id="693:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 unter	APPR	unter-i
@@ -19174,7 +19174,7 @@ stattfand	VFIN.Full.3.Sg.Past.Ind	stattfinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="693:3&collection=eptic3">
+<s id="693:3">
 Die	ART.Def.Nom.Pl.Fem	die-x
 sogenannten	ADJA.Pos.Nom.Pl.Fem	sogenannt-j
 Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
@@ -19241,7 +19241,7 @@ war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="693:4&collection=eptic3">
+<s id="693:4">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -19285,13 +19285,13 @@ gewährleisten	VINF.Full	gewährleisten-v
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="694:1&collection=eptic3">
+<s id="694:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="694:2&collection=eptic3">
+<s id="694:2">
 Die	ART.Def.Nom.Pl.Fem	die-x
 türkischen	ADJA.Pos.Nom.Pl.Fem	türkisch-j
 Sicherheitskräfte	N.Reg.Nom.Pl.Fem	Sicherheitskraft-n
@@ -19323,7 +19323,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="694:3&collection=eptic3">
+<s id="694:3">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Sicherheitskräfte	N.Reg.Nom.Pl.Fem	Sicherheitskraft-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -19346,7 +19346,7 @@ verlassen	VINF.Full	verlassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="694:4&collection=eptic3">
+<s id="694:4">
 Die	ART.Def.Nom.Sg.Fem	die-x
 vorgebrachte	ADJA.Pos.Nom.Sg.Fem	vorgebracht-j
 Entschuldigung	N.Reg.Nom.Sg.Fem	Entschuldigung-n
@@ -19378,7 +19378,7 @@ fiel	VFIN.Full.3.Sg.Past.Ind	fallen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="694:5&collection=eptic3">
+<s id="694:5">
 Eine	ART.Indef.Acc.Sg.Fem	eine-x
 schriftliche	ADJA.Pos.Acc.Sg.Fem	schriftlich-j
 Erlaubnis	N.Reg.Acc.Sg.Fem	Erlaubnis-n
@@ -19443,7 +19443,7 @@ beizutreten	VINF.Full.zu	beitreten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="694:6&collection=eptic3">
+<s id="694:6">
 Unter	APPR	unter-i
 dem	ART.Def.Dat.Sg.Masc	die-x
 Vertrag	N.Reg.Dat.Sg.Masc	Vertrag-n
@@ -19477,13 +19477,13 @@ leben	VINF.Full	leben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="694:7&collection=eptic3">
+<s id="694:7">
 Heute	ADV	heute-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 300.	ADJA.Pos.Dat.Sg.Neut	[number]-j
 </s>
-<s id="694:8&collection=eptic3">
+<s id="694:8">
 Jetzt	ADV	jetzt-a
 wissen	VFIN.Full.3.Pl.Pres.Ind	wissen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -19501,13 +19501,13 @@ warum	PROADV.Inter	warum-x
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="695:1&collection=eptic3">
+<s id="695:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="695:2&collection=eptic3">
+<s id="695:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 meine	PRO.Poss.Attr.Acc.Sg.Fem	meine-p
@@ -19526,7 +19526,7 @@ bringen	VINF.Full	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:3&collection=eptic3">
+<s id="695:3">
 Wenn	CONJ.SubFin	wenn-c
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
@@ -19557,7 +19557,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:4&collection=eptic3">
+<s id="695:4">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 unsere	PRO.Poss.Attr.Acc.Pl.Fem	unsre-p
@@ -19583,7 +19583,7 @@ Rücken	N.Reg.Dat.Sg.Masc	Rücken-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:5&collection=eptic3">
+<s id="695:5">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -19615,7 +19615,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:6&collection=eptic3">
+<s id="695:6">
 Wenn	CONJ.SubFin	wenn-c
 nicht	PART.Neg	nicht-x
 einige	PRO.Indef.Attr.Nom.Pl.Fem	einige-p
@@ -19648,7 +19648,7 @@ ratifizieren	VINF.Full	ratifizieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:7&collection=eptic3">
+<s id="695:7">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 nichts	PRO.Indef.Subst.*.*.Neut	nichts-p
@@ -19681,7 +19681,7 @@ Ländern	N.Reg.Dat.Pl.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="695:8&collection=eptic3">
+<s id="695:8">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Besorgnis	N.Reg.Nom.Sg.Fem	Besorgnis-n
 wollte	VFIN.Mod.3.Sg.Past.Ind	wollen-v
@@ -19703,13 +19703,13 @@ teilen	VFIN.Full.3.Pl.Pres.Ind	teilen-v
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="696:1&collection=eptic3">
+<s id="696:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="696:2&collection=eptic3">
+<s id="696:2">
 Nächste	ADJA.Sup.Acc.Sg.Fem	nah-j
 Woche	N.Reg.Acc.Sg.Fem	Woche-n
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -19729,7 +19729,7 @@ feiern	VINF.Full	feiern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="696:3&collection=eptic3">
+<s id="696:3">
 Wie	PROADV.Inter	wie-x
 viele	PRO.Indef.Subst.Nom.Pl.*	viele-p
 von	APPR	von-i
@@ -19753,7 +19753,7 @@ Haggis	N.Name.Dat.Sg.Fem	Haggis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="696:4&collection=eptic3">
+<s id="696:4">
 Zurzeit	ADV	zurzeit-a
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -19791,7 +19791,7 @@ probieren	VINF.Full	probieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="696:5&collection=eptic3">
+<s id="696:5">
 Was	PRO.Inter.Subst.Acc.Sg.Neut	was-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -19846,13 +19846,13 @@ setzen	VINF.Full	setzen-v
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="161" duration="short" durations="71.0" speed="medium" speedwm="136.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="697:1&collection=eptic3">
+<s id="697:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="697:2&collection=eptic3">
+<s id="697:2">
 Im	APPRART.Dat.Sg.Masc	in-i
 Dezember	N.Reg.Dat.Sg.Masc	Dezember-n
 teilte	VFIN.Full.3.Sg.Past.Ind	teilen-v
@@ -19889,7 +19889,7 @@ voranzubringen	VINF.Full.zu	voranbringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:3&collection=eptic3">
+<s id="697:3">
 Dasselbe	PRO.Dem.Subst.Nom.Sg.Neut	dieselbe-p
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 gesagt	VPP.Full.Psp	sagen-v
@@ -19915,7 +19915,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:4&collection=eptic3">
+<s id="697:4">
 Die	ART.Def.Nom.Pl.Masc	die-x
 führenden	ADJA.Pos.Nom.Pl.Masc	führend-j
 Staatsmänner	N.Reg.Nom.Pl.Masc	Staatsmann-n
@@ -19966,7 +19966,7 @@ halten	VINF.Full	halten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:5&collection=eptic3">
+<s id="697:5">
 Oppositionelle	ADJA.Pos.Nom.Pl.Masc	oppositionell-j
 Journalisten	N.Reg.Nom.Pl.Masc	Journalist-n
 und	CONJ.Coord	und-c
@@ -19977,7 +19977,7 @@ drangsaliert	VPP.Full.Psp	drangsalieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:6&collection=eptic3">
+<s id="697:6">
 Zudem	PROADV.Dem	zudem-x
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 derzeit	ADV	derzeit-a
@@ -19999,7 +19999,7 @@ gesteckt	VPP.Full.Psp	stecken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:7&collection=eptic3">
+<s id="697:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 <g/>
@@ -20017,7 +20017,7 @@ stärken	VINF.Full	stärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="697:8&collection=eptic3">
+<s id="697:8">
 Die	ART.Def.Nom.Pl.Fem	die-x
 unabhängigen	ADJA.Pos.Nom.Pl.Fem	unabhängig-j
 Gewerkschaften	N.Reg.Nom.Pl.Fem	Gewerkschaft-n
@@ -20103,13 +20103,13 @@ bringen	VINF.Full	bringen-v
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="698:1&collection=eptic3">
+<s id="698:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="698:2&collection=eptic3">
+<s id="698:2">
 Auch	ADV	auch-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -20142,7 +20142,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="698:3&collection=eptic3">
+<s id="698:3">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Menschenrecht	N.Reg.Nom.Sg.Neut	Menschenrecht-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -20174,7 +20174,7 @@ teilnahmen	VFIN.Full.3.Pl.Past.Ind	teilnehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="698:4&collection=eptic3">
+<s id="698:4">
 Die	ART.Def.Nom.Sg.Fem	die-x
 sogenannte	ADJA.Pos.Nom.Sg.Fem	sogenannt-j
 Polizei	N.Reg.Nom.Sg.Fem	Polizei-n
@@ -20219,7 +20219,7 @@ verlassen	VINF.Full	verlassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="698:5&collection=eptic3">
+<s id="698:5">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Europäische	ADJA.Pos.Nom.Sg.Neut	europäisch-j
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -20251,7 +20251,7 @@ verurteilen	VINF.Full	verurteilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="698:6&collection=eptic3">
+<s id="698:6">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Besatzung	N.Reg.Nom.Sg.Fem	Besatzung-n
 verstößt	VFIN.Full.3.Sg.Pres.Ind	verstoßen-v
@@ -20273,7 +20273,7 @@ Abkommen	N.Reg.Acc.Sg.Neut	Abkommen-n
 von	APPR	von-i
 1975.	CARD	[number]-m
 </s>
-<s id="698:7&collection=eptic3">
+<s id="698:7">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -20319,13 +20319,13 @@ fortzuführen	VINF.Full.zu	fortführen-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="699:1&collection=eptic3">
+<s id="699:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="699:2&collection=eptic3">
+<s id="699:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Richtlinie	N.Reg.Nom.Sg.Fem	Richtlinie-n
 über	APPR	über-i
@@ -20353,7 +20353,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:3&collection=eptic3">
+<s id="699:3">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -20391,7 +20391,7 @@ erfordert	VFIN.Full.3.Sg.Pres.Ind	erfordern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:4&collection=eptic3">
+<s id="699:4">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Versäumnis	N.Reg.Nom.Sg.Neut	Versäumnis-n
 bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
@@ -20416,7 +20416,7 @@ einzuhalten	VINF.Full.zu	einhalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:5&collection=eptic3">
+<s id="699:5">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ungerecht	ADJD.Pos	ungerecht-j
@@ -20439,7 +20439,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:6&collection=eptic3">
+<s id="699:6">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 selbst	ADV	selbst-a
@@ -20455,7 +20455,7 @@ angeführt	VPP.Full.Psp	anführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:7&collection=eptic3">
+<s id="699:7">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 stellt	VFIN.Full.3.Sg.Pres.Ind	stellen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -20474,7 +20474,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:8&collection=eptic3">
+<s id="699:8">
 Vielleicht	ADV	vielleicht-a
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
@@ -20521,7 +20521,7 @@ daneben	PROADV.Dem	daneben-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:9&collection=eptic3">
+<s id="699:9">
 "	SYM.Quot.Left	"-x
 Die	ART.Def.Nom.Sg.Fem	die-x
 Erarbeitung	N.Reg.Nom.Sg.Fem	Erarbeitung-n
@@ -20561,7 +20561,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:10&collection=eptic3">
+<s id="699:10">
 Je	ADV	je-a
 eher	ADV	eher-a
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
@@ -20573,7 +20573,7 @@ besser	ADJD.Comp	gut-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="699:11&collection=eptic3">
+<s id="699:11">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -20598,13 +20598,13 @@ werden	VINF.Aux	werden-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="700:1&collection=eptic3">
+<s id="700:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="700:2&collection=eptic3">
+<s id="700:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 kurz	ADJD.Pos	kurz-j
@@ -20614,7 +20614,7 @@ stellen	VINF.Full	stellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="700:3&collection=eptic3">
+<s id="700:3">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 die	ART.Def.Acc.Sg.Fem	die-x
 Europäische	ADJA.Pos.Acc.Sg.Fem	europäisch-j
@@ -20654,7 +20654,7 @@ NRO	N.Name.Acc.Sg.*	NRO-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="700:4&collection=eptic3">
+<s id="700:4">
 Gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 NRO	N.Reg.Acc.Pl.Fem	NRO-n
@@ -20686,7 +20686,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="700:5&collection=eptic3">
+<s id="700:5">
 Oder	N.Name.Nom.Sg.Fem	Oder-n
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Acc.Sg.Neut	sie-p
@@ -20704,7 +20704,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="700:6&collection=eptic3">
+<s id="700:6">
 In	APPR	in-i
 anderen	ADJA.Pos.Dat.Pl.Neut	ander-j
 Worten	N.Reg.Dat.Pl.Neut	Wort-n
@@ -20734,7 +20734,7 @@ NRO	N.Name.Acc.Sg.Fem	NRO-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="700:7&collection=eptic3">
+<s id="700:7">
 Wo	PROADV.Inter	wo-x
 bleibt	VFIN.Full.3.Sg.Pres.Ind	bleiben-v
 da	ADV	da-a
@@ -20743,7 +20743,7 @@ Rechenschaftspflicht	N.Reg.Nom.Sg.Fem	Rechenschaftspflicht-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="700:8&collection=eptic3">
+<s id="700:8">
 Angesichts	APPR	angesichts-i
 einiger	PRO.Indef.Attr.Gen.Pl.Neut	einige-p
 Programme	N.Reg.Gen.Pl.Neut	Programm-n
@@ -20786,7 +20786,7 @@ besorgt	ADJD.Pos	besorgt-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="700:9&collection=eptic3">
+<s id="700:9">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 dennoch	ADV	dennoch-a
@@ -20819,13 +20819,13 @@ verfügt	VFIN.Full.3.Sg.Pres.Ind	verfügen-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="701:1&collection=eptic3">
+<s id="701:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="701:2&collection=eptic3">
+<s id="701:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 begrüße	VFIN.Full.1.Sg.Pres.Ind	begrüßen-v
 den	ART.Def.Acc.Sg.Masc	die-x
@@ -20863,7 +20863,7 @@ hierfür	PROADV.Dem	hierfür-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:3&collection=eptic3">
+<s id="701:3">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Konsens	N.Reg.Nom.Sg.Masc	Konsens-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -20874,7 +20874,7 @@ angenommen	VPP.Full.Psp	annehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:4&collection=eptic3">
+<s id="701:4">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 stellt	VFIN.Full.3.Sg.Pres.Ind	stellen-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -20902,7 +20902,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:5&collection=eptic3">
+<s id="701:5">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Mitgliedstaaten	N.Reg.Nom.Pl.Masc	Mitgliedstaat-n
 und	CONJ.Coord	und-c
@@ -20928,7 +20928,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:6&collection=eptic3">
+<s id="701:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 betonen	VINF.Full	betonen-v
@@ -20970,7 +20970,7 @@ müssen	VFIN.Mod.3.Pl.Pres.Ind	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:7&collection=eptic3">
+<s id="701:7">
 Vier	CARD	vier-m
 Fünftel	N.Reg.Nom.Pl.Neut	Fünftel-n
 unserer	PRO.Poss.Attr.Gen.Sg.Fem	unsre-p
@@ -20998,7 +20998,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:8&collection=eptic3">
+<s id="701:8">
 Damit	CONJ.SubFin	damit-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 die	ART.Def.Acc.Pl.Masc	die-x
@@ -21030,7 +21030,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:9&collection=eptic3">
+<s id="701:9">
 Ein	ART.Indef.Nom.Sg.Neut	eine-x
 solches	PRO.Indef.Attr.Nom.Sg.Neut	solche-p
 Beispiel	N.Reg.Nom.Sg.Neut	Beispiel-n
@@ -21044,7 +21044,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:10&collection=eptic3">
+<s id="701:10">
 Vor	APPR	vor-i
 kurzem	ADJA.Pos.Dat.Sg.*	kurz-j
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
@@ -21095,7 +21095,7 @@ al-Houthi-Rebellenbewegung	N.Reg.Dat.Sg.Fem	al-Houthi-Rebellenbewegung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:11&collection=eptic3">
+<s id="701:11">
 Zum	APPRART.Dat.Sg.Neut	zu-i
 ersten	ADJA.Pos.Dat.Sg.Neut	erst-j
 Mal	N.Reg.Dat.Sg.Neut	Mal-n
@@ -21140,7 +21140,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:12&collection=eptic3">
+<s id="701:12">
 Nachdem	CONJ.SubFin	nachdem-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 viele	PRO.Indef.Attr.Acc.Pl.Fem	viele-p
@@ -21187,7 +21187,7 @@ darstellt	VFIN.Full.3.Sg.Pres.Ind	darstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:13&collection=eptic3">
+<s id="701:13">
 Im	APPRART.Dat.Sg.Masc	in-i
 Falle	N.Reg.Dat.Sg.Masc	Fall-n
 Jemens	N.Name.Gen.Sg.Neut	Jemen-n
@@ -21226,7 +21226,7 @@ ereigneten	VFIN.Full.3.Pl.Past.Ind	ereignen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:14&collection=eptic3">
+<s id="701:14">
 Natürlich	ADV	natürlich-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 humanitäre	ADJA.Pos.Nom.Sg.Fem	humanitär-j
@@ -21242,7 +21242,7 @@ Auswirkungen	N.Reg.Acc.Pl.Fem	Auswirkung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:15&collection=eptic3">
+<s id="701:15">
 Vielmehr	ADV	vielmehr-a
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -21257,7 +21257,7 @@ legen	VINF.Full	legen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:16&collection=eptic3">
+<s id="701:16">
 In	APPR	in-i
 enger	ADJA.Pos.Dat.Sg.Fem	eng-j
 Zusammenarbeit	N.Reg.Dat.Sg.Fem	Zusammenarbeit-n
@@ -21288,11 +21288,11 @@ abgeschlossen	VPP.Full.Psp	abschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:17&collection=eptic3">
+<s id="701:17">
 Am	APPRART.Dat.Sg.Masc	an-i
 8.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="701:18&collection=eptic3">
+<s id="701:18">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -21304,7 +21304,7 @@ angenommen	VPP.Full.Psp	annehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:19&collection=eptic3">
+<s id="701:19">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Überprüfung	N.Reg.Nom.Sg.Fem	Überprüfung-n
 zeigt	VFIN.Full.3.Sg.Pres.Ind	zeigen-v
@@ -21349,7 +21349,7 @@ Katastrophenschutz	N.Reg.Dat.Sg.Masc	Katastrophenschutz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:20&collection=eptic3">
+<s id="701:20">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 auch	ADV	auch-a
@@ -21371,7 +21371,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:21&collection=eptic3">
+<s id="701:21">
 Erstens	ADV	erstens-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -21405,7 +21405,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:22&collection=eptic3">
+<s id="701:22">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 in	APPR	in-i
@@ -21421,7 +21421,7 @@ entscheidend	ADJD.Pos	entscheidend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:23&collection=eptic3">
+<s id="701:23">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -21438,7 +21438,7 @@ eingehen	VINF.Full	eingehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:24&collection=eptic3">
+<s id="701:24">
 Natürlich	ADV	natürlich-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -21458,7 +21458,7 @@ nutzen	VINF.Full	nutzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:25&collection=eptic3">
+<s id="701:25">
 Um	CONJ.SubInf	um-c
 sicherzustellen	VINF.Full.zu	sicherstellen-v
 <g/>
@@ -21497,7 +21497,7 @@ Projekte	N.Reg.Gen.Pl.Neut	Projekt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:26&collection=eptic3">
+<s id="701:26">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 in	APPR	in-i
@@ -21536,7 +21536,7 @@ Jemen	N.Name.Dat.Sg.Neut	Jemen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:27&collection=eptic3">
+<s id="701:27">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 erst	ADV	erst-a
@@ -21551,7 +21551,7 @@ eingeweiht	VPP.Full.Psp	einweihen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:28&collection=eptic3">
+<s id="701:28">
 Das	ART.Def.Nom.Sg.Neut	die-x
 zweite	ADJA.Pos.Nom.Sg.Neut	zweit-j
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
@@ -21580,7 +21580,7 @@ Stimme	N.Reg.Gen.Sg.Fem	Stimme-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:29&collection=eptic3">
+<s id="701:29">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 der	ART.Def.Nom.Sg.Masc	die-x
@@ -21602,7 +21602,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:30&collection=eptic3">
+<s id="701:30">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 auch	ADV	auch-a
@@ -21639,7 +21639,7 @@ einbinden	VFIN.Full.1.Pl.Pres.Ind	einbinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:31&collection=eptic3">
+<s id="701:31">
 Drittens	ADV	drittens-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -21685,7 +21685,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:32&collection=eptic3">
+<s id="701:32">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 nun	ADV	nun-a
@@ -21706,7 +21706,7 @@ Thema	N.Reg.Dat.Sg.Neut	Thema-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:33&collection=eptic3">
+<s id="701:33">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -21724,7 +21724,7 @@ weiterzuführen	VINF.Full.zu	weiterführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:34&collection=eptic3">
+<s id="701:34">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Welt	N.Reg.Nom.Sg.Fem	Welt-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -21733,7 +21733,7 @@ verändert	VPP.Full.Psp	verändern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:35&collection=eptic3">
+<s id="701:35">
 Leider	ADV	leider-a
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -21749,7 +21749,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="701:36&collection=eptic3">
+<s id="701:36">
 Wie	PROADV.Inter	wie-x
 auch	ADV	auch-a
 immer	ADV	immer-a
@@ -21803,13 +21803,13 @@ einzunehmen	VINF.Full.zu	einnehmen-v
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="702:1&collection=eptic3">
+<s id="702:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="702:2&collection=eptic3">
+<s id="702:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
@@ -21840,7 +21840,7 @@ Schattenberichterstattern	N.Reg.Dat.Pl.Masc	Schattenberichterstatter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:3&collection=eptic3">
+<s id="702:3">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 folgt	VFIN.Full.3.Sg.Pres.Ind	folgen-v
 auf	APPR	auf-i
@@ -21860,7 +21860,7 @@ Ernährungssicherheit	N.Reg.Gen.Sg.Fem	Ernährungssicherheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:4&collection=eptic3">
+<s id="702:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bedauere	VFIN.Full.1.Sg.Pres.Ind	bedauern-v
 sehr	ADV	sehr-a
@@ -21878,7 +21878,7 @@ diskutieren	VINF.Full	diskutieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:5&collection=eptic3">
+<s id="702:5">
 Denn	CONJ.Coord	denn-c
 vielleicht	ADV	vielleicht-a
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -21915,7 +21915,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:6&collection=eptic3">
+<s id="702:6">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -21942,7 +21942,7 @@ Agrarpolitik	N.Reg.Gen.Sg.Fem	Agrarpolitik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:7&collection=eptic3">
+<s id="702:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hatte	VFIN.Aux.1.Sg.Past.Ind	haben-v
 einige	PRO.Indef.Attr.Acc.Pl.Masc	einige-p
@@ -21963,7 +21963,7 @@ wider	PART.Verb	wider-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:8&collection=eptic3">
+<s id="702:8">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Idee	N.Reg.Nom.Sg.Fem	Idee-n
 <g/>
@@ -21998,7 +21998,7 @@ Argument	N.Reg.Nom.Sg.Neut	Argument-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:9&collection=eptic3">
+<s id="702:9">
 Alle	PRO.Indef.Attr.Nom.Pl.Fem	alle-p
 Formen	N.Reg.Nom.Pl.Fem	Form-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -22010,7 +22010,7 @@ beitragen	VINF.Full	beitragen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:10&collection=eptic3">
+<s id="702:10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 dabei	PROADV.Dem	dabei-x
@@ -22039,7 +22039,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:11&collection=eptic3">
+<s id="702:11">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Grundproblem	N.Reg.Nom.Sg.Neut	Grundproblem-n
 in	APPR	in-i
@@ -22054,7 +22054,7 @@ Landwirte	N.Reg.Gen.Pl.Masc	Landwirt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="702:12&collection=eptic3">
+<s id="702:12">
 Junge	ADJA.Pos.Nom.Pl.Masc	jung-j
 Landwirte	N.Reg.Nom.Pl.Masc	Landwirt-n
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -22086,13 +22086,13 @@ wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="704:1&collection=eptic3">
+<s id="704:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="704:2&collection=eptic3">
+<s id="704:2">
 Wie	PROADV.Inter	wie-x
 meine	PRO.Poss.Attr.Acc.Pl.Masc	meine-p
 Vorredner	N.Reg.Acc.Pl.Masc	Vorredner-n
@@ -22113,7 +22113,7 @@ Arbeit	N.Reg.Dat.Sg.Fem	Arbeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:3&collection=eptic3">
+<s id="704:3">
 In	APPR	in-i
 nur	ADV	nur-a
 vier	CARD	vier-m
@@ -22132,7 +22132,7 @@ analysiert	VPP.Full.Psp	analysieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:4&collection=eptic3">
+<s id="704:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 hier	ADV	hier-a
@@ -22159,7 +22159,7 @@ betonen	VINF.Full	betonen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:5&collection=eptic3">
+<s id="704:5">
 Erstens	ADV	erstens-a
 <g/>
 :	SYM.Pun.Colon	:-x
@@ -22173,7 +22173,7 @@ Grundlage	N.Reg.Acc.Sg.Fem	Grundlage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:6&collection=eptic3">
+<s id="704:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -22200,7 +22200,7 @@ verhindern	VINF.Full	verhindern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:7&collection=eptic3">
+<s id="704:7">
 Zweitens	ADV	zweitens-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -22226,7 +22226,7 @@ wählen	VINF.Full	wählen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:8&collection=eptic3">
+<s id="704:8">
 Außerdem	PROADV.Dem	außerdem-x
 verfolgen	VFIN.Full.1.Pl.Pres.Ind	verfolgen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -22246,7 +22246,7 @@ fördert	VFIN.Full.3.Sg.Pres.Ind	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="704:9&collection=eptic3">
+<s id="704:9">
 Sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
@@ -22282,7 +22282,7 @@ Jahr	N.Reg.Dat.Sg.Neut	Jahr-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="704:10&collection=eptic3">
+<s id="704:10">
 Bestehlen	VFIN.Full.1.Pl.Pres.Ind	bestehlen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hier	ADV	hier-a
@@ -22314,7 +22314,7 @@ da	PART.Verb	da-x
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="704:11&collection=eptic3">
+<s id="704:11">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -22338,13 +22338,13 @@ möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="705:1&collection=eptic3">
+<s id="705:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="705:2&collection=eptic3">
+<s id="705:2">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 reden	VFIN.Full.1.Pl.Pres.Ind	reden-v
 hier	ADV	hier-a
@@ -22377,7 +22377,7 @@ zu	PART.Verb	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="705:3&collection=eptic3">
+<s id="705:3">
 Von	APPR	von-i
 den	ART.Def.Dat.Pl.Neut	die-x
 sektorübergreifenden	ADJA.Pos.Dat.Pl.Neut	sektorübergreifend-j
@@ -22401,7 +22401,7 @@ angesprochen	VPP.Full.Psp	ansprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="705:4&collection=eptic3">
+<s id="705:4">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Grund	N.Reg.Nom.Sg.Masc	Grund-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -22420,7 +22420,7 @@ besitzen	VINF.Full	besitzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="705:5&collection=eptic3">
+<s id="705:5">
 Daher	PROADV.Dem	daher-x
 reden	VFIN.Full.1.Pl.Pres.Ind	reden-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -22446,7 +22446,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="705:6&collection=eptic3">
+<s id="705:6">
 Wie	PROADV.Inter	wie-x
 einer	PRO.Indef.Subst.Nom.Sg.Masc	eine-p
 meiner	PRO.Poss.Attr.Gen.Pl.Masc	meine-p
@@ -22518,13 +22518,13 @@ sichern	VINF.Full	sichern-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="433" duration="medium" durations="234.0" speed="slow" speedwm="111.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="706:1&collection=eptic3">
+<s id="706:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="706:2&collection=eptic3">
+<s id="706:2">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 begrüßt	VFIN.Full.3.Sg.Pres.Ind	begrüßen-v
@@ -22540,7 +22540,7 @@ kommt	VFIN.Full.3.Sg.Pres.Ind	kommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:3&collection=eptic3">
+<s id="706:3">
 Derzeit	ADV	derzeit-a
 steigen	VFIN.Full.3.Pl.Pres.Ind	steigen-v
 die	ART.Def.Nom.Pl.Masc	die-x
@@ -22571,7 +22571,7 @@ auswirken	VINF.Full	auswirken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:4&collection=eptic3">
+<s id="706:4">
 Daher	PROADV.Dem	daher-x
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -22600,7 +22600,7 @@ danken	VINF.Full	danken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:5&collection=eptic3">
+<s id="706:5">
 Für	APPR	für-i
 knapp	ADJD.Pos	knapp-j
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -22640,7 +22640,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:6&collection=eptic3">
+<s id="706:6">
 Für	APPR	für-i
 sie	PRO.Pers.Subst.3.Acc.Pl.*	sie-p
 bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
@@ -22653,7 +22653,7 @@ Fortschritt	N.Reg.Acc.Sg.Masc	Fortschritt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:7&collection=eptic3">
+<s id="706:7">
 Durch	APPR	durch-i
 die	ART.Def.Acc.Sg.Fem	die-x
 GAP	N.Name.Acc.Sg.Fem	GAP-n
@@ -22687,7 +22687,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:8&collection=eptic3">
+<s id="706:8">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 fortgesetzt	VPP.Full.Psp	fortsetzen-v
@@ -22695,7 +22695,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:9&collection=eptic3">
+<s id="706:9">
 Ernährungssicherheit	N.Reg.Nom.Sg.Fem	Ernährungssicherheit-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -22715,7 +22715,7 @@ die	PRO.Rel.Subst.Nom.Sg.Fem	die-p
 am	APPRART.Dat.Sg.Masc	an-i
 18.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="706:10&collection=eptic3">
+<s id="706:10">
 November	N.Reg.Nom.Sg.Masc	November-n
 von	APPR	von-i
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -22725,7 +22725,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:11&collection=eptic3">
+<s id="706:11">
 Der	ART.Def.Nom.Sg.Masc	die-x
 von	APPR	von-i
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
@@ -22764,7 +22764,7 @@ auswirken	VINF.Full	auswirken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:12&collection=eptic3">
+<s id="706:12">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 stimmt	VFIN.Full.3.Sg.Pres.Ind	stimmen-v
@@ -22783,7 +22783,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:13&collection=eptic3">
+<s id="706:13">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -22827,7 +22827,7 @@ bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:14&collection=eptic3">
+<s id="706:14">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 empfiehlt	VFIN.Full.3.Sg.Pres.Ind	empfehlen-v
@@ -22841,7 +22841,7 @@ Nahrungsmittelvorräten	N.Reg.Dat.Pl.Fem	Nahrungsmittelvorräten-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:15&collection=eptic3">
+<s id="706:15">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 kein	PRO.Indef.Attr.Nom.Sg.Neut	keine-p
@@ -22850,7 +22850,7 @@ Thema	N.Reg.Nom.Sg.Neut	Thema-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:16&collection=eptic3">
+<s id="706:16">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 Vergangenheit	N.Reg.Dat.Sg.Fem	Vergangenheit-n
@@ -22864,7 +22864,7 @@ Einrichtungen	N.Reg.Dat.Pl.Fem	Einrichtung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:17&collection=eptic3">
+<s id="706:17">
 Diese	PRO.Dem.Subst.Nom.Pl.*	diese-p
 erwiesen	VFIN.Full.3.Pl.Past.Ind	erweisen-v
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -22888,7 +22888,7 @@ muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:18&collection=eptic3">
+<s id="706:18">
 Außerdem	PROADV.Dem	außerdem-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -22944,7 +22944,7 @@ soll	VFIN.Mod.3.Sg.Pres.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:19&collection=eptic3">
+<s id="706:19">
 -	SYM.Pun.Hyph	-x
 All	PRO.Indef.Attr.*.*.*	all-p
 diese	PRO.Dem.Attr.Nom.Pl.Fem	diese-p
@@ -22992,7 +22992,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:20&collection=eptic3">
+<s id="706:20">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -23063,7 +23063,7 @@ meistern	VINF.Full	meistern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:21&collection=eptic3">
+<s id="706:21">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 stimmt	VFIN.Full.3.Sg.Pres.Ind	stimmen-v
@@ -23075,7 +23075,7 @@ zu	PART.Verb	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="706:22&collection=eptic3">
+<s id="706:22">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 kein	PRO.Indef.Attr.Acc.Sg.Neut	keine-p
@@ -23140,13 +23140,13 @@ arbeiten	VINF.Full	arbeiten-v
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="707:1&collection=eptic3">
+<s id="707:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="707:2&collection=eptic3">
+<s id="707:2">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p
@@ -23186,7 +23186,7 @@ zurückzukehren	VINF.Full.zu	zurückkehren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="707:3&collection=eptic3">
+<s id="707:3">
 Werte	ADJA.Pos.Nom.Pl.Neut	wert-j
 Mitglieder	N.Reg.Nom.Pl.Neut	Mitglied-n
 <g/>
@@ -23226,7 +23226,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="707:4&collection=eptic3">
+<s id="707:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 freue	VFIN.Full.1.Sg.Pres.Ind	freuen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -23254,7 +23254,7 @@ Erwartungen	N.Reg.Acc.Pl.Fem	Erwartung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="707:5&collection=eptic3">
+<s id="707:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 nun	ADV	nun-a
@@ -23273,13 +23273,13 @@ fortfahren	VINF.Full	fortfahren-v
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="708:1&collection=eptic3">
+<s id="708:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="708:2&collection=eptic3">
+<s id="708:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 freue	VFIN.Full.1.Sg.Pres.Ind	freuen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -23314,7 +23314,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:3&collection=eptic3">
+<s id="708:3">
 Des	ART.Def.Gen.Sg.Neut	die-x
 Weiteren	N.Reg.Gen.Sg.Neut	Weiter-n
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -23344,7 +23344,7 @@ aussprechen	VINF.Full	aussprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:4&collection=eptic3">
+<s id="708:4">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Stabilisierungs-	N.Reg.Nom.Sg.Neut	Stabilisierungs-n
 und	CONJ.Coord	und-c
@@ -23368,7 +23368,7 @@ vorne	ADV	vorne-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:5&collection=eptic3">
+<s id="708:5">
 Das	ART.Def.Nom.Sg.Neut	die-x
 grundlegende	ADJA.Pos.Nom.Sg.Neut	grundlegend-j
 Ziel	N.Reg.Nom.Sg.Neut	Ziel-n
@@ -23402,7 +23402,7 @@ vorzubereiten	VINF.Full.zu	vorbereiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:6&collection=eptic3">
+<s id="708:6">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 wichtige	ADJA.Pos.Nom.Sg.Masc	wichtig-j
 Meilenstein	N.Reg.Nom.Sg.Masc	Meilenstein-n
@@ -23428,7 +23428,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:7&collection=eptic3">
+<s id="708:7">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Stabilisierungs-	N.Reg.Nom.Sg.Neut	Stabilisierungs-n
 und	CONJ.Coord	und-c
@@ -23474,7 +23474,7 @@ abdecken	VINF.Full	abdecken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:8&collection=eptic3">
+<s id="708:8">
 Natürlich	ADV	natürlich-a
 etabliert	VFIN.Full.3.Sg.Pres.Ind	etablieren-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -23500,7 +23500,7 @@ Ausschuss	N.Reg.Acc.Sg.Masc	Ausschuss-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:9&collection=eptic3">
+<s id="708:9">
 Von	APPR	von-i
 einem	ART.Indef.Dat.Sg.Masc	eine-x
 wirtschaftlichen	ADJA.Pos.Dat.Sg.Masc	wirtschaftlich-j
@@ -23545,7 +23545,7 @@ entstehen	VINF.Full	entstehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:10&collection=eptic3">
+<s id="708:10">
 Wie	PROADV.Inter	wie-x
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 auch	ADV	auch-a
@@ -23572,7 +23572,7 @@ Investitionen	N.Reg.Acc.Pl.Fem	Investition-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:11&collection=eptic3">
+<s id="708:11">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 maßgeblich	ADJD.Pos	maßgeblich-j
@@ -23598,7 +23598,7 @@ entwickeln	VINF.Full	entwickeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:12&collection=eptic3">
+<s id="708:12">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Vorteile	N.Reg.Nom.Pl.Masc	Vorteil-n
 dieses	PRO.Dem.Attr.Gen.Sg.Neut	diese-p
@@ -23613,7 +23613,7 @@ bedeutend	ADJD.Pos	bedeutend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:13&collection=eptic3">
+<s id="708:13">
 Der	ART.Def.Nom.Sg.Masc	die-x
 serbische	ADJA.Pos.Nom.Sg.Masc	serbisch-j
 Markt	N.Reg.Nom.Sg.Masc	Markt-n
@@ -23629,7 +23629,7 @@ geöffnet	VPP.Full.Psp	öffnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:14&collection=eptic3">
+<s id="708:14">
 Die	ART.Def.Nom.Pl.Masc	die-x
 bislang	ADV	bislang-a
 relativ	ADJD.Pos	relativ-j
@@ -23655,7 +23655,7 @@ Erzeugnisse	N.Reg.Gen.Pl.Neut	Erzeugnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:15&collection=eptic3">
+<s id="708:15">
 Darüber	PROADV.Dem	darüber-x
 hinaus	APZR	hinaus-x
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -23678,7 +23678,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:16&collection=eptic3">
+<s id="708:16">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Vorschriften	N.Reg.Nom.Pl.Fem	Vorschrift-n
 für	APPR	für-i
@@ -23698,7 +23698,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:17&collection=eptic3">
+<s id="708:17">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Schutz	N.Reg.Nom.Sg.Masc	Schutz-n
 geistiger	ADJA.Pos.Gen.Pl.Neut	geistig-j
@@ -23715,7 +23715,7 @@ angeglichen	VPP.Full.Psp	angleichen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:18&collection=eptic3">
+<s id="708:18">
 Der	ART.Def.Nom.Sg.Masc	die-x
 beträchtliche	ADJA.Pos.Nom.Sg.Masc	beträchtlich-j
 serbische	ADJA.Pos.Nom.Sg.Masc	serbisch-j
@@ -23736,7 +23736,7 @@ gemacht	VPP.Full.Psp	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:19&collection=eptic3">
+<s id="708:19">
 Engere	ADJA.Comp.Nom.Pl.Fem	eng-j
 Bindungen	N.Reg.Nom.Pl.Fem	Bindung-n
 mit	APPR	mit-i
@@ -23787,7 +23787,7 @@ nennen	VINF.Full	nennen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:20&collection=eptic3">
+<s id="708:20">
 Dadurch	PROADV.Dem	dadurch-x
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -23803,7 +23803,7 @@ effektiver	ADJD.Comp	effektiv-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:21&collection=eptic3">
+<s id="708:21">
 Schließlich	ADV	schließlich-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -23822,7 +23822,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:22&collection=eptic3">
+<s id="708:22">
 Offiziell	ADJD.Pos	offiziell-j
 trat	VFIN.Full.3.Sg.Past.Ind	treten-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -23853,7 +23853,7 @@ anzuwenden	VINF.Full.zu	anwenden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:23&collection=eptic3">
+<s id="708:23">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 damit	PROADV.Dem	damit-x
@@ -23882,12 +23882,12 @@ verweisen	VINF.Full	verweisen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:24&collection=eptic3">
+<s id="708:24">
 Seit	APPR	seit-i
 dem	ART.Def.Dat.Sg.Masc	die-x
 14.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="708:25&collection=eptic3">
+<s id="708:25">
 Juni	N.Reg.*.Sg.Masc	Juni-n
 2010	CARD	[number]-m
 <g/>
@@ -23930,7 +23930,7 @@ gesichert	VPP.Full.Psp	sichern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:26&collection=eptic3">
+<s id="708:26">
 Die	ART.Def.Nom.Sg.Fem	die-x
 heutige	ADJA.Pos.Nom.Sg.Fem	heutig-j
 Abstimmung	N.Reg.Nom.Sg.Fem	Abstimmung-n
@@ -23953,7 +23953,7 @@ verleihen	VINF.Full	verleihen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:27&collection=eptic3">
+<s id="708:27">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -23971,7 +23971,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:28&collection=eptic3">
+<s id="708:28">
 Zum	APPRART.Dat.Sg.Masc	zu-i
 Schluss	N.Reg.Dat.Sg.Masc	Schluss-n
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -24001,7 +24001,7 @@ darstellt	VFIN.Full.3.Sg.Pres.Ind	darstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:29&collection=eptic3">
+<s id="708:29">
 Daher	PROADV.Dem	daher-x
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -24017,7 +24017,7 @@ dankbar	ADJD.Pos	dankbar-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:30&collection=eptic3">
+<s id="708:30">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entschließung	N.Reg.Nom.Sg.Fem	Entschließung-n
 übermittelt	VFIN.Full.3.Sg.Pres.Ind	übermitteln-v
@@ -24074,7 +24074,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:31&collection=eptic3">
+<s id="708:31">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -24096,7 +24096,7 @@ Zeitpunkt	N.Reg.Nom.Sg.Masc	Zeitpunkt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:32&collection=eptic3">
+<s id="708:32">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 war	VFIN.Aux.1.Sg.Past.Ind	sein-v
 vergangenen	ADJA.Pos.Dat.Sg.Masc	vergangen-j
@@ -24123,7 +24123,7 @@ zu	PART.Zu	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:33&collection=eptic3">
+<s id="708:33">
 Die	ART.Def.Nom.Pl.Fem	die-x
 serbischen	ADJA.Pos.Nom.Pl.Fem	serbisch-j
 Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
@@ -24145,7 +24145,7 @@ erwarten	VFIN.Full.1.Pl.Pres.Ind	erwarten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:34&collection=eptic3">
+<s id="708:34">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Annahme	N.Reg.Nom.Sg.Fem	Annahme-n
 eines	ART.Indef.Gen.Sg.Masc	eine-x
@@ -24157,7 +24157,7 @@ Regierung	N.Reg.Acc.Sg.Fem	Regierung-n
 am	APPRART.Dat.Sg.Masc	an-i
 30.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="708:35&collection=eptic3">
+<s id="708:35">
 Dezember	N.Reg.Nom.Sg.Masc	Dezember-n
 infolge	APPR	infolge-i
 des	ART.Def.Gen.Sg.Masc	die-x
@@ -24169,7 +24169,7 @@ mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:36&collection=eptic3">
+<s id="708:36">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -24208,7 +24208,7 @@ vorzulegen	VINF.Full.zu	vorlegen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:37&collection=eptic3">
+<s id="708:37">
 Wie	PROADV.Inter	wie-x
 meine	PRO.Poss.Attr.Nom.Sg.Fem	meine-p
 ungarische	ADJA.Pos.Nom.Sg.Fem	ungarisch-j
@@ -24240,7 +24240,7 @@ Möglichkeiten	N.Reg.Gen.Pl.Fem	Möglichkeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:38&collection=eptic3">
+<s id="708:38">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Weg	N.Reg.Nom.Sg.Masc	Weg-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -24292,7 +24292,7 @@ aufzunehmen	VINF.Full.zu	aufnehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:39&collection=eptic3">
+<s id="708:39">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 davon	PROADV.Dem	davon-x
@@ -24319,7 +24319,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="708:40&collection=eptic3">
+<s id="708:40">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -24373,13 +24373,13 @@ fördern	VINF.Full	fördern-v
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="709:1&collection=eptic3">
+<s id="709:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="709:2&collection=eptic3">
+<s id="709:2">
 Meiner	PRO.Poss.Attr.Dat.Sg.Fem	meine-p
 Ansicht	N.Reg.Dat.Sg.Fem	Ansicht-n
 nach	APPO.Dat	nach-x
@@ -24392,7 +24392,7 @@ hervorragend	ADJD.Pos	hervorragend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:3&collection=eptic3">
+<s id="709:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 gratuliere	VFIN.Full.1.Sg.Pres.Ind	gratulieren-v
 dem	PRO.Dem.Subst.Dat.Sg.Neut	die-p
@@ -24404,7 +24404,7 @@ Kacin	N.Name.Nom.Sg.Masc	Kacin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:4&collection=eptic3">
+<s id="709:4">
 Mir	N.Name.Nom.Sg.*	Mir-n
 scheint	VFIN.Full.3.Sg.Pres.Ind	scheinen-v
 <g/>
@@ -24427,7 +24427,7 @@ anstrebt	VFIN.Full.3.Sg.Pres.Ind	anstreben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:5&collection=eptic3">
+<s id="709:5">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Mehrheit	N.Reg.Nom.Sg.Fem	Mehrheit-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -24445,7 +24445,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:6&collection=eptic3">
+<s id="709:6">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Entschlossenheit	N.Reg.Nom.Sg.Fem	Entschlossenheit-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -24463,7 +24463,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:7&collection=eptic3">
+<s id="709:7">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -24519,7 +24519,7 @@ Flüchtlingsdramen	N.Reg.Acc.Sg.Masc	Flüchtlingsdramen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:8&collection=eptic3">
+<s id="709:8">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entscheidung	N.Reg.Nom.Sg.Fem	Entscheidung-n
 für	APPR	für-i
@@ -24546,7 +24546,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:9&collection=eptic3">
+<s id="709:9">
 Zwei	CARD	zwei-m
 große	ADJA.Pos.Nom.Pl.Neut	groß-j
 politische	ADJA.Pos.Nom.Pl.Neut	politisch-j
@@ -24575,7 +24575,7 @@ Kosovo	N.Name.Nom.Sg.Masc	Kosovo-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:10&collection=eptic3">
+<s id="709:10">
 Beide	PRO.Indef.Attr.Nom.Pl.Masc	beide-p
 Punkte	N.Reg.Nom.Pl.Masc	Punkt-n
 deuten	VFIN.Full.3.Pl.Pres.Ind	deuten-v
@@ -24586,7 +24586,7 @@ hin	PART.Verb	hin-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:11&collection=eptic3">
+<s id="709:11">
 Mladić	N.Name.Nom.Sg.*	Mladić-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 seine	PRO.Poss.Attr.Acc.Pl.Masc	seine-p
@@ -24610,7 +24610,7 @@ schmerzhaft	ADJD.Pos	schmerzhaft-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:12&collection=eptic3">
+<s id="709:12">
 Jeder	PRO.Indef.Attr.Nom.Sg.Masc	jede-p
 Gebietsverlust	N.Reg.Nom.Sg.Masc	Gebietsverlust-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -24618,7 +24618,7 @@ schmerzhaft	ADJD.Pos	schmerzhaft-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:13&collection=eptic3">
+<s id="709:13">
 Hinzu	PROADV.Dem	hinzu-x
 kommen	VFIN.Full.3.Pl.Pres.Ind	kommen-v
 noch	ADV	noch-a
@@ -24635,7 +24635,7 @@ muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:14&collection=eptic3">
+<s id="709:14">
 Dazu	PROADV.Dem	dazu-x
 gehören	VFIN.Full.3.Pl.Pres.Ind	gehören-v
 insbesondere	ADV	insbesondere-a
@@ -24672,7 +24672,7 @@ Archive	N.Reg.Gen.Pl.Neut	Archiv-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:15&collection=eptic3">
+<s id="709:15">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Vorzeichen	N.Reg.Nom.Pl.Neut	Vorzeichen-n
 für	APPR	für-i
@@ -24688,7 +24688,7 @@ gut	ADJD.Pos	gut-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:16&collection=eptic3">
+<s id="709:16">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -24702,7 +24702,7 @@ beobachten	VINF.Full	beobachten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:17&collection=eptic3">
+<s id="709:17">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Aufgaben	N.Reg.Nom.Pl.Fem	Aufgabe-n
 <g/>
@@ -24730,7 +24730,7 @@ voran	PART.Verb	voran-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:18&collection=eptic3">
+<s id="709:18">
 Wenn	CONJ.SubFin	wenn-c
 alles	PRO.Indef.Subst.Nom.Sg.Neut	alle-p
 gut	ADJD.Pos	gut-j
@@ -24755,7 +24755,7 @@ Kandidatenland	N.Reg.Acc.Sg.Neut	Kandidatenland-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="709:19&collection=eptic3">
+<s id="709:19">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Weg	N.Reg.Nom.Sg.Masc	Weg-n
 nach	APPR	nach-i
@@ -24789,13 +24789,13 @@ Serbien	N.Name.Dat.Sg.Neut	Serbien-n
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="710:1&collection=eptic3">
+<s id="710:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="710:2&collection=eptic3">
+<s id="710:2">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Fortschritte	N.Reg.Nom.Pl.Masc	Fortschritt-n
 Serbiens	N.Name.Gen.Sg.Neut	Serbien-n
@@ -24819,7 +24819,7 @@ beweist	VFIN.Full.3.Sg.Pres.Ind	beweisen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:3&collection=eptic3">
+<s id="710:3">
 Als	CONJ.SubFin	als-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 letzten	ADJA.Pos.Dat.Sg.Masc	letzt-j
@@ -24850,7 +24850,7 @@ beeindruckt	VPP.Full.Psp	beeindrucken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:4&collection=eptic3">
+<s id="710:4">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -24872,7 +24872,7 @@ tun	VINF.Full	tun-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:5&collection=eptic3">
+<s id="710:5">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 in	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -24909,7 +24909,7 @@ aufhält	VFIN.Full.3.Sg.Pres.Ind	aufhalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:6&collection=eptic3">
+<s id="710:6">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 jedoch	ADV	jedoch-a
@@ -24954,7 +24954,7 @@ Serbiens	N.Name.Gen.Sg.Neut	Serbien-n
 wie	PROADV.Inter	wie-x
 z.	APPRART.Dat.Sg.Neut	z.-i
 </s>
-<s id="710:7&collection=eptic3">
+<s id="710:7">
 B.	SYM.Other.XY	B.-x
 Kroatien	N.Name.Nom.Sg.Neut	Kroatien-n
 <g/>
@@ -24971,7 +24971,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:8&collection=eptic3">
+<s id="710:8">
 -	SYM.Pun.Hyph	-x
 Die	ART.Def.Nom.Sg.Fem	die-x
 Beziehung	N.Reg.Nom.Sg.Fem	Beziehung-n
@@ -24992,7 +24992,7 @@ unlösbar	ADJD.Pos	unlösbar-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:9&collection=eptic3">
+<s id="710:9">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 persönlich	ADJD.Pos	persönlich-j
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
@@ -25045,7 +25045,7 @@ wäre	VFIN.Aux.3.Sg.Past.Subj	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:10&collection=eptic3">
+<s id="710:10">
 Meiner	PRO.Poss.Attr.Dat.Sg.Fem	meine-p
 Ansicht	N.Reg.Dat.Sg.Fem	Ansicht-n
 nach	APPO.Dat	nach-x
@@ -25070,7 +25070,7 @@ bewerten	VINF.Full	bewerten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="710:11&collection=eptic3">
+<s id="710:11">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 vorzeitige	ADJA.Pos.Nom.Sg.Fem	vorzeitig-j
 Ablehnung	N.Reg.Nom.Sg.Fem	Ablehnung-n
@@ -25124,13 +25124,13 @@ bleibt	VFIN.Full.3.Sg.Pres.Ind	bleiben-v
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="711:1&collection=eptic3">
+<s id="711:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="711:2&collection=eptic3">
+<s id="711:2">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Stabilisierungs-	N.Reg.Nom.Sg.Neut	Stabilisierungs-n
 und	CONJ.Coord	und-c
@@ -25154,7 +25154,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:3&collection=eptic3">
+<s id="711:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 zwei	CARD	zwei-m
@@ -25163,7 +25163,7 @@ anmerken	VINF.Full	anmerken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:4&collection=eptic3">
+<s id="711:4">
 Um	CONJ.SubInf	um-c
 richtig	ADJD.Pos	richtig-j
 über	APPR	über-i
@@ -25198,7 +25198,7 @@ erkennen	VINF.Full	erkennen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:5&collection=eptic3">
+<s id="711:5">
 Europa	N.Name.Nom.Sg.Neut	Europa-n
 sieht	VFIN.Full.3.Sg.Pres.Ind	sehen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -25233,7 +25233,7 @@ gegenüber	PART.Verb	gegenüber-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:6&collection=eptic3">
+<s id="711:6">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 bedeutet	VFIN.Full.3.Sg.Pres.Ind	bedeuten-v
 <g/>
@@ -25265,7 +25265,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:7&collection=eptic3">
+<s id="711:7">
 Keines	PRO.Indef.Subst.Nom.Sg.Neut	keine-p
 dieser	PRO.Dem.Attr.Gen.Pl.Neut	diese-p
 Probleme	N.Reg.Gen.Pl.Neut	Problem-n
@@ -25279,7 +25279,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:8&collection=eptic3">
+<s id="711:8">
 Zweitens	ADV	zweitens-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -25305,7 +25305,7 @@ belehren	VINF.Full	belehren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:9&collection=eptic3">
+<s id="711:9">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 in	APPR	in-i
@@ -25330,7 +25330,7 @@ erheblich	ADJD.Pos	erheblich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:10&collection=eptic3">
+<s id="711:10">
 2011	CARD	[number]-m
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 in	APPR	in-i
@@ -25354,7 +25354,7 @@ Union	N.Reg.Acc.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:11&collection=eptic3">
+<s id="711:11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 nicht	PART.Neg	nicht-x
@@ -25386,7 +25386,7 @@ behandeln	VINF.Full	behandeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:12&collection=eptic3">
+<s id="711:12">
 Nur	ADV	nur-a
 ein	ART.Indef.Acc.Sg.Neut	eine-x
 geachtetes	ADJA.Pos.Acc.Sg.Neut	geachtet-j
@@ -25414,7 +25414,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="711:13&collection=eptic3">
+<s id="711:13">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 von	APPR	von-i
@@ -25438,13 +25438,13 @@ Richtung	N.Reg.Acc.Sg.Fem	Richtung-n
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="712:1&collection=eptic3">
+<s id="712:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="712:2&collection=eptic3">
+<s id="712:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -25513,7 +25513,7 @@ zu	PART.Verb	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:3&collection=eptic3">
+<s id="712:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -25538,7 +25538,7 @@ war	VFIN.Aux.1.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:4&collection=eptic3">
+<s id="712:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 bei	APPR	bei-i
@@ -25578,7 +25578,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:5&collection=eptic3">
+<s id="712:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -25618,7 +25618,7 @@ gewährleisten	VINF.Full	gewährleisten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:6&collection=eptic3">
+<s id="712:6">
 Einige	PRO.Indef.Subst.Nom.Pl.Fem	einige-p
 der	ART.Def.Gen.Pl.Fem	die-x
 Herausforderungen	N.Reg.Gen.Pl.Fem	Herausforderung-n
@@ -25636,7 +25636,7 @@ erwähnt	VPP.Full.Psp	erwähnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:7&collection=eptic3">
+<s id="712:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 etwas	PRO.Indef.Subst.*.*.Neut	etwas-p
@@ -25649,7 +25649,7 @@ hinzufügen	VFIN.Full.3.Pl.Pres.Ind	hinzufügen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:8&collection=eptic3">
+<s id="712:8">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Fortschrittsbericht	N.Reg.Nom.Sg.Masc	Fortschrittsbericht-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -25694,7 +25694,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:9&collection=eptic3">
+<s id="712:9">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 offenkundig	ADJD.Pos	offenkundig-j
@@ -25709,7 +25709,7 @@ Rechtsstaatlichkeit	N.Reg.Acc.Sg.Fem	Rechtsstaatlichkeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:10&collection=eptic3">
+<s id="712:10">
 In	APPR	in-i
 Bezug	N.Reg.Dat.Sg.Masc	Bezug-n
 auf	APPR	auf-i
@@ -25810,7 +25810,7 @@ müsse	VFIN.Mod.3.Sg.Pres.Subj	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:11&collection=eptic3">
+<s id="712:11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sehen	VFIN.Full.1.Pl.Pres.Ind	sehen-v
 keine	PRO.Indef.Attr.Acc.Pl.Neut	keine-p
@@ -25818,7 +25818,7 @@ Ergebnisse	N.Reg.Acc.Pl.Neut	Ergebnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:12&collection=eptic3">
+<s id="712:12">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 zur	APPRART.Dat.Sg.Fem	zu-i
@@ -25832,7 +25832,7 @@ verfolgen	VINF.Full	verfolgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="712:13&collection=eptic3">
+<s id="712:13">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 tut	VFIN.Full.3.Sg.Pres.Ind	tun-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p
@@ -25876,13 +25876,13 @@ werden	VINF.Aux	werden-v
 <speaker name="Kukan Eduard" gender="M" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="221" duration="short" durations="100.0" speed="medium" speedwm="132.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="713:1&collection=eptic3">
+<s id="713:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="713:2&collection=eptic3">
+<s id="713:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 freue	VFIN.Full.1.Sg.Pres.Ind	freuen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -25909,7 +25909,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:3&collection=eptic3">
+<s id="713:3">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Abschluss	N.Reg.Nom.Sg.Masc	Abschluss-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -25935,7 +25935,7 @@ Weg	N.Reg.Dat.Sg.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:4&collection=eptic3">
+<s id="713:4">
 Die	ART.Def.Nom.Sg.Fem	die-x
 serbische	ADJA.Pos.Nom.Sg.Fem	serbisch-j
 Regierung	N.Reg.Nom.Sg.Fem	Regierung-n
@@ -25961,7 +25961,7 @@ gelangen	VINF.Full	gelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:5&collection=eptic3">
+<s id="713:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 mir	PRO.Refl.Subst.1.Dat.Sg.*	sie-p
@@ -26002,7 +26002,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:6&collection=eptic3">
+<s id="713:6">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -26014,7 +26014,7 @@ ratifiziert	VPP.Full.Psp	ratifizieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:7&collection=eptic3">
+<s id="713:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -26041,7 +26041,7 @@ abzuschließen	VINF.Full.zu	abschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:8&collection=eptic3">
+<s id="713:8">
 Jedoch	ADV	jedoch-a
 stehen	VFIN.Full.3.Pl.Pres.Ind	stehen-v
 sowohl	CONJ.Coord	sowohl-c
@@ -26057,7 +26057,7 @@ bevor	PART.Verb	bevor-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:9&collection=eptic3">
+<s id="713:9">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -26086,7 +26086,7 @@ ziehen	VINF.Full	ziehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:10&collection=eptic3">
+<s id="713:10">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 auch	ADV	auch-a
@@ -26113,7 +26113,7 @@ notwendig	ADJD.Pos	notwendig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:11&collection=eptic3">
+<s id="713:11">
 Ebenso	ADV	ebenso-a
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -26135,7 +26135,7 @@ abschaffen	VINF.Full	abschaffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:12&collection=eptic3">
+<s id="713:12">
 Abschließend	ADJD.Pos	abschließend-j
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -26164,7 +26164,7 @@ garantiert	VFIN.Full.3.Sg.Pres.Ind	garantieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:13&collection=eptic3">
+<s id="713:13">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Europäische	ADJA.Pos.Nom.Sg.Neut	europäisch-j
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -26179,7 +26179,7 @@ unterstützt	VPP.Full.Psp	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="713:14&collection=eptic3">
+<s id="713:14">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 mit	APPR	mit-i
@@ -26200,13 +26200,13 @@ davon	PROADV.Dem	davon-x
 <speaker name="Bostinaru Victor" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="157" duration="short" durations="66.0" speed="medium" speedwm="142.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="714:1&collection=eptic3">
+<s id="714:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="714:2&collection=eptic3">
+<s id="714:2">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Stabilisierungs-	N.Reg.Nom.Sg.Neut	Stabilisierungs-n
 und	CONJ.Coord	und-c
@@ -26231,7 +26231,7 @@ dar	PART.Verb	dar-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="714:3&collection=eptic3">
+<s id="714:3">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 über	APPR	über-i
@@ -26287,7 +26287,7 @@ benötigt	VPP.Full.Psp	benötigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="714:4&collection=eptic3">
+<s id="714:4">
 Im	APPRART.Dat.Sg.Masc	in-i
 Hinblick	N.Reg.Dat.Sg.Masc	Hinblick-n
 auf	APPR	auf-i
@@ -26355,7 +26355,7 @@ schafft	VFIN.Full.3.Sg.Pres.Ind	schaffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="714:5&collection=eptic3">
+<s id="714:5">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -26386,7 +26386,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="714:6&collection=eptic3">
+<s id="714:6">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 würde	VFIN.Aux.1.Sg.Past.Subj	werden-v
 die	ART.Def.Acc.Pl.Masc	die-x
@@ -26418,13 +26418,13 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="260" duration="medium" durations="168.0" speed="slow" speedwm="92.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="665:1&collection=eptic3">
+<s id="665:1">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="665:2&collection=eptic3">
+<s id="665:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -26460,7 +26460,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:3&collection=eptic3">
+<s id="665:3">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Unterstützung	N.Reg.Nom.Sg.Fem	Unterstützung-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -26498,7 +26498,7 @@ verstärkt	VPP.Full.Psp	verstärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:4&collection=eptic3">
+<s id="665:4">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -26519,7 +26519,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:5&collection=eptic3">
+<s id="665:5">
 Zunächst	ADV	zunächst-a
 zu	APPR	zu-i
 Herrn	N.Reg.Dat.Sg.Masc	Herr-n
@@ -26554,7 +26554,7 @@ Islamismus	N.Reg.Gen.Sg.Masc	Islamismus-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:6&collection=eptic3">
+<s id="665:6">
 In	APPR	in-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Zusammenhang	N.Reg.Dat.Sg.Masc	Zusammenhang-n
@@ -26598,7 +26598,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:7&collection=eptic3">
+<s id="665:7">
 Zur	APPRART.Dat.Sg.Fem	zu-i
 Frage	N.Reg.Dat.Sg.Fem	Frage-n
 des	ART.Def.Gen.Sg.Masc	die-x
@@ -26634,7 +26634,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:8&collection=eptic3">
+<s id="665:8">
 Über	APPR	über-i
 die	ART.Def.Acc.Sg.Fem	die-x
 Unterstützung	N.Reg.Acc.Sg.Fem	Unterstützung-n
@@ -26649,7 +26649,7 @@ nachgedacht	VPP.Full.Psp	nachdenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:9&collection=eptic3">
+<s id="665:9">
 Lassen	VIMP.Full.3.Pl	Lassen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 mich	PRO.Pers.Subst.1.Acc.Sg.*	sie-p
@@ -26680,7 +26680,7 @@ schenken	VINF.Full	schenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:10&collection=eptic3">
+<s id="665:10">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 ihr	PRO.Pers.Subst.3.Dat.Sg.Fem	sie-p
@@ -26705,7 +26705,7 @@ schreiben	VINF.Full	schreiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:11&collection=eptic3">
+<s id="665:11">
 Der	ART.Def.Nom.Sg.Masc	die-x
 ernsthafte	ADJA.Pos.Nom.Sg.Masc	ernsthaft-j
 und	CONJ.Coord	und-c
@@ -26725,7 +26725,7 @@ sehr	ADV	sehr-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:12&collection=eptic3">
+<s id="665:12">
 Wo	PROADV.Inter	wo-x
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 gestern	ADV	gestern-a
@@ -26748,7 +26748,7 @@ Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 ,	SYM.Pun.Comma	,-x
 z.	APPRART.Dat.Sg.Neut	z.-i
 </s>
-<s id="665:13&collection=eptic3">
+<s id="665:13">
 B.	SYM.Other.XY	B.-x
 beim	APPRART.Dat.Sg.Masc	bei-i
 Umgang	N.Reg.Dat.Sg.Masc	Umgang-n
@@ -26768,7 +26768,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="665:14&collection=eptic3">
+<s id="665:14">
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -26804,7 +26804,7 @@ nutzen	VINF.Full	nutzen-v
 <speaker name="Morvai Krisztina" gender="F" country="Hungary" politfunc="MEP" politgroup="NI">
 <st language="en" length="long" lengthw="66" duration="short" durations="30.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="715:1&collection=eptic3">
+<s id="715:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -26835,7 +26835,7 @@ kritisieren	VINF.Full	kritisieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="715:2&collection=eptic3">
+<s id="715:2">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 weiß	VFIN.Full.3.Sg.Pres.Ind	wissen-v
 doch	ADV	doch-a
@@ -26846,7 +26846,7 @@ darüber	PROADV.Dem	darüber-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="715:3&collection=eptic3">
+<s id="715:3">
 Warum	PROADV.Inter	warum-x
 kritisiert	VFIN.Full.3.Sg.Pres.Ind	kritisieren-v
 er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
@@ -26865,7 +26865,7 @@ die	PRO.Rel.Subst.Nom.Pl.Masc	die-p
 zum	APPRART.Dat.Sg.Masc	zu-i
 50.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="715:4&collection=eptic3">
+<s id="715:4">
 Jahrestag	N.Reg.Nom.Sg.Masc	Jahrestag-n
 der	ART.Def.Gen.Sg.Fem	die-x
 Revolution	N.Reg.Gen.Sg.Fem	Revolution-n
@@ -26886,7 +26886,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="715:5&collection=eptic3">
+<s id="715:5">
 Er	PRO.Pers.Subst.3.Nom.Sg.Masc	sie-p
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 sie	PRO.Pers.Subst.3.Acc.Sg.Fem	sie-p
@@ -26904,7 +26904,7 @@ kritisieren	VINF.Full	kritisieren-v
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="136" duration="short" durations="54.0" speed="medium" speedwm="151.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="716:1&collection=eptic3">
+<s id="716:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -26934,7 +26934,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="716:2&collection=eptic3">
+<s id="716:2">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -26968,7 +26968,7 @@ enthalten	VFIN.Full.3.Pl.Pres.Ind	enthalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="716:3&collection=eptic3">
+<s id="716:3">
 Der	ART.Def.Nom.Sg.Masc	die-x
 belgische	ADJA.Pos.Nom.Sg.Masc	belgisch-j
 Ratsvorsitz	N.Reg.Nom.Sg.Masc	Ratsvorsitz-n
@@ -27019,7 +27019,7 @@ gestaltet	VFIN.Full.3.Sg.Pres.Ind	gestalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="716:4&collection=eptic3">
+<s id="716:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -27035,7 +27035,7 @@ nachzudenken	VINF.Full.zu	nachdenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="716:5&collection=eptic3">
+<s id="716:5">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Premierminister	N.Reg.Nom.Sg.Masc	Premierminister-n
 <g/>
@@ -27099,7 +27099,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="274" duration="medium" durations="120.0" speed="medium" speedwm="137.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="717:1&collection=eptic3">
+<s id="717:1">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -27116,7 +27116,7 @@ bitten	VINF.Full	bitten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:2&collection=eptic3">
+<s id="717:2">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 hier	ADV	hier-a
@@ -27130,7 +27130,7 @@ Premierminister	N.Reg.Nom.Sg.Masc	Premierminister-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:3&collection=eptic3">
+<s id="717:3">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 muss	VFIN.Mod.1.Sg.Pres.Ind	müssen-v
 offen	ADJD.Pos	offen-j
@@ -27140,7 +27140,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:4&collection=eptic3">
+<s id="717:4">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -27199,7 +27199,7 @@ Flüchtlinge	N.Reg.Acc.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:5&collection=eptic3">
+<s id="717:5">
 Schauen	VFIN.Full.3.Pl.Pres.Ind	schauen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 auf	APPR	auf-i
@@ -27224,7 +27224,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:6&collection=eptic3">
+<s id="717:6">
 "	SYM.Quot.Left	"-x
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sprachen	VFIN.Full.3.Pl.Past.Ind	sprechen-v
@@ -27236,7 +27236,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:7&collection=eptic3">
+<s id="717:7">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 muss	VFIN.Mod.1.Sg.Pres.Ind	müssen-v
 zugeben	VINF.Full	zugeben-v
@@ -27269,7 +27269,7 @@ Flüchtlinge	N.Reg.Acc.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:8&collection=eptic3">
+<s id="717:8">
 Während	APPR	während-i
 Ihres	PRO.Poss.Attr.Gen.Sg.Masc	ihre-p
 Ratsvorsitzes	N.Reg.Gen.Sg.Masc	Ratsvorsitz-n
@@ -27289,7 +27289,7 @@ schauen	VINF.Full	schauen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:9&collection=eptic3">
+<s id="717:9">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 hätten	VFIN.Aux.3.Pl.Past.Subj	haben-v
 etwas	ADV	etwas-a
@@ -27309,7 +27309,7 @@ schwierig	ADJD.Pos	schwierig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:10&collection=eptic3">
+<s id="717:10">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Rat	N.Reg.Nom.Sg.Masc	Rat-n
 hätte	VFIN.Aux.3.Sg.Past.Subj	haben-v
@@ -27334,7 +27334,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:11&collection=eptic3">
+<s id="717:11">
 In	APPR	in-i
 unserem	PRO.Poss.Attr.Dat.Sg.Masc	unsre-p
 Teil	N.Reg.Dat.Sg.Masc	Teil-n
@@ -27396,7 +27396,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:12&collection=eptic3">
+<s id="717:12">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Rat	N.Reg.Nom.Sg.Masc	Rat-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -27409,7 +27409,7 @@ geführt	VPP.Full.Psp	führen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:13&collection=eptic3">
+<s id="717:13">
 Anscheinend	ADJD.Pos	anscheinend-j
 liegt	VFIN.Full.3.Sg.Pres.Ind	liegen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -27433,7 +27433,7 @@ steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:14&collection=eptic3">
+<s id="717:14">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sagen	VFIN.Full.3.Pl.Pres.Ind	sagen-v
 <g/>
@@ -27448,7 +27448,7 @@ Flüchtlinge	N.Reg.Acc.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:15&collection=eptic3">
+<s id="717:15">
 "	SYM.Quot.Left	"-x
 Aber	CONJ.Coord	aber-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -27478,7 +27478,7 @@ fahren	VINF.Full	fahren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:16&collection=eptic3">
+<s id="717:16">
 Dann	ADV	dann-a
 erzählen	VFIN.Full.3.Pl.Pres.Ind	erzählen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -27500,7 +27500,7 @@ sollen	VFIN.Mod.3.Pl.Pres.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:17&collection=eptic3">
+<s id="717:17">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 sagen	VINF.Full	sagen-v
@@ -27515,7 +27515,7 @@ Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="717:18&collection=eptic3">
+<s id="717:18">
 Meine	PRO.Poss.Attr.Nom.Pl.Masc	meine-p
 Kinder	N.Reg.Nom.Pl.Neut	Kind-n
 gehen	VFIN.Full.3.Pl.Pres.Ind	gehen-v
@@ -27566,7 +27566,7 @@ helfen	VINF.Full	helfen-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="717:19&collection=eptic3">
+<s id="717:19">
 "	SYM.Quot.Left	"-x
 Dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -27580,7 +27580,7 @@ werfen	VINF.Full	werfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="717:20&collection=eptic3">
+<s id="717:20">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 tut	VFIN.Full.3.Sg.Pres.Ind	tun-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p

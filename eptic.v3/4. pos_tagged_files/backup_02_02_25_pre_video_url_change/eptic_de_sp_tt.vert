@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="DE21" gender="M" native="NA">
-<s id="643:1" video="https://media.dipintra.it/?id=643&start=00.09&end=00.19&collection=eptic3">
+<s id="643:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.09&end=00.00.19">
 Ja	N.Reg.Nom.Sg.Neut	Ja-n
 danke	VFIN.Full.3.Sg.Pres.Subj	danken-v
 <g/>
@@ -30,7 +30,7 @@ Battisti	N.Name.Dat.Sg.Masc	Battisti-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:2" video="https://media.dipintra.it/?id=643&start=00.19&end=00.23&collection=eptic3">
+<s id="643:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.19&end=00.00.23">
 Ehm	FPAUSE	ehm
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 versteh	VIMP.Full.2.Sg	verstehen-v
@@ -54,7 +54,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:3" video="https://media.dipintra.it/?id=643&start=00.23&end=00.29&collection=eptic3">
+<s id="643:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.23&end=00.00.29">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 doch	ADV	doch-a
@@ -77,7 +77,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:4" video="https://media.dipintra.it/?id=643&start=00.29&end=00.36&collection=eptic3">
+<s id="643:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.29&end=00.00.36">
 Jetzt	ADV	jetzt-a
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 kommt	VFIN.Full.3.Sg.Pres.Ind	kommen-v
@@ -103,7 +103,7 @@ hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:5" video="https://media.dipintra.it/?id=643&start=00.36&end=00.38&collection=eptic3">
+<s id="643:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.36&end=00.00.38">
 Cesare	N.Name.Nom.Sg.Masc	Cesare-n
 Battisti	N.Name.Nom.Sg.Masc	Battisti-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -112,7 +112,7 @@ Gefängnis	N.Reg.Dat.Sg.Neut	Gefängnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:6" video="https://media.dipintra.it/?id=643&start=00.38&end=00.46&collection=eptic3">
+<s id="643:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.38&end=00.00.46">
 ...	EPAUSE	...-x
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 wartet	VFIN.Full.3.Sg.Pres.Ind	warten-v
@@ -140,7 +140,7 @@ wahr	PART.Verb	wahr-x
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="643:7" video="https://media.dipintra.it/?id=643&start=00.46&end=00.50&collection=eptic3">
+<s id="643:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.46&end=00.00.50">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -159,7 +159,7 @@ würde	VFIN.Aux.3.Sg.Past.Subj	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="643:8" video="https://media.dipintra.it/?id=643&start=00.50&end=01.25&collection=eptic3">
+<s id="643:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=643.wmv&start=00.00.50&end=00.01.25">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 erdrücke	VFIN.Full.1.Sg.Pres.Ind	erdrücken-v
 meine	PRO.Poss.Attr.Acc.Sg.Fem	meine-p
@@ -264,7 +264,7 @@ bestehen	VINF.Full	bestehen-v
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="644:1" video="https://media.dipintra.it/?id=644&start=00.10&end=00.21&collection=eptic3">
+<s id="644:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.10&end=00.00.21">
 Bitte	ADV	bitte-a
 schön	ADJD.Pos	schön-j
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -272,7 +272,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:2" video="https://media.dipintra.it/?id=644&start=00.21&end=00.30&collection=eptic3">
+<s id="644:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.21&end=00.00.30">
 Meine	PRO.Poss.Attr.Nom.Sg.Fem	meine-p
 Damen	N.Reg.Nom.Pl.Fem	Dame-n
 und	CONJ.Coord	und-c
@@ -294,11 +294,11 @@ Landes	N.Reg.Gen.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:3" video="https://media.dipintra.it/?id=644&start=00.30&end=00.30&collection=eptic3">
+<s id="644:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.30&end=00.00.30">
 am	APPRART.Dat.Sg.Masc	an-i
 7.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="644:4" video="https://media.dipintra.it/?id=644&start=00.30&end=00.47&collection=eptic3">
+<s id="644:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.30&end=00.00.47">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -341,7 +341,7 @@ verdienen	VINF.Full	verdienen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:5" video="https://media.dipintra.it/?id=644&start=00.47&end=00.51&collection=eptic3">
+<s id="644:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.47&end=00.00.51">
 Einen	ART.Indef.Acc.Sg.Masc	eine-x
 Monat	N.Reg.Acc.Sg.Masc	Monat-n
 später	ADJD.Comp	später-j
@@ -352,7 +352,7 @@ Ausschreitungen	N.Reg.Dat.Pl.Fem	Ausschreitung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:6" video="https://media.dipintra.it/?id=644&start=00.51&end=00.55&collection=eptic3">
+<s id="644:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.51&end=00.00.55">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 zur	APPRART.Dat.Sg.Masc	zu-i
@@ -365,7 +365,7 @@ geführt	VPP.Full.Psp	führen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:7" video="https://media.dipintra.it/?id=644&start=00.55&end=01.03&collection=eptic3">
+<s id="644:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.00.55&end=00.01.03">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Union	N.Reg.Nom.Sg.Fem	Union-n
@@ -387,7 +387,7 @@ verurteilte	VFIN.Full.3.Sg.Past.Ind	verurteilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:8" video="https://media.dipintra.it/?id=644&start=01.03&end=01.11&collection=eptic3">
+<s id="644:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.03&end=00.01.11">
 Sicherheitssituation	N.Reg.Nom.Sg.Fem	Sicherheitssituation-n
 bleibt	VFIN.Full.3.Sg.Pres.Ind	bleiben-v
 nach	ADV	nach-a
@@ -404,7 +404,7 @@ gemeldet	VPP.Full.Psp	melden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:9" video="https://media.dipintra.it/?id=644&start=01.11&end=01.21&collection=eptic3">
+<s id="644:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.11&end=00.01.21">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 in	APPR	in-i
@@ -430,7 +430,7 @@ Einheitsregierung	N.Reg.Gen.Sg.Fem	Einheitsregierung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:10" video="https://media.dipintra.it/?id=644&start=01.22&end=01.30&collection=eptic3">
+<s id="644:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.22&end=00.01.30">
 Trotz	APPR	trotz-i
 gewisser	ADJA.Pos.Gen.Pl.Fem	gewiss-j
 Unsicherheiten	N.Reg.Gen.Pl.Fem	Unsicherheit-n
@@ -446,7 +446,7 @@ deutlich	ADJD.Pos	deutlich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:11" video="https://media.dipintra.it/?id=644&start=01.30&end=01.37&collection=eptic3">
+<s id="644:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.30&end=00.01.37">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 möchte	VFIN.Mod.3.Sg.Past.Subj	mögen-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -465,7 +465,7 @@ Grundfreiheiten	N.Reg.Gen.Pl.Fem	Grundfreiheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:12" video="https://media.dipintra.it/?id=644&start=01.37&end=01.51&collection=eptic3">
+<s id="644:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.37&end=00.01.51">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 möchte	VFIN.Mod.3.Sg.Past.Subj	mögen-v
 freie	ADJA.Pos.Acc.Sg.Fem	frei-j
@@ -497,7 +497,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:13" video="https://media.dipintra.it/?id=644&start=01.51&end=02.17&collection=eptic3">
+<s id="644:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.01.51&end=00.02.17">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Achtung	N.Reg.Nom.Sg.Fem	Achtung-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -559,7 +559,7 @@ erinnern	VINF.Full	erinnern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:14" video="https://media.dipintra.it/?id=644&start=02.17&end=02.41&collection=eptic3">
+<s id="644:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.02.17&end=00.02.41">
 Seit	APPR	seit-i
 Beginn	N.Reg.Dat.Sg.Masc	Beginn-n
 meiner	PRO.Poss.Attr.Gen.Sg.Fem	meine-p
@@ -612,7 +612,7 @@ Grundfreiheiten	N.Reg.Dat.Pl.Fem	Grundfreiheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:15" video="https://media.dipintra.it/?id=644&start=02.41&end=02.54&collection=eptic3">
+<s id="644:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.02.41&end=00.02.54">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
@@ -646,7 +646,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:16" video="https://media.dipintra.it/?id=644&start=02.54&end=03.22&collection=eptic3">
+<s id="644:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.02.54&end=00.03.22">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 ersten	ADJA.Pos.Dat.Sg.Fem	erst-j
@@ -708,7 +708,7 @@ Status	N.Reg.Acc.Sg.Masc	Status-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:17" video="https://media.dipintra.it/?id=644&start=03.22&end=03.32&collection=eptic3">
+<s id="644:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.03.22&end=00.03.32">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gab	VFIN.Full.3.Sg.Past.Ind	geben-v
 sicherlich	ADV	sicherlich-a
@@ -735,7 +735,7 @@ würden	VFIN.Aux.3.Pl.Past.Subj	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:18" video="https://media.dipintra.it/?id=644&start=03.32&end=03.48&collection=eptic3">
+<s id="644:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.03.32&end=00.03.48">
 Jetzt	ADV	jetzt-a
 sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 diese	PRO.Dem.Attr.Nom.Pl.Masc	diese-p
@@ -779,7 +779,7 @@ Gerechtigkeit	N.Reg.Dat.Sg.Fem	Gerechtigkeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:19" video="https://media.dipintra.it/?id=644&start=03.48&end=04.00&collection=eptic3">
+<s id="644:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.03.48&end=00.04.00">
 Lady	N.Name.*.*.*	Lady-n
 Ashton	N.Name.Nom.Sg.*	Ashton-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -805,7 +805,7 @@ garantieren	VINF.Full	garantieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:20" video="https://media.dipintra.it/?id=644&start=04.00&end=04.13&collection=eptic3">
+<s id="644:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.04.00&end=00.04.13">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hoffen	VFIN.Full.1.Pl.Pres.Ind	hoffen-v
 <g/>
@@ -836,7 +836,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:21" video="https://media.dipintra.it/?id=644&start=04.13&end=04.47&collection=eptic3">
+<s id="644:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.04.13&end=00.04.47">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 bereit	ADJD.Pos	bereit-j
@@ -907,7 +907,7 @@ die	ART.Def.Nom.Sg.Fem	die-x
 Rechtsstaatlichkeit	N.Reg.Nom.Sg.Fem	Rechtsstaatlichkeit-n
 bzw.	CONJ.Coord	bzw.-c
 </s>
-<s id="644:22" video="https://media.dipintra.it/?id=644&start=04.47&end=04.56&collection=eptic3">
+<s id="644:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.04.47&end=00.04.56">
 die	ART.Def.Nom.Sg.Fem	die-x
 Judikative	N.Reg.Nom.Sg.Fem	Judikative-n
 angeht	VFIN.Full.3.Sg.Pres.Ind	angehen-v
@@ -940,7 +940,7 @@ anbelangt	VFIN.Full.3.Sg.Pres.Ind	anbelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:23" video="https://media.dipintra.it/?id=644&start=04.56&end=05.05&collection=eptic3">
+<s id="644:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.04.56&end=00.05.05">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -972,7 +972,7 @@ teilen	VFIN.Full.3.Pl.Pres.Ind	teilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:24" video="https://media.dipintra.it/?id=644&start=05.05&end=06.10&collection=eptic3">
+<s id="644:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.05.05&end=00.06.10">
 Demokratie	N.Reg.Nom.Sg.Fem	Demokratie-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -1115,7 +1115,7 @@ Tunesien	N.Name.Dat.Sg.Neut	Tunesien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:25" video="https://media.dipintra.it/?id=644&start=06.10&end=06.50&collection=eptic3">
+<s id="644:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.06.10&end=00.06.50">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 sehr	ADV	sehr-a
@@ -1216,7 +1216,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="644:26" video="https://media.dipintra.it/?id=644&start=06.50&end=06.51&collection=eptic3">
+<s id="644:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=644.wmv&start=00.06.50&end=00.06.51">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -1230,7 +1230,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="DE14" gender="F" native="NA">
-<s id="645:1" video="https://media.dipintra.it/?id=645&start=00.12&end=00.23&collection=eptic3">
+<s id="645:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.12&end=00.00.23">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 <g/>
@@ -1274,7 +1274,7 @@ gehen	VINF.Full	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:2" video="https://media.dipintra.it/?id=645&start=00.23&end=00.26&collection=eptic3">
+<s id="645:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.23&end=00.00.26">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -1294,7 +1294,7 @@ Lande	N.Reg.Dat.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:3" video="https://media.dipintra.it/?id=645&start=00.26&end=00.42&collection=eptic3">
+<s id="645:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.26&end=00.00.42">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Menschen	N.Reg.Nom.Pl.Masc	Mensch-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -1336,7 +1336,7 @@ erhalten	VINF.Full	erhalten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:4" video="https://media.dipintra.it/?id=645&start=00.42&end=00.54&collection=eptic3">
+<s id="645:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.42&end=00.00.54">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Regime	N.Reg.Nom.Pl.Neut	Regime-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -1375,7 +1375,7 @@ Meinungsvielfalt	N.Reg.Acc.Sg.Fem	Meinungsvielfalt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:5" video="https://media.dipintra.it/?id=645&start=00.54&end=00.59&collection=eptic3">
+<s id="645:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.54&end=00.00.59">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Opposition	N.Reg.Nom.Sg.Fem	Opposition-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -1394,7 +1394,7 @@ machen	VINF.Full	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:6" video="https://media.dipintra.it/?id=645&start=00.59&end=01.04&collection=eptic3">
+<s id="645:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.00.59&end=00.01.04">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Internet	N.Reg.Nom.Sg.Neut	Internet-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -1412,7 +1412,7 @@ zu	PART.Zu	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:7" video="https://media.dipintra.it/?id=645&start=01.04&end=01.20&collection=eptic3">
+<s id="645:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.04&end=00.01.20">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Oppositionsbewegung	N.Reg.Nom.Sg.Fem	Oppositionsbewegung-n
 in	APPR	in-i
@@ -1450,7 +1450,7 @@ erkannt	VPP.Full.Psp	erkennen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:8" video="https://media.dipintra.it/?id=645&start=01.20&end=01.23&collection=eptic3">
+<s id="645:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.20&end=00.01.23">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 Hilfe	N.Reg.Nom.Sg.Fem	Hilfe-n
@@ -1462,7 +1462,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:9" video="https://media.dipintra.it/?id=645&start=01.23&end=01.33&collection=eptic3">
+<s id="645:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.23&end=00.01.33">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 verkom-	DYSF	verkom-
@@ -1501,9 +1501,9 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:10" video="https://media.dipintra.it/?id=645&start=01.33&end=01.33&collection=eptic3">
+<s id="645:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.33&end=00.01.33">
 </s>
-<s id="645:11" video="https://media.dipintra.it/?id=645&start=01.33&end=01.45&collection=eptic3">
+<s id="645:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.33&end=00.01.45">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Auseinandersetzung	N.Reg.Nom.Sg.Fem	Auseinandersetzung-n
 zwischen	APPR	zwischen-i
@@ -1531,7 +1531,7 @@ Internet	N.Reg.Dat.Sg.Neut	Internet-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:12" video="https://media.dipintra.it/?id=645&start=01.45&end=01.54&collection=eptic3">
+<s id="645:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.45&end=00.01.54">
 Die	ART.Def.Nom.Sg.Fem	die-x
 tunesische	ADJA.Pos.Nom.Sg.Fem	tunesisch-j
 Regierung	N.Reg.Nom.Sg.Fem	Regierung-n
@@ -1557,7 +1557,7 @@ füllt	VFIN.Full.3.Sg.Pres.Ind	füllen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:13" video="https://media.dipintra.it/?id=645&start=01.54&end=02.00&collection=eptic3">
+<s id="645:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.01.54&end=00.02.00">
 Dann	ADV	dann-a
 in	APPR	in-i
 den	ART.Def.Dat.Pl.Masc	die-x
@@ -1578,7 +1578,7 @@ Technologien	N.Reg.Dat.Pl.Fem	Technologie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:14" video="https://media.dipintra.it/?id=645&start=02.00&end=02.07&collection=eptic3">
+<s id="645:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.00&end=00.02.07">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Technologie	N.Reg.Nom.Sg.Fem	Technologie-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -1598,7 +1598,7 @@ Bringen	VINF.Full	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:15" video="https://media.dipintra.it/?id=645&start=02.07&end=02.14&collection=eptic3">
+<s id="645:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.07&end=00.02.14">
 Heute	ADV	heute-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 der	ART.Def.Nom.Sg.Masc	die-x
@@ -1632,7 +1632,7 @@ Fühle	VFIN.Full.3.Sg.Pres.Subj	fühlen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:16" video="https://media.dipintra.it/?id=645&start=02.14&end=02.16&collection=eptic3">
+<s id="645:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.14&end=00.02.16">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
@@ -1643,7 +1643,7 @@ da	PART.Verb	da-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:17" video="https://media.dipintra.it/?id=645&start=02.17&end=02.26&collection=eptic3">
+<s id="645:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.17&end=00.02.26">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Vereinigten	ADJA.Pos.Nom.Pl.Masc	vereinigt-j
 Staaten	N.Reg.Nom.Pl.Masc	Staat-n
@@ -1665,7 +1665,7 @@ Internetfreiheit	N.Reg.Acc.Sg.Fem	Internetfreiheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:18" video="https://media.dipintra.it/?id=645&start=02.26&end=02.34&collection=eptic3">
+<s id="645:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.26&end=00.02.34">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
@@ -1692,7 +1692,7 @@ Gesetzgebung	N.Reg.*.Sg.Fem	Gesetzgebung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="645:19" video="https://media.dipintra.it/?id=645&start=02.34&end=02.49&collection=eptic3">
+<s id="645:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=645.wmv&start=00.02.34&end=00.02.49">
 Aber	CONJ.Coord	aber-c
 die	ART.Def.Nom.Sg.Fem	die-x
 neue	ADJA.Pos.Nom.Sg.Fem	neu-j
@@ -1756,7 +1756,7 @@ schön	ADJD.Pos	schön-j
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="DE16" gender="F" native="NA">
-<s id="666:1" video="https://media.dipintra.it/?id=666&start=00.07&end=00.16&collection=eptic3">
+<s id="666:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.07&end=00.00.16">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 President	FM	President-x
 die	ART.Def.Nom.Pl.Fem	die-x
@@ -1784,7 +1784,7 @@ Lande	N.Reg.Dat.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:2" video="https://media.dipintra.it/?id=666&start=00.16&end=00.24&collection=eptic3">
+<s id="666:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.16&end=00.00.24">
 Die	ART.Def.Nom.Sg.Fem	die-x
 blühende	ADJA.Pos.Nom.Sg.Fem	blühend-j
 Korruption	N.Reg.Nom.Sg.Fem	Korruption-n
@@ -1810,7 +1810,7 @@ Menschen	N.Reg.Gen.Pl.Masc	Mensch-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:3" video="https://media.dipintra.it/?id=666&start=00.24&end=00.37&collection=eptic3">
+<s id="666:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.24&end=00.00.37">
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 Ben	N.Name.Nom.Sg.Masc	Ben-n
 Ali	N.Name.Nom.Sg.Masc	Ali-n
@@ -1863,7 +1863,7 @@ Welt	N.Reg.Gen.Sg.Fem	Welt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:4" video="https://media.dipintra.it/?id=666&start=00.37&end=00.45&collection=eptic3">
+<s id="666:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.37&end=00.00.45">
 Tunesien	N.Name.Nom.Sg.Neut	Tunesien-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -1882,7 +1882,7 @@ Land	N.Reg.Acc.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:5" video="https://media.dipintra.it/?id=666&start=00.45&end=00.53&collection=eptic3">
+<s id="666:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.45&end=00.00.53">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 keine	PRO.Indef.Attr.Nom.Pl.Masc	keine-p
@@ -1905,7 +1905,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:6" video="https://media.dipintra.it/?id=666&start=00.53&end=01.19&collection=eptic3">
+<s id="666:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.00.53&end=00.01.19">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Dschihadisten	N.Reg.Nom.Pl.Masc	Dschihadisten-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -1987,7 +1987,7 @@ gefährdet	VFIN.Full.3.Sg.Pres.Ind	gefährden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:7" video="https://media.dipintra.it/?id=666&start=01.19&end=01.29&collection=eptic3">
+<s id="666:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.01.19&end=00.01.29">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 musste	VFIN.Mod.3.Sg.Past.Ind	müssen-v
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
@@ -2015,7 +2015,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:8" video="https://media.dipintra.it/?id=666&start=01.29&end=01.30&collection=eptic3">
+<s id="666:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.01.29&end=00.01.30">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 der	ART.Def.Nom.Sg.Masc	die-x
@@ -2024,7 +2024,7 @@ dafür	PROADV.Dem	dafür-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:9" video="https://media.dipintra.it/?id=666&start=01.30&end=01.38&collection=eptic3">
+<s id="666:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.01.30&end=00.01.38">
 Wenn	CONJ.SubFin	wenn-c
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
 jetzt	ADV	jetzt-a
@@ -2049,7 +2049,7 @@ stärken	VINF.Full	stärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:10" video="https://media.dipintra.it/?id=666&start=01.38&end=01.59&collection=eptic3">
+<s id="666:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.01.38&end=00.01.59">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 möchten	VFIN.Mod.1.Pl.Past.Subj	mögen-v
 um	APPR	um-i
@@ -2108,7 +2108,7 @@ loben	VINF.Full	loben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="666:11" video="https://media.dipintra.it/?id=666&start=01.59&end=02.13&collection=eptic3">
+<s id="666:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=666.wmv&start=00.01.59&end=00.02.13">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 europäischen	ADJA.Pos.Dat.Sg.Fem	europäisch-j
@@ -2166,7 +2166,7 @@ schön	ADJD.Pos	schön-j
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="DE21" gender="M" native="NA">
-<s id="667:1" video="https://media.dipintra.it/?id=667&start=00.08&end=00.21&collection=eptic3">
+<s id="667:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.00.08&end=00.00.21">
 Hier	ADV	hier-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 einige	PRO.Indef.Attr.Nom.Pl.Fem	einige-p
@@ -2202,7 +2202,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:2" video="https://media.dipintra.it/?id=667&start=00.21&end=00.41&collection=eptic3">
+<s id="667:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.00.21&end=00.00.41">
 Jeder	PRO.Indef.Attr.Nom.Sg.Masc	jede-p
 Demokrat	N.Reg.Nom.Sg.Masc	Demokrat-n
 verdient	VFIN.Full.3.Sg.Pres.Ind	verdienen-v
@@ -2251,7 +2251,7 @@ durch	PART.Verb	durch-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:3" video="https://media.dipintra.it/?id=667&start=00.41&end=00.47&collection=eptic3">
+<s id="667:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.00.41&end=00.00.47">
 Also	ADV	also-a
 jede	PRO.Indef.Attr.Nom.Sg.Fem	jede-p
 Diktatur	N.Reg.Nom.Sg.Fem	Diktatur-n
@@ -2266,7 +2266,7 @@ Aufstand	N.Reg.Dat.Sg.Masc	Aufstand-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:4" video="https://media.dipintra.it/?id=667&start=00.47&end=00.56&collection=eptic3">
+<s id="667:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.00.47&end=00.00.56">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 hingegen	ADV	hingegen-a
@@ -2292,7 +2292,7 @@ Bevölkerung	N.Reg.Gen.Sg.Fem	Bevölkerung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:5" video="https://media.dipintra.it/?id=667&start=00.56&end=01.00&collection=eptic3">
+<s id="667:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.00.56&end=00.01.00">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 wohl	ADV	wohl-a
@@ -2304,7 +2304,7 @@ Europas	N.Name.Gen.Sg.Neut	Europa-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:6" video="https://media.dipintra.it/?id=667&start=01.00&end=01.27&collection=eptic3">
+<s id="667:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.01.00&end=00.01.27">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 Parallelen	N.Reg.Acc.Pl.Fem	Parallele-n
@@ -2385,7 +2385,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:7" video="https://media.dipintra.it/?id=667&start=01.27&end=01.35&collection=eptic3">
+<s id="667:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.01.27&end=00.01.35">
 Wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 nämlich	ADV	nämlich-a
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -2417,7 +2417,7 @@ einverstanden	ADJD.Pos	einverstanden-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="667:8" video="https://media.dipintra.it/?id=667&start=01.35&end=02.03&collection=eptic3">
+<s id="667:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=667.wmv&start=00.01.35&end=00.02.03">
 Mit	APPR	mit-i
 dem	ART.Def.Dat.Sg.Masc	die-x
 was	FM	was-x
@@ -2468,7 +2468,7 @@ Danke	PART.Ans	Danke-x
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="DE21" gender="M" native="NA">
-<s id="668:1" video="https://media.dipintra.it/?id=668&start=00.08&end=00.13&collection=eptic3">
+<s id="668:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.08&end=00.00.13">
 Danke	PART.Ans	Danke-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -2481,7 +2481,7 @@ Kollegen	N.Reg.Nom.Pl.Masc	Kollege-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:2" video="https://media.dipintra.it/?id=668&start=00.13&end=00.18&collection=eptic3">
+<s id="668:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.13&end=00.00.18">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ja	ADV	ja-a
@@ -2497,7 +2497,7 @@ anzufangen	VINF.Full.zu	anfangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:3" video="https://media.dipintra.it/?id=668&start=00.18&end=00.21&collection=eptic3">
+<s id="668:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.18&end=00.00.21">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ja	ADV	ja-a
@@ -2510,7 +2510,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:4" video="https://media.dipintra.it/?id=668&start=00.21&end=00.36&collection=eptic3">
+<s id="668:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.21&end=00.00.36">
 Diesen	PRO.Dem.Attr.Acc.Sg.Masc	diese-p
 Bericht	N.Reg.Acc.Sg.Masc	Bericht-n
 über	APPR	über-i
@@ -2555,7 +2555,7 @@ annahm	VFIN.Full.3.Sg.Past.Ind	annehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:5" video="https://media.dipintra.it/?id=668&start=00.36&end=00.49&collection=eptic3">
+<s id="668:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.36&end=00.00.49">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -2580,7 +2580,7 @@ Mitwirkung	N.Reg.Acc.Sg.Fem	Mitwirkung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:6" video="https://media.dipintra.it/?id=668&start=00.49&end=00.58&collection=eptic3">
+<s id="668:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.49&end=00.00.58">
 Robert	N.Name.Nom.Sg.Masc	Robert-n
 Frost	N.Reg.Nom.Sg.Masc	Frost-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -2606,7 +2606,7 @@ vielleicht	ADV	vielleicht-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:7" video="https://media.dipintra.it/?id=668&start=00.58&end=01.06&collection=eptic3">
+<s id="668:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.00.58&end=00.01.06">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -2627,7 +2627,7 @@ noch	ADV	noch-a
 zu	PART.Verb	zu-x
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:8" video="https://media.dipintra.it/?id=668&start=01.06&end=01.46&collection=eptic3">
+<s id="668:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.01.06&end=00.01.46">
 In	APPR	in-i
 Mario	N.Name.Nom.Sg.Masc	Mario-n
 Monti	N.Name.Nom.Sg.Masc	Monti-n
@@ -2706,7 +2706,7 @@ zuarbeiten	VINF.Full	zuarbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:9" video="https://media.dipintra.it/?id=668&start=01.46&end=02.06&collection=eptic3">
+<s id="668:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.01.46&end=00.02.06">
 Denn	CONJ.Coord	denn-c
 die	ART.Def.Nom.Sg.Fem	die-x
 Rezession	N.Reg.Nom.Sg.Fem	Rezession-n
@@ -2757,7 +2757,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:10" video="https://media.dipintra.it/?id=668&start=02.06&end=02.15&collection=eptic3">
+<s id="668:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.02.06&end=00.02.15">
 12	CARD	12-m
 Milionen	N.Reg.Dat.Pl.Fem	Milionen-n
 EU-Bürger	N.Reg.Nom.Sg.Masc	EU-Bürger-n
@@ -2777,7 +2777,7 @@ abhängig	ADJD.Pos	abhängig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:11" video="https://media.dipintra.it/?id=668&start=02.15&end=02.23&collection=eptic3">
+<s id="668:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.02.15&end=00.02.23">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 38	CARD	38-m
@@ -2793,7 +2793,7 @@ abhängen	VFIN.Full.3.Pl.Pres.Ind	abhängen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:12" video="https://media.dipintra.it/?id=668&start=02.23&end=02.33&collection=eptic3">
+<s id="668:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.02.23&end=00.02.33">
 Für	APPR	für-i
 das	ART.Def.Acc.Sg.Neut	die-x
 Wirtschaftswachstum	N.Reg.Acc.Sg.Neut	Wirtschaftswachstum-n
@@ -2816,7 +2816,7 @@ Sektoren	N.Reg.Gen.Pl.Masc	Sektor-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:13" video="https://media.dipintra.it/?id=668&start=02.33&end=02.43&collection=eptic3">
+<s id="668:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.02.33&end=00.02.43">
 Nehmen	FPAUSE	ehm
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 mal	ADV	mal-a
@@ -2844,7 +2844,7 @@ Unfall	N.Reg.Acc.Sg.Masc	Unfall-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:14" video="https://media.dipintra.it/?id=668&start=02.44&end=03.45&collection=eptic3">
+<s id="668:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.02.44&end=00.03.45">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Arbeitschütze	N.Reg.Nom.Sg.Fem	Arbeitschütze-n
 <g/>
@@ -2971,7 +2971,7 @@ sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:15" video="https://media.dipintra.it/?id=668&start=03.45&end=03.47&collection=eptic3">
+<s id="668:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.03.45&end=00.03.47">
 Antworte	VIMP.Full.2.Sg	antworten-v
 zu	APPR	zu-i
 den	ART.Def.Dat.Pl.*	die-x
@@ -2979,7 +2979,7 @@ KMO	N.Reg.Dat.Pl.*	KMO-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:16" video="https://media.dipintra.it/?id=668&start=03.48&end=04.06&collection=eptic3">
+<s id="668:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.03.48&end=00.04.06">
 Natürliche	N.Reg.Nom.Sg.Masc	Natürliche-n
 denkt	VFIN.Full.3.Sg.Pres.Ind	denken-v
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
@@ -3023,7 +3023,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:17" video="https://media.dipintra.it/?id=668&start=04.06&end=04.09&collection=eptic3">
+<s id="668:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.06&end=00.04.09">
 Dadurch	PROADV.Dem	dadurch-x
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 ihr	PRO.Poss.Attr.Nom.Sg.Neut	ihre-p
@@ -3034,7 +3034,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:18" video="https://media.dipintra.it/?id=668&start=04.09&end=04.16&collection=eptic3">
+<s id="668:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.09&end=00.04.16">
 Zum	APPRART.Dat.Sg.Neut	zu-i
 Thema	N.Reg.Dat.Sg.Neut	Thema-n
 Transparenz	N.Reg.Nom.Sg.Fem	Transparenz-n
@@ -3051,7 +3051,7 @@ arbeiten	VFIN.Full.3.Pl.Pres.Ind	arbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:19" video="https://media.dipintra.it/?id=668&start=04.16&end=04.22&collection=eptic3">
+<s id="668:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.16&end=00.04.22">
 Diese	PRO.Dem.Subst.Nom.Pl.*	diese-p
 ehm	FPAUSE	ehm
 Maßnahmen	N.Reg.Nom.Pl.Fem	Maßnahme-n
@@ -3067,7 +3067,7 @@ hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:20" video="https://media.dipintra.it/?id=668&start=04.22&end=04.30&collection=eptic3">
+<s id="668:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.22&end=00.04.30">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Prozesse	N.Reg.Nom.Pl.Masc	Prozess-n
 und	CONJ.Coord	und-c
@@ -3084,7 +3084,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:21" video="https://media.dipintra.it/?id=668&start=04.30&end=04.43&collection=eptic3">
+<s id="668:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.30&end=00.04.43">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 stellen	VFIN.Full.1.Pl.Pres.Ind	stellen-v
 fest	PART.Verb	fest-x
@@ -3117,7 +3117,7 @@ Rechtsakte	N.Reg.Acc.Sg.Fem	Rechtsakte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="668:22" video="https://media.dipintra.it/?id=668&start=04.43&end=05.14&collection=eptic3">
+<s id="668:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=668.wmv&start=00.04.43&end=00.05.14">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiss	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -3209,7 +3209,7 @@ schaffen	VINF.Full	schaffen-v
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="669:1" video="https://media.dipintra.it/?id=669&start=00.14&end=00.20&collection=eptic3">
+<s id="669:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.14&end=00.00.20">
 Vielen	PRO.Indef.Subst.Nom.Pl.*	viele-p
 Dank	APPR	dank-i
 Frau	N.Reg.Gen.Sg.Fem	Frau-n
@@ -3235,7 +3235,7 @@ Weg	N.Reg.Nom.Sg.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:2" video="https://media.dipintra.it/?id=669&start=00.20&end=00.33&collection=eptic3">
+<s id="669:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.20&end=00.00.33">
 In	APPR	in-i
 Europa	N.Name.Dat.Sg.Neut	Europa-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -3267,7 +3267,7 @@ Unternehmen	FPAUSE	ehm
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:3" video="https://media.dipintra.it/?id=669&start=00.33&end=00.37&collection=eptic3">
+<s id="669:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.33&end=00.00.37">
 Da	ADV	da-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 mehr	PRO.Indef.Attr.*.*.*	mehr-p
@@ -3277,7 +3277,7 @@ Einzelbetriebe	N.Reg.Nom.Pl.Masc	Einzelbetrieb-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:4" video="https://media.dipintra.it/?id=669&start=00.37&end=00.47&collection=eptic3">
+<s id="669:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.37&end=00.00.47">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bausektor	N.Reg.Nom.Sg.Masc	Bausektor-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -3309,7 +3309,7 @@ Wirtschaftskrise	N.Reg.Dat.Sg.Fem	Wirtschaftskrise-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:5" video="https://media.dipintra.it/?id=669&start=00.47&end=00.57&collection=eptic3">
+<s id="669:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.47&end=00.00.57">
 Viele	PRO.Indef.Attr.Nom.Pl.Masc	viele-p
 Aspekte	N.Reg.Nom.Pl.Masc	Aspekt-n
 in	APPR	in-i
@@ -3351,7 +3351,7 @@ Kompromiss	N.Reg.Nom.Sg.Masc	Kompromiss-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:6" video="https://media.dipintra.it/?id=669&start=00.57&end=01.01&collection=eptic3">
+<s id="669:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.00.57&end=00.01.01">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 sicherlich	ADV	sicherlich-a
@@ -3361,7 +3361,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:7" video="https://media.dipintra.it/?id=669&start=01.01&end=01.15&collection=eptic3">
+<s id="669:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.01.01&end=00.01.15">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Kleinstunternehmen	FPAUSE	ehm
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -3398,7 +3398,7 @@ widerspricht	VFIN.Full.3.Sg.Pres.Ind	widersprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="669:8" video="https://media.dipintra.it/?id=669&start=01.15&end=01.32&collection=eptic3">
+<s id="669:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=669.wmv&start=00.01.15&end=00.01.32">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -3460,7 +3460,7 @@ verwirren	VINF.Full	verwirren-v
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="DE15" gender="F" native="NA">
-<s id="670:1" video="https://media.dipintra.it/?id=670&start=00.08&end=00.24&collection=eptic3">
+<s id="670:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.00.08&end=00.00.24">
 Herzlichen	N.Reg.Nom.Pl.*	Herzliche-n
 Dank	APPR	dank-i
 Frau	N.Reg.Gen.Sg.Fem	Frau-n
@@ -3498,7 +3498,7 @@ Stihler	N.Name.Dat.Sg.Fem	Stihler-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:2" video="https://media.dipintra.it/?id=670&start=00.24&end=00.36&collection=eptic3">
+<s id="670:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.00.24&end=00.00.36">
 Wenn	CONJ.SubFin	wenn-c
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
 ein	ART.Indef.Acc.Sg.Neut	eine-x
@@ -3542,7 +3542,7 @@ gestellt	VPP.Full.Psp	stellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:3" video="https://media.dipintra.it/?id=670&start=00.36&end=00.41&collection=eptic3">
+<s id="670:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.00.36&end=00.00.41">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
@@ -3566,7 +3566,7 @@ Haus	N.Reg.Acc.Sg.Neut	Haus-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:4" video="https://media.dipintra.it/?id=670&start=00.43&end=00.55&collection=eptic3">
+<s id="670:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.00.43&end=00.00.55">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 große	ADJA.Pos.Acc.Pl.Fem	groß-j
@@ -3609,7 +3609,7 @@ Meinungsverschiedenheiten	N.Reg.Acc.Pl.Fem	Meinungsverschiedenheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:5" video="https://media.dipintra.it/?id=670&start=00.55&end=01.06&collection=eptic3">
+<s id="670:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.00.55&end=00.01.06">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 ein	ART.Indef.Acc.Sg.Neut	eine-x
@@ -3647,7 +3647,7 @@ hinzufügen	VINF.Full	hinzufügen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:6" video="https://media.dipintra.it/?id=670&start=01.06&end=01.08&collection=eptic3">
+<s id="670:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.06&end=00.01.08">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -3657,7 +3657,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:7" video="https://media.dipintra.it/?id=670&start=01.08&end=01.15&collection=eptic3">
+<s id="670:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.08&end=00.01.15">
 Zunächst	ADV	zunächst-a
 einmal	ADV	einmal-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -3676,7 +3676,7 @@ Zusammenarbeit	N.Reg.Acc.Sg.Fem	Zusammenarbeit-n
 mit	APPR	mit-i
 uns.	N.Reg.Dat.Sg.Masc	uns.-n
 </s>
-<s id="670:8" video="https://media.dipintra.it/?id=670&start=01.15&end=01.21&collection=eptic3">
+<s id="670:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.15&end=00.01.21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 muss	VFIN.Mod.1.Sg.Pres.Ind	müssen-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -3698,7 +3698,7 @@ zusammenarbeiten	VINF.Full	zusammenarbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:9" video="https://media.dipintra.it/?id=670&start=01.21&end=01.33&collection=eptic3">
+<s id="670:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.21&end=00.01.33">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 jetzt	ADV	jetzt-a
@@ -3728,7 +3728,7 @@ umsetzen	VINF.Full	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:10" video="https://media.dipintra.it/?id=670&start=01.33&end=01.39&collection=eptic3">
+<s id="670:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.33&end=00.01.39">
 Zweitens	ADV	zweitens-a
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -3751,7 +3751,7 @@ schon	ADV	schon-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:11" video="https://media.dipintra.it/?id=670&start=01.39&end=01.46&collection=eptic3">
+<s id="670:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.39&end=00.01.46">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 sicherstellen	VINF.Full	sicherstellen-v
@@ -3771,7 +3771,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="670:12" video="https://media.dipintra.it/?id=670&start=01.46&end=01.51&collection=eptic3">
+<s id="670:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=670.wmv&start=00.01.46&end=00.01.51">
 Denn	CONJ.Coord	denn-c
 dies	PRO.Dem.Subst.Nom.Sg.Neut	dies-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -3794,7 +3794,7 @@ Wirtschaft	N.Reg.Acc.Sg.Fem	Wirtschaft-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="DE16" gender="F" native="NA">
-<s id="671:1" video="https://media.dipintra.it/?id=671&start=00.09&end=00.17&collection=eptic3">
+<s id="671:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.09&end=00.00.17">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 <g/>
@@ -3825,7 +3825,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:2" video="https://media.dipintra.it/?id=671&start=00.18&end=00.36&collection=eptic3">
+<s id="671:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.18&end=00.00.36">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
 <g/>
@@ -3879,7 +3879,7 @@ weiterführen	VINF.Full	weiterführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:3" video="https://media.dipintra.it/?id=671&start=00.36&end=00.45&collection=eptic3">
+<s id="671:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.36&end=00.00.45">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 Kompromiss	N.Reg.Nom.Sg.Masc	Kompromiss-n
@@ -3905,7 +3905,7 @@ wollen	VFIN.Mod.3.Pl.Pres.Ind	wollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:4" video="https://media.dipintra.it/?id=671&start=00.45&end=00.52&collection=eptic3">
+<s id="671:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.45&end=00.00.52">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 aber	ADV	aber-a
@@ -3934,7 +3934,7 @@ für	APPR	für-i
 diesen	PRO.Dem.Attr.Acc.Sg.Masc	diese-p
 Text.	N.Reg.Acc.Sg.Masc	Text.-n
 </s>
-<s id="671:5" video="https://media.dipintra.it/?id=671&start=00.52&end=00.57&collection=eptic3">
+<s id="671:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.52&end=00.00.57">
 In	APPR	in-i
 dieser	PRO.Dem.Attr.Dat.Sg.Fem	diese-p
 Aussprache	N.Reg.Dat.Sg.Fem	Aussprache-n
@@ -3947,7 +3947,7 @@ gemacht	VPP.Full.Psp	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:6" video="https://media.dipintra.it/?id=671&start=00.57&end=01.13&collection=eptic3">
+<s id="671:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.00.57&end=00.01.13">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Bauwirtschaft	N.Reg.Nom.Sg.Fem	Bauwirtschaft-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -3992,7 +3992,7 @@ Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:7" video="https://media.dipintra.it/?id=671&start=01.13&end=01.23&collection=eptic3">
+<s id="671:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.01.13&end=00.01.23">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -4024,7 +4024,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:8" video="https://media.dipintra.it/?id=671&start=01.23&end=01.29&collection=eptic3">
+<s id="671:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.01.23&end=00.01.29">
 Da	ADV	da-a
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -4051,7 +4051,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="671:9" video="https://media.dipintra.it/?id=671&start=01.29&end=01.41&collection=eptic3">
+<s id="671:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=671.wmv&start=00.01.29&end=00.01.41">
 Also	ADV	also-a
 danke	VFIN.Full.3.Sg.Pres.Subj	danken-v
 schön	ADJD.Pos	schön-j
@@ -4105,7 +4105,7 @@ danke	VFIN.Full.1.Sg.Pres.Ind	danken-v
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="DE13" gender="M" native="NA">
-<s id="673:1" video="https://media.dipintra.it/?id=673&start=00.09&end=00.16&collection=eptic3">
+<s id="673:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.09&end=00.00.16">
 Meine	PRO.Poss.Attr.Nom.Sg.Fem	meine-p
 Damen	N.Reg.Nom.Pl.Fem	Dame-n
 und	CONJ.Coord	und-c
@@ -4118,7 +4118,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:2" video="https://media.dipintra.it/?id=673&start=00.16&end=00.29&collection=eptic3">
+<s id="673:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.16&end=00.00.29">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 sich	PRO.Refl.Subst.3.Dat.Pl.*	sie-p
@@ -4148,7 +4148,7 @@ hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:3" video="https://media.dipintra.it/?id=673&start=00.29&end=00.38&collection=eptic3">
+<s id="673:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.29&end=00.00.38">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
@@ -4172,7 +4172,7 @@ befasst	VPP.Full.Psp	befassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:4" video="https://media.dipintra.it/?id=673&start=00.38&end=00.49&collection=eptic3">
+<s id="673:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.38&end=00.00.49">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 bereits	ADV	bereits-a
@@ -4197,7 +4197,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:5" video="https://media.dipintra.it/?id=673&start=00.49&end=00.52&collection=eptic3">
+<s id="673:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.49&end=00.00.52">
 Aber	CONJ.Coord	aber-c
 fangen	VFIN.Full.1.Pl.Pres.Ind	fangen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -4209,7 +4209,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:6" video="https://media.dipintra.it/?id=673&start=00.52&end=00.57&collection=eptic3">
+<s id="673:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.52&end=00.00.57">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Zwischenfall	N.Reg.Nom.Sg.Masc	Zwischenfall-n
 kam	VFIN.Full.3.Sg.Past.Ind	kommen-v
@@ -4224,7 +4224,7 @@ Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
 am	APPRART.Dat.Sg.Masc	an-i
 22.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="673:7" video="https://media.dipintra.it/?id=673&start=00.57&end=01.46&collection=eptic3">
+<s id="673:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.00.57&end=00.01.46">
 Dezember	N.Reg.*.Sg.Masc	Dezember-n
 2010	CARD	[number]-m
 unterrichtet	VPP.Full.Psp	unterrichten-v
@@ -4295,7 +4295,7 @@ Fetten	N.Reg.Dat.Pl.Neut	Fett-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:8" video="https://media.dipintra.it/?id=673&start=01.46&end=02.13&collection=eptic3">
+<s id="673:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.01.46&end=00.02.13">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 zweiten	ADJA.Pos.Dat.Sg.Fem	zweit-j
@@ -4350,7 +4350,7 @@ betrachtet	VPP.Full.Psp	betrachten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:9" video="https://media.dipintra.it/?id=673&start=02.13&end=02.24&collection=eptic3">
+<s id="673:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.02.13&end=00.02.24">
 1300	CARD	[number]-m
 potentiell	ADJD.Pos	potentiell-j
 kontaminiertes	ADJA.Pos.Nom.Sg.Neut	kontaminiert-j
@@ -4366,13 +4366,13 @@ beschlagnahmt	VPP.Full.Psp	beschlagnahmen-v
 .	SYM.Pun.Sent	.-x
 300.	ADJA.Pos.Dat.Sg.Neut	[number]-j
 </s>
-<s id="673:10" video="https://media.dipintra.it/?id=673&start=02.24&end=02.27&collection=eptic3">
+<s id="673:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.02.24&end=00.02.27">
 000	CARD	[number]-m
 zusammen	PART.Verb	zusammen-x
 über	APPR	über-i
 300.	ADJA.Pos.Dat.Sg.Neut	[number]-j
 </s>
-<s id="673:11" video="https://media.dipintra.it/?id=673&start=02.27&end=02.40&collection=eptic3">
+<s id="673:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.02.27&end=00.02.40">
 000	CARD	[number]-m
 Tonnen	N.Reg.Nom.Pl.Fem	Tonne-n
 Tierfuttermittel	N.Reg.Nom.Pl.Neut	Tierfuttermittel-n
@@ -4396,7 +4396,7 @@ geliefert	VPP.Full.Psp	liefern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:12" video="https://media.dipintra.it/?id=673&start=02.40&end=02.54&collection=eptic3">
+<s id="673:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.02.40&end=00.02.54">
 Als	APPR	als-i
 reine	ADJA.Pos.Acc.Sg.Fem	rein-j
 Vorsichtsmaßnahme	N.Reg.Acc.Sg.Fem	Vorsichtsmaßnahme-n
@@ -4418,7 +4418,7 @@ unterbrochen	VPP.Full.Psp	unterbrechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:13" video="https://media.dipintra.it/?id=673&start=02.54&end=03.02&collection=eptic3">
+<s id="673:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.02.54&end=00.03.02">
 Die	ART.Def.Nom.Pl.Fem	die-x
 legenden	ADJA.Pos.Nom.Pl.Fem	legend-j
 Hennen	N.Reg.Nom.Pl.Fem	Henne-n
@@ -4437,7 +4437,7 @@ betroffen	VPP.Full.Psp	betreffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:14" video="https://media.dipintra.it/?id=673&start=03.02&end=03.12&collection=eptic3">
+<s id="673:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.02&end=00.03.12">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 auch	ADV	auch-a
@@ -4458,7 +4458,7 @@ untersuchen	VINF.Full	untersuchen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:15" video="https://media.dipintra.it/?id=673&start=03.12&end=03.21&collection=eptic3">
+<s id="673:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.12&end=00.03.21">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
@@ -4477,7 +4477,7 @@ führteten	VFIN.Full.3.Pl.Past.Ind	führteten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:16" video="https://media.dipintra.it/?id=673&start=03.21&end=03.42&collection=eptic3">
+<s id="673:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.21&end=00.03.42">
 Diese	PRO.Dem.Subst.Nom.Pl.*	diese-p
 ehm	FPAUSE	ehm
 Farmen	N.Reg.Nom.Pl.Fem	Farm-n
@@ -4505,7 +4505,7 @@ geblockt	VPP.Full.Psp	blocken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:17" video="https://media.dipintra.it/?id=673&start=03.42&end=03.49&collection=eptic3">
+<s id="673:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.42&end=00.03.49">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 keine	PRO.Indef.Attr.Acc.Pl.Neut	keine-p
@@ -4520,7 +4520,7 @@ Ausnahmen	N.Reg.Dat.Pl.Fem	Ausnahme-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:18" video="https://media.dipintra.it/?id=673&start=03.49&end=03.55&collection=eptic3">
+<s id="673:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.49&end=00.03.55">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Analysen	N.Reg.Nom.Pl.Fem	Analyse-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -4536,7 +4536,7 @@ entsprachen	VFIN.Full.3.Pl.Past.Ind	entsprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:19" video="https://media.dipintra.it/?id=673&start=03.55&end=04.01&collection=eptic3">
+<s id="673:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.03.55&end=00.04.01">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -4554,7 +4554,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:20" video="https://media.dipintra.it/?id=673&start=04.01&end=04.06&collection=eptic3">
+<s id="673:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.04.01&end=00.04.06">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 auch	ADV	auch-a
@@ -4567,7 +4567,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:21" video="https://media.dipintra.it/?id=673&start=04.06&end=04.29&collection=eptic3">
+<s id="673:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.04.06&end=00.04.29">
 Der	ART.Def.Nom.Sg.Masc	die-x
 glückliche	ADJA.Pos.Nom.Sg.Masc	glücklich-j
 Aspekt	N.Reg.Nom.Sg.Masc	Aspekt-n
@@ -4613,7 +4613,7 @@ Nahrungsmitteln	N.Reg.Dat.Pl.Neut	Nahrungsmittel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:22" video="https://media.dipintra.it/?id=673&start=04.29&end=04.42&collection=eptic3">
+<s id="673:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.04.29&end=00.04.42">
 Was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 meine	PRO.Poss.Attr.Acc.Sg.Fem	meine-p
@@ -4648,7 +4648,7 @@ Schnellalarmsystems	N.Reg.Gen.Sg.Neut	Schnellalarmsystem-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:23" video="https://media.dipintra.it/?id=673&start=04.42&end=04.51&collection=eptic3">
+<s id="673:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.04.42&end=00.04.51">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gab	VFIN.Full.3.Sg.Past.Ind	geben-v
 auch	ADV	auch-a
@@ -4675,7 +4675,7 @@ wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:24" video="https://media.dipintra.it/?id=673&start=04.51&end=05.03&collection=eptic3">
+<s id="673:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.04.51&end=00.05.03">
 Kommissionsbeamte	N.Reg.Nom.Pl.Masc	Kommissionsbeamte-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 mit	APPR	mit-i
@@ -4697,7 +4697,7 @@ voranzutreiben	VINF.Full.zu	vorantreiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:25" video="https://media.dipintra.it/?id=673&start=05.03&end=05.09&collection=eptic3">
+<s id="673:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.05.03&end=00.05.09">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 persönlich	ADJD.Pos	persönlich-j
 war	VFIN.Aux.1.Sg.Past.Ind	sein-v
@@ -4718,7 +4718,7 @@ war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 am	APPRART.Dat.Sg.Masc	an-i
 6.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="673:26" video="https://media.dipintra.it/?id=673&start=05.09&end=05.20&collection=eptic3">
+<s id="673:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.05.09&end=00.05.20">
 Januar	N.Reg.*.Sg.Masc	Januar-n
 und	CONJ.Coord	und-c
 hatten	VFIN.Aux.3.Pl.Past.Ind	haben-v
@@ -4738,7 +4738,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:27" video="https://media.dipintra.it/?id=673&start=05.20&end=05.43&collection=eptic3">
+<s id="673:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.05.20&end=00.05.43">
 Heute	ADV	heute-a
 hatte	VFIN.Aux.1.Sg.Past.Ind	haben-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -4787,7 +4787,7 @@ Mischfutter	N.Reg.Acc.Sg.Neut	Mischfutter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:28" video="https://media.dipintra.it/?id=673&start=05.43&end=05.50&collection=eptic3">
+<s id="673:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.05.43&end=00.05.50">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 führte	VFIN.Full.3.Sg.Past.Ind	führen-v
 dazu	PROADV.Dem	dazu-x
@@ -4804,7 +4804,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:29" video="https://media.dipintra.it/?id=673&start=05.50&end=06.06&collection=eptic3">
+<s id="673:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.05.50&end=00.06.06">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -4846,7 +4846,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:30" video="https://media.dipintra.it/?id=673&start=06.06&end=06.18&collection=eptic3">
+<s id="673:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.06.06&end=00.06.18">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -4878,7 +4878,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:31" video="https://media.dipintra.it/?id=673&start=06.18&end=06.30&collection=eptic3">
+<s id="673:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.06.18&end=00.06.30">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 halte	VFIN.Full.1.Sg.Pres.Ind	halten-v
 es	PRO.Pers.Subst.3.Acc.Sg.Neut	sie-p
@@ -4904,7 +4904,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:32" video="https://media.dipintra.it/?id=673&start=06.30&end=06.44&collection=eptic3">
+<s id="673:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.06.30&end=00.06.44">
 Ein	ART.Indef.Nom.Sg.Neut	eine-x
 Team	N.Reg.Nom.Sg.Neut	Team-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -4955,7 +4955,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:33" video="https://media.dipintra.it/?id=673&start=06.44&end=06.56&collection=eptic3">
+<s id="673:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.06.44&end=00.06.56">
 Die	ART.Def.Nom.Pl.Fem	die-x
 deutschen	ADJA.Pos.Nom.Pl.Fem	deutsch-j
 Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
@@ -4989,7 +4989,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:34" video="https://media.dipintra.it/?id=673&start=06.56&end=07.00&collection=eptic3">
+<s id="673:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.06.56&end=00.07.00">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 zusätzliche	ADJA.Pos.Nom.Sg.Fem	zusätzlich-j
 Information	N.Reg.Nom.Sg.Fem	Information-n
@@ -5004,7 +5004,7 @@ Herren	N.Reg.Nom.Pl.Masc	Herr-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:35" video="https://media.dipintra.it/?id=673&start=07.00&end=07.05&collection=eptic3">
+<s id="673:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.00&end=00.07.05">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hatten	VFIN.Aux.1.Pl.Past.Ind	haben-v
 über	APPR	über-i
@@ -5020,7 +5020,7 @@ Agrarminister	N.Reg.Gen.Pl.Masc	Agrarminister-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:36" video="https://media.dipintra.it/?id=673&start=07.05&end=07.07&collection=eptic3">
+<s id="673:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.05&end=00.07.07">
 Also	ADV	also-a
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
@@ -5029,7 +5029,7 @@ diskutieren	VINF.Full	diskutieren-v
 am	APPRART.Dat.Sg.Masc	an-i
 24.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="673:37" video="https://media.dipintra.it/?id=673&start=07.07&end=07.17&collection=eptic3">
+<s id="673:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.07&end=00.07.17">
 Januar	N.Reg.Nom.Sg.Masc	Januar-n
 wenn	CONJ.SubFin	wenn-c
 Die	ART.Def.Nom.Pl.Masc	die-x
@@ -5060,7 +5060,7 @@ nachgedachte	VFIN.Full.3.Sg.Past.Ind	nachgedenken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:38" video="https://media.dipintra.it/?id=673&start=07.17&end=07.28&collection=eptic3">
+<s id="673:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.17&end=00.07.28">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 Zwischenfall	N.Reg.Nom.Sg.Masc	Zwischenfall-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -5081,7 +5081,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:39" video="https://media.dipintra.it/?id=673&start=07.28&end=07.52&collection=eptic3">
+<s id="673:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.28&end=00.07.52">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 unterliegt	VFIN.Full.3.Sg.Pres.Ind	unterliegen-v
 den	ART.Def.Acc.Pl.Fem	die-x
@@ -5136,7 +5136,7 @@ und	CONJ.Coord	und-c
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:40" video="https://media.dipintra.it/?id=673&start=07.52&end=08.06&collection=eptic3">
+<s id="673:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.07.52&end=00.08.06">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sehen	VFIN.Full.1.Pl.Pres.Ind	sehen-v
 auch	ADV	auch-a
@@ -5170,7 +5170,7 @@ Kette	N.Reg.Dat.Sg.Fem	Kette-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:41" video="https://media.dipintra.it/?id=673&start=08.06&end=08.19&collection=eptic3">
+<s id="673:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.08.06&end=00.08.19">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 dabei	PROADV.Dem	dabei-x
@@ -5191,7 +5191,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="673:42" video="https://media.dipintra.it/?id=673&start=08.19&end=08.23&collection=eptic3">
+<s id="673:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=673.wmv&start=00.08.19&end=00.08.23">
 Schönen	N.Reg.Nom.Sg.Neut	Schönen-n
 Dank	N.Reg.Nom.Sg.Masc	Dank-n
 <g/>
@@ -5205,7 +5205,7 @@ Dank	N.Reg.Nom.Sg.Masc	Dank-n
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="718:1" video="https://media.dipintra.it/?id=718&start=00.06&end=00.08&collection=eptic3">
+<s id="718:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.06&end=00.00.08">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Frau	N.Reg.Acc.Sg.Fem	Frau-n
@@ -5213,7 +5213,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:2" video="https://media.dipintra.it/?id=718&start=00.09&end=00.18&collection=eptic3">
+<s id="718:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.09&end=00.00.18">
 Zunächst	ADV	zunächst-a
 einmal	ADV	einmal-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -5243,7 +5243,7 @@ Situation	N.Reg.Dat.Sg.Fem	Situation-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:3" video="https://media.dipintra.it/?id=718&start=00.18&end=00.21&collection=eptic3">
+<s id="718:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.18&end=00.00.21">
 Vor	APPR	vor-i
 zwei	CARD	zwei-m
 Jahren	N.Reg.Dat.Pl.Neut	Jahr-n
@@ -5258,7 +5258,7 @@ gemacht	VPP.Full.Psp	machen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:4" video="https://media.dipintra.it/?id=718&start=00.21&end=00.36&collection=eptic3">
+<s id="718:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.21&end=00.00.36">
 Da	ADV	da-a
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -5309,7 +5309,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:5" video="https://media.dipintra.it/?id=718&start=00.36&end=00.45&collection=eptic3">
+<s id="718:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.36&end=00.00.45">
 Also	ADV	also-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
@@ -5350,7 +5350,7 @@ Antrieb	N.Reg.Nom.Sg.Masc	Antrieb-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="718:6" video="https://media.dipintra.it/?id=718&start=00.45&end=00.51&collection=eptic3">
+<s id="718:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.45&end=00.00.51">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -5379,7 +5379,7 @@ verdienen	VINF.Full	verdienen-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="718:7" video="https://media.dipintra.it/?id=718&start=00.51&end=00.53&collection=eptic3">
+<s id="718:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.51&end=00.00.53">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Häusling	N.Name.Dat.Sg.Masc	Häusling-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -5396,7 +5396,7 @@ Zusatzverdienst	N.Reg.Nom.Sg.Neut	Zusatzverdienst-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="718:8" video="https://media.dipintra.it/?id=718&start=00.53&end=01.03&collection=eptic3">
+<s id="718:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.00.53&end=00.01.03">
 Wenn	CONJ.SubFin	wenn-c
 ja	PART.Ans	ja-x
 <g/>
@@ -5437,7 +5437,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:9" video="https://media.dipintra.it/?id=718&start=01.03&end=01.12&collection=eptic3">
+<s id="718:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.01.03&end=00.01.12">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 diejenigen	PRO.Dem.Subst.Nom.Pl.*	diejenige-p
@@ -5475,7 +5475,7 @@ geschieht	VFIN.Full.3.Sg.Pres.Ind	geschehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:10" video="https://media.dipintra.it/?id=718&start=01.12&end=01.14&collection=eptic3">
+<s id="718:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.01.12&end=00.01.14">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 auch	ADV	auch-a
@@ -5487,7 +5487,7 @@ wiederherstellen	VINF.Full	wiederherstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:11" video="https://media.dipintra.it/?id=718&start=01.14&end=01.24&collection=eptic3">
+<s id="718:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.01.14&end=00.01.24">
 Also	ADV	also-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 kann	VFIN.Mod.1.Sg.Pres.Ind	können-v
@@ -5528,7 +5528,7 @@ ja	ITJ	ja-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:12" video="https://media.dipintra.it/?id=718&start=01.24&end=01.28&collection=eptic3">
+<s id="718:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.01.24&end=00.01.28">
 Also	ADV	also-a
 jetzt	ADV	jetzt-a
 dürfen	VFIN.Mod.1.Pl.Pres.Ind	dürfen-v
@@ -5541,7 +5541,7 @@ ausarbeiten	VINF.Full	ausarbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="718:13" video="https://media.dipintra.it/?id=718&start=01.28&end=01.32&collection=eptic3">
+<s id="718:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=718.wmv&start=00.01.28&end=00.01.32">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 einfach	ADV	einfach-a
@@ -5566,7 +5566,7 @@ steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="DE14" gender="F" native="NA">
-<s id="719:1" video="https://media.dipintra.it/?id=719&start=00.10&end=00.11&collection=eptic3">
+<s id="719:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.10&end=00.00.11">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Frau	N.Reg.Acc.Sg.Fem	Frau-n
@@ -5574,7 +5574,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:2" video="https://media.dipintra.it/?id=719&start=00.11&end=00.15&collection=eptic3">
+<s id="719:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.11&end=00.00.15">
 Zunächst	ADV	zunächst-a
 einmal	ADV	einmal-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -5588,7 +5588,7 @@ bekunden	VFIN.Full.3.Pl.Pres.Ind	bekunden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:3" video="https://media.dipintra.it/?id=719&start=00.15&end=00.20&collection=eptic3">
+<s id="719:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.15&end=00.00.20">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 <g/>
 ...	EPAUSE	...-x
@@ -5601,7 +5601,7 @@ Unternehmen	FPAUSE	ehm
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:4" video="https://media.dipintra.it/?id=719&start=00.20&end=00.31&collection=eptic3">
+<s id="719:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.20&end=00.00.31">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 ehm	FPAUSE	ehm
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -5638,7 +5638,7 @@ Union	N.Reg.Dat.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:5" video="https://media.dipintra.it/?id=719&start=00.31&end=00.40&collection=eptic3">
+<s id="719:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.31&end=00.00.40">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 auch	ADV	auch-a
@@ -5683,7 +5683,7 @@ Sonderbestimmungen	N.Reg.Acc.Pl.Fem	Sonderbestimmung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:6" video="https://media.dipintra.it/?id=719&start=00.40&end=00.46&collection=eptic3">
+<s id="719:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.40&end=00.00.46">
 Die	ART.Def.Nom.Pl.*	die-x
 Deutschen	N.Reg.Nom.Pl.*	Deutsche-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -5708,7 +5708,7 @@ ergriffen	VPP.Full.Psp	ergreifen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:7" video="https://media.dipintra.it/?id=719&start=00.46&end=00.52&collection=eptic3">
+<s id="719:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.46&end=00.00.52">
 Im	APPRART.Dat.Sg.Neut	in-i
 Vereinigten	ADJA.Pos.Dat.Sg.Neut	vereinigt-j
 Königreich	N.Reg.Dat.Sg.Neut	Königreich-n
@@ -5722,7 +5722,7 @@ Versicherungssystem	N.Reg.Acc.Sg.Neut	Versicherungssystem-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="719:8" video="https://media.dipintra.it/?id=719&start=00.52&end=01.11&collection=eptic3">
+<s id="719:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=719.wmv&start=00.00.52&end=00.01.11">
 Da	ADV	da-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -5789,7 +5789,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="DE03" gender="M" native="NA">
-<s id="721:1" video="https://media.dipintra.it/?id=721&start=00.08&end=00.10&collection=eptic3">
+<s id="721:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=721.wmv&start=00.00.08&end=00.00.10">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -5800,7 +5800,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="721:2" video="https://media.dipintra.it/?id=721&start=00.10&end=00.22&collection=eptic3">
+<s id="721:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=721.wmv&start=00.00.10&end=00.00.22">
 Fra-	DYSF	Fra-
 <g/>
 ...	EPAUSE	...-x
@@ -5830,7 +5830,7 @@ festgestellt	ADJD.Pos	festgestellt-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="721:3" video="https://media.dipintra.it/?id=721&start=00.22&end=01.17&collection=eptic3">
+<s id="721:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=721.wmv&start=00.00.22&end=00.01.17">
 Dadurch	PROADV.Dem	dadurch-x
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -5958,7 +5958,7 @@ wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="721:4" video="https://media.dipintra.it/?id=721&start=01.17&end=01.27&collection=eptic3">
+<s id="721:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=721.wmv&start=00.01.17&end=00.01.27">
 Und	CONJ.Coord	und-c
 wie	PROADV.Inter	wie-x
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
@@ -5994,7 +5994,7 @@ Skandalen	N.Reg.Dat.Pl.Masc	Skandal-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="DE23" gender="M" native="NA">
-<s id="722:1" video="https://media.dipintra.it/?id=722&start=00.09&end=00.13&collection=eptic3">
+<s id="722:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.09&end=00.00.13">
 Vor	APPR	vor-i
 zwei	CARD	zwei-m
 Jahren	N.Reg.Dat.Pl.Neut	Jahr-n
@@ -6014,7 +6014,7 @@ Problem	N.Reg.Acc.Sg.Neut	Problem-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:2" video="https://media.dipintra.it/?id=722&start=00.13&end=00.20&collection=eptic3">
+<s id="722:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.13&end=00.00.20">
 Also	ADV	also-a
 was	PRO.Indef.Subst.*.*.Neut	was-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -6037,7 +6037,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="722:3" video="https://media.dipintra.it/?id=722&start=00.20&end=00.29&collection=eptic3">
+<s id="722:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.20&end=00.00.29">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -6061,14 +6061,14 @@ Futtermittelhygienebestimmung	N.Reg.Acc.Sg.Fem	Futtermittelhygienebestimmung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:4" video="https://media.dipintra.it/?id=722&start=00.29&end=00.31&collection=eptic3">
+<s id="722:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.29&end=00.00.31">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 brauchen	VFIN.Full.3.Pl.Pres.Ind	brauchen-v
 Handreichungen	N.Reg.Acc.Pl.Fem	Handreichung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:5" video="https://media.dipintra.it/?id=722&start=00.31&end=00.35&collection=eptic3">
+<s id="722:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.31&end=00.00.35">
 Bitte	PART.Ans	Bitte-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6083,13 +6083,13 @@ verlangen	VFIN.Full.3.Pl.Pres.Ind	verlangen-v
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="722:6" video="https://media.dipintra.it/?id=722&start=00.35&end=00.37&collection=eptic3">
+<s id="722:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.35&end=00.00.37">
 Noch	ADV	noch-a
 was	PRO.Inter.Subst.Nom.Sg.Neut	was-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:7" video="https://media.dipintra.it/?id=722&start=00.37&end=00.57&collection=eptic3">
+<s id="722:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.37&end=00.00.57">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 ganz	ADV	ganz-a
@@ -6133,7 +6133,7 @@ Lebensmittelkette	N.Reg.Acc.Sg.Fem	Lebensmittelkette-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:8" video="https://media.dipintra.it/?id=722&start=00.57&end=00.59&collection=eptic3">
+<s id="722:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.57&end=00.00.59">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6145,7 +6145,7 @@ klar	ADJD.Pos	klar-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="722:9" video="https://media.dipintra.it/?id=722&start=00.59&end=01.18&collection=eptic3">
+<s id="722:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=722.wmv&start=00.00.59&end=00.01.18">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 da	ADV	da-a
@@ -6206,7 +6206,7 @@ Verbrauchervertrauen	N.Reg.Acc.Sg.Neut	Verbrauchervertrauen-n
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="DE04" gender="M" native="NA">
-<s id="723:1" video="https://media.dipintra.it/?id=723&start=00.11&end=00.13&collection=eptic3">
+<s id="723:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.00.11&end=00.00.13">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6217,7 +6217,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="723:2" video="https://media.dipintra.it/?id=723&start=00.13&end=00.28&collection=eptic3">
+<s id="723:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.00.13&end=00.00.28">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gab	VFIN.Full.3.Sg.Past.Ind	geben-v
 mehrere	PRO.Indef.Attr.Acc.Pl.Masc	mehrere-p
@@ -6261,7 +6261,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="723:3" video="https://media.dipintra.it/?id=723&start=00.28&end=00.31&collection=eptic3">
+<s id="723:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.00.28&end=00.00.31">
 Sehr	ADV	sehr-a
 ernsthafte	ADJA.Pos.Nom.Pl.Fem	ernsthaft-j
 Fragen	N.Reg.Nom.Pl.Fem	Frage-n
@@ -6271,7 +6271,7 @@ aufgeworfen	VPP.Full.Psp	aufwerfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="723:4" video="https://media.dipintra.it/?id=723&start=00.31&end=00.42&collection=eptic3">
+<s id="723:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.00.31&end=00.00.42">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 natürlich	ADV	natürlich-a
@@ -6303,7 +6303,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="723:5" video="https://media.dipintra.it/?id=723&start=00.42&end=01.10&collection=eptic3">
+<s id="723:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.00.42&end=00.01.10">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -6375,7 +6375,7 @@ Industrien	N.Reg.Dat.Pl.Fem	Industrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="723:6" video="https://media.dipintra.it/?id=723&start=01.10&end=01.17&collection=eptic3">
+<s id="723:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=723.wmv&start=00.01.10&end=00.01.17">
 Da	ADV	da-a
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 mehr	PRO.Indef.Attr.*.*.*	mehr-p
@@ -6402,14 +6402,14 @@ ziehen	VINF.Full	ziehen-v
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="DE20" gender="F" native="NA">
-<s id="724:1" video="https://media.dipintra.it/?id=724&start=00.09&end=00.10&collection=eptic3">
+<s id="724:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.00.09&end=00.00.10">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:2" video="https://media.dipintra.it/?id=724&start=00.11&end=00.23&collection=eptic3">
+<s id="724:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.00.11&end=00.00.23">
 Tropische	ADJA.Pos.Nom.Pl.Masc	tropisch-j
 Regenwälder	N.Reg.Nom.Pl.Masc	Regenwald-n
 in	APPR	in-i
@@ -6441,7 +6441,7 @@ gewährleisten	VINF.Full	gewährleisten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:3" video="https://media.dipintra.it/?id=724&start=00.23&end=00.43&collection=eptic3">
+<s id="724:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.00.23&end=00.00.43">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Wälder	N.Reg.Nom.Pl.Masc	Wald-n
 gehören	VFIN.Full.3.Pl.Pres.Ind	gehören-v
@@ -6507,7 +6507,7 @@ versucht	VPP.Full.Psp	versuchen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:4" video="https://media.dipintra.it/?id=724&start=00.43&end=00.58&collection=eptic3">
+<s id="724:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.00.43&end=00.00.58">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 beiden	PRO.Indef.Attr.Nom.Pl.Neut	beide-p
 Länder	N.Reg.Nom.Pl.Neut	Land-n
@@ -6549,7 +6549,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:5" video="https://media.dipintra.it/?id=724&start=00.59&end=01.13&collection=eptic3">
+<s id="724:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.00.59&end=00.01.13">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 schwierig	ADJD.Pos	schwierig-j
@@ -6590,7 +6590,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:6" video="https://media.dipintra.it/?id=724&start=01.13&end=01.27&collection=eptic3">
+<s id="724:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.13&end=00.01.27">
 Im	APPRART.Dat.Sg.Masc	in-i
 Augenblick	N.Reg.Dat.Sg.Masc	Augenblick-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -6636,7 +6636,7 @@ anzukämpfen	VINF.Full.zu	ankämpfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:7" video="https://media.dipintra.it/?id=724&start=01.27&end=01.40&collection=eptic3">
+<s id="724:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.27&end=00.01.40">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -6684,7 +6684,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:8" video="https://media.dipintra.it/?id=724&start=01.41&end=01.47&collection=eptic3">
+<s id="724:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.41&end=00.01.47">
 Denn	CONJ.Coord	denn-c
 <g/>
 ...	EPAUSE	...-x
@@ -6702,7 +6702,7 @@ gehen	VFIN.Full.3.Pl.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:9" video="https://media.dipintra.it/?id=724&start=01.49&end=01.54&collection=eptic3">
+<s id="724:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.49&end=00.01.54">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -6717,7 +6717,7 @@ Holzprodukten	N.Reg.Dat.Pl.Neut	Holzprodukt-n
 bei	APPR	bei-i
 uns.	N.Reg.Dat.Sg.Masc	uns.-n
 </s>
-<s id="724:10" video="https://media.dipintra.it/?id=724&start=01.55&end=01.59&collection=eptic3">
+<s id="724:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.55&end=00.01.59">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 dieses	PRO.Dem.Attr.Acc.Sg.Neut	diese-p
@@ -6732,7 +6732,7 @@ bewahren	VINF.Full	bewahren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:11" video="https://media.dipintra.it/?id=724&start=01.59&end=02.12&collection=eptic3">
+<s id="724:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.01.59&end=00.02.12">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 Ressource	N.Reg.Nom.Sg.Fem	Ressource-n
 <g/>
@@ -6776,7 +6776,7 @@ erneuern	VINF.Full	erneuern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:12" video="https://media.dipintra.it/?id=724&start=02.12&end=02.21&collection=eptic3">
+<s id="724:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.12&end=00.02.21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 hier	ADV	hier-a
@@ -6800,7 +6800,7 @@ bekämpfen	VINF.Full	bekämpfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:13" video="https://media.dipintra.it/?id=724&start=02.21&end=02.28&collection=eptic3">
+<s id="724:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.21&end=00.02.28">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Ergebnis	N.Reg.Nom.Sg.Neut	Ergebnis-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -6818,7 +6818,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:14" video="https://media.dipintra.it/?id=724&start=02.28&end=02.35&collection=eptic3">
+<s id="724:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.28&end=00.02.35">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 <g/>
 ...	EPAUSE	...-x
@@ -6849,7 +6849,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:15" video="https://media.dipintra.it/?id=724&start=02.35&end=02.40&collection=eptic3">
+<s id="724:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.35&end=00.02.40">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 wissen	VFIN.Full.3.Pl.Pres.Ind	wissen-v
 dieses	PRO.Dem.Attr.Acc.Sg.Neut	diese-p
@@ -6867,7 +6867,7 @@ wissen	VFIN.Full.1.Pl.Pres.Ind	wissen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:16" video="https://media.dipintra.it/?id=724&start=02.40&end=02.50&collection=eptic3">
+<s id="724:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.40&end=00.02.50">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -6898,7 +6898,7 @@ zu	PART.Zu	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:17" video="https://media.dipintra.it/?id=724&start=02.50&end=02.56&collection=eptic3">
+<s id="724:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.50&end=00.02.56">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -6931,7 +6931,7 @@ umsetzen	VINF.Full	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:18" video="https://media.dipintra.it/?id=724&start=02.56&end=03.00&collection=eptic3">
+<s id="724:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.02.56&end=00.03.00">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 gut	ADJD.Pos	gut-j
@@ -6950,7 +6950,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:19" video="https://media.dipintra.it/?id=724&start=03.00&end=03.05&collection=eptic3">
+<s id="724:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.03.00&end=00.03.05">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 sicherstellen	VINF.Full	sicherstellen-v
@@ -6973,7 +6973,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="724:20" video="https://media.dipintra.it/?id=724&start=03.06&end=03.18&collection=eptic3">
+<s id="724:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=724.wmv&start=00.03.06&end=00.03.18">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 auch	ADV	auch-a
@@ -7020,13 +7020,13 @@ zusammenzuarbeiten	VINF.Full.zu	zusammenarbeiten-v
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="DE22" gender="M" native="NA">
-<s id="725:1" video="https://media.dipintra.it/?id=725&start=00.07&end=00.08&collection=eptic3">
+<s id="725:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.00.07&end=00.00.08">
 Schönen	N.Reg.Nom.Sg.Neut	Schönen-n
 Dank	N.Reg.Nom.Sg.Masc	Dank-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:2" video="https://media.dipintra.it/?id=725&start=00.08&end=00.14&collection=eptic3">
+<s id="725:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.00.08&end=00.00.14">
 zunächst	ADV	zunächst-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -7044,7 +7044,7 @@ Schattenberichterstattern	N.Reg.Dat.Pl.Masc	Schattenberichterstatter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:3" video="https://media.dipintra.it/?id=725&start=00.14&end=00.21&collection=eptic3">
+<s id="725:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.00.14&end=00.00.21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 sehr	ADV	sehr-a
@@ -7075,7 +7075,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:4" video="https://media.dipintra.it/?id=725&start=00.22&end=00.39&collection=eptic3">
+<s id="725:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.00.22&end=00.00.39">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -7134,7 +7134,7 @@ Abkommen	N.Reg.Acc.Pl.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:5" video="https://media.dipintra.it/?id=725&start=00.39&end=01.00&collection=eptic3">
+<s id="725:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.00.39&end=00.01.00">
 Mit	APPR	mit-i
 einem	ART.Indef.Dat.Sg.Masc	eine-x
 Mechanismus	N.Reg.Dat.Sg.Masc	Mechanismus-n
@@ -7179,7 +7179,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:6" video="https://media.dipintra.it/?id=725&start=01.00&end=01.06&collection=eptic3">
+<s id="725:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.00&end=00.01.06">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 begrüßen	VFIN.Full.1.Pl.Pres.Ind	begrüßen-v
 diese	PRO.Dem.Attr.Acc.Pl.Neut	diese-p
@@ -7198,7 +7198,7 @@ Berichterstatter	N.Reg.Dat.Sg.Masc	Berichterstatter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:7" video="https://media.dipintra.it/?id=725&start=01.06&end=01.10&collection=eptic3">
+<s id="725:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.06&end=00.01.10">
 3	CARD	3-m
 <g/>
 ...	EPAUSE	...-x
@@ -7208,7 +7208,7 @@ genannt	VPP.Full.Psp	nennen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:8" video="https://media.dipintra.it/?id=725&start=01.10&end=01.24&collection=eptic3">
+<s id="725:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.10&end=00.01.24">
 Erstens	ADV	erstens-a
 <g/>
 :	SYM.Pun.Colon	:-x
@@ -7244,7 +7244,7 @@ Wäldern	N.Reg.Dat.Pl.Masc	Wald-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:9" video="https://media.dipintra.it/?id=725&start=01.24&end=01.33&collection=eptic3">
+<s id="725:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.24&end=00.01.33">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ja	ADV	ja-a
@@ -7266,7 +7266,7 @@ kaputtgeht	VFIN.Full.3.Sg.Pres.Ind	kaputtgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:10" video="https://media.dipintra.it/?id=725&start=01.33&end=01.48&collection=eptic3">
+<s id="725:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.33&end=00.01.48">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 ja	ADV	ja-a
@@ -7310,7 +7310,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:11" video="https://media.dipintra.it/?id=725&start=01.48&end=02.03&collection=eptic3">
+<s id="725:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.01.48&end=00.02.03">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 braucht	VFIN.Full.3.Sg.Pres.Ind	brauchen-v
 ständige	ADJA.Pos.Acc.Pl.Masc	ständig-j
@@ -7349,7 +7349,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:12" video="https://media.dipintra.it/?id=725&start=02.04&end=02.24&collection=eptic3">
+<s id="725:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.02.04&end=00.02.24">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Problem	N.Reg.Nom.Sg.Neut	Problem-n
 also	ADV	also-a
@@ -7400,7 +7400,7 @@ Kongo	N.Name.Dat.Sg.Masc	Kongo-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:13" video="https://media.dipintra.it/?id=725&start=02.25&end=02.35&collection=eptic3">
+<s id="725:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.02.25&end=00.02.35">
 Drittens	ADV	drittens-a
 <g/>
 :	SYM.Pun.Colon	:-x
@@ -7433,7 +7433,7 @@ Abkommens	N.Reg.Gen.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:14" video="https://media.dipintra.it/?id=725&start=02.35&end=02.44&collection=eptic3">
+<s id="725:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.02.35&end=00.02.44">
 Egal	ADJD.Pos	egal-j
 wie	CONJ.Coord	wie-c
 gut	ADJD.Pos	gut-j
@@ -7461,7 +7461,7 @@ bleiben	VINF.Full	bleiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:15" video="https://media.dipintra.it/?id=725&start=02.44&end=02.49&collection=eptic3">
+<s id="725:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.02.44&end=00.02.49">
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 gesagt	VPP.Full.Psp	sagen-v
 <g/>
@@ -7477,7 +7477,7 @@ Abkommens	N.Reg.Gen.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:16" video="https://media.dipintra.it/?id=725&start=02.49&end=02.59&collection=eptic3">
+<s id="725:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.02.49&end=00.02.59">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 als	CONJ.Comp	als-c
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -7497,7 +7497,7 @@ Haushalt	N.Reg.Dat.Sg.Masc	Haushalt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:17" video="https://media.dipintra.it/?id=725&start=03.00&end=03.22&collection=eptic3">
+<s id="725:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.03.00&end=00.03.22">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 brauchen	VFIN.Full.1.Pl.Pres.Ind	brauchen-v
 also	ADV	also-a
@@ -7541,7 +7541,7 @@ verbesserten	ADJA.Pos.Dat.Sg.Fem	verbessert-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:18" video="https://media.dipintra.it/?id=725&start=03.22&end=03.29&collection=eptic3">
+<s id="725:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.03.22&end=00.03.29">
 Also	ADV	also-a
 nächsten	ADJA.Sup.Dat.Pl.Masc	nah-j
 Monaten	N.Reg.Dat.Pl.Masc	Monat-n
@@ -7561,7 +7561,7 @@ stellen	VINF.Full	stellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:19" video="https://media.dipintra.it/?id=725&start=03.29&end=03.47&collection=eptic3">
+<s id="725:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.03.29&end=00.03.47">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 gute	ADJA.Pos.Acc.Pl.Neut	gut-j
@@ -7617,7 +7617,7 @@ wirken	VINF.Full	wirken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="725:20" video="https://media.dipintra.it/?id=725&start=03.47&end=04.00&collection=eptic3">
+<s id="725:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=725.wmv&start=00.03.47&end=00.04.00">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 zu	APPR	zu-i
@@ -7677,7 +7677,7 @@ passiert	VFIN.Full.3.Sg.Pres.Ind	passieren-v
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="DE03" gender="M" native="NA">
-<s id="726:1" video="https://media.dipintra.it/?id=726&start=00.10&end=00.14&collection=eptic3">
+<s id="726:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.00.10&end=00.00.14">
 Also	ADV	also-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 unterstütze	VFIN.Full.1.Sg.Pres.Ind	unterstützen-v
@@ -7693,7 +7693,7 @@ Frage	N.Reg.Dat.Sg.Fem	Frage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="726:2" video="https://media.dipintra.it/?id=726&start=00.14&end=00.29&collection=eptic3">
+<s id="726:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.00.14&end=00.00.29">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
@@ -7739,7 +7739,7 @@ positiv	ADJD.Pos	positiv-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="726:3" video="https://media.dipintra.it/?id=726&start=00.30&end=00.51&collection=eptic3">
+<s id="726:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.00.30&end=00.00.51">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Republik	N.Reg.Nom.Sg.Fem	Republik-n
 Kongo	N.Name.Nom.Sg.Masc	Kongo-n
@@ -7787,7 +7787,7 @@ ausgebeutet	VPP.Full.Psp	ausbeuten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="726:4" video="https://media.dipintra.it/?id=726&start=00.51&end=01.48&collection=eptic3">
+<s id="726:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.00.51&end=00.01.48">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 sehen	VINF.Full	sehen-v
@@ -7943,7 +7943,7 @@ Elite	N.Reg.Dat.Sg.Fem	Elite-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="726:5" video="https://media.dipintra.it/?id=726&start=01.49&end=01.53&collection=eptic3">
+<s id="726:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.01.49&end=00.01.53">
 Die	ART.Def.Nom.Pl.Neut	die-x
 multinationalen	ADJA.Pos.Nom.Pl.Neut	multinational-j
 Unternehmen	FPAUSE	ehm
@@ -7955,7 +7955,7 @@ Profit	N.Reg.Acc.Sg.Masc	Profit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="726:6" video="https://media.dipintra.it/?id=726&start=01.53&end=02.09&collection=eptic3">
+<s id="726:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=726.wmv&start=00.01.53&end=00.02.09">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -8005,7 +8005,7 @@ Wochen	N.Reg.Dat.Pl.Fem	Woche-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="809" duration="long" durations="397.0" speed="slow" speedwm="122.3" delivery="read">
 <interpreter id="DE18" gender="F" native="NA">
-<s id="727:1" video="https://media.dipintra.it/?id=727&start=00.11&end=00.27&collection=eptic3">
+<s id="727:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.00.11&end=00.00.27">
 Liebe	ADJA.Pos.Nom.Pl.*	lieb-j
 Abgeordnete	N.Reg.Nom.Pl.*	Abgeordnete-n
 <g/>
@@ -8039,7 +8039,7 @@ Kongo	N.Name.Acc.Sg.Masc	Kongo-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:2" video="https://media.dipintra.it/?id=727&start=00.27&end=00.36&collection=eptic3">
+<s id="727:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.00.27&end=00.00.36">
 Hoffen	N.Reg.Nom.Sg.Neut	Hoffen-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -8071,7 +8071,7 @@ tun	VINF.Full	tun-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:3" video="https://media.dipintra.it/?id=727&start=00.36&end=00.45&collection=eptic3">
+<s id="727:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.00.36&end=00.00.45">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -8097,7 +8097,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:4" video="https://media.dipintra.it/?id=727&start=00.48&end=00.54&collection=eptic3">
+<s id="727:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.00.48&end=00.00.54">
 Legaler	ADJA.Pos.Nom.Sg.Masc	legal-j
 Holzabschlag	N.Reg.Nom.Sg.Masc	Holzabschlag-n
 <g/>
@@ -8109,7 +8109,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:5" video="https://media.dipintra.it/?id=727&start=00.54&end=01.13&collection=eptic3">
+<s id="727:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.00.54&end=00.01.13">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 es-	DYSF	es-
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -8166,7 +8166,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:6" video="https://media.dipintra.it/?id=727&start=01.15&end=01.28&collection=eptic3">
+<s id="727:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.01.15&end=00.01.28">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 zwar	ADV	zwar-a
@@ -8211,7 +8211,7 @@ gelingen	VINF.Full	gelingen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:7" video="https://media.dipintra.it/?id=727&start=01.29&end=01.33&collection=eptic3">
+<s id="727:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.01.29&end=00.01.33">
 Unsere	PRO.Poss.Attr.Nom.Pl.Neut	unsre-p
 Partnerländer	N.Reg.Nom.Pl.Neut	Partnerland-n
 gehen	VFIN.Full.3.Pl.Pres.Ind	gehen-v
@@ -8221,7 +8221,7 @@ ein	PART.Verb	ein-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:8" video="https://media.dipintra.it/?id=727&start=01.37&end=01.41&collection=eptic3">
+<s id="727:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.01.37&end=00.01.41">
 Wichtig	ADJD.Pos	wichtig-j
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -8237,7 +8237,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:9" video="https://media.dipintra.it/?id=727&start=01.41&end=01.53&collection=eptic3">
+<s id="727:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.01.41&end=00.01.53">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -8271,7 +8271,7 @@ Klimawandel	N.Reg.Acc.Sg.Masc	Klimawandel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:10" video="https://media.dipintra.it/?id=727&start=01.56&end=02.01&collection=eptic3">
+<s id="727:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.01.56&end=00.02.01">
 Gleichzeitig	ADJD.Pos	gleichzeitig-j
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 auch	ADV	auch-a
@@ -8293,7 +8293,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:11" video="https://media.dipintra.it/?id=727&start=02.02&end=02.08&collection=eptic3">
+<s id="727:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.02&end=00.02.08">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 heißt	VFIN.Full.3.Sg.Pres.Ind	heißen-v
 <g/>
@@ -8313,7 +8313,7 @@ Vorgehensweise	N.Reg.Acc.Sg.Fem	Vorgehensweise-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:12" video="https://media.dipintra.it/?id=727&start=02.08&end=02.15&collection=eptic3">
+<s id="727:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.08&end=00.02.15">
 20	CARD	20-m
 Prozent	N.Reg.*.*.Neut	Prozent-n
 der	ART.Def.Gen.Pl.Neut	die-x
@@ -8333,7 +8333,7 @@ Holzeinschlag	N.Reg.Dat.Sg.Masc	Holzeinschlag-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:13" video="https://media.dipintra.it/?id=727&start=02.15&end=02.28&collection=eptic3">
+<s id="727:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.15&end=00.02.28">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 deswegen	PROADV.Dem	deswegen-x
@@ -8378,7 +8378,7 @@ anfangen	VINF.Full	anfangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:14" video="https://media.dipintra.it/?id=727&start=02.29&end=02.34&collection=eptic3">
+<s id="727:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.29&end=00.02.34">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 oft	ADV	oft-a
@@ -8401,7 +8401,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:15" video="https://media.dipintra.it/?id=727&start=02.34&end=02.40&collection=eptic3">
+<s id="727:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.34&end=00.02.40">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -8427,7 +8427,7 @@ Seiten	N.Reg.Dat.Pl.Fem	Seite-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:16" video="https://media.dipintra.it/?id=727&start=02.42&end=02.49&collection=eptic3">
+<s id="727:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.42&end=00.02.49">
 Möchte	VFIN.Mod.3.Sg.Past.Subj	mögen-v
 einige	PRO.Indef.Attr.Acc.Pl.Fem	einige-p
 Fragen	N.Reg.Acc.Pl.Fem	Frage-n
@@ -8447,7 +8447,7 @@ Abkommens	N.Reg.Gen.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:17" video="https://media.dipintra.it/?id=727&start=02.51&end=02.56&collection=eptic3">
+<s id="727:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.51&end=00.02.56">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -8465,7 +8465,7 @@ Abkommens	N.Reg.Gen.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:18" video="https://media.dipintra.it/?id=727&start=02.57&end=03.08&collection=eptic3">
+<s id="727:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.02.57&end=00.03.08">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 auch	ADV	auch-a
@@ -8497,7 +8497,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:19" video="https://media.dipintra.it/?id=727&start=03.08&end=03.14&collection=eptic3">
+<s id="727:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.08&end=00.03.14">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -8521,7 +8521,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:20" video="https://media.dipintra.it/?id=727&start=03.16&end=03.23&collection=eptic3">
+<s id="727:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.16&end=00.03.23">
 Bei	APPR	bei-i
 der	ART.Def.Dat.Sg.Fem	die-x
 Vorbereitung	N.Reg.Dat.Sg.Fem	Vorbereitung-n
@@ -8540,7 +8540,7 @@ miteinbezogen	VPP.Full.Psp	miteinbeziehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:21" video="https://media.dipintra.it/?id=727&start=03.23&end=03.27&collection=eptic3">
+<s id="727:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.23&end=00.03.27">
 Bis	APPR	bis-i
 jetzt	ADV	jetzt-a
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -8555,7 +8555,7 @@ Verfahren	N.Reg.Dat.Sg.Neut	Verfahren-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:22" video="https://media.dipintra.it/?id=727&start=03.27&end=03.38&collection=eptic3">
+<s id="727:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.27&end=00.03.38">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -8591,7 +8591,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:23" video="https://media.dipintra.it/?id=727&start=03.39&end=03.53&collection=eptic3">
+<s id="727:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.39&end=00.03.53">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 auch	ADV	auch-a
@@ -8629,7 +8629,7 @@ Quellen	N.Reg.Dat.Pl.Fem	Quelle-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:24" video="https://media.dipintra.it/?id=727&start=03.54&end=03.57&collection=eptic3">
+<s id="727:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.54&end=00.03.57">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 kostet	VFIN.Full.3.Sg.Pres.Ind	kosten-v
 natürlich	ADV	natürlich-a
@@ -8637,7 +8637,7 @@ auch	ADV	auch-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:25" video="https://media.dipintra.it/?id=727&start=03.58&end=04.12&collection=eptic3">
+<s id="727:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.03.58&end=00.04.12">
 Zwischen	APPR	zwischen-i
 2002	CARD	[number]-m
 und	CONJ.Coord	und-c
@@ -8664,7 +8664,7 @@ Länder	N.Reg.Acc.Pl.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:26" video="https://media.dipintra.it/?id=727&start=04.13&end=04.26&collection=eptic3">
+<s id="727:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.13&end=00.04.26">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
@@ -8689,7 +8689,7 @@ ausgeben	VINF.Full	ausgeben-v
 bis	APPR	bis-i
 2013.	CARD	[number]-m
 </s>
-<s id="727:27" video="https://media.dipintra.it/?id=727&start=04.26&end=04.31&collection=eptic3">
+<s id="727:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.26&end=00.04.31">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -8707,7 +8707,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:28" video="https://media.dipintra.it/?id=727&start=04.32&end=04.36&collection=eptic3">
+<s id="727:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.32&end=00.04.36">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 auch	ADV	auch-a
@@ -8721,7 +8721,7 @@ FLEGT	N.Name.Dat.Sg.*	FLEGT-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:29" video="https://media.dipintra.it/?id=727&start=04.36&end=04.50&collection=eptic3">
+<s id="727:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.36&end=00.04.50">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 sieben	CARD	sieben-m
@@ -8751,7 +8751,7 @@ zusammen	PART.Verb	zusammen-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:30" video="https://media.dipintra.it/?id=727&start=04.51&end=04.57&collection=eptic3">
+<s id="727:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.51&end=00.04.57">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -8761,7 +8761,7 @@ illegalen	ADJA.Pos.Acc.Sg.Masc	illegal-j
 Holzschlag	N.Reg.Acc.Sg.Masc	Holzschlag-n
 2010.	CARD	[number]-m
 </s>
-<s id="727:31" video="https://media.dipintra.it/?id=727&start=04.57&end=05.09&collection=eptic3">
+<s id="727:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.04.57&end=00.05.09">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -8792,7 +8792,7 @@ vorzugehen	VINF.Full.zu	vorgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:32" video="https://media.dipintra.it/?id=727&start=05.10&end=05.19&collection=eptic3">
+<s id="727:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.05.10&end=00.05.19">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Emissionen	N.Reg.Nom.Pl.Fem	Emission-n
 aufgrund	APPR	aufgrund-i
@@ -8811,7 +8811,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:33" video="https://media.dipintra.it/?id=727&start=05.20&end=05.33&collection=eptic3">
+<s id="727:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.05.20&end=00.05.33">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 hier	ADV	hier-a
@@ -8839,7 +8839,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:34" video="https://media.dipintra.it/?id=727&start=05.34&end=05.37&collection=eptic3">
+<s id="727:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.05.34&end=00.05.37">
 Menschenrechte	N.Reg.Nom.Pl.Neut	Menschenrecht-n
 spielen	VFIN.Full.3.Pl.Pres.Ind	spielen-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -8849,7 +8849,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:35" video="https://media.dipintra.it/?id=727&start=05.37&end=05.58&collection=eptic3">
+<s id="727:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.05.37&end=00.05.58">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 einverstanden	ADJD.Pos	einverstanden-j
@@ -8914,7 +8914,7 @@ auseinandersetzen	VFIN.Full.1.Pl.Pres.Ind	auseinandersetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:36" video="https://media.dipintra.it/?id=727&start=06.00&end=06.07&collection=eptic3">
+<s id="727:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.06.00&end=00.06.07">
 Einen	ART.Indef.Acc.Sg.Masc	eine-x
 Punkt	N.Reg.Acc.Sg.Masc	Punkt-n
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -8931,7 +8931,7 @@ war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:37" video="https://media.dipintra.it/?id=727&start=06.07&end=06.35&collection=eptic3">
+<s id="727:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.06.07&end=00.06.35">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Partnerländer	N.Reg.Nom.Pl.Neut	Partnerland-n
 fühlen	VFIN.Full.3.Pl.Pres.Ind	fühlen-v
@@ -9024,7 +9024,7 @@ Schritt	N.Reg.Acc.Sg.Masc	Schritt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:38" video="https://media.dipintra.it/?id=727&start=06.35&end=06.37&collection=eptic3">
+<s id="727:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.06.35&end=00.06.37">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -9036,7 +9036,7 @@ Richtung	N.Reg.Acc.Sg.Fem	Richtung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="727:39" video="https://media.dipintra.it/?id=727&start=06.37&end=06.46&collection=eptic3">
+<s id="727:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=727.wmv&start=00.06.37&end=00.06.46">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Risiko	N.Reg.Nom.Sg.Neut	Risiko-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -9079,7 +9079,7 @@ sein	VINF.Aux	sein-v
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="DE04" gender="M" native="NA">
-<s id="728:1" video="https://media.dipintra.it/?id=728&start=00.07&end=00.11&collection=eptic3">
+<s id="728:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.07&end=00.00.11">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9092,13 +9092,13 @@ Partnerschaftsabkommen	N.Reg.Acc.Pl.Neut	Partnerschaftsabkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:2" video="https://media.dipintra.it/?id=728&start=00.11&end=00.12&collection=eptic3">
+<s id="728:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.11&end=00.00.12">
 Klingt	VFIN.Full.3.Sg.Pres.Ind	klingen-v
 gut	ADJD.Pos	gut-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:3" video="https://media.dipintra.it/?id=728&start=00.12&end=00.13&collection=eptic3">
+<s id="728:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.12&end=00.00.13">
 Hört	VFIN.Full.3.Sg.Pres.Ind	hören-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
 gut	ADJD.Pos	gut-j
@@ -9106,7 +9106,7 @@ an	PART.Verb	an-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:4" video="https://media.dipintra.it/?id=728&start=00.14&end=00.24&collection=eptic3">
+<s id="728:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.14&end=00.00.24">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9135,7 +9135,7 @@ Ziele	N.Reg.Gen.Pl.Neut	Ziel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:5" video="https://media.dipintra.it/?id=728&start=00.25&end=00.31&collection=eptic3">
+<s id="728:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.25&end=00.00.31">
 Aber	CONJ.Coord	aber-c
 wie	PROADV.Inter	wie-x
 sieht	VFIN.Full.3.Sg.Pres.Ind	sehen-v
@@ -9155,7 +9155,7 @@ Kongo	N.Name.Nom.Sg.Masc	Kongo-n
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="728:6" video="https://media.dipintra.it/?id=728&start=00.31&end=00.36&collection=eptic3">
+<s id="728:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.31&end=00.00.36">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9173,7 +9173,7 @@ allein	ADV	allein-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:7" video="https://media.dipintra.it/?id=728&start=00.36&end=00.43&collection=eptic3">
+<s id="728:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.36&end=00.00.43">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9196,7 +9196,7 @@ existent	ADJD.Pos	existent-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:8" video="https://media.dipintra.it/?id=728&start=00.43&end=00.46&collection=eptic3">
+<s id="728:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.43&end=00.00.46">
 Korruption	N.Reg.Nom.Sg.Fem	Korruption-n
 im	APPRART.Dat.Sg.Masc	in-i
 Augenblick	N.Reg.Dat.Sg.Masc	Augenblick-n
@@ -9205,7 +9205,7 @@ verbreitet	VPP.Full.Psp	verbreiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:9" video="https://media.dipintra.it/?id=728&start=00.46&end=01.22&collection=eptic3">
+<s id="728:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.00.46&end=00.01.22">
 Transparency	FM	Transparency-x
 International	FM	International-x
 ehm	FPAUSE	ehm
@@ -9295,7 +9295,7 @@ Wälder	N.Reg.Gen.Pl.Masc	Wald-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:10" video="https://media.dipintra.it/?id=728&start=01.22&end=01.29&collection=eptic3">
+<s id="728:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.01.22&end=00.01.29">
 Alles	PRO.Indef.Subst.Nom.Sg.Neut	alle-p
 weist	VFIN.Full.3.Sg.Pres.Ind	weisen-v
 darauf	PROADV.Dem	darauf-x
@@ -9321,7 +9321,7 @@ dürften	VFIN.Mod.3.Pl.Past.Subj	dürfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="728:11" video="https://media.dipintra.it/?id=728&start=01.29&end=01.48&collection=eptic3">
+<s id="728:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=728.wmv&start=00.01.29&end=00.01.48">
 Welche	PRO.Inter.Attr.Acc.Pl.Fem	welche-p
 Zusagen	N.Reg.Acc.Pl.Fem	Zusage-n
 könnte	VFIN.Mod.3.Sg.Past.Subj	können-v
@@ -9392,7 +9392,7 @@ können	VINF.Mod	können-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="46.0" speed="high" speedwm="164.3" delivery="impromptu">
 <interpreter id="DE26" gender="M" native="NA">
-<s id="729:1" video="https://media.dipintra.it/?id=729&start=00.13&end=00.43&collection=eptic3">
+<s id="729:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=729.wmv&start=00.00.13&end=00.00.43">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9489,7 +9489,7 @@ Papier	N.Reg.Acc.Sg.Neut	Papier-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="729:2" video="https://media.dipintra.it/?id=729&start=00.44&end=01.05&collection=eptic3">
+<s id="729:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=729.wmv&start=00.00.44&end=00.01.05">
 Andererseits	ADV	andererseits-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -9546,7 +9546,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="729:3" video="https://media.dipintra.it/?id=729&start=01.05&end=01.06&collection=eptic3">
+<s id="729:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=729.wmv&start=00.01.05&end=00.01.06">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 darf	VFIN.Mod.3.Sg.Pres.Ind	dürfen-v
 nicht	PART.Neg	nicht-x
@@ -9562,7 +9562,7 @@ passieren	VINF.Full	passieren-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="DE26" gender="M" native="NA">
-<s id="730:1" video="https://media.dipintra.it/?id=730&start=00.10&end=00.13&collection=eptic3">
+<s id="730:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.10&end=00.00.13">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -9572,7 +9572,7 @@ Abgeordnete	N.Reg.Nom.Pl.*	Abgeordnete-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:2" video="https://media.dipintra.it/?id=730&start=00.13&end=00.32&collection=eptic3">
+<s id="730:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.13&end=00.00.32">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9646,7 +9646,7 @@ zusetzt	VFIN.Full.3.Sg.Pres.Ind	zusetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:3" video="https://media.dipintra.it/?id=730&start=00.32&end=00.37&collection=eptic3">
+<s id="730:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.32&end=00.00.37">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9664,7 +9664,7 @@ Bereich	N.Reg.Dat.Sg.Masc	Bereich-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:4" video="https://media.dipintra.it/?id=730&start=00.37&end=00.41&collection=eptic3">
+<s id="730:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.37&end=00.00.41">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 dadurch	PROADV.Dem	dadurch-x
@@ -9683,7 +9683,7 @@ anfangen	VINF.Full	anfangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:5" video="https://media.dipintra.it/?id=730&start=00.41&end=00.43&collection=eptic3">
+<s id="730:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.41&end=00.00.43">
 Das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -9691,7 +9691,7 @@ auch	ADV	auch-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:6" video="https://media.dipintra.it/?id=730&start=00.43&end=00.52&collection=eptic3">
+<s id="730:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.43&end=00.00.52">
 Und	CONJ.Coord	und-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wollte	VFIN.Mod.1.Sg.Past.Ind	wollen-v
@@ -9708,7 +9708,7 @@ lassen	VINF.Full	lassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:7" video="https://media.dipintra.it/?id=730&start=00.55&end=00.55&collection=eptic3">
+<s id="730:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.55&end=00.00.55">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9721,7 +9721,7 @@ komplex	ADJD.Pos	komplex-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:8" video="https://media.dipintra.it/?id=730&start=00.55&end=01.03&collection=eptic3">
+<s id="730:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.00.55&end=00.01.03">
 Vor	APPR	vor-i
 50	CARD	50-m
 Jahren	N.Reg.Dat.Pl.Neut	Jahr-n
@@ -9742,7 +9742,7 @@ Länder	N.Reg.Nom.Pl.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:9" video="https://media.dipintra.it/?id=730&start=01.03&end=01.28&collection=eptic3">
+<s id="730:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.03&end=00.01.28">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 dauert	VFIN.Full.3.Sg.Pres.Ind	dauern-v
 halt	ADV	halt-a
@@ -9805,7 +9805,7 @@ stärker	ADJD.Comp	stark-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:10" video="https://media.dipintra.it/?id=730&start=01.28&end=01.29&collection=eptic3">
+<s id="730:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.28&end=00.01.29">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -9813,7 +9813,7 @@ Indikator	N.Reg.Nom.Sg.Masc	Indikator-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:11" video="https://media.dipintra.it/?id=730&start=01.29&end=01.38&collection=eptic3">
+<s id="730:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.29&end=00.01.38">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9839,7 +9839,7 @@ besser	ADJD.Comp	gut-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:12" video="https://media.dipintra.it/?id=730&start=01.38&end=01.42&collection=eptic3">
+<s id="730:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.38&end=00.01.42">
 Nachhaltiges	ADJA.Pos.Nom.Sg.Neut	nachhaltig-j
 Waldmanagement	N.Reg.Nom.Sg.Neut	Waldmanagement-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -9847,7 +9847,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:13" video="https://media.dipintra.it/?id=730&start=01.42&end=01.45&collection=eptic3">
+<s id="730:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.42&end=00.01.45">
 Kongo-Brazzaville	N.Name.Nom.Sg.Neut	Kongo-Brazzaville-n
 und	CONJ.Coord	und-c
 Kamerun	N.Name.Nom.Sg.Neut	Kamerun-n
@@ -9863,7 +9863,7 @@ heute	ADV	heute-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:14" video="https://media.dipintra.it/?id=730&start=01.45&end=01.49&collection=eptic3">
+<s id="730:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.45&end=00.01.49">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 arbeiten	VFIN.Full.1.Pl.Pres.Ind	arbeiten-v
 auch	ADV	auch-a
@@ -9877,7 +9877,7 @@ Indonesien	N.Name.Acc.Sg.Neut	Indonesien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:15" video="https://media.dipintra.it/?id=730&start=01.49&end=01.55&collection=eptic3">
+<s id="730:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.49&end=00.01.55">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9895,7 +9895,7 @@ kommen	VINF.Full	kommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:16" video="https://media.dipintra.it/?id=730&start=01.55&end=01.59&collection=eptic3">
+<s id="730:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.55&end=00.01.59">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9915,7 +9915,7 @@ gering	ADJD.Pos	gering-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:17" video="https://media.dipintra.it/?id=730&start=01.59&end=02.16&collection=eptic3">
+<s id="730:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.01.59&end=00.02.16">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9960,7 +9960,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:18" video="https://media.dipintra.it/?id=730&start=02.16&end=02.19&collection=eptic3">
+<s id="730:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.02.16&end=00.02.19">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 braucht	VFIN.Full.3.Sg.Pres.Ind	brauchen-v
 natürlich	ADV	natürlich-a
@@ -9969,7 +9969,7 @@ Zeit	N.Reg.Acc.Sg.Fem	Zeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:19" video="https://media.dipintra.it/?id=730&start=02.19&end=02.26&collection=eptic3">
+<s id="730:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.02.19&end=00.02.26">
 Nun	ADV	nun-a
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -9994,7 +9994,7 @@ abgucken	VINF.Full	abgucken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:20" video="https://media.dipintra.it/?id=730&start=02.26&end=02.34&collection=eptic3">
+<s id="730:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.02.26&end=00.02.34">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -10020,7 +10020,7 @@ abgeguckt	VPP.Full.Psp	abgucken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:21" video="https://media.dipintra.it/?id=730&start=02.34&end=02.36&collection=eptic3">
+<s id="730:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.02.34&end=00.02.36">
 Das	ART.Def.Nom.Sg.Neut	die-x
 gleiche	ADJA.Pos.Nom.Sg.Neut	gleich-j
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
@@ -10031,7 +10031,7 @@ Ressourcen	N.Reg.Dat.Pl.Fem	Ressource-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:22" video="https://media.dipintra.it/?id=730&start=02.36&end=03.16&collection=eptic3">
+<s id="730:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.02.36&end=00.03.16">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 mehr	ADV	mehr-a
@@ -10134,7 +10134,7 @@ stellen	VINF.Full	stellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="730:23" video="https://media.dipintra.it/?id=730&start=03.16&end=03.26&collection=eptic3">
+<s id="730:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=730.wmv&start=00.03.16&end=00.03.26">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -10178,7 +10178,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="DE25" gender="M" native="NA">
-<s id="731:1" video="https://media.dipintra.it/?id=731&start=00.00&end=00.04&collection=eptic3">
+<s id="731:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.00&end=00.00.04">
 Schönen	N.Reg.Nom.Sg.Neut	Schönen-n
 Dank	N.Reg.Nom.Sg.Masc	Dank-n
 <g/>
@@ -10188,7 +10188,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:2" video="https://media.dipintra.it/?id=731&start=00.04&end=00.08&collection=eptic3">
+<s id="731:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.04&end=00.00.08">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fasse	VFIN.Full.1.Sg.Pres.Ind	fassen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -10196,7 +10196,7 @@ kurz	ADJD.Pos	kurz-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:3" video="https://media.dipintra.it/?id=731&start=00.08&end=00.21&collection=eptic3">
+<s id="731:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.08&end=00.00.21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 <g/>
@@ -10213,7 +10213,7 @@ Frage	N.Reg.Dat.Sg.Fem	Frage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:4" video="https://media.dipintra.it/?id=731&start=00.21&end=00.32&collection=eptic3">
+<s id="731:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.21&end=00.00.32">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -10250,7 +10250,7 @@ Bestimmungen	N.Reg.Nom.Pl.Fem	Bestimmung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:5" video="https://media.dipintra.it/?id=731&start=00.32&end=00.36&collection=eptic3">
+<s id="731:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.32&end=00.00.36">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 also	ADV	also-a
@@ -10269,7 +10269,7 @@ Interimsabkommen	N.Reg.Nom.Sg.Neut	Interimsabkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:6" video="https://media.dipintra.it/?id=731&start=00.36&end=00.54&collection=eptic3">
+<s id="731:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.36&end=00.00.54">
 Also	ADV	also-a
 die	ART.Def.Nom.Pl.Masc	die-x
 Kollegen	N.Reg.Nom.Pl.Masc	Kollege-n
@@ -10330,7 +10330,7 @@ Schritt	N.Reg.Nom.Sg.Masc	Schritt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:7" video="https://media.dipintra.it/?id=731&start=00.54&end=01.01&collection=eptic3">
+<s id="731:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.00.54&end=00.01.01">
 Jetzt	ADV	jetzt-a
 zu	APPR	zu-i
 Fischerei	N.Reg.Dat.Sg.Fem	Fischerei-n
@@ -10350,7 +10350,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:8" video="https://media.dipintra.it/?id=731&start=01.01&end=01.05&collection=eptic3">
+<s id="731:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.01&end=00.01.05">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 wirklich	ADJD.Pos	wirklich-j
@@ -10366,7 +10366,7 @@ gewähren	VINF.Full	gewähren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:9" video="https://media.dipintra.it/?id=731&start=01.05&end=01.08&collection=eptic3">
+<s id="731:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.05&end=00.01.08">
 Wieso	PROADV.Inter	wieso-x
 kriegt	VFIN.Full.3.Sg.Pres.Ind	kriegen-v
 Papua-Neuguinea	N.Name.Nom.Sg.Neut	Papua-Neuguinea-n
@@ -10374,7 +10374,7 @@ das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="731:10" video="https://media.dipintra.it/?id=731&start=01.08&end=01.24&collection=eptic3">
+<s id="731:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.08&end=00.01.24">
 Einfach	ADV	einfach-a
 deshalb	PROADV.Dem	deshalb-x
 <g/>
@@ -10418,7 +10418,7 @@ Recht	N.Reg.Acc.Sg.Neut	Recht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:11" video="https://media.dipintra.it/?id=731&start=01.24&end=01.35&collection=eptic3">
+<s id="731:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.24&end=00.01.35">
 Niemand	PRO.Indef.Subst.Nom.Sg.Masc	niemand-p
 hindert	VFIN.Full.3.Sg.Pres.Ind	hindern-v
 die	ART.Def.Acc.Pl.Neut	die-x
@@ -10438,7 +10438,7 @@ anzulanden	VINF.Full.zu	anlanden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:12" video="https://media.dipintra.it/?id=731&start=01.35&end=01.37&collection=eptic3">
+<s id="731:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.35&end=00.01.37">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 würde	VFIN.Aux.3.Sg.Past.Subj	werden-v
 auch	ADV	auch-a
@@ -10449,7 +10449,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:13" video="https://media.dipintra.it/?id=731&start=01.37&end=02.19&collection=eptic3">
+<s id="731:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.01.37&end=00.02.19">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 nur	ADV	nur-a
@@ -10555,7 +10555,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:14" video="https://media.dipintra.it/?id=731&start=02.19&end=02.29&collection=eptic3">
+<s id="731:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.02.19&end=00.02.29">
 Also	ADV	also-a
 nicht	PART.Neg	nicht-x
 registrierte	ADJA.Pos.Acc.Sg.Fem	registriert-j
@@ -10582,7 +10582,7 @@ Voraussetzungen	N.Reg.Acc.Pl.Fem	Voraussetzung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:15" video="https://media.dipintra.it/?id=731&start=02.29&end=02.31&collection=eptic3">
+<s id="731:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.02.29&end=00.02.31">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 schafft	VFIN.Full.3.Sg.Pres.Ind	schaffen-v
 dort	ADV	dort-a
@@ -10590,7 +10590,7 @@ Arbeitsplätze	N.Reg.Acc.Pl.Masc	Arbeitsplatz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:16" video="https://media.dipintra.it/?id=731&start=02.31&end=02.49&collection=eptic3">
+<s id="731:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.02.31&end=00.02.49">
 Wenn	CONJ.SubFin	wenn-c
 jetzt	ADV	jetzt-a
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -10632,7 +10632,7 @@ sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:17" video="https://media.dipintra.it/?id=731&start=02.49&end=02.55&collection=eptic3">
+<s id="731:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.02.49&end=00.02.55">
 Seit	APPR	seit-i
 2008	CARD	[number]-m
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -10656,7 +10656,7 @@ Thunfischindustrie	N.Reg.Gen.Sg.Fem	Thunfischindustrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:18" video="https://media.dipintra.it/?id=731&start=02.55&end=03.04&collection=eptic3">
+<s id="731:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.02.55&end=00.03.04">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 als	APPR	als-i
@@ -10684,7 +10684,7 @@ gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:19" video="https://media.dipintra.it/?id=731&start=03.04&end=03.09&collection=eptic3">
+<s id="731:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.03.04&end=00.03.09">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 besorgt	ADJD.Pos	besorgt-j
@@ -10705,7 +10705,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:20" video="https://media.dipintra.it/?id=731&start=03.09&end=03.18&collection=eptic3">
+<s id="731:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.03.09&end=00.03.18">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sagen	VFIN.Full.3.Pl.Pres.Ind	sagen-v
 <g/>
@@ -10722,7 +10722,7 @@ EU-Industrie	N.Reg.Acc.Sg.Fem	EU-Industrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="731:21" video="https://media.dipintra.it/?id=731&start=03.18&end=03.41&collection=eptic3">
+<s id="731:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=731.wmv&start=00.03.18&end=00.03.41">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollen	VFIN.Mod.1.Pl.Pres.Ind	sollen-v
 hier	ADV	hier-a
@@ -10755,7 +10755,7 @@ Interessen	N.Reg.Gen.Pl.Neut	Interesse-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="DE24" gender="M" native="NA">
-<s id="732:1" video="https://media.dipintra.it/?id=732&start=00.11&end=00.26&collection=eptic3">
+<s id="732:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.00.11&end=00.00.26">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -10797,7 +10797,7 @@ billigen	VINF.Full	billigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:2" video="https://media.dipintra.it/?id=732&start=00.29&end=00.34&collection=eptic3">
+<s id="732:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.00.29&end=00.00.34">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -10812,7 +10812,7 @@ anschließt	VFIN.Full.3.Sg.Pres.Ind	anschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:3" video="https://media.dipintra.it/?id=732&start=00.36&end=00.58&collection=eptic3">
+<s id="732:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.00.36&end=00.00.58">
 Das	ART.Def.Nom.Sg.Neut	die-x
 erste	ADJA.Pos.Nom.Sg.Neut	erst-j
 Handelsabkommen	N.Reg.Nom.Sg.Neut	Handelsabkommen-n
@@ -10860,7 +10860,7 @@ Pazifikregion	N.Reg.Dat.Sg.Fem	Pazifikregion-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:4" video="https://media.dipintra.it/?id=732&start=01.00&end=01.28&collection=eptic3">
+<s id="732:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.01.00&end=00.01.28">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Ziel-	DYSF	Ziel-
 <g/>
@@ -10916,7 +10916,7 @@ engagiert	VPP.Full.Psp	engagieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:5" video="https://media.dipintra.it/?id=732&start=01.28&end=01.33&collection=eptic3">
+<s id="732:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.01.28&end=00.01.33">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 befinden	VFIN.Full.1.Pl.Pres.Ind	befinden-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -10934,7 +10934,7 @@ Partnern	N.Reg.Dat.Pl.Masc	Partner-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:6" video="https://media.dipintra.it/?id=732&start=01.33&end=01.45&collection=eptic3">
+<s id="732:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.01.33&end=00.01.45">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 nur	ADV	nur-a
@@ -10960,7 +10960,7 @@ anpassen	VINF.Full	anpassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:7" video="https://media.dipintra.it/?id=732&start=01.45&end=01.57&collection=eptic3">
+<s id="732:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.01.45&end=00.01.57">
 Hier	ADV	hier-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -10990,7 +10990,7 @@ einheitlich	ADJD.Pos	einheitlich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:8" video="https://media.dipintra.it/?id=732&start=01.57&end=02.09&collection=eptic3">
+<s id="732:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.01.57&end=00.02.09">
 Manche	PRO.Indef.Subst.Nom.Pl.*	manche-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 Entwicklungslandsstatut	N.Name.Nom.Sg.Neut	Entwicklungslandsstatut-n
@@ -11015,7 +11015,7 @@ angesiedelt	VPP.Full.Psp	ansiedeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:9" video="https://media.dipintra.it/?id=732&start=02.09&end=02.11&collection=eptic3">
+<s id="732:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.09&end=00.02.11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 also	ADV	also-a
@@ -11023,7 +11023,7 @@ offen	ADJD.Pos	offen-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:10" video="https://media.dipintra.it/?id=732&start=02.11&end=02.23&collection=eptic3">
+<s id="732:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.11&end=00.02.23">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 <g/>
@@ -11054,7 +11054,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:11" video="https://media.dipintra.it/?id=732&start=02.24&end=02.32&collection=eptic3">
+<s id="732:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.24&end=00.02.32">
 Aber	CONJ.Coord	aber-c
 letztendlich	ADV	letztendlich-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -11076,14 +11076,14 @@ fördert	VFIN.Full.3.Sg.Pres.Ind	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:12" video="https://media.dipintra.it/?id=732&start=02.32&end=02.34&collection=eptic3">
+<s id="732:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.32&end=00.02.34">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 entscheidend	ADJD.Pos	entscheidend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:13" video="https://media.dipintra.it/?id=732&start=02.34&end=02.40&collection=eptic3">
+<s id="732:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.34&end=00.02.40">
 Deswegen	PROADV.Dem	deswegen-x
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -11099,7 +11099,7 @@ Handelsfähigkeit	N.Reg.Gen.Sg.Fem	Handelsfähigkeit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:14" video="https://media.dipintra.it/?id=732&start=02.40&end=02.54&collection=eptic3">
+<s id="732:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.40&end=00.02.54">
 Deswegen	PROADV.Dem	deswegen-x
 erlauben	VFIN.Full.1.Pl.Pres.Ind	erlauben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -11132,7 +11132,7 @@ würden	VFIN.Aux.1.Pl.Past.Subj	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:15" video="https://media.dipintra.it/?id=732&start=02.54&end=03.06&collection=eptic3">
+<s id="732:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.02.54&end=00.03.06">
 In	APPR	in-i
 dem	ART.Def.Dat.Sg.Masc	die-x
 Rahmen	N.Reg.Dat.Sg.Masc	Rahmen-n
@@ -11156,7 +11156,7 @@ genommen	VPP.Full.Psp	nehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:16" video="https://media.dipintra.it/?id=732&start=03.06&end=03.40&collection=eptic3">
+<s id="732:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.03.06&end=00.03.40">
 Als	CONJ.SubFin	als-c
 aus	APPR	aus-i
 Gründen	N.Reg.Dat.Pl.Masc	Grund-n
@@ -11232,7 +11232,7 @@ Trend	N.Reg.Acc.Sg.Masc	Trend-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:17" video="https://media.dipintra.it/?id=732&start=03.42&end=03.51&collection=eptic3">
+<s id="732:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.03.42&end=00.03.51">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 darf	VFIN.Mod.1.Sg.Pres.Ind	dürfen-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -11259,7 +11259,7 @@ bieten	VINF.Full	bieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:18" video="https://media.dipintra.it/?id=732&start=03.51&end=04.06&collection=eptic3">
+<s id="732:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.03.51&end=00.04.06">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -11292,7 +11292,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:19" video="https://media.dipintra.it/?id=732&start=04.06&end=04.25&collection=eptic3">
+<s id="732:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.04.06&end=00.04.25">
 Manche	PRO.Indef.Subst.Nom.Pl.*	manche-p
 von	APPR	von-i
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -11332,7 +11332,7 @@ kriegen	VINF.Full	kriegen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:20" video="https://media.dipintra.it/?id=732&start=04.25&end=04.36&collection=eptic3">
+<s id="732:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.04.25&end=00.04.36">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -11368,7 +11368,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:21" video="https://media.dipintra.it/?id=732&start=04.36&end=04.56&collection=eptic3">
+<s id="732:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.04.36&end=00.04.56">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Europäische	ADJA.Pos.Nom.Sg.Neut	europäisch-j
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -11416,7 +11416,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:22" video="https://media.dipintra.it/?id=732&start=04.56&end=05.03&collection=eptic3">
+<s id="732:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.04.56&end=00.05.03">
 Ihre	PRO.Poss.Attr.Nom.Sg.Fem	ihre-p
 Zustimmung	N.Reg.Nom.Sg.Fem	Zustimmung-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -11437,7 +11437,7 @@ Frage	N.Reg.Dat.Sg.Fem	Frage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:23" video="https://media.dipintra.it/?id=732&start=05.03&end=05.15&collection=eptic3">
+<s id="732:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.05.03&end=00.05.15">
 Zu	APPR	zu-i
 Fidschi	N.Name.Dat.Sg.Neut	Fidschi-n
 <g/>
@@ -11458,7 +11458,7 @@ angewandt	VPP.Full.Psp	anwenden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:24" video="https://media.dipintra.it/?id=732&start=05.15&end=05.24&collection=eptic3">
+<s id="732:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.05.15&end=00.05.24">
 Deswegen	PROADV.Dem	deswegen-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 Papua-Neuguinea	N.Name.Nom.Sg.Neut	Papua-Neuguinea-n
@@ -11476,7 +11476,7 @@ akzeptiert	VFIN.Full.3.Sg.Pres.Ind	akzeptieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:25" video="https://media.dipintra.it/?id=732&start=05.24&end=05.34&collection=eptic3">
+<s id="732:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.05.24&end=00.05.34">
 Also	ADV	also-a
 Fidschi	N.Name.Nom.Sg.Neut	Fidschi-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -11504,7 +11504,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:26" video="https://media.dipintra.it/?id=732&start=05.34&end=05.44&collection=eptic3">
+<s id="732:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.05.34&end=00.05.44">
 Bekanntlicherweise	N.Reg.Acc.Pl.Masc	Bekanntlicherweis-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -11522,7 +11522,7 @@ dort	ADV	dort-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:27" video="https://media.dipintra.it/?id=732&start=05.44&end=06.01&collection=eptic3">
+<s id="732:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.05.44&end=00.06.01">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Wiederaufnahme	N.Reg.Nom.Sg.Fem	Wiederaufnahme-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -11572,7 +11572,7 @@ verzeichnen	VINF.Full	verzeichnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:28" video="https://media.dipintra.it/?id=732&start=06.01&end=06.10&collection=eptic3">
+<s id="732:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.06.01&end=00.06.10">
 Die	ART.Def.Nom.Sg.Fem	die-x
 heute	ADV	heute-a
 behandelte	ADJA.Pos.Nom.Sg.Fem	behandelt-j
@@ -11600,7 +11600,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:29" video="https://media.dipintra.it/?id=732&start=06.10&end=06.19&collection=eptic3">
+<s id="732:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.06.10&end=00.06.19">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -11619,7 +11619,7 @@ auszuhandeln	VINF.Full.zu	aushandeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="732:30" video="https://media.dipintra.it/?id=732&start=06.19&end=06.20&collection=eptic3">
+<s id="732:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=732.wmv&start=00.06.19&end=00.06.20">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -11633,14 +11633,14 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="DE19" gender="F" native="NA">
-<s id="733:1" video="https://media.dipintra.it/?id=733&start=00.08&end=00.10&collection=eptic3">
+<s id="733:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.08&end=00.00.10">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:2" video="https://media.dipintra.it/?id=733&start=00.10&end=00.25&collection=eptic3">
+<s id="733:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.10&end=00.00.25">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -11678,7 +11678,7 @@ Pazifik	N.Name.Dat.Sg.Masc	Pazifik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:3" video="https://media.dipintra.it/?id=733&start=00.25&end=00.28&collection=eptic3">
+<s id="733:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.25&end=00.00.28">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
 <g/>
@@ -11696,7 +11696,7 @@ perfekt	ADJD.Pos	perfekt-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:4" video="https://media.dipintra.it/?id=733&start=00.28&end=00.44&collection=eptic3">
+<s id="733:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.28&end=00.00.44">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ja	ADV	ja-a
@@ -11736,7 +11736,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:5" video="https://media.dipintra.it/?id=733&start=00.45&end=00.50&collection=eptic3">
+<s id="733:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.45&end=00.00.50">
 Das	ART.Def.Nom.Sg.Neut	die-x
 gegenwärtige	ADJA.Pos.Nom.Sg.Neut	gegenwärtig-j
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
@@ -11750,7 +11750,7 @@ Handels	N.Reg.Gen.Sg.Masc	Handel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:6" video="https://media.dipintra.it/?id=733&start=00.52&end=01.06&collection=eptic3">
+<s id="733:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.00.52&end=00.01.06">
 Der	ART.Def.Nom.Sg.Masc	die-x
 gesamte	ADJA.Pos.Nom.Sg.Masc	gesamt-j
 Handel	N.Reg.Nom.Sg.Masc	Handel-n
@@ -11780,7 +11780,7 @@ Beispiel	N.Reg.Dat.Sg.Neut	Beispiel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="733:7" video="https://media.dipintra.it/?id=733&start=01.07&end=01.57&collection=eptic3">
+<s id="733:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=733.wmv&start=00.01.07&end=00.01.57">
 In	APPR	in-i
 unserer	PRO.Poss.Attr.Dat.Sg.Fem	unsre-p
 Entschließung	N.Reg.Dat.Sg.Fem	Entschließung-n
@@ -11904,14 +11904,14 @@ werden	VINF.Aux	werden-v
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="DE20" gender="F" native="NA">
-<s id="734:1" video="https://media.dipintra.it/?id=734&start=00.10&end=00.11&collection=eptic3">
+<s id="734:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.10&end=00.00.11">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:2" video="https://media.dipintra.it/?id=734&start=00.12&end=00.16&collection=eptic3">
+<s id="734:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.12&end=00.00.16">
 Eines	PRO.Indef.Subst.Nom.Sg.Neut	eine-p
 der	ART.Def.Gen.Pl.Neut	die-x
 Ziele	N.Reg.Gen.Pl.Neut	Ziel-n
@@ -11929,7 +11929,7 @@ stärken	VINF.Full	stärken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:3" video="https://media.dipintra.it/?id=734&start=00.16&end=00.20&collection=eptic3">
+<s id="734:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.16&end=00.00.20">
 Was	PRO.Inter.Subst.Acc.Sg.Neut	was-p
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 bis	APPR	bis-i
@@ -11948,14 +11948,14 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:4" video="https://media.dipintra.it/?id=734&start=00.20&end=00.21&collection=eptic3">
+<s id="734:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.20&end=00.00.21">
 Ganz	ADV	ganz-a
 im	APPRART.Dat.Sg.Neut	in-i
 Gegenteil	N.Reg.Dat.Sg.Neut	Gegenteil-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:5" video="https://media.dipintra.it/?id=734&start=00.21&end=00.41&collection=eptic3">
+<s id="734:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.21&end=00.00.41">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 zerstört	VFIN.Full.3.Sg.Pres.Ind	zerstören-v
@@ -11997,7 +11997,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:6" video="https://media.dipintra.it/?id=734&start=00.41&end=00.45&collection=eptic3">
+<s id="734:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.41&end=00.00.45">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 hier	ADV	hier-a
@@ -12011,7 +12011,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:7" video="https://media.dipintra.it/?id=734&start=00.45&end=00.50&collection=eptic3">
+<s id="734:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.45&end=00.00.50">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 sage	VFIN.Full.1.Sg.Pres.Ind	sagen-v
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
@@ -12037,7 +12037,7 @@ sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:8" video="https://media.dipintra.it/?id=734&start=00.50&end=01.00&collection=eptic3">
+<s id="734:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.00.50&end=00.01.00">
 Welche	PRO.Inter.Attr.Acc.Pl.Fem	welche-p
 Auswirkungen	N.Reg.Acc.Pl.Fem	Auswirkung-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -12067,7 +12067,7 @@ Arbeitnehmer	FPAUSE	ehm
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="734:9" video="https://media.dipintra.it/?id=734&start=01.00&end=01.02&collection=eptic3">
+<s id="734:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.01.00&end=00.01.02">
 All	PRO.Indef.Attr.*.*.*	all-p
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -12077,7 +12077,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="734:10" video="https://media.dipintra.it/?id=734&start=01.02&end=01.25&collection=eptic3">
+<s id="734:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=734.wmv&start=00.01.02&end=00.01.25">
 Ausnahmeregelung	N.Reg.Nom.Sg.Fem	Ausnahmeregelung-n
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 darauf	PROADV.Dem	darauf-x
@@ -12154,7 +12154,7 @@ verkaufen	VINF.Full	verkaufen-v
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="DE27" gender="M" native="NA">
-<s id="735:1" video="https://media.dipintra.it/?id=735&start=00.08&end=00.10&collection=eptic3">
+<s id="735:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=735.wmv&start=00.00.08&end=00.00.10">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -12162,7 +12162,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="735:2" video="https://media.dipintra.it/?id=735&start=00.10&end=00.22&collection=eptic3">
+<s id="735:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=735.wmv&start=00.00.10&end=00.00.22">
 Also	ADV	also-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wollte	VFIN.Mod.1.Sg.Past.Ind	wollen-v
@@ -12202,7 +12202,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="735:3" video="https://media.dipintra.it/?id=735&start=00.22&end=00.35&collection=eptic3">
+<s id="735:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=735.wmv&start=00.00.22&end=00.00.35">
 In	APPR	in-i
 den	ART.Def.Dat.Pl.Masc	die-x
 letzten	ADJA.Pos.Dat.Pl.Masc	letzt-j
@@ -12239,7 +12239,7 @@ bekommen	VINF.Full	bekommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="735:4" video="https://media.dipintra.it/?id=735&start=00.35&end=00.54&collection=eptic3">
+<s id="735:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=735.wmv&start=00.00.35&end=00.00.54">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -12306,7 +12306,7 @@ Länder	N.Reg.Acc.Pl.Neut	Land-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="DE19" gender="F" native="NA">
-<s id="736:1" video="https://media.dipintra.it/?id=736&start=00.10&end=00.13&collection=eptic3">
+<s id="736:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.10&end=00.00.13">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -12320,7 +12320,7 @@ Aussprache	N.Reg.Nom.Sg.Fem	Aussprache-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:2" video="https://media.dipintra.it/?id=736&start=00.13&end=00.20&collection=eptic3">
+<s id="736:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.13&end=00.00.20">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 zu	APPR	zu-i
@@ -12347,7 +12347,7 @@ müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:3" video="https://media.dipintra.it/?id=736&start=00.21&end=00.35&collection=eptic3">
+<s id="736:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.21&end=00.00.35">
 Einmal	ADV	einmal-a
 der	ART.Def.Nom.Sg.Masc	die-x
 Transfer	N.Reg.Nom.Sg.Masc	Transfer-n
@@ -12386,7 +12386,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:4" video="https://media.dipintra.it/?id=736&start=00.36&end=00.45&collection=eptic3">
+<s id="736:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.36&end=00.00.45">
 Die	ART.Def.Nom.Pl.*	die-x
 drei	CARD	drei-m
 Thunfisch-	DYSF	Thunfisch-
@@ -12399,14 +12399,14 @@ hier	ADV	hier-a
 etwa	ADV	etwa-a
 5.	ADV	5.-a
 </s>
-<s id="736:5" video="https://media.dipintra.it/?id=736&start=00.45&end=00.48&collection=eptic3">
+<s id="736:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.45&end=00.00.48">
 000	CARD	[number]-m
 ehm	FPAUSE	ehm
 beschäftigen	VINF.Full	beschäftigen-v
 über	APPR	über-i
 5.	ADV	5.-a
 </s>
-<s id="736:6" video="https://media.dipintra.it/?id=736&start=00.48&end=00.51&collection=eptic3">
+<s id="736:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.48&end=00.00.51">
 000	CARD	[number]-m
 Menschen	N.Reg.Nom.Pl.Masc	Mensch-n
 und	CONJ.Coord	und-c
@@ -12418,7 +12418,7 @@ Frauen	N.Reg.Nom.Pl.Fem	Frau-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:7" video="https://media.dipintra.it/?id=736&start=00.51&end=00.55&collection=eptic3">
+<s id="736:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.51&end=00.00.55">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 die	ART.Def.Nom.Pl.Masc	die-x
@@ -12436,7 +12436,7 @@ Papua-Neuguinea	N.Name.Dat.Sg.Neut	Papua-Neuguinea-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:8" video="https://media.dipintra.it/?id=736&start=00.56&end=00.58&collection=eptic3">
+<s id="736:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.56&end=00.00.58">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 auch	ADV	auch-a
@@ -12445,7 +12445,7 @@ andere	PRO.Indef.Subst.Acc.Pl.*	andere-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:9" video="https://media.dipintra.it/?id=736&start=00.58&end=01.09&collection=eptic3">
+<s id="736:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.00.58&end=00.01.09">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 schlägt	VFIN.Full.3.Sg.Pres.Ind	schlagen-v
@@ -12472,7 +12472,7 @@ Sicherheitsmaßnahmen	N.Reg.Dat.Pl.Fem	Sicherheitsmaßnahme-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:10" video="https://media.dipintra.it/?id=736&start=01.09&end=01.26&collection=eptic3">
+<s id="736:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.01.09&end=00.01.26">
 Selbst	ADV	selbst-a
 wenn	CONJ.SubFin	wenn-c
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -12519,7 +12519,7 @@ greifen	VFIN.Full.3.Pl.Pres.Ind	greifen-v
 seit	APPR	seit-i
 2008.	CARD	[number]-m
 </s>
-<s id="736:11" video="https://media.dipintra.it/?id=736&start=01.26&end=01.43&collection=eptic3">
+<s id="736:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.01.26&end=00.01.43">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 bereits	ADV	bereits-a
@@ -12554,7 +12554,7 @@ unwahrscheinlich	ADJD.Pos	unwahrscheinlich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:12" video="https://media.dipintra.it/?id=736&start=01.44&end=01.48&collection=eptic3">
+<s id="736:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.01.44&end=00.01.48">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 für	APPR	für-i
@@ -12567,7 +12567,7 @@ Konservenindustrie	N.Reg.Acc.Sg.Fem	Konservenindustrie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:13" video="https://media.dipintra.it/?id=736&start=01.49&end=02.00&collection=eptic3">
+<s id="736:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.01.49&end=00.02.00">
 Außerdem	PROADV.Dem	außerdem-x
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -12596,7 +12596,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:14" video="https://media.dipintra.it/?id=736&start=02.00&end=02.18&collection=eptic3">
+<s id="736:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.02.00&end=00.02.18">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -12633,7 +12633,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:15" video="https://media.dipintra.it/?id=736&start=02.18&end=02.44&collection=eptic3">
+<s id="736:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.02.18&end=00.02.44">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Interimabkommen	N.Reg.Nom.Sg.Neut	Interimabkommen-n
 <g/>
@@ -12678,7 +12678,7 @@ anderen	PRO.Indef.Subst.Dat.Pl.*	andere-p
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:16" video="https://media.dipintra.it/?id=736&start=02.46&end=03.14&collection=eptic3">
+<s id="736:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.02.46&end=00.03.14">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 noch	ADV	noch-a
@@ -12728,7 +12728,7 @@ Lebensmittelsschutzregeln	N.Reg.Acc.Pl.Fem	Lebensmittelsschutzregel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:17" video="https://media.dipintra.it/?id=736&start=03.14&end=03.21&collection=eptic3">
+<s id="736:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.14&end=00.03.21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 also	ADV	also-a
@@ -12754,7 +12754,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:18" video="https://media.dipintra.it/?id=736&start=03.21&end=03.23&collection=eptic3">
+<s id="736:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.21&end=00.03.23">
 Nun	ADV	nun-a
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -12764,7 +12764,7 @@ WPA	N.Name.*.*.*	WPA-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:19" video="https://media.dipintra.it/?id=736&start=03.25&end=03.35&collection=eptic3">
+<s id="736:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.25&end=00.03.35">
 Handel	N.Reg.Nom.Sg.Masc	Handel-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 sicherlich	ADV	sicherlich-a
@@ -12786,7 +12786,7 @@ Vorgehensweise	N.Reg.Nom.Sg.Fem	Vorgehensweise-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:20" video="https://media.dipintra.it/?id=736&start=03.35&end=03.39&collection=eptic3">
+<s id="736:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.35&end=00.03.39">
 Regionale	ADJA.Pos.Nom.Sg.Fem	regional-j
 Zusammenarbeit	N.Reg.Nom.Sg.Fem	Zusammenarbeit-n
 ehm	FPAUSE	ehm
@@ -12796,7 +12796,7 @@ schwierig	ADJD.Pos	schwierig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:21" video="https://media.dipintra.it/?id=736&start=03.39&end=03.44&collection=eptic3">
+<s id="736:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.39&end=00.03.44">
 Hier	ADV	hier-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -12814,7 +12814,7 @@ vorantreiben	VFIN.Full.3.Pl.Pres.Ind	vorantreiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:22" video="https://media.dipintra.it/?id=736&start=03.45&end=03.52&collection=eptic3">
+<s id="736:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.45&end=00.03.52">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 ozeanischen	ADJA.Pos.Dat.Sg.Fem	ozeanisch-j
@@ -12833,7 +12833,7 @@ ausgegeben	VPP.Full.Psp	ausgeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:23" video="https://media.dipintra.it/?id=736&start=03.52&end=03.54&collection=eptic3">
+<s id="736:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.52&end=00.03.54">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 ja	ADV	ja-a
@@ -12842,7 +12842,7 @@ aufgestockt	VPP.Full.Psp	aufstocken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:24" video="https://media.dipintra.it/?id=736&start=03.54&end=04.06&collection=eptic3">
+<s id="736:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.03.54&end=00.04.06">
 Denn	CONJ.Coord	denn-c
 nur	ADV	nur-a
 durch	APPR	durch-i
@@ -12870,7 +12870,7 @@ ausgerichtet	VPP.Full.Psp	ausrichten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:25" video="https://media.dipintra.it/?id=736&start=04.06&end=04.18&collection=eptic3">
+<s id="736:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.06&end=00.04.18">
 Ein	ART.Indef.Nom.Sg.Neut	eine-x
 Exportprodukt	N.Reg.Nom.Sg.Neut	Exportprodukt-n
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -12901,7 +12901,7 @@ Sicherheit	N.Reg.Acc.Sg.Fem	Sicherheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:26" video="https://media.dipintra.it/?id=736&start=04.18&end=04.30&collection=eptic3">
+<s id="736:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.18&end=00.04.30">
 Sicherheit	N.Reg.Nom.Sg.Fem	Sicherheit-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -12947,7 +12947,7 @@ angestellt	VPP.Full.Psp	anstellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:27" video="https://media.dipintra.it/?id=736&start=04.30&end=04.33&collection=eptic3">
+<s id="736:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.30&end=00.04.33">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 gute	ADJA.Pos.Acc.Pl.Fem	gut-j
@@ -12957,7 +12957,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:28" video="https://media.dipintra.it/?id=736&start=04.33&end=04.37&collection=eptic3">
+<s id="736:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.33&end=00.04.37">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Objektive	N.Reg.Nom.Pl.Neut	Objektiv-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -12970,7 +12970,7 @@ Union	N.Reg.Acc.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:29" video="https://media.dipintra.it/?id=736&start=04.37&end=04.39&collection=eptic3">
+<s id="736:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.37&end=00.04.39">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 <g/>
@@ -12984,7 +12984,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="736:30" video="https://media.dipintra.it/?id=736&start=04.39&end=04.51&collection=eptic3">
+<s id="736:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=736.wmv&start=00.04.39&end=00.04.51">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 auch	ADV	auch-a
@@ -13040,14 +13040,14 @@ Danke	PART.Ans	Danke-x
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="DE20" gender="F" native="NA">
-<s id="737:1" video="https://media.dipintra.it/?id=737&start=00.08&end=00.09&collection=eptic3">
+<s id="737:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.00.08&end=00.00.09">
 Danke	N.Reg.Nom.Pl.Masc	Dank-n
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:2" video="https://media.dipintra.it/?id=737&start=00.09&end=00.42&collection=eptic3">
+<s id="737:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.00.09&end=00.00.42">
 Zu	APPR	zu-i
 Beginn	N.Reg.Dat.Sg.Masc	Beginn-n
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -13145,7 +13145,7 @@ Entschließung	N.Reg.Dat.Sg.Fem	Entschließung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:3" video="https://media.dipintra.it/?id=737&start=00.42&end=00.51&collection=eptic3">
+<s id="737:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.00.42&end=00.00.51">
 2009	CARD	[number]-m
 hatte	VFIN.Aux.3.Sg.Past.Ind	haben-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -13160,7 +13160,7 @@ EU-Pazifik	N.Name.Nom.Sg.Neut	EU-Pazifik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:4" video="https://media.dipintra.it/?id=737&start=00.51&end=01.02&collection=eptic3">
+<s id="737:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.00.51&end=00.01.02">
 Die	PRO.Dem.Subst.Nom.Pl.*	die-p
 <g/>
 ...	EPAUSE	...-x
@@ -13190,7 +13190,7 @@ hinterfragen	VINF.Full	hinterfragen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:5" video="https://media.dipintra.it/?id=737&start=01.02&end=01.33&collection=eptic3">
+<s id="737:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.01.02&end=00.01.33">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 <g/>
 ...	EPAUSE	...-x
@@ -13271,7 +13271,7 @@ Bericht	N.Reg.Dat.Sg.Masc	Bericht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:6" video="https://media.dipintra.it/?id=737&start=01.34&end=01.45&collection=eptic3">
+<s id="737:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.01.34&end=00.01.45">
 Zunächst	ADV	zunächst-a
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -13297,7 +13297,7 @@ hinweisen	VINF.Full	hinweisen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:7" video="https://media.dipintra.it/?id=737&start=01.45&end=01.56&collection=eptic3">
+<s id="737:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.01.45&end=00.01.56">
 Die	ART.Def.Nom.Sg.Fem	die-x
 politische	ADJA.Pos.Nom.Sg.Fem	politisch-j
 Situation	N.Reg.Nom.Sg.Fem	Situation-n
@@ -13324,7 +13324,7 @@ EU-Pazifik	N.Reg.Acc.Sg.Fem	EU-Pazifik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:8" video="https://media.dipintra.it/?id=737&start=01.56&end=02.13&collection=eptic3">
+<s id="737:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.01.56&end=00.02.13">
 Zum	APPRART.Dat.Sg.Masc	zu-i
 Hintergrund	N.Reg.Dat.Sg.Masc	Hintergrund-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -13364,7 +13364,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:9" video="https://media.dipintra.it/?id=737&start=02.13&end=02.19&collection=eptic3">
+<s id="737:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.02.13&end=00.02.19">
 Ehm	FPAUSE	ehm
 die	ART.Def.Acc.Pl.Masc	die-x
 Exporte	N.Reg.Acc.Pl.Masc	Export-n
@@ -13386,7 +13386,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:10" video="https://media.dipintra.it/?id=737&start=02.20&end=03.03&collection=eptic3">
+<s id="737:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.02.20&end=00.03.03">
 Ehm	FPAUSE	ehm
 das	ART.Def.Nom.Sg.Neut	die-x
 Wirtschaftspartnerschaftsabkommen	N.Reg.Nom.Sg.Neut	Wirtschaftspartnerschaftsabkommen-n
@@ -13479,7 +13479,7 @@ schließen	VINF.Full	schließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:11" video="https://media.dipintra.it/?id=737&start=03.03&end=03.15&collection=eptic3">
+<s id="737:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.03&end=00.03.15">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 doch	ADV	doch-a
@@ -13510,7 +13510,7 @@ aufnehmen	FPAUSE	ehm
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:12" video="https://media.dipintra.it/?id=737&start=03.17&end=03.19&collection=eptic3">
+<s id="737:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.17&end=00.03.19">
 Zum	APPRART.Dat.Sg.Masc	zu-i
 Inhalt	N.Reg.Dat.Sg.Masc	Inhalt-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -13519,7 +13519,7 @@ nun	ADV	nun-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:13" video="https://media.dipintra.it/?id=737&start=03.20&end=03.44&collection=eptic3">
+<s id="737:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.20&end=00.03.44">
 Hier	ADV	hier-a
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 das	ART.Def.Nom.Sg.Neut	die-x
@@ -13610,7 +13610,7 @@ kann	VFIN.Mod.1.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:14" video="https://media.dipintra.it/?id=737&start=03.44&end=03.46&collection=eptic3">
+<s id="737:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.44&end=00.03.46">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 nur	ADV	nur-a
@@ -13619,7 +13619,7 @@ ansprechen	VINF.Full	ansprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:15" video="https://media.dipintra.it/?id=737&start=03.46&end=03.48&collection=eptic3">
+<s id="737:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.46&end=00.03.48">
 Aid	FM	Aid-x
 for	FM	for-x
 Trade	FM	Trade-x
@@ -13627,7 +13627,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:16" video="https://media.dipintra.it/?id=737&start=03.48&end=03.57&collection=eptic3">
+<s id="737:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.48&end=00.03.57">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -13653,7 +13653,7 @@ diversifizieren	VINF.Full	diversifizieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:17" video="https://media.dipintra.it/?id=737&start=03.57&end=04.21&collection=eptic3">
+<s id="737:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.03.57&end=00.04.21">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -13714,7 +13714,7 @@ WTO	N.Name.Gen.Sg.Fem	WTO-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:18" video="https://media.dipintra.it/?id=737&start=04.22&end=04.46&collection=eptic3">
+<s id="737:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.04.22&end=00.04.46">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 darf	VFIN.Mod.3.Sg.Pres.Ind	dürfen-v
 nicht	PART.Neg	nicht-x
@@ -13786,7 +13786,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:19" video="https://media.dipintra.it/?id=737&start=04.48&end=04.55&collection=eptic3">
+<s id="737:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.04.48&end=00.04.55">
 Aber	CONJ.Coord	aber-c
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
@@ -13806,7 +13806,7 @@ Inseln	N.Reg.Dat.Pl.Fem	Insel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:20" video="https://media.dipintra.it/?id=737&start=04.55&end=04.56&collection=eptic3">
+<s id="737:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.04.55&end=00.04.56">
 Thunfisch	N.Reg.Acc.Sg.Masc	Thunfisch-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -13814,7 +13814,7 @@ Thunfisch	N.Reg.Acc.Sg.Masc	Thunfisch-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:21" video="https://media.dipintra.it/?id=737&start=04.56&end=04.58&collection=eptic3">
+<s id="737:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.04.56&end=00.04.58">
 Da	ADV	da-a
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 <g/>
@@ -13826,7 +13826,7 @@ Experte	N.Reg.Nom.Sg.Masc	Experte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:22" video="https://media.dipintra.it/?id=737&start=04.58&end=05.03&collection=eptic3">
+<s id="737:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.04.58&end=00.05.03">
 5700	CARD	[number]-m
 Beschäftigte	N.Reg.Acc.Pl.*	Beschäftigte-n
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -13841,7 +13841,7 @@ Frauen	N.Reg.Nom.Pl.Fem	Frau-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:23" video="https://media.dipintra.it/?id=737&start=05.03&end=05.16&collection=eptic3">
+<s id="737:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.05.03&end=00.05.16">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -13883,7 +13883,7 @@ einzugreifen	VINF.Full.zu	eingreifen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:24" video="https://media.dipintra.it/?id=737&start=05.16&end=05.19&collection=eptic3">
+<s id="737:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.05.16&end=00.05.19">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 aber	ADV	aber-a
@@ -13899,7 +13899,7 @@ vorgeht	VFIN.Full.3.Sg.Pres.Ind	vorgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:25" video="https://media.dipintra.it/?id=737&start=05.20&end=05.46&collection=eptic3">
+<s id="737:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.05.20&end=00.05.46">
 Umweltüberlegungen	N.Reg.Nom.Pl.Fem	Umweltüberlegung-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -13966,7 +13966,7 @@ angeht	VFIN.Full.3.Sg.Pres.Ind	angehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:26" video="https://media.dipintra.it/?id=737&start=05.46&end=06.04&collection=eptic3">
+<s id="737:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.05.46&end=00.06.04">
 Wenn	CONJ.SubFin	wenn-c
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 uns	PRO.Refl.Subst.1.Dat.Pl.*	sie-p
@@ -13999,7 +13999,7 @@ Thunfischimporten	N.Reg.Dat.Pl.*	Thunfischimporten-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:27" video="https://media.dipintra.it/?id=737&start=06.05&end=06.52&collection=eptic3">
+<s id="737:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.06.05&end=00.06.52">
 Glaube	N.Reg.Nom.Sg.Masc	Glaube-n
 nicht	PART.Neg	nicht-x
 <g/>
@@ -14122,7 +14122,7 @@ Eigentum	N.Reg.Acc.Sg.Neut	Eigentum-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:28" video="https://media.dipintra.it/?id=737&start=06.52&end=06.57&collection=eptic3">
+<s id="737:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.06.52&end=00.06.57">
 Oft	ADV	oft-a
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -14135,7 +14135,7 @@ Eigentum	N.Reg.Acc.Sg.Neut	Eigentum-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:29" video="https://media.dipintra.it/?id=737&start=06.58&end=07.08&collection=eptic3">
+<s id="737:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.06.58&end=00.07.08">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -14169,7 +14169,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="737:30" video="https://media.dipintra.it/?id=737&start=07.08&end=07.28&collection=eptic3">
+<s id="737:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=737.wmv&start=00.07.08&end=00.07.28">
 Bei	APPR	bei-i
 WPA	N.Reg.Dat.Pl.Fem	WPA-n
 <g/>
@@ -14246,7 +14246,7 @@ können	VINF.Mod	können-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="DE18" gender="F" native="NA">
-<s id="738:1" video="https://media.dipintra.it/?id=738&start=00.09&end=00.16&collection=eptic3">
+<s id="738:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.00.09&end=00.00.16">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
@@ -14272,7 +14272,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:2" video="https://media.dipintra.it/?id=738&start=00.16&end=00.30&collection=eptic3">
+<s id="738:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.00.16&end=00.00.30">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Schutz	N.Reg.Nom.Sg.Masc	Schutz-n
 und	CONJ.Coord	und-c
@@ -14306,7 +14306,7 @@ des	ART.Def.Gen.Sg.Neut	die-x
 Kindes	N.Reg.Gen.Sg.Neut	Kind-n
 2006.	CARD	[number]-m
 </s>
-<s id="738:3" video="https://media.dipintra.it/?id=738&start=00.32&end=00.44&collection=eptic3">
+<s id="738:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.00.32&end=00.00.44">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Strategie	N.Reg.Nom.Sg.Fem	Strategie-n
 über	APPR	über-i
@@ -14333,7 +14333,7 @@ Kindes	N.Reg.Gen.Sg.Neut	Kind-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:4" video="https://media.dipintra.it/?id=738&start=00.44&end=00.47&collection=eptic3">
+<s id="738:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.00.44&end=00.00.47">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 in	APPR	in-i
@@ -14343,7 +14343,7 @@ Grundrechtecharta	N.Reg.Dat.Sg.Fem	Grundrechtecharta-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:5" video="https://media.dipintra.it/?id=738&start=00.48&end=01.02&collection=eptic3">
+<s id="738:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.00.48&end=00.01.02">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -14385,7 +14385,7 @@ nicht-Gesetzesakte	VFIN.Full.3.Sg.Past.Ind	nicht-Gesetzesakte-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:6" video="https://media.dipintra.it/?id=738&start=01.02&end=01.12&collection=eptic3">
+<s id="738:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.01.02&end=00.01.12">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Strategie	N.Reg.Nom.Sg.Fem	Strategie-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -14415,7 +14415,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:7" video="https://media.dipintra.it/?id=738&start=01.14&end=01.22&collection=eptic3">
+<s id="738:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.01.14&end=00.01.22">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -14433,7 +14433,7 @@ berichten	VINF.Full	berichten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:8" video="https://media.dipintra.it/?id=738&start=01.22&end=01.25&collection=eptic3">
+<s id="738:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.01.22&end=00.01.25">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 beginnt	VFIN.Full.3.Sg.Pres.Ind	beginnen-v
 dieses	PRO.Dem.Attr.Acc.Sg.Neut	diese-p
@@ -14442,7 +14442,7 @@ Jahr	N.Reg.Acc.Sg.Neut	Jahr-n
 ,	SYM.Pun.Comma	,-x
 2011.	CARD	[number]-m
 </s>
-<s id="738:9" video="https://media.dipintra.it/?id=738&start=01.26&end=01.52&collection=eptic3">
+<s id="738:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.01.26&end=00.01.52">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 dürfen	VFIN.Mod.1.Pl.Pres.Ind	dürfen-v
 nicht	PART.Neg	nicht-x
@@ -14505,7 +14505,7 @@ Adoption	N.Reg.Acc.Sg.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:10" video="https://media.dipintra.it/?id=738&start=01.53&end=02.09&collection=eptic3">
+<s id="738:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.01.53&end=00.02.09">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Thema	N.Reg.Nom.Sg.Neut	Thema-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -14542,7 +14542,7 @@ Gesetze	N.Reg.Acc.Pl.Neut	Gesetz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:11" video="https://media.dipintra.it/?id=738&start=02.12&end=02.36&collection=eptic3">
+<s id="738:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.02.12&end=00.02.36">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Konvention	N.Reg.Nom.Sg.Fem	Konvention-n
 <g/>
@@ -14604,7 +14604,7 @@ Kindes	N.Reg.Gen.Sg.Neut	Kind-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:12" video="https://media.dipintra.it/?id=738&start=02.38&end=02.55&collection=eptic3">
+<s id="738:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.02.38&end=00.02.55">
 Auf	APPR	auf-i
 internationaler	ADJA.Pos.Dat.Sg.Fem	international-j
 Ebene	N.Reg.Dat.Sg.Fem	Ebene-n
@@ -14638,7 +14638,7 @@ beteiligen	VINF.Full	beteiligen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:13" video="https://media.dipintra.it/?id=738&start=03.01&end=03.19&collection=eptic3">
+<s id="738:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.03.01&end=00.03.19">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 erachtet	VFIN.Full.3.Sg.Pres.Ind	erachten-v
@@ -14676,7 +14676,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:14" video="https://media.dipintra.it/?id=738&start=03.21&end=03.56&collection=eptic3">
+<s id="738:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.03.21&end=00.03.56">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 verfolgt	VFIN.Full.3.Sg.Pres.Ind	verfolgen-v
@@ -14754,7 +14754,7 @@ hier	ADV	hier-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:15" video="https://media.dipintra.it/?id=738&start=03.56&end=04.03&collection=eptic3">
+<s id="738:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.03.56&end=00.04.03">
 Vor	APPR	vor-i
 einem	ART.Indef.Dat.Sg.Neut	eine-x
 Jahr	N.Reg.Dat.Sg.Neut	Jahr-n
@@ -14776,7 +14776,7 @@ Gelegenheit	N.Reg.Acc.Sg.Fem	Gelegenheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:16" video="https://media.dipintra.it/?id=738&start=04.06&end=04.28&collection=eptic3">
+<s id="738:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.04.06&end=00.04.28">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Grünbuch	N.Reg.Nom.Sg.Neut	Grünbuch-n
 der	ART.Def.Gen.Sg.Fem	die-x
@@ -14825,7 +14825,7 @@ EU-Bürger	N.Reg.Nom.Sg.Masc	EU-Bürger-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="738:17" video="https://media.dipintra.it/?id=738&start=04.33&end=04.33&collection=eptic3">
+<s id="738:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=738.wmv&start=00.04.33&end=00.04.33">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 <g/>
@@ -14839,7 +14839,7 @@ schön	VIMP.Full.2.Sg	schönen-v
 <speaker name="Yannakoudakis Marina" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="174" duration="short" durations="73.0" speed="medium" speedwm="143.0" delivery="read">
 <interpreter id="DE05" gender="M" native="NA">
-<s id="739:1" video="https://media.dipintra.it/?id=739&start=00.12&end=00.34&collection=eptic3">
+<s id="739:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.00.12&end=00.00.34">
 Adoption	N.Reg.Nom.Sg.Fem	Adoption-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -14901,7 +14901,7 @@ Adoptionsagenturen	N.Name.Dat.Sg.Fem	Adoptionsagenturen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:2" video="https://media.dipintra.it/?id=739&start=00.34&end=00.38&collection=eptic3">
+<s id="739:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.00.34&end=00.00.38">
 Im	APPRART.Dat.Sg.Masc	in-i
 Mittelpunkt	N.Reg.Dat.Sg.Masc	Mittelpunkt-n
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
@@ -14914,7 +14914,7 @@ stehen	VFIN.Full.3.Pl.Pres.Ind	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:3" video="https://media.dipintra.it/?id=739&start=00.38&end=00.48&collection=eptic3">
+<s id="739:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.00.38&end=00.00.48">
 Grenzüberschreitende	ADJA.Pos.Nom.Pl.Fem	grenzüberschreitend-j
 Adoptionen	N.Reg.Nom.Pl.Fem	Adoption-n
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -14943,7 +14943,7 @@ anschneidet	VFIN.Full.3.Sg.Pres.Ind	anschneiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:4" video="https://media.dipintra.it/?id=739&start=00.48&end=00.57&collection=eptic3">
+<s id="739:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.00.48&end=00.00.57">
 Natürlich	ADV	natürlich-a
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -14975,7 +14975,7 @@ bringt	VFIN.Full.3.Sg.Pres.Ind	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:5" video="https://media.dipintra.it/?id=739&start=00.57&end=01.00&collection=eptic3">
+<s id="739:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.00.57&end=00.01.00">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
 schon	ADV	schon-a
@@ -14983,7 +14983,7 @@ angesprochen	VPP.Full.Psp	ansprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:6" video="https://media.dipintra.it/?id=739&start=01.00&end=01.14&collection=eptic3">
+<s id="739:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.01.00&end=00.01.14">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -15027,7 +15027,7 @@ zugutekommen	VINF.Full	zugutekommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="739:7" video="https://media.dipintra.it/?id=739&start=01.14&end=01.30&collection=eptic3">
+<s id="739:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=739.wmv&start=00.01.14&end=00.01.30">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Mitgliedsstaaten	N.Reg.Nom.Pl.Masc	Mitgliedsstaat-n
 müssen	VFIN.Mod.3.Pl.Pres.Ind	müssen-v
@@ -15076,7 +15076,7 @@ steht	VFIN.Full.3.Sg.Pres.Ind	stehen-v
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="740:1" video="https://media.dipintra.it/?id=740&start=00.05&end=00.07&collection=eptic3">
+<s id="740:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.05&end=00.00.07">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -15086,7 +15086,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:2" video="https://media.dipintra.it/?id=740&start=00.07&end=00.17&collection=eptic3">
+<s id="740:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.07&end=00.00.17">
 In	APPR	in-i
 Irland	N.Name.Dat.Sg.Neut	Irland-n
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -15109,7 +15109,7 @@ Konstellationen	N.Reg.Dat.Pl.Fem	Konstellation-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:3" video="https://media.dipintra.it/?id=740&start=00.17&end=00.20&collection=eptic3">
+<s id="740:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.17&end=00.00.20">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 natürlich	ADV	natürlich-a
@@ -15126,7 +15126,7 @@ Adoption	N.Reg.Acc.Sg.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:4" video="https://media.dipintra.it/?id=740&start=00.20&end=00.28&collection=eptic3">
+<s id="740:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.20&end=00.00.28">
 Gerade	ADV	gerade-a
 über	APPR	über-i
 1200	CARD	[number]-m
@@ -15158,7 +15158,7 @@ Irland	N.Name.Dat.Sg.Neut	Irland-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:5" video="https://media.dipintra.it/?id=740&start=00.28&end=00.34&collection=eptic3">
+<s id="740:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.28&end=00.00.34">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 w-	DYSF	w-
 kommen	VFIN.Full.1.Pl.Pres.Ind	kommen-v
@@ -15182,7 +15182,7 @@ dürfen	VINF.Mod	dürfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:6" video="https://media.dipintra.it/?id=740&start=00.34&end=00.39&collection=eptic3">
+<s id="740:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.34&end=00.00.39">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Kinder	N.Reg.Nom.Pl.Neut	Kind-n
 wurden	VFIN.Aux.3.Pl.Past.Ind	werden-v
@@ -15198,7 +15198,7 @@ freigegeben	VPP.Full.Psp	freigeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:7" video="https://media.dipintra.it/?id=740&start=00.39&end=00.40&collection=eptic3">
+<s id="740:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.39&end=00.00.40">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 keine	PRO.Indef.Attr.Nom.Sg.Fem	keine-p
@@ -15207,7 +15207,7 @@ Geschichte	N.Reg.Nom.Sg.Fem	Geschichte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:8" video="https://media.dipintra.it/?id=740&start=00.40&end=00.43&collection=eptic3">
+<s id="740:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.40&end=00.00.43">
 Deshalb	PROADV.Dem	deshalb-x
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -15222,7 +15222,7 @@ Adoption	N.Reg.Acc.Sg.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:9" video="https://media.dipintra.it/?id=740&start=00.43&end=00.45&collection=eptic3">
+<s id="740:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.43&end=00.00.45">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Kind	N.Reg.Nom.Sg.Neut	Kind-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -15232,7 +15232,7 @@ stehen	VINF.Full	stehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:10" video="https://media.dipintra.it/?id=740&start=00.45&end=01.03&collection=eptic3">
+<s id="740:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.00.45&end=00.01.03">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 meine	VFIN.Full.1.Sg.Pres.Ind	meinen-v
 <g/>
@@ -15296,7 +15296,7 @@ Landesgrenzen	N.Reg.Gen.Pl.Fem	Landesgrenze-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:11" video="https://media.dipintra.it/?id=740&start=01.03&end=01.04&collection=eptic3">
+<s id="740:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.01.03&end=00.01.04">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 hier	ADV	hier-a
@@ -15306,7 +15306,7 @@ einwirken	VINF.Full	einwirken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:12" video="https://media.dipintra.it/?id=740&start=01.05&end=01.09&collection=eptic3">
+<s id="740:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.01.05&end=00.01.09">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -15327,7 +15327,7 @@ Kinderrechten	N.Reg.Dat.Pl.Neut	Kinderrecht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:13" video="https://media.dipintra.it/?id=740&start=01.09&end=01.19&collection=eptic3">
+<s id="740:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.01.09&end=00.01.19">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 darüber	PROADV.Dem	darüber-x
@@ -15366,7 +15366,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:14" video="https://media.dipintra.it/?id=740&start=01.19&end=01.20&collection=eptic3">
+<s id="740:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.01.19&end=00.01.20">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -15376,7 +15376,7 @@ Debatte	N.Reg.Nom.Sg.Fem	Debatte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="740:15" video="https://media.dipintra.it/?id=740&start=01.20&end=01.22&collection=eptic3">
+<s id="740:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=740.mp4&start=00.01.20&end=00.01.22">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -15396,14 +15396,14 @@ bedanken	VINF.Full	bedanken-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="DE01" gender="M" native="NA">
-<s id="741:1" video="https://media.dipintra.it/?id=741&start=00.09&end=00.10&collection=eptic3">
+<s id="741:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.09&end=00.00.10">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Vorsitzender	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:2" video="https://media.dipintra.it/?id=741&start=00.12&end=00.17&collection=eptic3">
+<s id="741:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.12&end=00.00.17">
 Das	ART.Def.Nom.Sg.Neut	die-x
 größte	ADJA.Sup.Nom.Sg.Neut	groß-j
 Geschenk	N.Reg.Nom.Sg.Neut	Geschenk-n
@@ -15418,7 +15418,7 @@ Familie	N.Reg.Nom.Sg.Fem	Familie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:3" video="https://media.dipintra.it/?id=741&start=00.17&end=00.25&collection=eptic3">
+<s id="741:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.17&end=00.00.25">
 Die	ART.Def.Nom.Pl.Neut	die-x
 meisten	PRO.Indef.Attr.Nom.Pl.Neut	meiste-p
 Kinder	N.Reg.Nom.Pl.Neut	Kind-n
@@ -15445,7 +15445,7 @@ Adoptivfamilie	N.Reg.Dat.Sg.Fem	Adoptivfamilie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:4" video="https://media.dipintra.it/?id=741&start=00.25&end=00.33&collection=eptic3">
+<s id="741:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.25&end=00.00.33">
 Beides	PRO.Indef.Subst.Nom.Sg.Neut	beide-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 auf	APPR	auf-i
@@ -15472,7 +15472,7 @@ läuft	VFIN.Full.3.Sg.Pres.Ind	laufen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:5" video="https://media.dipintra.it/?id=741&start=00.33&end=00.36&collection=eptic3">
+<s id="741:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.33&end=00.00.36">
 Hier	ADV	hier-a
 einen	ART.Indef.Acc.Sg.Masc	eine-x
 richtigen	ADJA.Pos.Acc.Sg.Masc	richtig-j
@@ -15484,7 +15484,7 @@ schwierig	ADJD.Pos	schwierig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:6" video="https://media.dipintra.it/?id=741&start=00.39&end=00.53&collection=eptic3">
+<s id="741:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.39&end=00.00.53">
 Natürlich	ADV	natürlich-a
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -15533,7 +15533,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:7" video="https://media.dipintra.it/?id=741&start=00.53&end=01.03&collection=eptic3">
+<s id="741:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.00.53&end=00.01.03">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ja	ADV	ja-a
@@ -15575,7 +15575,7 @@ müssen	VINF.Mod	müssen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="741:8" video="https://media.dipintra.it/?id=741&start=01.03&end=01.09&collection=eptic3">
+<s id="741:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=741.wmv&start=00.01.03&end=00.01.09">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 als	APPR	als-i
@@ -15610,14 +15610,14 @@ Familien	N.Reg.Dat.Pl.Fem	Familie-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="DE02" gender="M" native="NA">
-<s id="742:1" video="https://media.dipintra.it/?id=742&start=00.09&end=00.10&collection=eptic3">
+<s id="742:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.09&end=00.00.10">
 Danke	PART.Ans	Danke-x
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Vorsitzender	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:2" video="https://media.dipintra.it/?id=742&start=00.10&end=00.16&collection=eptic3">
+<s id="742:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.10&end=00.00.16">
 Kommissarin	N.Reg.Nom.Sg.Fem	Kommissarin-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -15634,7 +15634,7 @@ Adoptionen	N.Reg.Acc.Pl.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:3" video="https://media.dipintra.it/?id=742&start=00.17&end=00.23&collection=eptic3">
+<s id="742:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.17&end=00.00.23">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 führt	VFIN.Full.3.Sg.Pres.Ind	führen-v
 zu	APPR	zu-i
@@ -15655,7 +15655,7 @@ Adoptionen	N.Reg.Dat.Pl.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:4" video="https://media.dipintra.it/?id=742&start=00.23&end=00.42&collection=eptic3">
+<s id="742:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.23&end=00.00.42">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -15713,7 +15713,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:5" video="https://media.dipintra.it/?id=742&start=00.42&end=00.48&collection=eptic3">
+<s id="742:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.42&end=00.00.48">
 Besonders	ADV	besonders-a
 dringlich	ADJD.Pos	dringlich-j
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -15729,7 +15729,7 @@ Kindern	N.Reg.Dat.Pl.Neut	Kind-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:6" video="https://media.dipintra.it/?id=742&start=00.48&end=00.58&collection=eptic3">
+<s id="742:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.48&end=00.00.58">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 da	ADV	da-a
@@ -15761,7 +15761,7 @@ Europas	N.Name.Gen.Sg.Neut	Europa-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:7" video="https://media.dipintra.it/?id=742&start=00.58&end=01.13&collection=eptic3">
+<s id="742:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.00.58&end=00.01.13">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Schmuggel	N.Reg.Nom.Sg.Masc	Schmuggel-n
 von	APPR	von-i
@@ -15798,7 +15798,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:8" video="https://media.dipintra.it/?id=742&start=01.14&end=01.30&collection=eptic3">
+<s id="742:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.01.14&end=00.01.30">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -15847,7 +15847,7 @@ schützt	VFIN.Full.3.Sg.Pres.Ind	schützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="742:9" video="https://media.dipintra.it/?id=742&start=01.30&end=01.31&collection=eptic3">
+<s id="742:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=742.wmv&start=00.01.30&end=00.01.31">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Vorsitzender	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 <g/>
@@ -15864,7 +15864,7 @@ danke	VFIN.Full.3.Sg.Pres.Subj	danken-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="743:1" video="https://media.dipintra.it/?id=743&start=00.09&end=00.10&collection=eptic3">
+<s id="743:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.09&end=00.00.10">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -15872,7 +15872,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:2" video="https://media.dipintra.it/?id=743&start=00.10&end=00.16&collection=eptic3">
+<s id="743:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.10&end=00.00.16">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Kommissarin	N.Reg.Nom.Sg.Fem	Kommissarin-n
 <g/>
@@ -15892,7 +15892,7 @@ Netzwerk	N.Reg.Acc.Sg.Neut	Netzwerk-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:3" video="https://media.dipintra.it/?id=743&start=00.16&end=00.26&collection=eptic3">
+<s id="743:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.16&end=00.00.26">
 In	APPR	in-i
 Südosteuropa	N.Name.Dat.Sg.Neut	Südosteuropa-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -15917,7 +15917,7 @@ freigegeben	VPP.Full.Psp	freigeben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:4" video="https://media.dipintra.it/?id=743&start=00.26&end=00.34&collection=eptic3">
+<s id="743:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.26&end=00.00.34">
 All	PRO.Indef.Attr.*.*.*	all-p
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 <g/>
@@ -15950,7 +15950,7 @@ Richtlinie	N.Reg.Dat.Sg.Fem	Richtlinie-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:5" video="https://media.dipintra.it/?id=743&start=00.34&end=00.35&collection=eptic3">
+<s id="743:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.34&end=00.00.35">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 alles	PRO.Indef.Subst.Nom.Sg.Neut	alle-p
@@ -15963,7 +15963,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:6" video="https://media.dipintra.it/?id=743&start=00.35&end=00.46&collection=eptic3">
+<s id="743:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.35&end=00.00.46">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 wirklich	ADJD.Pos	wirklich-j
@@ -15993,7 +15993,7 @@ Täter	N.Reg.Gen.Pl.Masc	Täter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:7" video="https://media.dipintra.it/?id=743&start=00.46&end=00.48&collection=eptic3">
+<s id="743:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.46&end=00.00.48">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 jetzt	ADV	jetzt-a
@@ -16004,7 +16004,7 @@ vorgehen	VINF.Full	vorgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="743:8" video="https://media.dipintra.it/?id=743&start=00.48&end=00.55&collection=eptic3">
+<s id="743:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=743.wmv&start=00.00.48&end=00.00.55">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 nur	ADV	nur-a
@@ -16039,7 +16039,7 @@ herbeiführen	VINF.Full	herbeiführen-v
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="DE12" gender="F" native="NA">
-<s id="744:1" video="https://media.dipintra.it/?id=744&start=00.08&end=00.10&collection=eptic3">
+<s id="744:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=744.wmv&start=00.00.08&end=00.00.10">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 ehm	FPAUSE	ehm
@@ -16048,7 +16048,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="744:2" video="https://media.dipintra.it/?id=744&start=00.11&end=00.14&collection=eptic3">
+<s id="744:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=744.wmv&start=00.00.11&end=00.00.14">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 vielleicht	ADV	vielleicht-a
@@ -16058,7 +16058,7 @@ hinzufügen	VINF.Full	hinzufügen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="744:3" video="https://media.dipintra.it/?id=744&start=00.14&end=00.42&collection=eptic3">
+<s id="744:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=744.wmv&start=00.00.14&end=00.00.42">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kindheit	N.Reg.Nom.Sg.Fem	Kindheit-n
 <g/>
@@ -16133,7 +16133,7 @@ bieten	VINF.Full	bieten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="744:4" video="https://media.dipintra.it/?id=744&start=00.42&end=01.04&collection=eptic3">
+<s id="744:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=744.wmv&start=00.00.42&end=00.01.04">
 Also	ADV	also-a
 die	ART.Def.Nom.Pl.*	die-x
 Rich-	DYSF	Rich-
@@ -16205,7 +16205,7 @@ aussehen	VINF.Full	aussehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="744:5" video="https://media.dipintra.it/?id=744&start=01.04&end=01.05&collection=eptic3">
+<s id="744:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=744.wmv&start=00.01.04&end=00.01.05">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -16221,7 +16221,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="745:1" video="https://media.dipintra.it/?id=745&start=00.11&end=00.27&collection=eptic3">
+<s id="745:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.00.11&end=00.00.27">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -16264,7 +16264,7 @@ daran	PROADV.Dem	daran-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:2" video="https://media.dipintra.it/?id=745&start=00.27&end=00.43&collection=eptic3">
+<s id="745:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.00.27&end=00.00.43">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -16310,7 +16310,7 @@ anbelangt	VFIN.Full.3.Sg.Pres.Ind	anbelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:3" video="https://media.dipintra.it/?id=745&start=00.43&end=01.16&collection=eptic3">
+<s id="745:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.00.43&end=00.01.16">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Neut	eine-x
@@ -16377,7 +16377,7 @@ von	APPR	von-i
 Artikel	N.Reg.Dat.Sg.Masc	Artikel-n
 24.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="745:4" video="https://media.dipintra.it/?id=745&start=01.16&end=01.46&collection=eptic3">
+<s id="745:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.01.16&end=00.01.46">
 Hier	ADV	hier-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -16460,7 +16460,7 @@ Entscheidungen	N.Reg.Dat.Pl.Fem	Entscheidung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:5" video="https://media.dipintra.it/?id=745&start=01.46&end=01.52&collection=eptic3">
+<s id="745:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.01.46&end=00.01.52">
 Mein	PRO.Poss.Attr.Nom.Sg.Masc	meine-p
 zweiter	ADJA.Pos.Nom.Sg.Masc	zweit-j
 Punkt	N.Reg.Nom.Sg.Masc	Punkt-n
@@ -16474,7 +16474,7 @@ Mitglieder	N.Reg.Gen.Pl.Neut	Mitglied-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:6" video="https://media.dipintra.it/?id=745&start=01.52&end=02.00&collection=eptic3">
+<s id="745:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.01.52&end=00.02.00">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 hier	ADV	hier-a
@@ -16503,7 +16503,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:7" video="https://media.dipintra.it/?id=745&start=02.00&end=02.30&collection=eptic3">
+<s id="745:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.02.00&end=00.02.30">
 Zu	APPR	zu-i
 diesem	PRO.Dem.Attr.Dat.Sg.Masc	diese-p
 Punkt	N.Reg.Dat.Sg.Masc	Punkt-n
@@ -16585,7 +16585,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:8" video="https://media.dipintra.it/?id=745&start=02.30&end=02.44&collection=eptic3">
+<s id="745:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.02.30&end=00.02.44">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -16627,7 +16627,7 @@ auszuarbeiten	VINF.Full.zu	ausarbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:9" video="https://media.dipintra.it/?id=745&start=02.44&end=02.47&collection=eptic3">
+<s id="745:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.02.44&end=00.02.47">
 Mein	PRO.Poss.Attr.Nom.Sg.Masc	meine-p
 dritter	ADJA.Pos.Nom.Sg.Masc	dritt-j
 Punkt	N.Reg.Nom.Sg.Masc	Punkt-n
@@ -16639,7 +16639,7 @@ die	ART.Def.Acc.Sg.Fem	die-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:10" video="https://media.dipintra.it/?id=745&start=02.48&end=03.06&collection=eptic3">
+<s id="745:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.02.48&end=00.03.06">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -16681,7 +16681,7 @@ Adoptionen	N.Reg.Acc.Pl.Fem	Adoption-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:11" video="https://media.dipintra.it/?id=745&start=03.06&end=03.11&collection=eptic3">
+<s id="745:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.06&end=00.03.11">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Überwachungsgremium	N.Reg.Nom.Sg.Neut	Überwachungsgremium-n
@@ -16697,7 +16697,7 @@ teilnimmt	VFIN.Full.3.Sg.Pres.Ind	teilnehmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:12" video="https://media.dipintra.it/?id=745&start=03.11&end=03.23&collection=eptic3">
+<s id="745:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.11&end=00.03.23">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Anregungen	N.Reg.Nom.Pl.Fem	Anregung-n
 <g/>
@@ -16735,7 +16735,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:13" video="https://media.dipintra.it/?id=745&start=03.23&end=03.27&collection=eptic3">
+<s id="745:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.23&end=00.03.27">
 Mein	PRO.Poss.Attr.Nom.Sg.Masc	meine-p
 vierter	ADJA.Pos.Nom.Sg.Masc	viert-j
 Punkt	N.Reg.Nom.Sg.Masc	Punkt-n
@@ -16747,7 +16747,7 @@ Akkreditierung	N.Reg.Acc.Sg.Fem	Akkreditierung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:14" video="https://media.dipintra.it/?id=745&start=03.27&end=03.43&collection=eptic3">
+<s id="745:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.27&end=00.03.43">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -16790,7 +16790,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:15" video="https://media.dipintra.it/?id=745&start=03.43&end=03.46&collection=eptic3">
+<s id="745:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.43&end=00.03.46">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 wichtig	ADJD.Pos	wichtig-j
@@ -16804,7 +16804,7 @@ anzusprechen	VINF.Full.zu	ansprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:16" video="https://media.dipintra.it/?id=745&start=03.46&end=03.54&collection=eptic3">
+<s id="745:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.46&end=00.03.54">
 Mein	PRO.Poss.Attr.Nom.Sg.Masc	meine-p
 fünfter	ADJA.Pos.Nom.Sg.Masc	fünft-j
 Punkt	N.Reg.Nom.Sg.Masc	Punkt-n
@@ -16838,7 +16838,7 @@ dürfen	VINF.Mod	dürfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:17" video="https://media.dipintra.it/?id=745&start=03.54&end=04.21&collection=eptic3">
+<s id="745:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.03.54&end=00.04.21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 werde	VFIN.Aux.1.Sg.Pres.Ind	werden-v
 der	ART.Def.Gen.Pl.Masc	die-x
@@ -16935,7 +16935,7 @@ konnte	VFIN.Mod.3.Sg.Past.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:18" video="https://media.dipintra.it/?id=745&start=04.21&end=04.41&collection=eptic3">
+<s id="745:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.04.21&end=00.04.41">
 Gut	ADJD.Pos	gut-j
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
@@ -17006,7 +17006,7 @@ vorgehen	VINF.Full	vorgehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:19" video="https://media.dipintra.it/?id=745&start=04.41&end=04.47&collection=eptic3">
+<s id="745:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.04.41&end=00.04.47">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 hier	ADV	hier-a
@@ -17042,7 +17042,7 @@ Ländern	N.Reg.Dat.Pl.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="745:20" video="https://media.dipintra.it/?id=745&start=04.47&end=04.48&collection=eptic3">
+<s id="745:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=745.wmv&start=00.04.47&end=00.04.48">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -17056,7 +17056,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="746:1" video="https://media.dipintra.it/?id=746&start=00.09&end=00.24&collection=eptic3">
+<s id="746:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=746.wmv&start=00.00.09&end=00.00.24">
 Ja	PART.Ans	ja-x
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -17108,7 +17108,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="746:2" video="https://media.dipintra.it/?id=746&start=00.24&end=01.04&collection=eptic3">
+<s id="746:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=746.wmv&start=00.00.24&end=00.01.04">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Scheitern	N.Reg.Nom.Sg.Neut	Scheitern-n
 unserer	PRO.Poss.Attr.Gen.Pl.Fem	unsre-p
@@ -17236,7 +17236,7 @@ Flughafengebäude	N.Reg.Acc.Pl.Neut	Flughafengebäude-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="746:3" video="https://media.dipintra.it/?id=746&start=01.04&end=01.15&collection=eptic3">
+<s id="746:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=746.wmv&start=00.01.04&end=00.01.15">
 Gut	ADJD.Pos	gut-j
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -17271,7 +17271,7 @@ Klimawandel	N.Reg.Dat.Sg.Masc	Klimawandel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="746:4" video="https://media.dipintra.it/?id=746&start=01.15&end=01.17&collection=eptic3">
+<s id="746:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=746.wmv&start=00.01.15&end=00.01.17">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 immer	ADV	immer-a
@@ -17283,7 +17283,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="746:5" video="https://media.dipintra.it/?id=746&start=01.17&end=01.23&collection=eptic3">
+<s id="746:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=746.wmv&start=00.01.17&end=00.01.23">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
@@ -17317,7 +17317,7 @@ können	VINF.Mod	können-v
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="DE12" gender="F" native="NA">
-<s id="747:1" video="https://media.dipintra.it/?id=747&start=00.10&end=00.32&collection=eptic3">
+<s id="747:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=747.wmv&start=00.00.10&end=00.00.32">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -17375,7 +17375,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="747:2" video="https://media.dipintra.it/?id=747&start=00.32&end=00.49&collection=eptic3">
+<s id="747:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=747.wmv&start=00.00.32&end=00.00.49">
 Also	ADV	also-a
 den	ART.Def.Dat.Pl.Fem	die-x
 Türkei	N.Name.Dat.Sg.Fem	Türkei-n
@@ -17433,7 +17433,7 @@ angekündigt	VPP.Full.Psp	ankündigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="747:3" video="https://media.dipintra.it/?id=747&start=00.49&end=00.55&collection=eptic3">
+<s id="747:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=747.wmv&start=00.00.49&end=00.00.55">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -17459,7 +17459,7 @@ gewähren	VINF.Full	gewähren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="747:4" video="https://media.dipintra.it/?id=747&start=00.55&end=00.55&collection=eptic3">
+<s id="747:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=747.wmv&start=00.00.55&end=00.00.55">
 Herzlichen	ADJA.Pos.Acc.Sg.Masc	herzlich-j
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -17473,7 +17473,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="748:1" video="https://media.dipintra.it/?id=748&start=00.09&end=00.54&collection=eptic3">
+<s id="748:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=748.wmv&start=00.00.09&end=00.00.54">
 Am	APPRART.Dat.Sg.Masc	an-i
 Weihnachtstag	N.Reg.Dat.Sg.Masc	Weihnachtstag-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -17589,7 +17589,7 @@ Entschuldigung	N.Reg.Nom.Sg.Fem	Entschuldigung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="748:2" video="https://media.dipintra.it/?id=748&start=00.54&end=01.02&collection=eptic3">
+<s id="748:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=748.wmv&start=00.00.54&end=00.01.02">
 In	APPR	in-i
 Griechenland	N.Name.Dat.Sg.Neut	Griechenland-n
 <g/>
@@ -17609,7 +17609,7 @@ möchte	VFIN.Mod.3.Sg.Past.Subj	mögen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="748:3" video="https://media.dipintra.it/?id=748&start=01.02&end=01.05&collection=eptic3">
+<s id="748:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=748.wmv&start=00.01.02&end=00.01.05">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 hier	ADV	hier-a
@@ -17622,7 +17622,7 @@ Insel	N.Reg.Dat.Sg.Fem	Insel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="748:4" video="https://media.dipintra.it/?id=748&start=01.05&end=01.10&collection=eptic3">
+<s id="748:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=748.wmv&start=00.01.05&end=00.01.10">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 dürfen	VFIN.Mod.3.Pl.Pres.Ind	dürfen-v
 dort	ADV	dort-a
@@ -17641,7 +17641,7 @@ Abkommens	N.Reg.Gen.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="748:5" video="https://media.dipintra.it/?id=748&start=01.10&end=01.16&collection=eptic3">
+<s id="748:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=748.wmv&start=00.01.10&end=00.01.16">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 <g/>
 ...	EPAUSE	...-x
@@ -17668,7 +17668,7 @@ warum	PROADV.Inter	warum-x
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="749:1" video="https://media.dipintra.it/?id=749&start=00.13&end=00.19&collection=eptic3">
+<s id="749:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.00.13&end=00.00.19">
 Liebe	ADJA.Pos.Nom.Pl.*	lieb-j
 Kolleginnen	N.Reg.Nom.Pl.Fem	Kollegin-n
 und	CONJ.Coord	und-c
@@ -17689,7 +17689,7 @@ Marokko	N.Name.Dat.Sg.Neut	Marokko-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:2" video="https://media.dipintra.it/?id=749&start=00.19&end=00.28&collection=eptic3">
+<s id="749:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.00.19&end=00.00.28">
 Ehm	FPAUSE	ehm
 der	ART.Def.Gen.Sg.Fem	die-x
 Zukunft	N.Reg.Gen.Sg.Fem	Zukunft-n
@@ -17719,7 +17719,7 @@ besteht	VFIN.Full.3.Sg.Pres.Ind	bestehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:3" video="https://media.dipintra.it/?id=749&start=00.28&end=00.37&collection=eptic3">
+<s id="749:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.00.28&end=00.00.37">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 unsere	PRO.Poss.Attr.Acc.Pl.Fem	unsre-p
@@ -17747,7 +17747,7 @@ Rücken	N.Reg.Dat.Sg.Masc	Rücken-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:4" video="https://media.dipintra.it/?id=749&start=00.37&end=00.51&collection=eptic3">
+<s id="749:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.00.37&end=00.00.51">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
@@ -17796,7 +17796,7 @@ umzieht	VFIN.Full.3.Sg.Pres.Ind	umziehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:5" video="https://media.dipintra.it/?id=749&start=00.51&end=01.01&collection=eptic3">
+<s id="749:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.00.51&end=00.01.01">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 dürfte	VFIN.Mod.3.Sg.Past.Subj	dürfen-v
 doch	ADV	doch-a
@@ -17830,7 +17830,7 @@ Marokko	N.Name.Dat.Sg.Neut	Marokko-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:6" video="https://media.dipintra.it/?id=749&start=01.01&end=01.09&collection=eptic3">
+<s id="749:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.01.01&end=00.01.09">
 Wenn	CONJ.SubFin	wenn-c
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
 hier	ADV	hier-a
@@ -17857,7 +17857,7 @@ Nahrungsmittelkette	N.Reg.Gen.Sg.Fem	Nahrungsmittelkette-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:7" video="https://media.dipintra.it/?id=749&start=01.09&end=01.10&collection=eptic3">
+<s id="749:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.01.09&end=00.01.10">
 Insbesondere	ADV	insbesondere-a
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
@@ -17867,7 +17867,7 @@ Mittelmeerländer	N.Reg.Acc.Pl.Neut	Mittelmeerland-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:8" video="https://media.dipintra.it/?id=749&start=01.10&end=01.13&collection=eptic3">
+<s id="749:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.01.10&end=00.01.13">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 meine	PRO.Poss.Attr.Nom.Pl.Masc	meine-p
@@ -17879,7 +17879,7 @@ zum	APPRART.Dat.Sg.Masc	zu-i
 Ausdruck	N.Reg.Dat.Sg.Masc	Ausdruck-n
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="749:9" video="https://media.dipintra.it/?id=749&start=01.14&end=01.15&collection=eptic3">
+<s id="749:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=749.wmv&start=00.01.14&end=00.01.15">
 Vielen	PRO.Indef.Subst.Nom.Pl.*	viele-p
 Dank	APPR	dank-i
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -17897,7 +17897,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="750:1" video="https://media.dipintra.it/?id=750&start=00.08&end=00.09&collection=eptic3">
+<s id="750:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=750.wmv&start=00.00.08&end=00.00.09">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -17905,7 +17905,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="750:2" video="https://media.dipintra.it/?id=750&start=00.09&end=00.23&collection=eptic3">
+<s id="750:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=750.wmv&start=00.00.09&end=00.00.23">
 In	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
 nächste	ADJA.Sup.Acc.Sg.Fem	nah-j
@@ -17941,7 +17941,7 @@ Haggis	N.Reg.Nom.Sg.Neut	Haggis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="750:3" video="https://media.dipintra.it/?id=750&start=00.23&end=00.28&collection=eptic3">
+<s id="750:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=750.wmv&start=00.00.23&end=00.00.28">
 Also	ADV	also-a
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
@@ -17958,7 +17958,7 @@ einzuführen	VINF.Full.zu	einführen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="750:4" video="https://media.dipintra.it/?id=750&start=00.31&end=00.37&collection=eptic3">
+<s id="750:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=750.wmv&start=00.00.31&end=00.00.37">
 Ehm	FPAUSE	ehm
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -17980,7 +17980,7 @@ USA	N.Name.Gen.Pl.*	USA-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="750:5" video="https://media.dipintra.it/?id=750&start=00.37&end=00.51&collection=eptic3">
+<s id="750:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=750.wmv&start=00.00.37&end=00.00.51">
 Welche	PRO.Inter.Attr.Acc.Sg.Fem	welche-p
 Aktion	N.Reg.Acc.Sg.Fem	Aktion-n
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
@@ -18033,7 +18033,7 @@ berücksichtigt	VPP.Full.Psp	berücksichtigen-v
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="161" duration="short" durations="71.0" speed="medium" speedwm="136.1" delivery="read">
 <interpreter id="DE02" gender="M" native="NA">
-<s id="751:1" video="https://media.dipintra.it/?id=751&start=00.09&end=00.24&collection=eptic3">
+<s id="751:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.00.09&end=00.00.24">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Vorsitzender	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 <g/>
@@ -18067,7 +18067,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="751:2" video="https://media.dipintra.it/?id=751&start=00.24&end=00.31&collection=eptic3">
+<s id="751:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.00.24&end=00.00.31">
 2010	CARD	[number]-m
 sagte	VFIN.Full.3.Sg.Past.Ind	sagen-v
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
@@ -18090,7 +18090,7 @@ Astana	N.Name.Dat.Sg.Neut	Astana-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="751:3" video="https://media.dipintra.it/?id=751&start=00.32&end=00.49&collection=eptic3">
+<s id="751:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.00.32&end=00.00.49">
 Im	APPRART.Dat.Sg.Masc	in-i
 September	N.Reg.Dat.Sg.Masc	September-n
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
@@ -18144,7 +18144,7 @@ bleibt	VFIN.Full.3.Sg.Pres.Ind	bleiben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="751:4" video="https://media.dipintra.it/?id=751&start=00.49&end=00.53&collection=eptic3">
+<s id="751:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.00.49&end=00.00.53">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Presse	N.Reg.Nom.Sg.Fem	Presse-n
 und	CONJ.Coord	und-c
@@ -18154,7 +18154,7 @@ unterdrückt	VPP.Full.Psp	unterdrücken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="751:5" video="https://media.dipintra.it/?id=751&start=00.54&end=01.00&collection=eptic3">
+<s id="751:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.00.54&end=00.01.00">
 Wer	PRO.Inter.Subst.Nom.Sg.Masc	wer-p
 die	ART.Def.Acc.Pl.Fem	die-x
 Wahlen	N.Reg.Acc.Pl.Fem	Wahl-n
@@ -18171,7 +18171,7 @@ gesteckt	VPP.Full.Psp	stecken-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="751:6" video="https://media.dipintra.it/?id=751&start=01.00&end=01.19&collection=eptic3">
+<s id="751:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.01.00&end=00.01.19">
 Will	VFIN.Mod.3.Sg.Pres.Ind	wollen-v
 die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
@@ -18223,7 +18223,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="751:7" video="https://media.dipintra.it/?id=751&start=01.19&end=01.20&collection=eptic3">
+<s id="751:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=751.wmv&start=00.01.19&end=00.01.20">
 Danke	PART.Ans	Danke-x
 sehr	ADV	sehr-a
 <g/>
@@ -18237,7 +18237,7 @@ sehr	ADV	sehr-a
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="DE12" gender="F" native="NA">
-<s id="753:1" video="https://media.dipintra.it/?id=753&start=00.10&end=00.18&collection=eptic3">
+<s id="753:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.10&end=00.00.18">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
@@ -18255,7 +18255,7 @@ Religionsfreiheit	N.Reg.Gen.Sg.Fem	Religionsfreiheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:2" video="https://media.dipintra.it/?id=753&start=00.18&end=00.20&collection=eptic3">
+<s id="753:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.18&end=00.00.20">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 ja	ADV	ja-a
@@ -18266,7 +18266,7 @@ Grundrecht	N.Reg.Acc.Sg.Neut	Grundrecht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:3" video="https://media.dipintra.it/?id=753&start=00.23&end=00.36&collection=eptic3">
+<s id="753:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.23&end=00.00.36">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Grundrecht	N.Reg.Nom.Sg.Neut	Grundrecht-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -18296,7 +18296,7 @@ Synesios	ADJD.Pos	Synesios-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:4" video="https://media.dipintra.it/?id=753&start=00.36&end=00.47&collection=eptic3">
+<s id="753:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.36&end=00.00.47">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Polizei	N.Reg.Nom.Sg.Fem	Polizei-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -18322,7 +18322,7 @@ beenden	VINF.Full	beenden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:5" video="https://media.dipintra.it/?id=753&start=00.49&end=00.59&collection=eptic3">
+<s id="753:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.49&end=00.00.59">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Europäische	ADJA.Pos.Nom.Sg.Neut	europäisch-j
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -18338,7 +18338,7 @@ verurteilen	VINF.Full	verurteilen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:6" video="https://media.dipintra.it/?id=753&start=00.59&end=01.02&collection=eptic3">
+<s id="753:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.00.59&end=00.01.02">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -18346,7 +18346,7 @@ akzeptabel	ADJD.Pos	akzeptabel-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="753:7" video="https://media.dipintra.it/?id=753&start=01.02&end=01.28&collection=eptic3">
+<s id="753:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=753.wmv&start=00.01.02&end=00.01.28">
 Ehm	FPAUSE	ehm
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
 türkische	ADJA.Pos.Acc.Sg.Fem	türkisch-j
@@ -18417,7 +18417,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="DE02" gender="M" native="NA">
-<s id="754:1" video="https://media.dipintra.it/?id=754&start=00.10&end=00.14&collection=eptic3">
+<s id="754:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.10&end=00.00.14">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Lebensmittelzusatzstoffrichtlinie	N.Reg.Nom.Sg.Fem	Lebensmittelzusatzstoffrichtlinie-n
 wurde	VFIN.Aux.3.Sg.Past.Ind	werden-v
@@ -18426,7 +18426,7 @@ verabschiedet	VPP.Full.Psp	verabschieden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:2" video="https://media.dipintra.it/?id=754&start=00.14&end=00.17&collection=eptic3">
+<s id="754:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.14&end=00.00.17">
 9	CARD	9-m
 Jahre	N.Reg.Acc.Pl.Neut	Jahr-n
 später	ADJD.Comp	später-j
@@ -18440,7 +18440,7 @@ umgesetzt	VPP.Full.Psp	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:3" video="https://media.dipintra.it/?id=754&start=00.17&end=00.27&collection=eptic3">
+<s id="754:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.17&end=00.00.27">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -18471,7 +18471,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:4" video="https://media.dipintra.it/?id=754&start=00.28&end=00.36&collection=eptic3">
+<s id="754:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.28&end=00.00.36">
 Da	CONJ.SubFin	da-c
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 diese	PRO.Dem.Attr.Acc.Sg.Fem	diese-p
@@ -18495,7 +18495,7 @@ entwickeln	VINF.Full	entwickeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:5" video="https://media.dipintra.it/?id=754&start=00.36&end=00.38&collection=eptic3">
+<s id="754:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.36&end=00.00.38">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ungerecht	ADJD.Pos	ungerecht-j
@@ -18506,7 +18506,7 @@ Geld	N.Reg.Acc.Sg.Neut	Geld-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:6" video="https://media.dipintra.it/?id=754&start=00.40&end=00.47&collection=eptic3">
+<s id="754:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.40&end=00.00.47">
 Ein	ART.Indef.Nom.Sg.Neut	eine-x
 wissenschaftliches	ADJA.Pos.Nom.Sg.Neut	wissenschaftlich-j
 Modell	N.Reg.Nom.Sg.Neut	Modell-n
@@ -18534,7 +18534,7 @@ festgestellt	VPP.Full.Psp	feststellen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:7" video="https://media.dipintra.it/?id=754&start=00.48&end=00.52&collection=eptic3">
+<s id="754:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.48&end=00.00.52">
 Da	ADV	da-a
 stellt	VFIN.Full.3.Sg.Pres.Ind	stellen-v
 sich	PRO.Refl.Subst.3.Acc.Sg.*	sie-p
@@ -18554,7 +18554,7 @@ vorgelegt	VPP.Full.Psp	vorlegen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:8" video="https://media.dipintra.it/?id=754&start=00.57&end=01.03&collection=eptic3">
+<s id="754:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.00.57&end=00.01.03">
 Also	PART.Ans	Also-x
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
 stellt	VFIN.Full.3.Sg.Pres.Ind	stellen-v
@@ -18580,7 +18580,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="754:9" video="https://media.dipintra.it/?id=754&start=01.04&end=01.15&collection=eptic3">
+<s id="754:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=754.wmv&start=00.01.04&end=00.01.15">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Gesetzgebung	N.Reg.Nom.Sg.Fem	Gesetzgebung-n
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
@@ -18628,7 +18628,7 @@ Danke	PART.Ans	Danke-x
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="DE02" gender="M" native="NA">
-<s id="755:1" video="https://media.dipintra.it/?id=755&start=00.08&end=00.16&collection=eptic3">
+<s id="755:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.08&end=00.00.16">
 Ja	PART.Ans	ja-x
 ganz	ADV	ganz-a
 kurz	ADJD.Pos	kurz-j
@@ -18643,7 +18643,7 @@ Union	N.Reg.Gen.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="755:2" video="https://media.dipintra.it/?id=755&start=00.17&end=00.23&collection=eptic3">
+<s id="755:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.17&end=00.00.23">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 weiß	VFIN.Full.1.Sg.Pres.Ind	wissen-v
 <g/>
@@ -18672,7 +18672,7 @@ NGOs	N.Reg.Acc.Pl.Fem	NGO-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="755:3" video="https://media.dipintra.it/?id=755&start=00.23&end=00.36&collection=eptic3">
+<s id="755:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.23&end=00.00.36">
 Jetzt	ADV	jetzt-a
 wüsste	VFIN.Full.3.Sg.Past.Subj	wissen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -18714,7 +18714,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="755:4" video="https://media.dipintra.it/?id=755&start=00.37&end=00.45&collection=eptic3">
+<s id="755:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.37&end=00.00.45">
 Also	ADV	also-a
 die	ART.Def.Nom.Sg.Fem	die-x
 Frage	N.Reg.Nom.Sg.Fem	Frage-n
@@ -18744,7 +18744,7 @@ nachgeprüft	VPP.Full.Psp	nachprüfen-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="755:5" video="https://media.dipintra.it/?id=755&start=00.45&end=00.55&collection=eptic3">
+<s id="755:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.45&end=00.00.55">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 da	ADV	da-a
@@ -18775,7 +18775,7 @@ Rechenschaft	N.Reg.Dat.Sg.Fem	Rechenschaft-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="755:6" video="https://media.dipintra.it/?id=755&start=00.55&end=01.01&collection=eptic3">
+<s id="755:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=755.wmv&start=00.00.55&end=00.01.01">
 Wobei	CONJ.SubFin	wobei-c
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 wirklich	ADJD.Pos	wirklich-j
@@ -18800,7 +18800,7 @@ arbeiten	VFIN.Full.3.Pl.Pres.Ind	arbeiten-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="DE09" gender="F" native="NA">
-<s id="756:1" video="https://media.dipintra.it/?id=756&start=00.09&end=00.11&collection=eptic3">
+<s id="756:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.09&end=00.00.11">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -18808,7 +18808,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:2" video="https://media.dipintra.it/?id=756&start=00.11&end=00.21&collection=eptic3">
+<s id="756:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.11&end=00.00.21">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 begrüße	VFIN.Full.1.Sg.Pres.Ind	begrüßen-v
 wirklich	ADJD.Pos	wirklich-j
@@ -18830,7 +18830,7 @@ Parlaments	N.Reg.Gen.Sg.Neut	Parlament-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:3" video="https://media.dipintra.it/?id=756&start=00.21&end=00.27&collection=eptic3">
+<s id="756:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.21&end=00.00.27">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 sich	PRO.Refl.Subst.3.Acc.Pl.*	sie-p
@@ -18849,7 +18849,7 @@ Union	N.Reg.Gen.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:4" video="https://media.dipintra.it/?id=756&start=00.27&end=00.30&collection=eptic3">
+<s id="756:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.27&end=00.00.30">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 2007	CARD	[number]-m
@@ -18858,7 +18858,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:5" video="https://media.dipintra.it/?id=756&start=00.30&end=00.38&collection=eptic3">
+<s id="756:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.30&end=00.00.38">
 Hier	ADV	hier-a
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -18889,7 +18889,7 @@ Aktionsplan	N.Reg.Dat.Sg.Masc	Aktionsplan-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:6" video="https://media.dipintra.it/?id=756&start=00.39&end=00.47&collection=eptic3">
+<s id="756:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.39&end=00.00.47">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Mitgliedsstaaten	N.Reg.Nom.Pl.Masc	Mitgliedsstaat-n
 und	CONJ.Coord	und-c
@@ -18917,7 +18917,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:7" video="https://media.dipintra.it/?id=756&start=00.47&end=01.06&collection=eptic3">
+<s id="756:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.00.47&end=00.01.06">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 betonen	VINF.Full	betonen-v
@@ -18967,7 +18967,7 @@ sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:8" video="https://media.dipintra.it/?id=756&start=01.11&end=01.21&collection=eptic3">
+<s id="756:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.11&end=00.01.21">
 Ehm	FPAUSE	ehm
 vier	CARD	vier-m
 Fünftel	N.Reg.Acc.*.Neut	Fünftel-n
@@ -18997,7 +18997,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:9" video="https://media.dipintra.it/?id=756&start=01.21&end=01.31&collection=eptic3">
+<s id="756:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.21&end=00.01.31">
 Um	CONJ.SubInf	um-c
 diese	PRO.Dem.Attr.Acc.Pl.Masc	diese-p
 Menschen	N.Reg.Acc.Pl.Masc	Mensch-n
@@ -19032,7 +19032,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:10" video="https://media.dipintra.it/?id=756&start=01.31&end=01.33&collection=eptic3">
+<s id="756:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.31&end=00.01.33">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 Ihnen	PRO.Pers.Subst.3.Dat.Pl.*	sie-p
@@ -19044,7 +19044,7 @@ geben	VINF.Full	geben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:11" video="https://media.dipintra.it/?id=756&start=01.33&end=01.42&collection=eptic3">
+<s id="756:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.33&end=00.01.42">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 vom	APPRART.Dat.Sg.Neut	von-i
@@ -19069,7 +19069,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:12" video="https://media.dipintra.it/?id=756&start=01.42&end=01.44&collection=eptic3">
+<s id="756:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.42&end=00.01.44">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ging	VFIN.Full.3.Sg.Past.Ind	gehen-v
 ja	ADV	ja-a
@@ -19078,7 +19078,7 @@ Zugangsfragen	N.Reg.Acc.Pl.Fem	Zugangsfrage-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:13" video="https://media.dipintra.it/?id=756&start=01.44&end=01.50&collection=eptic3">
+<s id="756:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.44&end=00.01.50">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 ehm	FPAUSE	ehm
@@ -19092,7 +19092,7 @@ gesprochen	VPP.Full.Psp	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:14" video="https://media.dipintra.it/?id=756&start=01.50&end=02.08&collection=eptic3">
+<s id="756:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.01.50&end=00.02.08">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 zum	APPRART.Dat.Sg.Neut	zu-i
@@ -19152,7 +19152,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:15" video="https://media.dipintra.it/?id=756&start=02.08&end=02.20&collection=eptic3">
+<s id="756:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.02.08&end=00.02.20">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 hier	ADV	hier-a
@@ -19193,7 +19193,7 @@ wollen	VFIN.Mod.3.Pl.Pres.Ind	wollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:16" video="https://media.dipintra.it/?id=756&start=02.20&end=02.48&collection=eptic3">
+<s id="756:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.02.20&end=00.02.48">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -19262,7 +19262,7 @@ ausreichend	ADJD.Pos	ausreichend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:17" video="https://media.dipintra.it/?id=756&start=02.48&end=02.54&collection=eptic3">
+<s id="756:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.02.48&end=00.02.54">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 auch	ADV	auch-a
@@ -19291,7 +19291,7 @@ Frieden	N.Reg.Acc.Sg.Masc	Frieden-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:18" video="https://media.dipintra.it/?id=756&start=02.55&end=03.09&collection=eptic3">
+<s id="756:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.02.55&end=00.03.09">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 in	APPR	in-i
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -19326,7 +19326,7 @@ Partnern	N.Reg.Dat.Pl.Masc	Partner-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:19" video="https://media.dipintra.it/?id=756&start=03.09&end=03.13&collection=eptic3">
+<s id="756:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.09&end=00.03.13">
 Im	APPRART.Dat.Sg.Masc	in-i
 Dezember	N.Reg.Dat.Sg.Masc	Dezember-n
 2008	CARD	[number]-m
@@ -19340,7 +19340,7 @@ veröffentlicht	VPP.Full.Psp	veröffentlichen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:20" video="https://media.dipintra.it/?id=756&start=03.14&end=03.24&collection=eptic3">
+<s id="756:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.14&end=00.03.24">
 In	APPR	in-i
 den	ART.Def.Dat.Pl.Neut	die-x
 letzten	ADJA.Pos.Dat.Pl.Neut	letzt-j
@@ -19361,7 +19361,7 @@ Hilfe	N.Reg.Gen.Sg.Fem	Hilfe-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:21" video="https://media.dipintra.it/?id=756&start=03.25&end=03.33&collection=eptic3">
+<s id="756:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.25&end=00.03.33">
 Hier	ADV	hier-a
 ging	VFIN.Full.3.Sg.Past.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -19386,7 +19386,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:22" video="https://media.dipintra.it/?id=756&start=03.33&end=03.38&collection=eptic3">
+<s id="756:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.33&end=00.03.38">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 aber	ADV	aber-a
@@ -19407,7 +19407,7 @@ Bereichen	N.Reg.Dat.Pl.Masc	Bereich-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:23" video="https://media.dipintra.it/?id=756&start=03.38&end=03.42&collection=eptic3">
+<s id="756:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.38&end=00.03.42">
 Zunächst	ADV	zunächst-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -19423,7 +19423,7 @@ Hilfe	N.Reg.Gen.Sg.Fem	Hilfe-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:24" video="https://media.dipintra.it/?id=756&start=03.43&end=03.56&collection=eptic3">
+<s id="756:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.43&end=00.03.56">
 Gute	ADJA.Pos.Nom.Sg.Fem	gut-j
 Bewertung	N.Reg.Nom.Sg.Fem	Bewertung-n
 <g/>
@@ -19455,7 +19455,7 @@ Punkt	N.Reg.Nom.Sg.Masc	Punkt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:25" video="https://media.dipintra.it/?id=756&start=03.56&end=04.01&collection=eptic3">
+<s id="756:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.03.56&end=00.04.01">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 jetzt	ADV	jetzt-a
@@ -19470,7 +19470,7 @@ Rechenschaft	N.Reg.Acc.Sg.Fem	Rechenschaft-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:26" video="https://media.dipintra.it/?id=756&start=04.01&end=04.10&collection=eptic3">
+<s id="756:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.01&end=00.04.10">
 Gut	ADJD.Pos	gut-j
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -19500,7 +19500,7 @@ Hilfe	N.Reg.Dat.Sg.Fem	Hilfe-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:27" video="https://media.dipintra.it/?id=756&start=04.10&end=04.17&collection=eptic3">
+<s id="756:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.10&end=00.04.17">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 wollen	VFIN.Mod.1.Pl.Pres.Ind	wollen-v
 nämlich	ADV	nämlich-a
@@ -19525,7 +19525,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:28" video="https://media.dipintra.it/?id=756&start=04.17&end=04.37&collection=eptic3">
+<s id="756:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.17&end=00.04.37">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 überprüfen	VFIN.Full.1.Pl.Pres.Ind	überprüfen-v
 ein	ART.Indef.Acc.Sg.Neut	eine-x
@@ -19573,7 +19573,7 @@ vertreten	VPP.Full.Psp	vertreten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:29" video="https://media.dipintra.it/?id=756&start=04.37&end=04.45&collection=eptic3">
+<s id="756:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.37&end=00.04.45">
 Im	APPRART.Dat.Sg.Neut	in-i
 Jemen	N.Name.Dat.Sg.Neut	Jemen-n
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
@@ -19590,7 +19590,7 @@ eröffnet	VPP.Full.Psp	eröffnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:30" video="https://media.dipintra.it/?id=756&start=04.45&end=04.47&collection=eptic3">
+<s id="756:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.45&end=00.04.47">
 Da	ADV	da-a
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -19601,7 +19601,7 @@ durchschnitten	VPP.Full.Psp	durchschneiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:31" video="https://media.dipintra.it/?id=756&start=04.47&end=04.49&collection=eptic3">
+<s id="756:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.47&end=00.04.49">
 Dann	ADV	dann-a
 ehm	FPAUSE	ehm
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -19610,7 +19610,7 @@ Bereich	N.Reg.Nom.Sg.Masc	Bereich-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:32" video="https://media.dipintra.it/?id=756&start=04.49&end=04.56&collection=eptic3">
+<s id="756:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.49&end=00.04.56">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 um	APPR	um-i
@@ -19622,7 +19622,7 @@ Stimme	N.Reg.Gen.Sg.Fem	Stimme-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:33" video="https://media.dipintra.it/?id=756&start=04.56&end=05.24&collection=eptic3">
+<s id="756:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.04.56&end=00.05.24">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 der	ART.Def.Nom.Sg.Masc	die-x
@@ -19707,7 +19707,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:34" video="https://media.dipintra.it/?id=756&start=05.24&end=05.27&collection=eptic3">
+<s id="756:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.05.24&end=00.05.27">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 um	APPR	um-i
@@ -19720,7 +19720,7 @@ Wahrung	N.Reg.Acc.Sg.Fem	Wahrung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:35" video="https://media.dipintra.it/?id=756&start=05.27&end=05.31&collection=eptic3">
+<s id="756:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.05.27&end=00.05.31">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 so	ADV	so-a
@@ -19739,7 +19739,7 @@ würden	VFIN.Aux.3.Pl.Past.Subj	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:36" video="https://media.dipintra.it/?id=756&start=05.31&end=05.47&collection=eptic3">
+<s id="756:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.05.31&end=00.05.47">
 Abschließend	ADJD.Pos	abschließend-j
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -19782,7 +19782,7 @@ Thema	N.Reg.Dat.Sg.Neut	Thema-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:37" video="https://media.dipintra.it/?id=756&start=05.47&end=05.48&collection=eptic3">
+<s id="756:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.05.47&end=00.05.48">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Welt	N.Reg.Nom.Sg.Fem	Welt-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -19791,7 +19791,7 @@ verändert	VPP.Full.Psp	verändern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="756:38" video="https://media.dipintra.it/?id=756&start=05.50&end=06.10&collection=eptic3">
+<s id="756:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=756.wmv&start=00.05.50&end=00.06.10">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 leider	ADV	leider-a
@@ -19864,7 +19864,7 @@ Welt	N.Reg.Dat.Sg.Fem	Welt-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="DE10" gender="F" native="NA">
-<s id="757:1" video="https://media.dipintra.it/?id=757&start=00.08&end=00.19&collection=eptic3">
+<s id="757:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.00.08&end=00.00.19">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -19910,7 +19910,7 @@ Schattenberichterstattern	N.Reg.Dat.Pl.Masc	Schattenberichterstatter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:2" video="https://media.dipintra.it/?id=757&start=00.19&end=00.39&collection=eptic3">
+<s id="757:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.00.19&end=00.00.39">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -19986,7 +19986,7 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:3" video="https://media.dipintra.it/?id=757&start=00.39&end=00.47&collection=eptic3">
+<s id="757:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.00.39&end=00.00.47">
 Dieser	PRO.Dem.Attr.Nom.Sg.Masc	diese-p
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -20016,7 +20016,7 @@ Agrarpolitik	N.Reg.Gen.Sg.Fem	Agrarpolitik-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:4" video="https://media.dipintra.it/?id=757&start=00.47&end=00.59&collection=eptic3">
+<s id="757:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.00.47&end=00.00.59">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 da	ADV	da-a
@@ -20068,7 +20068,7 @@ klein	ADJD.Pos	klein-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:5" video="https://media.dipintra.it/?id=757&start=00.59&end=01.00&collection=eptic3">
+<s id="757:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.00.59&end=00.01.00">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
@@ -20079,7 +20079,7 @@ Argument	N.Reg.Nom.Sg.Neut	Argument-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:6" video="https://media.dipintra.it/?id=757&start=01.00&end=01.05&collection=eptic3">
+<s id="757:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.00&end=00.01.05">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -20093,7 +20093,7 @@ Nahrungsmittelsicherheit	N.Reg.Gen.Sg.Fem	Nahrungsmittelsicherheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:7" video="https://media.dipintra.it/?id=757&start=01.06&end=01.09&collection=eptic3">
+<s id="757:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.06&end=00.01.09">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 hier	ADV	hier-a
@@ -20104,7 +20104,7 @@ vorbeugen	VINF.Full	vorbeugen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:8" video="https://media.dipintra.it/?id=757&start=01.09&end=01.11&collection=eptic3">
+<s id="757:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.09&end=00.01.11">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 noch	ADV	noch-a
@@ -20114,7 +20114,7 @@ Antworten	N.Reg.Acc.Pl.Fem	Antwort-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:9" video="https://media.dipintra.it/?id=757&start=01.11&end=01.15&collection=eptic3">
+<s id="757:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.11&end=00.01.15">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Schlüsselproblem	N.Reg.Nom.Sg.Neut	Schlüsselproblem-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -20127,7 +20127,7 @@ Landwirte	N.Reg.Acc.Pl.Masc	Landwirt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:10" video="https://media.dipintra.it/?id=757&start=01.15&end=01.18&collection=eptic3">
+<s id="757:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.15&end=00.01.18">
 Junge	ADJA.Pos.Nom.Pl.Masc	jung-j
 Landwirte	N.Reg.Nom.Pl.Masc	Landwirt-n
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
@@ -20140,7 +20140,7 @@ wollen	VINF.Mod	wollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="757:11" video="https://media.dipintra.it/?id=757&start=01.18&end=01.25&collection=eptic3">
+<s id="757:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=757.wmv&start=00.01.18&end=00.01.25">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -20173,7 +20173,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="758:1" video="https://media.dipintra.it/?id=758&start=00.12&end=00.20&collection=eptic3">
+<s id="758:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=758.wmv&start=00.00.12&end=00.00.20">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 und	CONJ.Coord	und-c
@@ -20203,7 +20203,7 @@ Bericht	N.Reg.Dat.Sg.Masc	Bericht-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="758:2" video="https://media.dipintra.it/?id=758&start=00.22&end=00.38&collection=eptic3">
+<s id="758:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=758.wmv&start=00.00.22&end=00.00.38">
 Ehm	FPAUSE	ehm
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
@@ -20257,7 +20257,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="758:3" video="https://media.dipintra.it/?id=758&start=00.38&end=00.46&collection=eptic3">
+<s id="758:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=758.wmv&start=00.00.38&end=00.00.46">
 Dann	ADV	dann-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -20286,7 +20286,7 @@ einzusteigen	VINF.Full.zu	einsteigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="758:4" video="https://media.dipintra.it/?id=758&start=00.46&end=00.47&collection=eptic3">
+<s id="758:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=758.wmv&start=00.00.46&end=00.00.47">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nämlich	ADV	nämlich-a
@@ -20294,7 +20294,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="758:5" video="https://media.dipintra.it/?id=758&start=00.47&end=01.10&collection=eptic3">
+<s id="758:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=758.wmv&start=00.00.47&end=00.01.10">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x
@@ -20357,7 +20357,7 @@ bleiben	VINF.Full	bleiben-v
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="DE12" gender="F" native="NA">
-<s id="759:1" video="https://media.dipintra.it/?id=759&start=00.08&end=00.17&collection=eptic3">
+<s id="759:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=759.wmv&start=00.00.08&end=00.00.17">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 noch	ADV	noch-a
@@ -20385,7 +20385,7 @@ Roma	N.Reg.Acc.Pl.*	Roma-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="759:2" video="https://media.dipintra.it/?id=759&start=00.17&end=00.39&collection=eptic3">
+<s id="759:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=759.wmv&start=00.00.17&end=00.00.39">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 über	APPR	über-i
@@ -20456,7 +20456,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="759:3" video="https://media.dipintra.it/?id=759&start=00.39&end=01.02&collection=eptic3">
+<s id="759:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=759.wmv&start=00.00.39&end=00.01.02">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p
@@ -20547,7 +20547,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="759:4" video="https://media.dipintra.it/?id=759&start=01.02&end=01.03&collection=eptic3">
+<s id="759:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=759.wmv&start=00.01.02&end=00.01.03">
 Herzlichen	ADJA.Pos.Acc.Sg.Masc	herzlich-j
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -20561,7 +20561,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="433" duration="medium" durations="234.0" speed="slow" speedwm="111.0" delivery="read">
 <interpreter id="DE11" gender="F" native="NA">
-<s id="760:1" video="https://media.dipintra.it/?id=760&start=00.09&end=00.11&collection=eptic3">
+<s id="760:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.09&end=00.00.11">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -20569,7 +20569,7 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:2" video="https://media.dipintra.it/?id=760&start=00.11&end=00.19&collection=eptic3">
+<s id="760:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.11&end=00.00.19">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 begrüßt	VFIN.Full.3.Sg.Pres.Ind	begrüßen-v
@@ -20592,7 +20592,7 @@ ansteigen	VFIN.Full.3.Pl.Pres.Ind	ansteigen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:3" video="https://media.dipintra.it/?id=760&start=00.19&end=00.28&collection=eptic3">
+<s id="760:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.19&end=00.00.28">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 auch	ADV	auch-a
@@ -20619,7 +20619,7 @@ Lebensmitteln	N.Reg.Dat.Pl.Neut	Lebensmittel-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:4" video="https://media.dipintra.it/?id=760&start=00.28&end=00.38&collection=eptic3">
+<s id="760:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.28&end=00.00.38">
 Deshalb	PROADV.Dem	deshalb-x
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -20655,7 +20655,7 @@ Bemühungen	N.Reg.Acc.Pl.Fem	Bemühung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:5" video="https://media.dipintra.it/?id=760&start=00.38&end=00.54&collection=eptic3">
+<s id="760:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.38&end=00.00.54">
 La-	DYSF	La-
 Nahrungsmittelsicherheit	N.Reg.Nom.Sg.Fem	Nahrungsmittelsicherheit-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -20698,7 +20698,7 @@ Europa	N.Name.Dat.Sg.Neut	Europa-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:6" video="https://media.dipintra.it/?id=760&start=00.54&end=00.58&collection=eptic3">
+<s id="760:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.54&end=00.00.58">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Gemeinsame	ADJA.Pos.Nom.Sg.Fem	gemeinsam-j
 Agrarpolitik	N.Reg.Nom.Sg.Fem	Agrarpolitik-n
@@ -20710,7 +20710,7 @@ dar	PART.Verb	dar-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:7" video="https://media.dipintra.it/?id=760&start=00.59&end=01.11&collection=eptic3">
+<s id="760:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.00.59&end=00.01.11">
 Sie	PRO.Pers.Subst.3.Nom.Sg.Fem	sie-p
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 manchmal	ADV	manchmal-a
@@ -20747,7 +20747,7 @@ gesorgt	VPP.Full.Psp	sorgen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:8" video="https://media.dipintra.it/?id=760&start=01.11&end=01.13&collection=eptic3">
+<s id="760:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.11&end=00.01.13">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 auch	ADV	auch-a
@@ -20756,7 +20756,7 @@ fortsetzen	VINF.Full	fortsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:9" video="https://media.dipintra.it/?id=760&start=01.13&end=01.23&collection=eptic3">
+<s id="760:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.13&end=00.01.23">
 Nahrungsmittelsicherheit	N.Reg.Nom.Sg.Fem	Nahrungsmittelsicherheit-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 identifiziert	VPP.Full.Psp	identifizieren-v
@@ -20777,13 +20777,13 @@ Gemeinsamen	ADJA.Pos.Dat.Sg.Fem	gemeinsam-j
 Agrarpolitik	N.Reg.Dat.Sg.Fem	Agrarpolitik-n
 2020.	CARD	[number]-m
 </s>
-<s id="760:10" video="https://media.dipintra.it/?id=760&start=01.23&end=01.24&collection=eptic3">
+<s id="760:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.23&end=00.01.24">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 am	APPRART.Dat.Sg.Masc	an-i
 18.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="760:11" video="https://media.dipintra.it/?id=760&start=01.24&end=01.26&collection=eptic3">
+<s id="760:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.24&end=00.01.26">
 November	N.Reg.Nom.Sg.Masc	November-n
 von	APPR	von-i
 der	ART.Def.Dat.Sg.Fem	die-x
@@ -20793,7 +20793,7 @@ worden	VPP.Aux.Psp	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:12" video="https://media.dipintra.it/?id=760&start=01.26&end=01.42&collection=eptic3">
+<s id="760:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.26&end=00.01.42">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 <g/>
@@ -20822,7 +20822,7 @@ Nahrungsmittelsicherheit	N.Reg.Dat.Sg.Fem	Nahrungsmittelsicherheit-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:13" video="https://media.dipintra.it/?id=760&start=01.42&end=01.46&collection=eptic3">
+<s id="760:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.42&end=00.01.46">
 Hier	ADV	hier-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -20837,7 +20837,7 @@ Verbraucher	N.Reg.Acc.Pl.Masc	Verbraucher-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:14" video="https://media.dipintra.it/?id=760&start=01.46&end=01.51&collection=eptic3">
+<s id="760:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.46&end=00.01.51">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 hier	ADV	hier-a
@@ -20852,7 +20852,7 @@ bekommen	VINF.Full	bekommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:15" video="https://media.dipintra.it/?id=760&start=01.51&end=01.59&collection=eptic3">
+<s id="760:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.51&end=00.01.59">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
 bessere	ADJA.Comp.Acc.Pl.Fem	gut-j
@@ -20875,7 +20875,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:16" video="https://media.dipintra.it/?id=760&start=01.59&end=02.06&collection=eptic3">
+<s id="760:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.01.59&end=00.02.06">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 ja	ADV	ja-a
@@ -20903,7 +20903,7 @@ allgemein	ADJD.Pos	allgemein-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:17" video="https://media.dipintra.it/?id=760&start=02.06&end=02.11&collection=eptic3">
+<s id="760:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.02.06&end=00.02.11">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Bericht	N.Reg.Nom.Sg.Masc	Bericht-n
 empfiehlt	VFIN.Full.3.Sg.Pres.Ind	empfehlen-v
@@ -20915,7 +20915,7 @@ Nahrungsmittelsystems	N.Reg.Gen.Sg.Neut	Nahrungsmittelsystem-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:18" video="https://media.dipintra.it/?id=760&start=02.11&end=02.13&collection=eptic3">
+<s id="760:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.02.11&end=00.02.13">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 natürlich	ADV	natürlich-a
@@ -20924,7 +20924,7 @@ einfach	ADJD.Pos	einfach-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:19" video="https://media.dipintra.it/?id=760&start=02.13&end=02.21&collection=eptic3">
+<s id="760:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.02.13&end=00.02.21">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hatten	VFIN.Aux.1.Pl.Past.Ind	haben-v
 da	ADV	da-a
@@ -20952,7 +20952,7 @@ gewesen	VPP.Aux.Psp	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:20" video="https://media.dipintra.it/?id=760&start=02.21&end=02.56&collection=eptic3">
+<s id="760:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.02.21&end=00.02.56">
 Deshalb	PROADV.Dem	deshalb-x
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
@@ -21060,7 +21060,7 @@ können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:21" video="https://media.dipintra.it/?id=760&start=02.56&end=03.13&collection=eptic3">
+<s id="760:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.02.56&end=00.03.13">
 All	PRO.Indef.Attr.*.*.*	all-p
 diese	PRO.Dem.Attr.Nom.Pl.Fem	diese-p
 Bemühungen	N.Reg.Nom.Pl.Fem	Bemühung-n
@@ -21116,7 +21116,7 @@ Wochen	N.Reg.Dat.Pl.Fem	Woche-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:22" video="https://media.dipintra.it/?id=760&start=03.14&end=03.32&collection=eptic3">
+<s id="760:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.03.14&end=00.03.32">
 Abschließend	ADJD.Pos	abschließend-j
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -21160,7 +21160,7 @@ Europäer	N.Reg.Acc.Pl.Masc	Europäer-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:23" video="https://media.dipintra.it/?id=760&start=03.32&end=03.40&collection=eptic3">
+<s id="760:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.03.32&end=00.03.40">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 hier	ADV	hier-a
@@ -21187,7 +21187,7 @@ haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:24" video="https://media.dipintra.it/?id=760&start=03.40&end=03.42&collection=eptic3">
+<s id="760:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.03.40&end=00.03.42">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 stimmt	VFIN.Full.3.Sg.Pres.Ind	stimmen-v
@@ -21198,7 +21198,7 @@ zu	PART.Verb	zu-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:25" video="https://media.dipintra.it/?id=760&start=03.42&end=04.04&collection=eptic3">
+<s id="760:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.03.42&end=00.04.04">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 keinen	PRO.Indef.Attr.Acc.Sg.Masc	keine-p
@@ -21259,7 +21259,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="760:26" video="https://media.dipintra.it/?id=760&start=04.04&end=04.04&collection=eptic3">
+<s id="760:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=760.wmv&start=00.04.04&end=00.04.04">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -21273,7 +21273,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="DE07" gender="F" native="NA">
-<s id="761:1" video="https://media.dipintra.it/?id=761&start=00.11&end=00.21&collection=eptic3">
+<s id="761:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=761.wmv&start=00.00.11&end=00.00.21">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -21307,7 +21307,7 @@ Ungarns	N.Name.Gen.Sg.Neut	Ungarn-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="761:2" video="https://media.dipintra.it/?id=761&start=00.23&end=00.34&collection=eptic3">
+<s id="761:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=761.wmv&start=00.00.23&end=00.00.34">
 Sehr	ADV	sehr-a
 geehrte	ADJA.Pos.Nom.Pl.Masc	geehrt-j
 Parlamentarier	N.Reg.Nom.Pl.Masc	Parlamentarier-n
@@ -21336,7 +21336,7 @@ sein	VINF.Aux	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="761:3" video="https://media.dipintra.it/?id=761&start=00.34&end=00.43&collection=eptic3">
+<s id="761:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=761.wmv&start=00.00.34&end=00.00.43">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 mit	APPR	mit-i
@@ -21363,7 +21363,7 @@ Erwartungen	N.Reg.Acc.Pl.Fem	Erwartung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="761:4" video="https://media.dipintra.it/?id=761&start=00.43&end=00.46&collection=eptic3">
+<s id="761:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=761.wmv&start=00.00.43&end=00.00.46">
 Jetzt	ADV	jetzt-a
 spreche	VFIN.Full.1.Sg.Pres.Ind	sprechen-v
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
@@ -21379,7 +21379,7 @@ ungarisch	ADJD.Pos	ungarisch-j
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="DE18" gender="F" native="NA">
-<s id="762:1" video="https://media.dipintra.it/?id=762&start=00.09&end=00.11&collection=eptic3">
+<s id="762:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.00.09&end=00.00.11">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Frau	N.Reg.Acc.Sg.Fem	Frau-n
@@ -21387,7 +21387,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:2" video="https://media.dipintra.it/?id=762&start=00.11&end=00.27&collection=eptic3">
+<s id="762:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.00.11&end=00.00.27">
 Verehrte	ADJA.Pos.Nom.Pl.Masc	verehrt-j
 Abgeordnete	N.Reg.Nom.Pl.Masc	Abgeordnete-n
 des	ART.Def.Gen.Sg.Neut	die-x
@@ -21422,7 +21422,7 @@ Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:3" video="https://media.dipintra.it/?id=762&start=00.28&end=00.41&collection=eptic3">
+<s id="762:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.00.28&end=00.00.41">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 auch	ADV	auch-a
@@ -21450,7 +21450,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:4" video="https://media.dipintra.it/?id=762&start=00.42&end=00.48&collection=eptic3">
+<s id="762:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.00.42&end=00.00.48">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Stabilisierungs-	DYSF	Stabilisierungs-
 und	CONJ.Coord	und-c
@@ -21471,7 +21471,7 @@ Union	N.Reg.Dat.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:5" video="https://media.dipintra.it/?id=762&start=00.49&end=01.13&collection=eptic3">
+<s id="762:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.00.49&end=00.01.13">
 Das	ART.Def.Nom.Sg.Neut	die-x
 grundlegende	ADJA.Pos.Nom.Sg.Neut	grundlegend-j
 Ziel	N.Reg.Nom.Sg.Neut	Ziel-n
@@ -21536,7 +21536,7 @@ fördern	VINF.Full	fördern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:6" video="https://media.dipintra.it/?id=762&start=01.15&end=01.48&collection=eptic3">
+<s id="762:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.01.15&end=00.01.48">
 Ein	ART.Indef.Nom.Sg.Neut	eine-x
 Stabilisierungs-	DYSF	Stabilisierungs-
 und	CONJ.Coord	und-c
@@ -21607,7 +21607,7 @@ Ausschuss	N.Reg.Nom.Sg.Masc	Ausschuss-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:7" video="https://media.dipintra.it/?id=762&start=01.50&end=02.05&collection=eptic3">
+<s id="762:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.01.50&end=00.02.05">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 dabei	PROADV.Dem	dabei-x
@@ -21649,7 +21649,7 @@ bringen	VINF.Full	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:8" video="https://media.dipintra.it/?id=762&start=02.06&end=02.25&collection=eptic3">
+<s id="762:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.02.06&end=00.02.25">
 Genauso	ADV	genauso-a
 wie	CONJ.Comp	wie-c
 in	APPR	in-i
@@ -21708,7 +21708,7 @@ schaffen	VINF.Full	schaffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:9" video="https://media.dipintra.it/?id=762&start=02.27&end=02.32&collection=eptic3">
+<s id="762:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.02.27&end=00.02.32">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Vorteile	N.Reg.Nom.Pl.Masc	Vorteil-n
 für	APPR	für-i
@@ -21724,7 +21724,7 @@ wichtig	ADJD.Pos	wichtig-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:10" video="https://media.dipintra.it/?id=762&start=02.33&end=02.40&collection=eptic3">
+<s id="762:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.02.33&end=00.02.40">
 Die	ART.Def.Nom.Pl.Masc	die-x
 Märkte	N.Reg.Nom.Pl.Masc	Markt-n
 Serbiens	N.Name.Gen.Sg.Neut	Serbien-n
@@ -21749,7 +21749,7 @@ Zölle	N.Reg.Acc.Pl.Masc	Zoll-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:11" video="https://media.dipintra.it/?id=762&start=02.40&end=02.49&collection=eptic3">
+<s id="762:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.02.40&end=00.02.49">
 Die	PRO.Dem.Subst.Nom.Pl.*	die-p
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 jetzt	ADV	jetzt-a
@@ -21773,7 +21773,7 @@ Produkten	N.Reg.Dat.Pl.Neut	Produkt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:12" video="https://media.dipintra.it/?id=762&start=02.49&end=03.03&collection=eptic3">
+<s id="762:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.02.49&end=00.03.03">
 Außerdem	PROADV.Dem	außerdem-x
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 schrittweise	ADJD.Pos	schrittweise-j
@@ -21796,7 +21796,7 @@ stabiler	ADJD.Comp	stabil-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:13" video="https://media.dipintra.it/?id=762&start=03.04&end=03.08&collection=eptic3">
+<s id="762:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.04&end=00.03.08">
 Die	ART.Def.Nom.Pl.Fem	die-x
 Bestimmungen	N.Reg.Nom.Pl.Fem	Bestimmung-n
 für	APPR	für-i
@@ -21809,7 +21809,7 @@ angepasst	ADJD.Pos	angepasst-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:14" video="https://media.dipintra.it/?id=762&start=03.08&end=03.24&collection=eptic3">
+<s id="762:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.08&end=00.03.24">
 Das	ART.Def.Nom.Sg.Neut	die-x
 geistige	ADJA.Pos.Nom.Sg.Neut	geistig-j
 Eigentum	N.Reg.Nom.Sg.Neut	Eigentum-n
@@ -21841,7 +21841,7 @@ geöffnet	VPP.Full.Psp	öffnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:15" video="https://media.dipintra.it/?id=762&start=03.26&end=03.30&collection=eptic3">
+<s id="762:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.26&end=00.03.30">
 Engere	ADJA.Comp.Nom.Pl.Fem	eng-j
 Beziehungen	N.Reg.Nom.Pl.Fem	Beziehung-n
 zu	APPR	zu-i
@@ -21861,7 +21861,7 @@ Union	N.Reg.Acc.Sg.Fem	Union-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:16" video="https://media.dipintra.it/?id=762&start=03.30&end=03.39&collection=eptic3">
+<s id="762:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.30&end=00.03.39">
 Insbesondere	ADV	insbesondere-a
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -21878,7 +21878,7 @@ erhöht	VPP.Full.Psp	erhöhen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:17" video="https://media.dipintra.it/?id=762&start=03.39&end=03.47&collection=eptic3">
+<s id="762:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.39&end=00.03.47">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 auch	ADV	auch-a
@@ -21903,7 +21903,7 @@ erwähnen	VINF.Full	erwähnen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:18" video="https://media.dipintra.it/?id=762&start=03.47&end=04.06&collection=eptic3">
+<s id="762:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.03.47&end=00.04.06">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 heißt	VFIN.Full.3.Sg.Pres.Ind	heißen-v
 <g/>
@@ -21954,7 +21954,7 @@ Interimsabkommens	N.Reg.Gen.Sg.Neut	Interimsabkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:19" video="https://media.dipintra.it/?id=762&start=04.06&end=04.18&collection=eptic3">
+<s id="762:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.04.06&end=00.04.18">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 offiziell	ADJD.Pos	offiziell-j
@@ -21985,7 +21985,7 @@ anzuwenden	VINF.Full.zu	anwenden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:20" video="https://media.dipintra.it/?id=762&start=04.19&end=04.33&collection=eptic3">
+<s id="762:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.04.19&end=00.04.33">
 Somit	ADV	somit-a
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
@@ -22024,11 +22024,11 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:21" video="https://media.dipintra.it/?id=762&start=04.33&end=04.34&collection=eptic3">
+<s id="762:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.04.33&end=00.04.34">
 Am	APPRART.Dat.Sg.Masc	an-i
 14.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="762:22" video="https://media.dipintra.it/?id=762&start=04.34&end=04.41&collection=eptic3">
+<s id="762:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.04.34&end=00.04.41">
 Juni	N.Reg.*.Sg.Masc	Juni-n
 2010	CARD	[number]-m
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -22048,7 +22048,7 @@ lassen	VINF.Full	lassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:23" video="https://media.dipintra.it/?id=762&start=04.41&end=05.05&collection=eptic3">
+<s id="762:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.04.41&end=00.05.05">
 Neun	CARD	neun-m
 Mitgliedstaaten	N.Reg.Nom.Pl.Masc	Mitgliedstaat-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -22115,7 +22115,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:24" video="https://media.dipintra.it/?id=762&start=05.05&end=05.17&collection=eptic3">
+<s id="762:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.05.05&end=00.05.17">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
@@ -22143,7 +22143,7 @@ eingehen	VINF.Full	eingehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:25" video="https://media.dipintra.it/?id=762&start=05.19&end=05.26&collection=eptic3">
+<s id="762:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.05.19&end=00.05.26">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -22166,7 +22166,7 @@ dankbar	ADJD.Pos	dankbar-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:26" video="https://media.dipintra.it/?id=762&start=05.26&end=05.45&collection=eptic3">
+<s id="762:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.05.26&end=00.05.45">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entschließung	N.Reg.Nom.Sg.Fem	Entschließung-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -22206,7 +22206,7 @@ anbelangt	VPP.Full.Psp	anbelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:27" video="https://media.dipintra.it/?id=762&start=05.45&end=05.53&collection=eptic3">
+<s id="762:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.05.45&end=00.05.53">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 kommt	VFIN.Full.3.Sg.Pres.Ind	kommen-v
 genau	ADJD.Pos	genau-j
@@ -22226,7 +22226,7 @@ Serbiens	N.Name.Gen.Sg.Neut	Serbien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:28" video="https://media.dipintra.it/?id=762&start=05.53&end=06.03&collection=eptic3">
+<s id="762:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.05.53&end=00.06.03">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 war	VFIN.Aux.1.Sg.Past.Ind	sein-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -22250,7 +22250,7 @@ Stellvertreter	N.Reg.Acc.Sg.Masc	Stellvertreter-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:29" video="https://media.dipintra.it/?id=762&start=06.04&end=06.10&collection=eptic3">
+<s id="762:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.06.04&end=00.06.10">
 Die	ART.Def.Nom.Pl.Fem	die-x
 serbischen	ADJA.Pos.Nom.Pl.Fem	serbisch-j
 Behörden	N.Reg.Nom.Pl.Fem	Behörde-n
@@ -22262,7 +22262,7 @@ Antworten	N.Reg.Dat.Pl.Fem	Antwort-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:30" video="https://media.dipintra.it/?id=762&start=06.10&end=06.21&collection=eptic3">
+<s id="762:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.06.10&end=00.06.21">
 Im	APPRART.Dat.Sg.Masc	in-i
 Augenblick	N.Reg.Dat.Sg.Masc	Augenblick-n
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -22289,7 +22289,7 @@ Aktionsplans	N.Reg.Gen.Sg.Masc	Aktionsplan-n
 am	APPRART.Dat.Sg.Masc	an-i
 30.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="762:31" video="https://media.dipintra.it/?id=762&start=06.21&end=06.27&collection=eptic3">
+<s id="762:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.06.21&end=00.06.27">
 Dezember	N.Reg.Nom.Sg.Masc	Dezember-n
 als	APPR	als-i
 Follow-up	N.Reg.Nom.Sg.Masc	Follow-up-n
@@ -22302,7 +22302,7 @@ ermutigend	ADJD.Pos	ermutigend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:32" video="https://media.dipintra.it/?id=762&start=06.27&end=06.46&collection=eptic3">
+<s id="762:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.06.27&end=00.06.46">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 uns	PRO.Refl.Subst.1.Acc.Pl.*	sie-p
@@ -22355,7 +22355,7 @@ können	VINF.Mod	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:33" video="https://media.dipintra.it/?id=762&start=06.46&end=06.59&collection=eptic3">
+<s id="762:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.06.46&end=00.06.59">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
@@ -22398,7 +22398,7 @@ Chancen	N.Reg.Dat.Pl.Fem	Chance-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:34" video="https://media.dipintra.it/?id=762&start=07.00&end=07.03&collection=eptic3">
+<s id="762:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.07.00&end=00.07.03">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Weg	N.Reg.Nom.Sg.Masc	Weg-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -22412,7 +22412,7 @@ klar	ADJD.Pos	klar-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:35" video="https://media.dipintra.it/?id=762&start=07.04&end=07.18&collection=eptic3">
+<s id="762:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.07.04&end=00.07.18">
 Jetzt	ADV	jetzt-a
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -22450,7 +22450,7 @@ fortzusetzen	VINF.Full.zu	fortsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="762:36" video="https://media.dipintra.it/?id=762&start=07.18&end=07.43&collection=eptic3">
+<s id="762:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=762.wmv&start=00.07.18&end=00.07.43">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 mir	PRO.Refl.Subst.1.Dat.Sg.*	sie-p
@@ -22539,7 +22539,7 @@ Danke	PART.Ans	Danke-x
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="763:1" video="https://media.dipintra.it/?id=763&start=00.09&end=00.10&collection=eptic3">
+<s id="763:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.09&end=00.00.10">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Frau	N.Reg.Acc.Sg.Fem	Frau-n
@@ -22547,7 +22547,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:2" video="https://media.dipintra.it/?id=763&start=00.10&end=00.15&collection=eptic3">
+<s id="763:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.10&end=00.00.15">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 <g/>
@@ -22564,7 +22564,7 @@ hervorragend	ADJD.Pos	hervorragend-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:3" video="https://media.dipintra.it/?id=763&start=00.15&end=00.18&collection=eptic3">
+<s id="763:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.15&end=00.00.18">
 Glückwünsch	ADJD.Pos	Glückwünsch-j
 an	APPR	an-i
 dem	ART.Def.Dat.Sg.Masc	die-x
@@ -22576,7 +22576,7 @@ Kacin	N.Name.Nom.Sg.Masc	Kacin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:4" video="https://media.dipintra.it/?id=763&start=00.18&end=00.27&collection=eptic3">
+<s id="763:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.18&end=00.00.27">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 scheint	VFIN.Full.3.Sg.Pres.Ind	scheinen-v
 mir	PRO.Pers.Subst.1.Dat.Sg.*	sie-p
@@ -22596,7 +22596,7 @@ Land	N.Reg.Acc.Sg.Neut	Land-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:5" video="https://media.dipintra.it/?id=763&start=00.27&end=00.32&collection=eptic3">
+<s id="763:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.27&end=00.00.32">
 Die	ART.Def.Nom.Pl.*	die-x
 meisten	PRO.Indef.Subst.Nom.Pl.*	meiste-p
 sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
@@ -22614,7 +22614,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:6" video="https://media.dipintra.it/?id=763&start=00.32&end=00.37&collection=eptic3">
+<s id="763:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.32&end=00.00.37">
 Diese	PRO.Dem.Attr.Nom.Sg.Fem	diese-p
 Entschließung	N.Reg.Nom.Sg.Fem	Entschließung-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
@@ -22631,7 +22631,7 @@ Jahrzehnten	N.Reg.Dat.Pl.Neut	Jahrzehnt-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:7" video="https://media.dipintra.it/?id=763&start=00.37&end=00.53&collection=eptic3">
+<s id="763:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.37&end=00.00.53">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -22677,14 +22677,14 @@ Flüchtlinge	N.Reg.Nom.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:8" video="https://media.dipintra.it/?id=763&start=00.53&end=00.54&collection=eptic3">
+<s id="763:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.53&end=00.00.54">
 Eine	ART.Indef.Nom.Sg.Fem	eine-x
 dramatische	ADJA.Pos.Nom.Sg.Fem	dramatisch-j
 Geschichte	N.Reg.Nom.Sg.Fem	Geschichte-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:9" video="https://media.dipintra.it/?id=763&start=00.54&end=01.03&collection=eptic3">
+<s id="763:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.00.54&end=00.01.03">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Entscheidung	N.Reg.Nom.Sg.Fem	Entscheidung-n
 für	APPR	für-i
@@ -22710,7 +22710,7 @@ möchte	VFIN.Mod.3.Sg.Past.Subj	mögen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:10" video="https://media.dipintra.it/?id=763&start=01.03&end=01.17&collection=eptic3">
+<s id="763:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.01.03&end=00.01.17">
 Zwei	CARD	zwei-m
 große	ADJA.Pos.Nom.Pl.Neut	groß-j
 politische	ADJA.Pos.Nom.Pl.Neut	politisch-j
@@ -22743,7 +22743,7 @@ betroffen	VPP.Full.Psp	betreffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:11" video="https://media.dipintra.it/?id=763&start=01.17&end=01.27&collection=eptic3">
+<s id="763:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.01.17&end=00.01.27">
 Mladic	N.Name.Nom.Sg.*	Mladic-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 geschützt	VPP.Full.Psp	schützen-v
@@ -22768,7 +22768,7 @@ schmerzhaft	ADJD.Pos	schmerzhaft-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:12" video="https://media.dipintra.it/?id=763&start=01.27&end=01.43&collection=eptic3">
+<s id="763:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.01.27&end=00.01.43">
 Hinzu	PROADV.Dem	hinzu-x
 kommen	VFIN.Full.3.Pl.Pres.Ind	kommen-v
 verschiedene	ADJA.Pos.Nom.Pl.Masc	verschieden-j
@@ -22810,7 +22810,7 @@ Serbiens	N.Name.Gen.Sg.Neut	Serbien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:13" video="https://media.dipintra.it/?id=763&start=01.46&end=01.52&collection=eptic3">
+<s id="763:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.01.46&end=00.01.52">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 sieht	VFIN.Full.3.Sg.Pres.Ind	sehen-v
 so	ADV	so-a
@@ -22829,7 +22829,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:14" video="https://media.dipintra.it/?id=763&start=01.52&end=02.01&collection=eptic3">
+<s id="763:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.01.52&end=00.02.01">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -22861,7 +22861,7 @@ laufen	VFIN.Full.3.Pl.Pres.Ind	laufen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:15" video="https://media.dipintra.it/?id=763&start=02.01&end=02.11&collection=eptic3">
+<s id="763:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.02.01&end=00.02.11">
 Wenn	CONJ.SubFin	wenn-c
 alles	PRO.Indef.Subst.Nom.Sg.Neut	alle-p
 gut	ADJD.Pos	gut-j
@@ -22880,7 +22880,7 @@ bekommen	VINF.Full	bekommen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="763:16" video="https://media.dipintra.it/?id=763&start=02.11&end=02.14&collection=eptic3">
+<s id="763:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=763.wmv&start=00.02.11&end=00.02.14">
 Alles	PRO.Indef.Subst.Nom.Sg.Neut	alle-p
 weist	VFIN.Full.3.Sg.Pres.Ind	weisen-v
 darauf	PROADV.Dem	darauf-x
@@ -22904,7 +22904,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="764:1" video="https://media.dipintra.it/?id=764&start=00.07&end=00.15&collection=eptic3">
+<s id="764:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.07&end=00.00.15">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Vorsitzende	N.Reg.Nom.Sg.Masc	Vorsitzende-n
 <g/>
@@ -22929,7 +22929,7 @@ deutlich	ADJD.Pos	deutlich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:2" video="https://media.dipintra.it/?id=764&start=00.15&end=00.23&collection=eptic3">
+<s id="764:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.15&end=00.00.23">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 war	VFIN.Aux.1.Sg.Past.Ind	sein-v
 im	APPRART.Dat.Sg.Masc	in-i
@@ -22955,7 +22955,7 @@ Regierung	N.Reg.Gen.Sg.Fem	Regierung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:3" video="https://media.dipintra.it/?id=764&start=00.23&end=00.29&collection=eptic3">
+<s id="764:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.23&end=00.00.29">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 noch	ADV	noch-a
@@ -22975,7 +22975,7 @@ Verbrechens	N.Reg.Gen.Sg.Neut	Verbrechen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:4" video="https://media.dipintra.it/?id=764&start=00.29&end=00.34&collection=eptic3">
+<s id="764:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.29&end=00.00.34">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 hoffen	VFIN.Full.1.Pl.Pres.Ind	hoffen-v
 auch	ADV	auch-a
@@ -22999,7 +22999,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:5" video="https://media.dipintra.it/?id=764&start=00.34&end=00.36&collection=eptic3">
+<s id="764:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.34&end=00.00.36">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -23015,7 +23015,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:6" video="https://media.dipintra.it/?id=764&start=00.38&end=00.53&collection=eptic3">
+<s id="764:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.38&end=00.00.53">
 Trotz	APPR	trotz-i
 der	ART.Def.Gen.Pl.Masc	die-x
 Fortschritte	N.Reg.Gen.Pl.Masc	Fortschritt-n
@@ -23062,7 +23062,7 @@ EU-Entwicklung	N.Reg.Nom.Sg.Fem	EU-Entwicklung-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:7" video="https://media.dipintra.it/?id=764&start=00.53&end=00.58&collection=eptic3">
+<s id="764:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.53&end=00.00.58">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Probleme	N.Reg.Nom.Pl.Neut	Problem-n
 von	APPR	von-i
@@ -23086,7 +23086,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:8" video="https://media.dipintra.it/?id=764&start=00.59&end=01.03&collection=eptic3">
+<s id="764:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.00.59&end=00.01.03">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 da	ADV	da-a
@@ -23108,7 +23108,7 @@ versuchte	VFIN.Full.3.Sg.Past.Ind	versuchen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:9" video="https://media.dipintra.it/?id=764&start=01.03&end=01.04&collection=eptic3">
+<s id="764:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.01.03&end=00.01.04">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 vielleicht	ADV	vielleicht-a
@@ -23120,7 +23120,7 @@ vorne	ADV	vorne-a
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:10" video="https://media.dipintra.it/?id=764&start=01.04&end=01.11&collection=eptic3">
+<s id="764:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.01.04&end=00.01.11">
 Die	ART.Def.Nom.Sg.Fem	die-x
 EU	N.Name.Nom.Sg.Fem	EU-n
 sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
@@ -23139,7 +23139,7 @@ Vertreterin	N.Reg.Dat.Sg.Fem	Vertreterin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:11" video="https://media.dipintra.it/?id=764&start=01.11&end=01.14&collection=eptic3">
+<s id="764:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.01.11&end=00.01.14">
 Man	PRO.Indef.Subst.Nom.Sg.*	man-p
 darf	VFIN.Mod.3.Sg.Pres.Ind	dürfen-v
 nicht	PART.Neg	nicht-x
@@ -23148,7 +23148,7 @@ arbeiten	VINF.Full	arbeiten-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="764:12" video="https://media.dipintra.it/?id=764&start=01.15&end=01.20&collection=eptic3">
+<s id="764:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=764.wmv&start=00.01.15&end=00.01.20">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Kosovo	N.Name.Nom.Sg.Masc	Kosovo-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
@@ -23180,14 +23180,14 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="DE06" gender="F" native="NA">
-<s id="765:1" video="https://media.dipintra.it/?id=765&start=00.09&end=00.10&collection=eptic3">
+<s id="765:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.09&end=00.00.10">
 Danke	N.Reg.Nom.Pl.Masc	Dank-n
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:2" video="https://media.dipintra.it/?id=765&start=00.10&end=00.35&collection=eptic3">
+<s id="765:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.10&end=00.00.35">
 Meine	PRO.Poss.Attr.Nom.Sg.Fem	meine-p
 Damen	N.Reg.Nom.Pl.Fem	Dame-n
 und	CONJ.Coord	und-c
@@ -23254,7 +23254,7 @@ sind	VFIN.Aux.3.Pl.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:3" video="https://media.dipintra.it/?id=765&start=00.35&end=00.47&collection=eptic3">
+<s id="765:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.35&end=00.00.47">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -23286,7 +23286,7 @@ Balkan	N.Name.Dat.Sg.Masc	Balkan-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:4" video="https://media.dipintra.it/?id=765&start=00.47&end=00.49&collection=eptic3">
+<s id="765:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.47&end=00.00.49">
 Hier	ADV	hier-a
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 etwas	ADV	etwas-a
@@ -23295,7 +23295,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:5" video="https://media.dipintra.it/?id=765&start=00.49&end=00.53&collection=eptic3">
+<s id="765:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.49&end=00.00.53">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 brauchen	VFIN.Full.1.Pl.Pres.Ind	brauchen-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -23313,7 +23313,7 @@ Verkehrskorridore	N.Reg.Acc.Pl.Neut	Verkehrskorridore-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:6" video="https://media.dipintra.it/?id=765&start=00.54&end=00.57&collection=eptic3">
+<s id="765:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.54&end=00.00.57">
 Nichts	PRO.Indef.Subst.*.*.Neut	nichts-p
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 geschehen	VINF.Full	geschehen-v
@@ -23326,7 +23326,7 @@ Beitrag	N.Reg.Acc.Sg.Masc	Beitrag-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:7" video="https://media.dipintra.it/?id=765&start=00.58&end=01.10&collection=eptic3">
+<s id="765:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.00.58&end=00.01.10">
 Zweite	ADJA.Pos.Nom.Sg.Fem	zweit-j
 Bemerkung	N.Reg.Nom.Sg.Fem	Bemerkung-n
 <g/>
@@ -23343,7 +23343,7 @@ werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:8" video="https://media.dipintra.it/?id=765&start=01.11&end=01.21&collection=eptic3">
+<s id="765:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.01.11&end=00.01.21">
 Natürlich	ADV	natürlich-a
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
@@ -23364,7 +23364,7 @@ Schuld	N.Reg.Acc.Sg.Fem	Schuld-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:9" video="https://media.dipintra.it/?id=765&start=01.22&end=01.28&collection=eptic3">
+<s id="765:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.01.22&end=00.01.28">
 Das	ART.Def.Nom.Sg.Neut	die-x
 kommende	ADJA.Pos.Nom.Sg.Neut	kommend-j
 Jahr	N.Reg.Nom.Sg.Neut	Jahr-n
@@ -23385,7 +23385,7 @@ Serbien	N.Name.Acc.Sg.Neut	Serbien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:10" video="https://media.dipintra.it/?id=765&start=01.29&end=01.35&collection=eptic3">
+<s id="765:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.01.29&end=00.01.35">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 können	VFIN.Mod.1.Pl.Pres.Ind	können-v
 diesen	PRO.Dem.Subst.Acc.Sg.Masc	diese-p
@@ -23405,7 +23405,7 @@ behandeln	VINF.Full	behandeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="765:11" video="https://media.dipintra.it/?id=765&start=01.35&end=01.48&collection=eptic3">
+<s id="765:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=765.wmv&start=00.01.35&end=00.01.48">
 Nur	ADV	nur-a
 dann	ADV	dann-a
 kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
@@ -23451,7 +23451,7 @@ Beitrag	N.Reg.Nom.Sg.Masc	Beitrag-n
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="DE08" gender="F" native="NA">
-<s id="766:1" video="https://media.dipintra.it/?id=766&start=00.10&end=00.11&collection=eptic3">
+<s id="766:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.00.10&end=00.00.11">
 Vielen	PRO.Indef.Subst.Nom.Pl.*	viele-p
 Dank	APPR	dank-i
 Frau	N.Reg.Gen.Sg.Fem	Frau-n
@@ -23459,7 +23459,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:2" video="https://media.dipintra.it/?id=766&start=00.11&end=00.34&collection=eptic3">
+<s id="766:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.00.11&end=00.00.34">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 einverstanden	ADJD.Pos	einverstanden-j
@@ -23518,7 +23518,7 @@ Frieden	N.Reg.Acc.Sg.Masc	Frieden-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:3" video="https://media.dipintra.it/?id=766&start=00.34&end=00.45&collection=eptic3">
+<s id="766:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.00.34&end=00.00.45">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 unterstütze	VFIN.Full.1.Sg.Pres.Ind	unterstützen-v
 das	ART.Def.Acc.Sg.Neut	die-x
@@ -23552,7 +23552,7 @@ war	VFIN.Aux.1.Sg.Past.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:4" video="https://media.dipintra.it/?id=766&start=00.45&end=00.57&collection=eptic3">
+<s id="766:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.00.45&end=00.00.57">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 auch	ADV	auch-a
@@ -23589,7 +23589,7 @@ Jahr	N.Reg.Dat.Sg.Neut	Jahr-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:5" video="https://media.dipintra.it/?id=766&start=00.57&end=01.06&collection=eptic3">
+<s id="766:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.00.57&end=00.01.06">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -23617,7 +23617,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:6" video="https://media.dipintra.it/?id=766&start=01.06&end=01.10&collection=eptic3">
+<s id="766:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.06&end=00.01.10">
 Einige	PRO.Indef.Attr.Nom.Pl.Fem	einige-p
 Herausforderungen	N.Reg.Nom.Pl.Fem	Herausforderung-n
 <g/>
@@ -23633,7 +23633,7 @@ genannt	VPP.Full.Psp	nennen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:7" video="https://media.dipintra.it/?id=766&start=01.10&end=01.15&collection=eptic3">
+<s id="766:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.10&end=00.01.15">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 noch	ADV	noch-a
@@ -23648,7 +23648,7 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:8" video="https://media.dipintra.it/?id=766&start=01.16&end=01.34&collection=eptic3">
+<s id="766:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.16&end=00.01.34">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 zu	APPR	zu-i
@@ -23698,7 +23698,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:9" video="https://media.dipintra.it/?id=766&start=01.34&end=01.38&collection=eptic3">
+<s id="766:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.34&end=00.01.38">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 natürlich	ADV	natürlich-a
@@ -23713,7 +23713,7 @@ Rechtsstaat	N.Reg.Acc.Sg.Masc	Rechtsstaat-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:10" video="https://media.dipintra.it/?id=766&start=01.38&end=01.42&collection=eptic3">
+<s id="766:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.38&end=00.01.42">
 Dann	ADV	dann-a
 die	ART.Def.Nom.Sg.Fem	die-x
 Zusammenarbeit	N.Reg.Nom.Sg.Fem	Zusammenarbeit-n
@@ -23726,7 +23726,7 @@ Haag	N.Name.Dat.Sg.Neut	Haag-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:11" video="https://media.dipintra.it/?id=766&start=01.42&end=02.05&collection=eptic3">
+<s id="766:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.01.42&end=00.02.05">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Kacin	N.Name.Nom.Sg.Masc	Kacin-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -23792,7 +23792,7 @@ umsetzen	VINF.Full	umsetzen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:12" video="https://media.dipintra.it/?id=766&start=02.05&end=02.08&collection=eptic3">
+<s id="766:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.02.05&end=00.02.08">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sehen	VFIN.Full.1.Pl.Pres.Ind	sehen-v
 leider	ADV	leider-a
@@ -23801,7 +23801,7 @@ Ergebnisse	N.Reg.Acc.Pl.Neut	Ergebnis-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:13" video="https://media.dipintra.it/?id=766&start=02.08&end=02.13&collection=eptic3">
+<s id="766:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.02.08&end=00.02.13">
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 proaktiver	ADJD.Comp	proaktiv-j
@@ -23816,7 +23816,7 @@ fassen	VINF.Full	fassen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="766:14" video="https://media.dipintra.it/?id=766&start=02.13&end=02.18&collection=eptic3">
+<s id="766:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=766.wmv&start=00.02.13&end=00.02.18">
 Also	ADV	also-a
 ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 glaube	VFIN.Full.1.Sg.Pres.Ind	glauben-v
@@ -23852,7 +23852,7 @@ werden	VINF.Aux	werden-v
 <speaker name="Kukan Eduard" gender="M" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="221" duration="short" durations="100.0" speed="medium" speedwm="132.6" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="767:1" video="https://media.dipintra.it/?id=767&start=00.10&end=00.21&collection=eptic3">
+<s id="767:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.10&end=00.00.21">
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
@@ -23884,7 +23884,7 @@ hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:2" video="https://media.dipintra.it/?id=767&start=00.21&end=00.27&collection=eptic3">
+<s id="767:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.21&end=00.00.27">
 Auch	ADV	auch-a
 das	ART.Def.Nom.Sg.Neut	die-x
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
@@ -23898,7 +23898,7 @@ Weg	N.Reg.Dat.Sg.Masc	Weg-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:3" video="https://media.dipintra.it/?id=767&start=00.29&end=00.45&collection=eptic3">
+<s id="767:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.29&end=00.00.45">
 Die	ART.Def.Nom.Sg.Fem	die-x
 serbische	ADJA.Pos.Nom.Sg.Fem	serbisch-j
 Regierung	N.Reg.Nom.Sg.Fem	Regierung-n
@@ -23945,7 +23945,7 @@ Bereichen	N.Reg.Dat.Pl.Masc	Bereich-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:4" video="https://media.dipintra.it/?id=767&start=00.46&end=00.48&collection=eptic3">
+<s id="767:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.46&end=00.00.48">
 13	CARD	13-m
 Länder	N.Reg.Nom.Pl.Neut	Land-n
 haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
@@ -23956,7 +23956,7 @@ ratifiziert	VPP.Full.Psp	ratifizieren-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:5" video="https://media.dipintra.it/?id=767&start=00.49&end=00.58&collection=eptic3">
+<s id="767:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.49&end=00.00.58">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -23984,7 +23984,7 @@ abzuschließen	VINF.Full.zu	abschließen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:6" video="https://media.dipintra.it/?id=767&start=00.58&end=01.13&collection=eptic3">
+<s id="767:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.00.58&end=00.01.13">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 natürlich	ADV	natürlich-a
@@ -24022,7 +24022,7 @@ ausliefern	VINF.Full	ausliefern-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:7" video="https://media.dipintra.it/?id=767&start=01.13&end=01.31&collection=eptic3">
+<s id="767:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.01.13&end=00.01.31">
 Außerdem	PROADV.Dem	außerdem-x
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 die	ART.Def.Nom.Sg.Fem	die-x
@@ -24062,7 +24062,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:8" video="https://media.dipintra.it/?id=767&start=01.34&end=01.40&collection=eptic3">
+<s id="767:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.01.34&end=00.01.40">
 Hoffentlich	ADV	hoffentlich-a
 werden	VFIN.Aux.3.Pl.Pres.Ind	werden-v
 die	ART.Def.Nom.Pl.Fem	die-x
@@ -24085,7 +24085,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="767:9" video="https://media.dipintra.it/?id=767&start=01.40&end=01.46&collection=eptic3">
+<s id="767:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=767.wmv&start=00.01.40&end=00.01.46">
 Das	ART.Def.Nom.Sg.Neut	die-x
 Europäische	ADJA.Pos.Nom.Sg.Neut	europäisch-j
 Parlament	N.Reg.Nom.Sg.Neut	Parlament-n
@@ -24107,7 +24107,7 @@ unterstützt	VPP.Full.Psp	unterstützen-v
 <speaker name="Bostinaru Victor" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="157" duration="short" durations="66.0" speed="medium" speedwm="142.7" delivery="read">
 <interpreter id="DE17" gender="F" native="NA">
-<s id="768:1" video="https://media.dipintra.it/?id=768&start=00.10&end=00.12&collection=eptic3">
+<s id="768:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.10&end=00.00.12">
 Danke	PART.Ans	Danke-x
 schön	VIMP.Full.2.Sg	schönen-v
 Frau	N.Reg.Acc.Sg.Fem	Frau-n
@@ -24115,7 +24115,7 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:2" video="https://media.dipintra.it/?id=768&start=00.12&end=00.22&collection=eptic3">
+<s id="768:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.12&end=00.00.22">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 <g/>
@@ -24140,7 +24140,7 @@ Serbien	N.Name.Acc.Sg.Neut	Serbien-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:3" video="https://media.dipintra.it/?id=768&start=00.22&end=00.28&collection=eptic3">
+<s id="768:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.22&end=00.00.28">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sprechen	VFIN.Full.1.Pl.Pres.Ind	sprechen-v
 über	APPR	über-i
@@ -24159,7 +24159,7 @@ erzielte	VFIN.Full.3.Sg.Past.Ind	erzielen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:4" video="https://media.dipintra.it/?id=768&start=00.28&end=00.37&collection=eptic3">
+<s id="768:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.28&end=00.00.37">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 denke	VFIN.Full.1.Sg.Pres.Ind	denken-v
 <g/>
@@ -24185,7 +24185,7 @@ wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:5" video="https://media.dipintra.it/?id=768&start=00.37&end=00.41&collection=eptic3">
+<s id="768:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.37&end=00.00.41">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 aber	ADV	aber-a
@@ -24202,7 +24202,7 @@ spielt	VFIN.Full.3.Sg.Pres.Ind	spielen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:6" video="https://media.dipintra.it/?id=768&start=00.42&end=00.59&collection=eptic3">
+<s id="768:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.42&end=00.00.59">
 Dieses	PRO.Dem.Attr.Nom.Sg.Neut	diese-p
 Abkommen	N.Reg.Nom.Sg.Neut	Abkommen-n
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
@@ -24259,7 +24259,7 @@ Westbalkan	N.Name.Dat.Sg.Masc	Westbalkan-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:7" video="https://media.dipintra.it/?id=768&start=00.59&end=01.07&collection=eptic3">
+<s id="768:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.00.59&end=00.01.07">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hoffe	VFIN.Full.1.Sg.Pres.Ind	hoffen-v
 <g/>
@@ -24291,7 +24291,7 @@ Abkommen	N.Reg.Acc.Sg.Neut	Abkommen-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:8" video="https://media.dipintra.it/?id=768&start=01.07&end=01.12&collection=eptic3">
+<s id="768:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.01.07&end=00.01.12">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 fordere	VFIN.Full.1.Sg.Pres.Ind	fordern-v
 die	ART.Def.Acc.Pl.Masc	die-x
@@ -24309,7 +24309,7 @@ möglich	ADJD.Pos	möglich-j
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="768:9" video="https://media.dipintra.it/?id=768&start=01.13&end=01.13&collection=eptic3">
+<s id="768:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=768.wmv&start=00.01.13&end=00.01.13">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -24323,7 +24323,7 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="260" duration="medium" durations="168.0" speed="slow" speedwm="92.9" delivery="mixed">
 <interpreter id="DE08" gender="F" native="NA">
-<s id="769:1" video="https://media.dipintra.it/?id=769&start=00.09&end=00.24&collection=eptic3">
+<s id="769:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.00.09&end=00.00.24">
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 <g/>
@@ -24363,7 +24363,7 @@ anbelangt	VFIN.Full.3.Sg.Pres.Ind	anbelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:2" video="https://media.dipintra.it/?id=769&start=00.24&end=00.42&collection=eptic3">
+<s id="769:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.00.24&end=00.00.42">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Unterstützung	N.Reg.Nom.Sg.Fem	Unterstützung-n
 <g/>
@@ -24414,7 +24414,7 @@ sollte	VFIN.Mod.3.Sg.Past.Ind	sollen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:3" video="https://media.dipintra.it/?id=769&start=00.42&end=00.53&collection=eptic3">
+<s id="769:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.00.42&end=00.00.53">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 kurz	ADJD.Pos	kurz-j
@@ -24444,7 +24444,7 @@ Sandžak	N.Reg.Dat.Sg.Fem	Sandžak-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:4" video="https://media.dipintra.it/?id=769&start=00.53&end=00.59&collection=eptic3">
+<s id="769:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.00.53&end=00.00.59">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 würde	VFIN.Aux.1.Sg.Past.Subj	werden-v
 eher	ADV	eher-a
@@ -24457,7 +24457,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:5" video="https://media.dipintra.it/?id=769&start=00.59&end=01.08&collection=eptic3">
+<s id="769:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.00.59&end=00.01.08">
 Also	PART.Ans	Also-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -24480,7 +24480,7 @@ nicht	PART.Neg	nicht-x
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:6" video="https://media.dipintra.it/?id=769&start=01.08&end=01.17&collection=eptic3">
+<s id="769:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.08&end=00.01.17">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 ehm	FPAUSE	ehm
@@ -24502,7 +24502,7 @@ Jahres	N.Reg.Gen.Sg.Neut	Jahr-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:7" video="https://media.dipintra.it/?id=769&start=01.17&end=01.27&collection=eptic3">
+<s id="769:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.17&end=00.01.27">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 sollten	VFIN.Mod.3.Pl.Past.Ind	sollen-v
 friedliche	ADJA.Pos.Nom.Pl.Fem	friedlich-j
@@ -24536,7 +24536,7 @@ vermeiden	VINF.Full	vermeiden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:8" video="https://media.dipintra.it/?id=769&start=01.27&end=01.30&collection=eptic3">
+<s id="769:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.27&end=00.01.30">
 Dann	ADV	dann-a
 die	ART.Def.Nom.Sg.Fem	die-x
 Frage	N.Reg.Nom.Sg.Fem	Frage-n
@@ -24545,7 +24545,7 @@ Entwicklungsfond	N.Reg.Dat.Sg.Masc	Entwicklungsfond-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:9" video="https://media.dipintra.it/?id=769&start=01.30&end=01.36&collection=eptic3">
+<s id="769:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.30&end=00.01.36">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 arbeiten	VFIN.Full.1.Pl.Pres.Ind	arbeiten-v
 da	ADV	da-a
@@ -24561,7 +24561,7 @@ Westbalkan	N.Name.Dat.Sg.Masc	Westbalkan-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:10" video="https://media.dipintra.it/?id=769&start=01.37&end=01.45&collection=eptic3">
+<s id="769:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.37&end=00.01.45">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 möchten	VFIN.Mod.1.Pl.Past.Subj	mögen-v
 sehen	VINF.Full	sehen-v
@@ -24586,7 +24586,7 @@ kann	VFIN.Mod.3.Sg.Pres.Ind	können-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:11" video="https://media.dipintra.it/?id=769&start=01.45&end=01.51&collection=eptic3">
+<s id="769:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.45&end=00.01.51">
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 gibt	VFIN.Full.3.Sg.Pres.Ind	geben-v
 Überlegungen	N.Reg.Acc.Pl.Fem	Überlegung-n
@@ -24600,7 +24600,7 @@ unterstützen	VINF.Full	unterstützen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:12" video="https://media.dipintra.it/?id=769&start=01.52&end=01.56&collection=eptic3">
+<s id="769:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.52&end=00.01.56">
 Dann	ADV	dann-a
 die	ART.Def.Nom.Sg.Fem	die-x
 Frage	N.Reg.Nom.Sg.Fem	Frage-n
@@ -24610,7 +24610,7 @@ Morvai	N.Name.Dat.Sg.*	Morvai-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:13" video="https://media.dipintra.it/?id=769&start=01.56&end=02.19&collection=eptic3">
+<s id="769:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.01.56&end=00.02.19">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 muss	VFIN.Mod.1.Sg.Pres.Ind	müssen-v
 sagen	VINF.Full	sagen-v
@@ -24663,7 +24663,7 @@ Redebeitrag	N.Reg.Dat.Sg.Masc	Redebeitrag-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:14" video="https://media.dipintra.it/?id=769&start=02.19&end=02.31&collection=eptic3">
+<s id="769:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.02.19&end=00.02.31">
 Sehr	ADV	sehr-a
 geehrte	ADJA.Pos.Nom.Pl.*	geehrt-j
 Abgeordnete	N.Reg.Nom.Pl.*	Abgeordnete-n
@@ -24687,7 +24687,7 @@ anbelangt	VFIN.Full.3.Sg.Pres.Ind	anbelangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:15" video="https://media.dipintra.it/?id=769&start=02.32&end=02.44&collection=eptic3">
+<s id="769:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.02.32&end=00.02.44">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 ja	ADV	ja-a
@@ -24714,7 +24714,7 @@ befindet	VFIN.Full.3.Sg.Pres.Ind	befinden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:16" video="https://media.dipintra.it/?id=769&start=02.44&end=02.48&collection=eptic3">
+<s id="769:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.02.44&end=00.02.48">
 Da	ADV	da-a
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -24732,7 +24732,7 @@ Justizreform	N.Reg.Nom.Sg.Fem	Justizreform-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="769:17" video="https://media.dipintra.it/?id=769&start=02.48&end=02.57&collection=eptic3">
+<s id="769:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.02.48&end=00.02.57">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 eine	ART.Indef.Nom.Sg.Fem	eine-x
@@ -24751,7 +24751,7 @@ im	APPRART.Dat.Sg.Neut	in-i
 Jahr	N.Reg.Dat.Sg.Neut	Jahr-n
 2011.	CARD	[number]-m
 </s>
-<s id="769:18" video="https://media.dipintra.it/?id=769&start=02.57&end=02.57&collection=eptic3">
+<s id="769:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=769.wmv&start=00.02.57&end=00.02.57">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -24765,13 +24765,13 @@ Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <speaker name="Morvai Krisztina" gender="F" country="Hungary" politfunc="MEP" politgroup="NI">
 <st language="en" length="long" lengthw="66" duration="short" durations="30.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="DE06" gender="F" native="NA">
-<s id="770:1" video="https://media.dipintra.it/?id=770&start=00.10&end=00.10&collection=eptic3">
+<s id="770:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.10&end=00.00.10">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="770:2" video="https://media.dipintra.it/?id=770&start=00.11&end=00.16&collection=eptic3">
+<s id="770:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.11&end=00.00.16">
 Entschuldigung	N.Reg.Nom.Sg.Fem	Entschuldigung-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -24790,7 +24790,7 @@ kritisieren	VINF.Full	kritisieren-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="770:3" video="https://media.dipintra.it/?id=770&start=00.16&end=00.17&collection=eptic3">
+<s id="770:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.16&end=00.00.17">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 ja	ADV	ja-a
@@ -24800,7 +24800,7 @@ angefangen	VPP.Full.Psp	anfangen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="770:4" video="https://media.dipintra.it/?id=770&start=00.17&end=00.20&collection=eptic3">
+<s id="770:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.17&end=00.00.20">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 wissen	VFIN.Full.3.Pl.Pres.Ind	wissen-v
 doch	ADV	doch-a
@@ -24814,7 +24814,7 @@ Vorsitz	N.Reg.Acc.Sg.Masc	Vorsitz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="770:5" video="https://media.dipintra.it/?id=770&start=00.20&end=00.30&collection=eptic3">
+<s id="770:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.20&end=00.00.30">
 Warum	PROADV.Inter	warum-x
 kritisieren	VFIN.Full.3.Pl.Pres.Ind	kritisieren-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -24841,7 +24841,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 am	APPRART.Dat.Sg.Masc	an-i
 50.	ADJA.Pos.Dat.Sg.Masc	[number]-j
 </s>
-<s id="770:6" video="https://media.dipintra.it/?id=770&start=00.30&end=00.36&collection=eptic3">
+<s id="770:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.30&end=00.00.36">
 Jahrestag	N.Reg.Nom.Sg.Masc	Jahrestag-n
 der	ART.Def.Gen.Sg.Fem	die-x
 56er	ADJA.Pos.*.*.*	56er-j
@@ -24863,7 +24863,7 @@ haben	VFIN.Aux.3.Pl.Pres.Ind	haben-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="770:7" video="https://media.dipintra.it/?id=770&start=00.36&end=00.38&collection=eptic3">
+<s id="770:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=770.wmv&start=00.00.36&end=00.00.38">
 Warum	PROADV.Inter	warum-x
 kritisieren	VFIN.Full.3.Pl.Pres.Ind	kritisieren-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -24880,7 +24880,7 @@ nicht	PART.Neg	nicht-x
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="136" duration="short" durations="54.0" speed="medium" speedwm="151.1" delivery="mixed">
 <interpreter id="DE03" gender="M" native="NA">
-<s id="771:1" video="https://media.dipintra.it/?id=771&start=00.09&end=00.16&collection=eptic3">
+<s id="771:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=771.wmv&start=00.00.09&end=00.00.16">
 Ja	PART.Ans	ja-x
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -24908,7 +24908,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="771:2" video="https://media.dipintra.it/?id=771&start=00.16&end=00.24&collection=eptic3">
+<s id="771:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=771.wmv&start=00.00.16&end=00.00.24">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 unterstützen	VFIN.Full.1.Pl.Pres.Ind	unterstützen-v
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -24929,7 +24929,7 @@ Gesetzen	N.Reg.Dat.Pl.Neut	Gesetz-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="771:3" video="https://media.dipintra.it/?id=771&start=00.24&end=00.40&collection=eptic3">
+<s id="771:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=771.wmv&start=00.00.24&end=00.00.40">
 Die	ART.Def.Nom.Sg.Fem	die-x
 Kommission	N.Reg.Nom.Sg.Fem	Kommission-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -24973,7 +24973,7 @@ werden	VINF.Aux	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="771:4" video="https://media.dipintra.it/?id=771&start=00.41&end=00.46&collection=eptic3">
+<s id="771:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=771.wmv&start=00.00.41&end=00.00.46">
 Da	ADV	da-a
 müsste	VFIN.Mod.3.Sg.Past.Subj	müssen-v
 man	PRO.Indef.Subst.Nom.Sg.*	man-p
@@ -24987,7 +24987,7 @@ vorsehen	VINF.Full	vorsehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="771:5" video="https://media.dipintra.it/?id=771&start=00.47&end=01.01&collection=eptic3">
+<s id="771:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=771.wmv&start=00.00.47&end=00.01.01">
 In	APPR	in-i
 den	ART.Def.Dat.Pl.Fem	die-x
 Erklärungen	N.Reg.Dat.Pl.Fem	Erklärung-n
@@ -25054,7 +25054,7 @@ Rates	N.Reg.Gen.Sg.Masc	Rat-n
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="274" duration="medium" durations="120.0" speed="medium" speedwm="137.0" delivery="impromptu">
 <interpreter id="DE03" gender="M" native="NA">
-<s id="772:1" video="https://media.dipintra.it/?id=772&start=00.08&end=00.10&collection=eptic3">
+<s id="772:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.08&end=00.00.10">
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
@@ -25062,19 +25062,19 @@ Präsident	N.Reg.Nom.Sg.Masc	Präsident-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:2" video="https://media.dipintra.it/?id=772&start=00.10&end=00.11&collection=eptic3">
+<s id="772:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.10&end=00.00.11">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Ministerpräsident	N.Reg.Nom.Sg.Masc	Ministerpräsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="772:3" video="https://media.dipintra.it/?id=772&start=00.11&end=00.13&collection=eptic3">
+<s id="772:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.11&end=00.00.13">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Ministerpräsident	N.Reg.Nom.Sg.Masc	Ministerpräsident-n
 <g/>
 !	SYM.Pun.Sent	!-x
 </s>
-<s id="772:4" video="https://media.dipintra.it/?id=772&start=00.15&end=00.18&collection=eptic3">
+<s id="772:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.15&end=00.00.18">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 möchte	VFIN.Mod.1.Sg.Past.Subj	mögen-v
 gerne	ADV	gerne-a
@@ -25084,7 +25084,7 @@ haben	VINF.Aux	haben-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:5" video="https://media.dipintra.it/?id=772&start=00.18&end=00.20&collection=eptic3">
+<s id="772:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.18&end=00.00.20">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 bin	VFIN.Aux.1.Sg.Pres.Ind	sein-v
 hier	ADV	hier-a
@@ -25098,7 +25098,7 @@ Linken	N.Reg.Dat.Sg.Fem	Linke-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:6" video="https://media.dipintra.it/?id=772&start=00.20&end=00.24&collection=eptic3">
+<s id="772:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.20&end=00.00.24">
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 Ministerpräsident	N.Reg.Nom.Sg.Masc	Ministerpräsident-n
 <g/>
@@ -25113,7 +25113,7 @@ sagen	VINF.Full	sagen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:7" video="https://media.dipintra.it/?id=772&start=00.24&end=00.43&collection=eptic3">
+<s id="772:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.24&end=00.00.43">
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 hatte	VFIN.Aux.1.Sg.Past.Ind	haben-v
 einen	ART.Indef.Acc.Sg.Masc	eine-x
@@ -25195,7 +25195,7 @@ sprechen	VINF.Full	sprechen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:8" video="https://media.dipintra.it/?id=772&start=00.43&end=00.50&collection=eptic3">
+<s id="772:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.43&end=00.00.50">
 "	SYM.Quot.Left	"-x
 Und	CONJ.Coord	und-c
 da	ADV	da-a
@@ -25229,7 +25229,7 @@ Flüchtlinge	N.Reg.Acc.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:9" video="https://media.dipintra.it/?id=772&start=00.51&end=00.58&collection=eptic3">
+<s id="772:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.51&end=00.00.58">
 Unter	APPR	unter-i
 Ihrem	PRO.Poss.Attr.Dat.Sg.Masc	ihre-p
 Vorsitz	N.Reg.Dat.Sg.Masc	Vorsitz-n
@@ -25251,7 +25251,7 @@ anzusehen	VINF.Full.zu	ansehen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:10" video="https://media.dipintra.it/?id=772&start=00.58&end=01.00&collection=eptic3">
+<s id="772:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.00.58&end=00.01.00">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 hätten	VFIN.Aux.3.Pl.Past.Subj	haben-v
 etwas	ADV	etwas-a
@@ -25266,7 +25266,7 @@ helfen	VINF.Full	helfen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:11" video="https://media.dipintra.it/?id=772&start=01.00&end=01.02&collection=eptic3">
+<s id="772:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.00&end=00.01.02">
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 wäre	VFIN.Aux.3.Sg.Past.Subj	sein-v
 nicht	PART.Neg	nicht-x
@@ -25276,7 +25276,7 @@ gewesen	VPP.Aux.Psp	sein-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:12" video="https://media.dipintra.it/?id=772&start=01.03&end=01.11&collection=eptic3">
+<s id="772:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.03&end=00.01.11">
 Der	ART.Def.Nom.Sg.Masc	die-x
 Rat	N.Reg.Nom.Sg.Masc	Rat-n
 hat	VFIN.Aux.3.Sg.Pres.Ind	haben-v
@@ -25291,7 +25291,7 @@ Flüchtlingen	N.Reg.Dat.Pl.Masc	Flüchtling-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:13" video="https://media.dipintra.it/?id=772&start=01.11&end=01.19&collection=eptic3">
+<s id="772:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.11&end=00.01.19">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 ehm	FPAUSE	ehm
 müssen	VFIN.Mod.1.Pl.Pres.Ind	müssen-v
@@ -25307,7 +25307,7 @@ anzusiedeln	VINF.Full.zu	ansiedeln-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:14" video="https://media.dipintra.it/?id=772&start=01.19&end=01.33&collection=eptic3">
+<s id="772:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.19&end=00.01.33">
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 haben	VFIN.Aux.1.Pl.Pres.Ind	haben-v
 Leitlinien	N.Reg.Acc.Pl.Fem	Leitlinie-n
@@ -25340,7 +25340,7 @@ gebracht	VPP.Full.Psp	bringen-v
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:15" video="https://media.dipintra.it/?id=772&start=01.34&end=01.48&collection=eptic3">
+<s id="772:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.34&end=00.01.48">
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
 sagen	VFIN.Full.3.Pl.Pres.Ind	sagen-v
 uns	PRO.Pers.Subst.1.Acc.Pl.*	sie-p
@@ -25405,7 +25405,7 @@ das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="772:16" video="https://media.dipintra.it/?id=772&start=01.49&end=01.55&collection=eptic3">
+<s id="772:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.49&end=00.01.55">
 Die	ART.Def.Nom.Pl.Neut	die-x
 Kinder	N.Reg.Nom.Pl.Neut	Kind-n
 gehen	VFIN.Full.3.Pl.Pres.Ind	gehen-v
@@ -25429,7 +25429,7 @@ Flüchtlingslagern	N.Reg.Dat.Pl.Neut	Flüchtlingslager-n
 <g/>
 .	SYM.Pun.Sent	.-x
 </s>
-<s id="772:17" video="https://media.dipintra.it/?id=772&start=01.55&end=02.03&collection=eptic3">
+<s id="772:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.01.55&end=00.02.03">
 Weshalb	PROADV.Inter	weshalb-x
 sprechen	VFIN.Full.3.Pl.Pres.Ind	sprechen-v
 Sie	PRO.Pers.Subst.3.Nom.Pl.*	sie-p
@@ -25455,7 +25455,7 @@ gilt	VFIN.Full.3.Sg.Pres.Ind	gelten-v
 <g/>
 ?	SYM.Pun.Sent	?-x
 </s>
-<s id="772:18" video="https://media.dipintra.it/?id=772&start=02.03&end=02.08&collection=eptic3">
+<s id="772:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=772.wmv&start=00.02.03&end=00.02.08">
 "	SYM.Quot.Left	"-x
 Und	CONJ.Coord	und-c
 das	PRO.Dem.Subst.Acc.Sg.Neut	die-p

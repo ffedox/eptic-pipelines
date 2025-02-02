@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2162:1&collection=eptic3">
+<s id="2162:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -32,7 +32,7 @@ strani	Sozer	stran-s
 Brazilije	Slzer	Brazilija-s	
 .	SENT	.-s	
 </s>
-<s id="2162:2&collection=eptic3">
+<s id="2162:2">
 Razumem	Ggvspe	razumeti-g	
 njihove	Zstmmtm	njihov-z	
 razloge	Sommt	razlog-s	
@@ -52,7 +52,7 @@ vprašanje	Soset	vprašanje-s
 pravic	Sozmr	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2162:3&collection=eptic3">
+<s id="2162:3">
 Ne	L	ne-l	
 gre	Ggvste	iti-g	
 ne	L	ne-l	
@@ -69,7 +69,7 @@ države	Sozer	država-s
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2162:4&collection=eptic3">
+<s id="2162:4">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 pobuda	Sozei	pobuda-s	
@@ -91,7 +91,7 @@ svoji	Zp-zem	svoj-z
 zgodovini	Sozem	zgodovina-s	
 .	SENT	.-s	
 </s>
-<s id="2162:5&collection=eptic3">
+<s id="2162:5">
 Cesare	Slmei	Cesare-s	
 Battisti	Slmei	Battisti-s	
 je	Gp-ste-n	biti-g	
@@ -99,7 +99,7 @@ v	Dm	v-d
 zaporu	Somem	zapor-s	
 .	SENT	.-s	
 </s>
-<s id="2162:6&collection=eptic3">
+<s id="2162:6">
 Čaka	Somei	Čaka-s	
 na	Dt	na-d	
 odločitev	Sozet	odločitev-s	
@@ -121,7 +121,7 @@ ne	L	ne-l
 zaseda	Ggnste	zasedati-g	
 .	SENT	.-s	
 </s>
-<s id="2162:7&collection=eptic3">
+<s id="2162:7">
 Nobenega	Zl-mer	noben-z	
 razloga	Somer	razlog-s	
 ni	Gp-ste-d	biti-g	
@@ -134,7 +134,7 @@ nepristransko	Ppnzet	nepristranski-p	nepristranska
 odločitev	Sozet	odločitev-s	
 .	SENT	.-s	
 </s>
-<s id="2162:8&collection=eptic3">
+<s id="2162:8">
 Pri	Dm	pri-d	
 tem	Zk-sem	ta-z	
 sem	Gp-spe-n	biti-g	
@@ -187,7 +187,7 @@ med	Do	med-d
 spanjem	Soseo	spanje-s	
 .	SENT	.-s	
 </s>
-<s id="2162:9&collection=eptic3">
+<s id="2162:9">
 Ali	Rsn	ali-r	
 bo	Gp-pte-n	biti-g	
 Parlament	Somei	parlament-s	
@@ -222,7 +222,7 @@ formalnega	Ppnmer	formalen-p	formalni
 razloga	Somer	razlog-s	
 ?	SENT	?-s	
 </s>
-<s id="2162:10&collection=eptic3">
+<s id="2162:10">
 Prosil	Ggnd-em	prositi-g	
 bi	Gp-g	biti-g	
 ,	U	,-u	
@@ -245,7 +245,7 @@ reda	Somer	red-s
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2163:1&collection=eptic3">
+<s id="2163:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -294,7 +294,7 @@ je	Gp-ste-n	biti-g
 preživljal	Ggnd-em	preživljati-g	
 .	SENT	.-s	
 </s>
-<s id="2163:2&collection=eptic3">
+<s id="2163:2">
 Manj	Rsr	manj-r	
 kot	Vd	kot-v	
 mesec	Sometn	mesec-s	
@@ -314,7 +314,7 @@ Ben	Slmei	Ben-s
 Alija	Slmei	Alija-s	
 .	SENT	.-s	
 </s>
-<s id="2163:3&collection=eptic3">
+<s id="2163:3">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 je	Gp-ste-n	biti-g	
@@ -327,7 +327,7 @@ dneh	Sommm	dan-s
 režima	Somer	režim-s	
 .	SENT	.-s	
 </s>
-<s id="2163:4&collection=eptic3">
+<s id="2163:4">
 Zdaj	Rsn	zdaj-r	
 ,	U	,-u	
 ko	Vd	ko-v	
@@ -341,7 +341,7 @@ vedno	Rsn	vedno-r
 negotove	Ppnzmi	negotov-p	negotova
 .	SENT	.-s	
 </s>
-<s id="2163:5&collection=eptic3">
+<s id="2163:5">
 Še	L	še-l	
 vedno	Rsn	vedno-r	
 prihajajo	Ggnstm	prihajati-g	
@@ -352,7 +352,7 @@ in	Vp	in-v
 nasilju	Sosem	nasilje-s	
 .	SENT	.-s	
 </s>
-<s id="2163:6&collection=eptic3">
+<s id="2163:6">
 Tunizija	Slzei	Tunizija-s	
 ostaja	Ggnste	ostajati-g	
 v	Dm	v-d	
@@ -374,7 +374,7 @@ nacionalne	Ppnzer	nacionalen-p	nacionalna
 enotnosti	Sozer	enotnost-s	
 .	SENT	.-s	
 </s>
-<s id="2163:7&collection=eptic3">
+<s id="2163:7">
 A	Vp	a-v	
 navkljub	Dd	navkljub-d	
 določeni	Pdnzed	določen-p	določena
@@ -388,7 +388,7 @@ in	Vp	in-v
 glasno	Ppnsei	glasen-p	glasno
 :	SENT	:-s	
 </s>
-<s id="2163:8&collection=eptic3">
+<s id="2163:8">
 Tunizija	Slzei	Tunizija-s	
 želi	Ggnste	želeti-g	
 biti	Gp-n	biti-g	
@@ -406,7 +406,7 @@ in	Vp	in-v
 svoboščine	Sozmt	svoboščina-s	
 .	SENT	.-s	
 </s>
-<s id="2163:9&collection=eptic3">
+<s id="2163:9">
 Hoče	Ggnste-n	hoteti-g	
 svobodne	Ppnzmt	svoboden-p	svobodna
 in	Vp	in-v	
@@ -416,7 +416,7 @@ vključujoče	Pdnzmt	vključujoč-p	vključujoča
 volitve	Sozmt	volitev-s	
 .	SENT	.-s	
 </s>
-<s id="2163:10&collection=eptic3">
+<s id="2163:10">
 Ljudje	Sommi	človek-s	
 želijo	Ggnstm	želeti-g	
 napisati	Ggdn	napisati-g	
@@ -437,7 +437,7 @@ dati	Ggdn	dati-g
 podporo	Sozet	podpora-s	
 .	SENT	.-s	
 </s>
-<s id="2163:11&collection=eptic3">
+<s id="2163:11">
 Spoštovanje	Sosei	spoštovanje-s	
 ustave	Sozer	ustava-s	
 in	Vp	in-v	
@@ -465,7 +465,7 @@ pravo	Ppnzet	pravi-p	prava
 smer	Sozet	smer-s	
 .	SENT	.-s	
 </s>
-<s id="2163:12&collection=eptic3">
+<s id="2163:12">
 Seveda	L	seveda-l	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
@@ -473,7 +473,7 @@ to	Zk-sei	ta-z
 začetek	Somei	začetek-s	
 .	SENT	.-s	
 </s>
-<s id="2163:13&collection=eptic3">
+<s id="2163:13">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 nenehno	Rsn	nenehno-r	
@@ -492,7 +492,7 @@ temeljnih	Ppnzmr	temeljen-p	temeljna
 svoboščin	Sozmr	svoboščina-s	
 .	SENT	.-s	
 </s>
-<s id="2163:14&collection=eptic3">
+<s id="2163:14">
 Vse	Zc-sei	ves-z	
 od	Dr	od-d	
 začetka	Somer	začetek-s	
@@ -532,7 +532,7 @@ in	Vp	in-v
 pravicami	Sozmo	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2163:15&collection=eptic3">
+<s id="2163:15">
 Na	Dm	na-d	
 vseh	Zc-smm	ves-z	
 srečanjih	Sosmm	srečanje-s	
@@ -563,7 +563,7 @@ na	Dt	na-d
 pravice	Sozmt	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2163:16&collection=eptic3">
+<s id="2163:16">
 Že	L	že-l	
 v	Dm	v-d	
 prvem	Kbvmem	prvi-k	
@@ -607,7 +607,7 @@ skupnimi	Ppnzmo	skupen-p	skupna
 vrednotami	Sozmo	vrednota-s	
 .	SENT	.-s	
 </s>
-<s id="2163:17&collection=eptic3">
+<s id="2163:17">
 In	Vp	in-v	
 mimogrede	Rsn	mimogrede-r	
 ,	U	,-u	
@@ -647,7 +647,7 @@ in	Vp	in-v
 tednih	Sommm	teden-s	
 .	SENT	.-s	
 </s>
-<s id="2163:18&collection=eptic3">
+<s id="2163:18">
 Kaj	Zv-sei	kaj-z	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -665,7 +665,7 @@ gospodarsko	Ppnzet	gospodarski-p	gospodarska
 pravico	Sozet	pravica-s	
 ?	SENT	?-s	
 </s>
-<s id="2163:19&collection=eptic3">
+<s id="2163:19">
 Kot	Vd	kot-v	
 sva	Gp-spd-n	biti-g	
 danes	Rsn	danes-r	
@@ -690,7 +690,7 @@ ustreznimi	Ppnsmo	ustrezen-p	ustrezno
 zagotovili	Sosmo	zagotovilo-s	
 .	SENT	.-s	
 </s>
-<s id="2163:20&collection=eptic3">
+<s id="2163:20">
 Upamo	Ggnspm	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -716,7 +716,7 @@ nacionalne	Ppnzer	nacionalen-p	nacionalna
 enotnosti	Sozer	enotnost-s	
 .	SENT	.-s	
 </s>
-<s id="2163:21&collection=eptic3">
+<s id="2163:21">
 Pripravljeni	Pdnmmi	pripravljen-p	pripravljen
 smo	Gp-spm-n	biti-g	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -738,7 +738,7 @@ demokratični	Ppnzed	demokratičen-p	demokratična
 tranziciji	Sozed	tranzicija-s	
 .	SENT	.-s	
 </s>
-<s id="2163:22&collection=eptic3">
+<s id="2163:22">
 Pripravljamo	Ggnspm	pripravljati-g	
 tudi	L	tudi-l	
 obsežnejši	Pppmetd	obsežen-p	obsežnejši
@@ -775,7 +775,7 @@ in	Vp	in-v
 pravosodja	Soser	pravosodje-s	
 .	SENT	.-s	
 </s>
-<s id="2163:23&collection=eptic3">
+<s id="2163:23">
 Seveda	L	seveda-l	
 se	Zp------k	se-z	
 bomo	Gp-ppm-n	biti-g	
@@ -794,7 +794,7 @@ državami	Sozmo	država-s
 članicami	Sozmo	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2163:24&collection=eptic3">
+<s id="2163:24">
 Evropska	Ppnzei	evropski-p	evropska
 sosedska	Ppnzei	sosedski-p	sosedska
 politika	Sozei	politika-s	
@@ -836,7 +836,7 @@ in	Vp	in-v
 napredka	Somer	napredek-s	
 .	SENT	.-s	
 </s>
-<s id="2163:25&collection=eptic3">
+<s id="2163:25">
 Komisija	Sozei	komisija-s	
 vedno	Rsn	vedno-r	
 poudarja	Ggnste	poudarjati-g	
@@ -860,7 +860,7 @@ vzhodnih	Ppnzmr	vzhoden-p	vzhodna
 sosed	Sozmr	soseda-s	
 .	SENT	.-s	
 </s>
-<s id="2163:26&collection=eptic3">
+<s id="2163:26">
 Tunizija	Slzei	Tunizija-s	
 je	Gp-ste-n	biti-g	
 s	Do	z-d	
@@ -924,7 +924,7 @@ stabilno	Ppnzet	stabilen-p	stabilna
 Tunizijo	Slzet	Tunizija-s	
 .	SENT	.-s	
 </s>
-<s id="2163:27&collection=eptic3">
+<s id="2163:27">
 Imamo	Ggnspm-n	imeti-g	
 dolgotrajne	Ppnmmt	dolgotrajen-p	dolgotrajen
 in	Vp	in-v	
@@ -946,7 +946,7 @@ tesne	Ppnzmi	tesen-p	tesna
 vezi	Sozmi	vez-s	
 .	SENT	.-s	
 </s>
-<s id="2163:28&collection=eptic3">
+<s id="2163:28">
 Storili	Ggdd-mm	storiti-g	
 bomo	Gp-ppm-n	biti-g	
 vse	Zc-set	ves-z	
@@ -979,7 +979,7 @@ resničnost	Sozet	resničnost-s
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2164:1&collection=eptic3">
+<s id="2164:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -1025,7 +1025,7 @@ poštenih	Ppnzmr	pošten-p	poštena
 volitev	Sozmr	volitev-s	
 .	SENT	.-s	
 </s>
-<s id="2164:2&collection=eptic3">
+<s id="2164:2">
 Državljani	Sommi	Državljani-s	
 so	Gp-stm-n	biti-g	
 se	Zp------k	se-z	
@@ -1042,7 +1042,7 @@ svojo	Zp-zet	svoj-z
 mladino	Sozet	mladina-s	
 .	SENT	.-s	
 </s>
-<s id="2164:3&collection=eptic3">
+<s id="2164:3">
 Samo	L	samo-l	
 šibke	Ppnzmi	šibek-p	šibka
 vlade	Sozmi	vlada-s	
@@ -1062,7 +1062,7 @@ in	Vp	in-v
 bogastvo	Soset	bogastvo-s	
 .	SENT	.-s	
 </s>
-<s id="2164:4&collection=eptic3">
+<s id="2164:4">
 Režimi	Sommi	Režimi-s	
 črpajo	Ggnstm	črpati-g	
 svojo	Zp-zet	svoj-z	
@@ -1089,7 +1089,7 @@ svobodnih	Ppnzmr	svoboden-p	svobodna
 komunikacij	Sozmr	komunikacija-s	
 .	SENT	.-s	
 </s>
-<s id="2164:5&collection=eptic3">
+<s id="2164:5">
 Kar	Zz-sei	kar-z	
 zadeva	Ggnste	zadevati-g	
 dostop	Sometn	dostop-s	
@@ -1115,7 +1115,7 @@ vsem	Zc-mem	ves-z
 svetu	Somem	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2164:6&collection=eptic3">
+<s id="2164:6">
 O	Dm	o-d	
 uporu	Somem	upor-s	
 gibanja	Soser	gibanje-s	
@@ -1161,7 +1161,7 @@ na	Dm	na-d
 ulici	Sozem	ulica-s	
 .	SENT	.-s	
 </s>
-<s id="2164:7&collection=eptic3">
+<s id="2164:7">
 Isti	Zn-met	isti-z	
 teden	Sometn	teden-s	
 –	U	–-u	
@@ -1191,7 +1191,7 @@ in	Vp	in-v
 miru	Somer	mir-s	
 .	SENT	.-s	
 </s>
-<s id="2164:8&collection=eptic3">
+<s id="2164:8">
 Kako	Rsn	kako-r	
 se	Zp------k	se-z	
 na	Dt	na-d	
@@ -1215,7 +1215,7 @@ njihove	Zstzmtm	njihov-z
 pravice	Sozmt	pravica-s	
 ?	SENT	?-s	
 </s>
-<s id="2164:9&collection=eptic3">
+<s id="2164:9">
 (	U	(-u	
 Aplavz	Somei	aplavz-s	
 )	U	)-u	
@@ -1243,7 +1243,7 @@ samih	Ppnzmm	sam-p	sama
 ulicah	Sozmm	ulica-s	
 .	SENT	.-s	
 </s>
-<s id="2164:10&collection=eptic3">
+<s id="2164:10">
 Tunizijska	Ppnzei	tunizijski-p	tunizijska
 vlada	Sozei	vlada-s	
 je	Gp-ste-n	biti-g	
@@ -1281,7 +1281,7 @@ zatiranje	Soset	zatiranje-s
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2164:11&collection=eptic3">
+<s id="2164:11">
 Represivni	Ppnmmi	represiven-p	represivni
 režimi	Sommi	režim-s	
 po	Dm	po-d	
@@ -1299,7 +1299,7 @@ svobodo	Sozet	svoboda-s
 govora	Somer	govor-s	
 .	SENT	.-s	
 </s>
-<s id="2164:12&collection=eptic3">
+<s id="2164:12">
 Danes	Rsn	danes-r	
 je	Gp-ste-n	biti-g	
 dan	Sometn	dan-s	
@@ -1330,7 +1330,7 @@ postala	Ggdd-ez	postati-g
 izdaja	Sozei	izdaja-s	
 .	SENT	.-s	
 </s>
-<s id="2164:13&collection=eptic3">
+<s id="2164:13">
 Gospod	Somei	gospod-s	
 Füle	Slmei	Füle-s	
 ,	U	,-u	
@@ -1339,7 +1339,7 @@ je	Gp-ste-n	biti-g
 čas	Sometn	čas-s	
 .	SENT	.-s	
 </s>
-<s id="2164:14&collection=eptic3">
+<s id="2164:14">
 Združene	Pdnzmi	združen-p	združena
 države	Sozmi	država-s	
 so	Gp-stm-n	biti-g	
@@ -1360,7 +1360,7 @@ smislu	Somem	smisel-s
 verodostojnosti	Sozer	verodostojnost-s	
 .	SENT	.-s	
 </s>
-<s id="2164:15&collection=eptic3">
+<s id="2164:15">
 EU	Slzei	EU-s	
 še	L	še-l	
 čaka	Ggnste	čakati-g	
@@ -1379,7 +1379,7 @@ govorili	Ggnd-mm	govoriti-g
 nocoj	Rsn	nocoj-r	
 .	SENT	.-s	
 </s>
-<s id="2164:16&collection=eptic3">
+<s id="2164:16">
 Mlada	Ppnzei	mlad-p	mlada
 ,	U	,-u	
 svobodi	Sozed	svoboda-s	
@@ -1437,7 +1437,7 @@ internetu	Somem	internet-s
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2165:1&collection=eptic3">
+<s id="2165:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -1460,7 +1460,7 @@ nazadovanja	Soser	nazadovanje-s
 države	Sozer	država-s	
 .	SENT	.-s	
 </s>
-<s id="2165:2&collection=eptic3">
+<s id="2165:2">
 Očitna	Ppnzei	Očitna-p	očitna
 korupcija	Sozei	korupcija-s	
 in	Vp	in-v	
@@ -1482,7 +1482,7 @@ navadnih	Ppnmmr	navaden-p	navaden
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2165:3&collection=eptic3">
+<s id="2165:3">
 Nekdanji	Ppnmeid	nekdanji-p	nekdanji
 predsednik	Somei	predsednik-s	
 Ben	Slmei	Ben-s	
@@ -1530,7 +1530,7 @@ arabskem	Ppnmem	arabski-p	arabski
 svetu	Somem	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2165:4&collection=eptic3">
+<s id="2165:4">
 Tunizija	Slzei	Tunizija-s	
 je	Gp-ste-n	biti-g	
 bila	Gp-d-ez	biti-g	
@@ -1547,7 +1547,7 @@ arabske	Ppnzer	arabski-p	arabska
 države	Sozer	država-s	
 .	SENT	.-s	
 </s>
-<s id="2165:5&collection=eptic3">
+<s id="2165:5">
 Na	Dt	na-d	
 primer	Sometn	primer-s	
 ,	U	,-u	
@@ -1569,7 +1569,7 @@ in	Vp	in-v
 turizem	Somei	turizem-s	
 .	SENT	.-s	
 </s>
-<s id="2165:6&collection=eptic3">
+<s id="2165:6">
 Tunizija	Slzei	Tunizija-s	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -1589,7 +1589,7 @@ posvetne	Ppnzer	posveten-p	posvetna
 družbe	Sozer	družba-s	
 .	SENT	.-s	
 </s>
-<s id="2165:7&collection=eptic3">
+<s id="2165:7">
 Zato	Rsn	zato-r	
 je	Gp-ste-n	biti-g	
 pomembno	Ppnsei	pomemben-p	pomembno
@@ -1652,7 +1652,7 @@ zunanje	Ppnzer	zunanji-p	zunanja
 politike	Sozer	politika-s	
 .	SENT	.-s	
 </s>
-<s id="2165:8&collection=eptic3">
+<s id="2165:8">
 Novo	Ppnsei	nov-p	novo
 politično	Ppnsei	političen-p	politično
 vodstvo	Sosei	vodstvo-s	
@@ -1675,7 +1675,7 @@ nasilni	Ppnmetd	nasilen-p	nasilen
 radikalizem	Sometn	radikalizem-s	
 .	SENT	.-s	
 </s>
-<s id="2165:9&collection=eptic3">
+<s id="2165:9">
 Pozdravljam	Ggnspe	pozdravljati-g	
 dejstvo	Soset	dejstvo-s	
 ,	U	,-u	
@@ -1700,7 +1700,7 @@ Evropsko	Ppnzeo	evropski-p	evropska
 unijo	Sozeo	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2165:10&collection=eptic3">
+<s id="2165:10">
 Vmes	Rsn	vmes-r	
 pa	Vp	pa-v	
 moja	Zspzeie	moj-z	
@@ -1750,7 +1750,7 @@ destabilizirali	Ggvd-mm	destabilizirati-g
 državo	Sozet	država-s	
 .	SENT	.-s	
 </s>
-<s id="2165:11&collection=eptic3">
+<s id="2165:11">
 Čestitam	Slzmd	Čestitam-s	
 vojski	Sozed	vojska-s	
 na	Dm	na-d	
@@ -1762,7 +1762,7 @@ institucij	Sozmr	institucija-s
 republike	Sozer	republika-s	
 .	SENT	.-s	
 </s>
-<s id="2165:12&collection=eptic3">
+<s id="2165:12">
 V	Dm	v-d	
 EU	Slzem	EU-s	
 moramo	Ggnspm	morati-g	
@@ -1813,7 +1813,7 @@ počitnicah	Sozmm	počitnice-s
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2166:1&collection=eptic3">
+<s id="2166:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -1843,7 +1843,7 @@ ljudi	Sommr	človek-s
 Tunizije	Slzer	Tunizija-s	
 .	SENT	.-s	
 </s>
-<s id="2166:2&collection=eptic3">
+<s id="2166:2">
 Noben	Zl-mei	noben-z	
 demokrat	Somei	demokrat-s	
 temu	Zk-sed	ta-z	
@@ -1853,7 +1853,7 @@ mogle	Ggnd-mz	moči-g
 nasprotovati	Ggnn	nasprotovati-g	
 .	SENT	.-s	
 </s>
-<s id="2166:3&collection=eptic3">
+<s id="2166:3">
 Ljudje	Sommi	človek-s	
 lahko	Rsn	lahko-r	
 prenašajo	Ggnstm	prenašati-g	
@@ -1878,7 +1878,7 @@ bodo	Gp-ptm-n	biti-g
 uprli	Ggdd-mm	upreti-g	
 .	SENT	.-s	
 </s>
-<s id="2166:4&collection=eptic3">
+<s id="2166:4">
 Načelo	Sosei	načelo-s	
 notranjih	Ppnzmr	notranji-p	notranja
 varnostnih	Ppnzmr	varnosten-p	varnostna
@@ -1904,7 +1904,7 @@ zaloge	Sozmi	zaloga-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2166:5&collection=eptic3">
+<s id="2166:5">
 Ali	Vp	ali-v	
 je	Gp-ste-n	biti-g	
 med	Do	med-d	
@@ -1925,7 +1925,7 @@ kakšne	Zv-zmt	kakšen-z
 vzporednice	Sozmt	vzporednica-s	
 ?	SENT	?-s	
 </s>
-<s id="2166:6&collection=eptic3">
+<s id="2166:6">
 EU	Slzei	EU-s	
 nudi	Ggnste	nuditi-g	
 nedemokratično	Ppnzet	nedemokratičen-p	nedemokratična
@@ -1934,7 +1934,7 @@ nesposobno	Ppnzet	nesposoben-p	nesposobna
 vlado	Sozet	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2166:7&collection=eptic3">
+<s id="2166:7">
 Ima	Ggnste-n	imeti-g	
 političen	Ppnmetn	političen-p	politični
 razred	Sometn	razred-s	
@@ -1950,7 +1950,7 @@ njenih	Zstzmrez	njen-z
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2166:8&collection=eptic3">
+<s id="2166:8">
 V	Dm	v-d	
 mnogih	Zn-zmm	mnog-z	
 državah	Sozmm	država-s	
@@ -1968,7 +1968,7 @@ politik	Sozmr	politika-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2166:9&collection=eptic3">
+<s id="2166:9">
 V	Dm	v-d	
 Grčiji	Slzem	Grčija-s	
 smo	Gp-spm-n	biti-g	
@@ -1987,7 +1987,7 @@ enotni	Ppnzed	enoten-p	enotna
 valuti	Sozed	valuta-s	
 .	SENT	.-s	
 </s>
-<s id="2166:10&collection=eptic3">
+<s id="2166:10">
 Države	Sozmi	država-s	
 ,	U	,-u	
 kot	Vd	kot-v	
@@ -2015,7 +2015,7 @@ brezizhoden	Ppnmetn	brezizhoden-p	brezizhoden
 položaj	Sometn	položaj-s	
 .	SENT	.-s	
 </s>
-<s id="2166:11&collection=eptic3">
+<s id="2166:11">
 Nikar	L	nikar-l	
 ne	L	ne-l	
 mislite	Ggnsdm	misliti-g	
@@ -2031,7 +2031,7 @@ evropskih	Ppnzmm	evropski-p	evropska
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2166:12&collection=eptic3">
+<s id="2166:12">
 Ko	Vd	ko-v	
 vlade	Sozer	vlada-s	
 postanejo	Ggdstm	postati-g	
@@ -2048,7 +2048,7 @@ slej	Rsn	slej-r
 uprl	Ggdd-em	upreti-g	
 .	SENT	.-s	
 </s>
-<s id="2166:13&collection=eptic3">
+<s id="2166:13">
 Strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
 z	Do	z-d	
@@ -2081,7 +2081,7 @@ svetu	Somem	svet-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2167:1&collection=eptic3">
+<s id="2167:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -2117,7 +2117,7 @@ belgijskim	Ppnseo	belgijski-p	belgijsko
 predsedstvom	Soseo	predsedstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2167:2&collection=eptic3">
+<s id="2167:2">
 Na	Dm	na-d	
 začetku	Somem	začetek-s	
 se	Zp------k	se-z	
@@ -2148,7 +2148,7 @@ postal	Ggdd-em	postati-g
 resničnost	Sozet	resničnost-s	
 .	SENT	.-s	
 </s>
-<s id="2167:3&collection=eptic3">
+<s id="2167:3">
 Pred	Do	pred-d	
 vsemi	Zc-smo	ves-z	
 se	Zp------k	se-z	
@@ -2174,7 +2174,7 @@ predano	Pdnset	predan-p	predano
 delo	Soset	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2167:4&collection=eptic3">
+<s id="2167:4">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 rekla	Ggdd-ez	reči-g	
@@ -2203,7 +2203,7 @@ vprašajem	Someo	vprašaj-s
 )	U	)-u	
 .	SENT	.-s	
 </s>
-<s id="2167:5&collection=eptic3">
+<s id="2167:5">
 Pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -2221,7 +2221,7 @@ v	Dm	v-d
 trgovini	Sozem	trgovina-s	
 .	SENT	.-s	
 </s>
-<s id="2167:6&collection=eptic3">
+<s id="2167:6">
 Kot	Vd	kot-v	
 v	Dm	v-d	
 svojem	Zp-sem	svoj-z	
@@ -2266,7 +2266,7 @@ odpora	Somer	odpor-s
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2167:7&collection=eptic3">
+<s id="2167:7">
 S	Do	z-d	
 tem	Zk-meo	ta-z	
 predlogom	Someo	predlog-s	
@@ -2310,7 +2310,7 @@ bo	Gp-pte-n	biti-g
 posloval	Ggnd-em	poslovati-g	
 .	SENT	.-s	
 </s>
-<s id="2167:8&collection=eptic3">
+<s id="2167:8">
 Gradbeni	Ppnmeid	gradben-p	gradbeni
 sektor	Somei	sektor-s	
 se	Zp------k	se-z	
@@ -2350,7 +2350,7 @@ vsej	Zc-zem	ves-z
 EU	Slzem	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2167:9&collection=eptic3">
+<s id="2167:9">
 Nikoli	Rsn	nikoli-r	
 ne	L	ne-l	
 smemo	Ggnspm	smeti-g	
@@ -2397,7 +2397,7 @@ milijonov	Sommr	milijon-s
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2167:10&collection=eptic3">
+<s id="2167:10">
 V	Dm	v-d	
 smislu	Somem	smisel-s	
 gospodarske	Ppnzer	gospodarski-p	gospodarska
@@ -2413,7 +2413,7 @@ in	Vp	in-v
 zaposlovanje	Soset	zaposlovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2167:11&collection=eptic3">
+<s id="2167:11">
 Obenem	Rsn	obenem-r	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -2425,7 +2425,7 @@ za	Dt	za-d
 zaposlitev	Sozet	zaposlitev-s	
 .	SENT	.-s	
 </s>
-<s id="2167:12&collection=eptic3">
+<s id="2167:12">
 Na	Dt	na-d	
 primer	Sometn	primer-s	
 v	Dm	v-d	
@@ -2456,7 +2456,7 @@ njihovi	Zstzemm	njihov-z
 dobi	Sozem	doba-s	
 .	SENT	.-s	
 </s>
-<s id="2167:13&collection=eptic3">
+<s id="2167:13">
 Nikoli	Rsn	nikoli-r	
 se	Zp------k	se-z	
 ne	L	ne-l	
@@ -2486,7 +2486,7 @@ tem	Zk-sem	ta-z
 poročilu	Sosem	poročilo-s	
 .	SENT	.-s	
 </s>
-<s id="2167:14&collection=eptic3">
+<s id="2167:14">
 In	Vp	in-v	
 prav	L	prav-l	
 s	Do	z-d	
@@ -2570,7 +2570,7 @@ vdihavanje	Sosei	vdihavanje-s
 prahu	Somer	prah-s	
 .	SENT	.-s	
 </s>
-<s id="2167:15&collection=eptic3">
+<s id="2167:15">
 Ustrezno	Ppnsei	ustrezen-p	ustrezno
 označevanje	Sosei	označevanje-s	
 nevarnih	Ppnzmr	nevaren-p	nevarna
@@ -2599,7 +2599,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2167:16&collection=eptic3">
+<s id="2167:16">
 Ponosna	Ppnzei	ponosen-p	ponosna
 sem	Gp-spe-n	biti-g	
 zaradi	Dr	zaradi-d	
@@ -2620,7 +2620,7 @@ leta	Soser	leto-s
 pljuč	Sosmr	pljuča-s	
 .	SENT	.-s	
 </s>
-<s id="2167:17&collection=eptic3">
+<s id="2167:17">
 Zdravje	Sosei	zdravje-s	
 pljuč	Sosmr	pljuča-s	
 se	Zp------k	se-z	
@@ -2642,7 +2642,7 @@ njegov	Zstmetem	njegov-z
 pomen	Sometn	pomen-s	
 .	SENT	.-s	
 </s>
-<s id="2167:18&collection=eptic3">
+<s id="2167:18">
 Rada	Rsn	rad-r	
 bi	Gp-g	biti-g	
 povedala	Ggdd-ez	povedati-g	
@@ -2653,7 +2653,7 @@ o	Dm	o-d
 MSP	Sosem	MSP-s	
 .	SENT	.-s	
 </s>
-<s id="2167:19&collection=eptic3">
+<s id="2167:19">
 V	Dm	v-d	
 Parlamentu	Somem	parlament-s	
 se	Zp------k	se-z	
@@ -2679,7 +2679,7 @@ našem	Zspsemm	naš-z
 delu	Sosed	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2167:20&collection=eptic3">
+<s id="2167:20">
 Zato	Rsn	zato-r	
 smo	Gp-spm-n	biti-g	
 uspeli	Ggdd-mm	uspeti-g	
@@ -2730,7 +2730,7 @@ za	Dt	za-d
 trgovanje	Soset	trgovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2167:21&collection=eptic3">
+<s id="2167:21">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -2778,7 +2778,7 @@ prvotno	Rsn	prvotno-r
 predvideno	Pdnsei	predviden-p	predvideno
 .	SENT	.-s	
 </s>
-<s id="2167:22&collection=eptic3">
+<s id="2167:22">
 Preglednost	Sozei	preglednost-s	
 procesov	Sommr	proces-s	
 in	Vp	in-v	
@@ -2801,7 +2801,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2167:23&collection=eptic3">
+<s id="2167:23">
 To	Zk-sei	ta-z	
 bi	Gp-g	biti-g	
 moralo	Ggnd-es	morati-g	
@@ -2832,7 +2832,7 @@ gospodarskih	Ppnzmm	gospodarski-p	gospodarska
 razmerah	Sozmm	razmera-s	
 .	SENT	.-s	
 </s>
-<s id="2167:24&collection=eptic3">
+<s id="2167:24">
 V	Dm	v-d	
 Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
@@ -2845,7 +2845,7 @@ boljšo	Pppzet	dober-p	boljša
 ureditev	Sozet	ureditev-s	
 .	SENT	.-s	
 </s>
-<s id="2167:25&collection=eptic3">
+<s id="2167:25">
 Skupaj	Rsn	skupaj-r	
 s	Do	z-d	
 poročevalci	Sommo	poročevalec-s	
@@ -2880,7 +2880,7 @@ njihovo	Zstzetm	njihov-z
 izvajanje	Soset	izvajanje-s	
 .	SENT	.-s	
 </s>
-<s id="2167:26&collection=eptic3">
+<s id="2167:26">
 Za	Dt	za-d	
 sektor	Sometn	sektor-s	
 ,	U	,-u	
@@ -2909,7 +2909,7 @@ te	Zk-zmt	ta-z
 spremembe	Sozmt	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2167:27&collection=eptic3">
+<s id="2167:27">
 Obseg	Somei	obseg-s	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -2967,7 +2967,7 @@ mest	Sosmr	mesto-s
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2168:1&collection=eptic3">
+<s id="2168:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -2983,7 +2983,7 @@ trdo	Ppnset	trd-p	trdo
 delo	Soset	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2168:2&collection=eptic3">
+<s id="2168:2">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 bila	Gp-d-ez	biti-g	
@@ -2992,7 +2992,7 @@ dolga	Ppnzei	dolg-p	dolga
 pot	Sozei	pot-s	
 .	SENT	.-s	
 </s>
-<s id="2168:3&collection=eptic3">
+<s id="2168:3">
 Gradbeni	Ppnmeid	gradben-p	gradbeni
 sektor	Somei	sektor-s	
 v	Dm	v-d	
@@ -3006,7 +3006,7 @@ državljanov	Sommr	državljan-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2168:4&collection=eptic3">
+<s id="2168:4">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 mala	Ppnzei	mali-p	mala
@@ -3032,7 +3032,7 @@ posameznih	Ppnsmr	posamezen-p	posamezno
 podjetij	Sosmr	podjetje-s	
 .	SENT	.-s	
 </s>
-<s id="2168:5&collection=eptic3">
+<s id="2168:5">
 Gradbeni	Ppnmeid	gradben-p	gradbeni
 sektor	Somei	sektor-s	
 je	Gp-ste-n	biti-g	
@@ -3058,7 +3058,7 @@ gospodarski	Ppnzem	gospodarski-p	gospodarska
 krizi	Sozem	kriza-s	
 .	SENT	.-s	
 </s>
-<s id="2168:6&collection=eptic3">
+<s id="2168:6">
 To	Zk-sei	ta-z	
 poročilo	Sosei	poročilo-s	
 vsebuje	Ggnste	vsebovati-g	
@@ -3085,7 +3085,7 @@ zakonodaje	Sozer	zakonodaja-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2168:7&collection=eptic3">
+<s id="2168:7">
 Ni	Gp-ste-d	biti-g	
 popolno	Ppnsei	popoln-p	popolno
 :	U	:-u	
@@ -3093,7 +3093,7 @@ je	Gp-ste-n	biti-g
 kompromis	Somei	kompromis-s	
 .	SENT	.-s	
 </s>
-<s id="2168:8&collection=eptic3">
+<s id="2168:8">
 Med	Do	med-d	
 ključnimi	Ppnsmo	ključen-p	ključno
 vprašanji	Sosmo	vprašanje-s	
@@ -3130,7 +3130,7 @@ večja	Pppsmi	velik-p	večje
 podjetja	Sosmi	podjetje-s	
 .	SENT	.-s	
 </s>
-<s id="2168:9&collection=eptic3">
+<s id="2168:9">
 Pri	Dm	pri-d	
 obravnavi	Sozem	obravnava-s	
 in	Vp	in-v	
@@ -3160,7 +3160,7 @@ predpisi	Sommo	predpis-s
 REACH	Slmei	REACH-s	
 .	SENT	.-s	
 </s>
-<s id="2168:10&collection=eptic3">
+<s id="2168:10">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -3223,7 +3223,7 @@ potrošnike	Sommt	potrošnik-s
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2169:1&collection=eptic3">
+<s id="2169:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -3268,7 +3268,7 @@ Catherine	Slzei	Catherine-s
 Stihler	Slzei	Stihler-s	
 .	SENT	.-s	
 </s>
-<s id="2169:2&collection=eptic3">
+<s id="2169:2">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -3303,7 +3303,7 @@ dobro	Rsn	dobro-r
 opravila	Ggdd-ez	opraviti-g	
 .	SENT	.-s	
 </s>
-<s id="2169:3&collection=eptic3">
+<s id="2169:3">
 Pripomnil	Ggdd-em	pripomniti-g	
 bi	Gp-g	biti-g	
 ,	U	,-u	
@@ -3337,7 +3337,7 @@ od	Dr	od-d
 Sveta	Somer	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2169:4&collection=eptic3">
+<s id="2169:4">
 Gospa	Sozei	gospa-s	
 Rühle	Slmei	Rühle-s	
 je	Gp-ste-n	biti-g	
@@ -3353,7 +3353,7 @@ nekaj	Rsn	nekaj-r
 nesoglasij	Sosmr	nesoglasje-s	
 .	SENT	.-s	
 </s>
-<s id="2169:5&collection=eptic3">
+<s id="2169:5">
 Imamo	Ggnspm-n	imeti-g	
 pismo	Soset	pismo-s	
 madžarskega	Ppnser	madžarski-p	madžarsko
@@ -3371,7 +3371,7 @@ z	Do	z-d
 zapisnikom	Someo	zapisnik-s	
 .	SENT	.-s	
 </s>
-<s id="2169:6&collection=eptic3">
+<s id="2169:6">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 podal	Ggvd-em	podati-g	
@@ -3385,7 +3385,7 @@ tega	Zk-mer	ta-z
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2169:7&collection=eptic3">
+<s id="2169:7">
 Prva	Kbvzei	prvi-k	
 je	Gp-ste-n	biti-g	
 namenjena	Pdnzei	namenjen-p	namenjena
@@ -3422,7 +3422,7 @@ z	Do	z-d
 vami	Zod-mo	ti-z	
 .	SENT	.-s	
 </s>
-<s id="2169:8&collection=eptic3">
+<s id="2169:8">
 Kot	Vd	kot-v	
 ste	Gp-sdm-n	biti-g	
 poudarili	Ggdd-mm	poudariti-g	
@@ -3451,7 +3451,7 @@ resno	Rsn	resno-r
 spremljati	Ggnn	spremljati-g	
 .	SENT	.-s	
 </s>
-<s id="2169:9&collection=eptic3">
+<s id="2169:9">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 mislim	Ggnspe	misliti-g	
@@ -3507,7 +3507,7 @@ gospodarstvu	Sosed	gospodarstvo-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2170:1&collection=eptic3">
+<s id="2170:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -3531,7 +3531,7 @@ ta	Zk-met	ta-z
 večer	Sometn	večer-s	
 .	SENT	.-s	
 </s>
-<s id="2170:2&collection=eptic3">
+<s id="2170:2">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -3574,7 +3574,7 @@ sodelovanje	Sosei	sodelovanje-s
 naprej	Rsn	naprej-r	
 .	SENT	.-s	
 </s>
-<s id="2170:3&collection=eptic3">
+<s id="2170:3">
 To	Zk-set	ta-z	
 ,	U	,-u	
 kar	Zz-set	kar-z	
@@ -3636,7 +3636,7 @@ kar	Rsn	kar-r
 tako	Rsn	tako-r	
 .	SENT	.-s	
 </s>
-<s id="2170:4&collection=eptic3">
+<s id="2170:4">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 nekaj	Zn-sei	nekaj-z	
@@ -3650,7 +3650,7 @@ tej	Zk-zem	ta-z
 razpravi	Sozem	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2170:5&collection=eptic3">
+<s id="2170:5">
 Gradbeni	Ppnmeid	gradben-p	gradbeni
 sektor	Somei	sektor-s	
 je	Gp-ste-n	biti-g	
@@ -3737,7 +3737,7 @@ milijonov	Sommr	milijon-s
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2170:6&collection=eptic3">
+<s id="2170:6">
 Hvala	Sozei	hvala-s	
 ,	U	,-u	
 gospa	Sozei	gospa-s	
@@ -3793,7 +3793,7 @@ spremljala	Ggnd-ez	spremljati-g
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2171:1&collection=eptic3">
+<s id="2171:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -3820,7 +3820,7 @@ resen	Ppnmein	resen-p	resen
 incident	Somei	incident-s	
 .	SENT	.-s	
 </s>
-<s id="2171:2&collection=eptic3">
+<s id="2171:2">
 Službe	Sozei	Službe-s	
 Komisije	Sozer	komisija-s	
 pozorno	Rsn	pozorno-r	
@@ -3838,7 +3838,7 @@ nemški	Ppnmmi	nemški-p	nemški
 organi	Sommi	organ-s	
 .	SENT	.-s	
 </s>
-<s id="2171:3&collection=eptic3">
+<s id="2171:3">
 Sam	Ppnmein	sam-p	sam
 sem	Gp-spe-n	biti-g	
 že	L	že-l	
@@ -3865,7 +3865,7 @@ in	Vp	in-v
 živil	Sosmr	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2171:4&collection=eptic3">
+<s id="2171:4">
 A	Vp	a-v	
 dovolite	Ggdvdm	dovoliti-g	
 mi	Zop-ed--k	jaz-z	
@@ -3925,7 +3925,7 @@ zakonodajo	Sozeo	zakonodaja-s
 EU	Slzeo	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2171:5&collection=eptic3">
+<s id="2171:5">
 Od	Dr	od-d	
 sredine	Sozer	sredina-s	
 novembra	Somer	november-s	
@@ -3958,7 +3958,7 @@ tehnično	Ppnzet	tehničen-p	tehnična
 uporabo	Sozet	uporaba-s	
 .	SENT	.-s	
 </s>
-<s id="2171:6&collection=eptic3">
+<s id="2171:6">
 To	Zk-set	ta-z	
 drugo	Kbzsei	drug-k	
 podjetje	Sosei	podjetje-s	
@@ -3974,7 +3974,7 @@ krmnih	Ppnzmr	krmen-p	krmna
 maščob	Sozmr	maščoba-s	
 ;	U	;-u	
 </s>
-<s id="2171:7&collection=eptic3">
+<s id="2171:7">
 domnevno	Rsn	domnevno-r	
 je	Gp-ste-n	biti-g	
 prišlo	Ggdd-es	priti-g	
@@ -4011,7 +4011,7 @@ z	Do	z-d
 dioksini	Sommo	dioksin-s	
 .	SENT	.-s	
 </s>
-<s id="2171:8&collection=eptic3">
+<s id="2171:8">
 Ostale	Pdnzmi	ostal-p	ostala
 tri	Kbgzmi	trije-k	
 ,	U	,-u	
@@ -4033,7 +4033,7 @@ bile	Gp-d-mz	biti-g
 okužene	Pdnzmi	okužen-p	okužena
 .	SENT	.-s	
 </s>
-<s id="2171:9&collection=eptic3">
+<s id="2171:9">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 so	Gp-stm-n	biti-g	
@@ -4055,7 +4055,7 @@ potencialno	Rsn	potencialno-r
 okužene	Pdnzmi	okužen-p	okužena
 .	SENT	.-s	
 </s>
-<s id="2171:10&collection=eptic3">
+<s id="2171:10">
 Skoraj	L	skoraj-l	
 2	Kag	[number]-k	
 300	Kag	[number]-k	
@@ -4074,7 +4074,7 @@ v	Dm	v-d
 Nemčiji	Slzem	Nemčija-s	
 .	SENT	.-s	
 </s>
-<s id="2171:11&collection=eptic3">
+<s id="2171:11">
 Zunaj	Dr	zunaj-d	
 Nemčije	Slzer	Nemčija-s	
 ni	Gp-ste-d	biti-g	
@@ -4086,7 +4086,7 @@ krmnih	Ppnzmr	krmen-p	krmna
 maščob	Sozmr	maščoba-s	
 .	SENT	.-s	
 </s>
-<s id="2171:12&collection=eptic3">
+<s id="2171:12">
 Od	Dr	od-d	
 100	Kag	[number]-k	
 000	Kag	[number]-k	
@@ -4118,7 +4118,7 @@ v	Dm	v-d
 Nemčiji	Slzem	Nemčija-s	
 .	SENT	.-s	
 </s>
-<s id="2171:13&collection=eptic3">
+<s id="2171:13">
 Iz	Dr	iz-d	
 strogo	Rsn	strogo-r	
 previdnostnih	Ppnmmr	previdnosten-p	previdnostni
@@ -4137,7 +4137,7 @@ bile	Gp-d-mz	biti-g
 ustavljene	Pdnzmi	ustavljen-p	ustavljena
 ;	U	;-u	
 </s>
-<s id="2171:14&collection=eptic3">
+<s id="2171:14">
 to	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 bile	Gp-d-mz	biti-g	
@@ -4164,7 +4164,7 @@ in	Vp	in-v
 zajcev	Sommr	zajec-s	
 .	SENT	.-s	
 </s>
-<s id="2171:15&collection=eptic3">
+<s id="2171:15">
 Nekaj	Rsn	nekaj-r	
 dobav	Sozmr	dobava-s	
 potencialno	Rsn	potencialno-r	
@@ -4184,7 +4184,7 @@ na	Dt	na-d
 Dansko	Slzet	Danska-s	
 .	SENT	.-s	
 </s>
-<s id="2171:16&collection=eptic3">
+<s id="2171:16">
 Dokler	Vd	dokler-v	
 se	Zp------k	se-z	
 kmetije	Sozmi	kmetija-s	
@@ -4210,7 +4210,7 @@ zaprtih	Pdnzmr	zaprt-p	zaprta
 kmetij	Sozmr	kmetija-s	
 .	SENT	.-s	
 </s>
-<s id="2171:17&collection=eptic3">
+<s id="2171:17">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 mogoče	Ppnsei	mogoč-p	mogoče
@@ -4238,7 +4238,7 @@ pravo	Ppnzet	pravi-p	prava
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2171:18&collection=eptic3">
+<s id="2171:18">
 Od	Dr	od-d	
 4	Kag	[number]-k	
 800	Kag	[number]-k	
@@ -4264,7 +4264,7 @@ in	Vp	in-v
 prašiči	Sommo	prašič-s	
 .	SENT	.-s	
 </s>
-<s id="2171:19&collection=eptic3">
+<s id="2171:19">
 Kaže	Ggnste	kazati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -4296,7 +4296,7 @@ redkih	Ppnmmm	redek-p	redek
 primerih	Sommm	primer-s	
 .	SENT	.-s	
 </s>
-<s id="2171:20&collection=eptic3">
+<s id="2171:20">
 Rezultati	Sommi	rezultat-s	
 analize	Sozer	analiza-s	
 so	Gp-stm-n	biti-g	
@@ -4313,7 +4313,7 @@ zakonodajo	Sozeo	zakonodaja-s
 EU	Slzeo	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2171:21&collection=eptic3">
+<s id="2171:21">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 primer	Somei	primer-s	
@@ -4332,7 +4332,7 @@ zelo	Rsn	zelo-r
 pazljivi	Ppnmmi	pazljiv-p	pazljiv
 .	SENT	.-s	
 </s>
-<s id="2171:22&collection=eptic3">
+<s id="2171:22">
 Svetla	Ppnzei	svetel-p	svetla
 plat	Sozei	plat-s	
 tega	Zk-mer	ta-z	
@@ -4381,7 +4381,7 @@ zdravje	Soset	zdravje-s
 potrošnikov	Sommr	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2171:23&collection=eptic3">
+<s id="2171:23">
 Kako	Rsn	kako-r	
 je	Gp-ste-n	biti-g	
 Komisija	Sozei	komisija-s	
@@ -4392,7 +4392,7 @@ tega	Zk-mer	ta-z
 incidenta	Somer	incident-s	
 ?	SENT	?-s	
 </s>
-<s id="2171:24&collection=eptic3">
+<s id="2171:24">
 Moje	Zspseie	moj-z	
 službe	Sozmi	služba-s	
 so	Gp-stm-n	biti-g	
@@ -4423,7 +4423,7 @@ državam	Sozmd	država-s
 članicam	Sozmd	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2171:25&collection=eptic3">
+<s id="2171:25">
 Bile	Gp-d-mz	biti-g	
 so	Gp-stm-n	biti-g	
 tudi	L	tudi-l	
@@ -4447,7 +4447,7 @@ trgovinskim	Ppnmmd	trgovinski-p	trgovinski
 partnerjem	Sommd	partner-s	
 .	SENT	.-s	
 </s>
-<s id="2171:26&collection=eptic3">
+<s id="2171:26">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 so	Gp-stm-n	biti-g	
@@ -4518,7 +4518,7 @@ v	Dm	v-d
 prihodnosti	Sozem	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2171:27&collection=eptic3">
+<s id="2171:27">
 Danes	Rsn	danes-r	
 sem	Gp-spe-n	biti-g	
 ponovno	Rsn	ponovno-r	
@@ -4589,7 +4589,7 @@ sto	Kbg-mt	sto-k
 kmetij	Sozmr	kmetija-s	
 .	SENT	.-s	
 </s>
-<s id="2171:28&collection=eptic3">
+<s id="2171:28">
 Tu	Rsn	tu-r	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -4603,7 +4603,7 @@ varnosti	Sozem	varnost-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2171:29&collection=eptic3">
+<s id="2171:29">
 Naj	L	naj-l	
 povem	Ggdspe	povedati-g	
 zelo	Rsn	zelo-r	
@@ -4635,7 +4635,7 @@ in	Vp	in-v
 odločno	Rsn	odločno-r	
 .	SENT	.-s	
 </s>
-<s id="2171:30&collection=eptic3">
+<s id="2171:30">
 Obveščen	Pdnmein	Obveščen-p	obveščen
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -4661,7 +4661,7 @@ možnem	Ppnmem	možen-p	možen
 času	Somem	čas-s	
 .	SENT	.-s	
 </s>
-<s id="2171:31&collection=eptic3">
+<s id="2171:31">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -4684,7 +4684,7 @@ ravni	Sozem	raven-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2171:32&collection=eptic3">
+<s id="2171:32">
 Zato	Rsn	zato-r	
 bo	Gp-pte-n	biti-g	
 skupina	Sozei	skupina-s	
@@ -4732,7 +4732,7 @@ v	Dm	v-d
 prihodnosti	Sozem	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2171:33&collection=eptic3">
+<s id="2171:33">
 Nemški	Ppnmmi	nemški-p	nemški
 organi	Sommi	organ-s	
 so	Gp-stm-n	biti-g	
@@ -4747,7 +4747,7 @@ njim	Zotmeo	on-z
 strinjajo	Ggnstm	strinjati-g	
 .	SENT	.-s	
 </s>
-<s id="2171:34&collection=eptic3">
+<s id="2171:34">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -4761,7 +4761,7 @@ nemških	Ppnmmr	nemški-p	nemški
 kolegov	Sommr	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2171:35&collection=eptic3">
+<s id="2171:35">
 Razprava	Sozei	razprava-s	
 o	Dm	o-d	
 tem	Zk-mem	ta-z	
@@ -4786,7 +4786,7 @@ v	Dm	v-d
 Bruslju	Slmem	Bruselj-s	
 .	SENT	.-s	
 </s>
-<s id="2171:36&collection=eptic3">
+<s id="2171:36">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 že	L	že-l	
@@ -4801,7 +4801,7 @@ o	Dm	o-d
 zakonodajnih	Ppnmmm	zakonodajen-p	zakonodajni
 .	SENT	.-s	
 </s>
-<s id="2171:37&collection=eptic3">
+<s id="2171:37">
 Incident	Somei	incident-s	
 je	Gp-ste-n	biti-g	
 poudaril	Ggdd-em	poudariti-g	
@@ -4834,7 +4834,7 @@ in	Vp	in-v
 krme	Sozer	krma-s	
 .	SENT	.-s	
 </s>
-<s id="2171:38&collection=eptic3">
+<s id="2171:38">
 Za	Dt	za-d	
 namen	Sometn	namen-s	
 obravnave	Sozer	obravnava-s	
@@ -4889,7 +4889,7 @@ krmni	Ppnzem	krmen-p	krmna
 verigi	Sozem	veriga-s	
 .	SENT	.-s	
 </s>
-<s id="2171:39&collection=eptic3">
+<s id="2171:39">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -4926,7 +4926,7 @@ krme	Sozer	krma-s
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2172:1&collection=eptic3">
+<s id="2172:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -4949,7 +4949,7 @@ danes	Rsn	danes-r
 znašli	Ggdd-mm	znajti-g	
 .	SENT	.-s	
 </s>
-<s id="2172:2&collection=eptic3">
+<s id="2172:2">
 To	Zk-set	ta-z	
 sem	Gp-spe-n	biti-g	
 doživel	Ggdd-em	doživeti-g	
@@ -4970,7 +4970,7 @@ podobno	Ppnzeo	podoben-p	podobna
 zadevo	Sozeo	zadeva-s	
 .	SENT	.-s	
 </s>
-<s id="2172:3&collection=eptic3">
+<s id="2172:3">
 Ljudje	Sommi	človek-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -4995,7 +4995,7 @@ bili	Gp-d-mm	biti-g
 vpleteni	Pdnmmi	vpleten-p	vpleten
 .	SENT	.-s	
 </s>
-<s id="2172:4&collection=eptic3">
+<s id="2172:4">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -5021,7 +5021,7 @@ kriminalne	Ppnzmt	kriminalen-p	kriminalna
 namere	Sozmt	namera-s	
 .	SENT	.-s	
 </s>
-<s id="2172:5&collection=eptic3">
+<s id="2172:5">
 Vprašati	Ggnn	Vprašati-g	
 se	Zp------k	se-z	
 moramo	Ggnspm	morati-g	
@@ -5049,7 +5049,7 @@ gospod	Somei	gospod-s
 Häusling	Slmei	Häusling-s	
 .	SENT	.-s	
 </s>
-<s id="2172:6&collection=eptic3">
+<s id="2172:6">
 Če	Vd	če-v	
 to	Zk-sei	ta-z	
 drži	Ggnste	držati-g	
@@ -5063,7 +5063,7 @@ to	Zk-set	ta-z
 preganjati	Ggnn	preganjati-g	
 .	SENT	.-s	
 </s>
-<s id="2172:7&collection=eptic3">
+<s id="2172:7">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 moramo	Ggnspm	morati-g	
@@ -5082,7 +5082,7 @@ proizvajajo	Ggnstm	proizvajati-g
 živila	Sosmt	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2172:8&collection=eptic3">
+<s id="2172:8">
 Odgovornost	Sozet	odgovornost-s	
 nosijo	Ggnstm	nositi-g	
 tisti	Zk-mmi	tisti-z	
@@ -5094,7 +5094,7 @@ proizvajalcem	Sommd	proizvajalec-s
 živil	Sosmr	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2172:9&collection=eptic3">
+<s id="2172:9">
 Proti	Dd	proti-d	
 njim	Zotmmd	on-z	
 moramo	Ggnspm	morati-g	
@@ -5118,7 +5118,7 @@ zaupanje	Soset	zaupanje-s
 potrošnikov	Sommr	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2172:10&collection=eptic3">
+<s id="2172:10">
 Zelo	Rsn	zelo-r	
 dobro	Rsn	dobro-r	
 razumem	Ggvspe	razumeti-g	
@@ -5135,7 +5135,7 @@ zaupanje	Soset	zaupanje-s
 potrošnikov	Sommr	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2172:11&collection=eptic3">
+<s id="2172:11">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 nekdo	Zn-mei	nekdo-z	
@@ -5158,7 +5158,7 @@ se	Zp------k	se-z
 ponovilo	Ggdd-es	ponoviti-g	
 .	SENT	.-s	
 </s>
-<s id="2172:12&collection=eptic3">
+<s id="2172:12">
 Ne	L	ne-l	
 lotevajmo	Ggnvpm	lotevati-g	
 se	Zp------k	se-z	
@@ -5167,7 +5167,7 @@ nove	Ppnzer	nov-p	nova
 zakonodaje	Sozer	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2172:13&collection=eptic3">
+<s id="2172:13">
 Izvajajmo	Ggnvpm	izvajati-g	
 to	Zk-set	ta-z	
 ,	U	,-u	
@@ -5183,7 +5183,7 @@ imamo	Ggnspm-n	imeti-g
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2173:1&collection=eptic3">
+<s id="2173:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -5199,7 +5199,7 @@ pridelovalec	Somei	pridelovalec-s
 jajc	Sosmr	jajce-s	
 .	SENT	.-s	
 </s>
-<s id="2173:2&collection=eptic3">
+<s id="2173:2">
 Zdi	Ggnste	zdeti-g	
 se	Zp------k	se-z	
 ,	U	,-u	
@@ -5233,7 +5233,7 @@ oljne	Ppnzer	oljen-p	oljna
 ogrščice	Sozer	ogrščica-s	
 .	SENT	.-s	
 </s>
-<s id="2173:3&collection=eptic3">
+<s id="2173:3">
 Navdušenje	Sosei	Navdušenje-s	
 EU	Slzer	EU-s	
 nad	Do	nad-d	
@@ -5245,7 +5245,7 @@ nepredvidene	Ppnzmt	nepredviden-p	nepredvidena
 posledice	Sozmt	posledica-s	
 .	SENT	.-s	
 </s>
-<s id="2173:4&collection=eptic3">
+<s id="2173:4">
 Vendar	Vp	vendar-v	
 po	Dm	po-d	
 mojem	Zspseme	moj-z	
@@ -5257,7 +5257,7 @@ za	Dt	za-d
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2173:5&collection=eptic3">
+<s id="2173:5">
 Tega	Zk-ser	ta-z	
 ne	L	ne-l	
 bodo	Gp-ptm-n	biti-g	
@@ -5273,7 +5273,7 @@ nobene	Zl-zer	noben-z
 potrebe	Sozer	potreba-s	
 .	SENT	.-s	
 </s>
-<s id="2173:6&collection=eptic3">
+<s id="2173:6">
 Nemci	Slmmi	Nemec-s	
 so	Gp-stm-n	biti-g	
 opredelili	Ggdd-mm	opredeliti-g	
@@ -5291,7 +5291,7 @@ potrebne	Ppnmmt	potreben-p	potreben
 ukrepe	Sommt	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2173:7&collection=eptic3">
+<s id="2173:7">
 V	Dm	v-d	
 Združenem	Pdnsem	Združenem-p	združenem
 kraljestvu	Sosem	kraljestvo-s	
@@ -5306,7 +5306,7 @@ Lion	Slmei	Lion-s
 Code	Slmei	Code-s	
 .	SENT	.-s	
 </s>
-<s id="2173:8&collection=eptic3">
+<s id="2173:8">
 Ta	Zk-mei	ta-z	
 zajema	Ggnste	zajemati-g	
 proizvodnjo	Sozet	proizvodnja-s	
@@ -5336,7 +5336,7 @@ morejo	Ggnstm	moči-g
 zgoditi	Ggdn	zgoditi-g	
 .	SENT	.-s	
 </s>
-<s id="2173:9&collection=eptic3">
+<s id="2173:9">
 Torej	Rsn	torej-r	
 ,	U	,-u	
 če	Vd	če-v	
@@ -5376,7 +5376,7 @@ poslali	Ggdd-mm	poslati-g
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2174:1&collection=eptic3">
+<s id="2174:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -5426,7 +5426,7 @@ sledljivosti	Sozer	sledljivost-s
 živil	Sosmr	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2174:2&collection=eptic3">
+<s id="2174:2">
 Dejansko	Rsn	dejansko-r	
 je	Gp-ste-n	biti-g	
 več	Rsr	več-r	
@@ -5468,7 +5468,7 @@ predelanih	Pdnsmm	predelan-p	predelano
 živilih	Sosmm	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2174:3&collection=eptic3">
+<s id="2174:3">
 Sledljivost	Sozei	sledljivost-s	
 pogosto	Rsn	pogosto-r	
 velja	Ggnste	veljati-g	
@@ -5516,7 +5516,7 @@ varnosti	Sozer	varnost-s
 potrošnikov	Sommr	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2174:4&collection=eptic3">
+<s id="2174:4">
 Za	Dt	za-d	
 Komisijo	Sozet	komisija-s	
 imam	Ggnspe-n	imeti-g	
@@ -5525,7 +5525,7 @@ dve	Kbgsdt	dva-k
 vprašanji	Sosdt	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2174:5&collection=eptic3">
+<s id="2174:5">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 ali	Vp	ali-v	
@@ -5565,7 +5565,7 @@ predelanih	Pdnsmm	predelan-p	predelano
 živilih	Sosmm	živilo-s	
 ?	SENT	?-s	
 </s>
-<s id="2174:6&collection=eptic3">
+<s id="2174:6">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 ali	Vp	ali-v	
@@ -5603,7 +5603,7 @@ zdravje	Soset	zdravje-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2176:1&collection=eptic3">
+<s id="2176:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -5622,7 +5622,7 @@ na	Dm	na-d
 Irskem	Slsem	Irsko-s	
 .	SENT	.-s	
 </s>
-<s id="2176:2&collection=eptic3">
+<s id="2176:2">
 Sprašujem	Ggnspe	spraševati-g	
 se	Zp------k	se-z	
 ,	U	,-u	
@@ -5643,7 +5643,7 @@ sedanji	Ppnzed	sedanji-p	sedanja
 krizi	Sozed	kriza-s	
 .	SENT	.-s	
 </s>
-<s id="2176:3&collection=eptic3">
+<s id="2176:3">
 Imam	Ggnspe-n	imeti-g	
 eno	Kbzset	en-k	
 posebno	Ppnset	poseben-p	posebno
@@ -5666,7 +5666,7 @@ in	Vp	in-v
 potrošnike	Sommt	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2176:4&collection=eptic3">
+<s id="2176:4">
 Potrebujejo	Ggnstm	potrebovati-g	
 smernice	Sozmt	smernica-s	
 in	Vp	in-v	
@@ -5679,7 +5679,7 @@ higieni	Sozem	higiena-s
 krme	Sozer	krma-s	
 .	SENT	.-s	
 </s>
-<s id="2176:5&collection=eptic3">
+<s id="2176:5">
 Ali	Vp	ali-v	
 se	Zp------k	se-z	
 lahko	Rsn	lahko-r	
@@ -5698,7 +5698,7 @@ kar	Zz-set	kar-z
 prosijo	Ggnstm	prositi-g	
 ?	SENT	?-s	
 </s>
-<s id="2176:6&collection=eptic3">
+<s id="2176:6">
 Rada	Rsn	rad-r	
 bi	Gp-g	biti-g	
 poudarila	Ggdd-ez	poudariti-g	
@@ -5707,7 +5707,7 @@ tri	Kbgzmt	trije-k
 stvari	Sozmt	stvar-s	
 .	SENT	.-s	
 </s>
-<s id="2176:7&collection=eptic3">
+<s id="2176:7">
 Zelo	Rsn	zelo-r	
 jasno	Rsn	jasno-r	
 moramo	Ggnspm	morati-g	
@@ -5749,7 +5749,7 @@ prehranjevalno	Ppnzet	prehranjevalen-p	prehranjevalna
 verigo	Sozet	veriga-s	
 .	SENT	.-s	
 </s>
-<s id="2176:8&collection=eptic3">
+<s id="2176:8">
 Ne	L	ne-l	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -5757,7 +5757,7 @@ strašno	Ppnzet	strašen-p	strašna
 znanost	Sozet	znanost-s	
 .	SENT	.-s	
 </s>
-<s id="2176:9&collection=eptic3">
+<s id="2176:9">
 Kot	Vd	kot-v	
 so	Gp-stm-n	biti-g	
 dejali	Ggdd-mm	dejati-g	
@@ -5783,7 +5783,7 @@ za	Dt	za-d
 denar	Sometn	denar-s	
 .	SENT	.-s	
 </s>
-<s id="2176:10&collection=eptic3">
+<s id="2176:10">
 Do	Dr	do-d	
 nižjih	Pppmmr	nizek-p	nižji
 stroškov	Sommr	strošek-s	
@@ -5793,7 +5793,7 @@ po	Dm	po-d
 bližnjicah	Sozmm	bližnjica-s	
 .	SENT	.-s	
 </s>
-<s id="2176:11&collection=eptic3">
+<s id="2176:11">
 Problem	Somei	problem-s	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -5805,7 +5805,7 @@ na	Dt	na-d
 milijarde	Sozmt	milijarda-s	
 ;	U	;-u	
 </s>
-<s id="2176:12&collection=eptic3">
+<s id="2176:12">
 zmanjšuje	Ggnste	zmanjševati-g	
 zaupanje	Sosei	zaupanje-s	
 potrošnikov	Sommr	potrošnik-s	
@@ -5821,7 +5821,7 @@ in	Vp	in-v
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2177:1&collection=eptic3">
+<s id="2177:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -5835,7 +5835,7 @@ podobnih	Ppnmmr	podoben-p	podoben
 incidentov	Sommr	incident-s	
 .	SENT	.-s	
 </s>
-<s id="2177:2&collection=eptic3">
+<s id="2177:2">
 Mislil	Ggnd-em	misliti-g	
 bi	Gp-g	biti-g	
 si	Zp---d--k	se-z	
@@ -5865,7 +5865,7 @@ incidente	Sommt	incident-s
 preprečujejo	Ggnstm	preprečevati-g	
 .	SENT	.-s	
 </s>
-<s id="2177:3&collection=eptic3">
+<s id="2177:3">
 To	Zk-sei	ta-z	
 povzroča	Ggnste	povzročati-g	
 kar	Rsn	kar-r	
@@ -5874,7 +5874,7 @@ resnih	Ppnmmr	resen-p	resen
 pomislekov	Sommr	pomislek-s	
 .	SENT	.-s	
 </s>
-<s id="2177:4&collection=eptic3">
+<s id="2177:4">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 to	Zk-sei	ta-z	
@@ -5901,7 +5901,7 @@ vedno	Rsn	vedno-r
 kmetovalci	Sommi	kmetovalec-s	
 .	SENT	.-s	
 </s>
-<s id="2177:5&collection=eptic3">
+<s id="2177:5">
 Kmetovalci	Sommi	kmetovalec-s	
 so	Gp-stm-n	biti-g	
 vedno	Rsn	vedno-r	
@@ -5921,7 +5921,7 @@ predelovalno	Ppnzet	predelovalen-p	predelovalna
 industrijo	Sozet	industrija-s	
 .	SENT	.-s	
 </s>
-<s id="2177:6&collection=eptic3">
+<s id="2177:6">
 Dokaj	Rsn	dokaj-r	
 zadovoljen	Ppnmein	zadovoljen-p	zadovoljen
 sem	Gp-spe-n	biti-g	
@@ -5953,7 +5953,7 @@ pojavil	Ggdd-em	pojaviti-g
 problem	Somei	problem-s	
 .	SENT	.-s	
 </s>
-<s id="2177:7&collection=eptic3">
+<s id="2177:7">
 Kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
 se	Zp------k	se-z	
@@ -6010,7 +6010,7 @@ dejanja	Soser	dejanje-s
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2178:1&collection=eptic3">
+<s id="2178:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -6041,7 +6041,7 @@ njihovega	Zstmerm	njihov-z
 lesa	Somer	les-s	
 .	SENT	.-s	
 </s>
-<s id="2178:2&collection=eptic3">
+<s id="2178:2">
 Gozdovi	Sommi	gozd-s	
 ne	L	ne-l	
 pripadajo	Ggnstm	pripadati-g	
@@ -6072,7 +6072,7 @@ ton	Sozmr	tona-s
 ogljika	Somer	ogljik-s	
 .	SENT	.-s	
 </s>
-<s id="2178:3&collection=eptic3">
+<s id="2178:3">
 Zaustavitev	Sozei	zaustavitev-s	
 krčenja	Soser	krčenje-s	
 gozdov	Sommr	gozd-s	
@@ -6102,7 +6102,7 @@ storiti	Ggdn	storiti-g
 leta	Soser	leto-s	
 .	U	.-u	
 </s>
-<s id="2178:4&collection=eptic3">
+<s id="2178:4">
 Zadevnima	Ppnmdo	zadeven-p	zadevni
 državama	Sozdo	država-s	
 je	Gp-ste-n	biti-g	
@@ -6126,7 +6126,7 @@ z	Do	z-d
 EU	Slzeo	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2178:5&collection=eptic3">
+<s id="2178:5">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 bo	Gp-pte-n	biti-g	
@@ -6139,7 +6139,7 @@ pravi	Ppnmeid	pravi-p	pravi
 izziv	Somei	izziv-s	
 .	SENT	.-s	
 </s>
-<s id="2178:6&collection=eptic3">
+<s id="2178:6">
 Bog	Somei	bog-s	
 ve	Ggnste	vedeti-g	
 ,	U	,-u	
@@ -6158,7 +6158,7 @@ lastne	Ppnzer	lasten-p	lastna
 celine	Sozer	celina-s	
 .	SENT	.-s	
 </s>
-<s id="2178:7&collection=eptic3">
+<s id="2178:7">
 A	Vp	a-v	
 volja	Sozei	volja-s	
 je	Gp-ste-n	biti-g	
@@ -6172,7 +6172,7 @@ zelo	Rsn	zelo-r
 zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 .	SENT	.-s	
 </s>
-<s id="2178:8&collection=eptic3">
+<s id="2178:8">
 Skrbno	Ppnsei	skrben-p	skrbno
 upravljanje	Sosei	upravljanje-s	
 lahko	Rsn	lahko-r	
@@ -6185,7 +6185,7 @@ uvoženega	Pdnmer	uvožen-p	uvožen
 lesa	Somer	les-s	
 .	SENT	.-s	
 </s>
-<s id="2178:9&collection=eptic3">
+<s id="2178:9">
 Količina	Sozei	količina-s	
 lesa	Somer	les-s	
 ,	U	,-u	
@@ -6221,7 +6221,7 @@ to	Zk-sei	ta-z
 reši	Ggdste	rešiti-g	
 .	SENT	.-s	
 </s>
-<s id="2178:10&collection=eptic3">
+<s id="2178:10">
 Izvrševanje	Sosei	Izvrševanje-s	
 bo	Gp-pte-n	biti-g	
 enostavnejše	Rsr	enostavno-r	
@@ -6264,7 +6264,7 @@ jim	Zotmmd--k	on-z
 prisluhne	Ggdste	prisluhniti-g	
 .	SENT	.-s	
 </s>
-<s id="2178:11&collection=eptic3">
+<s id="2178:11">
 Navsezadnje	Rsn	navsezadnje-r	
 so	Gp-stm-n	biti-g	
 oni	Zotmmi	on-z	
@@ -6282,7 +6282,7 @@ gozdovi	Sommi	gozd-s
 posekani	Pdnmmi	posekan-p	posekan
 .	SENT	.-s	
 </s>
-<s id="2178:12&collection=eptic3">
+<s id="2178:12">
 Razširjeno	Pdnzet	Razširjeno-p	razširjeno
 sečnjo	Sozet	sečnja-s	
 tropskega	Ppnmer	tropski-p	tropski
@@ -6302,7 +6302,7 @@ naše	Zspmmtm	naš-z
 domove	Sommt	dom-s	
 .	SENT	.-s	
 </s>
-<s id="2178:13&collection=eptic3">
+<s id="2178:13">
 Te	Zk-mmt	ta-z	
 vire	Sommt	vir-s	
 bi	Gp-g	biti-g	
@@ -6340,7 +6340,7 @@ mnogih	Zn-smm	mnog-z
 letih	Sosmm	leto-s	
 .	SENT	.-s	
 </s>
-<s id="2178:14&collection=eptic3">
+<s id="2178:14">
 Prizadevati	Ggnn	prizadevati-g	
 si	Zp---d--k	se-z	
 moramo	Ggnspm	morati-g	
@@ -6376,7 +6376,7 @@ na	Dm	na-d
 svetu	Somem	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2178:15&collection=eptic3">
+<s id="2178:15">
 Rezultat	Somei	rezultat-s	
 teh	Zk-mmr	ta-z	
 sporazumov	Sommr	sporazum-s	
@@ -6400,7 +6400,7 @@ smeli	Ggnd-mm	smeti-g
 nasprotovati	Ggnn	nasprotovati-g	
 .	SENT	.-s	
 </s>
-<s id="2178:16&collection=eptic3">
+<s id="2178:16">
 Ne	L	ne-l	
 gre	Ggvste	iti-g	
 zgolj	L	zgolj-l	
@@ -6422,7 +6422,7 @@ lokalni	Ppnmmi	lokalen-p	lokalni
 prebivalci	Sommi	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2178:17&collection=eptic3">
+<s id="2178:17">
 Oni	Zotmmi	on-z	
 poznajo	Ggnstm	poznati-g	
 pravo	Ppnzet	pravi-p	prava
@@ -6441,7 +6441,7 @@ tudi	L	tudi-l
 mi	Zopmmi	jaz-z	
 .	SENT	.-s	
 </s>
-<s id="2178:18&collection=eptic3">
+<s id="2178:18">
 Ti	Zk-mmi	ta-z	
 ljudje	Sommi	človek-s	
 so	Gp-stm-n	biti-g	
@@ -6461,7 +6461,7 @@ izvrševanju	Sosem	izvrševanje-s
 sporazumov	Sommr	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2178:19&collection=eptic3">
+<s id="2178:19">
 Oni	Zotmmi	on-z	
 potrebujejo	Ggnstm	potrebovati-g	
 nas	Zop-mm	jaz-z	
@@ -6474,7 +6474,7 @@ njihove	Zstzmtm	njihov-z
 skrbi	Sozmt	skrb-s	
 .	SENT	.-s	
 </s>
-<s id="2178:20&collection=eptic3">
+<s id="2178:20">
 Ti	Zk-mmi	ta-z	
 sporazumi	Sommi	sporazum-s	
 so	Gp-stm-n	biti-g	
@@ -6494,7 +6494,7 @@ boste	Gp-pdm-n	biti-g
 izvršili	Ggdd-mm	izvršiti-g	
 .	SENT	.-s	
 </s>
-<s id="2178:21&collection=eptic3">
+<s id="2178:21">
 Prostovoljni	Ppnmmi	prostovoljen-p	prostovoljni
 sporazumi	Sommi	sporazum-s	
 o	Dm	o-d	
@@ -6514,7 +6514,7 @@ za	Dt	za-d
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2178:22&collection=eptic3">
+<s id="2178:22">
 Zagotoviti	Ggdn	zagotoviti-g	
 moramo	Ggnspm	morati-g	
 ,	U	,-u	
@@ -6532,7 +6532,7 @@ in	Vp	in-v
 obravnavale	Ggnd-mz	obravnavati-g	
 .	SENT	.-s	
 </s>
-<s id="2178:23&collection=eptic3">
+<s id="2178:23">
 Nato	Rsn	nato-r	
 moramo	Ggnspm	morati-g	
 poiskati	Ggdn	poiskati-g	
@@ -6575,7 +6575,7 @@ veselim	Ggnspe	veseliti-g
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2179:1&collection=eptic3">
+<s id="2179:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -6598,7 +6598,7 @@ v	Dm	v-d
 senci	Sozem	senca-s	
 .	SENT	.-s	
 </s>
-<s id="2179:2&collection=eptic3">
+<s id="2179:2">
 Vsi	Zc-mmi	ves-z	
 smo	Gp-spm-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -6624,7 +6624,7 @@ doseči	Ggdn	doseči-g
 soglasje	Soset	soglasje-s	
 .	SENT	.-s	
 </s>
-<s id="2179:3&collection=eptic3">
+<s id="2179:3">
 Sporazumi	Sommi	sporazum-s	
 s	Do	z-d	
 Kongom	Slmeo	Kongo-s	
@@ -6655,7 +6655,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2179:4&collection=eptic3">
+<s id="2179:4">
 Kot	Vd	kot-v	
 sta	Gp-std-n	biti-g	
 dejala	Ggdd-dm	dejati-g	
@@ -6670,7 +6670,7 @@ toplo	Ppnsei	topel-p	toplo
 pozdraviti	Ggdn	pozdraviti-g	
 .	SENT	.-s	
 </s>
-<s id="2179:5&collection=eptic3">
+<s id="2179:5">
 Nudijo	Ggnstm	nuditi-g	
 namreč	Vp	namreč-v	
 mehanizem	Somei	mehanizem-s	
@@ -6682,7 +6682,7 @@ trgovine	Sozer	trgovina-s
 lesa	Somer	les-s	
 .	SENT	.-s	
 </s>
-<s id="2179:6&collection=eptic3">
+<s id="2179:6">
 Nudijo	Ggnstm	nuditi-g	
 priložnost	Sozet	priložnost-s	
 za	Dt	za-d	
@@ -6722,7 +6722,7 @@ zelo	Rsn	zelo-r
 razširjena	Pdnzei	razširjen-p	razširjena
 .	SENT	.-s	
 </s>
-<s id="2179:7&collection=eptic3">
+<s id="2179:7">
 A	Vp	a-v	
 kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
@@ -6743,7 +6743,7 @@ zaradi	Dr	zaradi-d
 stvari	Sozmr	stvar-s	
 .	SENT	.-s	
 </s>
-<s id="2179:8&collection=eptic3">
+<s id="2179:8">
 Nocoj	Rsn	nocoj-r	
 bi	Gp-g	biti-g	
 rad	Rsn	rad-r	
@@ -6752,7 +6752,7 @@ le	L	le-l
 tri	Kbgmmt	trije-k	
 .	SENT	.-s	
 </s>
-<s id="2179:9&collection=eptic3">
+<s id="2179:9">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 nevarnost	Sozet	nevarnost-s	
@@ -6818,7 +6818,7 @@ poskušamo	Ggnspm	poskušati-g
 izogniti	Ggdn	izogniti-g	
 .	SENT	.-s	
 </s>
-<s id="2179:10&collection=eptic3">
+<s id="2179:10">
 To	Zk-set	ta-z	
 ,	U	,-u	
 kar	Zz-set	kar-z	
@@ -6842,7 +6842,7 @@ biotske	Ppnzer	biotski-p	biotska
 raznovrstnosti	Sozer	raznovrstnost-s	
 .	SENT	.-s	
 </s>
-<s id="2179:11&collection=eptic3">
+<s id="2179:11">
 Strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
 s	Do	z-d	
@@ -6869,7 +6869,7 @@ izvajanju	Sosem	izvajanje-s
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2179:12&collection=eptic3">
+<s id="2179:12">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 ta	Zk-mei	ta-z	
@@ -6888,7 +6888,7 @@ izkoriščanja	Soser	izkoriščanje-s
 okolja	Soser	okolje-s	
 .	SENT	.-s	
 </s>
-<s id="2179:13&collection=eptic3">
+<s id="2179:13">
 Vlada	Sozei	vlada-s	
 Konga	Slmer	Kongo-s	
 mora	Ggnste	morati-g	
@@ -6923,7 +6923,7 @@ avtohtonih	Ppnmmr	avtohton-p	avtohton
 prebivalcev	Sommr	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2179:14&collection=eptic3">
+<s id="2179:14">
 Komisijo	Sozet	komisija-s	
 ponovno	Rsn	ponovno-r	
 pozivam	Ggnspe	pozivati-g	
@@ -6951,7 +6951,7 @@ red	Sometn	red-s
 Konga	Slmer	Kongo-s	
 .	SENT	.-s	
 </s>
-<s id="2179:15&collection=eptic3">
+<s id="2179:15">
 Tretjič	Sozei	Tretjič-s	
 ,	U	,-u	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -6981,7 +6981,7 @@ tega	Zk-mer	ta-z
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2179:16&collection=eptic3">
+<s id="2179:16">
 Ne	L	ne-l	
 glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -7006,7 +7006,7 @@ list	Somei	list-s
 papirja	Somer	papir-s	
 .	SENT	.-s	
 </s>
-<s id="2179:17&collection=eptic3">
+<s id="2179:17">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -7021,7 +7021,7 @@ finančni	Ppnmmi	finančen-p	finančni
 svežnji	Sommi	sveženj-s	
 .	SENT	.-s	
 </s>
-<s id="2179:18&collection=eptic3">
+<s id="2179:18">
 Od	Dr	od-d	
 nas	Zop-mr	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -7053,7 +7053,7 @@ sporazum	Somei	sporazum-s
 deloval	Ggnd-em	delovati-g	
 .	SENT	.-s	
 </s>
-<s id="2179:19&collection=eptic3">
+<s id="2179:19">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -7117,7 +7117,7 @@ sem	Gp-spe-n	biti-g
 govoril	Ggnd-em	govoriti-g	
 .	SENT	.-s	
 </s>
-<s id="2179:20&collection=eptic3">
+<s id="2179:20">
 Poskrbeti	Ggdn	poskrbeti-g	
 torej	Rsn	torej-r	
 moramo	Ggnspm	morati-g	
@@ -7139,7 +7139,7 @@ sporazumi	Sommi	sporazum-s
 uspešni	Ppnmmi	uspešen-p	uspešen
 .	SENT	.-s	
 </s>
-<s id="2179:21&collection=eptic3">
+<s id="2179:21">
 Ponavljam	Ggnspe	ponavljati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7191,7 +7191,7 @@ v	Dm	v-d
 praksi	Sozem	praksa-s	
 .	SENT	.-s	
 </s>
-<s id="2179:22&collection=eptic3">
+<s id="2179:22">
 Povzročiti	Ggdn	Povzročiti-g	
 morajo	Ggnstm	morati-g	
 boljše	Pppset	dober-p	boljše
@@ -7223,7 +7223,7 @@ nasprotno	Ppnzet	nasproten-p	nasprotna
 smer	Sozet	smer-s	
 .	SENT	.-s	
 </s>
-<s id="2179:23&collection=eptic3">
+<s id="2179:23">
 Od	Dr	od-d	
 Komisije	Sozer	komisija-s	
 pričakujemo	Ggnspm	pričakovati-g	
@@ -7246,7 +7246,7 @@ področju	Sosem	področje-s
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2180:1&collection=eptic3">
+<s id="2180:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -7262,7 +7262,7 @@ tem	Zk-mmd	ta-z
 vprašanju	Sosed	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2180:2&collection=eptic3">
+<s id="2180:2">
 Pozdravljam	Ggnspe	pozdravljati-g	
 vsak	Zc-met	vsak-z	
 sporazum	Sometn	sporazum-s	
@@ -7301,7 +7301,7 @@ zadevnih	Ppnzmr	zadeven-p	zadevna
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2180:3&collection=eptic3">
+<s id="2180:3">
 Na	Dm	na-d	
 začetku	Somem	začetek-s	
 je	Gp-ste-n	biti-g	
@@ -7319,7 +7319,7 @@ represivni	Ppnzed	represiven-p	represivna
 vladi	Sozed	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2180:4&collection=eptic3">
+<s id="2180:4">
 Kamerun	Slmei	Kamerun-s	
 je	Gp-ste-n	biti-g	
 uvrščen	Pdnmein	uvrščen-p	uvrščen
@@ -7378,7 +7378,7 @@ avtohtone	Ppnmmt	avtohton-p	avtohton
 prebivalce	Sommt	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2180:5&collection=eptic3">
+<s id="2180:5">
 Lesna	Ppnzei	lesen-p	lesena
 industrija	Sozei	industrija-s	
 v	Dm	v-d	
@@ -7403,7 +7403,7 @@ avtohtonih	Ppnmmr	avtohton-p	avtohton
 prebivalcev	Sommr	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2180:6&collection=eptic3">
+<s id="2180:6">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 razlog	Somei	razlog-s	
@@ -7451,7 +7451,7 @@ izvaja	Ggnste	izvajati-g
 sečnja	Sozei	sečnja-s	
 .	SENT	.-s	
 </s>
-<s id="2180:7&collection=eptic3">
+<s id="2180:7">
 Resolucija	Sozei	resolucija-s	
 levice	Sozer	levica-s	
 poudarja	Ggnste	poudarjati-g	
@@ -7470,7 +7470,7 @@ zadevnih	Ppnzmm	zadeven-p	zadevna
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2180:8&collection=eptic3">
+<s id="2180:8">
 Ponudi	Ggdste	ponuditi-g	
 lahko	Rsn	lahko-r	
 namreč	Vp	namreč-v	
@@ -7506,7 +7506,7 @@ teh	Zk-zmr	ta-z
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2180:9&collection=eptic3">
+<s id="2180:9">
 Tega	Zk-ser	ta-z	
 ne	L	ne-l	
 bodo	Gp-ptm-n	biti-g	
@@ -7546,7 +7546,7 @@ svojih	Zp-mmr	svoj-z
 virov	Sommr	vir-s	
 .	SENT	.-s	
 </s>
-<s id="2180:10&collection=eptic3">
+<s id="2180:10">
 V	Dm	v-d	
 tej	Zk-zem	ta-z	
 zvezi	Sozem	zveza-s	
@@ -7584,7 +7584,7 @@ tednih	Sommm	teden-s
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="809" duration="long" durations="397.0" speed="slow" speedwm="122.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2181:1&collection=eptic3">
+<s id="2181:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -7621,7 +7621,7 @@ in	Vp	in-v
 Kamerunom	Slmeo	Kamerun-s	
 .	SENT	.-s	
 </s>
-<s id="2181:2&collection=eptic3">
+<s id="2181:2">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7638,7 +7638,7 @@ dveh	Kbgmdr	dva-k
 sporazumov	Somdr	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2181:3&collection=eptic3">
+<s id="2181:3">
 To	Zk-sei	ta-z	
 bi	Gp-g	biti-g	
 spodbudilo	Ggdd-es	spodbuditi-g	
@@ -7656,7 +7656,7 @@ svojo	Zp-zet	svoj-z
 obravnavo	Sozet	obravnava-s	
 .	SENT	.-s	
 </s>
-<s id="2181:4&collection=eptic3">
+<s id="2181:4">
 Pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -7682,7 +7682,7 @@ za	Dt	za-d
 vse	Zc-set	ves-z	
 .	SENT	.-s	
 </s>
-<s id="2181:5&collection=eptic3">
+<s id="2181:5">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7696,7 +7696,7 @@ ledene	Ppnzer	leden-p	ledena
 gore	Sozer	gora-s	
 .	SENT	.-s	
 </s>
-<s id="2181:6&collection=eptic3">
+<s id="2181:6">
 V	Dm	v-d	
 resnici	Sozem	resnica-s	
 govorimo	Ggnspm	govoriti-g	
@@ -7711,7 +7711,7 @@ gozdnih	Ppnmmr	gozden-p	gozdni
 virov	Sommr	vir-s	
 .	SENT	.-s	
 </s>
-<s id="2181:7&collection=eptic3">
+<s id="2181:7">
 In	Vp	in-v	
 če	Vd	če-v	
 takoj	Rsn	takoj-r	
@@ -7749,7 +7749,7 @@ teh	Zk-mmr	ta-z
 sporazumov	Sommr	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2181:8&collection=eptic3">
+<s id="2181:8">
 Res	Rsn	res-r	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -7759,7 +7759,7 @@ to	Zk-sei	ta-z
 zaveza	Sozei	zaveza-s	
 .	SENT	.-s	
 </s>
-<s id="2181:9&collection=eptic3">
+<s id="2181:9">
 Obstajajo	Ggnstm	obstajati-g	
 tveganja	Soser	tveganje-s	
 ,	U	,-u	
@@ -7799,7 +7799,7 @@ doseči	Ggdn	doseči-g
 uspeha	Somer	uspeh-s	
 .	SENT	.-s	
 </s>
-<s id="2181:10&collection=eptic3">
+<s id="2181:10">
 Pred	Do	pred-d	
 našimi	Zspzmom	naš-z	
 partnerskimi	Ppnzmo	partnerski-p	partnerska
@@ -7826,7 +7826,7 @@ nezakonita	Ppnzei	nezakonit-p	nezakonita
 sečnja	Sozei	sečnja-s	
 .	SENT	.-s	
 </s>
-<s id="2181:11&collection=eptic3">
+<s id="2181:11">
 Vsako	Zc-set	vsak-z	
 leto	Soset	leto-s	
 se	Zp------k	se-z	
@@ -7838,7 +7838,7 @@ v	Dm	v-d
 prihodkih	Sommm	prihodek-s	
 .	SENT	.-s	
 </s>
-<s id="2181:12&collection=eptic3">
+<s id="2181:12">
 Nezakonita	Ppnzei	nezakonit-p	nezakonita
 sečnja	Sozei	sečnja-s	
 ima	Ggnste-n	imeti-g	
@@ -7860,7 +7860,7 @@ podnebnih	Ppnzmr	podneben-p	podnebna
 sprememb	Sozmr	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2181:13&collection=eptic3">
+<s id="2181:13">
 Obenem	Rsn	obenem-r	
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -7881,7 +7881,7 @@ tropskega	Ppnmer	tropski-p	tropski
 lesa	Somer	les-s	
 .	SENT	.-s	
 </s>
-<s id="2181:14&collection=eptic3">
+<s id="2181:14">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -7924,7 +7924,7 @@ zakonit	Ppnmetn	zakonit-p	zakoniti
 les	Sometn	les-s	
 .	SENT	.-s	
 </s>
-<s id="2181:15&collection=eptic3">
+<s id="2181:15">
 Vprašanje	Sosei	vprašanje-s	
 podnebnih	Ppnzmr	podneben-p	podnebna
 sprememb	Sozmr	sprememba-s	
@@ -7943,7 +7943,7 @@ nekje	Rsn	nekje-r
 začeti	Ggdn	začeti-g	
 .	SENT	.-s	
 </s>
-<s id="2181:16&collection=eptic3">
+<s id="2181:16">
 Zelo	Rsn	zelo-r	
 preprosto	Ppnsei	preprost-p	preprosto
 je	Gp-ste-n	biti-g	
@@ -7974,7 +7974,7 @@ obeh	Zc-zdm	oba-z
 straneh	Sozdm	stran-s	
 .	SENT	.-s	
 </s>
-<s id="2181:17&collection=eptic3">
+<s id="2181:17">
 Poskusil	Ggdd-em	poskusiti-g	
 bom	Gp-ppe-n	biti-g	
 odgovoriti	Ggdn	odgovoriti-g	
@@ -7989,7 +7989,7 @@ jih	Zotzmt--k	on-z
 postavili	Ggdd-mm	postaviti-g	
 .	SENT	.-s	
 </s>
-<s id="2181:18&collection=eptic3">
+<s id="2181:18">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 z	Do	z-d	
@@ -8009,7 +8009,7 @@ njegovega	Zstserem	njegov-z
 izvajanja	Soser	izvajanje-s	
 .	SENT	.-s	
 </s>
-<s id="2181:19&collection=eptic3">
+<s id="2181:19">
 Vzpostavil	Ggdd-em	vzpostaviti-g	
 bo	Gp-pte-n	biti-g	
 tudi	L	tudi-l	
@@ -8030,7 +8030,7 @@ in	Vp	in-v
 uspešnost	Sozei	uspešnost-s	
 .	SENT	.-s	
 </s>
-<s id="2181:20&collection=eptic3">
+<s id="2181:20">
 Tu	Rsn	tu-r	
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -8051,7 +8051,7 @@ Evropskemu	Ppnmed	evropski-p	evropski
 parlamentu	Somed	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2181:21&collection=eptic3">
+<s id="2181:21">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 smo	Gp-spm-n	biti-g	
@@ -8069,7 +8069,7 @@ avtohtone	Ppnmmt	avtohton-p	avtohton
 narode	Sommt	narod-s	
 .	SENT	.-s	
 </s>
-<s id="2181:22&collection=eptic3">
+<s id="2181:22">
 Do	Dr	do-d	
 zdaj	Rsn	zdaj-r	
 so	Gp-stm-n	biti-g	
@@ -8117,7 +8117,7 @@ avtohtoni	Ppnmmi	avtohton-p	avtohton
 prebivalci	Sommi	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2181:23&collection=eptic3">
+<s id="2181:23">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 prostovoljni	Ppnmmi	prostovoljen-p	prostovoljni
@@ -8151,7 +8151,7 @@ in	Vp	in-v
 skupnostmi	Sozmo	skupnost-s	
 .	SENT	.-s	
 </s>
-<s id="2181:24&collection=eptic3">
+<s id="2181:24">
 V	Dm	v-d	
 smislu	Somem	smisel-s	
 sredstev	Sosmr	sredstvo-s	
@@ -8161,7 +8161,7 @@ jasen	Ppnmetn	jasen-p	jasen
 strošek	Sometn	strošek-s	
 .	SENT	.-s	
 </s>
-<s id="2181:25&collection=eptic3">
+<s id="2181:25">
 V	Dm	v-d	
 obdobju	Sosem	obdobje-s	
 2002	Kag	[number]-k	
@@ -8196,7 +8196,7 @@ posameznih	Ppnzmm	posamezen-p	posamezna
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2181:26&collection=eptic3">
+<s id="2181:26">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 do	Dr	do-d	
@@ -8226,7 +8226,7 @@ EUR	Somei	EUR-s
 več	Rsr	več-r	
 .	SENT	.-s	
 </s>
-<s id="2181:27&collection=eptic3">
+<s id="2181:27">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 tudi	L	tudi-l	
@@ -8241,7 +8241,7 @@ javnofinančne	Ppnmmt	javnofinančen-p	javnofinančni
 prispevke	Sommt	prispevek-s	
 .	SENT	.-s	
 </s>
-<s id="2181:28&collection=eptic3">
+<s id="2181:28">
 Za	Dt	za-d	
 izvajanje	Soset	izvajanje-s	
 FLEGT	Slmeo	FLEGT-s	
@@ -8252,7 +8252,7 @@ tudi	L	tudi-l
 vire	Sommt	vir-s	
 .	SENT	.-s	
 </s>
-<s id="2181:29&collection=eptic3">
+<s id="2181:29">
 Sam	Ppnmein	sam-p	sam
 imam	Ggnspe-n	imeti-g	
 sedem	Kbg-mi	sedem-k	
@@ -8279,7 +8279,7 @@ gozdarskimi	Ppnmmo	gozdarski-p	gozdarski
 organi	Sommo	organ-s	
 .	SENT	.-s	
 </s>
-<s id="2181:30&collection=eptic3">
+<s id="2181:30">
 Dodatno	Ppnset	dodaten-p	dodatno
 prizadevanje	Soset	prizadevanje-s	
 predstavlja	Ggnste	predstavljati-g	
@@ -8313,7 +8313,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2181:31&collection=eptic3">
+<s id="2181:31">
 Ta	Zk-zei	ta-z	
 uredba	Sozei	uredba-s	
 bo	Gp-pte-n	biti-g	
@@ -8326,7 +8326,7 @@ izkoriščanja	Soser	izkoriščanje-s
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2181:32&collection=eptic3">
+<s id="2181:32">
 Zadnji	Ppnmeid	zadnji-p	zadnji
 sporazum	Somei	sporazum-s	
 iz	Dr	iz-d	
@@ -8345,7 +8345,7 @@ gozdov	Sommr	gozd-s
 t.	O	t.-o	
 i.	O	i.-o	
 </s>
-<s id="2181:33&collection=eptic3">
+<s id="2181:33">
 "	U	"-u	
 REDD	Somei	REDD-s	
 "	U	"-u	
@@ -8362,7 +8362,7 @@ v	Dm	v-d
 razvoju	Somem	razvoj-s	
 .	SENT	.-s	
 </s>
-<s id="2181:34&collection=eptic3">
+<s id="2181:34">
 Naše	Zspzmim	naš-z	
 prihodnje	Ppnset	prihodnji-p	prihodnje
 delo	Soset	delo-s	
@@ -8398,7 +8398,7 @@ lokalnih	Ppnzmr	lokalen-p	lokalna
 skupnosti	Sozmr	skupnost-s	
 .	SENT	.-s	
 </s>
-<s id="2181:35&collection=eptic3">
+<s id="2181:35">
 Sam	L	samo-l	
 upoštevam	Ggvspe	upoštevati-g	
 stanje	Soset	stanje-s	
@@ -8411,7 +8411,7 @@ partnerskih	Ppnzmm	partnerski-p	partnerska
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2181:36&collection=eptic3">
+<s id="2181:36">
 Strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
 z	Do	z-d	
@@ -8437,7 +8437,7 @@ ta	Zk-smt	ta-z
 vprašanja	Sosmt	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2181:37&collection=eptic3">
+<s id="2181:37">
 Lahko	Rsn	lahko-r	
 vam	Zod-md	ti-z	
 zagotovim	Ggdspe	zagotoviti-g	
@@ -8485,7 +8485,7 @@ partnerskimi	Ppnzmo	partnerski-p	partnerska
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2181:38&collection=eptic3">
+<s id="2181:38">
 Vendar	Vp	vendar-v	
 želim	Ggnspe	želeti-g	
 poudariti	Ggdn	poudariti-g	
@@ -8510,7 +8510,7 @@ države	Sozmi	država-s
 vključene	Pdnzmi	vključen-p	vključena
 .	SENT	.-s	
 </s>
-<s id="2181:39&collection=eptic3">
+<s id="2181:39">
 Zaradi	Dr	zaradi-d	
 vseh	Zc-zmr	ves-z	
 slabosti	Sozmr	slabost-s	
@@ -8531,7 +8531,7 @@ zaščititi	Ggdn	zaščititi-g
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2181:40&collection=eptic3">
+<s id="2181:40">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -8571,7 +8571,7 @@ poteka	Ggnste	potekati-g
 izvajanje	Soset	izvajanje-s	
 .	SENT	.-s	
 </s>
-<s id="2181:41&collection=eptic3">
+<s id="2181:41">
 S	Do	z-d	
 FLEGT	Slmeo	FLEGT-s	
 pa	Vp	pa-v	
@@ -8583,7 +8583,7 @@ napačno	Ppnzet	napačen-p	napačna
 smer	Sozet	smer-s	
 .	SENT	.-s	
 </s>
-<s id="2181:42&collection=eptic3">
+<s id="2181:42">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 korak	Somei	korak-s	
@@ -8596,7 +8596,7 @@ ne	L	ne-l
 povečujemo	Ggnspm	povečevati-g	
 .	SENT	.-s	
 </s>
-<s id="2181:43&collection=eptic3">
+<s id="2181:43">
 Mogoče	Rsn	mogoče-r	
 ne	L	ne-l	
 dajemo	Ggnspm	dajati-g	
@@ -8628,7 +8628,7 @@ ponosni	Ppnmmi	ponosen-p	ponosen
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2182:1&collection=eptic3">
+<s id="2182:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -8640,7 +8640,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2182:2&collection=eptic3">
+<s id="2182:2">
 To	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 lepe	Ppnzmi	lep-p	lepa
@@ -8672,7 +8672,7 @@ skupnih	Ppnmmr	skupen-p	skupni
 ciljev	Sommr	cilj-s	
 .	SENT	.-s	
 </s>
-<s id="2182:3&collection=eptic3">
+<s id="2182:3">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 ti	Zk-mmi	ta-z	
@@ -8695,7 +8695,7 @@ zaskrbljujoče	Pdnmmt	zaskrbljujoč-p	zaskrbljujoč
 probleme	Sommt	problem-s	
 .	SENT	.-s	
 </s>
-<s id="2182:4&collection=eptic3">
+<s id="2182:4">
 Velikost	Sozei	velikost-s	
 same	Ppnzer	sam-p	sama
 države	Sozer	država-s	
@@ -8706,7 +8706,7 @@ velikosti	Sozed	velikost-s
 Evrope	Slzer	Evropa-s	
 ;	U	;-u	
 </s>
-<s id="2182:5&collection=eptic3">
+<s id="2182:5">
 v	Dm	v-d	
 večjem	Pppsem	velik-p	večje
 delu	Sosem	delo-s	
@@ -8718,7 +8718,7 @@ struktur	Sozmr	struktura-s
 upravljanja	Soser	upravljanje-s	
 ;	U	;-u	
 </s>
-<s id="2182:6&collection=eptic3">
+<s id="2182:6">
 raven	Sozei	raven-s	
 korupcije	Sozer	korupcija-s	
 je	Gp-ste-n	biti-g	
@@ -8738,7 +8738,7 @@ svoje	Zp-zer	svoj-z
 lestvice	Sozer	lestvica-s	
 .	SENT	.-s	
 </s>
-<s id="2182:7&collection=eptic3">
+<s id="2182:7">
 Potem	Rsn	potem-r	
 je	Gp-ste-n	biti-g	
 tu	Rsn	tu-r	
@@ -8769,7 +8769,7 @@ peščico	Sozet	peščica-s
 ljudi	Sommr	človek-s	
 ;	U	;-u	
 </s>
-<s id="2182:8&collection=eptic3">
+<s id="2182:8">
 dobički	Sommi	dobiček-s	
 nezakonite	Ppnzer	nezakonit-p	nezakonita
 sečnje	Sozer	sečnja-s	
@@ -8789,7 +8789,7 @@ obliki	Sozem	oblika-s
 nadomestil	Sosmr	nadomestilo-s	
 ;	U	;-u	
 </s>
-<s id="2182:9&collection=eptic3">
+<s id="2182:9">
 trgi	Sommi	trg-s	
 nezakonitega	Ppnmer	nezakonit-p	nezakonit
 lesa	Somer	les-s	
@@ -8824,7 +8824,7 @@ potrebnega	Ppnser	potreben-p	potrebno
 spoštovanja	Soser	spoštovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2182:10&collection=eptic3">
+<s id="2182:10">
 Vsi	Zc-mmi	ves-z	
 ti	Zk-mmi	ta-z	
 problemi	Sommi	problem-s	
@@ -8852,7 +8852,7 @@ na	Dt	na-d
 težave	Sozmt	težava-s	
 .	SENT	.-s	
 </s>
-<s id="2182:11&collection=eptic3">
+<s id="2182:11">
 Kako	Rsn	kako-r	
 nam	Zop-md	jaz-z	
 torej	Rsn	torej-r	
@@ -8917,7 +8917,7 @@ zastavili	Ggdd-mm	zastaviti-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="46.0" speed="high" speedwm="164.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2183:1&collection=eptic3">
+<s id="2183:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -8938,7 +8938,7 @@ bo	Gp-pte-n	biti-g
 deležno	Ppnsei	deležen-p	deležno
 .	SENT	.-s	
 </s>
-<s id="2183:2&collection=eptic3">
+<s id="2183:2">
 Eden	Kbzmei	eden-k	
 izmed	Dr	izmed-d	
 velikih	Ppnmmr	velik-p	velik
@@ -8983,7 +8983,7 @@ skorumpirane	Pdnzmi	skorumpiran-p	skorumpirana
 vlade	Sozmi	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2183:3&collection=eptic3">
+<s id="2183:3">
 Zato	Rsn	zato-r	
 je	Gp-ste-n	biti-g	
 ta	Zk-mei	ta-z	
@@ -9019,7 +9019,7 @@ je	Gp-ste-n	biti-g
 napisan	Pdnmein	napisan-p	napisan
 .	SENT	.-s	
 </s>
-<s id="2183:4&collection=eptic3">
+<s id="2183:4">
 Gledano	Rsn	gledano-r	
 širše	Pppsei	širok-p	širše
 pa	Vp	pa-v	
@@ -9041,7 +9041,7 @@ krčenju	Sosed	krčenje-s
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2183:5&collection=eptic3">
+<s id="2183:5">
 S	Do	z-d	
 tem	Zk-seo	ta-z	
 mislim	Ggnspe	misliti-g	
@@ -9078,14 +9078,14 @@ kmetijske	Ppnmmt	kmetijski-p	kmetijski
 izdelke	Sommt	izdelek-s	
 .	SENT	.-s	
 </s>
-<s id="2183:6&collection=eptic3">
+<s id="2183:6">
 Zato	Rsn	zato-r	
 moramo	Ggnspm	morati-g	
 biti	Gp-n	biti-g	
 previdni	Ppnmmi	previden-p	previden
 .	SENT	.-s	
 </s>
-<s id="2183:7&collection=eptic3">
+<s id="2183:7">
 Hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
@@ -9097,7 +9097,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2184:1&collection=eptic3">
+<s id="2184:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -9114,7 +9114,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2184:2&collection=eptic3">
+<s id="2184:2">
 Trgovina	Sozei	trgovina-s	
 ni	Gp-ste-d	biti-g	
 edina	Ppnzei	edin-p	edina
@@ -9141,7 +9141,7 @@ rast	Sozet	rast-s
 prebivalstva	Soser	prebivalstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2184:3&collection=eptic3">
+<s id="2184:3">
 Zato	Rsn	zato-r	
 bi	Gp-g	biti-g	
 rad	Rsn	rad-r	
@@ -9163,7 +9163,7 @@ problematičnih	Ppnsmr	problematičen-p	problematično
 področij	Sosmr	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2184:4&collection=eptic3">
+<s id="2184:4">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9183,7 +9183,7 @@ nekje	Rsn	nekje-r
 začeti	Ggdn	začeti-g	
 .	SENT	.-s	
 </s>
-<s id="2184:5&collection=eptic3">
+<s id="2184:5">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 vas	Sozei	vas-s	
@@ -9200,7 +9200,7 @@ zadevnih	Ppnzmr	zadeven-p	zadevna
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2184:6&collection=eptic3">
+<s id="2184:6">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9221,7 +9221,7 @@ težko	Ppnzeo	težek-p	težka
 zgodovino	Sozeo	zgodovina-s	
 .	SENT	.-s	
 </s>
-<s id="2184:7&collection=eptic3">
+<s id="2184:7">
 Neodvisnost	Sozet	neodvisnost-s	
 so	Gp-stm-n	biti-g	
 dobile	Ggdd-mz	dobiti-g	
@@ -9248,7 +9248,7 @@ potreben	Ppnmetn	potreben-p	potreben
 čas	Sometn	čas-s	
 .	SENT	.-s	
 </s>
-<s id="2184:8&collection=eptic3">
+<s id="2184:8">
 Potreben	Ppnmein	potreben-p	potreben
 je	Gp-ste-n	biti-g	
 čas	Somei	čas-s	
@@ -9278,7 +9278,7 @@ pravi	Ppnzem	pravi-p	prava
 poti	Sozem	pot-s	
 .	SENT	.-s	
 </s>
-<s id="2184:9&collection=eptic3">
+<s id="2184:9">
 Gospodarska	Ppnzei	gospodarski-p	gospodarska
 rast	Sozei	rast-s	
 se	Zp------k	se-z	
@@ -9308,7 +9308,7 @@ njih	Zotmmm	on-z
 izboljšuje	Ggnste	izboljševati-g	
 .	SENT	.-s	
 </s>
-<s id="2184:10&collection=eptic3">
+<s id="2184:10">
 Razumem	Ggvspe	razumeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9337,7 +9337,7 @@ bomo	Gp-ppm-n	biti-g
 sodelovali	Ggnd-mm	sodelovati-g	
 .	SENT	.-s	
 </s>
-<s id="2184:11&collection=eptic3">
+<s id="2184:11">
 Tu	Rsn	tu-r	
 pa	Vp	pa-v	
 nastopimo	Ggdspm	nastopiti-g	
@@ -9369,7 +9369,7 @@ in	Vp	in-v
 Indonezijo	Slzet	Indonezija-s	
 .	SENT	.-s	
 </s>
-<s id="2184:12&collection=eptic3">
+<s id="2184:12">
 Še	L	še-l	
 vedno	Rsn	vedno-r	
 se	Zp------k	se-z	
@@ -9383,7 +9383,7 @@ pozitiven	Ppnmetn	pozitiven-p	pozitiven
 zaključek	Sometn	zaključek-s	
 .	SENT	.-s	
 </s>
-<s id="2184:13&collection=eptic3">
+<s id="2184:13">
 Zato	Rsn	zato-r	
 bi	Gp-g	biti-g	
 rekel	Ggdd-em	reči-g	
@@ -9395,7 +9395,7 @@ tukaj	Rsn	tukaj-r
 minimalna	Ppnsmi	minimalen-p	minimalno
 .	SENT	.-s	
 </s>
-<s id="2184:14&collection=eptic3">
+<s id="2184:14">
 Zaveza	Sozei	zaveza-s	
 je	Gp-ste-n	biti-g	
 izhodišče	Sosei	izhodišče-s	
@@ -9408,7 +9408,7 @@ zelo	Rsn	zelo-r
 pozitiven	Ppnmein	pozitiven-p	pozitiven
 .	SENT	.-s	
 </s>
-<s id="2184:15&collection=eptic3">
+<s id="2184:15">
 Preučiti	Ggdn	Preučiti-g	
 moramo	Ggnspm	morati-g	
 tudi	L	tudi-l	
@@ -9420,7 +9420,7 @@ podnebnim	Ppnzmd	podneben-p	podnebna
 spremembam	Sozmd	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2184:16&collection=eptic3">
+<s id="2184:16">
 Cancún	Somei	Cancún-s	
 nam	Zop-md	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -9441,7 +9441,7 @@ jemljejo	Ggnstm	jemati-g
 resno	Rsn	resno-r	
 .	SENT	.-s	
 </s>
-<s id="2184:17&collection=eptic3">
+<s id="2184:17">
 Nismo	Gp-spm-d	biti-g	
 edini	Ppnmeid	edin-p	edini
 ,	U	,-u	
@@ -9468,7 +9468,7 @@ od	Dr	od-d
 nas	Zop-mr	jaz-z	
 .	SENT	.-s	
 </s>
-<s id="2184:18&collection=eptic3">
+<s id="2184:18">
 Vzemimo	Ggdvpm	vzeti-g	
 na	Dt	na-d	
 primer	Sometn	primer-s	
@@ -9479,7 +9479,7 @@ energetske	Ppnzer	energetski-p	energetska
 učinkovitosti	Sozer	učinkovitost-s	
 .	SENT	.-s	
 </s>
-<s id="2184:19&collection=eptic3">
+<s id="2184:19">
 Mi	Zopmmi	jaz-z	
 smo	Gp-spm-n	biti-g	
 začeli	Ggdd-mm	začeti-g	
@@ -9492,7 +9492,7 @@ so	Gp-stm-n	biti-g
 sledili	Ggnd-mm	slediti-g	
 .	SENT	.-s	
 </s>
-<s id="2184:20&collection=eptic3">
+<s id="2184:20">
 Enako	Rsn	enako-r	
 velja	Ggnste	veljati-g	
 za	Dt	za-d	
@@ -9500,7 +9500,7 @@ učinkovitost	Sozet	učinkovitost-s
 virov	Sommr	vir-s	
 .	SENT	.-s	
 </s>
-<s id="2184:21&collection=eptic3">
+<s id="2184:21">
 Če	Vd	če-v	
 lahko	Rsn	lahko-r	
 uporabimo	Ggdspm	uporabiti-g	
@@ -9519,7 +9519,7 @@ po	Dm	po-d
 nas	Zop-mm	jaz-z	
 .	SENT	.-s	
 </s>
-<s id="2184:22&collection=eptic3">
+<s id="2184:22">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9532,7 +9532,7 @@ veliko	Rsn	veliko-r
 načinov	Sommr	način-s	
 .	SENT	.-s	
 </s>
-<s id="2184:23&collection=eptic3">
+<s id="2184:23">
 Nenazadnje	Rsn	nenazadnje-r	
 bi	Gp-g	biti-g	
 rad	Rsn	rad-r	
@@ -9566,7 +9566,7 @@ jih	Zotzmt--k	on-z
 imamo	Ggnspm-n	imeti-g	
 .	SENT	.-s	
 </s>
-<s id="2184:24&collection=eptic3">
+<s id="2184:24">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 eden	Kbzmei	eden-k	
@@ -9583,7 +9583,7 @@ državami	Sozmo	država-s
 članicami	Sozmo	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2184:25&collection=eptic3">
+<s id="2184:25">
 Komisija	Sozei	komisija-s	
 ne	L	ne-l	
 deluje	Ggnste	delovati-g	
@@ -9609,7 +9609,7 @@ o	Dm	o-d
 sodelovanju	Sosem	sodelovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2184:26&collection=eptic3">
+<s id="2184:26">
 Ta	Zk-mei	ta-z	
 parlament	Somei	parlament-s	
 bi	Gp-g	biti-g	
@@ -9665,7 +9665,7 @@ zastavili	Ggdd-mm	zastaviti-g
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2191:1&collection=eptic3">
+<s id="2191:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -9674,7 +9674,7 @@ kratek	Ppnmein	kratek-p	kratek
 bom	Gp-ppe-n	biti-g	
 .	SENT	.-s	
 </s>
-<s id="2191:2&collection=eptic3">
+<s id="2191:2">
 Skoraj	L	skoraj-l	
 v	Dm	v-d	
 celoti	Sozem	celota-s	
@@ -9689,7 +9689,7 @@ to	Zk-zeo	ta-z
 temo	Sozeo	tema-s	
 .	SENT	.-s	
 </s>
-<s id="2191:3&collection=eptic3">
+<s id="2191:3">
 Naj	L	naj-l	
 ponovim	Ggdspe	ponoviti-g	
 :	SENT	:-s	
@@ -9728,7 +9728,7 @@ STO	Soser	STO-s
 izginili	Ggdd-mm	izginiti-g	
 .	SENT	.-s	
 </s>
-<s id="2191:4&collection=eptic3">
+<s id="2191:4">
 Začasni	Ppnmeid	začasen-p	začasni
 sporazum	Somei	sporazum-s	
 o	Dm	o-d	
@@ -9777,7 +9777,7 @@ na	Dm	na-d
 Pacifiku	Slmem	Pacifik-s	
 .	SENT	.-s	
 </s>
-<s id="2191:5&collection=eptic3">
+<s id="2191:5">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 moramo	Ggnspm	morati-g	
@@ -9800,7 +9800,7 @@ pacifiški	Ppnzem	pacifiški-p	pacifiška
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2191:6&collection=eptic3">
+<s id="2191:6">
 Kar	Zz-sei	kar-z	
 zadeva	Ggnste	zadevati-g	
 ribištvo	Soset	ribištvo-s	
@@ -9817,14 +9817,14 @@ to	Zk-sei	ta-z
 izjema	Sozei	izjema-s	
 .	SENT	.-s	
 </s>
-<s id="2191:7&collection=eptic3">
+<s id="2191:7">
 To	Zk-sei	ta-z	
 bo	Gp-pte-n	biti-g	
 edino	Ppnsei	edin-p	edino
 odstopanje	Sosei	odstopanje-s	
 .	SENT	.-s	
 </s>
-<s id="2191:8&collection=eptic3">
+<s id="2191:8">
 Takšnega	Zk-smi	Takšnega-z	
 odstopanja	Sosmi	odstopanje-s	
 ne	L	ne-l	
@@ -9836,7 +9836,7 @@ delom	Sommd	del-s
 sveta	Somer	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2191:9&collection=eptic3">
+<s id="2191:9">
 Zakaj	Rsn	zakaj-r	
 omogočamo	Ggnspm	omogočati-g	
 odstopanje	Soset	odstopanje-s	
@@ -9845,7 +9845,7 @@ Novi	Ppnzem	nov-p	nova
 Gvineji	Slzem	Gvineja-s	
 ?	SENT	?-s	
 </s>
-<s id="2191:10&collection=eptic3">
+<s id="2191:10">
 Povedal	Ggdd-em	povedati-g	
 vam	Zod-md	ti-z	
 bom	Gp-ppe-n	biti-g	
@@ -9892,7 +9892,7 @@ lahko	Rsn	lahko-r
 storijo	Ggdstm	storiti-g	
 .	SENT	.-s	
 </s>
-<s id="2191:11&collection=eptic3">
+<s id="2191:11">
 Nič	Zl-sei	nič-z	
 ne	L	ne-l	
 more	Ggnste	moči-g	
@@ -9946,7 +9946,7 @@ morali	Ggnd-mm	morati-g
 spodbujati	Ggnn	spodbujati-g	
 .	SENT	.-s	
 </s>
-<s id="2191:12&collection=eptic3">
+<s id="2191:12">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -9994,7 +9994,7 @@ Novi	Ppnzem	nov-p	nova
 Gvineji	Slzem	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2191:13&collection=eptic3">
+<s id="2191:13">
 V	Dm	v-d	
 tej	Zk-zem	ta-z	
 državi	Sozem	država-s	
@@ -10014,7 +10014,7 @@ za	Dt	za-d
 ženske	Sozmt	ženska-s	
 .	SENT	.-s	
 </s>
-<s id="2191:14&collection=eptic3">
+<s id="2191:14">
 Pogosto	Rsn	pogosto-r	
 se	Zp------k	se-z	
 pritožujemo	Ggnspm	pritoževati-g	
@@ -10039,7 +10039,7 @@ koncu	Somem	konec-s
 verige	Sozer	veriga-s	
 .	SENT	.-s	
 </s>
-<s id="2191:15&collection=eptic3">
+<s id="2191:15">
 S	Do	z-d	
 tem	Zk-seo	ta-z	
 na	Dm	na-d	
@@ -10051,7 +10051,7 @@ nekaj	Zn-set	nekaj-z
 pozitivnega	Ppnser	pozitiven-p	pozitivno
 .	SENT	.-s	
 </s>
-<s id="2191:16&collection=eptic3">
+<s id="2191:16">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 dejal	Ggdd-em	dejati-g	
@@ -10083,7 +10083,7 @@ nereguliranem	Ppnmem	nereguliranem-p	nereguliranem
 ribolovu	Somem	ribolov-s	
 .	SENT	.-s	
 </s>
-<s id="2191:17&collection=eptic3">
+<s id="2191:17">
 Izpolniti	Ggdn	izpolniti-g	
 mora	Ggnste	morati-g	
 vse	Zc-set	ves-z	
@@ -10094,13 +10094,13 @@ fitosanitarne	Ppnmmt	fitosanitaren-p	fitosanitarni
 pogoje	Sommt	pogoj-s	
 .	SENT	.-s	
 </s>
-<s id="2191:18&collection=eptic3">
+<s id="2191:18">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 najpomembneje	Rss	pomembno-r	
 .	SENT	.-s	
 </s>
-<s id="2191:19&collection=eptic3">
+<s id="2191:19">
 Tri	Kbgzmt	trije-k	
 tovarne	Sozmt	tovarna-s	
 v	Dm	v-d	
@@ -10118,7 +10118,7 @@ delovna	Ppnsmt	deloven-p	delovno
 mesta	Sosmt	mesto-s	
 .	SENT	.-s	
 </s>
-<s id="2191:20&collection=eptic3">
+<s id="2191:20">
 Če	Vd	če-v	
 bi	Gp-g	biti-g	
 prišlo	Ggdd-es	priti-g	
@@ -10152,7 +10152,7 @@ tudi	L	tudi-l
 ukrepati	Ggnn	ukrepati-g	
 .	SENT	.-s	
 </s>
-<s id="2191:21&collection=eptic3">
+<s id="2191:21">
 A	Vp	a-v	
 statistični	Ppnmmi	statističen-p	statistični
 podatki	Sommi	podatek-s	
@@ -10162,7 +10162,7 @@ sami	Ppnmmi	sam-p	sam
 zase	Zp---t--z	zase-z	
 .	SENT	.-s	
 </s>
-<s id="2191:22&collection=eptic3">
+<s id="2191:22">
 Ta	Zk-mei	ta-z	
 sporazum	Somei	sporazum-s	
 velja	Ggnste	veljati-g	
@@ -10172,7 +10172,7 @@ leta	Soser	leto-s
 2008	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2191:23&collection=eptic3">
+<s id="2191:23">
 Od	Dr	od-d	
 takrat	Rsn	takrat-r	
 ni	Gp-ste-d	biti-g	
@@ -10181,7 +10181,7 @@ nobenega	Zl-mer	noben-z
 porasta	Somer	porast-s	
 .	SENT	.-s	
 </s>
-<s id="2191:24&collection=eptic3">
+<s id="2191:24">
 Evropska	Ppnzei	evropski-p	evropska
 industrija	Sozei	industrija-s	
 tune	Sozer	tuna-s	
@@ -10189,7 +10189,7 @@ ni	Gp-ste-d	biti-g
 ogrožena	Pdnzei	ogrožen-p	ogrožena
 .	SENT	.-s	
 </s>
-<s id="2191:25&collection=eptic3">
+<s id="2191:25">
 Kot	Vd	kot-v	
 poročevalec	Somei	poročevalec-s	
 sem	Gp-spe-n	biti-g	
@@ -10215,7 +10215,7 @@ nobenih	Zl-zmr	noben-z
 groženj	Sozmr	grožnja-s	
 .	SENT	.-s	
 </s>
-<s id="2191:26&collection=eptic3">
+<s id="2191:26">
 To	Zk-set	ta-z	
 ,	U	,-u	
 kar	Zz-sei	kar-z	
@@ -10226,7 +10226,7 @@ je	Gp-ste-n	biti-g
 prihodnost	Sozei	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2191:27&collection=eptic3">
+<s id="2191:27">
 Strinjajo	Ggnstm	strinjati-g	
 se	Zp------k	se-z	
 ,	U	,-u	
@@ -10242,14 +10242,14 @@ industrijo	Sozet	industrija-s
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2191:28&collection=eptic3">
+<s id="2191:28">
 Nikar	L	nikar-l	
 torej	Rsn	torej-r	
 ne	L	ne-l	
 pretiravajmo	Ggnvpm	pretiravati-g	
 .	SENT	.-s	
 </s>
-<s id="2191:29&collection=eptic3">
+<s id="2191:29">
 Ne	L	ne-l	
 smemo	Ggnspm	smeti-g	
 dovoliti	Ggdn	dovoliti-g	
@@ -10279,7 +10279,7 @@ interesi	Sommo	interes-s
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2186:1&collection=eptic3">
+<s id="2186:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -10313,7 +10313,7 @@ in	Vp	in-v
 Fidžijem	Slmeo	Fidžijem-s	
 .	SENT	.-s	
 </s>
-<s id="2186:2&collection=eptic3">
+<s id="2186:2">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -10325,7 +10325,7 @@ njegov	Zstmetem	njegov-z
 nasvet	Sometn	nasvet-s	
 .	SENT	.-s	
 </s>
-<s id="2186:3&collection=eptic3">
+<s id="2186:3">
 Soglasje	Sosei	soglasje-s	
 Evropskega	Ppnmer	evropski-p	evropski
 parlamenta	Somer	parlament-s	
@@ -10380,7 +10380,7 @@ pacifiški	Ppnzem	pacifiški-p	pacifiška
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2186:4&collection=eptic3">
+<s id="2186:4">
 Leta	Soser	leto-s	
 2007	Kag	[number]-k	
 je	Gp-ste-n	biti-g	
@@ -10416,7 +10416,7 @@ najbolj	Rss	najbolj-r
 odvisne	Ppnzmi	odvisen-p	odvisna
 .	SENT	.-s	
 </s>
-<s id="2186:5&collection=eptic3">
+<s id="2186:5">
 Zaveza	Sozei	zaveza-s	
 Komisije	Sozer	komisija-s	
 sklenitvi	Sozed	sklenitev-s	
@@ -10445,7 +10445,7 @@ pacifiškimi	Ppnmmo	pacifiški-p	pacifiški
 partnerji	Sommo	partner-s	
 .	SENT	.-s	
 </s>
-<s id="2186:6&collection=eptic3">
+<s id="2186:6">
 Napredujemo	Ggvspm	napredovati-g	
 lahko	Rsn	lahko-r	
 le	L	le-l	
@@ -10466,7 +10466,7 @@ ustrezno	Rsn	ustrezno-r
 oblikovali	Ggnd-mm	oblikovati-g	
 .	SENT	.-s	
 </s>
-<s id="2186:7&collection=eptic3">
+<s id="2186:7">
 Govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
 majhnih	Ppnzmm	majhen-p	majhna
@@ -10494,7 +10494,7 @@ z	Do	z-d
 EU	Slzeo	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2186:8&collection=eptic3">
+<s id="2186:8">
 Nekatere	Zn-zmi	nekateri-z	
 države	Sozmi	država-s	
 imajo	Ggnstm-n	imeti-g	
@@ -10517,7 +10517,7 @@ razen	Dr	razen-d
 orožja	Soser	orožje-s	
 ;	U	;-u	
 </s>
-<s id="2186:9&collection=eptic3">
+<s id="2186:9">
 nekatere	Zn-zmi	nekateri-z	
 zelo	Rsn	zelo-r	
 malo	Rsn	malo-r	
@@ -10530,7 +10530,7 @@ z	Do	z-d
 Unijo	Sozeo	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2186:10&collection=eptic3">
+<s id="2186:10">
 Zato	Rsn	zato-r	
 smo	Gp-spm-n	biti-g	
 pripravljeni	Pdnmmi	pripravljen-p	pripravljen
@@ -10557,7 +10557,7 @@ končnih	Ppnzmm	končen-p	končna
 odločitvah	Sozmm	odločitev-s	
 .	SENT	.-s	
 </s>
-<s id="2186:11&collection=eptic3">
+<s id="2186:11">
 Ne	L	ne-l	
 glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -10585,7 +10585,7 @@ zadevnih	Ppnzmr	zadeven-p	zadevna
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2186:12&collection=eptic3">
+<s id="2186:12">
 Zato	Rsn	zato-r	
 je	Gp-ste-n	biti-g	
 tu	Rsn	tu-r	
@@ -10600,7 +10600,7 @@ trgovinsko	Ppnzet	trgovinski-p	trgovinska
 zmogljivost	Sozet	zmogljivost-s	
 .	SENT	.-s	
 </s>
-<s id="2186:13&collection=eptic3">
+<s id="2186:13">
 Zato	Rsn	zato-r	
 bomo	Gp-ppm-n	biti-g	
 partnerskim	Ppnzmd	partnerski-p	partnerska
@@ -10632,7 +10632,7 @@ bi	Gp-g	biti-g
 dovolili	Ggdd-mm	dovoliti-g	
 .	SENT	.-s	
 </s>
-<s id="2186:14&collection=eptic3">
+<s id="2186:14">
 V	Dm	v-d	
 tem	Zk-mem	ta-z	
 okviru	Somem	okvir-s	
@@ -10663,7 +10663,7 @@ gospodarskem	Ppnsem	gospodarski-p	gospodarsko
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2186:15&collection=eptic3">
+<s id="2186:15">
 To	Zk-sei	ta-z	
 odstopanje	Sosei	odstopanje-s	
 smo	Gp-spm-n	biti-g	
@@ -10716,7 +10716,7 @@ industrije	Sozer	industrija-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2186:16&collection=eptic3">
+<s id="2186:16">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 in	Vp	in-v	
@@ -10746,7 +10746,7 @@ nikakršnega	Zl-mer	nikakršen-z
 porasta	Somer	porast-s	
 .	SENT	.-s	
 </s>
-<s id="2186:17&collection=eptic3">
+<s id="2186:17">
 Naj	L	naj-l	
 vam	Zod-md	ti-z	
 tudi	L	tudi-l	
@@ -10764,7 +10764,7 @@ drugi	Kbzzem	drug-k
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2186:18&collection=eptic3">
+<s id="2186:18">
 Komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
 v	Dm	v-d	
@@ -10792,7 +10792,7 @@ leta	Soser	leto-s
 2011	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2186:19&collection=eptic3">
+<s id="2186:19">
 Nekateri	Zn-mmi	nekateri-z	
 od	Dr	od-d	
 vas	Zod-mr	ti-z	
@@ -10815,7 +10815,7 @@ predsednik	Somei	predsednik-s
 vlade	Sozer	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2186:20&collection=eptic3">
+<s id="2186:20">
 Povedal	Ggdd-em	povedati-g	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -10838,7 +10838,7 @@ Nove	Ppnzer	nov-p	nova
 Gvineje	Slzer	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2186:21&collection=eptic3">
+<s id="2186:21">
 To	Zk-zet	ta-z	
 ustno	Ppnzet	usten-p	ustna
 izjavo	Sozet	izjava-s	
@@ -10861,7 +10861,7 @@ obrodi	Ggdste	obroditi-g
 sadove	Sommt	sad-s	
 .	SENT	.-s	
 </s>
-<s id="2186:22&collection=eptic3">
+<s id="2186:22">
 Soglasje	Sosei	soglasje-s	
 Parlamenta	Somer	parlament-s	
 nam	Zop-md	jaz-z	
@@ -10879,7 +10879,7 @@ določa	Ggnste	določati-g
 sporazum	Somei	sporazum-s	
 ;	U	;-u	
 </s>
-<s id="2186:23&collection=eptic3">
+<s id="2186:23">
 eden	Kbzmei	eden-k	
 izmed	Dr	izmed-d	
 teh	Zk-mmr	ta-z	
@@ -10918,7 +10918,7 @@ gospodarskem	Ppnsem	gospodarski-p	gospodarsko
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2186:24&collection=eptic3">
+<s id="2186:24">
 Vaš	Zsdmeim	vaš-z	
 glas	Somei	glas-s	
 je	Gp-ste-n	biti-g	
@@ -10943,7 +10943,7 @@ premaknemo	Ggdspm	premakniti-g
 naprej	Rsn	naprej-r	
 .	SENT	.-s	
 </s>
-<s id="2186:25&collection=eptic3">
+<s id="2186:25">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -10970,7 +10970,7 @@ ne	L	ne-l
 uporablja	Ggnste	uporabljati-g	
 .	SENT	.-s	
 </s>
-<s id="2186:26&collection=eptic3">
+<s id="2186:26">
 S	Do	z-d	
 tem	Zk-seo	ta-z	
 je	Gp-ste-n	biti-g	
@@ -10996,7 +10996,7 @@ pacifiškimi	Ppnzmo	pacifiški-p	pacifiška
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2186:27&collection=eptic3">
+<s id="2186:27">
 Fidži	Slmei	Fidži-s	
 ima	Ggnste-n	imeti-g	
 zaenkrat	Rsn	zaenkrat-r	
@@ -11022,7 +11022,7 @@ trgovinskih	Ppnzmr	trgovinski-p	trgovinska
 sankcij	Sozmr	sankcija-s	
 .	SENT	.-s	
 </s>
-<s id="2186:28&collection=eptic3">
+<s id="2186:28">
 Kot	Vd	kot-v	
 veste	Ggnsdm	vedeti-g	
 ,	U	,-u	
@@ -11044,7 +11044,7 @@ v	Dm	v-d
 državi	Sozem	država-s	
 .	SENT	.-s	
 </s>
-<s id="2186:29&collection=eptic3">
+<s id="2186:29">
 Da	Vd	da-v	
 bi	Gp-g	biti-g	
 se	Zp------k	se-z	
@@ -11079,7 +11079,7 @@ vidnega	Ppnmer	viden-p	viden
 napredka	Somer	napredek-s	
 .	SENT	.-s	
 </s>
-<s id="2186:30&collection=eptic3">
+<s id="2186:30">
 Sporazum	Somei	sporazum-s	
 o	Dm	o-d	
 gospodarskem	Ppnsem	gospodarski-p	gospodarsko
@@ -11107,7 +11107,7 @@ trga	Somer	trg-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2186:31&collection=eptic3">
+<s id="2186:31">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 v	Dm	v-d	
@@ -11134,7 +11134,7 @@ regijo	Sozeo	regija-s
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2187:1&collection=eptic3">
+<s id="2187:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -11171,7 +11171,7 @@ pacifiško	Ppnzeo	pacifiški-p	pacifiška
 regijo	Sozeo	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2187:2&collection=eptic3">
+<s id="2187:2">
 Sporazum	Somei	sporazum-s	
 ,	U	,-u	
 kot	Vd	kot-v	
@@ -11201,7 +11201,7 @@ zgolj	L	zgolj-l
 začasen	Ppnmein	začasen-p	začasni
 .	SENT	.-s	
 </s>
-<s id="2187:3&collection=eptic3">
+<s id="2187:3">
 Upamo	Ggnspm	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -11229,7 +11229,7 @@ te	Zk-zer	ta-z
 regije	Sozer	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2187:4&collection=eptic3">
+<s id="2187:4">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 trenutni	Ppnmeid	trenuten-p	trenutni
@@ -11279,7 +11279,7 @@ ribiškimi	Ppnmmo	ribiški-p	ribiški
 proizvodi	Sommo	proizvod-s	
 .	SENT	.-s	
 </s>
-<s id="2187:5&collection=eptic3">
+<s id="2187:5">
 V	Dm	v-d	
 svoji	Zp-zem	svoj-z	
 resoluciji	Sozem	resolucija-s	
@@ -11338,7 +11338,7 @@ konzerviranja	Soser	konzerviranje-s
 rib	Sozmr	riba-s	
 .	SENT	.-s	
 </s>
-<s id="2187:6&collection=eptic3">
+<s id="2187:6">
 Zato	Vp	zato-v	
 Komisijo	Sozet	komisija-s	
 pozivamo	Ggnspm	pozivati-g	
@@ -11401,7 +11401,7 @@ poreklu	Sosem	poreklo-s
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2188:1&collection=eptic3">
+<s id="2188:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -11418,7 +11418,7 @@ regionalnega	Ppnser	regionalen-p	regionalno
 povezovanja	Soser	povezovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2188:2&collection=eptic3">
+<s id="2188:2">
 Kar	Rsn	kar-r	
 smo	Gp-spm-n	biti-g	
 videli	Ggvd-mm	videti-g	
@@ -11434,7 +11434,7 @@ ne	L	ne-l
 dogaja	Ggnste	dogajati-g	
 .	SENT	.-s	
 </s>
-<s id="2188:3&collection=eptic3">
+<s id="2188:3">
 Ravno	L	ravno-l	
 nasprotno	Rsn	nasprotno-r	
 :	U	:-u	
@@ -11462,7 +11462,7 @@ posebni	Ppnmmi	poseben-p	poseben
 pogoji	Sommi	pogoj-s	
 .	SENT	.-s	
 </s>
-<s id="2188:4&collection=eptic3">
+<s id="2188:4">
 Primer	Somei	primer-s	
 za	Dt	za-d	
 to	Zk-set	ta-z	
@@ -11487,7 +11487,7 @@ in	Vp	in-v
 Fidžiju	Slmem	Fidžiju-s	
 .	SENT	.-s	
 </s>
-<s id="2188:5&collection=eptic3">
+<s id="2188:5">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -11514,7 +11514,7 @@ je	Gp-ste-n	biti-g
 dogovorjeno	Pdnsei	dogovorjen-p	dogovorjeno
 .	SENT	.-s	
 </s>
-<s id="2188:6&collection=eptic3">
+<s id="2188:6">
 To	Zk-set	ta-z	
 pravim	Ggvspe	praviti-g	
 zato	Vp	zato-v	
@@ -11534,7 +11534,7 @@ tej	Zk-zem	ta-z
 zadevi	Sozem	zadeva-s	
 .	SENT	.-s	
 </s>
-<s id="2188:7&collection=eptic3">
+<s id="2188:7">
 Kakšni	Zv-mmi	kakšen-z	
 so	Gp-stm-n	biti-g	
 učinki	Sommi	učinek-s	
@@ -11554,7 +11554,7 @@ Novi	Ppnzem	nov-p	nova
 Gvineji	Slzem	Gvineja-s	
 ?	U	?-u	
 </s>
-<s id="2188:8&collection=eptic3">
+<s id="2188:8">
 Kakšne	Zv-zmi	kakšen-z	
 so	Gp-stm-n	biti-g	
 socialne	Ppnzmi	socialen-p	socialna
@@ -11562,7 +11562,7 @@ razmere	Sozmi	razmera-s
 delavcev	Sommr	delavec-s	
 ?	SENT	?-s	
 </s>
-<s id="2188:9&collection=eptic3">
+<s id="2188:9">
 Vse	Zc-sei	ves-z	
 to	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
@@ -11633,7 +11633,7 @@ evropske	Ppnmmt	evropski-p	evropski
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2189:1&collection=eptic3">
+<s id="2189:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -11685,7 +11685,7 @@ o	Dm	o-d
 poreklu	Sosem	poreklo-s	
 .	SENT	.-s	
 </s>
-<s id="2189:2&collection=eptic3">
+<s id="2189:2">
 V	Dm	v-d	
 zadnjih	Ppnmmm	zadnji-p	zadnji
 sedmih	Kbg-mm	sedem-k	
@@ -11735,7 +11735,7 @@ zaskrbljenih	Pdnmmr	zaskrbljen-p	zaskrbljen
 državljanov	Sommr	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2189:3&collection=eptic3">
+<s id="2189:3">
 To	Zk-sei	ta-z	
 konkretno	Ppnsei	konkreten-p	konkretno
 vprašanje	Sosei	vprašanje-s	
@@ -11804,7 +11804,7 @@ pomagati	Ggvn	pomagati-g
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2190:1&collection=eptic3">
+<s id="2190:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -11816,20 +11816,20 @@ zanimiva	Ppnzei	zanimiv-p	zanimiva
 razprava	Sozei	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2190:2&collection=eptic3">
+<s id="2190:2">
 Na	Dm	na-d	
 svetu	Somem	svet-s	
 je	Gp-ste-n	biti-g	
 revščina	Sozei	revščina-s	
 .	SENT	.-s	
 </s>
-<s id="2190:3&collection=eptic3">
+<s id="2190:3">
 To	Zk-sei	ta-z	
 moramo	Ggnspm	morati-g	
 rešiti	Ggdn	rešiti-g	
 .	SENT	.-s	
 </s>
-<s id="2190:4&collection=eptic3">
+<s id="2190:4">
 En	Kbzmei	en-k	
 način	Somei	način-s	
 bi	Gp-g	biti-g	
@@ -11862,7 +11862,7 @@ ga	Zotmet--k	on-z
 opravljajo	Ggnstm	opravljati-g	
 .	SENT	.-s	
 </s>
-<s id="2190:5&collection=eptic3">
+<s id="2190:5">
 V	Dm	v-d	
 treh	Kbgmmm	trije-k	
 obratih	Sommm	obrat-s	
@@ -11897,7 +11897,7 @@ največ	Rss	največ-r
 žensk	Sozmr	ženska-s	
 .	SENT	.-s	
 </s>
-<s id="2190:6&collection=eptic3">
+<s id="2190:6">
 Delovna	Ppnsmt	deloven-p	delovno
 mesta	Sosmt	mesto-s	
 na	Dm	na-d	
@@ -11914,7 +11914,7 @@ na	Dm	na-d
 kocki	Sozem	kocka-s	
 .	SENT	.-s	
 </s>
-<s id="2190:7&collection=eptic3">
+<s id="2190:7">
 Komisija	Sozei	komisija-s	
 pri	Dm	pri-d	
 svojem	Zp-mem	svoj-z	
@@ -11937,7 +11937,7 @@ zaščitne	Ppnmmt	zaščiten-p	zaščiten
 ukrepe	Sommt	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2190:8&collection=eptic3">
+<s id="2190:8">
 Stališče	Sosei	stališče-s	
 Komisije	Sozer	komisija-s	
 je	Gp-ste-n	biti-g	
@@ -12003,7 +12003,7 @@ približno	Rsn	približno-r
 3-odstoten	Ppnmein	3-odstoten-p	3-odstoten
 .	SENT	.-s	
 </s>
-<s id="2190:9&collection=eptic3">
+<s id="2190:9">
 Začasna	Ppnzei	Začasna-p	začasna
 uporaba	Sozei	uporaba-s	
 sega	Ggnste	segati-g	
@@ -12019,7 +12019,7 @@ s	Do	z-d
 številkami	Sozmo	številka-s	
 .	SENT	.-s	
 </s>
-<s id="2190:10&collection=eptic3">
+<s id="2190:10">
 To	Zk-sei	ta-z	
 ne	L	ne-l	
 bo	Gp-pte-n	biti-g	
@@ -12036,7 +12036,7 @@ oziroma	Vp	oziroma-v
 konzerviranja	Soser	konzerviranje-s	
 .	SENT	.-s	
 </s>
-<s id="2190:11&collection=eptic3">
+<s id="2190:11">
 Razvoj	Somei	razvoj-s	
 trgovinskih	Ppnmmr	trgovinski-p	trgovinski
 tokov	Sommr	tok-s	
@@ -12063,7 +12063,7 @@ leta	Soser	leto-s
 2011	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2190:12&collection=eptic3">
+<s id="2190:12">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 bo	Gp-pte-n	biti-g	
@@ -12097,7 +12097,7 @@ trgu	Somem	trg-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2190:13&collection=eptic3">
+<s id="2190:13">
 Začasni	Ppnmeid	začasen-p	začasni
 sporazum	Somei	sporazum-s	
 izrecno	Rsn	izrecno-r	
@@ -12114,7 +12114,7 @@ trgovinske	Ppnzer	trgovinski-p	trgovinska
 zaščite	Sozer	zaščita-s	
 .	SENT	.-s	
 </s>
-<s id="2190:14&collection=eptic3">
+<s id="2190:14">
 Na	Dm	na-d	
 tej	Zk-zem	ta-z	
 ravni	Sozem	raven-s	
@@ -12146,7 +12146,7 @@ GSP	Somei	GSP-s
 +	U	+-u	
 .	SENT	.-s	
 </s>
-<s id="2190:15&collection=eptic3">
+<s id="2190:15">
 Študija	Sozei	študija-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -12162,7 +12162,7 @@ ta	Zk-met	ta-z
 vidik	Sometn	vidik-s	
 .	SENT	.-s	
 </s>
-<s id="2190:16&collection=eptic3">
+<s id="2190:16">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 dodal	Ggdd-em	dodati-g	
@@ -12220,7 +12220,7 @@ varnosti	Sozer	varnost-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2190:17&collection=eptic3">
+<s id="2190:17">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -12239,7 +12239,7 @@ ta	Zk-mei	ta-z
 ukrep	Somei	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2190:18&collection=eptic3">
+<s id="2190:18">
 Zdaj	Rsn	zdaj-r	
 bi	Gp-g	biti-g	
 se	Zp------k	se-z	
@@ -12257,7 +12257,7 @@ na	Dt	na-d
 splošno	Ppnset	splošen-p	splošno
 .	SENT	.-s	
 </s>
-<s id="2190:19&collection=eptic3">
+<s id="2190:19">
 Trgovina	Sozei	trgovina-s	
 je	Gp-ste-n	biti-g	
 daleč	Rsn	daleč-r	
@@ -12270,7 +12270,7 @@ bila	Gp-d-ez	biti-g
 preprosta	Ppnzei	preprost-p	preprosta
 .	SENT	.-s	
 </s>
-<s id="2190:20&collection=eptic3">
+<s id="2190:20">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 rekel	Ggdd-em	reči-g	
@@ -12291,7 +12291,7 @@ v	Dm	v-d
 razvoju	Somem	razvoj-s	
 .	SENT	.-s	
 </s>
-<s id="2190:21&collection=eptic3">
+<s id="2190:21">
 Res	Rsn	res-r	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -12305,7 +12305,7 @@ dokaj	Rsn	dokaj-r
 težko	Ppnsei	težek-p	težko
 .	SENT	.-s	
 </s>
-<s id="2190:22&collection=eptic3">
+<s id="2190:22">
 Regionalni	Ppnmeid	regionalen-p	regionalni
 razvoj	Somei	razvoj-s	
 se	Zp------k	se-z	
@@ -12317,7 +12317,7 @@ trgovinskimi	Ppnmmo	trgovinski-p	trgovinski
 sporazumi	Sommo	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2190:23&collection=eptic3">
+<s id="2190:23">
 Zato	Rsn	zato-r	
 smo	Gp-spm-n	biti-g	
 za	Dt	za-d	
@@ -12332,7 +12332,7 @@ milijonov	Sommr	milijon-s
 EUR	Somei	EUR-s	
 .	SENT	.-s	
 </s>
-<s id="2190:24&collection=eptic3">
+<s id="2190:24">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 tri	Kbgzmi	trije-k	
@@ -12348,7 +12348,7 @@ devetega	Kbvmer	deveti-k
 ERS	Slmei	ERS-s	
 .	SENT	.-s	
 </s>
-<s id="2190:25&collection=eptic3">
+<s id="2190:25">
 Regionalno	Ppnzet	regionalen-p	regionalna
 trgovino	Sozet	trgovina-s	
 je	Gp-ste-n	biti-g	
@@ -12361,7 +12361,7 @@ trgovinskih	Ppnmmr	trgovinski-p	trgovinski
 tokov	Sommr	tok-s	
 .	SENT	.-s	
 </s>
-<s id="2190:26&collection=eptic3">
+<s id="2190:26">
 Če	Vd	če-v	
 si	Zp---d--k	se-z	
 ogledamo	Ggdspm	ogledati-g	
@@ -12391,7 +12391,7 @@ ravnjo	Sozeo	raven-s
 nihanja	Soser	nihanje-s	
 .	SENT	.-s	
 </s>
-<s id="2190:27&collection=eptic3">
+<s id="2190:27">
 To	Zk-sei	ta-z	
 povzroča	Ggnste	povzročati-g	
 velike	Ppnzmt	velik-p	velika
@@ -12401,7 +12401,7 @@ zadevnih	Ppnzmm	zadeven-p	zadevna
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2190:28&collection=eptic3">
+<s id="2190:28">
 Ko	Vd	ko-v	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -12428,7 +12428,7 @@ ni	Gp-ste-d	biti-g
 mar	Rsn	mar-r	
 .	SENT	.-s	
 </s>
-<s id="2190:29&collection=eptic3">
+<s id="2190:29">
 Mora	Ggnste	morati-g	
 nam	Zop-md	jaz-z	
 biti	Gp-n	biti-g	
@@ -12443,7 +12443,7 @@ obsežno	Ppnzet	obsežen-p	obsežna
 študijo	Sozet	študija-s	
 .	SENT	.-s	
 </s>
-<s id="2190:30&collection=eptic3">
+<s id="2190:30">
 Predlagamo	Ggvspm	predlagati-g	
 zelo	Rsn	zelo-r	
 primerne	Ppnmmt	primeren-p	primeren
@@ -12460,7 +12460,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2190:31&collection=eptic3">
+<s id="2190:31">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -12488,7 +12488,7 @@ zaščitni	Ppnmmi	zaščiten-p	zaščiten
 ukrepi	Sommi	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2190:32&collection=eptic3">
+<s id="2190:32">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -12511,7 +12511,7 @@ podpiram	Ggnspe	podpirati-g
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2185:1&collection=eptic3">
+<s id="2185:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -12539,7 +12539,7 @@ z	Do	z-d
 nami	Zop-mo	jaz-z	
 .	SENT	.-s	
 </s>
-<s id="2185:2&collection=eptic3">
+<s id="2185:2">
 Želim	Ggnspe	želeti-g	
 se	Zp------k	se-z	
 mu	Zotmed--k	on-z	
@@ -12589,7 +12589,7 @@ njegovo	Zstzetem	njegov-z
 pomoč	Sozet	pomoč-s	
 .	SENT	.-s	
 </s>
-<s id="2185:3&collection=eptic3">
+<s id="2185:3">
 Kot	Vd	kot-v	
 poročevalec	Somei	poročevalec-s	
 sem	Gp-spe-n	biti-g	
@@ -12609,7 +12609,7 @@ Glyna	Slmetd	Glyna-s
 Forda	Slmetd	Ford-s	
 .	SENT	.-s	
 </s>
-<s id="2185:4&collection=eptic3">
+<s id="2185:4">
 Imam	Ggnspe-n	imeti-g	
 srečo	Sozet	sreča-s	
 ,	U	,-u	
@@ -12644,7 +12644,7 @@ pacifiškimi	Ppnzmo	pacifiški-p	pacifiška
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2185:5&collection=eptic3">
+<s id="2185:5">
 Takratno	Ppnsei	takraten-p	takratno
 uradno	Ppnsei	uraden-p	uradno
 stališče	Sosei	stališče-s	
@@ -12665,7 +12665,7 @@ in	Vp	in-v
 vprašanju	Sosem	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2185:6&collection=eptic3">
+<s id="2185:6">
 Želim	Ggnspe	želeti-g	
 se	Zp------k	se-z	
 zahvaliti	Ggdn	zahvaliti-g	
@@ -12680,7 +12680,7 @@ administratorka	Sozei	administratorka-s
 odbora	Somer	odbor-s	
 .	SENT	.-s	
 </s>
-<s id="2185:7&collection=eptic3">
+<s id="2185:7">
 Izkazalo	Ggdd-es	izkazati-g	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -12723,7 +12723,7 @@ mojo	Zspzete	moj-z
 nalogo	Sozet	naloga-s	
 .	SENT	.-s	
 </s>
-<s id="2185:8&collection=eptic3">
+<s id="2185:8">
 Na	Dm	na-d	
 koncu	Somem	konec-s	
 želim	Ggnspe	želeti-g	
@@ -12748,7 +12748,7 @@ tesno	Ppnset	tesen-p	tesno
 sodelovanje	Soset	sodelovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2185:9&collection=eptic3">
+<s id="2185:9">
 Vpogledi	Sommi	vpogled-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -12768,7 +12768,7 @@ v	Dt	v-d
 poročilo	Soset	poročilo-s	
 .	SENT	.-s	
 </s>
-<s id="2185:10&collection=eptic3">
+<s id="2185:10">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 rad	Rsn	rad-r	
@@ -12786,7 +12786,7 @@ regionalnim	Ppnmeo	regionalen-p	regionalni
 okvirom	Someo	okvir-s	
 .	SENT	.-s	
 </s>
-<s id="2185:11&collection=eptic3">
+<s id="2185:11">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 nameravam	Ggnspe	nameravati-g	
@@ -12822,7 +12822,7 @@ in	Vp	in-v
 ribištvo	Soset	ribištvo-s	
 .	SENT	.-s	
 </s>
-<s id="2185:12&collection=eptic3">
+<s id="2185:12">
 Tretjič	Sozei	Tretjič-s	
 ,	U	,-u	
 spregovoril	Ggdd-em	spregovoriti-g	
@@ -12839,7 +12839,7 @@ pacifiškimi	Ppnzmo	pacifiški-p	pacifiška
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2185:13&collection=eptic3">
+<s id="2185:13">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 z	Do	z-d	
@@ -12875,7 +12875,7 @@ in	Vp	in-v
 Fidžijem	Slmeo	Fidžijem-s	
 .	SENT	.-s	
 </s>
-<s id="2185:14&collection=eptic3">
+<s id="2185:14">
 To	Zk-sei	ta-z	
 sta	Gp-std-n	biti-g	
 otoški	Ppnzdi	otoški-p	otoška
@@ -12904,7 +12904,7 @@ oziroma	Vp	oziroma-v
 sladkor	Somei	sladkor-s	
 .	SENT	.-s	
 </s>
-<s id="2185:15&collection=eptic3">
+<s id="2185:15">
 Sporazum	Somei	sporazum-s	
 o	Dm	o-d	
 gospodarskem	Ppnsem	gospodarski-p	gospodarsko
@@ -12935,7 +12935,7 @@ v	Dm	v-d
 obdobju	Sosem	obdobje-s	
 .	SENT	.-s	
 </s>
-<s id="2185:16&collection=eptic3">
+<s id="2185:16">
 Papua	Slmei	Papua-s	
 Nova	Ppnzei	nov-p	nova
 Gvineja	Slzei	Gvineja-s	
@@ -12966,7 +12966,7 @@ liberaliziral	Ggvd-em	liberalizirati-g
 uvoza	Somer	uvoz-s	
 .	SENT	.-s	
 </s>
-<s id="2185:17&collection=eptic3">
+<s id="2185:17">
 Preostalih	Pdnmmr	preostal-p	preostali
 12	Kag	[number]-k	
 pacifiških	Ppnzmr	pacifiški-p	pacifiška
@@ -13008,7 +13008,7 @@ dovolj	Rsn	dovolj-r
 zanimanja	Soser	zanimanje-s	
 .	SENT	.-s	
 </s>
-<s id="2185:18&collection=eptic3">
+<s id="2185:18">
 Kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
 menim	Ggnspe	meniti-g	
@@ -13058,7 +13058,7 @@ pacifiške	Ppnzer	pacifiški-p	pacifiška
 države	Sozer	država-s	
 .	SENT	.-s	
 </s>
-<s id="2185:19&collection=eptic3">
+<s id="2185:19">
 Kar	Zz-sei	kar-z	
 zadeva	Ggnste	zadevati-g	
 vsebino	Sozet	vsebina-s	
@@ -13076,7 +13076,7 @@ njeno	Zstzeoez	njen-z
 ratifikacijo	Sozeo	ratifikacija-s	
 .	SENT	.-s	
 </s>
-<s id="2185:20&collection=eptic3">
+<s id="2185:20">
 V	Dt	v-d	
 sredo	Sozet	sreda-s	
 bomo	Gp-ppm-n	biti-g	
@@ -13116,7 +13116,7 @@ predlogu	Somem	predlog-s
 resolucije	Sozer	resolucija-s	
 .	SENT	.-s	
 </s>
-<s id="2185:21&collection=eptic3">
+<s id="2185:21">
 V	Dm	v-d	
 predlogu	Somem	predlog-s	
 resolucije	Sozer	resolucija-s	
@@ -13141,7 +13141,7 @@ o	Dm	o-d
 treh	Kbgzmm	trije-k	
 .	SENT	.-s	
 </s>
-<s id="2185:22&collection=eptic3">
+<s id="2185:22">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 kar	Zz-sei	kar-z	
@@ -13167,7 +13167,7 @@ zmanjševanja	Soser	zmanjševanje-s
 revščine	Sozer	revščina-s	
 .	SENT	.-s	
 </s>
-<s id="2185:23&collection=eptic3">
+<s id="2185:23">
 Pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -13195,7 +13195,7 @@ leta	Soser	leto-s
 2007	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2185:24&collection=eptic3">
+<s id="2185:24">
 Pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -13234,7 +13234,7 @@ STO	Sozmi	STO-s
 )	U	)-u	
 .	SENT	.-s	
 </s>
-<s id="2185:25&collection=eptic3">
+<s id="2185:25">
 Če	Vd	če-v	
 to	Zk-sei	ta-z	
 upoštevamo	Ggvspm	upoštevati-g	
@@ -13255,7 +13255,7 @@ na	Dm	na-d
 Fidžiju	Slmem	Fidžiju-s	
 .	SENT	.-s	
 </s>
-<s id="2185:26&collection=eptic3">
+<s id="2185:26">
 Vlado	Sozet	vlada-s	
 Fidžija	Somer	Fidžija-s	
 pozivam	Ggnspe	pozivati-g	
@@ -13269,7 +13269,7 @@ proti	Dd	proti-d
 demokraciji	Sozed	demokracija-s	
 .	SENT	.-s	
 </s>
-<s id="2185:27&collection=eptic3">
+<s id="2185:27">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -13291,7 +13291,7 @@ na	Dm	na-d
 Fidžiju	Slmem	Fidžiju-s	
 .	SENT	.-s	
 </s>
-<s id="2185:28&collection=eptic3">
+<s id="2185:28">
 Ribištvo	Sosei	Ribištvo-s	
 na	Dm	na-d	
 drugi	Kbzzem	drug-k	
@@ -13318,7 +13318,7 @@ svojim	Zp-mmd	svoj-z
 državljanom	Sommd	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2185:29&collection=eptic3">
+<s id="2185:29">
 V	Dm	v-d	
 treh	Kbgmmm	trije-k	
 obratih	Sommm	obrat-s	
@@ -13344,7 +13344,7 @@ največ	Rss	največ-r
 žensk	Sozmr	ženska-s	
 .	SENT	.-s	
 </s>
-<s id="2185:30&collection=eptic3">
+<s id="2185:30">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 država	Sozei	država-s	
@@ -13359,7 +13359,7 @@ dobro	Ppnzet	dober-p	dobra
 zaposlitev	Sozet	zaposlitev-s	
 .	SENT	.-s	
 </s>
-<s id="2185:31&collection=eptic3">
+<s id="2185:31">
 Podpiram	Ggnspe	podpirati-g	
 namen	Somei	namen-s	
 prožnih	Ppnsmr	prožen-p	prožno
@@ -13390,7 +13390,7 @@ trajnosten	Ppnmetn	trajnosten-p	trajnostni
 način	Sometn	način-s	
 .	SENT	.-s	
 </s>
-<s id="2185:32&collection=eptic3">
+<s id="2185:32">
 Poglavitni	Ppnmmi	poglaviten-p	poglavitni
 so	Gp-stm-n	biti-g	
 okoljski	Ppnmmi	okoljski-p	okoljski
@@ -13424,7 +13424,7 @@ nereguliranem	Ppnsem	nereguliranem-p	nereguliranem
 ribištvu	Sosem	ribištvo-s	
 .	SENT	.-s	
 </s>
-<s id="2185:33&collection=eptic3">
+<s id="2185:33">
 Cenim	Ggnspe	ceniti-g	
 dejstvo	Soset	dejstvo-s	
 ,	U	,-u	
@@ -13457,7 +13457,7 @@ industrijo	Sozet	industrija-s
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2185:34&collection=eptic3">
+<s id="2185:34">
 A	Vp	a-v	
 če	Vd	če-v	
 si	Zp---d--k	se-z	
@@ -13497,7 +13497,7 @@ pripravljenega	Pdnmet	pripravljen-p	pripravljen
 tuna	Sometd	tun-s	
 .	SENT	.-s	
 </s>
-<s id="2185:35&collection=eptic3">
+<s id="2185:35">
 Dvomim	Ggnspe	dvomiti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -13528,7 +13528,7 @@ na	Dm	na-d
 kopnem	Sosem	kopno-s	
 .	SENT	.-s	
 </s>
-<s id="2185:36&collection=eptic3">
+<s id="2185:36">
 Kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
 pa	Vp	pa-v	
@@ -13566,7 +13566,7 @@ Nove	Ppnzer	nov-p	nova
 Gvineje	Slzer	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2185:37&collection=eptic3">
+<s id="2185:37">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 že	L	že-l	
@@ -13587,7 +13587,7 @@ gospodarskem	Ppnsem	gospodarski-p	gospodarsko
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2185:38&collection=eptic3">
+<s id="2185:38">
 V	Dm	v-d	
 svojem	Zp-sem	svoj-z	
 poročilu	Sosem	poročilo-s	
@@ -13612,14 +13612,14 @@ Komisija	Sozei	komisija-s
 upoštevala	Ggvd-ez	upoštevati-g	
 .	SENT	.-s	
 </s>
-<s id="2185:39&collection=eptic3">
+<s id="2185:39">
 Ta	Zk-mei	ta-z	
 vključujejo	Ggnstm	vključevati-g	
 intelektualno	Ppnzet	intelektualen-p	intelektualna
 lastnino	Sozet	lastnina-s	
 .	SENT	.-s	
 </s>
-<s id="2185:40&collection=eptic3">
+<s id="2185:40">
 O	Dm	o-d	
 intelektualni	Ppnzem	intelektualen-p	intelektualna
 lastnini	Sozem	lastnina-s	
@@ -13645,7 +13645,7 @@ tradicionalnega	Ppnser	tradicionalen-p	tradicionalno
 znanja	Soser	znanje-s	
 .	SENT	.-s	
 </s>
-<s id="2185:41&collection=eptic3">
+<s id="2185:41">
 Upam	Ggnspe	upati-g	
 tudi	L	tudi-l	
 ,	U	,-u	
@@ -13670,7 +13670,7 @@ največ	Rss	največ-r
 mesecev	Sommr	mesec-s	
 .	SENT	.-s	
 </s>
-<s id="2185:42&collection=eptic3">
+<s id="2185:42">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -13741,7 +13741,7 @@ prihodnosti	Sozem	prihodnost-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2192:1&collection=eptic3">
+<s id="2192:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -13755,7 +13755,7 @@ pomembno	Ppnset	pomemben-p	pomembno
 vprašanje	Soset	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2192:2&collection=eptic3">
+<s id="2192:2">
 Varstvo	Sosei	varstvo-s	
 in	Vp	in-v	
 spodbujanje	Sosei	spodbujanje-s	
@@ -13782,7 +13782,7 @@ leta	Soser	leto-s
 2006	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2192:3&collection=eptic3">
+<s id="2192:3">
 Strategija	Sozei	strategija-s	
 o	Dm	o-d	
 otrokovih	Psnzmm	otrokov-p	otrokova
@@ -13813,7 +13813,7 @@ temeljnih	Ppnzmm	temeljen-p	temeljna
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2192:4&collection=eptic3">
+<s id="2192:4">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 odločno	Rsn	odločno-r	
@@ -13847,7 +13847,7 @@ tej	Zk-zem	ta-z
 listini	Sozem	listina-s	
 .	SENT	.-s	
 </s>
-<s id="2192:5&collection=eptic3">
+<s id="2192:5">
 To	Zk-zet	ta-z	
 prakso	Sozet	praksa-s	
 bo	Gp-pte-n	biti-g	
@@ -13868,7 +13868,7 @@ objavila	Ggdd-ez	objaviti-g
 letos	Rsn	letos-r	
 .	SENT	.-s	
 </s>
-<s id="2192:6&collection=eptic3">
+<s id="2192:6">
 Komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
 od	Dr	od-d	
@@ -13895,7 +13895,7 @@ temeljnih	Ppnzmm	temeljen-p	temeljna
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2192:7&collection=eptic3">
+<s id="2192:7">
 Ne	L	ne-l	
 smemo	Ggnspm	smeti-g	
 pozabiti	Ggdn	pozabiti-g	
@@ -13928,7 +13928,7 @@ pravo	Soset	pravo-s
 Unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2192:8&collection=eptic3">
+<s id="2192:8">
 Zato	Vp	zato-v	
 tudi	L	tudi-l	
 ne	L	ne-l	
@@ -13949,7 +13949,7 @@ mednarodnih	Ppnzmm	mednaroden-p	mednarodna
 posvojitvah	Sozmm	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2192:9&collection=eptic3">
+<s id="2192:9">
 To	Zk-sei	ta-z	
 vprašanje	Sosei	vprašanje-s	
 urejajo	Ggnstm	urejati-g	
@@ -13973,7 +13973,7 @@ nacionalni	Ppnmmi	nacionalen-p	nacionalni
 zakoni	Sommi	zakon-s	
 .	SENT	.-s	
 </s>
-<s id="2192:10&collection=eptic3">
+<s id="2192:10">
 Vse	Zc-zmi	ves-z	
 države	Sozmi	država-s	
 članice	Sozmi	članica-s	
@@ -13987,7 +13987,7 @@ pa	Vp	pa-v
 ni	Gp-ste-d	biti-g	
 .	SENT	.-s	
 </s>
-<s id="2192:11&collection=eptic3">
+<s id="2192:11">
 Njen	Zstmeiez	njen-z	
 cilj	Somei	cilj-s	
 je	Gp-ste-n	biti-g	
@@ -14027,7 +14027,7 @@ temeljne	Ppnzmt	temeljen-p	temeljna
 pravice	Sozmt	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2192:12&collection=eptic3">
+<s id="2192:12">
 Na	Dm	na-d	
 mednarodni	Ppnzem	mednaroden-p	mednarodna
 ravni	Sozem	raven-s	
@@ -14058,7 +14058,7 @@ srečanjih	Sosmm	srečanje-s
 podpisnic	Sozmr	podpisnica-s	
 .	SENT	.-s	
 </s>
-<s id="2192:13&collection=eptic3">
+<s id="2192:13">
 Komisija	Sozei	komisija-s	
 meni	Ggnste	meniti-g	
 ,	U	,-u	
@@ -14085,7 +14085,7 @@ držav	Sozmr	država-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2192:14&collection=eptic3">
+<s id="2192:14">
 Komisija	Sozei	komisija-s	
 zato	Vp	zato-v	
 natančno	Rsn	natančno-r	
@@ -14106,7 +14106,7 @@ otrokovimi	Psnmmo	otrokov-p	otrokov
 pravicami	Sozmo	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2192:15&collection=eptic3">
+<s id="2192:15">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 sprejela	Ggdd-ez	sprejeti-g	
@@ -14137,7 +14137,7 @@ tem	Zk-sem	ta-z
 vprašanju	Sosem	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2192:16&collection=eptic3">
+<s id="2192:16">
 Zelena	Ppnzei	zelen-p	zelena
 knjiga	Sozei	knjiga-s	
 Komisije	Sozer	komisija-s	
@@ -14180,7 +14180,7 @@ državljanov	Sommr	državljan-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2192:17&collection=eptic3">
+<s id="2192:17">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 poseben	Ppnmein	poseben-p	poseben
@@ -14201,7 +14201,7 @@ vprašanje	Sosei	vprašanje-s
 <speaker name="Yannakoudakis Marina" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="174" duration="short" durations="73.0" speed="medium" speedwm="143.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2193:1&collection=eptic3">
+<s id="2193:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -14234,7 +14234,7 @@ nova	Ppnzei	nov-p	nova
 družina	Sozei	družina-s	
 .	SENT	.-s	
 </s>
-<s id="2193:2&collection=eptic3">
+<s id="2193:2">
 Postopki	Sommi	postopek-s	
 pregledov	Sommr	pregled-s	
 in	Vp	in-v	
@@ -14259,7 +14259,7 @@ za	Dt	za-d
 posvojitve	Sozmt	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2193:3&collection=eptic3">
+<s id="2193:3">
 V	Dm	v-d	
 središču	Sosem	središče-s	
 postopka	Somer	postopek-s	
@@ -14272,7 +14272,7 @@ dobrobit	Sozei	dobrobit-s
 otroka	Somer	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2193:4&collection=eptic3">
+<s id="2193:4">
 Vprašanje	Sosei	vprašanje-s	
 meddržavnih	Ppnzmr	meddržaven-p	meddržavna
 posvojitev	Sozmr	posvojitev-s	
@@ -14299,7 +14299,7 @@ to	Zk-set	ta-z
 vprašanje	Soset	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2193:5&collection=eptic3">
+<s id="2193:5">
 Medtem	Rsn	medtem-r	
 ko	Vd	ko-v	
 je	Gp-ste-n	biti-g	
@@ -14345,7 +14345,7 @@ dobrobiti	Sozer	dobrobit-s
 otrok	Sommr	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2193:6&collection=eptic3">
+<s id="2193:6">
 Zato	Rsn	zato-r	
 menim	Ggnspe	meniti-g	
 ,	U	,-u	
@@ -14372,7 +14372,7 @@ interese	Sommt	interes-s
 otrok	Sommr	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2193:7&collection=eptic3">
+<s id="2193:7">
 Države	Sozmi	država-s	
 članice	Sozmi	članica-s	
 morajo	Ggnstm	morati-g	
@@ -14422,7 +14422,7 @@ otrok	Sommr	otrok-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2194:1&collection=eptic3">
+<s id="2194:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -14444,7 +14444,7 @@ mnoge	Zn-mmt	mnog-z
 načine	Sommt	način-s	
 .	SENT	.-s	
 </s>
-<s id="2194:2&collection=eptic3">
+<s id="2194:2">
 Današnja	Ppnzei	današnji-p	današnja
 razprava	Sozei	razprava-s	
 govori	Ggnste	govoriti-g	
@@ -14455,7 +14455,7 @@ za	Dt	za-d
 posvojitve	Sozmt	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2194:3&collection=eptic3">
+<s id="2194:3">
 To	Zk-sei	ta-z	
 združenje	Sosei	združenje-s	
 ima	Ggnste-n	imeti-g	
@@ -14478,7 +14478,7 @@ jih	Zotmmt--k	on-z
 posvojiti	Ggdn	posvojiti-g	
 .	SENT	.-s	
 </s>
-<s id="2194:4&collection=eptic3">
+<s id="2194:4">
 Naš	Zspmeim	naš-z	
 pogled	Somei	pogled-s	
 na	Dt	na-d	
@@ -14489,7 +14489,7 @@ popolnoma	Rsn	popolnoma-r
 spremenil	Ggdd-em	spremeniti-g	
 .	SENT	.-s	
 </s>
-<s id="2194:5&collection=eptic3">
+<s id="2194:5">
 Na	Dm	na-d	
 Irskem	Slsem	Irsko-s	
 so	Gp-stm-n	biti-g	
@@ -14511,7 +14511,7 @@ v	Dt	v-d
 posvojitev	Sozet	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2194:6&collection=eptic3">
+<s id="2194:6">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 lepa	Ppnzei	lep-p	lepa
@@ -14537,7 +14537,7 @@ biti	Gp-n	biti-g
 otrok	Somei	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2194:7&collection=eptic3">
+<s id="2194:7">
 Seveda	L	seveda-l	
 so	Gp-stm-n	biti-g	
 v	Dm	v-d	
@@ -14549,7 +14549,7 @@ biološke	Ppnzmt	biološki-p	biološka
 družine	Sozmt	družina-s	
 .	SENT	.-s	
 </s>
-<s id="2194:8&collection=eptic3">
+<s id="2194:8">
 Prav	L	prav-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -14567,7 +14567,7 @@ mogoč	Ppnmein	mogoč-p	mogoč
 dom	Somei	dom-s	
 .	SENT	.-s	
 </s>
-<s id="2194:9&collection=eptic3">
+<s id="2194:9">
 Vsaka	Zc-zei	vsak-z	
 država	Sozei	država-s	
 članica	Sozei	članica-s	
@@ -14592,7 +14592,7 @@ svojih	Zp-zmr	svoj-z
 meja	Sozmr	meja-s	
 .	SENT	.-s	
 </s>
-<s id="2194:10&collection=eptic3">
+<s id="2194:10">
 Naloga	Sozei	naloga-s	
 Evrope	Slzer	Evropa-s	
 mora	Ggnste	morati-g	
@@ -14600,7 +14600,7 @@ biti	Gp-n	biti-g
 usklajevanje	Sosei	usklajevanje-s	
 .	SENT	.-s	
 </s>
-<s id="2194:11&collection=eptic3">
+<s id="2194:11">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -14614,7 +14614,7 @@ otrokovih	Psnzmm	otrokov-p	otrokova
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2194:12&collection=eptic3">
+<s id="2194:12">
 O	Dm	o-d	
 tem	Zk-sem	ta-z	
 veliko	Rsn	veliko-r	
@@ -14635,7 +14635,7 @@ tako	Rsn	tako-r
 učinkoviti	Ppnmmi	učinkovit-p	učinkovit
 .	SENT	.-s	
 </s>
-<s id="2194:13&collection=eptic3">
+<s id="2194:13">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -14645,7 +14645,7 @@ referendum	Somei	referendum-s
 zgodil	Ggdd-em	zgoditi-g	
 .	SENT	.-s	
 </s>
-<s id="2194:14&collection=eptic3">
+<s id="2194:14">
 Stanje	Sosei	stanje-s	
 se	Zp------k	se-z	
 bo	Gp-pte-n	biti-g	
@@ -14654,7 +14654,7 @@ zagotovo	Rsn	zagotovo-r
 izboljšalo	Ggdd-es	izboljšati-g	
 .	SENT	.-s	
 </s>
-<s id="2194:15&collection=eptic3">
+<s id="2194:15">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 bila	Gp-d-ez	biti-g	
@@ -14676,7 +14676,7 @@ zahvaljujem	Ggnspe	zahvaljevati-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2195:1&collection=eptic3">
+<s id="2195:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	SENT	,-s	
@@ -14694,7 +14694,7 @@ srečen	Ppnmein	srečen-p	srečen
 dom	Somei	dom-s	
 .	SENT	.-s	
 </s>
-<s id="2195:2&collection=eptic3">
+<s id="2195:2">
 Večina	Sozei	večina-s	
 otrok	Somei	otrok-s	
 to	Zk-sei	ta-z	
@@ -14708,7 +14708,7 @@ pravih	Ppnmmm	pravi-p	pravi
 starših	Sommm	starš-s	
 .	SENT	.-s	
 </s>
-<s id="2195:3&collection=eptic3">
+<s id="2195:3">
 Veliko	Rsn	veliko-r	
 pa	Vp	pa-v	
 jih	Zotsmt--k	on-z	
@@ -14719,7 +14719,7 @@ svojih	Zp-mmm	svoj-z
 posvojiteljih	Sommm	posvojitelj-s	
 .	SENT	.-s	
 </s>
-<s id="2195:4&collection=eptic3">
+<s id="2195:4">
 Oboje	Zc-sei	oboj-z	
 je	Gp-ste-n	biti-g	
 boljše	Pppsei	dober-p	boljše
@@ -14739,7 +14739,7 @@ ali	Vp	ali-v
 izkoriščanja	Soser	izkoriščanje-s	
 .	SENT	.-s	
 </s>
-<s id="2195:5&collection=eptic3">
+<s id="2195:5">
 Ravnovesje	Sosei	ravnovesje-s	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -14806,7 +14806,7 @@ razvlečenimi	Pdnmmo	razvlečen-p	razvlečen
 postopki	Sommo	postopek-s	
 .	SENT	.-s	
 </s>
-<s id="2195:6&collection=eptic3">
+<s id="2195:6">
 Ustvariti	Ggdn	ustvariti-g	
 moramo	Ggnspm	morati-g	
 pravo	Ppnset	pravi-p	pravo
@@ -14841,7 +14841,7 @@ domovih	Sommm	dom-s
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2196:1&collection=eptic3">
+<s id="2196:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -14873,7 +14873,7 @@ mednarodnih	Ppnzmm	mednaroden-p	mednarodna
 posvojitvah	Sozmm	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2196:2&collection=eptic3">
+<s id="2196:2">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 mora	Ggnste	morati-g	
@@ -14919,7 +14919,7 @@ in	Vp	in-v
 kulturo	Sozeo	kultura-s	
 .	SENT	.-s	
 </s>
-<s id="2196:3&collection=eptic3">
+<s id="2196:3">
 Zlasti	L	zlasti-l	
 je	Gp-ste-n	biti-g	
 treba	Rsn	treba-r	
@@ -14958,7 +14958,7 @@ evropskih	Ppnzmr	evropski-p	evropska
 meja	Sozmr	meja-s	
 .	SENT	.-s	
 </s>
-<s id="2196:4&collection=eptic3">
+<s id="2196:4">
 Trgovina	Sozei	trgovina-s	
 z	Do	z-d	
 otroki	Sommo	otrok-s	
@@ -14994,7 +14994,7 @@ ustrezna	Ppnzei	ustrezen-p	ustrezna
 pozornost	Sozei	pozornost-s	
 .	SENT	.-s	
 </s>
-<s id="2196:5&collection=eptic3">
+<s id="2196:5">
 Komisijo	Sozet	komisija-s	
 bi	Gp-g	biti-g	
 pozvala	Ggdd-ez	pozvati-g	
@@ -15044,7 +15044,7 @@ ljudi	Sommt	človek-s
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2197:1&collection=eptic3">
+<s id="2197:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -15059,7 +15059,7 @@ nezakonitih	Ppnzmr	nezakonit-p	nezakonita
 posvojitev	Sozmr	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2197:2&collection=eptic3">
+<s id="2197:2">
 V	Dm	v-d	
 Evropi	Slzem	Evropa-s	
 –	U	–-u	
@@ -15080,7 +15080,7 @@ tem	Zk-seo	ta-z
 ukvarja	Ggnste	ukvarjati-g	
 .	SENT	.-s	
 </s>
-<s id="2197:3&collection=eptic3">
+<s id="2197:3">
 Na	Dt	na-d	
 stotine	Sozmt	stotina-s	
 otrok	Sommr	otrok-s	
@@ -15094,7 +15094,7 @@ v	Dt	v-d
 promet	Sometn	promet-s	
 .	SENT	.-s	
 </s>
-<s id="2197:4&collection=eptic3">
+<s id="2197:4">
 Po	Dm	po-d	
 vsem	Zc-sem	ves-z	
 ,	U	,-u	
@@ -15125,7 +15125,7 @@ z	Do	z-d
 ljudmi	Sommo	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2197:5&collection=eptic3">
+<s id="2197:5">
 Komisijo	Sozet	komisija-s	
 pozivam	Ggnspe	pozivati-g	
 ,	U	,-u	
@@ -15147,7 +15147,7 @@ kaznovala	Ggvd-ez	kaznovati-g
 storilce	Sommt	storilec-s	
 .	SENT	.-s	
 </s>
-<s id="2197:6&collection=eptic3">
+<s id="2197:6">
 S	Do	z-d	
 to	Zk-zeo	ta-z	
 zelo	Rsn	zelo-r	
@@ -15164,7 +15164,7 @@ mogle	Ggnd-mz	moči-g
 spopasti	Ggdn	spopasti-g	
 .	SENT	.-s	
 </s>
-<s id="2197:7&collection=eptic3">
+<s id="2197:7">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 namreč	Vp	namreč-v	
@@ -15193,7 +15193,7 @@ EU	Slzer	EU-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2198:1&collection=eptic3">
+<s id="2198:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -15212,7 +15212,7 @@ sorodniškim	Ppnmmd	sorodniški-p	sorodniški
 skrbnikom	Sommd	skrbnik-s	
 .	SENT	.-s	
 </s>
-<s id="2198:2&collection=eptic3">
+<s id="2198:2">
 Večina	Sozei	večina-s	
 sorodniških	Ppnmmr	sorodniški-p	sorodniški
 skrbnikov	Sommr	skrbnik-s	
@@ -15253,7 +15253,7 @@ te	Zk-zer	ta-z
 odvisnosti	Sozer	odvisnost-s	
 .	SENT	.-s	
 </s>
-<s id="2198:3&collection=eptic3">
+<s id="2198:3">
 To	Zk-sei	ta-z	
 ,	U	,-u	
 na	Dt	na-d	
@@ -15281,7 +15281,7 @@ Mentor	Slmei	Mentor-s
 UK	Slmei	UK-s	
 .	SENT	.-s	
 </s>
-<s id="2198:4&collection=eptic3">
+<s id="2198:4">
 Nekateri	Zn-mmi	nekateri-z	
 sorodniški	Ppnmmi	sorodniški-p	sorodniški
 skrbniki	Sommi	skrbnik-s	
@@ -15290,7 +15290,7 @@ svoje	Zp-mmt	svoj-z
 vnuke	Sommt	vnuk-s	
 .	SENT	.-s	
 </s>
-<s id="2198:5&collection=eptic3">
+<s id="2198:5">
 Drugi	Kbzmeid	drug-k	
 tega	Zk-ser	ta-z	
 ne	L	ne-l	
@@ -15311,7 +15311,7 @@ varen	Ppnmetn	varen-p	varen
 dom	Sometn	dom-s	
 .	SENT	.-s	
 </s>
-<s id="2198:6&collection=eptic3">
+<s id="2198:6">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 so	Gp-stm-n	biti-g	
@@ -15337,7 +15337,7 @@ ustrezni	Ppnzem	ustrezen-p	ustrezna
 oskrbi	Sozem	oskrba-s	
 .	SENT	.-s	
 </s>
-<s id="2198:7&collection=eptic3">
+<s id="2198:7">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 nekaj	Zn-sei	nekaj-z	
@@ -15396,7 +15396,7 @@ državah	Sozmm	država-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2199:1&collection=eptic3">
+<s id="2199:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -15428,7 +15428,7 @@ bogato	Ppnzet	bogat-p	bogata
 razpravo	Sozet	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2199:2&collection=eptic3">
+<s id="2199:2">
 V	Dm	v-d	
 povzetku	Somem	povzetek-s	
 te	Zk-zer	ta-z	
@@ -15439,7 +15439,7 @@ pet	Kbg-mt	pet-k
 točk	Sozmr	točka-s	
 .	SENT	.-s	
 </s>
-<s id="2199:3&collection=eptic3">
+<s id="2199:3">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 Komisija	Sozei	komisija-s	
@@ -15462,7 +15462,7 @@ meddržavnih	Ppnzmm	meddržaven-p	meddržavna
 posvojitvah	Sozmm	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2199:4&collection=eptic3">
+<s id="2199:4">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 in	Vp	in-v	
@@ -15498,7 +15498,7 @@ v	Dm	v-d
 Evropi	Slzem	Evropa-s	
 .	SENT	.-s	
 </s>
-<s id="2199:5&collection=eptic3">
+<s id="2199:5">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -15530,7 +15530,7 @@ leta	Soser	leto-s
 2014	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2199:6&collection=eptic3">
+<s id="2199:6">
 Ti	Zk-mmi	ta-z	
 bodo	Gp-ptm-n	biti-g	
 vključevali	Ggnd-mm	vključevati-g	
@@ -15558,7 +15558,7 @@ otrokovih	Psnzmm	otrokov-p	otrokova
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2199:7&collection=eptic3">
+<s id="2199:7">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 omenila	Ggdd-ez	omeniti-g	
@@ -15599,7 +15599,7 @@ znotraj	Dr	znotraj-d
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2199:8&collection=eptic3">
+<s id="2199:8">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -15647,7 +15647,7 @@ romunske	Ppnzer	romunski-p	romunska
 vlade	Sozer	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2199:9&collection=eptic3">
+<s id="2199:9">
 Sprejet	Pdnmein	sprejet-p	sprejet
 ukrep	Somei	ukrep-s	
 je	Gp-ste-n	biti-g	
@@ -15673,7 +15673,7 @@ meddržavnih	Ppnzmr	meddržaven-p	meddržavna
 posvojitev	Sozmr	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2199:10&collection=eptic3">
+<s id="2199:10">
 Komisija	Sozei	komisija-s	
 pozorno	Rsn	pozorno-r	
 spremlja	Ggnste	spremljati-g	
@@ -15698,7 +15698,7 @@ pristojnosti	Sozem	pristojnost-s
 Romunije	Slzer	Romunija-s	
 .	SENT	.-s	
 </s>
-<s id="2199:11&collection=eptic3">
+<s id="2199:11">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -15728,7 +15728,7 @@ meddržavnih	Ppnzmm	meddržaven-p	meddržavna
 posvojitvah	Sozmm	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2199:12&collection=eptic3">
+<s id="2199:12">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 udeležena	Pdnzei	udeležen-p	udeležena
@@ -15738,7 +15738,7 @@ nadzornem	Ppnmem	nadzoren-p	nadzorni
 organu	Somem	organ-s	
 .	SENT	.-s	
 </s>
-<s id="2199:13&collection=eptic3">
+<s id="2199:13">
 Ko	Vd	ko-v	
 bomo	Gp-ppm-n	biti-g	
 razmišljali	Ggnd-mm	razmišljati-g	
@@ -15762,7 +15762,7 @@ omenili	Ggdd-mm	omeniti-g
 nocoj	Rsn	nocoj-r	
 .	SENT	.-s	
 </s>
-<s id="2199:14&collection=eptic3">
+<s id="2199:14">
 Komisija	Sozei	komisija-s	
 meni	Ggnste	meniti-g	
 ,	U	,-u	
@@ -15774,7 +15774,7 @@ nacionalnih	Ppnmmr	nacionalen-p	nacionalni
 organov	Sommr	organ-s	
 .	SENT	.-s	
 </s>
-<s id="2199:15&collection=eptic3">
+<s id="2199:15">
 Nanaša	Ggnste	nanašati-g	
 se	Zp------k	se-z	
 na	Dt	na-d	
@@ -15802,7 +15802,7 @@ tej	Zk-zem	ta-z
 ravni	Sozem	raven-s	
 .	SENT	.-s	
 </s>
-<s id="2199:16&collection=eptic3">
+<s id="2199:16">
 Podpredsednici	Sozed	podpredsednica-s	
 Reding	Psnmmd	Reding-p	reding
 bom	Gp-ppe-n	biti-g	
@@ -15835,7 +15835,7 @@ pričakuje	Ggnste	pričakovati-g
 odgovor	Somei	odgovor-s	
 .	SENT	.-s	
 </s>
-<s id="2199:17&collection=eptic3">
+<s id="2199:17">
 Kot	Vd	kot-v	
 botra	Sometd	boter-s	
 posvojenemu	Pdnmed	posvojen-p	posvojen
@@ -15862,7 +15862,7 @@ o	Dm	o-d
 posvojitvi	Sozem	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2199:18&collection=eptic3">
+<s id="2199:18">
 Nocojšnje	Ppnzer	Nocojšnje-p	nocojšnje
 razprave	Sozer	razprava-s	
 nisem	Gp-spe-d	biti-g	
@@ -15896,7 +15896,7 @@ in	Vp	in-v
 duha	Somer	duh-s	
 .	SENT	.-s	
 </s>
-<s id="2199:19&collection=eptic3">
+<s id="2199:19">
 Naj	L	naj-l	
 se	Zp------k	se-z	
 torej	Rsn	torej-r	
@@ -15935,7 +15935,7 @@ držav	Sozmr	država-s
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2200:1&collection=eptic3">
+<s id="2200:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -15977,7 +15977,7 @@ bili	Gp-d-mm	biti-g
 namenjeni	Pdnmmi	namenjen-p	namenjen
 .	SENT	.-s	
 </s>
-<s id="2200:2&collection=eptic3">
+<s id="2200:2">
 Neuspeh	Somei	neuspeh-s	
 naših	Zspmmrm	naš-z	
 letalskih	Ppnmmr	letalski-p	letalski
@@ -16011,7 +16011,7 @@ v	Dt	v-d
 obup	Sometn	obup-s	
 .	SENT	.-s	
 </s>
-<s id="2200:3&collection=eptic3">
+<s id="2200:3">
 Parlamentarni	Ppnmeid	parlamentaren-p	parlamentarni
 Odbor	Somei	odbor-s	
 za	Dt	za-d	
@@ -16082,7 +16082,7 @@ upravljavci	Sommi	upravljavec-s
 letališč	Sosmr	letališče-s	
 .	SENT	.-s	
 </s>
-<s id="2200:4&collection=eptic3">
+<s id="2200:4">
 Nenavadne	Ppnzmi	nenavaden-p	nenavadna
 snežne	Ppnzmi	snežen-p	snežna
 padavine	Sozmi	padavina-s	
@@ -16108,7 +16108,7 @@ ledenega	Ppnmer	leden-p	ledeni
 pokrova	Somer	pokrov-s	
 .	SENT	.-s	
 </s>
-<s id="2200:5&collection=eptic3">
+<s id="2200:5">
 Postale	Ggdd-mz	postati-g	
 bodo	Gp-ptm-n	biti-g	
 še	L	še-l	
@@ -16116,7 +16116,7 @@ bolj	Rsr	bolj-r
 pogoste	Ppnzmi	pogost-p	pogosta
 .	SENT	.-s	
 </s>
-<s id="2200:6&collection=eptic3">
+<s id="2200:6">
 Ne	L	ne-l	
 glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -16157,7 +16157,7 @@ pripravljeni	Pdnmmi	pripravljen-p	pripravljen
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2201:1&collection=eptic3">
+<s id="2201:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16204,7 +16204,7 @@ verske	Ppnzer	verski-p	verska
 svobode	Sozer	svoboda-s	
 .	SENT	.-s	
 </s>
-<s id="2201:2&collection=eptic3">
+<s id="2201:2">
 Tako	Rsn	tako-r	
 imenovane	Pdnzmt	imenovan-p	imenovana
 oblasti	Sozmt	oblast-s	
@@ -16259,7 +16259,7 @@ zadnjih	Ppnsmr	zadnji-p	zadnje
 let	Sosmr	leto-s	
 .	SENT	.-s	
 </s>
-<s id="2201:3&collection=eptic3">
+<s id="2201:3">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16291,7 +16291,7 @@ unije	Sozer	unija-s
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2202:1&collection=eptic3">
+<s id="2202:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16342,7 +16342,7 @@ se	Zp------k	se-z
 razidejo	Ggdstm	raziti-g	
 .	SENT	.-s	
 </s>
-<s id="2202:2&collection=eptic3">
+<s id="2202:2">
 Izgovor	Somei	izgovor-s	
 za	Dt	za-d	
 to	Zk-set	ta-z	
@@ -16366,7 +16366,7 @@ na	Dt	na-d
 soboto	Sozet	sobota-s	
 .	SENT	.-s	
 </s>
-<s id="2202:3&collection=eptic3">
+<s id="2202:3">
 Že	L	že-l	
 zahteva	Ggvste	zahtevati-g	
 po	Dm	po-d	
@@ -16412,7 +16412,7 @@ Uniji	Sozed	unija-s
 pridružiti	Ggdn	pridružiti-g	
 .	SENT	.-s	
 </s>
-<s id="2202:4&collection=eptic3">
+<s id="2202:4">
 V	Dm	v-d	
 skladu	Somem	sklad-s	
 z	Do	z-d	
@@ -16438,7 +16438,7 @@ turškem	Ppnmem	turški-p	turški
 vpadu	Somem	vpad-s	
 .	SENT	.-s	
 </s>
-<s id="2202:5&collection=eptic3">
+<s id="2202:5">
 Danes	Rsn	danes-r	
 jih	Zotmmt--k	on-z	
 je	Gp-ste-n	biti-g	
@@ -16448,7 +16448,7 @@ samo	L	samo-l
 300	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2202:6&collection=eptic3">
+<s id="2202:6">
 Zdaj	Rsn	zdaj-r	
 razumete	Ggvsdm	razumeti-g	
 ,	U	,-u	
@@ -16463,7 +16463,7 @@ zakaj	Rsn	zakaj-r
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2203:1&collection=eptic3">
+<s id="2203:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16478,7 +16478,7 @@ in	Vp	in-v
 Marokom	Slmeo	Marok-s	
 .	SENT	.-s	
 </s>
-<s id="2203:2&collection=eptic3">
+<s id="2203:2">
 Če	Vd	če-v	
 bo	Gp-pte-n	biti-g	
 ta	Zk-met	ta-z	
@@ -16501,7 +16501,7 @@ evro-sredozemskih	Ppnzmm	evro-sredozemskih-p	evro-sredozemskih
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2203:3&collection=eptic3">
+<s id="2203:3">
 Odpreti	Ggdn	odpreti-g	
 moramo	Ggnspm	morati-g	
 naše	Zspzerm	naš-z	
@@ -16520,7 +16520,7 @@ njihovim	Zstmeom	njihov-z
 hrbtom	Someo	hrbet-s	
 .	SENT	.-s	
 </s>
-<s id="2203:4&collection=eptic3">
+<s id="2203:4">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 opravila	Ggdd-ez	opraviti-g	
@@ -16544,7 +16544,7 @@ evro-sredozemske	Ppnzmt	evro-sredozemske-p	evro-sredozemske
 države	Sozmt	država-s	
 .	SENT	.-s	
 </s>
-<s id="2203:5&collection=eptic3">
+<s id="2203:5">
 Tega	Zk-ser	ta-z	
 sporazuma	Somer	sporazum-s	
 ne	L	ne-l	
@@ -16571,7 +16571,7 @@ v	Dm	v-d
 Maroku	Slmem	Maroko-s	
 .	SENT	.-s	
 </s>
-<s id="2203:6&collection=eptic3">
+<s id="2203:6">
 Če	Vd	če-v	
 ne	L	ne-l	
 bomo	Gp-ppm-n	biti-g	
@@ -16593,7 +16593,7 @@ tvegala	Ggvd-ez	tvegati-g
 izgube	Sozmt	izguba-s	
 .	SENT	.-s	
 </s>
-<s id="2203:7&collection=eptic3">
+<s id="2203:7">
 To	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 skrbi	Sozmi	skrb-s	
@@ -16616,7 +16616,7 @@ vami	Zod-mo	ti-z
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2204:1&collection=eptic3">
+<s id="2204:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16635,7 +16635,7 @@ Roberta	Slmer	Robert-s
 Burnsa	Slmer	Burns-s	
 .	SENT	.-s	
 </s>
-<s id="2204:2&collection=eptic3">
+<s id="2204:2">
 Kot	Vd	kot-v	
 veste	Ggnsdm	vedeti-g	
 ,	U	,-u	
@@ -16652,7 +16652,7 @@ oziroma	Vp	oziroma-v
 haggis	Somei	haggis-s	
 .	SENT	.-s	
 </s>
-<s id="2204:3&collection=eptic3">
+<s id="2204:3">
 V	Dm	v-d	
 ZDA	Slzmm	ZDA-s	
 je	Gp-ste-n	biti-g	
@@ -16683,7 +16683,7 @@ pravi	Ppnmeid	pravi-p	pravi
 haggis	Somei	haggis-s	
 .	SENT	.-s	
 </s>
-<s id="2204:4&collection=eptic3">
+<s id="2204:4">
 Kaj	Zv-sei	kaj-z	
 lahko	Rsn	lahko-r	
 storita	Ggdstd	storiti-g	
@@ -16726,7 +16726,7 @@ večerij	Sozmr	večerja-s
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="161" duration="short" durations="71.0" speed="medium" speedwm="136.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2205:1&collection=eptic3">
+<s id="2205:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16757,7 +16757,7 @@ v	Dm	v-d
 Kazahstanu	Slmem	Kazahstan-s	
 .	SENT	.-s	
 </s>
-<s id="2205:2&collection=eptic3">
+<s id="2205:2">
 Isto	Zn-set	isti-z	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -16782,7 +16782,7 @@ v	Dm	v-d
 Astani	Slmem	Astani-s	
 .	SENT	.-s	
 </s>
-<s id="2205:3&collection=eptic3">
+<s id="2205:3">
 A	Vp	a-v	
 takoj	Rsn	takoj-r	
 ko	Vd	ko-v	
@@ -16817,7 +16817,7 @@ leta	Soser	leto-s
 2020	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2205:4&collection=eptic3">
+<s id="2205:4">
 Pospešuje	Ggnste	Pospešuje-g	
 se	Zp------k	se-z	
 nadlegovanje	Sosei	nadlegovanje-s	
@@ -16830,7 +16830,7 @@ za	Dt	za-d
 pravice	Sozmt	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2205:5&collection=eptic3">
+<s id="2205:5">
 Nadlegujejo	Ggnstm	nadlegovati-g	
 in	Vp	in-v	
 zapirajo	Ggnstm	zapirati-g	
@@ -16845,7 +16845,7 @@ Kazahstan	Slmei	Kazahstan-s
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2205:6&collection=eptic3">
+<s id="2205:6">
 Zahtevam	Ggvspe	zahtevati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -16856,7 +16856,7 @@ diktaturo	Sozet	diktatura-s
 Nazarbajeva	Ggnspd	Nazarbajeva-g	
 .	SENT	.-s	
 </s>
-<s id="2205:7&collection=eptic3">
+<s id="2205:7">
 Neodvisni	Ppnmmi	neodvisen-p	neodvisen
 sindikati	Sommi	sindikat-s	
 in	Vp	in-v	
@@ -16913,7 +16913,7 @@ večine	Sozer	večina-s
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2206:1&collection=eptic3">
+<s id="2206:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -16940,7 +16940,7 @@ temeljna	Ppnzei	temeljen-p	temeljna
 pravica	Sozei	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2206:2&collection=eptic3">
+<s id="2206:2">
 Ta	Zk-mei	ta-z	
 človekova	Psnzei	človekov-p	človekova
 pravica	Sozei	pravica-s	
@@ -16974,7 +16974,7 @@ vasici	Sozem	vasica-s
 Rizokarpaso	Slmei	Rizokarpaso-s	
 .	SENT	.-s	
 </s>
-<s id="2206:3&collection=eptic3">
+<s id="2206:3">
 Tako	Rsn	tako-r	
 imenovana	Pdnzei	imenovan-p	imenovana
 policija	Sozei	policija-s	
@@ -17015,7 +17015,7 @@ zapustijo	Ggdstm	zapustiti-g
 cerkev	Sozet	cerkev-s	
 .	SENT	.-s	
 </s>
-<s id="2206:4&collection=eptic3">
+<s id="2206:4">
 Evropski	Ppnmeid	evropski-p	evropski
 parlament	Somei	parlament-s	
 mora	Ggnste	morati-g	
@@ -17052,7 +17052,7 @@ leta	Soser	leto-s
 1975	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2206:5&collection=eptic3">
+<s id="2206:5">
 EU	Slzei	EU-s	
 mora	Ggnste	morati-g	
 ustaviti	Ggdn	ustaviti-g	
@@ -17089,7 +17089,7 @@ Ciprčanov	Psnmein	Ciprčanov-p	ciprčanov
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2207:1&collection=eptic3">
+<s id="2207:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -17117,7 +17117,7 @@ v	Dm	v-d
 celoti	Sozem	celota-s	
 .	SENT	.-s	
 </s>
-<s id="2207:2&collection=eptic3">
+<s id="2207:2">
 Komisija	Sozei	komisija-s	
 mora	Ggnste	morati-g	
 v	Dm	v-d	
@@ -17146,7 +17146,7 @@ prehranska	Ppnsmt	prehranski-p	prehransko
 dopolnila	Sosmt	dopolnilo-s	
 .	SENT	.-s	
 </s>
-<s id="2207:3&collection=eptic3">
+<s id="2207:3">
 Ta	Zk-mei	ta-z	
 neuspeh	Somei	neuspeh-s	
 pomeni	Ggvste	pomeniti-g	
@@ -17170,7 +17170,7 @@ nacionalnimi	Ppnmmo	nacionalen-p	nacionalni
 zakoni	Sommo	zakon-s	
 .	SENT	.-s	
 </s>
-<s id="2207:4&collection=eptic3">
+<s id="2207:4">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 nepravično	Ppnsei	nepravičen-p	nepravično
@@ -17190,7 +17190,7 @@ najvišjih	Ppszmr	visok-p	najvišja
 količin	Sozmr	količina-s	
 .	SENT	.-s	
 </s>
-<s id="2207:5&collection=eptic3">
+<s id="2207:5">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
@@ -17203,7 +17203,7 @@ leta	Soser	leto-s
 2006	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2207:6&collection=eptic3">
+<s id="2207:6">
 Ob	Dm	ob-d	
 tem	Zk-sem	ta-z	
 se	Zp------k	se-z	
@@ -17217,7 +17217,7 @@ predloga	Somer	predlog-s
 ni	Gp-ste-d	biti-g	
 ?	SENT	?-s	
 </s>
-<s id="2207:7&collection=eptic3">
+<s id="2207:7">
 Možno	Ppnsei	možen-p	možno
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -17250,7 +17250,7 @@ izjalovijo	Ggdstm	izjaloviti-g
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2207:8&collection=eptic3">
+<s id="2207:8">
 Predlog	Sometn	predlog-s	
 potrebujemo	Ggnspm	potrebovati-g	
 zelo	Rsn	zelo-r	
@@ -17272,7 +17272,7 @@ notranjem	Ppnmem	notranji-p	notranji
 trgu	Somem	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2207:9&collection=eptic3">
+<s id="2207:9">
 Čim	Rsn	čim-r	
 prej	Rsr	prej-r	
 se	Zp------k	se-z	
@@ -17283,7 +17283,7 @@ tem	Rsn	tem-r
 bolje	Rsr	dobro-r	
 .	SENT	.-s	
 </s>
-<s id="2207:10&collection=eptic3">
+<s id="2207:10">
 Pozivam	Ggnspe	pozivati-g	
 Komisijo	Sozet	komisija-s	
 ,	U	,-u	
@@ -17300,7 +17300,7 @@ zgane	Ggdste	zganiti-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2208:1&collection=eptic3">
+<s id="2208:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -17313,7 +17313,7 @@ nekaj	Rsn	nekaj-r
 vprašanj	Sosmr	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2208:2&collection=eptic3">
+<s id="2208:2">
 Kar	Zz-sei	kar-z	
 zadeva	Ggnste	zadevati-g	
 Evropsko	Ppnzet	evropski-p	evropska
@@ -17342,7 +17342,7 @@ prek	Dr	prek-d
 NVO	Sozeo	NVO-s	
 .	SENT	.-s	
 </s>
-<s id="2208:3&collection=eptic3">
+<s id="2208:3">
 Ali	Rsn	ali-r	
 obstajajo	Ggnstm	obstajati-g	
 kakšne	Zv-mmt	kakšen-z	
@@ -17379,7 +17379,7 @@ kakšne	Zv-mmt	kakšen-z
 zadržke	Sommt	zadržek-s	
 ?	SENT	?-s	
 </s>
-<s id="2208:4&collection=eptic3">
+<s id="2208:4">
 Drugače	Rsn	drugače-r	
 povedano	Pdnsei	povedan-p	povedano
 :	U	:-u	
@@ -17399,13 +17399,13 @@ in	Vp	in-v
 doprinose	Sommt	doprinos-s	
 ?	SENT	?-s	
 </s>
-<s id="2208:5&collection=eptic3">
+<s id="2208:5">
 Kje	Rsn	kje-r	
 je	Gp-ste-n	biti-g	
 odgovornost	Sozei	odgovornost-s	
 ?	SENT	?-s	
 </s>
-<s id="2208:6&collection=eptic3">
+<s id="2208:6">
 Glede	Rsn	glede-r	
 na	Dt	na-d	
 nekatere	Zn-mmt	nekateri-z	
@@ -17443,7 +17443,7 @@ pomanjkanjem	Soseo	pomanjkanje-s
 odgovornosti	Sozer	odgovornost-s	
 .	SENT	.-s	
 </s>
-<s id="2208:7&collection=eptic3">
+<s id="2208:7">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 vem	Ggnspe	vedeti-g	
@@ -17469,7 +17469,7 @@ motivirana	Pdnzei	motiviran-p	motivirana
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2209:1&collection=eptic3">
+<s id="2209:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -17495,7 +17495,7 @@ zagovarjanje	Soset	zagovarjanje-s
 slednjega	Ppnmer	slednji-p	slednji
 .	SENT	.-s	
 </s>
-<s id="2209:2&collection=eptic3">
+<s id="2209:2">
 Soglasje	Sosei	soglasje-s	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -17504,7 +17504,7 @@ leta	Soser	leto-s
 2007	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2209:3&collection=eptic3">
+<s id="2209:3">
 Nudi	Ggnste	nuditi-g	
 temeljni	Ppnmetd	temeljen-p	temeljni
 skupni	Ppnmetd	skupen-p	skupni
@@ -17524,7 +17524,7 @@ akcijski	Ppnmetd	akcijski-p	akcijski
 načrt	Sometn	načrt-s	
 .	SENT	.-s	
 </s>
-<s id="2209:4&collection=eptic3">
+<s id="2209:4">
 Tako	Rsn	tako-r	
 države	Sozmi	država-s	
 članice	Sozmi	članica-s	
@@ -17545,7 +17545,7 @@ dobro	Rsn	dobro-r
 izvajalo	Ggnd-es	izvajati-g	
 .	SENT	.-s	
 </s>
-<s id="2209:5&collection=eptic3">
+<s id="2209:5">
 Želim	Ggnspe	želeti-g	
 poudariti	Ggdn	poudariti-g	
 ,	U	,-u	
@@ -17579,7 +17579,7 @@ pri	Dm	pri-d
 soglasju	Sosem	soglasje-s	
 .	SENT	.-s	
 </s>
-<s id="2209:6&collection=eptic3">
+<s id="2209:6">
 Štiri	Kbgzmt	štirje-k	
 petine	Sozmt	petina-s	
 humanitarne	Ppnzer	humanitaren-p	humanitarna
@@ -17604,7 +17604,7 @@ povzročil	Ggdd-em	povzročiti-g
 človek	Somei	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2209:7&collection=eptic3">
+<s id="2209:7">
 Da	Vd	da-v	
 bi	Gp-g	biti-g	
 lahko	Rsn	lahko-r	
@@ -17631,7 +17631,7 @@ tudi	L	tudi-l
 razume	Ggvste	razumeti-g	
 .	SENT	.-s	
 </s>
-<s id="2209:8&collection=eptic3">
+<s id="2209:8">
 Naj	L	naj-l	
 navedem	Ggdspe	navesti-g	
 en	Kbzmet	en-k	
@@ -17640,7 +17640,7 @@ za	Dt	za-d
 to	Zk-set	ta-z	
 .	SENT	.-s	
 </s>
-<s id="2209:9&collection=eptic3">
+<s id="2209:9">
 Pravkar	Rsn	pravkar-r	
 sem	Gp-spe-n	biti-g	
 se	Zp------k	se-z	
@@ -17677,7 +17677,7 @@ humanitarnega	Ppnmer	humanitaren-p	humanitarni
 dostopa	Somer	dostop-s	
 .	SENT	.-s	
 </s>
-<s id="2209:10&collection=eptic3">
+<s id="2209:10">
 Prvič	Rsn	prvič-r	
 smo	Gp-spm-n	biti-g	
 na	Dm	na-d	
@@ -17713,7 +17713,7 @@ in	Vp	in-v
 neodvisnosti	Sozer	neodvisnost-s	
 .	SENT	.-s	
 </s>
-<s id="2209:11&collection=eptic3">
+<s id="2209:11">
 Po	Dm	po-d	
 številnih	Ppnzmm	številen-p	številna
 urah	Sozmm	ura-s	
@@ -17751,7 +17751,7 @@ potrebujejo	Ggnstm	potrebovati-g
 pomoč	Sozet	pomoč-s	
 .	SENT	.-s	
 </s>
-<s id="2209:12&collection=eptic3">
+<s id="2209:12">
 V	Dm	v-d	
 primeru	Somem	primer-s	
 Jemna	Slmer	Jemen-s	
@@ -17781,7 +17781,7 @@ prizadelo	Ggdd-es	prizadeti-g
 vojn	Sozmr	vojna-s	
 .	SENT	.-s	
 </s>
-<s id="2209:13&collection=eptic3">
+<s id="2209:13">
 Humanitarna	Ppnzei	humanitaren-p	humanitarna
 pomoč	Sozei	pomoč-s	
 pa	Vp	pa-v	
@@ -17797,7 +17797,7 @@ dolgoročen	Ppnmein	dolgoročen-p	dolgoročni
 vpliv	Somei	vpliv-s	
 .	SENT	.-s	
 </s>
-<s id="2209:14&collection=eptic3">
+<s id="2209:14">
 Je	Gp-ste-n	biti-g	
 nekaj	Rsn	nekaj-r	
 ,	U	,-u	
@@ -17810,7 +17810,7 @@ trajni	Ppnmetd	trajen-p	trajen
 mir	Sometn	mir-s	
 .	SENT	.-s	
 </s>
-<s id="2209:15&collection=eptic3">
+<s id="2209:15">
 V	Dm	v-d	
 Komisiji	Sozem	komisija-s	
 smo	Gp-spm-n	biti-g	
@@ -17853,7 +17853,7 @@ sprejela	Ggdd-ez	sprejeti-g
 sporočilo	Soset	sporočilo-s	
 .	SENT	.-s	
 </s>
-<s id="2209:16&collection=eptic3">
+<s id="2209:16">
 Pregled	Somei	pregled-s	
 kaže	Ggnste	kazati-g	
 ,	U	,-u	
@@ -17888,7 +17888,7 @@ civilne	Ppnzer	civilen-p	civilna
 zaščite	Sozer	zaščita-s	
 .	SENT	.-s	
 </s>
-<s id="2209:17&collection=eptic3">
+<s id="2209:17">
 Ugotovili	Ggdd-mm	ugotoviti-g	
 smo	Gp-spm-n	biti-g	
 tudi	L	tudi-l	
@@ -17905,7 +17905,7 @@ nadaljnje	Ppnzmt	nadaljnji-p	nadaljnja
 izboljšave	Sozmt	izboljšava-s	
 .	SENT	.-s	
 </s>
-<s id="2209:18&collection=eptic3">
+<s id="2209:18">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 podpreti	Ggdn	podpreti-g	
@@ -17932,7 +17932,7 @@ lokalno	Ppnzet	lokalen-p	lokalna
 zmogljivost	Sozet	zmogljivost-s	
 .	SENT	.-s	
 </s>
-<s id="2209:19&collection=eptic3">
+<s id="2209:19">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 ključnega	Ppnmer	ključen-p	ključni
@@ -17950,7 +17950,7 @@ so	Gp-stm-n	biti-g
 omejeni	Pdnmmi	omejen-p	omejen
 .	SENT	.-s	
 </s>
-<s id="2209:20&collection=eptic3">
+<s id="2209:20">
 Dovolite	Ggdvdm	dovoliti-g	
 mi	Zop-ed--k	jaz-z	
 ,	U	,-u	
@@ -17963,7 +17963,7 @@ o	Dm	o-d
 odgovornosti	Sozem	odgovornost-s	
 .	SENT	.-s	
 </s>
-<s id="2209:21&collection=eptic3">
+<s id="2209:21">
 Očitno	Rsn	očitno-r	
 moramo	Ggnspm	morati-g	
 do	Dr	do-d	
@@ -17986,7 +17986,7 @@ najučinkovitejši	Ppsmetd	učinkovit-p	najučinkovitejši
 način	Sometn	način-s	
 .	SENT	.-s	
 </s>
-<s id="2209:22&collection=eptic3">
+<s id="2209:22">
 Da	Vd	da-v	
 bi	Gp-g	biti-g	
 poskrbeli	Ggdd-mm	poskrbeti-g	
@@ -18020,7 +18020,7 @@ vseh	Zc-mmr	ves-z
 projektov	Sommr	projekt-s	
 .	SENT	.-s	
 </s>
-<s id="2209:23&collection=eptic3">
+<s id="2209:23">
 Na	Dm	na-d	
 vseh	Zc-smm	ves-z	
 žariščih	Sosmm	žarišče-s	
@@ -18054,7 +18054,7 @@ v	Dm	v-d
 Jemnu	Slmem	Jemen-s	
 .	SENT	.-s	
 </s>
-<s id="2209:24&collection=eptic3">
+<s id="2209:24">
 Pred	Do	pred-d	
 kratkim	Ppnmeo	kratek-p	kratek
 sem	Gp-spe-n	biti-g	
@@ -18069,7 +18069,7 @@ humanitarno	Ppnzet	humanitaren-p	humanitarna
 pomoč	Sozet	pomoč-s	
 .	SENT	.-s	
 </s>
-<s id="2209:25&collection=eptic3">
+<s id="2209:25">
 Drugo	Kbzsei	drug-k	
 ,	U	,-u	
 pri	Dm	pri-d	
@@ -18086,7 +18086,7 @@ evropskega	Ppnmer	evropski-p	evropski
 glasu	Somer	glas-s	
 .	SENT	.-s	
 </s>
-<s id="2209:26&collection=eptic3">
+<s id="2209:26">
 Smo	Gp-spm-n	biti-g	
 največji	Ppsmeid	velik-p	največji
 donator	Somei	donator-s	
@@ -18105,7 +18105,7 @@ enim	Kbzmeo	en-k
 glasom	Someo	glas-s	
 .	SENT	.-s	
 </s>
-<s id="2209:27&collection=eptic3">
+<s id="2209:27">
 Prek	Dr	prek-d	
 tradicionalnih	Ppnmmr	tradicionalen-p	tradicionalni
 donatorjev	Sommr	donator-s	
@@ -18130,7 +18130,7 @@ vodilno	Ppnzet	vodilen-p	vodilna
 vlogo	Sozet	vloga-s	
 .	SENT	.-s	
 </s>
-<s id="2209:28&collection=eptic3">
+<s id="2209:28">
 Tretjič	Sozei	Tretjič-s	
 ,	U	,-u	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -18167,7 +18167,7 @@ v	Dm	v-d
 Evropi	Slzem	Evropa-s	
 .	SENT	.-s	
 </s>
-<s id="2209:29&collection=eptic3">
+<s id="2209:29">
 Naj	Vd	naj-v	
 se	Zp------k	se-z	
 za	Dt	za-d	
@@ -18201,14 +18201,14 @@ to	Zk-zet	ta-z
 temo	Sozet	tema-s	
 .	SENT	.-s	
 </s>
-<s id="2209:30&collection=eptic3">
+<s id="2209:30">
 Svet	Somei	svet-s	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
 spremenil	Ggdd-em	spremeniti-g	
 .	SENT	.-s	
 </s>
-<s id="2209:31&collection=eptic3">
+<s id="2209:31">
 Na	Dt	na-d	
 žalost	Sozet	žalost-s	
 bo	Gp-pte-n	biti-g	
@@ -18225,7 +18225,7 @@ povzroča	Ggnste	povzročati-g
 človek	Somei	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2209:32&collection=eptic3">
+<s id="2209:32">
 Vsi	Zc-mmi	ves-z	
 ukrepi	Sommi	ukrep-s	
 ,	U	,-u	
@@ -18266,7 +18266,7 @@ svetu	Somem	svet-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2210:1&collection=eptic3">
+<s id="2210:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -18300,7 +18300,7 @@ v	Dm	v-d
 senci	Sozem	senca-s	
 .	SENT	.-s	
 </s>
-<s id="2210:2&collection=eptic3">
+<s id="2210:2">
 To	Zk-sei	ta-z	
 poročilo	Sosei	poročilo-s	
 izhaja	Ggnste	izhajati-g	
@@ -18328,7 +18328,7 @@ prehranske	Ppnzer	prehranski-p	prehranska
 varnosti	Sozer	varnost-s	
 .	SENT	.-s	
 </s>
-<s id="2210:3&collection=eptic3">
+<s id="2210:3">
 Žal	Rsn	žal-r	
 mi	Zop-ed--k	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -18343,7 +18343,7 @@ pred	Do	pred-d
 polnočjo	Sozeo	polnoč-s	
 .	SENT	.-s	
 </s>
-<s id="2210:4&collection=eptic3">
+<s id="2210:4">
 Mogoče	Rsn	mogoče-r	
 pa	Vp	pa-v	
 se	Zp------k	se-z	
@@ -18375,7 +18375,7 @@ proizvodnji	Sozem	proizvodnja-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2210:5&collection=eptic3">
+<s id="2210:5">
 To	Zk-sei	ta-z	
 poročilo	Sosei	poročilo-s	
 je	Gp-ste-n	biti-g	
@@ -18401,7 +18401,7 @@ kmetijske	Ppnzer	kmetijski-p	kmetijska
 politike	Sozer	politika-s	
 .	SENT	.-s	
 </s>
-<s id="2210:6&collection=eptic3">
+<s id="2210:6">
 Imela	Ggnd-ez	imeti-g	
 sem	Gp-spe-n	biti-g	
 nekaj	Rsn	nekaj-r	
@@ -18419,7 +18419,7 @@ končnem	Ppnsem	končen-p	končno
 besedilu	Sosem	besedilo-s	
 .	SENT	.-s	
 </s>
-<s id="2210:7&collection=eptic3">
+<s id="2210:7">
 Mnenje	Sosei	mnenje-s	
 ,	U	,-u	
 da	Vd	da-v	
@@ -18447,7 +18447,7 @@ dober	Ppnmein	dober-p	dober
 argument	Somei	argument-s	
 .	SENT	.-s	
 </s>
-<s id="2210:8&collection=eptic3">
+<s id="2210:8">
 Potrebujemo	Ggnspm	potrebovati-g	
 vse	Zc-mmt	ves-z	
 proizvodne	Ppnmmt	proizvoden-p	proizvodni
@@ -18461,7 +18461,7 @@ prehranski	Ppnzed	prehranski-p	prehranska
 varnosti	Sozed	varnost-s	
 .	SENT	.-s	
 </s>
-<s id="2210:9&collection=eptic3">
+<s id="2210:9">
 Lotiti	Ggdn	lotiti-g	
 se	Zp------k	se-z	
 moramo	Ggnspm	morati-g	
@@ -18479,7 +18479,7 @@ vseh	Zc-mmr	ves-z
 odgovorov	Sommr	odgovor-s	
 .	SENT	.-s	
 </s>
-<s id="2210:10&collection=eptic3">
+<s id="2210:10">
 Edini	Ppnmeid	edin-p	edini
 osrednji	Ppnmeid	osrednji-p	osrednji
 problem	Somei	problem-s	
@@ -18491,7 +18491,7 @@ za	Dt	za-d
 kmetovalce	Sommt	kmetovalec-s	
 .	SENT	.-s	
 </s>
-<s id="2210:11&collection=eptic3">
+<s id="2210:11">
 Mladi	Ppnmmi	mlad-p	mladi
 kmetovalci	Sommi	kmetovalec-s	
 ne	L	ne-l	
@@ -18523,7 +18523,7 @@ hrano	Sozeo	hrana-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2211:1&collection=eptic3">
+<s id="2211:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -18550,7 +18550,7 @@ tej	Zk-zem	ta-z
 temi	Sozem	tema-s	
 .	SENT	.-s	
 </s>
-<s id="2211:2&collection=eptic3">
+<s id="2211:2">
 Gospa	Sozei	gospa-s	
 Sârbu	Slmei	Sârbu-s	
 je	Gp-ste-n	biti-g	
@@ -18562,7 +18562,7 @@ obdelala	Ggdd-dm	obdelati-g
 vprašanja	Sosmt	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2211:3&collection=eptic3">
+<s id="2211:3">
 Ne	L	ne-l	
 bom	Gp-ppe-n	biti-g	
 ponavljal	Ggnd-em	ponavljati-g	
@@ -18580,7 +18580,7 @@ dve	Kbgzdt	dva-k
 točki	Sozdt	točka-s	
 .	SENT	.-s	
 </s>
-<s id="2211:4&collection=eptic3">
+<s id="2211:4">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 potrebujemo	Ggnspm	potrebovati-g	
@@ -18589,7 +18589,7 @@ financirano	Pdnzet	financiran-p	financirana
 SKP	Sozet	SKP-s	
 .	SENT	.-s	
 </s>
-<s id="2211:5&collection=eptic3">
+<s id="2211:5">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -18605,7 +18605,7 @@ ugleda	Somer	ugled-s
 SKP	Sozmr	SKP-s	
 .	SENT	.-s	
 </s>
-<s id="2211:6&collection=eptic3">
+<s id="2211:6">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -18627,7 +18627,7 @@ s	Do	z-d
 kmetovanjem	Soseo	kmetovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2211:7&collection=eptic3">
+<s id="2211:7">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 imamo	Ggnspm-n	imeti-g	
@@ -18642,7 +18642,7 @@ kmetijskih	Ppnsmm	kmetijski-p	kmetijsko
 zemljiščih	Sosmm	zemljišče-s	
 .	SENT	.-s	
 </s>
-<s id="2211:8&collection=eptic3">
+<s id="2211:8">
 Ali	Vp	ali-v	
 bi	Gp-g	biti-g	
 morali	Ggnd-mm	morati-g	
@@ -18676,7 +18676,7 @@ ponovno	Rsn	ponovno-r
 preučiti	Ggdn	preučiti-g	
 ?	SENT	?-s	
 </s>
-<s id="2211:9&collection=eptic3">
+<s id="2211:9">
 Ali	Vp	ali-v	
 gre	Ggvste	iti-g	
 mogoče	Ppnsei	mogoč-p	mogoče
@@ -18701,7 +18701,7 @@ praznimi	Ppnmmo	prazen-p	prazen
 žepi	Sommo	žep-s	
 ?	SENT	?-s	
 </s>
-<s id="2211:10&collection=eptic3">
+<s id="2211:10">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 moje	Zspseie	moj-z	
@@ -18716,7 +18716,7 @@ vprašanje	Sosei	vprašanje-s
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2212:1&collection=eptic3">
+<s id="2212:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -18745,7 +18745,7 @@ za	Dt	za-d
 Rome	Slzmt	Rome-s	
 .	SENT	.-s	
 </s>
-<s id="2212:2&collection=eptic3">
+<s id="2212:2">
 Kmetijstvo	Sosei	kmetijstvo-s	
 se	Zp------k	se-z	
 med	Do	med-d	
@@ -18777,7 +18777,7 @@ nobenih	Zl-zmr	noben-z
 zemljišč	Sosmr	zemljišče-s	
 .	SENT	.-s	
 </s>
-<s id="2212:3&collection=eptic3">
+<s id="2212:3">
 Zato	Vp	zato-v	
 ne	L	ne-l	
 govorimo	Ggnspm	govoriti-g	
@@ -18799,7 +18799,7 @@ na	Dm	na-d
 mizi	Sozem	miza-s	
 .	SENT	.-s	
 </s>
-<s id="2212:4&collection=eptic3">
+<s id="2212:4">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 že	L	že-l	
@@ -18818,7 +18818,7 @@ za	Dt	za-d
 EU	Slzet	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2212:5&collection=eptic3">
+<s id="2212:5">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -18867,7 +18867,7 @@ generacije	Sozmt	generacija-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="433" duration="medium" durations="234.0" speed="slow" speedwm="111.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2213:1&collection=eptic3">
+<s id="2213:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -18911,7 +18911,7 @@ ceno	Sozet	cena-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2213:2&collection=eptic3">
+<s id="2213:2">
 Zato	Rsn	zato-r	
 se	Zp------k	se-z	
 želim	Ggnspe	želeti-g	
@@ -18934,7 +18934,7 @@ njihova	Zstsmtm	njihov-z
 prizadevanja	Sosmt	prizadevanje-s	
 .	SENT	.-s	
 </s>
-<s id="2213:3&collection=eptic3">
+<s id="2213:3">
 Prehranska	Ppnzei	prehranski-p	prehranska
 varnost	Sozei	varnost-s	
 je	Gp-ste-n	biti-g	
@@ -18965,7 +18965,7 @@ v	Dm	v-d
 Evropi	Slzem	Evropa-s	
 .	SENT	.-s	
 </s>
-<s id="2213:4&collection=eptic3">
+<s id="2213:4">
 Zanje	Zotmmt--z	zame-z	
 lahko	Rsn	lahko-r	
 skupna	Ppnzei	skupen-p	skupna
@@ -18976,7 +18976,7 @@ dejanske	Ppnzmt	dejanski-p	dejanska
 spremembe	Sozmt	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2213:5&collection=eptic3">
+<s id="2213:5">
 SKP	Somei	SKP-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -19002,14 +19002,14 @@ v	Dm	v-d
 Evropi	Slzem	Evropa-s	
 .	SENT	.-s	
 </s>
-<s id="2213:6&collection=eptic3">
+<s id="2213:6">
 To	Zk-sei	ta-z	
 se	Zp------k	se-z	
 mora	Ggnste	morati-g	
 nadaljevati	Ggnn	nadaljevati-g	
 .	SENT	.-s	
 </s>
-<s id="2213:7&collection=eptic3">
+<s id="2213:7">
 Prehranska	Ppnzei	prehranski-p	prehranska
 varnost	Sozei	varnost-s	
 je	Gp-ste-n	biti-g	
@@ -19036,7 +19036,7 @@ sprejela	Ggdd-ez	sprejeti-g
 novembra	Somer	november-s	
 .	SENT	.-s	
 </s>
-<s id="2213:8&collection=eptic3">
+<s id="2213:8">
 Poročilo	Sosei	poročilo-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -19072,7 +19072,7 @@ na	Dt	na-d
 potrošnike	Sommt	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2213:9&collection=eptic3">
+<s id="2213:9">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 v	Dm	v-d	
@@ -19090,7 +19090,7 @@ cen	Sozmr	cena-s
 obravnavati	Ggnn	obravnavati-g	
 .	SENT	.-s	
 </s>
-<s id="2213:10&collection=eptic3">
+<s id="2213:10">
 Skupaj	Rsn	skupaj-r	
 si	Zp---d--k	se-z	
 moramo	Ggnspm	morati-g	
@@ -19129,7 +19129,7 @@ na	Dm	na-d
 trgu	Somem	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2213:11&collection=eptic3">
+<s id="2213:11">
 Poročilo	Sosei	poročilo-s	
 predlaga	Ggvste	predlagati-g	
 vzpostavitev	Sozet	vzpostavitev-s	
@@ -19139,13 +19139,13 @@ zalog	Sozmr	zaloga-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2213:12&collection=eptic3">
+<s id="2213:12">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 enostavno	Ppnsei	enostaven-p	enostavno
 .	SENT	.-s	
 </s>
-<s id="2213:13&collection=eptic3">
+<s id="2213:13">
 Imamo	Ggnspm-n	imeti-g	
 že	L	že-l	
 izkušnje	Sozmt	izkušnja-s	
@@ -19155,7 +19155,7 @@ za	Dt	za-d
 blago	Soset	blago-s	
 .	SENT	.-s	
 </s>
-<s id="2213:14&collection=eptic3">
+<s id="2213:14">
 Ti	Zk-mmi	ta-z	
 so	Gp-stm-n	biti-g	
 se	Zp------k	se-z	
@@ -19174,7 +19174,7 @@ temeljiteje	Rsr	temeljito-r
 razpravljati	Ggnn	razpravljati-g	
 .	SENT	.-s	
 </s>
-<s id="2213:15&collection=eptic3">
+<s id="2213:15">
 Analizirati	Ggvn	analizirati-g	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -19238,7 +19238,7 @@ cen	Sozmr	cena-s
 hran	Sozmr	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2213:16&collection=eptic3">
+<s id="2213:16">
 Vsa	Zc-smi	ves-z	
 ta	Zk-smi	ta-z	
 prizadevanja	Sosmi	prizadevanje-s	
@@ -19273,7 +19273,7 @@ prihodnjih	Ppnmmm	prihodnji-p	prihodnji
 tednih	Sommm	teden-s	
 .	SENT	.-s	
 </s>
-<s id="2213:17&collection=eptic3">
+<s id="2213:17">
 Poročilo	Sosei	poročilo-s	
 zahteva	Ggvste	zahtevati-g	
 –	U	–-u	
@@ -19343,7 +19343,7 @@ proizvajati	Ggnn	proizvajati-g
 več	Rsr	več-r	
 .	SENT	.-s	
 </s>
-<s id="2213:18&collection=eptic3">
+<s id="2213:18">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 s	Do	z-d	
@@ -19353,7 +19353,7 @@ celoti	Sozem	celota-s
 strinja	Ggnste	strinjati-g	
 .	SENT	.-s	
 </s>
-<s id="2213:19&collection=eptic3">
+<s id="2213:19">
 Noben	Zl-mei	noben-z	
 instrument	Somei	instrument-s	
 ni	Gp-ste-d	biti-g	
@@ -19404,7 +19404,7 @@ ljudi	Sommt	človek-s
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2214:1&collection=eptic3">
+<s id="2214:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -19435,7 +19435,7 @@ rotacijskem	Ppnmem	rotacijski-p	rotacijski
 sistemu	Somem	sistem-s	
 .	SENT	.-s	
 </s>
-<s id="2214:2&collection=eptic3">
+<s id="2214:2">
 Spoštovani	Pdnmeid	spoštovan-p	spoštovani
 poslanci	Sommi	poslanec-s	
 ,	U	,-u	
@@ -19465,7 +19465,7 @@ do	Dr	do-d
 Parlamenta	Somer	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2214:3&collection=eptic3">
+<s id="2214:3">
 Veselim	Ggnspe	veseliti-g	
 se	Zp------k	se-z	
 dela	Ggnste	delati-g	
@@ -19484,7 +19484,7 @@ velikih	Ppnsmm	velik-p	veliko
 pričakovanjih	Sosmm	pričakovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2214:4&collection=eptic3">
+<s id="2214:4">
 Nadaljevala	Ggnd-ez	nadaljevati-g	
 bom	Gp-ppe-n	biti-g	
 v	Dm	v-d	
@@ -19500,7 +19500,7 @@ jeziku	Somem	jezik-s
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2215:1&collection=eptic3">
+<s id="2215:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -19530,7 +19530,7 @@ Republiko	Sozeo	republika-s
 Srbijo	Slzeo	Srbija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:2&collection=eptic3">
+<s id="2215:2">
 Poročevalcu	Somed	Poročevalcu-s	
 za	Dt	za-d	
 Srbijo	Slzet	Srbija-s	
@@ -19549,7 +19549,7 @@ procesu	Somem	proces-s
 Srbije	Slzer	Srbija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:3&collection=eptic3">
+<s id="2215:3">
 Stabilizacijsko-pridružitveni	Ppnmeid	Stabilizacijsko-pridružitveni-p	stabilizacijsko-pridružitveni
 sporazum	Somei	sporazum-s	
 je	Gp-ste-n	biti-g	
@@ -19566,7 +19566,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:4&collection=eptic3">
+<s id="2215:4">
 Temeljni	Ppnmeid	temeljen-p	temeljni
 cilj	Somei	cilj-s	
 tega	Zk-mer	ta-z	
@@ -19589,7 +19589,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:5&collection=eptic3">
+<s id="2215:5">
 Ta	Zk-smt	ta-z	
 pomemben	Ppnmetn	pomemben-p	pomemben
 mejnik	Sometn	mejnik-s	
@@ -19609,7 +19609,7 @@ v	Dm	v-d
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:6&collection=eptic3">
+<s id="2215:6">
 Stabilizacijsko-pridružitveni	Ppnmeid	Stabilizacijsko-pridružitveni-p	stabilizacijsko-pridružitveni
 sporazum	Somei	sporazum-s	
 vzpostavlja	Ggnste	vzpostavljati-g	
@@ -19644,7 +19644,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:7&collection=eptic3">
+<s id="2215:7">
 Seveda	L	seveda-l	
 vzpostavlja	Ggnste	vzpostavljati-g	
 tudi	L	tudi-l	
@@ -19661,7 +19661,7 @@ parlamentarni	Ppnmeid	parlamentaren-p	parlamentarni
 odbor	Somei	odbor-s	
 .	SENT	.-s	
 </s>
-<s id="2215:8&collection=eptic3">
+<s id="2215:8">
 Stabilizacijsko-asociacijski	Ppnmeid	Stabilizacijsko-asociacijski-p	stabilizacijsko-asociacijski
 sporazum	Somei	sporazum-s	
 z	Dr	z-d	
@@ -19692,7 +19692,7 @@ in	Vp	in-v
 Srbiji	Slzed	Srbija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:9&collection=eptic3">
+<s id="2215:9">
 Kot	Vd	kot-v	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -19716,7 +19716,7 @@ neposredne	Ppnzer	neposreden-p	neposredna
 naložbe	Sozer	naložba-s	
 .	SENT	.-s	
 </s>
-<s id="2215:10&collection=eptic3">
+<s id="2215:10">
 Ključno	Ppnsei	ključen-p	ključno
 bo	Gp-pte-n	biti-g	
 prispeval	Ggvd-em	prispevati-g	
@@ -19735,7 +19735,7 @@ tržno	Ppnset	tržen-p	tržno
 gospodarstvo	Soset	gospodarstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2215:11&collection=eptic3">
+<s id="2215:11">
 Tudi	L	tudi-l	
 Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
@@ -19746,7 +19746,7 @@ pomembne	Ppnzmt	pomemben-p	pomembna
 prednosti	Sozmt	prednost-s	
 .	SENT	.-s	
 </s>
-<s id="2215:12&collection=eptic3">
+<s id="2215:12">
 Srbski	Ppnmeid	srbski-p	srbski
 trg	Somei	trg-s	
 je	Gp-ste-n	biti-g	
@@ -19759,7 +19759,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:13&collection=eptic3">
+<s id="2215:13">
 Prej	Rsr	prej-r	
 relativno	Rsn	relativno-r	
 visoke	Ppnzmi	visok-p	visoka
@@ -19778,7 +19778,7 @@ kmetijskih	Ppnmmr	kmetijski-p	kmetijski
 izdelkov	Sommr	izdelek-s	
 .	SENT	.-s	
 </s>
-<s id="2215:14&collection=eptic3">
+<s id="2215:14">
 S	Do	z-d	
 postopnim	Ppnseo	postopen-p	postopno
 vključevanjem	Soseo	vključevanje-s	
@@ -19798,7 +19798,7 @@ bolj	Rsr	bolj-r
 predvidljivi	Ppnmmi	predvidljiv-p	predvidljiv
 .	SENT	.-s	
 </s>
-<s id="2215:15&collection=eptic3">
+<s id="2215:15">
 Pravila	Sosmi	pravilo-s	
 o	Dm	o-d	
 konkurenci	Sozem	konkurenca-s	
@@ -19813,7 +19813,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:16&collection=eptic3">
+<s id="2215:16">
 Tudi	L	tudi-l	
 varstvo	Soset	varstvo-s	
 pravic	Sozmr	pravica-s	
@@ -19829,7 +19829,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:17&collection=eptic3">
+<s id="2215:17">
 Evropskim	Ppnmmd	evropski-p	evropski
 ponudnikom	Sommd	ponudnik-s	
 se	Zp------k	se-z	
@@ -19843,7 +19843,7 @@ javnih	Ppnsmr	javen-p	javno
 naročil	Sosmr	naročilo-s	
 .	SENT	.-s	
 </s>
-<s id="2215:18&collection=eptic3">
+<s id="2215:18">
 Vzpostavljanje	Sosei	vzpostavljanje-s	
 tesnejših	Pppzmr	tesen-p	tesnejša
 vezi	Sozmr	vez-s	
@@ -19880,7 +19880,7 @@ le	L	le-l
 nekatere	Zn-zmt	nekateri-z	
 .	SENT	.-s	
 </s>
-<s id="2215:19&collection=eptic3">
+<s id="2215:19">
 To	Zk-sei	ta-z	
 politiki	Sozed	politika-s	
 Evropske	Ppnzer	evropski-p	evropska
@@ -19895,7 +19895,7 @@ in	Vp	in-v
 učinkovitost	Sozet	učinkovitost-s	
 .	SENT	.-s	
 </s>
-<s id="2215:20&collection=eptic3">
+<s id="2215:20">
 Omembe	Sozer	omemba-s	
 vredno	Ppnsei	vreden-p	vredno
 je	Gp-ste-n	biti-g	
@@ -19909,7 +19909,7 @@ začasni	Ppnmetd	začasen-p	začasni
 sporazum	Sometn	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2215:21&collection=eptic3">
+<s id="2215:21">
 Uradno	Rsn	uradno-r	
 je	Gp-ste-n	biti-g	
 začel	Ggdd-em	začeti-g	
@@ -19936,7 +19936,7 @@ aprila	Somer	april-s
 2008	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2215:22&collection=eptic3">
+<s id="2215:22">
 Srbija	Slzei	Srbija-s	
 je	Gp-ste-n	biti-g	
 s	Do	z-d	
@@ -19957,7 +19957,7 @@ zgodovino	Sozet	zgodovina-s
 sodelovanja	Soser	sodelovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2215:23&collection=eptic3">
+<s id="2215:23">
 Od	Dr	od-d	
 14.	Kav	[number]-k	
 junija	Somer	junij-s	
@@ -19992,7 +19992,7 @@ v	Dm	v-d
 parlamentu	Somem	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2215:24&collection=eptic3">
+<s id="2215:24">
 Današnje	Ppnsei	današnji-p	današnje
 glasovanje	Sosei	glasovanje-s	
 Evropskega	Ppnmer	evropski-p	evropski
@@ -20012,7 +20012,7 @@ političnih	Ppnzmr	političen-p	politična
 skupin	Sozmr	skupina-s	
 .	SENT	.-s	
 </s>
-<s id="2215:25&collection=eptic3">
+<s id="2215:25">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -20026,7 +20026,7 @@ ratificirale	Ggvd-mz	ratificirati-g
 sporazum	Sometn	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2215:26&collection=eptic3">
+<s id="2215:26">
 Naj	Vd	naj-v	
 se	Zp------k	se-z	
 na	Dm	na-d	
@@ -20051,7 +20051,7 @@ politični	Ppnzed	političen-p	politična
 razpravi	Sozed	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2215:27&collection=eptic3">
+<s id="2215:27">
 Zato	Rsn	zato-r	
 sem	Gp-spe-n	biti-g	
 hvaležen	Ppnmein	hvaležen-p	hvaležen
@@ -20060,7 +20060,7 @@ Jelku	Slmed	Jelko-s
 Kacinu	Slmed	Kacin-s	
 .	SENT	.-s	
 </s>
-<s id="2215:28&collection=eptic3">
+<s id="2215:28">
 Resolucija	Sozei	resolucija-s	
 Srbiji	Slzed	Srbija-s	
 pošilja	Ggnste	pošiljati-g	
@@ -20089,7 +20089,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:29&collection=eptic3">
+<s id="2215:29">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 še	L	še-l	
@@ -20109,7 +20109,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:30&collection=eptic3">
+<s id="2215:30">
 Novembra	Somer	november-s	
 lani	Rsn	lani-r	
 sem	Gp-spe-n	biti-g	
@@ -20132,7 +20132,7 @@ evropsko	Ppnset	evropski-p	evropsko
 povezovanje	Soset	povezovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2215:31&collection=eptic3">
+<s id="2215:31">
 Srbske	Ppnzmi	srbski-p	srbska
 oblasti	Sozmi	oblast-s	
 zdaj	Rsn	zdaj-r	
@@ -20147,7 +20147,7 @@ konca	Somer	konec-s
 meseca	Somer	mesec-s	
 .	SENT	.-s	
 </s>
-<s id="2215:32&collection=eptic3">
+<s id="2215:32">
 Srbska	Ppnzei	srbski-p	srbska
 vlada	Sozei	vlada-s	
 je	Gp-ste-n	biti-g	
@@ -20170,7 +20170,7 @@ je	Gp-ste-n	biti-g
 spodbudno	Ppnsei	spodbuden-p	spodbudno
 .	SENT	.-s	
 </s>
-<s id="2215:33&collection=eptic3">
+<s id="2215:33">
 Komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
 temeljito	Rsn	temeljito-r	
@@ -20206,7 +20206,7 @@ leta	Soser	leto-s
 2011	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2215:34&collection=eptic3">
+<s id="2215:34">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 povedala	Ggdd-ez	povedati-g	
@@ -20229,7 +20229,7 @@ leto	Soset	leto-s
 priložnosti	Sozer	priložnost-s	
 .	SENT	.-s	
 </s>
-<s id="2215:35&collection=eptic3">
+<s id="2215:35">
 Pot	Sozei	pot-s	
 je	Gp-ste-n	biti-g	
 bila	Gp-d-ez	biti-g	
@@ -20269,7 +20269,7 @@ Evropsko	Ppnzeo	evropski-p	evropska
 unijo	Sozeo	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2215:36&collection=eptic3">
+<s id="2215:36">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -20295,7 +20295,7 @@ za	Dt	za-d
 povezovanje	Soset	povezovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2215:37&collection=eptic3">
+<s id="2215:37">
 To	Zk-sei	ta-z	
 bo	Gp-pte-n	biti-g	
 pozitivno	Ppnsei	pozitiven-p	pozitivno
@@ -20336,7 +20336,7 @@ Balkanu	Slmem	Balkan-s
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2216:1&collection=eptic3">
+<s id="2216:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -20350,14 +20350,14 @@ Srbiji	Slzem	Srbija-s
 odlično	Rsn	odlično-r	
 .	SENT	.-s	
 </s>
-<s id="2216:2&collection=eptic3">
+<s id="2216:2">
 Čestitam	Slzmd	Čestitam-s	
 poročevalcu	Somed	poročevalec-s	
 Jelku	Slmed	Jelko-s	
 Kacinu	Slmed	Kacin-s	
 .	SENT	.-s	
 </s>
-<s id="2216:3&collection=eptic3">
+<s id="2216:3">
 Zdi	Ggnste	zdeti-g	
 se	Zp------k	se-z	
 mi	Zop-ed--k	jaz-z	
@@ -20376,7 +20376,7 @@ evropske	Ppnzer	evropski-p	evropska
 prihodnosti	Sozer	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2216:4&collection=eptic3">
+<s id="2216:4">
 Večina	Sozei	večina-s	
 politične	Ppnzer	političen-p	politična
 elite	Sozer	elita-s	
@@ -20390,7 +20390,7 @@ najboljša	Ppszei	dober-p	najboljša
 možnost	Sozei	možnost-s	
 .	SENT	.-s	
 </s>
-<s id="2216:5&collection=eptic3">
+<s id="2216:5">
 Na	Dt	na-d	
 to	Zk-zet	ta-z	
 odločenost	Sozet	odločenost-s	
@@ -20405,7 +20405,7 @@ dveh	Kbgsdm	dva-k
 desetletjih	Sosdm	desetletje-s	
 .	SENT	.-s	
 </s>
-<s id="2216:6&collection=eptic3">
+<s id="2216:6">
 Srbija	Slzei	Srbija-s	
 je	Gp-ste-n	biti-g	
 doživela	Ggdd-ez	doživeti-g	
@@ -20445,7 +20445,7 @@ travmatična	Ppnzei	travmatičen-p	travmatična
 zgodovina	Sozei	zgodovina-s	
 .	SENT	.-s	
 </s>
-<s id="2216:7&collection=eptic3">
+<s id="2216:7">
 Odločitev	Sozei	odločitev-s	
 za	Dt	za-d	
 Evropo	Slzet	Evropa-s	
@@ -20484,7 +20484,7 @@ neodvisnosti	Sozer	neodvisnost-s
 Kosova	Slser	Kosovo-s	
 .	SENT	.-s	
 </s>
-<s id="2216:8&collection=eptic3">
+<s id="2216:8">
 Obe	Zc-zdi	oba-z	
 težavi	Sozdi	težava-s	
 kažeta	Ggnstd	kazati-g	
@@ -20493,7 +20493,7 @@ psihološke	Ppnzmt	psihološki-p	psihološka
 ovire	Sozmt	ovira-s	
 .	SENT	.-s	
 </s>
-<s id="2216:9&collection=eptic3">
+<s id="2216:9">
 Mladić	Slmei	Mladić-s	
 ima	Ggnste-n	imeti-g	
 svoje	Zp-mmt	svoj-z	
@@ -20511,7 +20511,7 @@ srbske	Ppnzer	srbski-p	srbska
 družbe	Sozer	družba-s	
 ;	U	;-u	
 </s>
-<s id="2216:10&collection=eptic3">
+<s id="2216:10">
 vsaka	Zc-zei	vsak-z	
 izguba	Sozei	izguba-s	
 ozemlja	Soser	ozemlje-s	
@@ -20519,7 +20519,7 @@ je	Gp-ste-n	biti-g
 boleča	Pdnzei	boleč-p	boleča
 .	SENT	.-s	
 </s>
-<s id="2216:11&collection=eptic3">
+<s id="2216:11">
 K	Dd	k-d	
 tema	Zk-zdo	ta-z	
 težavama	Sozdd	težava-s	
@@ -20561,7 +20561,7 @@ do	Dr	do-d
 arhivov	Sommr	arhiv-s	
 .	SENT	.-s	
 </s>
-<s id="2216:12&collection=eptic3">
+<s id="2216:12">
 Napovedi	Sozmi	napoved-s	
 za	Dt	za-d	
 približevanje	Soset	približevanje-s	
@@ -20572,7 +20572,7 @@ precej	Rsn	precej-r
 dobre	Ppnzmi	dober-p	dobra
 .	SENT	.-s	
 </s>
-<s id="2216:13&collection=eptic3">
+<s id="2216:13">
 K	Dd	k-d	
 temu	Zk-sed	ta-z	
 se	Zp------k	se-z	
@@ -20581,7 +20581,7 @@ jasno	Rsn	jasno-r
 zavezala	Ggdd-ez	zavezati-g	
 .	SENT	.-s	
 </s>
-<s id="2216:14&collection=eptic3">
+<s id="2216:14">
 Naloge	Sozmi	naloga-s	
 ,	U	,-u	
 s	Do	z-d	
@@ -20602,7 +20602,7 @@ dobro	Rsn	dobro-r
 potekajo	Ggnstm	potekati-g	
 .	SENT	.-s	
 </s>
-<s id="2216:15&collection=eptic3">
+<s id="2216:15">
 Če	Vd	če-v	
 bo	Gp-pte-n	biti-g	
 vse	Zc-sei	ves-z	
@@ -20622,7 +20622,7 @@ status	Sometn	status-s
 kandidatke	Sozer	kandidatka-s	
 .	SENT	.-s	
 </s>
-<s id="2216:16&collection=eptic3">
+<s id="2216:16">
 Pot	Sozei	pot-s	
 v	Dt	v-d	
 Evropo	Slzet	Evropa-s	
@@ -20649,7 +20649,7 @@ Evropi	Slzem	Evropa-s
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2217:1&collection=eptic3">
+<s id="2217:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -20677,7 +20677,7 @@ gospoda	Somer	gospod-s
 Kacina	Slmer	Kacin-s	
 .	SENT	.-s	
 </s>
-<s id="2217:2&collection=eptic3">
+<s id="2217:2">
 Ko	Vd	ko-v	
 sem	Gp-spe-n	biti-g	
 bil	Gp-d-em	biti-g	
@@ -20701,7 +20701,7 @@ demokratične	Ppnzer	demokratičen-p	demokratična
 vlade	Sozer	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2217:3&collection=eptic3">
+<s id="2217:3">
 Srbija	Slzei	Srbija-s	
 mora	Ggnste	morati-g	
 vsekakor	L	vsekakor-l	
@@ -20719,7 +20719,7 @@ organiziranemu	Pdnmed	organiziran-p	organiziran
 kriminalu	Somed	kriminal-s	
 .	SENT	.-s	
 </s>
-<s id="2217:4&collection=eptic3">
+<s id="2217:4">
 V	Dm	v-d	
 skupini	Sozem	skupina-s	
 ECR	Slmei	ECR-s	
@@ -20748,7 +20748,7 @@ srbskem	Ppnsem	srbski-p	srbsko
 ozemlju	Sosem	ozemlje-s	
 .	SENT	.-s	
 </s>
-<s id="2217:5&collection=eptic3">
+<s id="2217:5">
 Ključnega	Somei	Ključnega-s	
 pomena	Somer	pomen-s	
 je	Gp-ste-n	biti-g	
@@ -20798,7 +20798,7 @@ v	Dm	v-d
 EU	Slzem	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2217:6&collection=eptic3">
+<s id="2217:6">
 Odnos	Somei	odnos-s	
 Srbije	Slzer	Srbija-s	
 s	Do	z-d	
@@ -20812,7 +20812,7 @@ tudi	L	tudi-l
 nerešljiv	Ppnmein	nerešljiv-p	nerešljiv
 .	SENT	.-s	
 </s>
-<s id="2217:7&collection=eptic3">
+<s id="2217:7">
 Osebno	Rsn	osebno-r	
 verjamem	Ggvspe	verjeti-g	
 ,	U	,-u	
@@ -20846,7 +20846,7 @@ Bližnjem	Ppnmem	Bližnjem-p	bližnjem
 Vzhodu	Somem	vzhod-s	
 .	SENT	.-s	
 </s>
-<s id="2217:8&collection=eptic3">
+<s id="2217:8">
 EU	Slzei	EU-s	
 mora	Ggnste	morati-g	
 ustrezno	Rsn	ustrezno-r	
@@ -20865,7 +20865,7 @@ visoka	Ppnzei	visok-p	visoka
 predstavnica	Sozei	predstavnica-s	
 .	SENT	.-s	
 </s>
-<s id="2217:9&collection=eptic3">
+<s id="2217:9">
 Zelo	Rsn	zelo-r	
 kratkovidno	Ppnsei	kratkoviden-p	kratkovidno
 bi	Gp-g	biti-g	
@@ -20908,7 +20908,7 @@ ZN	Slmmr	ZN-s
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2218:1&collection=eptic3">
+<s id="2218:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -20929,7 +20929,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2218:2&collection=eptic3">
+<s id="2218:2">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 podal	Ggvd-em	podati-g	
@@ -20937,7 +20937,7 @@ dve	Kbgzdt	dva-k
 pripombi	Sozdt	pripomba-s	
 .	SENT	.-s	
 </s>
-<s id="2218:3&collection=eptic3">
+<s id="2218:3">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 bi	Gp-g	biti-g	
@@ -20963,7 +20963,7 @@ proces	Sometn	proces-s
 vključevanja	Soser	vključevanje-s	
 .	SENT	.-s	
 </s>
-<s id="2218:4&collection=eptic3">
+<s id="2218:4">
 Evropa	Slzei	Evropa-s	
 ima	Ggnste-n	imeti-g	
 nerešeno	Ppnzet	nerešen-p	nerešena
@@ -20989,7 +20989,7 @@ balkanskem	Ppnsem	balkanski-p	balkansko
 območju	Sosem	območje-s	
 .	SENT	.-s	
 </s>
-<s id="2218:5&collection=eptic3">
+<s id="2218:5">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -21012,7 +21012,7 @@ tem	Zk-seo	ta-z
 območjem	Soseo	območje-s	
 .	SENT	.-s	
 </s>
-<s id="2218:6&collection=eptic3">
+<s id="2218:6">
 Nobene	Zl-zer	noben-z	
 te	Zk-zmt	ta-z	
 težave	Sozmt	težava-s	
@@ -21024,7 +21024,7 @@ sodelovanja	Soser	sodelovanje-s
 Srbije	Slzer	Srbija-s	
 .	SENT	.-s	
 </s>
-<s id="2218:7&collection=eptic3">
+<s id="2218:7">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 Srbije	Slzer	Srbija-s	
@@ -21043,7 +21043,7 @@ priložnosti	Sozem	priložnost-s
 pridigati	Ggnn	pridigati-g	
 .	SENT	.-s	
 </s>
-<s id="2218:8&collection=eptic3">
+<s id="2218:8">
 Srbija	Slzei	Srbija-s	
 je	Gp-ste-n	biti-g	
 zakrivila	Ggdd-ez	zakriviti-g	
@@ -21062,7 +21062,7 @@ evroatlantska	Ppnzei	evroatlantski-p	evroatlantska
 povezava	Sozei	povezava-s	
 .	SENT	.-s	
 </s>
-<s id="2218:9&collection=eptic3">
+<s id="2218:9">
 Leto	Sosei	leto-s	
 2011	Kag	[number]-k	
 je	Gp-ste-n	biti-g	
@@ -21077,7 +21077,7 @@ zahtevnih	Ppnzmr	zahteven-p	zahtevna
 priložnosti	Sozmr	priložnost-s	
 .	SENT	.-s	
 </s>
-<s id="2218:10&collection=eptic3">
+<s id="2218:10">
 Teh	Zk-mmr	ta-z	
 priložnosti	Sozmi	priložnost-s	
 ne	L	ne-l	
@@ -21103,7 +21103,7 @@ sebi	Zp---m	se-z
 enake	Zn-zmi	enak-z	
 .	SENT	.-s	
 </s>
-<s id="2218:11&collection=eptic3">
+<s id="2218:11">
 Le	L	le-l	
 dostojanstvena	Ppnzei	dostojanstven-p	dostojanstvena
 Srbija	Slzei	Srbija-s	
@@ -21124,7 +21124,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2218:12&collection=eptic3">
+<s id="2218:12">
 Poročilo	Sosei	poročilo-s	
 gospoda	Sometd	gospod-s	
 Kacina	Slmetd	Kacin-s	
@@ -21142,7 +21142,7 @@ prispeva	Ggvste	prispevati-g
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2219:1&collection=eptic3">
+<s id="2219:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -21193,7 +21193,7 @@ Zahodnega	Ppnmer	zahoden-p	zahodni
 Balkana	Slmer	Balkan-s	
 .	SENT	.-s	
 </s>
-<s id="2219:2&collection=eptic3">
+<s id="2219:2">
 Že	L	že-l	
 desetletje	Soset	desetletje-s	
 podpiram	Ggnspe	podpirati-g	
@@ -21217,7 +21217,7 @@ za	Dt	za-d
 Balkan	Slmetn	Balkan-s	
 .	SENT	.-s	
 </s>
-<s id="2219:3&collection=eptic3">
+<s id="2219:3">
 Tesno	Rsn	tesno-r	
 sem	Gp-spe-n	biti-g	
 sodelovala	Ggnd-ez	sodelovati-g	
@@ -21245,7 +21245,7 @@ zagotovljeno	Pdnzeo	zagotovljen-p	zagotovljena
 Srbiji	Slzem	Srbija-s	
 .	SENT	.-s	
 </s>
-<s id="2219:4&collection=eptic3">
+<s id="2219:4">
 Menim	Ggnspe	meniti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -21269,7 +21269,7 @@ njenega	Zstserez	njen-z
 smisla	Somer	smisel-s	
 .	SENT	.-s	
 </s>
-<s id="2219:5&collection=eptic3">
+<s id="2219:5">
 Nekateri	Zn-mmi	nekateri-z	
 izzivi	Sommi	izziv-s	
 ,	U	,-u	
@@ -21285,7 +21285,7 @@ bili	Gp-d-mm	biti-g
 omenjeni	Pdnmmi	omenjen-p	omenjeni
 .	SENT	.-s	
 </s>
-<s id="2219:6&collection=eptic3">
+<s id="2219:6">
 Nekaj	Rsn	nekaj-r	
 želim	Ggnspe	želeti-g	
 dodati	Ggdn	dodati-g	
@@ -21296,7 +21296,7 @@ reformi	Sozem	reforma-s
 pravosodja	Soser	pravosodje-s	
 .	SENT	.-s	
 </s>
-<s id="2219:7&collection=eptic3">
+<s id="2219:7">
 V	Dm	v-d	
 poročilu	Sosem	poročilo-s	
 Komisije	Sozer	komisija-s	
@@ -21328,7 +21328,7 @@ političnega	Ppnmer	političen-p	politični
 vpliva	Somer	vpliv-s	
 .	SENT	.-s	
 </s>
-<s id="2219:8&collection=eptic3">
+<s id="2219:8">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 ključno	Ppnsei	ključen-p	ključno
@@ -21338,7 +21338,7 @@ pravno	Ppnzet	praven-p	pravna
 državo	Sozet	država-s	
 .	SENT	.-s	
 </s>
-<s id="2219:9&collection=eptic3">
+<s id="2219:9">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -21423,14 +21423,14 @@ na	Dm	na-d
 terenu	Somem	teren-s	
 .	SENT	.-s	
 </s>
-<s id="2219:10&collection=eptic3">
+<s id="2219:10">
 Ne	L	ne-l	
 vidimo	Ggvspm	videti-g	
 nobenih	Zl-mmr	noben-z	
 rezultatov	Sommr	rezultat-s	
 .	SENT	.-s	
 </s>
-<s id="2219:11&collection=eptic3">
+<s id="2219:11">
 Srbija	Slzei	Srbija-s	
 mora	Ggnste	morati-g	
 sprejeti	Ggdn	sprejeti-g	
@@ -21468,7 +21468,7 @@ odpraviti	Ggdn	odpraviti-g
 <speaker name="Kukan Eduard" gender="M" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="221" duration="short" durations="100.0" speed="medium" speedwm="132.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2220:1&collection=eptic3">
+<s id="2220:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -21490,7 +21490,7 @@ procesu	Somem	proces-s
 vključevanja	Soser	vključevanje-s	
 .	SENT	.-s	
 </s>
-<s id="2220:2&collection=eptic3">
+<s id="2220:2">
 Naslednja	Ppnzei	naslednji-p	naslednja
 pomembna	Ppnzei	pomemben-p	pomembna
 koraka	Ggnste	korakati-g	
@@ -21505,7 +21505,7 @@ Stabilizacijsko-pridružitvenega	Pdnmer	Stabilizacijsko-pridružitvenega-p	stabi
 sporazuma	Somer	sporazum-s	
 .	U	.-u	
 </s>
-<s id="2220:3&collection=eptic3">
+<s id="2220:3">
 Srbski	Ppnzem	srbski-p	srbska
 vladi	Sozem	vlada-s	
 bi	Gp-g	biti-g	
@@ -21524,7 +21524,7 @@ tega	Zk-mer	ta-z
 napredka	Somer	napredek-s	
 .	SENT	.-s	
 </s>
-<s id="2220:4&collection=eptic3">
+<s id="2220:4">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -21563,7 +21563,7 @@ trinajst	Kbg-mi	trinajst-k
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2220:5&collection=eptic3">
+<s id="2220:5">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -21586,7 +21586,7 @@ kmalu	Rsn	kmalu-r
 zaključile	Ggdd-mz	zaključiti-g	
 .	SENT	.-s	
 </s>
-<s id="2220:6&collection=eptic3">
+<s id="2220:6">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 Srbijo	Slzeo	Srbija-s	
@@ -21599,7 +21599,7 @@ nekateri	Zn-mmi	nekateri-z
 izzivi	Sommi	izziv-s	
 .	SENT	.-s	
 </s>
-<s id="2220:7&collection=eptic3">
+<s id="2220:7">
 Srbija	Slzei	Srbija-s	
 se	Zp------k	se-z	
 mora	Ggnste	morati-g	
@@ -21624,7 +21624,7 @@ vojne	Ppnmmt	vojen-p	vojni
 zločince	Sommt	zločinec-s	
 .	SENT	.-s	
 </s>
-<s id="2220:8&collection=eptic3">
+<s id="2220:8">
 Prav	L	prav-l	
 tako	Rsn	tako-r	
 mora	Ggnste	morati-g	
@@ -21647,7 +21647,7 @@ javni	Ppnzem	javen-p	javna
 upravi	Sozem	uprava-s	
 .	SENT	.-s	
 </s>
-<s id="2220:9&collection=eptic3">
+<s id="2220:9">
 Srbski	Ppnmeid	srbski-p	srbski
 parlament	Somei	parlament-s	
 mora	Ggnste	morati-g	
@@ -21662,7 +21662,7 @@ parlamentarnih	Ppnmmr	parlamentaren-p	parlamentarni
 sedežev	Sommr	sedež-s	
 .	SENT	.-s	
 </s>
-<s id="2220:10&collection=eptic3">
+<s id="2220:10">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -21688,7 +21688,7 @@ za	Dt	za-d
 prihodnost	Sozet	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2220:11&collection=eptic3">
+<s id="2220:11">
 Evropski	Ppnmeid	evropski-p	evropski
 parlament	Somei	parlament-s	
 je	Gp-ste-n	biti-g	
@@ -21700,7 +21700,7 @@ Zahodnega	Ppnmer	zahoden-p	zahodni
 Balkana	Slmer	Balkan-s	
 .	SENT	.-s	
 </s>
-<s id="2220:12&collection=eptic3">
+<s id="2220:12">
 Srbija	Slzei	Srbija-s	
 je	Gp-ste-n	biti-g	
 ključni	Ppnmeid	ključen-p	ključni
@@ -21717,7 +21717,7 @@ zaveze	Sozer	zaveza-s
 <speaker name="Bostinaru Victor" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="157" duration="short" durations="66.0" speed="medium" speedwm="142.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2221:1&collection=eptic3">
+<s id="2221:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -21737,7 +21737,7 @@ v	Dm	v-d
 EU	Slzem	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2221:2&collection=eptic3">
+<s id="2221:2">
 Govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
 državi	Sozem	država-s	
@@ -21777,7 +21777,7 @@ v	Dm	v-d
 EU	Slzem	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2221:3&collection=eptic3">
+<s id="2221:3">
 Glede	Rsn	glede-r	
 na	Dt	na-d	
 pomembno	Ppnzet	pomemben-p	pomembna
@@ -21832,7 +21832,7 @@ Zahodnem	Ppnmem	zahoden-p	zahodni
 Balkanu	Slmem	Balkan-s	
 .	SENT	.-s	
 </s>
-<s id="2221:4&collection=eptic3">
+<s id="2221:4">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -21857,7 +21857,7 @@ Stabilizacijsko-pridružitvenega	Pdnmer	Stabilizacijsko-pridružitvenega-p	stabi
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2221:5&collection=eptic3">
+<s id="2221:5">
 Zato	Rsn	zato-r	
 pozivam	Ggnspe	pozivati-g	
 države	Sozmt	država-s	
@@ -21884,7 +21884,7 @@ ratifikacije	Sozer	ratifikacija-s
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="260" duration="medium" durations="168.0" speed="slow" speedwm="92.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2222:1&collection=eptic3">
+<s id="2222:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -21913,7 +21913,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2222:2&collection=eptic3">
+<s id="2222:2">
 Podpora	Sozei	podpora-s	
 ratifikacije	Sozer	ratifikacija-s	
 Stabilizacijsko-pridružitvenega	Pdnmer	Stabilizacijsko-pridružitvenega-p	stabilizacijsko-pridružitvenega
@@ -21942,7 +21942,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2222:3&collection=eptic3">
+<s id="2222:3">
 Naj	Vd	naj-v	
 se	Zp------k	se-z	
 na	Dt	na-d	
@@ -21959,7 +21959,7 @@ med	Do	med-d
 razpravo	Sozeo	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2222:4&collection=eptic3">
+<s id="2222:4">
 Najprej	Rss	najprej-r	
 vprašanje	Sosei	vprašanje-s	
 gospoda	Somer	gospod-s	
@@ -21981,7 +21981,7 @@ radikalnem	Ppnmem	radikalen-p	radikalen
 islamizmu	Somem	islamizem-s	
 .	SENT	.-s	
 </s>
-<s id="2222:5&collection=eptic3">
+<s id="2222:5">
 V	Dm	v-d	
 sklopu	Somem	sklop-s	
 tega	Zk-ser	ta-z	
@@ -22018,7 +22018,7 @@ možnost	Sozet	možnost-s
 radikalizacije	Sozer	radikalizacija-s	
 .	SENT	.-s	
 </s>
-<s id="2222:6&collection=eptic3">
+<s id="2222:6">
 Glede	Dr	glede-d	
 vprašanja	Soser	vprašanje-s	
 o	Dm	o-d	
@@ -22059,7 +22059,7 @@ bo	Gp-pte-n	biti-g
 učinkovitejši	Pppmmi	učinkovit-p	učinkovitejši
 .	SENT	.-s	
 </s>
-<s id="2222:7&collection=eptic3">
+<s id="2222:7">
 V	Dm	v-d	
 zvezi	Sozem	zveza-s	
 s	Do	z-d	
@@ -22071,7 +22071,7 @@ stalna	Ppnzei	stalen-p	stalna
 presoja	Sozei	presoja-s	
 .	SENT	.-s	
 </s>
-<s id="2222:8&collection=eptic3">
+<s id="2222:8">
 Glede	Dr	glede-d	
 vprašanja	Soser	vprašanje-s	
 gospe	Sozer	gospa-s	
@@ -22091,7 +22091,7 @@ pravic	Sozmr	pravica-s
 manjšin	Sozmr	manjšina-s	
 .	SENT	.-s	
 </s>
-<s id="2222:9&collection=eptic3">
+<s id="2222:9">
 Odpisal	Ggdd-em	odpisati-g	
 ji	Zotzed--k	on-z	
 bom	Gp-ppe-n	biti-g	
@@ -22109,7 +22109,7 @@ v	Dm	v-d
 govoru	Somem	govor-s	
 .	SENT	.-s	
 </s>
-<s id="2222:10&collection=eptic3">
+<s id="2222:10">
 Osebno	Rsn	osebno-r	
 sem	Gp-spe-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -22126,7 +22126,7 @@ fazi	Sozed	faza-s
 procesa	Somer	proces-s	
 .	SENT	.-s	
 </s>
-<s id="2222:11&collection=eptic3">
+<s id="2222:11">
 Včeraj	Rsn	včeraj-r	
 smo	Gp-spm-n	biti-g	
 govorili	Ggnd-mm	govoriti-g	
@@ -22159,7 +22159,7 @@ reforma	Sozei	reforma-s
 pravosodja	Soser	pravosodje-s	
 .	SENT	.-s	
 </s>
-<s id="2222:12&collection=eptic3">
+<s id="2222:12">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 dobra	Ppnzei	dober-p	dobra
@@ -22188,7 +22188,7 @@ leto	Soset	leto-s
 <speaker name="Morvai Krisztina" gender="F" country="Hungary" politfunc="MEP" politgroup="NI">
 <st language="en" length="long" lengthw="66" duration="short" durations="30.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2223:1&collection=eptic3">
+<s id="2223:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -22212,14 +22212,14 @@ funkcijo	Sozet	funkcija-s
 prevzelo	Ggdd-es	prevzeti-g	
 .	SENT	.-s	
 </s>
-<s id="2223:2&collection=eptic3">
+<s id="2223:2">
 Stvari	Sozmi	stvar-s	
 sploh	L	sploh-l	
 ne	L	ne-l	
 pozna	Ggnste	poznati-g	
 .	SENT	.-s	
 </s>
-<s id="2223:3&collection=eptic3">
+<s id="2223:3">
 Zakaj	Rsn	zakaj-r	
 raje	Rsr	raje-r	
 ne	L	ne-l	
@@ -22254,7 +22254,7 @@ sto	Kbg-mt	sto-k
 ljudi	Sommr	človek-s	
 ?	SENT	?-s	
 </s>
-<s id="2223:4&collection=eptic3">
+<s id="2223:4">
 Njim	Zotmeo	on-z	
 bi	Gp-g	biti-g	
 moral	Ggnd-em	morati-g	
@@ -22273,7 +22273,7 @@ presojati	Ggnn	presojati-g
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="136" duration="short" durations="54.0" speed="medium" speedwm="151.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2224:1&collection=eptic3">
+<s id="2224:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -22295,7 +22295,7 @@ potem	Rsn	potem-r
 izvajajo	Ggnstm	izvajati-g	
 .	SENT	.-s	
 </s>
-<s id="2224:2&collection=eptic3">
+<s id="2224:2">
 Jasno	Rsn	jasno-r	
 ste	Gp-sdm-n	biti-g	
 povedali	Ggdd-mm	povedati-g	
@@ -22320,7 +22320,7 @@ prihodnje	Ppnmmt	prihodnji-p	prihodnji
 zakone	Sommt	zakon-s	
 .	SENT	.-s	
 </s>
-<s id="2224:3&collection=eptic3">
+<s id="2224:3">
 Belgijsko	Ppnsei	belgijski-p	belgijsko
 predsedstvo	Sosei	predsedstvo-s	
 je	Gp-ste-n	biti-g	
@@ -22362,7 +22362,7 @@ in	Vp	in-v
 učinkovitejša	Pppzei	učinkovit-p	učinkovitejša
 .	SENT	.-s	
 </s>
-<s id="2224:4&collection=eptic3">
+<s id="2224:4">
 Menim	Ggnspe	meniti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -22375,7 +22375,7 @@ te	Zk-zer	ta-z
 vsebine	Sozer	vsebina-s	
 .	SENT	.-s	
 </s>
-<s id="2224:5&collection=eptic3">
+<s id="2224:5">
 Predsednik	Somei	predsednik-s	
 vlade	Sozer	vlada-s	
 ,	U	,-u	
@@ -22430,7 +22430,7 @@ tabel	Sozmr	tabela-s
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="274" duration="medium" durations="120.0" speed="medium" speedwm="137.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2225:1&collection=eptic3">
+<s id="2225:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -22444,7 +22444,7 @@ malo	Rsn	malo-r
 pozornosti	Sozer	pozornost-s	
 .	SENT	.-s	
 </s>
-<s id="2225:2&collection=eptic3">
+<s id="2225:2">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 vlade	Sozer	vlada-s	
@@ -22456,7 +22456,7 @@ vaši	Zsdzemm	vaš-z
 levi	Ppnzem	lev-p	leva
 .	SENT	.-s	
 </s>
-<s id="2225:3&collection=eptic3">
+<s id="2225:3">
 Z	Do	z-d	
 vami	Zod-mo	ti-z	
 se	Zp------k	se-z	
@@ -22465,7 +22465,7 @@ odkrito	Rsn	odkrito-r
 pogovoriti	Ggdn	pogovoriti-g	
 .	SENT	.-s	
 </s>
-<s id="2225:4&collection=eptic3">
+<s id="2225:4">
 Besedilo	Sosei	besedilo-s	
 imam	Ggnspe-n	imeti-g	
 v	Dm	v-d	
@@ -22500,13 +22500,13 @@ jezik	Sometn	jezik-s
 namreč	Vp	namreč-v	
 :	U	:-u	
 </s>
-<s id="2225:5&collection=eptic3">
+<s id="2225:5">
 "	U	"-u	
 Poglejte	Ggdvdm	pogledati-g	
 begunce	Sommt	begunec-s	
 .	SENT	.-s	
 </s>
-<s id="2225:6&collection=eptic3">
+<s id="2225:6">
 Poglejte	Ggdvdm	pogledati-g	
 begunce	Sommt	begunec-s	
 ,	U	,-u	
@@ -22524,7 +22524,7 @@ Evropo	Slzet	Evropa-s
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2225:7&collection=eptic3">
+<s id="2225:7">
 To	Zk-sei	ta-z	
 ste	Gp-sdm-n	biti-g	
 naslovili	Ggdd-mm	nasloviti-g	
@@ -22533,7 +22533,7 @@ nove	Ppnzmt	nov-p	nova
 generacije	Sozmt	generacija-s	
 .	SENT	.-s	
 </s>
-<s id="2225:8&collection=eptic3">
+<s id="2225:8">
 Priznati	Ggdn	priznati-g	
 moram	Ggnspe	morati-g	
 ,	U	,-u	
@@ -22557,7 +22557,7 @@ Evropskem	Ppnmem	evropski-p	evropski
 parlamentu	Somem	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2225:9&collection=eptic3">
+<s id="2225:9">
 Med	Do	med-d	
 vašim	Zsdmeom	vaš-z	
 predsedovanjem	Soseo	predsedovanje-s	
@@ -22574,19 +22574,19 @@ te	Zk-mmt	ta-z
 begunce	Sommt	begunec-s	
 .	SENT	.-s	
 </s>
-<s id="2225:10&collection=eptic3">
+<s id="2225:10">
 Lahko	Rsn	lahko-r	
 bi	Gp-g	biti-g	
 pomagali	Ggvd-mm	pomagati-g	
 ;	U	;-u	
 </s>
-<s id="2225:11&collection=eptic3">
+<s id="2225:11">
 ni	Gp-ste-d	biti-g	
 bilo	Gp-d-es	biti-g	
 težko	Ppnsei	težek-p	težko
 .	SENT	.-s	
 </s>
-<s id="2225:12&collection=eptic3">
+<s id="2225:12">
 Svet	Somei	svet-s	
 bi	Gp-g	biti-g	
 lahko	Rsn	lahko-r	
@@ -22606,7 +22606,7 @@ namestitve	Sozer	namestitev-s
 beguncev	Sommr	begunec-s	
 .	SENT	.-s	
 </s>
-<s id="2225:13&collection=eptic3">
+<s id="2225:13">
 V	Dm	v-d	
 našem	Zspmemm	naš-z	
 delu	Somem	del-s	
@@ -22626,7 +22626,7 @@ namestitev	Sozet	namestitev-s
 beguncev	Sommr	begunec-s	
 ;	U	;-u	
 </s>
-<s id="2225:14&collection=eptic3">
+<s id="2225:14">
 uvedli	Ggdd-mm	uvesti-g	
 smo	Gp-spm-n	biti-g	
 prednostne	Ppnzmt	prednosten-p	prednostna
@@ -22657,7 +22657,7 @@ v	Dm	v-d
 taboriščih	Sosmm	taborišče-s	
 .	SENT	.-s	
 </s>
-<s id="2225:15&collection=eptic3">
+<s id="2225:15">
 Svet	Somei	svet-s	
 ni	Gp-ste-d	biti-g	
 končal	Ggdd-em	končati-g	
@@ -22665,7 +22665,7 @@ s	Do	z-d
 soodločanjem	Soseo	soodločanje-s	
 .	SENT	.-s	
 </s>
-<s id="2225:16&collection=eptic3">
+<s id="2225:16">
 Zdi	Ggnste	zdeti-g	
 se	Zp------k	se-z	
 ,	U	,-u	
@@ -22687,7 +22687,7 @@ Lizbonski	Ppnzem	lizbonski-p	lizbonska
 pogodbi	Sozem	pogodba-s	
 .	SENT	.-s	
 </s>
-<s id="2225:17&collection=eptic3">
+<s id="2225:17">
 Pravite	Ggvsdm	praviti-g	
 :	U	:-u	
 "	U	"-u	
@@ -22696,7 +22696,7 @@ begunce	Sommt	begunec-s
 "	U	"-u	
 .	SENT	.-s	
 </s>
-<s id="2225:18&collection=eptic3">
+<s id="2225:18">
 Pozivam	Ggnspe	pozivati-g	
 vas	Zod-mt	ti-z	
 ,	U	,-u	
@@ -22718,7 +22718,7 @@ v	Dm	v-d
 Siriji	Slzem	Sirija-s	
 .	SENT	.-s	
 </s>
-<s id="2225:19&collection=eptic3">
+<s id="2225:19">
 Povejte	Ggdvdm	povedati-g	
 beguncem	Sommd	begunec-s	
 ,	U	,-u	
@@ -22732,19 +22732,19 @@ delegirane	Pdnmmt	delegiran-p	delegiran
 akte	Sommt	akt-s	
 .	SENT	.-s	
 </s>
-<s id="2225:20&collection=eptic3">
+<s id="2225:20">
 Rekli	Ggdd-mm	reči-g	
 bodo	Gp-ptm-n	biti-g	
 :	U	:-u	
 </s>
-<s id="2225:21&collection=eptic3">
+<s id="2225:21">
 "	U	"-u	
 O	Dm	o-d	
 čem	Zv-sem	kaj-z	
 govorite	Ggnsdm	govoriti-g	
 ?	SENT	?-s	
 </s>
-<s id="2225:22&collection=eptic3">
+<s id="2225:22">
 Moj	Zspmeie	moj-z	
 otrok	Somei	otrok-s	
 ne	L	ne-l	
@@ -22753,13 +22753,13 @@ v	Dt	v-d
 šolo	Sozet	šola-s	
 ;	U	;-u	
 </s>
-<s id="2225:23&collection=eptic3">
+<s id="2225:23">
 nimam	Ggnspe-d	imeti-g	
 potnega	Ppnmer	poten-p	potni
 lista	Somer	list-s	
 ;	U	;-u	
 </s>
-<s id="2225:24&collection=eptic3">
+<s id="2225:24">
 obtičali	Ggdd-mm	obtičati-g	
 smo	Gp-spm-n	biti-g	
 v	Dm	v-d	
@@ -22767,7 +22767,7 @@ begunskem	Ppnsem	begunski-p	begunsko
 taborišču	Sosem	taborišče-s	
 ;	U	;-u	
 </s>
-<s id="2225:25&collection=eptic3">
+<s id="2225:25">
 zakaj	Rsn	zakaj-r	
 govorite	Ggnsdm	govoriti-g	
 o	Dm	o-d	
@@ -22787,7 +22787,7 @@ težav	Sozmr	težava-s
 ?	SENT	?-s	
 "	U	"-u	
 </s>
-<s id="2225:26&collection=eptic3">
+<s id="2225:26">
 To	Zk-sei	ta-z	
 bo	Gp-pte-n	biti-g	
 pustilo	Ggdd-es	pustiti-g	
@@ -22797,7 +22797,7 @@ belgijskem	Ppnsem	belgijski-p	belgijsko
 predsedovanju	Sosem	predsedovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2225:27&collection=eptic3">
+<s id="2225:27">
 Žal	Rsn	žal-r	
 mi	Zop-ed--k	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -22820,7 +22820,7 @@ me	Zop-et--k	jaz-z
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="152" duration="short" durations="66.0" speed="medium" speedwm="138.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="978:1&collection=eptic3">
+<s id="978:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -22851,7 +22851,7 @@ mandatu	Somem	mandat-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="978:2&collection=eptic3">
+<s id="978:2">
 Osebno	Rsn	osebno-r	
 se	Zp------k	se-z	
 <g/>
@@ -22939,7 +22939,7 @@ financirajo	Ggvstm	financirati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="978:3&collection=eptic3">
+<s id="978:3">
 Tu	Rsn	tu-r	
 pa	Vp	pa-v	
 imamo	Ggnspm-n	imeti-g	
@@ -22981,7 +22981,7 @@ zdravje	Soset	zdravje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="978:4&collection=eptic3">
+<s id="978:4">
 Čas	Somei	čas-s	
 bi	Gp-g	biti-g	
 že	L	že-l	
@@ -23006,7 +23006,7 @@ država	Sozei	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="978:5&collection=eptic3">
+<s id="978:5">
 Pri	Dm	pri-d	
 taki	Zk-zem	tak-z	
 ureditvi	Sozem	ureditev-s	
@@ -23021,7 +23021,7 @@ nekakovostne	Ppnzmi	nekakovosten-p	nekakovostna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="978:6&collection=eptic3">
+<s id="978:6">
 Odločimo	Ggdvpm	Odločimo-g	
 se	Zp------k	se-z	
 raje	Rsr	raje-r	
@@ -23045,7 +23045,7 @@ svetu	Somem	svet-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="164" duration="short" durations="65.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="980:1&collection=eptic3">
+<s id="980:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -23084,7 +23084,7 @@ leti	Sosmo	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:2&collection=eptic3">
+<s id="980:2">
 Če	Vd	če-v	
 bo	Gp-pte-n	biti-g	
 izid	Somei	izid-s	
@@ -23105,7 +23105,7 @@ zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:3&collection=eptic3">
+<s id="980:3">
 Slaba	Ppnzei	slab-p	slaba
 stran	Sozei	stran-s	
 pa	Vp	pa-v	
@@ -23132,7 +23132,7 @@ Italiji	Slzem	Italija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:4&collection=eptic3">
+<s id="980:4">
 Ker	Vd	ker-v	
 je	Gp-ste-n	biti-g	
 Italija	Slzei	Italija-s	
@@ -23157,7 +23157,7 @@ evropska	Ppnzei	evropski-p	evropska
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:5&collection=eptic3">
+<s id="980:5">
 Ne	L	ne-l	
 moremo	Ggnspm	moči-g	
 zapreti	Ggdn	zapreti-g	
@@ -23183,7 +23183,7 @@ svetu	Somem	svet-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:6&collection=eptic3">
+<s id="980:6">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -23249,7 +23249,7 @@ zaslužijo	Ggdstm	zaslužiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="980:7&collection=eptic3">
+<s id="980:7">
 Moramo	Ggnspm	morati-g	
 ukrepati	Ggnn	ukrepati-g	
 solidarno	Rsn	solidarno-r	
@@ -23270,7 +23270,7 @@ storimo	Ggdspm	storiti-g
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="156" duration="short" durations="60.0" speed="medium" speedwm="156.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2175:1&collection=eptic3">
+<s id="2175:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -23321,7 +23321,7 @@ v	Dm	v-d
 krmi	Sozem	krma-s	
 .	SENT	.-s	
 </s>
-<s id="2175:2&collection=eptic3">
+<s id="2175:2">
 Nekateri	Zn-mmi	nekateri-z	
 rezultati	Sommi	rezultat-s	
 preskusov	Sommr	preskus-s	
@@ -23356,7 +23356,7 @@ je	Gp-ste-n	biti-g
 dovoljeno	Pdnsei	dovoljen-p	dovoljeno
 .	SENT	.-s	
 </s>
-<s id="2175:3&collection=eptic3">
+<s id="2175:3">
 Sistem	Somei	sistem-s	
 hitrega	Ppnser	hiter-p	hitro
 obveščanja	Soser	obveščanje-s	
@@ -23381,7 +23381,7 @@ vrstami	Sozmo	vrsta-s
 okužbe	Sozer	okužba-s	
 .	SENT	.-s	
 </s>
-<s id="2175:4&collection=eptic3">
+<s id="2175:4">
 Ko	Vd	ko-v	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -23420,7 +23420,7 @@ polic	Sozmr	polica-s
 supermarketov	Sommr	supermarket-s	
 .	SENT	.-s	
 </s>
-<s id="2175:5&collection=eptic3">
+<s id="2175:5">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 bil	Gp-d-em	biti-g	
@@ -23430,7 +23430,7 @@ zaradi	Dr	zaradi-d
 dioksina	Somer	dioksin-s	
 .	SENT	.-s	
 </s>
-<s id="2175:6&collection=eptic3">
+<s id="2175:6">
 Imeli	Ggnd-mm	imeti-g	
 smo	Gp-spm-n	biti-g	
 probleme	Sommt	problem-s	
@@ -23457,7 +23457,7 @@ Severnem	Ppnsem	severen-p	severno
 Irskem	Slsem	Irsko-s	
 .	SENT	.-s	
 </s>
-<s id="2175:7&collection=eptic3">
+<s id="2175:7">
 Kar	Rsn	kar-r	
 želimo	Ggnspm	želeti-g	
 vprašati	Ggdn	vprašati-g	
@@ -23494,7 +23494,7 @@ popravila	Ggdd-ez	popraviti-g
 <speaker name="Cashman Michael" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="296" duration="medium" durations="121.0" speed="medium" speedwm="146.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1021:1&collection=eptic3">
+<s id="1021:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -23532,7 +23532,7 @@ narobe	Rsn	narobe-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:2&collection=eptic3">
+<s id="1021:2">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -23558,7 +23558,7 @@ pomislekov	Sommr	pomislek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:3&collection=eptic3">
+<s id="1021:3">
 Zagotoviti	Ggdn	zagotoviti-g	
 moramo	Ggnspm	morati-g	
 <g/>
@@ -23598,7 +23598,7 @@ storiti	Ggdn	storiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:4&collection=eptic3">
+<s id="1021:4">
 Spodbuditi	Ggdn	spodbuditi-g	
 moramo	Ggnspm	morati-g	
 zaupanje	Soset	zaupanje-s	
@@ -23610,7 +23610,7 @@ skupine	Sozmt	skupina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:5&collection=eptic3">
+<s id="1021:5">
 Za	Dt	za-d	
 to	Zk-set	ta-z	
 moramo	Ggnspm	morati-g	
@@ -23656,7 +23656,7 @@ skupin	Sozmr	skupina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:6&collection=eptic3">
+<s id="1021:6">
 To	Zk-set	ta-z	
 pravim	Ggvspe	praviti-g	
 kot	Vd	kot-v	
@@ -23683,7 +23683,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:7&collection=eptic3">
+<s id="1021:7">
 Kot	Vd	kot-v	
 dobro	Rsn	dobro-r	
 veste	Ggnsdm	vedeti-g	
@@ -23708,7 +23708,7 @@ pogodbe	Sozer	pogodba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:8&collection=eptic3">
+<s id="1021:8">
 To	Zk-set	ta-z	
 smo	Gp-spm-n	biti-g	
 v	Dt	v-d	
@@ -23723,7 +23723,7 @@ ES	Slmei	ES-s
 )	U	)-u	
 št.	O	št.-o	
 </s>
-<s id="1021:9&collection=eptic3">
+<s id="1021:9">
 1049	Kag	[number]-k	
 <g/>
 /	U	/-u	
@@ -23739,7 +23739,7 @@ pregleduje	Ggnste	pregledovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:10&collection=eptic3">
+<s id="1021:10">
 Mislil	Ggnd-em	misliti-g	
 bi	Gp-g	biti-g	
 <g/>
@@ -23783,7 +23783,7 @@ zanimivo	Ppnsei	zanimiv-p	zanimivo
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:11&collection=eptic3">
+<s id="1021:11">
 Opazili	Ggdd-mm	opaziti-g	
 ste	Gp-sdm-n	biti-g	
 <g/>
@@ -23797,7 +23797,7 @@ Macovei	Slmei	Macovei-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:12&collection=eptic3">
+<s id="1021:12">
 Njena	Zstzeiez	njen-z	
 zgodovina	Sozei	zgodovina-s	
 glede	Dr	glede-d	
@@ -23812,7 +23812,7 @@ vredna	Ppnzei	vreden-p	vredna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:13&collection=eptic3">
+<s id="1021:13">
 Večina	Sozei	večina-s	
 političnih	Ppnzmr	političen-p	politična
 skupin	Sozmr	skupina-s	
@@ -23823,7 +23823,7 @@ pomen	Sometn	pomen-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:14&collection=eptic3">
+<s id="1021:14">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 vedel	Ggnd-em	vedeti-g	
@@ -23839,7 +23839,7 @@ Parlamentom	Someo	parlament-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1021:15&collection=eptic3">
+<s id="1021:15">
 Bo	Gp-pte-n	biti-g	
 Komisija	Sozei	komisija-s	
 vzpostavila	Ggdd-ez	vzpostaviti-g	
@@ -23867,7 +23867,7 @@ družbe	Sozer	družba-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1021:16&collection=eptic3">
+<s id="1021:16">
 Če	Vd	če-v	
 ne	L	ne-l	
 <g/>
@@ -23877,7 +23877,7 @@ ne	L	ne-l
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1021:17&collection=eptic3">
+<s id="1021:17">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 dejal	Ggdd-em	dejati-g	
@@ -23928,7 +23928,7 @@ doseženo	Pdnsei	dosežen-p	doseženo
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="70.0" speed="slow" speedwm="114.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1023:1&collection=eptic3">
+<s id="1023:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -23966,7 +23966,7 @@ težave	Sozer	težava-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1023:2&collection=eptic3">
+<s id="1023:2">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 se	Zp------k	se-z	
@@ -24037,7 +24037,7 @@ EUR	Somei	EUR-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1023:3&collection=eptic3">
+<s id="1023:3">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 trajnostno	Ppnsei	trajnosten-p	trajnostno
@@ -24057,7 +24057,7 @@ zakonito	Ppnsei	zakonit-p	zakonito
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1023:4&collection=eptic3">
+<s id="1023:4">
 Prav	L	prav-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -24090,7 +24090,7 @@ zaračunava	Ggnste	zaračunavati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1023:5&collection=eptic3">
+<s id="1023:5">
 Povedati	Ggdn	povedati-g	
 hočem	Ggnspe-n	hoteti-g	
 <g/>
@@ -24114,7 +24114,7 @@ pogajanja	Sosmi	pogajanje-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="121" duration="short" durations="55.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1025:1&collection=eptic3">
+<s id="1025:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -24132,7 +24132,7 @@ stoletje	Soset	stoletje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:2&collection=eptic3">
+<s id="1025:2">
 Ponovno	Rsn	ponovno-r	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -24149,7 +24149,7 @@ meseca	Somer	mesec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:3&collection=eptic3">
+<s id="1025:3">
 Mnogo	Rsn	mnogo-r	
 ljudi	Sommr	človek-s	
 ima	Ggnste-n	imeti-g	
@@ -24168,7 +24168,7 @@ zdaj	Rsn	zdaj-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:4&collection=eptic3">
+<s id="1025:4">
 Nekateri	Zn-mmi	nekateri-z	
 mislijo	Ggnstm	misliti-g	
 <g/>
@@ -24196,7 +24196,7 @@ letos	Rsn	letos-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:5&collection=eptic3">
+<s id="1025:5">
 Kakor	Vd	kakor-v	
 koli	L	koli-l	
 že	L	že-l	
@@ -24221,7 +24221,7 @@ rešitev	Sozet	rešitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:6&collection=eptic3">
+<s id="1025:6">
 Ne	L	ne-l	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -24281,7 +24281,7 @@ premirje	Soset	premirje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1025:7&collection=eptic3">
+<s id="1025:7">
 Če	Vd	če-v	
 se	Zp------k	se-z	
 bo	Gp-pte-n	biti-g	
@@ -24306,7 +24306,7 @@ končal	Ggdd-em	končati-g
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="72.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1027:1&collection=eptic3">
+<s id="1027:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -24326,7 +24326,7 @@ rib	Sozmr	riba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:2&collection=eptic3">
+<s id="1027:2">
 Te	Zk-zmi	ta-z	
 potonejo	Ggdstm	potoniti-g	
 –	U	–-u	
@@ -24367,7 +24367,7 @@ in	Vp	in-v
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:3&collection=eptic3">
+<s id="1027:3">
 Tokrat	Rsn	tokrat-r	
 je	Gp-ste-n	biti-g	
 ta	Zk-zei	ta-z	
@@ -24377,7 +24377,7 @@ primerna	Ppnzei	primeren-p	primerna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:4&collection=eptic3">
+<s id="1027:4">
 Evropska	Ppnzei	evropski-p	evropska
 komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
@@ -24402,7 +24402,7 @@ narediti	Ggdn	narediti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:5&collection=eptic3">
+<s id="1027:5">
 Vendar	Vp	vendar-v	
 bi	Gp-g	biti-g	
 vsaka	Zc-zei	vsak-z	
@@ -24458,7 +24458,7 @@ ujamejo	Ggdstm	ujeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:6&collection=eptic3">
+<s id="1027:6">
 Vse	Zc-zmi	ves-z	
 te	Zk-zmi	ta-z	
 stvari	Sozmi	stvar-s	
@@ -24502,7 +24502,7 @@ dostop	Sometn	dostop-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:7&collection=eptic3">
+<s id="1027:7">
 Nihče	Zl-mei	nihče-z	
 nima	Ggnste-d	imeti-g	
 lastništva	Soser	lastništvo-s	
@@ -24523,7 +24523,7 @@ vir	Somei	vir-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:8&collection=eptic3">
+<s id="1027:8">
 Posnemati	Ggnn	posnemati-g	
 moramo	Ggnspm	morati-g	
 <g/>
@@ -24557,7 +24557,7 @@ pravice	Sozmt	pravica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1027:9&collection=eptic3">
+<s id="1027:9">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 mogoče	Ppnsei	mogoč-p	mogoče
@@ -24582,7 +24582,7 @@ vodami	Sozmo	voda-s
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="205" duration="short" durations="70.0" speed="high" speedwm="175.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1029:1&collection=eptic3">
+<s id="1029:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -24606,7 +24606,7 @@ naučili	Ggdd-mm	naučiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:2&collection=eptic3">
+<s id="1029:2">
 Na	Dt	na-d	
 primer	Sometn	primer-s	
 <g/>
@@ -24642,7 +24642,7 @@ Amerike	Slzer	Amerika-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:3&collection=eptic3">
+<s id="1029:3">
 Spodbudil	Ggdd-em	spodbuditi-g	
 je	Gp-ste-n	biti-g	
 banke	Sozmt	banka-s	
@@ -24662,7 +24662,7 @@ nesposobne	Ppnzmi	nesposoben-p	nesposobna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:4&collection=eptic3">
+<s id="1029:4">
 Ko	Vd	ko-v	
 je	Gp-ste-n	biti-g	
 ena	Kbzzei	en-k	
@@ -24689,7 +24689,7 @@ posledice	Sozmt	posledica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:5&collection=eptic3">
+<s id="1029:5">
 Razumeti	Ggvn	razumeti-g	
 moramo	Ggnspm	morati-g	
 posledice	Sozmt	posledica-s	
@@ -24728,7 +24728,7 @@ vrednost	Sozet	vrednost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:6&collection=eptic3">
+<s id="1029:6">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 dejal	Ggdd-em	dejati-g	
@@ -24768,7 +24768,7 @@ porušil	Ggdd-em	porušiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:7&collection=eptic3">
+<s id="1029:7">
 Točno	Rsn	točno-r	
 to	Zk-sei	ta-z	
 smo	Gp-spm-n	biti-g	
@@ -24776,7 +24776,7 @@ videli	Ggvd-mm	videti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:8&collection=eptic3">
+<s id="1029:8">
 Tudi	L	tudi-l	
 to	Zk-sei	ta-z	
 se	Zp------k	se-z	
@@ -24805,7 +24805,7 @@ propadle	Ggdd-mz	propasti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:9&collection=eptic3">
+<s id="1029:9">
 Če	Vd	če-v	
 bomo	Gp-ppm-n	biti-g	
 vzpostavili	Ggdd-mm	vzpostaviti-g	
@@ -24824,7 +24824,7 @@ bankam	Sozmd	banka-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1029:10&collection=eptic3">
+<s id="1029:10">
 Banke	Sozmt	banka-s	
 si	Zp---d--k	se-z	
 bodo	Gp-ptm-n	biti-g	
@@ -24860,7 +24860,7 @@ reševali	Ggnd-mm	reševati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1029:11&collection=eptic3">
+<s id="1029:11">
 Čas	Somei	čas-s	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -24883,7 +24883,7 @@ krize	Sozer	kriza-s
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="173" duration="short" durations="65.0" speed="medium" speedwm="159.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1031:1&collection=eptic3">
+<s id="1031:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -24948,7 +24948,7 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1031:2&collection=eptic3">
+<s id="1031:2">
 Več	Rsr	več-r	
 let	Sosmr	leto-s	
 že	L	že-l	
@@ -24990,7 +24990,7 @@ storitve	Sozmt	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1031:3&collection=eptic3">
+<s id="1031:3">
 Kajmanski	Ppnmmi	Kajmanski-p	kajmanski
 otoki	Sommi	otok-s	
 so	Gp-stm-n	biti-g	
@@ -25014,7 +25014,7 @@ storitve	Sozmt	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1031:4&collection=eptic3">
+<s id="1031:4">
 Ne	L	ne-l	
 davčna	Ppnzei	davčen-p	davčna
 utaja	Sozei	utaja-s	
@@ -25026,7 +25026,7 @@ nevtralnost	Sozei	nevtralnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1031:5&collection=eptic3">
+<s id="1031:5">
 Sredstva	Sosmi	sredstvo-s	
 <g/>
 ,	U	,-u	
@@ -25046,7 +25046,7 @@ obdavčena	Pdnzei	obdavčen-p	obdavčena
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1031:6&collection=eptic3">
+<s id="1031:6">
 Kaj	Zv-sei	kaj-z	
 pa	Vp	pa-v	
 dvolični	Ppnmmi	dvoličen-p	dvoličen
@@ -25072,7 +25072,7 @@ obdavčenju	Sosem	obdavčenje-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1031:7&collection=eptic3">
+<s id="1031:7">
 Odločijo	Ggdspe	Odločijo-g	
 se	Zp------k	se-z	
 <g/>
@@ -25117,7 +25117,7 @@ EU	Slzer	EU-s
 <speaker name="Bloom Godfrey" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="215" duration="short" durations="71.0" speed="high" speedwm="181.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1035:1&collection=eptic3">
+<s id="1035:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -25137,7 +25137,7 @@ samohvale	Sozer	samohvala-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:2&collection=eptic3">
+<s id="1035:2">
 Jaz	Zop-ei	jaz-z	
 pa	Vp	pa-v	
 mislim	Ggnspe	misliti-g	
@@ -25151,14 +25151,14 @@ spodletelo	Ggdd-es	spodleteti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:3&collection=eptic3">
+<s id="1035:3">
 Omenjate	Ggnsdm	omenjati-g	
 porodniški	Ppnmeid	porodniški-p	porodniški
 dopust	Somei	dopust-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:4&collection=eptic3">
+<s id="1035:4">
 Naj	Vd	naj-v	
 vam	Zod-md	ti-z	
 povem	Ggdspe	povedati-g	
@@ -25207,7 +25207,7 @@ mlado	Ppnzet	mlad-p	mlada
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:5&collection=eptic3">
+<s id="1035:5">
 Tako	Rsn	tako-r	
 da	Vd	da-v	
 jim	Zotmmd--k	on-z	
@@ -25220,7 +25220,7 @@ usluge	Sozer	usluga-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:6&collection=eptic3">
+<s id="1035:6">
 Po	Dm	po-d	
 zaslugi	Sozem	zasluga-s	
 še	L	še-l	
@@ -25280,7 +25280,7 @@ podvojili	Ggdd-mm	podvojiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:7&collection=eptic3">
+<s id="1035:7">
 In	Vp	in-v	
 zdaj	Rsn	zdaj-r	
 govorite	Ggnsdm	govoriti-g	
@@ -25290,7 +25290,7 @@ kvotah	Sozmm	kvota-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:8&collection=eptic3">
+<s id="1035:8">
 Kakšna	Zv-zei	kakšen-z	
 norost	Sozei	norost-s	
 je	Gp-ste-n	biti-g	
@@ -25298,7 +25298,7 @@ to	Zk-sei	ta-z
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1035:9&collection=eptic3">
+<s id="1035:9">
 S	Do	z-d	
 kvotami	Sozmo	kvota-s	
 smo	Gp-spm-n	biti-g	
@@ -25334,7 +25334,7 @@ pokroviteljski	Ppnmmi	pokroviteljski-p	pokroviteljski
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:10&collection=eptic3">
+<s id="1035:10">
 Ko	Vd	ko-v	
 bodo	Gp-ptm-n	biti-g	
 zdaj	Rsn	zdaj-r	
@@ -25382,7 +25382,7 @@ delo	Soset	delo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1035:11&collection=eptic3">
+<s id="1035:11">
 Vse	Zc-sei	ves-z	
 skupaj	Rsn	skupaj-r	
 je	Gp-ste-n	biti-g	
@@ -25422,7 +25422,7 @@ razumel	Ggvd-em	razumeti-g
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="343" duration="medium" durations="127.0" speed="high" speedwm="162.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1037:1&collection=eptic3">
+<s id="1037:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -25456,7 +25456,7 @@ nameraval	Ggnd-em	nameravati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:2&collection=eptic3">
+<s id="1037:2">
 Govoril	Ggnd-em	govoriti-g	
 je	Gp-ste-n	biti-g	
 o	Dm	o-d	
@@ -25486,7 +25486,7 @@ demokracijo	Sozet	demokracija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:3&collection=eptic3">
+<s id="1037:3">
 Naj	Vd	naj-v	
 ga	Zotmet--k	on-z	
 spomnim	Ggdspe	spomniti-g	
@@ -25539,7 +25539,7 @@ drugega	Kbzmet	drug-k
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:4&collection=eptic3">
+<s id="1037:4">
 Ironično	Ppnsei	ironičen-p	ironično
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -25569,7 +25569,7 @@ Skupnosti	Sozer	skupnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:5&collection=eptic3">
+<s id="1037:5">
 Za	Dt	za-d	
 javnost	Sozet	javnost-s	
 <g/>
@@ -25608,7 +25608,7 @@ Barroso	Slmei	Barroso-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:6&collection=eptic3">
+<s id="1037:6">
 Vem	Ggnspe	vedeti-g	
 <g/>
 ,	U	,-u	
@@ -25629,14 +25629,14 @@ kandidat	Somei	kandidat-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:7&collection=eptic3">
+<s id="1037:7">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 demokracija	Sozei	demokracija-s	
 <g/>
 !	SENT	!-s	
 </s>
-<s id="1037:8&collection=eptic3">
+<s id="1037:8">
 Zato	Vp	zato-v	
 gospod	Somei	gospod-s	
 Barroso	Slmei	Barroso-s	
@@ -25667,7 +25667,7 @@ imeti	Ggnn	imeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:9&collection=eptic3">
+<s id="1037:9">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 še	L	še-l	
@@ -25700,7 +25700,7 @@ kmalu	Rsn	kmalu-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:10&collection=eptic3">
+<s id="1037:10">
 Pravi	Ggvste	praviti-g	
 <g/>
 ,	U	,-u	
@@ -25712,7 +25712,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:11&collection=eptic3">
+<s id="1037:11">
 Nihče	Zl-mei	nihče-z	
 ni	Gp-ste-d	biti-g	
 glasoval	Ggvd-em	glasovati-g	
@@ -25721,7 +25721,7 @@ to	Zk-set	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:12&collection=eptic3">
+<s id="1037:12">
 Nikogar	Zl-mer	nihče-z	
 niso	Gp-stm-d	biti-g	
 vprašali	Ggdd-mm	vprašati-g	
@@ -25734,7 +25734,7 @@ to	Zk-sei	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:13&collection=eptic3">
+<s id="1037:13">
 On	Zotmei	on-z	
 lahko	Rsn	lahko-r	
 glasuje	Ggvste	glasovati-g	
@@ -25752,7 +25752,7 @@ to	Zk-set	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:14&collection=eptic3">
+<s id="1037:14">
 V	Dt	v-d	
 petek	Sometn	petek-s	
 bi	Gp-g	biti-g	
@@ -25765,7 +25765,7 @@ Portugalski	Slzem	Portugalska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:15&collection=eptic3">
+<s id="1037:15">
 Po	Dm	po-d	
 finančnem	Ppnsem	finančen-p	finančno
 reševanju	Sosem	reševanje-s	
@@ -25802,7 +25802,7 @@ potekel	Ggdd-em	poteči-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:16&collection=eptic3">
+<s id="1037:16">
 Donos	Somei	donos-s	
 portugalskih	Ppnzmr	portugalski-p	portugalska
 obveznic	Sozmr	obveznica-s	
@@ -25815,13 +25815,13 @@ na	Dt	na-d
 <g/>
 .	U	.-u	
 </s>
-<s id="1037:17&collection=eptic3">
+<s id="1037:17">
 6	Kag	[number]-k	
 %	U	%-u	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:18&collection=eptic3">
+<s id="1037:18">
 Gospod	Somei	gospod-s	
 Barroso	Slmei	Barroso-s	
 to	Zk-sei	ta-z	
@@ -25830,7 +25830,7 @@ ve	Ggnste	vedeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:19&collection=eptic3">
+<s id="1037:19">
 Ko	Vd	ko-v	
 so	Gp-stm-n	biti-g	
 donosi	Sommi	donos-s	
@@ -25850,7 +25850,7 @@ reševati	Ggnn	reševati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:20&collection=eptic3">
+<s id="1037:20">
 Aprila	Somer	april-s	
 bomo	Gp-ppm-n	biti-g	
 množično	Rsn	množično-r	
@@ -25872,7 +25872,7 @@ podaljšati	Ggdn	podaljšati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:21&collection=eptic3">
+<s id="1037:21">
 Spomnimo	Ggdspm	spomniti-g	
 se	Zp------k	se-z	
 <g/>
@@ -25894,7 +25894,7 @@ banka	Sozei	banka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:22&collection=eptic3">
+<s id="1037:22">
 Ne	L	ne-l	
 moremo	Ggnspm	moči-g	
 delovati	Ggnn	delovati-g	
@@ -25911,7 +25911,7 @@ dolg	Sometn	dolg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1037:23&collection=eptic3">
+<s id="1037:23">
 Če	Vd	če-v	
 to	Zk-sei	ta-z	
 storimo	Ggdspm	storiti-g	
@@ -25944,7 +25944,7 @@ banke	Sozer	banka-s
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="67.0" speed="slow" speedwm="92.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1040:1&collection=eptic3">
+<s id="1040:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -25974,7 +25974,7 @@ davku	Somem	davek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1040:2&collection=eptic3">
+<s id="1040:2">
 Sredstva	Sosmi	sredstvo-s	
 v	Dm	v-d	
 višini	Sozem	višina-s	
@@ -26001,7 +26001,7 @@ bankah	Sozmm	banka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1040:3&collection=eptic3">
+<s id="1040:3">
 Mi	Zopmmi	jaz-z	
 v	Dt	v-d	
 zameno	Sozet	zamena-s	
@@ -26024,7 +26024,7 @@ revščine	Sozer	revščina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1040:4&collection=eptic3">
+<s id="1040:4">
 Če	Vd	če-v	
 bi	Gp-g	biti-g	
 ta	Zk-met	ta-z	
@@ -26101,7 +26101,7 @@ prakse	Sozer	praksa-s
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="60.0" speed="slow" speedwm="103.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1042:1&collection=eptic3">
+<s id="1042:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -26136,7 +26136,7 @@ strinjati	Ggnn	strinjati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:2&collection=eptic3">
+<s id="1042:2">
 Po	Dm	po-d	
 dolgotrajnem	Ppnmem	dolgotrajen-p	dolgotrajen
 in	Vp	in-v	
@@ -26158,7 +26158,7 @@ prebivalstva	Soser	prebivalstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:3&collection=eptic3">
+<s id="1042:3">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 bi	Gp-g	biti-g	
@@ -26171,14 +26171,14 @@ hrano	Sozeo	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:4&collection=eptic3">
+<s id="1042:4">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 samozadostnost	Sozet	samozadostnost-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:5&collection=eptic3">
+<s id="1042:5">
 Ne	L	ne-l	
 presežna	Ppnzei	presežen-p	presežena
 proizvodnja	Sozei	proizvodnja-s	
@@ -26207,7 +26207,7 @@ lačnih	Ppnmmr	lačen-p	lačen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:6&collection=eptic3">
+<s id="1042:6">
 Zato	Rsn	zato-r	
 bi	Gp-g	biti-g	
 si	Zp---d--k	se-z	
@@ -26232,7 +26232,7 @@ državah	Sozmm	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:7&collection=eptic3">
+<s id="1042:7">
 Če	Vd	če-v	
 bo	Gp-pte-n	biti-g	
 samozadostnost	Sozei	samozadostnost-s	
@@ -26254,7 +26254,7 @@ trgovino	Sozet	trgovina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1042:8&collection=eptic3">
+<s id="1042:8">
 Hrana	Sozei	hrana-s	
 je	Gp-ste-n	biti-g	
 nekaj	Rsn	nekaj-r	
@@ -26277,7 +26277,7 @@ igrati	Ggnn	igrati-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="196" duration="short" durations="62.0" speed="high" speedwm="189.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1044:1&collection=eptic3">
+<s id="1044:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -26307,7 +26307,7 @@ mano	Zop-eo	jaz-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:2&collection=eptic3">
+<s id="1044:2">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 povezano	Pdnsei	povezan-p	povezano
@@ -26326,7 +26326,7 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:3&collection=eptic3">
+<s id="1044:3">
 Noben	Zl-mei	noben-z	
 poslanec	Somei	poslanec-s	
 zvečer	Rsn	zvečer-r	
@@ -26367,14 +26367,14 @@ večer	Sometn	večer-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:4&collection=eptic3">
+<s id="1044:4">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 nesprejemljivo	Ppnsei	nesprejemljiv-p	nesprejemljivo
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:5&collection=eptic3">
+<s id="1044:5">
 Srečal	Ggdd-em	srečati-g	
 sem	Gp-spe-n	biti-g	
 baronico	Sozet	baronica-s	
@@ -26382,7 +26382,7 @@ Ludford	Slmei	Ludford-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:6&collection=eptic3">
+<s id="1044:6">
 Eno	Kbzzet	en-k	
 uro	Sozet	ura-s	
 je	Gp-ste-n	biti-g	
@@ -26404,7 +26404,7 @@ sprejeto	Pdnsei	sprejet-p	sprejeto
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:7&collection=eptic3">
+<s id="1044:7">
 Jaz	Zop-ei	jaz-z	
 sem	Gp-spe-n	biti-g	
 se	Zp------k	se-z	
@@ -26429,7 +26429,7 @@ večerjo	Sozet	večerja-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:8&collection=eptic3">
+<s id="1044:8">
 Zagotoviti	Ggdn	zagotoviti-g	
 je	Gp-ste-n	biti-g	
 treba	Rsn	treba-r	
@@ -26460,7 +26460,7 @@ načrtujejo	Ggnstm	načrtovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:9&collection=eptic3">
+<s id="1044:9">
 Vem	Ggnspe	vedeti-g	
 <g/>
 ,	U	,-u	
@@ -26501,7 +26501,7 @@ nanjo	Zotzet--z	name-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:10&collection=eptic3">
+<s id="1044:10">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 vse	Zc-sei	ves-z	
@@ -26514,7 +26514,7 @@ povedati	Ggdn	povedati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:11&collection=eptic3">
+<s id="1044:11">
 Menim	Ggnspe	meniti-g	
 <g/>
 ,	U	,-u	
@@ -26527,7 +26527,7 @@ upoštevati	Ggvn	upoštevati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:12&collection=eptic3">
+<s id="1044:12">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -26547,7 +26547,7 @@ opravljate	Ggnsdm	opravljati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1044:13&collection=eptic3">
+<s id="1044:13">
 Nikakor	Rsn	nikakor-r	
 ne	L	ne-l	
 želim	Ggnspe	želeti-g	
@@ -26566,7 +26566,7 @@ vas	Zod-mr	ti-z
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="90" duration="short" durations="39.0" speed="medium" speedwm="138.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="983:1&collection=eptic3">
+<s id="983:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -26603,7 +26603,7 @@ prakse	Sozmi	praksa-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="983:2&collection=eptic3">
+<s id="983:2">
 Primer	Somei	primer-s	
 Davida	Slmer	David-s	
 Kata	Slzei	Kata-s	
@@ -26613,7 +26613,7 @@ tega	Zk-ser	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="983:3&collection=eptic3">
+<s id="983:3">
 Bil	Gp-d-em	biti-g	
 je	Gp-ste-n	biti-g	
 človek	Somei	človek-s	
@@ -26633,7 +26633,7 @@ Ugandi	Sozem	Ugandi-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="983:4&collection=eptic3">
+<s id="983:4">
 Kot	Vd	kot-v	
 ustanovitelja	Sometd	ustanovitelj-s	
 skupine	Sozer	skupina-s	
@@ -26664,7 +26664,7 @@ njim	Zotmmd	on-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="983:5&collection=eptic3">
+<s id="983:5">
 Urednik	Somei	urednik-s	
 je	Gp-ste-n	biti-g	
 izjavil	Ggdd-em	izjaviti-g	
@@ -26682,7 +26682,7 @@ nadaljevati	Ggnn	nadaljevati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="983:6&collection=eptic3">
+<s id="983:6">
 In	Vp	in-v	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -26703,7 +26703,7 @@ januarja	Somer	januar-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="144" duration="short" durations="60.0" speed="medium" speedwm="144.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="984:1&collection=eptic3">
+<s id="984:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -26762,7 +26762,7 @@ noči	Sozer	noč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:2&collection=eptic3">
+<s id="984:2">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -26771,7 +26771,7 @@ zadeva	Sozei	zadeva-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:3&collection=eptic3">
+<s id="984:3">
 To	Zk-sei	ta-z	
 poročilo	Sosei	poročilo-s	
 odraža	Ggnste	odražati-g	
@@ -26798,7 +26798,7 @@ politike	Sozer	politika-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:4&collection=eptic3">
+<s id="984:4">
 Zato	Rsn	zato-r	
 so	Gp-stm-n	biti-g	
 besede	Sozmi	beseda-s	
@@ -26809,7 +26809,7 @@ krepke	Ppnmmt	krepek-p	krepak
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:5&collection=eptic3">
+<s id="984:5">
 Nekaterim	Zn-mmd	nekateri-z	
 se	Zp------k	se-z	
 zdijo	Ggnstm	zdeti-g	
@@ -26828,7 +26828,7 @@ nezadovoljstva	Soser	nezadovoljstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:6&collection=eptic3">
+<s id="984:6">
 Gledano	Rsn	gledano-r	
 s	Dr	z-d	
 stališča	Soser	stališče-s	
@@ -26849,7 +26849,7 @@ dohodki	Sommo	dohodek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:7&collection=eptic3">
+<s id="984:7">
 Uničili	Ggdd-mm	Uničili-g	
 boste	Gp-pdm-n	biti-g	
 naše	Zspseim	naš-z	
@@ -26857,7 +26857,7 @@ okolje	Sosei	okolje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:8&collection=eptic3">
+<s id="984:8">
 Naj	L	naj-l	
 dodam	Ggdspe	dodati-g	
 še	L	še-l	
@@ -26871,7 +26871,7 @@ sprememb	Sozmr	sprememba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:9&collection=eptic3">
+<s id="984:9">
 Ogljični	Ppnmeid	Ogljični-p	ogljični
 odtis	Somei	odtis-s	
 brazilske	Ppnzer	brazilski-p	brazilska
@@ -26894,7 +26894,7 @@ poročilo	Soset	poročilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="984:10&collection=eptic3">
+<s id="984:10">
 Nujno	Rsn	nujno-r	
 pozivam	Ggnspe	pozivati-g	
 <g/>
@@ -26914,7 +26914,7 @@ podpre	Ggdste	podpreti-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="147" duration="short" durations="59.0" speed="medium" speedwm="149.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="985:1&collection=eptic3">
+<s id="985:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -26926,7 +26926,7 @@ vidikov	Sommr	vidik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:2&collection=eptic3">
+<s id="985:2">
 Eden	Kbzmei	eden-k	
 <g/>
 ,	U	,-u	
@@ -26963,7 +26963,7 @@ ljudi	Sommr	človek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:3&collection=eptic3">
+<s id="985:3">
 Vesel	Ppnmein	vesel-p	vesel
 sem	Gp-spe-n	biti-g	
 <g/>
@@ -27006,7 +27006,7 @@ skozi	Dt	skozi-d
 šport	Sometn	šport-s	
 itd.	O	itd.-o	
 </s>
-<s id="985:4&collection=eptic3">
+<s id="985:4">
 Veselim	Ggnspe	veseliti-g	
 se	Zp------k	se-z	
 predlogov	Sommr	predlog-s	
@@ -27019,7 +27019,7 @@ tem	Zk-seo	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:5&collection=eptic3">
+<s id="985:5">
 Drugič	Rsn	drugič-r	
 <g/>
 ,	U	,-u	
@@ -27059,7 +27059,7 @@ zavarovanje	Soset	zavarovanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:6&collection=eptic3">
+<s id="985:6">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 to	Zk-set	ta-z	
@@ -27101,7 +27101,7 @@ drugega	Kbzmer	drug-k
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:7&collection=eptic3">
+<s id="985:7">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -27113,7 +27113,7 @@ uspešno	Rsn	uspešno-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="985:8&collection=eptic3">
+<s id="985:8">
 Temelji	Ggnste	temeljiti-g	
 na	Dm	na-d	
 nizozemskem	Ppnmem	nizozemski-p	nizozemski
@@ -27136,7 +27136,7 @@ zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="117" duration="short" durations="51.0" speed="medium" speedwm="137.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="986:1&collection=eptic3">
+<s id="986:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -27164,7 +27164,7 @@ industrije	Sozer	industrija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:2&collection=eptic3">
+<s id="986:2">
 To	Zk-sei	ta-z	
 se	Zp------k	se-z	
 mora	Ggnste	morati-g	
@@ -27172,7 +27172,7 @@ končati	Ggdn	končati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:3&collection=eptic3">
+<s id="986:3">
 Vsekakor	L	vsekakor-l	
 predlogi	Sommi	predlog-s	
 glede	Dr	glede-d	
@@ -27183,7 +27183,7 @@ sprejemljivi	Ppnmmi	sprejemljiv-p	sprejemljiv
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:4&collection=eptic3">
+<s id="986:4">
 Izvedeni	Pdnmmi	izveden-p	izveden
 so	Gp-stm-n	biti-g	
 bili	Gp-d-mm	biti-g	
@@ -27202,7 +27202,7 @@ kmetijstvo	Soset	kmetijstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:5&collection=eptic3">
+<s id="986:5">
 Lahko	Rsn	lahko-r	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -27242,7 +27242,7 @@ skupnostih	Sozmm	skupnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:6&collection=eptic3">
+<s id="986:6">
 To	Zk-sei	ta-z	
 nas	Zop-mt	jaz-z	
 zelo	Rsn	zelo-r	
@@ -27250,7 +27250,7 @@ skrbi	Ggnste	skrbeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="986:7&collection=eptic3">
+<s id="986:7">
 Vidik	Somei	vidik-s	
 standardov	Sommr	standard-s	
 in	Vp	in-v	
@@ -27293,7 +27293,7 @@ Evropi	Slzem	Evropa-s
 <speaker name="De Rossa Proinsias " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="54" duration="short" durations="22.0" speed="medium" speedwm="147.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="987:1&collection=eptic3">
+<s id="987:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -27319,7 +27319,7 @@ Irske	Slzer	Irska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="987:2&collection=eptic3">
+<s id="987:2">
 Ali	Vp	ali-v	
 ga	Zotmet--k	on-z	
 lahko	Rsn	lahko-r	
@@ -27334,7 +27334,7 @@ kraljestva	Soser	kraljestvo-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="987:3&collection=eptic3">
+<s id="987:3">
 Kot	Vd	kot-v	
 vem	Ggnspe	vedeti-g	
 <g/>
@@ -27354,7 +27354,7 @@ narodi	Sommi	narod-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="987:4&collection=eptic3">
+<s id="987:4">
 Ali	Vp	ali-v	
 ni	Gp-ste-d	biti-g	
 to	Zk-sei	ta-z	
@@ -27363,7 +27363,7 @@ narodov	Sommr	narod-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="987:5&collection=eptic3">
+<s id="987:5">
 In	Vp	in-v	
 to	Zk-sei	ta-z	
 zelo	Rsn	zelo-r	
@@ -27384,7 +27384,7 @@ dodam	Ggdspe	dodati-g
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="191" duration="short" durations="69.0" speed="high" speedwm="166.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="988:1&collection=eptic3">
+<s id="988:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -27434,7 +27434,7 @@ odgovor	Somei	odgovor-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:2&collection=eptic3">
+<s id="988:2">
 Pomagali	Ggvd-mm	pomagati-g	
 bi	Gp-g	biti-g	
 jim	Zotmmd--k	on-z	
@@ -27470,7 +27470,7 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:3&collection=eptic3">
+<s id="988:3">
 Pomagamo	Ggvspm	pomagati-g	
 jim	Zotmmd--k	on-z	
 lahko	Rsn	lahko-r	
@@ -27481,7 +27481,7 @@ trgov	Sommr	trg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:4&collection=eptic3">
+<s id="988:4">
 Ena	Kbzzei	en-k	
 velikih	Ppnzmr	velik-p	velika
 težav	Sozmr	težava-s	
@@ -27500,7 +27500,7 @@ politiko	Sozet	politika-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:5&collection=eptic3">
+<s id="988:5">
 Tudi	L	tudi-l	
 Združene	Pdnzmi	združen-p	združena
 države	Sozmi	država-s	
@@ -27511,7 +27511,7 @@ subvencij	Sozmr	subvencija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:6&collection=eptic3">
+<s id="988:6">
 Medtem	Rsn	medtem-r	
 ko	Vd	ko-v	
 pridigamo	Ggnspm	pridigati-g	
@@ -27539,7 +27539,7 @@ razvoju	Somem	razvoj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:7&collection=eptic3">
+<s id="988:7">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 uporabljamo	Ggnspm	uporabljati-g	
@@ -27555,7 +27555,7 @@ standardi	Sommi	standard-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:8&collection=eptic3">
+<s id="988:8">
 Seveda	L	seveda-l	
 vsi	Zc-mmi	ves-z	
 hočemo	Ggnspm-n	hoteti-g	
@@ -27590,7 +27590,7 @@ razvoju	Somem	razvoj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:9&collection=eptic3">
+<s id="988:9">
 Čas	Somei	čas-s	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -27601,7 +27601,7 @@ potrošnikom	Sommd	potrošnik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:10&collection=eptic3">
+<s id="988:10">
 Dokler	Vd	dokler-v	
 je	Gp-ste-n	biti-g	
 hrana	Sozei	hrana-s	
@@ -27627,7 +27627,7 @@ drugje	Rsn	drugje-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="988:11&collection=eptic3">
+<s id="988:11">
 Prenehajmo	Ggdvpm	prenehati-g	
 subvencionirati	Ggvn	subvencionirati-g	
 nedonosne	Ppnzer	nedonosen-p	nedonosna
@@ -27647,7 +27647,7 @@ Evropi	Slzem	Evropa-s
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="184" duration="short" durations="68.0" speed="high" speedwm="162.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="990:1&collection=eptic3">
+<s id="990:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -27681,7 +27681,7 @@ nemoralnostjo	Sozeo	nemoralnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:2&collection=eptic3">
+<s id="990:2">
 Ob	Dm	ob-d	
 koncu	Somem	konec-s	
 petdesetih	Kbvsmr	petdeseti-k	
@@ -27703,7 +27703,7 @@ razvoju	Somem	razvoj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:3&collection=eptic3">
+<s id="990:3">
 Rekel	Ggdd-em	reči-g	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -27769,7 +27769,7 @@ trgih	Sommm	trg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:4&collection=eptic3">
+<s id="990:4">
 EU	Slzei	EU-s	
 tedaj	Rsn	tedaj-r	
 ni	Gp-ste-d	biti-g	
@@ -27781,7 +27781,7 @@ ne	L	ne-l
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:5&collection=eptic3">
+<s id="990:5">
 Zadnja	Ppnsmi	zadnji-p	zadnje
 pogajanja	Sosmi	pogajanje-s	
 Svetovne	Ppnzer	svetoven-p	svetovna
@@ -27803,7 +27803,7 @@ orožja	Soser	orožje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:6&collection=eptic3">
+<s id="990:6">
 Seveda	L	seveda-l	
 so	Gp-stm-n	biti-g	
 se	Zp------k	se-z	
@@ -27830,7 +27830,7 @@ sektor	Sometn	sektor-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:7&collection=eptic3">
+<s id="990:7">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 sklep	Somei	sklep-s	
@@ -27846,7 +27846,7 @@ zgodilo	Ggdd-es	zgoditi-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:8&collection=eptic3">
+<s id="990:8">
 Skupna	Ppnzei	skupen-p	skupna
 kmetijska	Ppnzei	kmetijski-p	kmetijska
 politika	Sozei	politika-s	
@@ -27857,7 +27857,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:9&collection=eptic3">
+<s id="990:9">
 Z	Do	z-d	
 njo	Zotzeo	on-z	
 se	Zp------k	se-z	
@@ -27868,7 +27868,7 @@ najdlje	Rss	daleč-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="990:10&collection=eptic3">
+<s id="990:10">
 Če	Vd	če-v	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
@@ -27919,7 +27919,7 @@ pristojnosti	Sozmt	pristojnost-s
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="133" duration="short" durations="62.0" speed="slow" speedwm="128.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="989:1&collection=eptic3">
+<s id="989:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -27931,7 +27931,7 @@ vprašanje	Sosei	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:2&collection=eptic3">
+<s id="989:2">
 Gospod	Somei	gospod-s	
 Schulz	Slmei	Schulz-s	
 <g/>
@@ -27951,7 +27951,7 @@ napaka	Sozei	napaka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:3&collection=eptic3">
+<s id="989:3">
 V	Dm	v-d	
 vseh	Zc-smm	ves-z	
 teh	Zk-smm	ta-z	
@@ -27963,7 +27963,7 @@ veliko	Rsn	veliko-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:4&collection=eptic3">
+<s id="989:4">
 Nekatere	Zn-zmt	nekateri-z	
 stvari	Sozmt	stvar-s	
 smo	Gp-spm-n	biti-g	
@@ -27983,7 +27983,7 @@ Nemčija	Slzei	Nemčija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:5&collection=eptic3">
+<s id="989:5">
 Nemška	Ppnzei	nemški-p	nemška
 zgodovina	Sozei	zgodovina-s	
 ni	Gp-ste-d	biti-g	
@@ -28001,7 +28001,7 @@ strinjate	Ggnsdm	strinjati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:6&collection=eptic3">
+<s id="989:6">
 Sicer	L	sicer-l	
 pa	Vp	pa-v	
 imate	Ggnsdm-n	imeti-g	
@@ -28009,7 +28009,7 @@ prav	L	prav-l
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:7&collection=eptic3">
+<s id="989:7">
 Dejansko	Rsn	dejansko-r	
 Združeno	Pdnsei	združen-p	združeno
 kraljestvo	Sosei	kraljestvo-s	
@@ -28025,7 +28025,7 @@ sporno	Ppnsei	sporen-p	sporno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:8&collection=eptic3">
+<s id="989:8">
 Irska	Slzei	Irska-s	
 je	Gp-ste-n	biti-g	
 res	Rsn	res-r	
@@ -28050,13 +28050,13 @@ neodvisnost	Sozei	neodvisnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:9&collection=eptic3">
+<s id="989:9">
 Imate	Ggnsdm-n	imeti-g	
 prav	L	prav-l	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:10&collection=eptic3">
+<s id="989:10">
 Zelo	Rsn	zelo-r	
 težko	Ppnsei	težek-p	težko
 je	Gp-ste-n	biti-g	
@@ -28067,7 +28067,7 @@ kulture	Sozmt	kultura-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:11&collection=eptic3">
+<s id="989:11">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -28094,7 +28094,7 @@ soglasje	Soset	soglasje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:12&collection=eptic3">
+<s id="989:12">
 Če	Vd	če-v	
 soglasja	Soser	soglasje-s	
 ne	L	ne-l	
@@ -28117,7 +28117,7 @@ odcepile	Ggdd-mz	odcepiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="989:13&collection=eptic3">
+<s id="989:13">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 želim	Ggnspe	želeti-g	
@@ -28144,7 +28144,7 @@ priložnosti	Sozmt	priložnost-s
 <speaker name="Moraes Claude" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="148" duration="short" durations="62.0" speed="medium" speedwm="143.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="991:1&collection=eptic3">
+<s id="991:1">
 Kot	Vd	kot-v	
 veste	Ggnsdm	vedeti-g	
 <g/>
@@ -28173,7 +28173,7 @@ pisarno	Sozet	pisarna-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="991:2&collection=eptic3">
+<s id="991:2">
 Povedati	Ggdn	povedati-g	
 moram	Ggnspe	morati-g	
 <g/>
@@ -28221,7 +28221,7 @@ dejanja	Soser	dejanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="991:3&collection=eptic3">
+<s id="991:3">
 Maggie	Slzei	Maggie-s	
 Hughes	Slzei	Hughes-s	
 in	Vp	in-v	
@@ -28255,7 +28255,7 @@ pomoči	Sozer	pomoč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="991:4&collection=eptic3">
+<s id="991:4">
 Če	Vd	če-v	
 na	Dt	na-d	
 primer	Sometn	primer-s	
@@ -28297,7 +28297,7 @@ sodišča	Soser	sodišče-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="991:5&collection=eptic3">
+<s id="991:5">
 To	Zk-set	ta-z	
 zahtevajo	Ggvstm	zahtevati-g	
 naši	Zspmmim	naš-z	
@@ -28310,7 +28310,7 @@ dobili	Ggdd-mm	dobiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="991:6&collection=eptic3">
+<s id="991:6">
 Na	Dt	na-d	
 vas	Zod-mt	ti-z	
 torej	Rsn	torej-r	
@@ -28340,7 +28340,7 @@ lahko	Rsn	lahko-r
 <speaker name="Mitchell Gay " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="66" duration="short" durations="19.0" speed="high" speedwm="208.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="992:1&collection=eptic3">
+<s id="992:1">
 Tu	Rsn	tu-r	
 sem	Gp-spe-n	biti-g	
 od	Dr	od-d	
@@ -28360,7 +28360,7 @@ ob	Dm	ob-d
 <g/>
 .	U	.-u	
 </s>
-<s id="992:2&collection=eptic3">
+<s id="992:2">
 V	Dm	v-d	
 moji	Zspzeme	moj-z	
 državi	Sozem	država-s	
@@ -28394,7 +28394,7 @@ Rehnu	Slmed	Rehnu-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="992:3&collection=eptic3">
+<s id="992:3">
 Prosim	Ggnspe	prositi-g	
 vas	Zod-mt	ti-z	
 <g/>
@@ -28433,7 +28433,7 @@ nanj	Zotmet--z	name-z
 <speaker name="De Rossa Proinsias " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="103" duration="short" durations="45.0" speed="medium" speedwm="137.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="993:1&collection=eptic3">
+<s id="993:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -28477,7 +28477,7 @@ nanj	Zotmet--z	name-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:2&collection=eptic3">
+<s id="993:2">
 Podpiram	Ggnspe	podpirati-g	
 namero	Sozet	namera-s	
 za	Dt	za-d	
@@ -28487,7 +28487,7 @@ Pogodbe	Sozer	pogodba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:3&collection=eptic3">
+<s id="993:3">
 Tako	Rsn	tako-r	
 kakor	Vd	kakor-v	
 druge	Kbzmmt	drug-k	
@@ -28498,7 +28498,7 @@ mehanizma	Somer	mehanizem-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:4&collection=eptic3">
+<s id="993:4">
 Vendar	Rsn	vendar-r	
 poenostavljeni	Pdnmeid	poenostavljen-p	poenostavljen
 postopek	Somei	postopek-s	
@@ -28528,7 +28528,7 @@ Pogodbe	Sozer	pogodba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:5&collection=eptic3">
+<s id="993:5">
 Nacionalnim	Ppnmmd	nacionalen-p	nacionalni
 parlamentom	Sommd	parlament-s	
 je	Gp-ste-n	biti-g	
@@ -28548,7 +28548,7 @@ storijo	Ggdstm	storiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:6&collection=eptic3">
+<s id="993:6">
 Govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
 sprejetju	Sosem	sprejetje-s	
@@ -28568,7 +28568,7 @@ decembra	Somer	december-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="993:7&collection=eptic3">
+<s id="993:7">
 Kako	Rsn	kako-r	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
@@ -28576,7 +28576,7 @@ mogoče	Ppnsei	mogoč-p	mogoče
 <g/>
 ?	U	?-u	
 </s>
-<s id="993:8&collection=eptic3">
+<s id="993:8">
 Ali	Vp	ali-v	
 morajo	Ggnstm	morati-g	
 res	Rsn	res-r	
@@ -28600,7 +28600,7 @@ odločili	Ggdd-mm	odločiti-g
 <speaker name="Crowley Brian" gender="M" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="108" duration="short" durations="49.0" speed="medium" speedwm="132.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="995:1&collection=eptic3">
+<s id="995:1">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 poudaril	Ggdd-em	poudariti-g	
@@ -28609,7 +28609,7 @@ točke	Sozmt	točka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:2&collection=eptic3">
+<s id="995:2">
 Najprej	Rss	najprej-r	
 v	Dm	v-d	
 zvezi	Sozem	zveza-s	
@@ -28622,7 +28622,7 @@ Kitajskem	Slsem	Kitajsko-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:3&collection=eptic3">
+<s id="995:3">
 Čeprav	Vd	čeprav-v	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
@@ -28648,7 +28648,7 @@ vključena	Pdnsmi	vključen-p	vključeno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:4&collection=eptic3">
+<s id="995:4">
 Zdi	Ggnste	zdeti-g	
 se	Zp------k	se-z	
 <g/>
@@ -28664,7 +28664,7 @@ podjetja	Sosmt	podjetje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:5&collection=eptic3">
+<s id="995:5">
 Drugič	Rsn	drugič-r	
 <g/>
 ,	U	,-u	
@@ -28729,7 +28729,7 @@ podjetja	Sosmt	podjetje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:6&collection=eptic3">
+<s id="995:6">
 Tretjič	Rsn	Tretjič-r	
 in	Vp	in-v	
 zadnjič	Rsn	zadnjič-r	
@@ -28756,7 +28756,7 @@ Japonsko	Slzeo	Japonska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:7&collection=eptic3">
+<s id="995:7">
 Ta	Zk-mei	ta-z	
 odnos	Somei	odnos-s	
 se	Zp------k	se-z	
@@ -28773,7 +28773,7 @@ območjih	Sosdm	območje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="995:8&collection=eptic3">
+<s id="995:8">
 Morda	L	morda-l	
 bi	Gp-g	biti-g	
 se	Zp------k	se-z	
@@ -28793,7 +28793,7 @@ tem	Zk-sem	ta-z
 <speaker name="Harkin Marian" gender="F" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="long" lengthw="88" duration="short" durations="35.0" speed="medium" speedwm="150.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="994:1&collection=eptic3">
+<s id="994:1">
 Domnevam	Ggnspe	domnevati-g	
 <g/>
 ,	U	,-u	
@@ -28829,7 +28829,7 @@ Irska	Slzei	Irska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="994:2&collection=eptic3">
+<s id="994:2">
 Dejstvo	Sosei	dejstvo-s	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -28888,7 +28888,7 @@ rasti	Sozer	rast-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="994:3&collection=eptic3">
+<s id="994:3">
 V	Dm	v-d	
 povezavi	Sozem	povezava-s	
 s	Do	z-d	
@@ -28927,7 +28927,7 @@ EU	Slzer	EU-s
 <speaker name="Moraes Claude" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="314" duration="medium" durations="152.0" speed="slow" speedwm="123.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="996:1&collection=eptic3">
+<s id="996:1">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -28951,7 +28951,7 @@ razmere	Sozmt	razmera-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:2&collection=eptic3">
+<s id="996:2">
 Želim	Ggnspe	želeti-g	
 reči	Ggdn	reči-g	
 <g/>
@@ -28990,7 +28990,7 @@ mučenje	Soset	mučenje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:3&collection=eptic3">
+<s id="996:3">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -29031,12 +29031,12 @@ način	Sometn	način-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:4&collection=eptic3">
+<s id="996:4">
 Zakaj	Rsn	zakaj-r	
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="996:5&collection=eptic3">
+<s id="996:5">
 In	Vp	in-v	
 zakaj	Rsn	zakaj-r	
 danes	Rsn	danes-r	
@@ -29051,7 +29051,7 @@ vlade	Sozer	vlada-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="996:6&collection=eptic3">
+<s id="996:6">
 Ne	L	ne-l	
 zaradi	Dr	zaradi-d	
 Bolgarije	Slzer	Bolgarija-s	
@@ -29068,7 +29068,7 @@ vrednot	Sozmr	vrednota-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:7&collection=eptic3">
+<s id="996:7">
 Ker	Vd	ker-v	
 smo	Gp-spm-n	biti-g	
 skupnost	Sozet	skupnost-s	
@@ -29101,7 +29101,7 @@ izjemoma	Rsn	izjemoma-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:8&collection=eptic3">
+<s id="996:8">
 Čeprav	Vd	čeprav-v	
 nisem	Gp-spe-d	biti-g	
 tako	Rsn	tako-r	
@@ -29129,7 +29129,7 @@ izjemoma	Rsn	izjemoma-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:9&collection=eptic3">
+<s id="996:9">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 ena	Kbzzei	en-k	
@@ -29177,7 +29177,7 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:10&collection=eptic3">
+<s id="996:10">
 Ni	Gp-ste-d	biti-g	
 pomembno	Ppnsei	pomemben-p	pomembno
 <g/>
@@ -29222,7 +29222,7 @@ Bolgarijo	Slzet	Bolgarija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:11&collection=eptic3">
+<s id="996:11">
 Jutri	Rsn	jutri-r	
 bo	Gp-pte-n	biti-g	
 morda	L	morda-l	
@@ -29235,7 +29235,7 @@ državo	Sozet	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:12&collection=eptic3">
+<s id="996:12">
 Resnično	Rsn	resnično-r	
 sem	Gp-spe-n	biti-g	
 se	Zp------k	se-z	
@@ -29278,7 +29278,7 @@ prestrezanja	Soser	prestrezanje-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="996:13&collection=eptic3">
+<s id="996:13">
 Če	Vd	če-v	
 že	L	že-l	
 želite	Ggnsdm	želeti-g	
@@ -29311,7 +29311,7 @@ način	Sometn	način-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="996:14&collection=eptic3">
+<s id="996:14">
 Preučil	Ggnd-em	Preučil-g	
 sem	Gp-spe-n	biti-g	
 veliko	Rsn	veliko-r	
@@ -29334,7 +29334,7 @@ previdno	Rsn	previdno-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:15&collection=eptic3">
+<s id="996:15">
 Nikogar	Zl-mer	nihče-z	
 z	Do	z-d	
 nobene	Zl-zer	noben-z	
@@ -29353,7 +29353,7 @@ bilo	Gp-d-es	biti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="996:16&collection=eptic3">
+<s id="996:16">
 Zato	Rsn	zato-r	
 mora	Ggnste	morati-g	
 Komisija	Sozei	komisija-s	
@@ -29370,7 +29370,7 @@ preiskati	Ggdn	preiskati-g
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="141" duration="short" durations="53.0" speed="medium" speedwm="159.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="998:1&collection=eptic3">
+<s id="998:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -29403,7 +29403,7 @@ posledice	Sozmt	posledica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="998:2&collection=eptic3">
+<s id="998:2">
 Medtem	Rsn	medtem-r	
 ko	Vd	ko-v	
 je	Gp-ste-n	biti-g	
@@ -29437,7 +29437,7 @@ izvržki	Sommo	izvržek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="998:3&collection=eptic3">
+<s id="998:3">
 Povsem	Rsn	povsem-r	
 jasno	Ppnsei	jasen-p	jasno
 je	Gp-ste-n	biti-g	
@@ -29452,7 +29452,7 @@ propad	Sometn	propad-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="998:4&collection=eptic3">
+<s id="998:4">
 Sedaj	Rsn	sedaj-r	
 je	Gp-ste-n	biti-g	
 čas	Somei	čas-s	
@@ -29497,7 +29497,7 @@ rodove	Sommt	rod-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="998:5&collection=eptic3">
+<s id="998:5">
 Če	Vd	če-v	
 bi	Gp-g	biti-g	
 se	Zp------k	se-z	
@@ -29555,7 +29555,7 @@ sporazumov	Sommr	sporazum-s
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="107" duration="short" durations="40.0" speed="high" speedwm="160.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="997:1&collection=eptic3">
+<s id="997:1">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 <g/>
@@ -29574,7 +29574,7 @@ vprašal	Ggdd-em	vprašati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="997:2&collection=eptic3">
+<s id="997:2">
 Težava	Sozei	težava-s	
 je	Gp-ste-n	biti-g	
 v	Dm	v-d	
@@ -29651,7 +29651,7 @@ kulture	Sozmi	kultura-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="997:3&collection=eptic3">
+<s id="997:3">
 Razlog	Somei	razlog-s	
 <g/>
 ,	U	,-u	
@@ -29696,7 +29696,7 @@ Schulz	Slmei	Schulz-s
 <g/>
 ?	U	?-u	
 </s>
-<s id="997:4&collection=eptic3">
+<s id="997:4">
 –	U	–-u	
 <g/>
 ,	U	,-u	
@@ -29718,7 +29718,7 @@ projekta	Somer	projekt-s
 <speaker name="Higgins Jim" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="98" duration="short" durations="43.0" speed="medium" speedwm="136.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="999:1&collection=eptic3">
+<s id="999:1">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 popolna	Ppnzei	popoln-p	popolna
@@ -29732,7 +29732,7 @@ postopka	Somer	postopek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:2&collection=eptic3">
+<s id="999:2">
 Rečeno	Pdnsei	rečen-p	rečeno
 nam	Zop-md	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -29749,14 +29749,14 @@ od	Dr	od-d
 <g/>
 .	U	.-u	
 </s>
-<s id="999:3&collection=eptic3">
+<s id="999:3">
 30	Kag	[number]-k	
 do	Dr	do-d	
 20.30	Kag	[number]-k	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:4&collection=eptic3">
+<s id="999:4">
 Vi	Zodmmi	ti-z	
 ali	Rsn	ali-r	
 nekdo	Zn-mei	nekdo-z	
@@ -29778,7 +29778,7 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:5&collection=eptic3">
+<s id="999:5">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 ena	Kbzzei	en-k	
@@ -29794,7 +29794,7 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:6&collection=eptic3">
+<s id="999:6">
 Na	Dm	na-d	
 Irskem	Slsem	Irsko-s	
 imamo	Ggnspm-n	imeti-g	
@@ -29817,14 +29817,14 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:7&collection=eptic3">
+<s id="999:7">
 Kdo	Zv-mei	kdo-z	
 je	Gp-ste-n	biti-g	
 odločil	Ggdd-em	odločiti-g	
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="999:8&collection=eptic3">
+<s id="999:8">
 Vedeti	Ggnn	vedeti-g	
 hočem	Ggnspe-n	hoteti-g	
 zdaj	Rsn	zdaj-r	
@@ -29866,7 +29866,7 @@ minut	Sozmr	minuta-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="999:9&collection=eptic3">
+<s id="999:9">
 Kdo	Zv-mei	kdo-z	
 je	Gp-ste-n	biti-g	
 odločil	Ggdd-em	odločiti-g	

@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1790:1&collection=eptic3">
+<s id="1790:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -53,7 +53,7 @@ Italie	NP00000	Italie-n	italie	NP00000	Italie	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:2&collection=eptic3">
+<s id="1790:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 comprends	VMIP1S0	comprendre-v	comprendre	VMIP1S0	comprendre	0	0
@@ -87,7 +87,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:3&collection=eptic3">
+<s id="1790:3">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 cas	NCMN000	cas-n	cas	NCMN000	cas	M	S
@@ -116,7 +116,7 @@ droit	NCMS000	droit-n	droit	NCMS000	droit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:4&collection=eptic3">
+<s id="1790:4">
 
 En	SP	en-i	en	SP	en	0	0
 outre	NCFS000	outre-n	outre	NCFS000	outre	F	S
@@ -144,7 +144,7 @@ histoire	NCFS000	histoire-n	histoire	NCFS000	histoire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:5&collection=eptic3">
+<s id="1790:5">
 
 Cesare	NP00000	Cesare-n	cesare	NP00000	Cesare	M	S
 Battisti	NPMS000	Battisti-n	battisti	NPMS000	Battisti	M	S
@@ -154,7 +154,7 @@ prison	NCFS000	prison-n	prison	NCFS000	prison	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:6&collection=eptic3">
+<s id="1790:6">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 attend	VMIP3S0	attendre-v	attendre	VMIP3S0	attendre	0	0
@@ -193,7 +193,7 @@ instant	NCMS000	instant-n	instant	NCMS000	instant	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:7&collection=eptic3">
+<s id="1790:7">
 
 Aucune	DI0FS0	aucun-x	aucune	DI0FS0	aucun	F	S
 raison	NCFS000	raison-n	raison	NCFS000	raison	F	S
@@ -217,7 +217,7 @@ indépendante	AQ0FS00	indépendant-j	indépendante	AQ0FS00	indépendant	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:8&collection=eptic3">
+<s id="1790:8">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -290,7 +290,7 @@ lit	NCMS000	lit-n	lit	NCMS000	lit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1790:9&collection=eptic3">
+<s id="1790:9">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Parlement	NPMS000	Parlement-n	parlement	NPMS000	Parlement	M	S
@@ -326,7 +326,7 @@ Mugabe	NP00000	Mugabe-n	mugabe	NP00000	Mugabe	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1790:10&collection=eptic3">
+<s id="1790:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -361,7 +361,7 @@ jour	NCMS000	jour-n	jour	NCMS000	jour	M	S
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1791:1&collection=eptic3">
+<s id="1791:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -389,7 +389,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:2&collection=eptic3">
+<s id="1791:2">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 17	Z	17-m	17	Z	17	0	0
@@ -434,7 +434,7 @@ vie	NCFS000	vie-n	vie	NCFS000	vie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:3&collection=eptic3">
+<s id="1791:3">
 
 Moins	RG	moins-r	moins	RG	moins	0	0
 d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
@@ -467,7 +467,7 @@ Ali	NP00000	Ali-n	ali	NP00000	Ali	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:4&collection=eptic3">
+<s id="1791:4">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -490,7 +490,7 @@ régime	NCMS000	régime-n	régime	NCMS000	régime	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:5&collection=eptic3">
+<s id="1791:5">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 moment	NCMS000	moment-n	moment	NCMS000	moment	M	S
@@ -512,7 +512,7 @@ sécurité	NCFS000	sécurité-n	sécurité	NCFS000	sécurité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:6&collection=eptic3">
+<s id="1791:6">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
 cas	NCMN000	cas-n	cas	NCMN000	cas	M	P
@@ -530,7 +530,7 @@ signalés	VMP00PM	signaler-v	signalé	VMP00PM	signaler	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:7&collection=eptic3">
+<s id="1791:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Tunisie	NPFS000	Tunisie-n	tunisie	NPFS000	Tunisie	F	S
@@ -565,7 +565,7 @@ arriver	VMN0000	arriver-v	arriver	VMN0000	arriver	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:8&collection=eptic3">
+<s id="1791:8">
 
 Malgré	SP	malgré-i	malgré	SP	malgré	0	0
 certaines	DI0FP0	certain-x	certaine	DI0FP0	certain	F	P
@@ -602,7 +602,7 @@ fondamentaux	AQ0MP00	fondamental-j	fondamental	AQ0MP00	fondamental	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:9&collection=eptic3">
+<s id="1791:9">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 veut	VMIP3S0	vouloir-v	vouloir	VMIP3S0	vouloir	0	0
@@ -616,7 +616,7 @@ et	CC	et-c	et	CC	et	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:10&collection=eptic3">
+<s id="1791:10">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 population	NCFS000	population-n	population	NCFS000	population	F	S
@@ -640,7 +640,7 @@ effort	NCMS000	effort-n	effort	NCMS000	effort	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:11&collection=eptic3">
+<s id="1791:11">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 respect	NCMS000	respect-n	respect	NCMS000	respect	M	S
@@ -676,7 +676,7 @@ direction	NCFS000	direction-n	direction	NCFS000	direction	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:12&collection=eptic3">
+<s id="1791:12">
 
 Naturellement	RG	naturellement-r	naturellement	RG	naturellement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -693,7 +693,7 @@ début	NCMS000	début-n	début	NCMS000	début	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:13&collection=eptic3">
+<s id="1791:13">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -731,7 +731,7 @@ fondamentales	AQ0FP00	fondamental-j	fondamentale	AQ0FP00	fondamental	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:14&collection=eptic3">
+<s id="1791:14">
 
 Depuis	SP	depuis-i	depuis	SP	depuis	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -786,7 +786,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:15&collection=eptic3">
+<s id="1791:15">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souligne	VMIP3S0	souligner-v	souligner	VMIP3S0	souligner	0	0
@@ -828,7 +828,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:16&collection=eptic3">
+<s id="1791:16">
 
 À	SP	à-i	à	SP	à	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -894,7 +894,7 @@ partagées	VMP00PF	partager-v	partagée	VMP00PF	partager	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:17&collection=eptic3">
+<s id="1791:17">
 
 Et	CC	et-c	et	CC	et	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -954,7 +954,7 @@ semaines	NCFP000	semaine-n	semaine	NCFP000	semaine	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:18&collection=eptic3">
+<s id="1791:18">
 
 Qu	NP00000	Qu-n	qu	NP00000	Qu	0	0
 <g/>
@@ -978,7 +978,7 @@ justice	NCFS000	justice-n	justice	NCFS000	justice	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1791:19&collection=eptic3">
+<s id="1791:19">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 Catherine	NPFS000	Catherine-n	catherine	NPFS000	Catherine	F	S
@@ -1014,7 +1014,7 @@ appropriées	VMP00PF	approprier-v	appropriée	VMP00PF	approprier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:20&collection=eptic3">
+<s id="1791:20">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 espérons	VMIP1P0	espérer-v	espérer	VMIP1P0	espérer	0	0
@@ -1047,7 +1047,7 @@ travail	NCMS000	travail-n	taf	NCMS000	travail	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:21&collection=eptic3">
+<s id="1791:21">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VSIP1P0	être-v	être	VSIP1P0	être	0	0
@@ -1085,7 +1085,7 @@ démocratique	AQ0CS00	démocratique-j	démocratique	AQ0CS00	démocratique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:22&collection=eptic3">
+<s id="1791:22">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 travaillons	VMIP1P0	travailler-v	travailler	VMIP1P0	travailler	0	0
@@ -1158,7 +1158,7 @@ judiciaire	AQ0CS00	judiciaire-j	judiciaire	AQ0CS00	judiciaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:23&collection=eptic3">
+<s id="1791:23">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 continuerons	VMIF1P0	continuer-v	continuer	VMIF1P0	continuer	0	0
@@ -1184,7 +1184,7 @@ processus	NCMN000	processus-n	processus	NCMN000	processus	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:24&collection=eptic3">
+<s id="1791:24">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
@@ -1243,7 +1243,7 @@ prospérité	NCFS000	prospérité-n	prospérité	NCFS000	prospérité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:25&collection=eptic3">
+<s id="1791:25">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -1284,7 +1284,7 @@ voisinage	NCMS000	voisinage-n	voisinage	NCMS000	voisinage	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:26&collection=eptic3">
+<s id="1791:26">
 
 Se	PP3CN00	se-p	se	PP3CN00	se	0	0
 caractérisant	VMG0000	caractériser-v	caractériser	VMG0000	caractériser	0	0
@@ -1372,7 +1372,7 @@ stable	AQ0CS00	stable-j	stable	AQ0CS00	stable	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:27&collection=eptic3">
+<s id="1791:27">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 entretenons	VMIP1P0	entretenir-v	entretenir	VMIP1P0	entretenir	0	0
@@ -1399,7 +1399,7 @@ entreprises	NCFP000	entreprise-n	entreprise	NCFP000	entreprise	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:28&collection=eptic3">
+<s id="1791:28">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 vice-présidente	NCFS000	vice-président-n	vice-présidente	NCFS000	vice-président	F	S
@@ -1475,7 +1475,7 @@ sociales	AQ0FP00	social-j	sociale	AQ0FP00	social	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1791:29&collection=eptic3">
+<s id="1791:29">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ferons	VMIF1P0	faire-v	faire	VMIF1P0	faire	0	0
@@ -1505,7 +1505,7 @@ aspirations	NCFP000	aspiration-n	aspiration	NCFP000	aspiration	F	P
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1792:1&collection=eptic3">
+<s id="1792:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -1575,7 +1575,7 @@ et	CC	et-c	et	CC	et	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:2&collection=eptic3">
+<s id="1792:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 citoyens	NCMP000	citoyen-n	citoyen	NCMP000	citoyen	M	P
@@ -1598,7 +1598,7 @@ jeunes	AQ0CP00	jeune-j	jeune	AQ0CP00	jeune	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:3&collection=eptic3">
+<s id="1792:3">
 
 Seuls	AQ0MP00	seul-j	seul	AQ0MP00	seul	M	P
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -1630,7 +1630,7 @@ artificielle	AQ0FS00	artificiel-j	artificielle	AQ0FS00	artificiel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:4&collection=eptic3">
+<s id="1792:4">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 régimes	NCMP000	régime-n	régime	NCMP000	régime	M	P
@@ -1670,7 +1670,7 @@ libres	AQ0CP00	libre-j	libre	AQ0CP00	libre	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:5&collection=eptic3">
+<s id="1792:5">
 
 Concernant	SP	concernant-i	concernant	SP	concernant	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -1717,7 +1717,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:6&collection=eptic3">
+<s id="1792:6">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -1775,7 +1775,7 @@ rue	NCFS000	rue-n	rue	NCFS000	rue	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:7&collection=eptic3">
+<s id="1792:7">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -1823,7 +1823,7 @@ ordre	NCMS000	ordre-n	ordre	NCMS000	ordre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:8&collection=eptic3">
+<s id="1792:8">
 
 Quelle	PT0FS00	quel-p	quel	PT0FS00	quel	F	S
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -1857,7 +1857,7 @@ droits	NCMP000	droit-n	droit	NCMP000	droit	M	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1792:9&collection=eptic3">
+<s id="1792:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 confrontation	NCFS000	confrontation-n	confrontation	NCFS000	confrontation	F	S
@@ -1888,7 +1888,7 @@ rues	NCFP000	rue-n	rue	NCFP000	rue	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:10&collection=eptic3">
+<s id="1792:10">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 gouvernement	NCMS000	gouvernement-n	gouvernement	NCMS000	gouvernement	M	S
@@ -1946,7 +1946,7 @@ technologies	NCFP000	technologie-n	technologie	NCFP000	technologie	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:11&collection=eptic3">
+<s id="1792:11">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 régimes	NCMP000	régime-n	régime	NCMP000	régime	M	P
@@ -1970,7 +1970,7 @@ expression	NCFS000	expression-n	expression	NCFS000	expression	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:12&collection=eptic3">
+<s id="1792:12">
 
 Aujourd	NP00000	Aujourd-n	aujourd	NP00000	Aujourd	0	0
 '	Fe	'-x	'	Fe	'	0	0
@@ -2009,7 +2009,7 @@ trahison	NCFS000	trahison-n	trahison	NCFS000	trahison	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:13&collection=eptic3">
+<s id="1792:13">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -2023,7 +2023,7 @@ venu	VMP00SM	venir-v	venu	VMP00SM	venir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:14&collection=eptic3">
+<s id="1792:14">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 États-Unis	NP00000	États-Unis-n	états-unis	NP00000	États-Unis	M,F	P
@@ -2052,7 +2052,7 @@ internet	NCMS000	internet-n	internet	NCMS000	internet	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:15&collection=eptic3">
+<s id="1792:15">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -2082,7 +2082,7 @@ hongroises	AQ0FP00	hongrois-j	hongroise	AQ0FP00	hongrois	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1792:16&collection=eptic3">
+<s id="1792:16">
 
 Mais	CC	mais-c	mais	CC	mais	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -2167,7 +2167,7 @@ internet	NCMS000	internet-n	internet	NCMS000	internet	M	S
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1793:1&collection=eptic3">
+<s id="1793:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -2202,7 +2202,7 @@ relative	NCFS000	relative-n	relative	NCFS000	relative	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:2&collection=eptic3">
+<s id="1793:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 corruption	NCFS000	corruption-n	corruption	NCFS000	corruption	F	S
@@ -2237,7 +2237,7 @@ ordinaires	AQ0CP00	ordinaire-j	ordinaire	AQ0CP00	ordinaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:3&collection=eptic3">
+<s id="1793:3">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -2305,7 +2305,7 @@ arabe	AQ0CS00	arabe-j	arabe	AQ0CS00	arabe	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:4&collection=eptic3">
+<s id="1793:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Tunisie	NPFS000	Tunisie-n	tunisie	NPFS000	Tunisie	F	S
@@ -2336,7 +2336,7 @@ progressiste	AQ0CS00	progressiste-j	progressiste	AQ0CS00	progressiste	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:5&collection=eptic3">
+<s id="1793:5">
 
 À	SP	à-i	à	SP	à	0	0
 titre	NCMS000	titre-n	titre	NCMS000	titre	M	S
@@ -2366,7 +2366,7 @@ tourisme	NCMS000	tourisme-n	tourisme	NCMS000	tourisme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:6&collection=eptic3">
+<s id="1793:6">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Tunisie	NPFS000	Tunisie-n	tunisie	NPFS000	Tunisie	F	S
@@ -2393,7 +2393,7 @@ laïque	AQ0FS00	laïc-j	laïque	AQ0FS00	laïc	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:7&collection=eptic3">
+<s id="1793:7">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -2465,7 +2465,7 @@ politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:8&collection=eptic3">
+<s id="1793:8">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 nouveaux	AQ0MP00	nouveau-j	nouvel	AQ0MP00	nouveau	M	P
@@ -2495,7 +2495,7 @@ violent	AQ0MS00	violent-j	violent	AQ0MS00	violent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:9&collection=eptic3">
+<s id="1793:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -2537,7 +2537,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:10&collection=eptic3">
+<s id="1793:10">
 
 Simultanément	RG	simultanément-r	simultanément	RG	simultanément	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -2599,7 +2599,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:11&collection=eptic3">
+<s id="1793:11">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 félicite	VMIP1S0	féliciter-v	féliciter	VMIP1S0	féliciter	0	0
@@ -2621,7 +2621,7 @@ République	NPFS000	République-n	république	NPFS000	République	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1793:12&collection=eptic3">
+<s id="1793:12">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 sein	NCMS000	sein-n	sein	NCMS000	sein	M	S
@@ -2688,7 +2688,7 @@ sort	NCMS000	sort-n	sort	NCMS000	sort	M	S
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1794:1&collection=eptic3">
+<s id="1794:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -2728,7 +2728,7 @@ tunisienne	AQ0FS00	tunisien-j	tunisienne	AQ0FS00	tunisien	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:2&collection=eptic3">
+<s id="1794:2">
 
 Aucun	DI0MS0	aucun-x	aucun	DI0MS0	aucun	M	S
 démocrate	NCCS000	démocrate-n	démocrate	NCCS000	démocrate	M	S
@@ -2738,7 +2738,7 @@ refuser	VMN0000	refuser-v	refuser	VMN0000	refuser	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:3&collection=eptic3">
+<s id="1794:3">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 peuple	NCMS000	peuple-n	peuple	NCMS000	peuple	M	S
@@ -2773,7 +2773,7 @@ révoltera	VMIF3S0	révolter-v	révolter	VMIF3S0	révolter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:4&collection=eptic3">
+<s id="1794:4">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 services	NCMP000	service-n	service	NCMP000	service	M	P
@@ -2813,7 +2813,7 @@ manquer	VMN0000	manquer-v	manquer	VMN0000	manquer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:5&collection=eptic3">
+<s id="1794:5">
 
 Y	PP3CN00	y-p	y	PP3CN00	y	0	0
 a-t-il	VMIP3S0	avoir-v	avoir	VAIP3S0,PP3MS00	avoir,il	0	0
@@ -2842,7 +2842,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1794:6&collection=eptic3">
+<s id="1794:6">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -2860,7 +2860,7 @@ incompétents	AQ0MP00	incompétent-j	incompétent	AQ0MP00	incompétent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:7&collection=eptic3">
+<s id="1794:7">
 
 Sa	DP3FSS	son-x	sa	DP3FSS	son	F	S
 classe	NCFS000	classe-n	classe	NCFS000	classe	F	S
@@ -2879,7 +2879,7 @@ population	NCFS000	population-n	population	NCFS000	population	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:8&collection=eptic3">
+<s id="1794:8">
 
 Ses	DP3CPS	son-x	son	DP3CPS	son	M,F	P
 politiques	AQ0CP00	politique-j	politique	AQ0CP00	politique	M,F	P
@@ -2903,7 +2903,7 @@ membres	NCMP000	membre-n	membre	NCMP000	membre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:9&collection=eptic3">
+<s id="1794:9">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
 émeutes	NCFP000	émeute-n	émeute	NCFP000	émeute	F	P
@@ -2932,7 +2932,7 @@ européenne	NCFS000	européen-n	européenne	NCFS000	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:10&collection=eptic3">
+<s id="1794:10">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
@@ -2977,7 +2977,7 @@ euro	NCMS000	euro-n	euro	NCMS000	euro	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:11&collection=eptic3">
+<s id="1794:11">
 
 Ne	RN	ne-r	ne	RN	ne	0	0
 pensez	VMM02P0	penser-v	penser	VMM02P0	penser	0	0
@@ -3000,7 +3000,7 @@ européens	AQ0MP00	européen-j	européen	AQ0MP00	européen	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:12&collection=eptic3">
+<s id="1794:12">
 
 Quand	CS	quand-c	quand	CS	quand	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -3022,7 +3022,7 @@ rebeller	VMN0000	rebeller-v	rebeller	VMN0000	rebeller	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1794:13&collection=eptic3">
+<s id="1794:13">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -3065,7 +3065,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1795:1&collection=eptic3">
+<s id="1795:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -3111,7 +3111,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:2&collection=eptic3">
+<s id="1795:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -3149,7 +3149,7 @@ réalité	NCFS000	réalité-n	réalité	NCFS000	réalité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:3&collection=eptic3">
+<s id="1795:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -3177,7 +3177,7 @@ MM	NPMN000	MM-n	mm	NPMN000	MM	M	S,P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:4&collection=eptic3">
+<s id="1795:4">
 
 Vertessen	NP00000	Vertessen-n	vertessen	NP00000	Vertessen	0	0
 et	CC	et-c	et	CC	et	0	0
@@ -3189,7 +3189,7 @@ dévoué	VMP00SM	dévouer-v	dévoué	VMP00SM	dévouer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:5&collection=eptic3">
+<s id="1795:5">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -3228,7 +3228,7 @@ implicite	AQ0CS00	implicite-j	implicite	AQ0CS00	implicite	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:6&collection=eptic3">
+<s id="1795:6">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -3254,7 +3254,7 @@ aux	SP+DA	à+les-i	à+les	SP,DA0CP0	à,le	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:7&collection=eptic3">
+<s id="1795:7">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 Mario	NPMS000	Mario-n	mario	NPMS000	Mario	M	S
@@ -3320,7 +3320,7 @@ corporatistes	NCCP000	corporatiste-n	corporatiste	NCCP000	corporatiste	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:8&collection=eptic3">
+<s id="1795:8">
 
 Par	SP	par-i	par	SP	par	0	0
 cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
@@ -3394,7 +3394,7 @@ des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:9&collection=eptic3">
+<s id="1795:9">
 
 Actuellement	RG	actuellement-r	actuellement	RG	actuellement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -3438,7 +3438,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:10&collection=eptic3">
+<s id="1795:10">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -3492,7 +3492,7 @@ secteur	NCMS000	secteur-n	secteur	NCMS000	secteur	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:11&collection=eptic3">
+<s id="1795:11">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -3516,7 +3516,7 @@ emploi	NCMS000	emploi-n	emploi	NCMS000	emploi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:12&collection=eptic3">
+<s id="1795:12">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -3539,7 +3539,7 @@ dangereux	AQ0MN00	dangereux-j	dangereux	AQ0MN00	dangereux	M	S,P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:13&collection=eptic3">
+<s id="1795:13">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -3586,7 +3586,7 @@ professionnelle	AQ0FS00	professionnel-j	professionnelle	AQ0FS00	professionnel	F	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:14&collection=eptic3">
+<s id="1795:14">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 convient	VMIP3S0	convenir-v	convenir	VMIP3S0	convenir	0	0
@@ -3623,7 +3623,7 @@ rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:15&collection=eptic3">
+<s id="1795:15">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -3732,7 +3732,7 @@ poussière	NCFS000	poussière-n	poussière	NCFS000	poussière	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:16&collection=eptic3">
+<s id="1795:16">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -3763,7 +3763,7 @@ liées	VMP00PF	lier-v	liée	VMP00PF	lier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:17&collection=eptic3">
+<s id="1795:17">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -3789,7 +3789,7 @@ poumon	NCMS000	poumon-n	poumon	NCMS000	poumon	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:18&collection=eptic3">
+<s id="1795:18">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 santé	NCFS000	santé-n	santé	NCFS000	santé	F	S
@@ -3819,7 +3819,7 @@ importance	NCFS000	importance-n	importance	NCFS000	importance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:19&collection=eptic3">
+<s id="1795:19">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -3834,7 +3834,7 @@ PME	NPMS000	PME-n	pme	NPMS000	PME	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:20&collection=eptic3">
+<s id="1795:20">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 Parlement	NPMS000	Parlement-n	parlement	NPMS000	Parlement	M	S
@@ -3866,7 +3866,7 @@ travail	NCMS000	travail-n	taf	NCMS000	travail	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:21&collection=eptic3">
+<s id="1795:21">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -3934,7 +3934,7 @@ potentiels	AQ0MP00	potentiel-j	potentiel	AQ0MP00	potentiel	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:22&collection=eptic3">
+<s id="1795:22">
 
 Concernant	SP	concernant-i	concernant	SP	concernant	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -3979,7 +3979,7 @@ départ	NCMS000	départ-n	départ	NCMS000	départ	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:23&collection=eptic3">
+<s id="1795:23">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 transparence	NCFS000	transparence-n	transparence	NCFS000	transparence	F	S
@@ -4018,7 +4018,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:24&collection=eptic3">
+<s id="1795:24">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 doit	VMIP3S0	devoir-v	devoir	VMIP3S0	devoir	0	0
@@ -4048,7 +4048,7 @@ difficiles	AQ0CP00	difficile-j	difficile	AQ0CP00	difficile	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:25&collection=eptic3">
+<s id="1795:25">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 sein	NCMS000	sein-n	sein	NCMS000	sein	M	S
@@ -4073,7 +4073,7 @@ réglementation	NCFS000	réglementation-n	réglementation	NCFS000	réglementatio
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:26&collection=eptic3">
+<s id="1795:26">
 
 En	SP	en-i	en	SP	en	0	0
 collaboration	NCFS000	collaboration-n	collaboration	NCFS000	collaboration	F	S
@@ -4114,7 +4114,7 @@ application	NCFS000	application-n	application	NCFS000	application	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:27&collection=eptic3">
+<s id="1795:27">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 une	DI0FS0	un-x	une	DI0FS0	un	F	S
@@ -4152,7 +4152,7 @@ feront	VMIF3P0	faire-v	faire	VMIF3P0	faire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1795:28&collection=eptic3">
+<s id="1795:28">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -4226,7 +4226,7 @@ emplois	NCMP000	emploi-n	emploi	NCMP000	emploi	M	P
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1796:1&collection=eptic3">
+<s id="1796:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -4244,7 +4244,7 @@ intense	AQ0CS00	intense-j	intense	AQ0CS00	intense	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:2&collection=eptic3">
+<s id="1796:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 route	NCFS000	route-n	route	NCFS000	route	F	S
@@ -4255,7 +4255,7 @@ longue	AQ0FS00	long-j	longue	AQ0FS00	long	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:3&collection=eptic3">
+<s id="1796:3">
 
 En	SP	en-i	en	SP	en	0	0
 Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
@@ -4279,7 +4279,7 @@ européens	AQ0MP00	européen-j	européen	AQ0MP00	européen	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:4&collection=eptic3">
+<s id="1796:4">
 
 En	SP	en-i	en	SP	en	0	0
 outre	NCFS000	outre-n	outre	NCFS000	outre	F	S
@@ -4310,7 +4310,7 @@ individuelles	AQ0FP00	individuel-j	individuelle	AQ0FP00	individuel	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:5&collection=eptic3">
+<s id="1796:5">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -4352,7 +4352,7 @@ crise	NCFS000	crise-n	crise	NCFS000	crise	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:6&collection=eptic3">
+<s id="1796:6">
 
 De	SP	de-i	de	SP	de	0	0
 nombreux	AQ0MN00	nombreux-j	nombreux	AQ0MN00	nombreux	M	P
@@ -4382,7 +4382,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:7&collection=eptic3">
+<s id="1796:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -4401,7 +4401,7 @@ compromis	NCMN000	compromis-n	compromis	NCMN000	compromis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:8&collection=eptic3">
+<s id="1796:8">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 questions	NCFP000	question-n	question	NCFP000	question	F	P
@@ -4442,7 +4442,7 @@ entreprises	NCFP000	entreprise-n	entreprise	NCFP000	entreprise	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:9&collection=eptic3">
+<s id="1796:9">
 
 Concernant	SP	concernant-i	concernant	SP	concernant	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -4490,7 +4490,7 @@ existants	AQ0MP00	existant-j	existant	AQ0MP00	existant	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1796:10&collection=eptic3">
+<s id="1796:10">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -4571,7 +4571,7 @@ consommateurs	NCMP000	consommateur-n	consommateur	NCMP000	consommateur	M	P
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1797:1&collection=eptic3">
+<s id="1797:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -4632,7 +4632,7 @@ réalisé	VMP00SM	réaliser-v	réalisé	VMP00SM	réaliser	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:2&collection=eptic3">
+<s id="1797:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -4672,7 +4672,7 @@ brio	NCMS000	brio-n	brio	NCMS000	brio	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:3&collection=eptic3">
+<s id="1797:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souhaiterais	VMIC1S0	souhaiter-v	souhaiter	VMIC1S0	souhaiter	0	0
@@ -4719,7 +4719,7 @@ Conseil	NPMS000	Conseil-n	conseil	NPMS000	Conseil	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:4&collection=eptic3">
+<s id="1797:4">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
@@ -4742,7 +4742,7 @@ eux	PP3MP00	eux-p	eux	PP3MP00	eux	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:5&collection=eptic3">
+<s id="1797:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -4768,7 +4768,7 @@ procès-verbal	NCMS000	procès-verbal-n	procès-verbal	NCMS000	procès-verbal	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:6&collection=eptic3">
+<s id="1797:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souhaite	VMIP1S0	souhaiter-v	souhaiter	VMIP1S0	souhaiter	0	0
@@ -4786,7 +4786,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:7&collection=eptic3">
+<s id="1797:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 1	Z	1-m	1	Z	1	0	0
@@ -4826,7 +4826,7 @@ proposition	NCFS000	proposition-n	proposition	NCFS000	proposition	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:8&collection=eptic3">
+<s id="1797:8">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -4859,7 +4859,7 @@ sérieusement	RG	sérieusement-r	sérieusement	RG	sérieusement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1797:9&collection=eptic3">
+<s id="1797:9">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -4936,7 +4936,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1798:1&collection=eptic3">
+<s id="1798:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -4962,7 +4962,7 @@ soir	NCMS000	soir-n	soir	NCMS000	soir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:2&collection=eptic3">
+<s id="1798:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -5020,7 +5020,7 @@ eue	VMP00SF	avoir-v	eue	VMP00SF	avoir	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:3&collection=eptic3">
+<s id="1798:3">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -5063,7 +5063,7 @@ insérer	VMN0000	insérer-v	insérer	VMN0000	insérer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:4&collection=eptic3">
+<s id="1798:4">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -5101,7 +5101,7 @@ victoire	NCFS000	victoire-n	victoire	NCFS000	victoire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:5&collection=eptic3">
+<s id="1798:5">
 
 Quelque	DI0CS0	quelque-x	quelque	DI0CS0	quelque	F	S
 chose	NCFS000	chose-n	chose	NCFS000	chose	F	S
@@ -5119,7 +5119,7 @@ débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:6&collection=eptic3">
+<s id="1798:6">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 secteur	NCMS000	secteur-n	secteur	NCMS000	secteur	M	S
@@ -5235,7 +5235,7 @@ emploi	NCMS000	emploi-n	emploi	NCMS000	emploi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1798:7&collection=eptic3">
+<s id="1798:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -5305,7 +5305,7 @@ certainement	RG	certainement-r	certainement	RG	certainement	0	0
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1799:1&collection=eptic3">
+<s id="1799:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -5342,7 +5342,7 @@ Allemagne	NPFS000	Allemagne-n	allemagne	NPFS000	Allemagne	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:2&collection=eptic3">
+<s id="1799:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 services	NCMP000	service-n	service	NCMP000	service	M	P
@@ -5365,7 +5365,7 @@ compétentes	AQ0FP00	compétent-j	compétente	AQ0FP00	compétent	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:3&collection=eptic3">
+<s id="1799:3">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -5398,7 +5398,7 @@ efficace	AQ0CS00	efficace-j	efficace	AQ0CS00	efficace	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:4&collection=eptic3">
+<s id="1799:4">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -5489,7 +5489,7 @@ autocontrôle	VMIP3S0	autocontrôler-v	autocontrôler	VMIP3S0	autocontrôler	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:5&collection=eptic3">
+<s id="1799:5">
 
 Entre	SP	entre-i	entre	SP	entre	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -5539,7 +5539,7 @@ technique	AQ0CS00	technique-j	technique	AQ0CS00	technique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:6&collection=eptic3">
+<s id="1799:6">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 dernière	AQ0FS00	dernier-j	dernière	AQ0FS00	dernier	F	S
@@ -5559,7 +5559,7 @@ enregistré	VMP00SM	enregistrer-v	enregistré	VMP00SM	enregistrer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:7&collection=eptic3">
+<s id="1799:7">
 
 Apparemment	RG	apparemment-r	apparemment	RG	apparemment	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -5578,7 +5578,7 @@ mélangées	VMP00PF	mélanger-v	mélangée	VMP00PF	mélanger	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:8&collection=eptic3">
+<s id="1799:8">
 
 Quatre	NCMN000	quatre-n	quatre	NCMN000	quatre	M	S,P
 de	SP	de-i	de	SP	de	0	0
@@ -5605,7 +5605,7 @@ dioxines	NCFP000	dioxine-n	dioxine	NCFP000	dioxine	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:9&collection=eptic3">
+<s id="1799:9">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 trois	NCMN000	trois-n	trois	NCMN000	trois	M	P
@@ -5635,7 +5635,7 @@ contaminés	VMP00PM	contaminer-v	contaminé	VMP00PM	contaminer	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:10&collection=eptic3">
+<s id="1799:10">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -5669,7 +5669,7 @@ contaminés	VMP00PM	contaminer-v	contaminé	VMP00PM	contaminer	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:11&collection=eptic3">
+<s id="1799:11">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 total	NCMS000	total-n	total	NCMS000	total	M	S
@@ -5698,7 +5698,7 @@ Allemagne	NPFS000	Allemagne-n	allemagne	NPFS000	Allemagne	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:12&collection=eptic3">
+<s id="1799:12">
 
 Aucune	DI0FS0	aucun-x	aucune	DI0FS0	aucun	F	S
 livraison	NCFS000	livraison-n	livraison	NCFS000	livraison	F	S
@@ -5720,7 +5720,7 @@ Allemagne	NPFS000	Allemagne-n	allemagne	NPFS000	Allemagne	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:13&collection=eptic3">
+<s id="1799:13">
 
 Entre	SP	entre-i	entre	SP	entre	0	0
 100000	Z	100000-m	100000	Z	100000	0	0
@@ -5756,7 +5756,7 @@ allemandes	AQ0FP00	allemand-j	allemande	AQ0FP00	allemand	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:14&collection=eptic3">
+<s id="1799:14">
 
 Par	SP	par-i	par	SP	par	0	0
 pure	AQ0FS00	pur-j	pure	AQ0FS00	pur	F	S
@@ -5771,7 +5771,7 @@ fermées	VMP00PF	fermer-v	fermée	VMP00PF	fermer	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:15&collection=eptic3">
+<s id="1799:15">
 
 Leurs	DP3CPP	leur-x	leur	DP3CPP	leur	F	P
 activités	NCFP000	activité-n	activité	NCFP000	activité	F	P
@@ -5782,7 +5782,7 @@ suspendues	VMP00PF	suspendre-v	suspendue	VMP00PF	suspendre	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:16&collection=eptic3">
+<s id="1799:16">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 mesures	NCFP000	mesure-n	mesure	NCFP000	mesure	F	P
@@ -5822,7 +5822,7 @@ lapins	NCMP000	lapin-n	lapin	NCMP000	lapin	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:17&collection=eptic3">
+<s id="1799:17">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
 aliments	NCMP000	aliment-n	aliment	NCMP000	aliment	M	P
@@ -5848,7 +5848,7 @@ Danemark	NPMS000	Danemark-n	danemark	NPMS000	Danemark	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:18&collection=eptic3">
+<s id="1799:18">
 
 Aucun	DI0MS0	aucun-x	aucun	DI0MS0	aucun	M	S
 aliment	NCMS000	aliment-n	aliment	NCMS000	aliment	M	S
@@ -5884,7 +5884,7 @@ rouvertes	VMP00PF	rouvrir-v	rouverte	VMP00PF	rouvrir	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:19&collection=eptic3">
+<s id="1799:19">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -5934,7 +5934,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:20&collection=eptic3">
+<s id="1799:20">
 
 Sur	SP	sur-i	sur	SP	sur	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
@@ -5967,7 +5967,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:21&collection=eptic3">
+<s id="1799:21">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 semble	VMIP1S0	sembler-v	sembler	VMIP1S0	sembler	0	0
@@ -6006,7 +6006,7 @@ près	RG	près-r	près	RG	près	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:22&collection=eptic3">
+<s id="1799:22">
 
 Finalement	RG	finalement-r	finalement	RG	finalement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -6033,7 +6033,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:23&collection=eptic3">
+<s id="1799:23">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 démontre	VMIP3S0	démontrer-v	démontrer	VMIP3S0	démontrer	0	0
@@ -6061,7 +6061,7 @@ plan	NCMS000	plan-n	plan	NCMS000	plan	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:24&collection=eptic3">
+<s id="1799:24">
 
 Heureusement	RG	heureusement-r	heureusement	RG	heureusement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -6096,7 +6096,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:25&collection=eptic3">
+<s id="1799:25">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -6127,7 +6127,7 @@ limitée	VMP00SF	limiter-v	limitée	VMP00SF	limiter	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:26&collection=eptic3">
+<s id="1799:26">
 
 Qu	NPMS000	Qu-n	qu	NPMS000	Qu	M	S
 <g/>
@@ -6147,7 +6147,7 @@ incident	AQ0MS00	incident-j	incident	AQ0MS00	incident	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1799:27&collection=eptic3">
+<s id="1799:27">
 
 Mes	DP1CPS	mon-x	mon	DP1CPS	mon	M	P
 services	NCMP000	service-n	service	NCMP000	service	M	P
@@ -6194,7 +6194,7 @@ animaux	NCMP000	animal-n	animal	NCMP000	animal	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:28&collection=eptic3">
+<s id="1799:28">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
@@ -6224,7 +6224,7 @@ commerciaux	AQ0MP00	commercial-j	commercial	AQ0MP00	commercial	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:29&collection=eptic3">
+<s id="1799:29">
 
 Par	SP	par-i	par	SP	par	0	0
 ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
@@ -6261,7 +6261,7 @@ animaux	NCMP000	animal-n	animal	NCMP000	animal	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:30&collection=eptic3">
+<s id="1799:30">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -6329,7 +6329,7 @@ genre	NCMS000	genre-n	genre	NCMS000	genre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:31&collection=eptic3">
+<s id="1799:31">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -6348,7 +6348,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:32&collection=eptic3">
+<s id="1799:32">
 
 En	SP	en-i	en	SP	en	0	0
 effet	NCMS000	effet-n	effet	NCMS000	effet	M	S
@@ -6437,7 +6437,7 @@ supplémentaires	AQ0CP00	supplémentaire-j	supplémentaire	AQ0CP00	supplémentai
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:33&collection=eptic3">
+<s id="1799:33">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 question	NCFS000	question-n	question	NCFS000	question	F	S
@@ -6464,7 +6464,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:34&collection=eptic3">
+<s id="1799:34">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 d	NCMS000	d-n	d	NCMS000	d	M	S
@@ -6505,7 +6505,7 @@ décisive	AQ0FS00	décisif-j	décisive	AQ0FS00	décisif	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:35&collection=eptic3">
+<s id="1799:35">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -6540,7 +6540,7 @@ délais	NCMP000	délai-n	délai	NCMP000	délai	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:36&collection=eptic3">
+<s id="1799:36">
 
 Néanmoins	RG	néanmoins-r	néanmoins	RG	néanmoins	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -6575,7 +6575,7 @@ urgence	NCFS000	urgence-n	urgence	NCFS000	urgence	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:37&collection=eptic3">
+<s id="1799:37">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -6639,7 +6639,7 @@ avenir	NCMS000	avenir-n	avenir	NCMS000	avenir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:38&collection=eptic3">
+<s id="1799:38">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 autorités	NCFP000	autorité-n	autorité	NCFP000	autorité	F	P
@@ -6657,7 +6657,7 @@ consentent	VMIP3P0	consentir-v	consentir	VMIP3P0	consentir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:39&collection=eptic3">
+<s id="1799:39">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -6676,7 +6676,7 @@ allemands	AQ0MP00	allemand-j	allemand	AQ0MP00	allemand	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:40&collection=eptic3">
+<s id="1799:40">
 
 Cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 incident	NCMS000	incident-n	incident	NCMS000	incident	M	S
@@ -6707,7 +6707,7 @@ janvier	NCMS000	janvier-n	janvier	NCMS000	janvier	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:41&collection=eptic3">
+<s id="1799:41">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -6731,7 +6731,7 @@ notamment	RG	notamment-r	notamment	RG	notamment	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:42&collection=eptic3">
+<s id="1799:42">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -6795,7 +6795,7 @@ animaux	NCMP000	animal-n	animal	NCMP000	animal	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:43&collection=eptic3">
+<s id="1799:43">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 résoudre	VMN0000	résoudre-v	résoudre	VMN0000	résoudre	0	0
@@ -6872,7 +6872,7 @@ alimentaires	AQ0CP00	alimentaire-j	alimentaire	AQ0CP00	alimentaire	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1799:44&collection=eptic3">
+<s id="1799:44">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -6924,7 +6924,7 @@ solides	AQ0CP00	solide-j	solide	AQ0CP00	solide	M,F	P
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1800:1&collection=eptic3">
+<s id="1800:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -6947,7 +6947,7 @@ allemands	AQ0MP00	allemand-j	allemand	AQ0MP00	allemand	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:2&collection=eptic3">
+<s id="1800:2">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -6980,7 +6980,7 @@ similaire	AQ0CS00	similaire-j	similaire	AQ0CS00	similaire	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:3&collection=eptic3">
+<s id="1800:3">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
@@ -7003,7 +7003,7 @@ responsabilité	NCFS000	responsabilité-n	responsabilité	NCFS000	responsabilit�
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:4&collection=eptic3">
+<s id="1800:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -7036,7 +7036,7 @@ histoire	NCFS000	histoire-n	histoire	NCFS000	histoire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:5&collection=eptic3">
+<s id="1800:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -7072,7 +7072,7 @@ extraordinaires	AQ0CP00	extraordinaire-j	extraordinaire	AQ0CP00	extraordinaire	M
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:6&collection=eptic3">
+<s id="1800:6">
 
 Si	RG	si-r	si	RG	si	0	0
 tel	AQ0MS00	tel-j	tel	AQ0MS00	tel	M	S
@@ -7087,7 +7087,7 @@ poursuivies	VMP00PF	poursuivre-v	poursuivie	VMP00PF	poursuivre	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:7&collection=eptic3">
+<s id="1800:7">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -7111,7 +7111,7 @@ responsables	AQ0CP00	responsable-j	responsable	AQ0CP00	responsable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:8&collection=eptic3">
+<s id="1800:8">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
@@ -7134,7 +7134,7 @@ responsables	AQ0CP00	responsable-j	responsable	AQ0CP00	responsable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:9&collection=eptic3">
+<s id="1800:9">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -7161,7 +7161,7 @@ consommateur	NCMS000	consommateur-n	consommateur	NCMS000	consommateur	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:10&collection=eptic3">
+<s id="1800:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 comprends	VMIP1S0	comprendre-v	comprendre	VMIP1S0	comprendre	0	0
@@ -7178,7 +7178,7 @@ actuellement	RG	actuellement-r	actuellement	RG	actuellement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:11&collection=eptic3">
+<s id="1800:11">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -7207,7 +7207,7 @@ reproduire	VMN0000	reproduire-v	reproduire	VMN0000	reproduire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:12&collection=eptic3">
+<s id="1800:12">
 
 Évitons	VMM01P0	éviter-v	éviter	VMM01P0	éviter	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -7224,7 +7224,7 @@ dispositions	NCFP000	disposition-n	disposition	NCFP000	disposition	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1800:13&collection=eptic3">
+<s id="1800:13">
 
 Appliquons	VMM01P0	appliquer-v	appliquer	VMM01P0	appliquer	0	0
 celles	PD0FP00	celui-p	celui	PD0FP00	celui	0	0
@@ -7242,7 +7242,7 @@ avons	VMIP1P0	avoir-v	avoir	VMIP1P0	avoir	0	0
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1801:1&collection=eptic3">
+<s id="1801:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -7272,7 +7272,7 @@ britannique	AQ0CS00	britannique-j	britannique	AQ0CS00	britannique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:2&collection=eptic3">
+<s id="1801:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 contamination	NCFS000	contamination-n	contamination	NCFS000	contamination	F	S
@@ -7311,7 +7311,7 @@ animale	AQ0FS00	animal-j	animale	AQ0FS00	animal	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:3&collection=eptic3">
+<s id="1801:3">
 
 Par	SP	par-i	par	SP	par	0	0
 opposition	NCFS000	opposition-n	opposition	NCFS000	opposition	F	S
@@ -7333,7 +7333,7 @@ exigeant	AQ0MS00	exigeant-j	exigeant	AQ0MS00	exigeant	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:4&collection=eptic3">
+<s id="1801:4">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -7362,7 +7362,7 @@ inattendues	AQ0FP00	inattendu-j	inattendue	AQ0FP00	inattendu	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:5&collection=eptic3">
+<s id="1801:5">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -7379,7 +7379,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:6&collection=eptic3">
+<s id="1801:6">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -7402,7 +7402,7 @@ nécessaire	AQ0CS00	nécessaire-j	nécessaire	AQ0CS00	nécessaire	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:7&collection=eptic3">
+<s id="1801:7">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 Allemands	NPMP000	Allemands-n	allemands	NPMP000	Allemands	M	P
@@ -7425,7 +7425,7 @@ requises	VMP00PF	requérir-v	requise	VMP00PF	requérir	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:8&collection=eptic3">
+<s id="1801:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -7448,7 +7448,7 @@ Code	NPMS000	Code-n	code	NPMS000	Code	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:9&collection=eptic3">
+<s id="1801:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 couvre	VMIP3S0	couvrir-v	couvrir	VMIP3S0	couvrir	0	0
@@ -7486,7 +7486,7 @@ improbables	AQ0CP00	improbable-j	improbable	AQ0CP00	improbable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1801:10&collection=eptic3">
+<s id="1801:10">
 
 Aussi	RG	aussi-r	aussi	RG	aussi	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -7536,7 +7536,7 @@ fournir	VMN0000	fournir-v	fournir	VMN0000	fournir	0	0
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1802:1&collection=eptic3">
+<s id="1802:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -7600,7 +7600,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1802:2&collection=eptic3">
+<s id="1802:2">
 
 En	SP	en-i	en	SP	en	0	0
 effet	NCMS000	effet-n	effet	NCMS000	effet	M	S
@@ -7667,7 +7667,7 @@ transformés	VMP00PM	transformer-v	transformé	VMP00PM	transformer	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1802:3&collection=eptic3">
+<s id="1802:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 traçabilité	NCFS000	traçabilité-n	traçabilité	NCFS000	traçabilité	F	S
@@ -7729,7 +7729,7 @@ consommateurs	NCMP000	consommateur-n	consommateur	NCMP000	consommateur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1802:4&collection=eptic3">
+<s id="1802:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souhaiterais	VMIC1S0	souhaiter-v	souhaiter	VMIC1S0	souhaiter	0	0
@@ -7744,7 +7744,7 @@ Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1802:5&collection=eptic3">
+<s id="1802:5">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -7787,7 +7787,7 @@ transformés	VMP00PM	transformer-v	transformé	VMP00PM	transformer	M	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1802:6&collection=eptic3">
+<s id="1802:6">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -7830,7 +7830,7 @@ sanitaires	AQ0CP00	sanitaire-j	sanitaire	AQ0CP00	sanitaire	F	P
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1804:1&collection=eptic3">
+<s id="1804:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -7856,7 +7856,7 @@ décembre	NCMS000	décembre-n	décembre	NCMS000	décembre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:2&collection=eptic3">
+<s id="1804:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -7881,7 +7881,7 @@ actuelle	AQ0FS00	actuel-j	actuelle	AQ0FS00	actuel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:3&collection=eptic3">
+<s id="1804:3">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -7920,7 +7920,7 @@ consommateurs	NCMP000	consommateur-n	consommateur	NCMP000	consommateur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:4&collection=eptic3">
+<s id="1804:4">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -7945,7 +7945,7 @@ atelier	NCMS000	atelier-n	atelier	NCMS000	atelier	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:5&collection=eptic3">
+<s id="1804:5">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 engagerez-vous	VMIF2P0	engager-v	engager	VMIF2P0,PP2CP00	engager,vous	0	0
@@ -7963,7 +7963,7 @@ demandent	VMIP3P0	demander-v	demander	VMIP3P0	demander	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1804:6&collection=eptic3">
+<s id="1804:6">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -7977,7 +7977,7 @@ formuler	VMN0000	formuler-v	formuler	VMN0000	formuler	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:7&collection=eptic3">
+<s id="1804:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -8007,7 +8007,7 @@ risque	NCMS000	risque-n	risque	NCMS000	risque	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:8&collection=eptic3">
+<s id="1804:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -8045,7 +8045,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:9&collection=eptic3">
+<s id="1804:9">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -8057,7 +8057,7 @@ compliqué	VMP00SM	compliquer-v	compliqué	VMP00SM	compliquer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:10&collection=eptic3">
+<s id="1804:10">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -8103,7 +8103,7 @@ enrichir	VMN0000	enrichir-v	enrichir	VMN0000	enrichir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:11&collection=eptic3">
+<s id="1804:11">
 
 Réduire	VMN0000	réduire-v	réduire	VMN0000	réduire	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -8123,7 +8123,7 @@ ficelles	NCFP000	ficelle-n	ficelle	NCFP000	ficelle	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:12&collection=eptic3">
+<s id="1804:12">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
@@ -8145,7 +8145,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1804:13&collection=eptic3">
+<s id="1804:13">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 affecte	VMIP3S0	affecter-v	affecter	VMIP3S0	affecter	0	0
@@ -8166,7 +8166,7 @@ et	CC	et-c	et	CC	et	0	0
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1805:1&collection=eptic3">
+<s id="1805:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -8187,7 +8187,7 @@ ans	NCMP000	an-n	an	NCMP000	an	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:2&collection=eptic3">
+<s id="1805:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pensais	VMII1S0	penser-v	penser	VMII1S0	penser	0	0
@@ -8231,7 +8231,7 @@ celui-ci	PD0MS00	celui-ci-p	celui-ci	PD0MS00	celui-ci	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:3&collection=eptic3">
+<s id="1805:3">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
@@ -8243,7 +8243,7 @@ sérieuses	AQ0FP00	sérieux-j	sérieuse	AQ0FP00	sérieux	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:4&collection=eptic3">
+<s id="1805:4">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -8274,7 +8274,7 @@ innocents	AQ0MP00	innocent-j	innocent	AQ0MP00	innocent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:5&collection=eptic3">
+<s id="1805:5">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
@@ -8302,7 +8302,7 @@ agroalimentaire	AQ0CS00	agroalimentaire-j	agroalimentaire	AQ0CS00	agroalimentair
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:6&collection=eptic3">
+<s id="1805:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -8346,7 +8346,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1805:7&collection=eptic3">
+<s id="1805:7">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -8413,7 +8413,7 @@ action	NCFS000	action-n	action	NCFS000	action	F	S
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1806:1&collection=eptic3">
+<s id="1806:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -8457,7 +8457,7 @@ contiennent	VMIP3P0	contenir-v	contenir	VMIP3P0	contenir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:2&collection=eptic3">
+<s id="1806:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 forêts	NCFP000	forêt-n	forêt	NCFP000	forêt	F	P
@@ -8488,7 +8488,7 @@ planète	NCFS000	planète-n	planète	NCFS000	planète	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:3&collection=eptic3">
+<s id="1806:3">
 
 Elles	PP3FP00	elles-p	elles	PP3FP00	elles	0	0
 sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
@@ -8512,7 +8512,7 @@ carbone	NCMS000	carbone-n	carbone	NCMS000	carbone	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:4&collection=eptic3">
+<s id="1806:4">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -8560,7 +8560,7 @@ années	NCFP000	année-n	année	NCFP000	année	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:5&collection=eptic3">
+<s id="1806:5">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M,F	P
 2	Z	2-m	2	Z	2	0	0
@@ -8592,7 +8592,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:6&collection=eptic3">
+<s id="1806:6">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -8614,7 +8614,7 @@ problématiques	AQ0CP00	problématique-j	problématique	AQ0CP00	problématique	M
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:7&collection=eptic3">
+<s id="1806:7">
 
 Dieu	NCMS000	dieu-n	dieu	NCMS000	dieu	M	S
 sait	VMIP3S0	savoir-v	savoir	VMIP3S0	savoir	0	0
@@ -8638,7 +8638,7 @@ continent	NCMS000	continent-n	continent	NCMS000	continent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:8&collection=eptic3">
+<s id="1806:8">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -8655,7 +8655,7 @@ réjouir	VMN0000	réjouir-v	réjouir	VMN0000	réjouir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:9&collection=eptic3">
+<s id="1806:9">
 
 Une	DI0FS0	un-x	une	DI0FS0	un	F	S
 gestion	NCFS000	gestion-n	gestion	NCFS000	gestion	F	S
@@ -8674,7 +8674,7 @@ durables	AQ0CP00	durable-j	durable	AQ0CP00	durable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:10&collection=eptic3">
+<s id="1806:10">
 
 Actuellement	RG	actuellement-r	actuellement	RG	actuellement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -8733,7 +8733,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:11&collection=eptic3">
+<s id="1806:11">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 mise	NCFS000	mise-n	mise	NCFS000	mise	F	S
@@ -8784,7 +8784,7 @@ considération	NCFS000	considération-n	considération	NCFS000	considération	F	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:12&collection=eptic3">
+<s id="1806:12">
 
 Après	SP	après-i	après	SP	après	0	0
 tout	PI0MS00	tout-p	tout	PI0MS00	tout	M	S
@@ -8805,7 +8805,7 @@ disparaît	VMIP3S0	disparaître-v	disparaître	VMIP3S0	disparaître	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:13&collection=eptic3">
+<s id="1806:13">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 disparition	NCFS000	disparition-n	disparition	NCFS000	disparition	F	S
@@ -8832,7 +8832,7 @@ habitations	NCFP000	habitation-n	habitation	NCFP000	habitation	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:14&collection=eptic3">
+<s id="1806:14">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -8879,7 +8879,7 @@ maturité	NCFS000	maturité-n	maturité	NCFS000	maturité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:15&collection=eptic3">
+<s id="1806:15">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -8923,7 +8923,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:16&collection=eptic3">
+<s id="1806:16">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
@@ -8945,7 +8945,7 @@ opposer	VMN0000	opposer-v	opposer	VMN0000	opposer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:17&collection=eptic3">
+<s id="1806:17">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -8975,7 +8975,7 @@ vendre	VMN0000	vendre-v	vendre	VMN0000	vendre	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:18&collection=eptic3">
+<s id="1806:18">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 connaît	VMIP3S0	connaître-v	connaître	VMIP3S0	connaître	0	0
@@ -8997,7 +8997,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:19&collection=eptic3">
+<s id="1806:19">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 gens	NCMP000	gens-n	gens	NCMP000	gens	M	P
@@ -9024,7 +9024,7 @@ accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:20&collection=eptic3">
+<s id="1806:20">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ont	VMIP3P0	avoir-v	avoir	VMIP3P0	avoir	0	0
@@ -9042,7 +9042,7 @@ inquiétudes	NCFP000	inquiétude-n	inquiétude	NCFP000	inquiétude	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:21&collection=eptic3">
+<s id="1806:21">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
@@ -9067,7 +9067,7 @@ respecter	VMN0000	respecter-v	respecter	VMN0000	respecter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:22&collection=eptic3">
+<s id="1806:22">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 APV	NPFS000	APV-n	apv	NPFS000	APV	F	S
@@ -9097,7 +9097,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:23&collection=eptic3">
+<s id="1806:23">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -9121,7 +9121,7 @@ traitée	VMP00SF	traiter-v	traitée	VMP00SF	traiter	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1806:24&collection=eptic3">
+<s id="1806:24">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -9188,7 +9188,7 @@ parvenir	VMN0000	parvenir-v	parvenir	VMN0000	parvenir	0	0
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1807:1&collection=eptic3">
+<s id="1807:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -9214,7 +9214,7 @@ fictifs	AQ0MP00	fictif-j	fictif	AQ0MP00	fictif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:2&collection=eptic3">
+<s id="1807:2">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -9230,7 +9230,7 @@ rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:3&collection=eptic3">
+<s id="1807:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -9256,7 +9256,7 @@ consensus	NCMN000	consensus-n	consensus	NCMN000	consensus	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:4&collection=eptic3">
+<s id="1807:4">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
@@ -9298,7 +9298,7 @@ volontaires	AQ0CP00	volontaire-j	volontaire	AQ0CP00	volontaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:5&collection=eptic3">
+<s id="1807:5">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -9326,7 +9326,7 @@ chaleureusement	RG	chaleureusement-r	chaleureusement	RG	chaleureusement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:6&collection=eptic3">
+<s id="1807:6">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 établissent	VMIP3P0	établir-v	établir	VMIP3P0	établir	0	0
@@ -9343,7 +9343,7 @@ bois	NCMN000	bois-n	bois	NCMN000	bois	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:7&collection=eptic3">
+<s id="1807:7">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -9385,7 +9385,7 @@ Afrique	NPFS000	Afrique-n	afrique	NPFS000	Afrique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:8&collection=eptic3">
+<s id="1807:8">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -9406,7 +9406,7 @@ rapporteur	NCMS000	rapporteur-n	rapporteur	NCMS000	rapporteur	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:9&collection=eptic3">
+<s id="1807:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -9419,7 +9419,7 @@ après-midi	NCCS000	après-midi-n	après-midi	NCCS000	après-midi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:10&collection=eptic3">
+<s id="1807:10">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -9527,7 +9527,7 @@ d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:11&collection=eptic3">
+<s id="1807:11">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 que	PR00000	que-p	que	PR00000	que	0	0
@@ -9557,7 +9557,7 @@ biodiversité	NCFS000	biodiversité-n	biodiversité	NCFS000	biodiversité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:12&collection=eptic3">
+<s id="1807:12">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -9608,7 +9608,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:13&collection=eptic3">
+<s id="1807:13">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -9641,7 +9641,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:14&collection=eptic3">
+<s id="1807:14">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -9696,7 +9696,7 @@ concrétisé	VMP00SM	concrétiser-v	concrétisé	VMP00SM	concrétiser	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:15&collection=eptic3">
+<s id="1807:15">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -9745,7 +9745,7 @@ congolaise	AQ0FS00	congolais-j	congolaise	AQ0FS00	congolais	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:16&collection=eptic3">
+<s id="1807:16">
 
 Troisièmement	NP00000	Troisièmement-n	troisièmement	NP00000	Troisièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -9785,7 +9785,7 @@ appropriée	VMP00SF	approprier-v	appropriée	VMP00SF	approprier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:17&collection=eptic3">
+<s id="1807:17">
 
 Quelle	DT0FS0	quel-x	quelle	DT0FS0	quel	F	S
 que	CS	que-c	que	CS	que	0	0
@@ -9829,7 +9829,7 @@ valeur	NCFS000	valeur-n	valeur	NCFS000	valeur	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:18&collection=eptic3">
+<s id="1807:18">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -9857,7 +9857,7 @@ financière	AQ0FS00	financier-j	financière	AQ0FS00	financier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:19&collection=eptic3">
+<s id="1807:19">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -9873,7 +9873,7 @@ fonctionne	VMIP3S0	fonctionner-v	fonctionner	VMIP3S0	fonctionner	0	0
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1807:20&collection=eptic3">
+<s id="1807:20">
 
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -9899,7 +9899,7 @@ requis	NCMN000	requis-n	requis	NCMN000	requis	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:21&collection=eptic3">
+<s id="1807:21">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -9977,7 +9977,7 @@ d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:22&collection=eptic3">
+<s id="1807:22">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devrons	VMIF1P0	devoir-v	devoir	VMIF1P0	devoir	0	0
@@ -10007,7 +10007,7 @@ accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:23&collection=eptic3">
+<s id="1807:23">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 le	PP3MSA0	le-p	le	PP3MSA0	le	M	S
@@ -10077,7 +10077,7 @@ pratique	NCFS000	pratique-n	pratique	NCFS000	pratique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:24&collection=eptic3">
+<s id="1807:24">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 doivent	VMIP3P0	devoir-v	devoir	VMIP3P0	devoir	0	0
@@ -10102,7 +10102,7 @@ vitales	AQ0FP00	vital-j	vitale	AQ0FP00	vital	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:25&collection=eptic3">
+<s id="1807:25">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -10120,7 +10120,7 @@ inverse	AQ0CS00	inverse-j	inverse	AQ0CS00	inverse	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1807:26&collection=eptic3">
+<s id="1807:26">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 demandons	VMIP1P0	demander-v	demander	VMIP1P0	demander	0	0
@@ -10147,7 +10147,7 @@ réalisés	VMP00PM	réaliser-v	réalisé	VMP00PM	réaliser	M	P
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1808:1&collection=eptic3">
+<s id="1808:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -10170,7 +10170,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:2&collection=eptic3">
+<s id="1808:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 salue	VMIP3S0	saluer-v	saluer	VMIP3S0	saluer	0	0
@@ -10221,7 +10221,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:3&collection=eptic3">
+<s id="1808:3">
 
 Signalons	VMM01P0	signaler-v	signaler	VMM01P0	signaler	0	0
 d	RG	d-r	d	RG	d	0	0
@@ -10246,7 +10246,7 @@ répressifs	AQ0MP00	répressif-j	répressif	AQ0MP00	répressif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:4&collection=eptic3">
+<s id="1808:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Cameroun	NPMS000	Cameroun-n	cameroun	NPMS000	Cameroun	M	S
@@ -10328,7 +10328,7 @@ indigènes	AQ0CP00	indigène-j	indigène	AQ0CP00	indigène	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:5&collection=eptic3">
+<s id="1808:5">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 secteur	NCMS000	secteur-n	secteur	NCMS000	secteur	M	S
@@ -10372,7 +10372,7 @@ indigènes	AQ0CP00	indigène-j	indigène	AQ0CP00	indigène	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:6&collection=eptic3">
+<s id="1808:6">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -10438,7 +10438,7 @@ abattage	NCMS000	abattage-n	abattage	NCMS000	abattage	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:7&collection=eptic3">
+<s id="1808:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 résolution	NCFS000	résolution-n	résolution	NCFS000	résolution	F	S
@@ -10469,7 +10469,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:8&collection=eptic3">
+<s id="1808:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 peut	VMIP3S0	pouvoir-v	pouvoir	VMIP3S0	pouvoir	0	0
@@ -10496,7 +10496,7 @@ activité	NCFS000	activité-n	activité	NCFS000	activité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:9&collection=eptic3">
+<s id="1808:9">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -10528,7 +10528,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:10&collection=eptic3">
+<s id="1808:10">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -10581,7 +10581,7 @@ ressources	NCFP000	ressource-n	ressource	NCFP000	ressource	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1808:11&collection=eptic3">
+<s id="1808:11">
 
 Sur	SP	sur-i	sur	SP	sur	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -10631,7 +10631,7 @@ semaines	NCFP000	semaine-n	semaine	NCFP000	semaine	F	P
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="809" duration="long" durations="397.0" speed="slow" speedwm="122.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1809:1&collection=eptic3">
+<s id="1809:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -10684,7 +10684,7 @@ Cameroun	NPMS000	Cameroun-n	cameroun	NPMS000	Cameroun	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:2&collection=eptic3">
+<s id="1809:2">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -10712,7 +10712,7 @@ accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:3&collection=eptic3">
+<s id="1809:3">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 inciterait	VMIC3S0	inciter-v	inciter	VMIC3S0	inciter	0	0
@@ -10729,7 +10729,7 @@ examen	NCMS000	examen-n	examen	NCMS000	examen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:4&collection=eptic3">
+<s id="1809:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -10762,7 +10762,7 @@ tous	PI0MP00	tout-p	tout	PI0MP00	tout	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:5&collection=eptic3">
+<s id="1809:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -10787,7 +10787,7 @@ iceberg	NCMS000	iceberg-n	iceberg	NCMS000	iceberg	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:6&collection=eptic3">
+<s id="1809:6">
 
 En	SP	en-i	en	SP	en	0	0
 somme	NCCS000	somme-n	somme	NCCS000	somme	M,F	S
@@ -10808,7 +10808,7 @@ forestières	AQ0FP00	forestier-j	forestière	AQ0FP00	forestier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:7&collection=eptic3">
+<s id="1809:7">
 
 Et	CC	et-c	et	CC	et	0	0
 pour	SP	pour-i	pour	SP	pour	0	0
@@ -10861,7 +10861,7 @@ accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:8&collection=eptic3">
+<s id="1809:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -10876,7 +10876,7 @@ engagement	NCMS000	engagement-n	engagement	NCMS000	engagement	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:9&collection=eptic3">
+<s id="1809:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -10927,7 +10927,7 @@ déclarations	NCFP000	déclaration-n	déclaration	NCFP000	déclaration	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:10&collection=eptic3">
+<s id="1809:10">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -10961,7 +10961,7 @@ important	AQ0MS00	important-j	important	AQ0MS00	important	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:11&collection=eptic3">
+<s id="1809:11">
 
 Chaque	DI0CS0	chaque-x	chaque	DI0CS0	chaque	F	S
 année	NCFS000	année-n	année	NCFS000	année	F	S
@@ -10979,7 +10979,7 @@ perdus	VMP00PM	perdre-v	perdu	VMP00PM	perdre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:12&collection=eptic3">
+<s id="1809:12">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -11010,7 +11010,7 @@ climatique	AQ0CS00	climatique-j	climatique	AQ0CS00	climatique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:13&collection=eptic3">
+<s id="1809:13">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -11042,7 +11042,7 @@ tropical	AQ0MS00	tropical-j	tropical	AQ0MS00	tropical	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:14&collection=eptic3">
+<s id="1809:14">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 signifie	VMIP1S0	signifier-v	signifier	VMIP1S0	signifier	0	0
@@ -11083,7 +11083,7 @@ illégales	AQ0FP00	illégal-j	illégale	AQ0FP00	illégal	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:15&collection=eptic3">
+<s id="1809:15">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -11108,7 +11108,7 @@ légal	AQ0MS00	légal-j	légal	AQ0MS00	légal	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:16&collection=eptic3">
+<s id="1809:16">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 changement	NCMS000	changement-n	changement	NCMS000	changement	M	S
@@ -11137,7 +11137,7 @@ part	NCCS000	part-n	part	NCCS000	part	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:17&collection=eptic3">
+<s id="1809:17">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -11177,7 +11177,7 @@ parties	NCFP000	partie-n	partie	NCFP000	partie	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:18&collection=eptic3">
+<s id="1809:18">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 m	NCMS000	m-n	m	NCMS000	m	M	S
@@ -11199,7 +11199,7 @@ posées	VMP00PF	poser-v	posée	VMP00PF	poser	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:19&collection=eptic3">
+<s id="1809:19">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -11236,7 +11236,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:20&collection=eptic3">
+<s id="1809:20">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 créera	VMIF3S0	créer-v	créer	VMIF3S0	créer	0	0
@@ -11260,7 +11260,7 @@ efficacité	NCFS000	efficacité-n	efficacité	NCFS000	efficacité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:21&collection=eptic3">
+<s id="1809:21">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 existe	VMIP1S0	exister-v	exister	VMIP1S0	exister	0	0
@@ -11273,7 +11273,7 @@ annuel	AQ0MS00	annuel-j	annuel	AQ0MS00	annuel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:22&collection=eptic3">
+<s id="1809:22">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -11295,7 +11295,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:23&collection=eptic3">
+<s id="1809:23">
 
 Par	SP	par-i	par	SP	par	0	0
 ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
@@ -11319,7 +11319,7 @@ indigènes	AQ0CP00	indigène-j	indigène	AQ0CP00	indigène	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:24&collection=eptic3">
+<s id="1809:24">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 avaient	VAII3P0	avoir-v	avoir	VAII3P0	avoir	0	0
@@ -11341,7 +11341,7 @@ présent	NCMS000	présent-n	présent	NCMS000	présent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:25&collection=eptic3">
+<s id="1809:25">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VMIP1P0	avoir-v	avoir	VMIP1P0	avoir	0	0
@@ -11388,7 +11388,7 @@ indigènes	AQ0CP00	indigène-j	indigène	AQ0CP00	indigène	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:26&collection=eptic3">
+<s id="1809:26">
 
 En	SP	en-i	en	SP	en	0	0
 outre	NCFS000	outre-n	outre	NCFS000	outre	F	S
@@ -11428,7 +11428,7 @@ communautés	NCFP000	communauté-n	communauté	NCFP000	communauté	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:27&collection=eptic3">
+<s id="1809:27">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 actions	NCFP000	action-n	action	NCFP000	action	F	P
@@ -11445,7 +11445,7 @@ est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:28&collection=eptic3">
+<s id="1809:28">
 
 Entre	SP	entre-i	entre	SP	entre	0	0
 2002	Z	2002-m	2002	Z	2002	0	0
@@ -11477,7 +11477,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:29&collection=eptic3">
+<s id="1809:29">
 
 Une	DI0FS0	un-x	une	DI0FS0	un	F	S
 partie	NCFS000	partie-n	partie	NCFS000	partie	F	S
@@ -11498,7 +11498,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:30&collection=eptic3">
+<s id="1809:30">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -11540,7 +11540,7 @@ et	CC	et-c	et	CC	et	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:31&collection=eptic3">
+<s id="1809:31">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souligne	VMIP3S0	souligner-v	souligner	VMIP3S0	souligner	0	0
@@ -11556,7 +11556,7 @@ fiscales	AQ0FP00	fiscal-j	fiscale	AQ0FP00	fiscal	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:32&collection=eptic3">
+<s id="1809:32">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -11583,7 +11583,7 @@ service	NCMS000	service-n	service	NCMS000	service	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:33&collection=eptic3">
+<s id="1809:33">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 travaillent	VMIP3P0	travailler-v	travailler	VMIP3P0	travailler	0	0
@@ -11605,7 +11605,7 @@ nationales	NCFP000	nationale-n	nationale	NCFP000	nationale	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:34&collection=eptic3">
+<s id="1809:34">
 
 Un	DI0MS0	un-x	un	DI0MS0	un	M	S
 effort	NCMS000	effort-n	effort	NCMS000	effort	M	S
@@ -11643,7 +11643,7 @@ FLEGT	NPMS000	FLEGT-n	flegt	NPMS000	FLEGT	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:35&collection=eptic3">
+<s id="1809:35">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 démarche	NCFS000	démarche-n	démarche	NCFS000	démarche	F	S
@@ -11657,7 +11657,7 @@ APV	NPFS000	APV-n	apv	NPFS000	APV	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:36&collection=eptic3">
+<s id="1809:36">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 découragera	VMIF3S0	décourager-v	décourager	VMIF3S0	décourager	0	0
@@ -11675,7 +11675,7 @@ forêts	NCFP000	forêt-n	forêt	NCFP000	forêt	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:37&collection=eptic3">
+<s id="1809:37">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -11724,7 +11724,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:38&collection=eptic3">
+<s id="1809:38">
 
 Nos	DP1CPP	notre-x	notre	DP1CPP	notre	M	P
 futurs	AQ0MP00	futur-j	futur	AQ0MP00	futur	M	P
@@ -11774,7 +11774,7 @@ locales	AQ0FP00	local-j	locale	AQ0FP00	local	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:39&collection=eptic3">
+<s id="1809:39">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 prends	VMIP1S0	prendre-v	prendre	VMIP1S0	prendre	0	0
@@ -11798,7 +11798,7 @@ partenaires	NCCP000	partenaire-n	partenaire	NCCP000	partenaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:40&collection=eptic3">
+<s id="1809:40">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -11824,7 +11824,7 @@ problèmes	NCMP000	problème-n	problème	NCMP000	problème	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:41&collection=eptic3">
+<s id="1809:41">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 peux	VMIP1S0	pouvoir-v	pouvoir	VMIP1S0	pouvoir	0	0
@@ -11878,7 +11878,7 @@ partenaires	NCCP000	partenaire-n	partenaire	NCCP000	partenaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:42&collection=eptic3">
+<s id="1809:42">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -11908,7 +11908,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:43&collection=eptic3">
+<s id="1809:43">
 
 À	SP	à-i	à	SP	à	0	0
 défaut	NCMS000	défaut-n	défaut	NCMS000	défaut	M	S
@@ -11944,7 +11944,7 @@ efficacement	RG	efficacement-r	efficacement	RG	efficacement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:44&collection=eptic3">
+<s id="1809:44">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -11983,7 +11983,7 @@ place	NCFS000	place-n	place	NCFS000	place	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:45&collection=eptic3">
+<s id="1809:45">
 
 Néanmoins	RG	néanmoins-r	néanmoins	RG	néanmoins	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -12006,7 +12006,7 @@ certitude	NCFS000	certitude-n	certitude	NCFS000	certitude	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:46&collection=eptic3">
+<s id="1809:46">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -12030,7 +12030,7 @@ risque	NCMS000	risque-n	risque	NCMS000	risque	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1809:47&collection=eptic3">
+<s id="1809:47">
 
 Peut-être	RG	peut-être-r	peut-être	RG	peut-être	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -12071,7 +12071,7 @@ fiers	AQ0MP00	fier-j	fier	AQ0MP00	fier	M	P
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1810:1&collection=eptic3">
+<s id="1810:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -12089,7 +12089,7 @@ volontaires	AQ0CP00	volontaire-j	volontaire	AQ0CP00	volontaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:2&collection=eptic3">
+<s id="1810:2">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
 paroles	NCFP000	parole-n	parole	NCFP000	parole	F	P
@@ -12137,7 +12137,7 @@ communs	AQ0MP00	commun-j	commun	AQ0MP00	commun	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:3&collection=eptic3">
+<s id="1810:3">
 
 Pourtant	RG	pourtant-r	pourtant	RG	pourtant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -12168,7 +12168,7 @@ gigantesques	AQ0CP00	gigantesque-j	gigantesque	AQ0CP00	gigantesque	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:4&collection=eptic3">
+<s id="1810:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 suffit	VMIP3S0	suffire-v	suffire	VMIP3S0	suffire	0	0
@@ -12191,7 +12191,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:5&collection=eptic3">
+<s id="1810:5">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 gouvernance	NCFS000	gouvernance-n	gouvernance	NCFS000	gouvernance	F	S
@@ -12207,7 +12207,7 @@ cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:6&collection=eptic3">
+<s id="1810:6">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 niveaux	NCMP000	niveau-n	niveau	NCMP000	niveau	M	P
@@ -12240,7 +12240,7 @@ faut	VMIP3S0	faillir-v	faillir	VMIP3S0	faillir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:7&collection=eptic3">
+<s id="1810:7">
 
 Citons	VMM01P0	citer-v	citer	VMM01P0	citer	0	0
 ensuite	RG	ensuite-r	ensuite	RG	ensuite	0	0
@@ -12271,7 +12271,7 @@ plus	RG	plus-r	plus	RG	plus	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:8&collection=eptic3">
+<s id="1810:8">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 profits	NCMP000	profit-n	profit	NCMP000	profit	M	P
@@ -12343,7 +12343,7 @@ forêts	NCFP000	forêt-n	forêt	NCFP000	forêt	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:9&collection=eptic3">
+<s id="1810:9">
 
 Tous	DI0MP0	tout-x	tout	DI0MP0	tout	M	P
 ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
@@ -12367,7 +12367,7 @@ objectifs	NCMP000	objectif-n	objectif	NCMP000	objectif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1810:10&collection=eptic3">
+<s id="1810:10">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -12438,7 +12438,7 @@ fixés	VMP00PM	fixer-v	fixé	VMP00PM	fixer	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="46.0" speed="high" speedwm="164.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1811:1&collection=eptic3">
+<s id="1811:1">
 
 L	NPMS000	L-n	l	NPMS000	L	M	S
 <g/>
@@ -12501,7 +12501,7 @@ corrompus	VMP00PM	corrompre-v	corrompu	VMP00PM	corrompre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1811:2&collection=eptic3">
+<s id="1811:2">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -12545,7 +12545,7 @@ couché	VMP00SM	coucher-v	couché	VMP00SM	coucher	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1811:3&collection=eptic3">
+<s id="1811:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -12577,7 +12577,7 @@ déforestation	NCFS000	déforestation-n	déforestation	NCFS000	déforestation	F	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1811:4&collection=eptic3">
+<s id="1811:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 fais	VMIP1S0	faire-v	faire	VMIP1S0	faire	0	0
@@ -12623,7 +12623,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1811:5&collection=eptic3">
+<s id="1811:5">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -12643,7 +12643,7 @@ vigilants	AQ0MP00	vigilant-j	vigilant	AQ0MP00	vigilant	M	P
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1812:1&collection=eptic3">
+<s id="1812:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -12665,7 +12665,7 @@ volontaire	AQ0CS00	volontaire-j	volontaire	AQ0CS00	volontaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:2&collection=eptic3">
+<s id="1812:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 forêts	NCFP000	forêt-n	forêt	NCFP000	forêt	F	P
@@ -12681,7 +12681,7 @@ commerciaux	AQ0MP00	commercial-j	commercial	AQ0MP00	commercial	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:3&collection=eptic3">
+<s id="1812:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 forêt	NCFS000	forêt-n	forêt	NCFS000	forêt	F	S
@@ -12708,7 +12708,7 @@ forêt	NCFS000	forêt-n	forêt	NCFS000	forêt	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:4&collection=eptic3">
+<s id="1812:4">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -12747,7 +12747,7 @@ préoccupations	NCFP000	préoccupation-n	préoccupation	NCFP000	préoccupation	F
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:5&collection=eptic3">
+<s id="1812:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -12774,7 +12774,7 @@ problèmes	NCMP000	problème-n	problème	NCMP000	problème	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:6&collection=eptic3">
+<s id="1812:6">
 
 Par	SP	par-i	par	SP	par	0	0
 ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
@@ -12801,7 +12801,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:7&collection=eptic3">
+<s id="1812:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -12827,7 +12827,7 @@ difficile	AQ0CS00	difficile-j	difficile	AQ0CS00	difficile	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:8&collection=eptic3">
+<s id="1812:8">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 sont	VSIP3P0	être-v	être	VSIP3P0	être	0	0
@@ -12855,7 +12855,7 @@ membres	NCMP000	membre-n	membre	NCMP000	membre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:9&collection=eptic3">
+<s id="1812:9">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -12867,7 +12867,7 @@ temps	NCMN000	temps-n	temps	NCMN000	temps	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:10&collection=eptic3">
+<s id="1812:10">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 faut	VMIP3S0	faillir-v	faillir	VMIP3S0	faillir	0	0
@@ -12907,7 +12907,7 @@ voie	NCFS000	voie-n	voie	NCFS000	voie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:11&collection=eptic3">
+<s id="1812:11">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
@@ -12941,7 +12941,7 @@ progressent	VMIP3P0	progresser-v	progresser	VMIP3P0	progresser	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:12&collection=eptic3">
+<s id="1812:12">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 comprends	VMIP1S0	comprendre-v	comprendre	VMIP1S0	comprendre	0	0
@@ -12991,7 +12991,7 @@ collaborer	VMN0000	collaborer-v	collaborer	VMN0000	collaborer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:13&collection=eptic3">
+<s id="1812:13">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -13043,7 +13043,7 @@ Indonésie	NPFS000	Indonésie-n	indonésie	NPFS000	Indonésie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:14&collection=eptic3">
+<s id="1812:14">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VMIP2S0	sommer-v	sommer	VMIP2S0	sommer	0	0
@@ -13063,7 +13063,7 @@ positif	AQ0MS00	positif-j	positif	AQ0MS00	positif	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:15&collection=eptic3">
+<s id="1812:15">
 
 Aussi	RG	aussi-r	aussi	RG	aussi	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -13080,7 +13080,7 @@ limités	VMP00PM	limiter-v	limité	VMP00PM	limiter	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:16&collection=eptic3">
+<s id="1812:16">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -13103,7 +13103,7 @@ positif	AQ0MS00	positif-j	positif	AQ0MS00	positif	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:17&collection=eptic3">
+<s id="1812:17">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -13126,7 +13126,7 @@ climatique	AQ0CS00	climatique-j	climatique	AQ0CS00	climatique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:18&collection=eptic3">
+<s id="1812:18">
 
 Grâce	NCFS000	grâce-n	grâce	NCFS000	grâce	F	S
 à	SP	à-i	à	SP	à	0	0
@@ -13155,7 +13155,7 @@ plan	NCMS000	plan-n	plan	NCMS000	plan	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:19&collection=eptic3">
+<s id="1812:19">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -13189,7 +13189,7 @@ expérience	NCFS000	expérience-n	expérience	NCFS000	expérience	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:20&collection=eptic3">
+<s id="1812:20">
 
 Prenons	VMM01P0	prendre-v	prendre	VMM01P0	prendre	0	0
 par	SP	par-i	par	SP	par	0	0
@@ -13202,7 +13202,7 @@ efficacité	NCFS000	efficacité-n	efficacité	NCFS000	efficacité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:21&collection=eptic3">
+<s id="1812:21">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -13225,7 +13225,7 @@ pas	NCMN000	pas-n	pas	NCMN000	pas	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:22&collection=eptic3">
+<s id="1812:22">
 
 Même	AQ0CS00	même-j	même	AQ0CS00	même	F	S
 chose	NCFS000	chose-n	chose	NCFS000	chose	F	S
@@ -13239,7 +13239,7 @@ ressources	NCFP000	ressource-n	ressource	NCFP000	ressource	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:23&collection=eptic3">
+<s id="1812:23">
 
 Si	CS	si-c	si	CS	si	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -13261,7 +13261,7 @@ exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:24&collection=eptic3">
+<s id="1812:24">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -13279,7 +13279,7 @@ manières	NCFP000	manière-n	manière	NCFP000	manière	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:25&collection=eptic3">
+<s id="1812:25">
 
 Dernier	AQ0MS00	dernier-j	dernier	AQ0MS00	dernier	M	S
 point	NCMS000	point-n	pt	NCMS000	point	M	S
@@ -13303,7 +13303,7 @@ supervision	NCFS000	supervision-n	supervision	NCFS000	supervision	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:26&collection=eptic3">
+<s id="1812:26">
 
 Celle-ci	PD0FS00	celui-ci-p	celui-ci	PD0FS00	celui-ci	0	0
 sera	VMIF3S0	être-v	être	VMIF3S0	être	0	0
@@ -13341,7 +13341,7 @@ disposons	VMIP1P0	disposer-v	disposer	VMIP1P0	disposer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:27&collection=eptic3">
+<s id="1812:27">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -13368,7 +13368,7 @@ membres	NCMP000	membre-n	membre	NCMP000	membre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:28&collection=eptic3">
+<s id="1812:28">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -13409,7 +13409,7 @@ volontaire	AQ0CS00	volontaire-j	volontaire	AQ0CS00	volontaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:29&collection=eptic3">
+<s id="1812:29">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -13447,7 +13447,7 @@ moi	PP1CS00	moi-p	moi	PP1CS00	moi	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1812:30&collection=eptic3">
+<s id="1812:30">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 va	VMIP3S0	aller-v	aller	VMIP3S0	aller	0	0
@@ -13486,7 +13486,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1819:1&collection=eptic3">
+<s id="1819:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -13498,7 +13498,7 @@ bref	RG	bref-r	bref	RG	bref	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:2&collection=eptic3">
+<s id="1819:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -13516,7 +13516,7 @@ sujet	NCMS000	sujet-n	sujet	NCMS000	sujet	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:3&collection=eptic3">
+<s id="1819:3">
 
 Tout	PI0MS00	tout-p	tout	PI0MS00	tout	M	S
 d'	SP	de-i	de	SP	de	0	0
@@ -13574,7 +13574,7 @@ OMC	NPMS000	OMC-n	omc	NPMS000	OMC	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:4&collection=eptic3">
+<s id="1819:4">
 
 Telle	AQ0FS00	tel-j	telle	AQ0FS00	tel	F	S
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -13645,7 +13645,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:5&collection=eptic3">
+<s id="1819:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -13677,7 +13677,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:6&collection=eptic3">
+<s id="1819:6">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -13709,7 +13709,7 @@ présent	AQ0MS00	présent-j	présent	AQ0MS00	présent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:7&collection=eptic3">
+<s id="1819:7">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 sera	VMIF3S0	être-v	être	VMIF3S0	être	0	0
@@ -13719,7 +13719,7 @@ dérogation	NCFS000	dérogation-n	dérogation	NCFS000	dérogation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:8&collection=eptic3">
+<s id="1819:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -13738,7 +13738,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:9&collection=eptic3">
+<s id="1819:9">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 octroyons-nous	VMIP1P0	octroyer-v	octroyer	VMIP1P0,PP1CP00	octroyer,nous	0	0
@@ -13752,7 +13752,7 @@ Nouvelle-Guinée	NP00000	Nouvelle-Guinée-n	nouvelle-guinée	NP00000	Nouvelle-Gu
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1819:10&collection=eptic3">
+<s id="1819:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vais	VMIP1S0	aller-v	aller	VMIP1S0	aller	0	0
@@ -13815,7 +13815,7 @@ faire	VMN0000	faire-v	faire	VMN0000	faire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:11&collection=eptic3">
+<s id="1819:11">
 
 Rien	PI0CS00	rien-p	rien	PI0CS00	rien	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -13882,7 +13882,7 @@ cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:12&collection=eptic3">
+<s id="1819:12">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -13948,7 +13948,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:13&collection=eptic3">
+<s id="1819:13">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -13971,7 +13971,7 @@ femmes	NCFP000	femme-n	femme	NCFP000	femme	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:14&collection=eptic3">
+<s id="1819:14">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -14001,7 +14001,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:15&collection=eptic3">
+<s id="1819:15">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -14025,7 +14025,7 @@ aval	NCMS000	aval-n	aval	NCMS000	aval	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:16&collection=eptic3">
+<s id="1819:16">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -14065,7 +14065,7 @@ réglementée	VMP00SF	réglementer-v	réglementée	VMP00SF	réglementer	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:17&collection=eptic3">
+<s id="1819:17">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 doit	VMIP3S0	devoir-v	devoir	VMIP3S0	devoir	0	0
@@ -14080,7 +14080,7 @@ phytosanitaires	AQ0CP0	phytosanitaires-j	phytosanitaires	AQ0CP0	phytosanitaires	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:18&collection=eptic3">
+<s id="1819:18">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -14091,7 +14091,7 @@ essentiel	AQ0MS00	essentiel-j	essentiel	AQ0MS00	essentiel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:19&collection=eptic3">
+<s id="1819:19">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 3	Z	3-m	3	Z	3	0	0
@@ -14113,7 +14113,7 @@ utiles	AQ0CP00	utile-j	utile	AQ0CP00	utile	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:20&collection=eptic3">
+<s id="1819:20">
 
 Si	CS	si-c	si	CS	si	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -14155,7 +14155,7 @@ mesures	NCFP000	mesure-n	mesure	NCFP000	mesure	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:21&collection=eptic3">
+<s id="1819:21">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -14167,7 +14167,7 @@ sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:22&collection=eptic3">
+<s id="1819:22">
 
 Cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
@@ -14179,7 +14179,7 @@ depuis	SP	depuis-i	depuis	SP	depuis	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:23&collection=eptic3">
+<s id="1819:23">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -14196,7 +14196,7 @@ augmentation	NCFS000	augmentation-n	augmentation	NCFS000	augmentation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:24&collection=eptic3">
+<s id="1819:24">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 secteur	NCMS000	secteur-n	secteur	NCMS000	secteur	M	S
@@ -14212,7 +14212,7 @@ menacé	VMP00SM	menacer-v	menacé	VMP00SM	menacer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:25&collection=eptic3">
+<s id="1819:25">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -14238,7 +14238,7 @@ espagnole	AQ0FS00	espagnol-j	espagnole	AQ0FS00	espagnol	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:26&collection=eptic3">
+<s id="1819:26">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
@@ -14259,7 +14259,7 @@ actuellement	RG	actuellement-r	actuellement	RG	actuellement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:27&collection=eptic3">
+<s id="1819:27">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 qui	PR00000	qui-p	qui	PR00000	qui	0	0
@@ -14277,7 +14277,7 @@ avenir	NCMS000	avenir-n	avenir	NCMS000	avenir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:28&collection=eptic3">
+<s id="1819:28">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 reconnaissent	VMIP3P0	reconnaître-v	reconnaître	VMIP3P0	reconnaître	0	0
@@ -14305,7 +14305,7 @@ actuel	AQ0MS00	actuel-j	actuel	AQ0MS00	actuel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:29&collection=eptic3">
+<s id="1819:29">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -14320,7 +14320,7 @@ situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1819:30&collection=eptic3">
+<s id="1819:30">
 
 Ne	RN	ne-r	ne	RN	ne	0	0
 faisons	VMM01P0	faire-v	faire	VMM01P0	faire	0	0
@@ -14349,7 +14349,7 @@ propres	AQ0CP00	propre-j	propre	AQ0CP00	propre	M	P
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1814:1&collection=eptic3">
+<s id="1814:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -14403,7 +14403,7 @@ Fidji	NPMS000	Fidji-n	fidji	NPMS000	Fidji	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:2&collection=eptic3">
+<s id="1814:2">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -14418,7 +14418,7 @@ conseils	NCMP000	conseil-n	conseil	NCMP000	conseil	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:3&collection=eptic3">
+<s id="1814:3">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 consentement	NCMS000	consentement-n	consentement	NCMS000	consentement	M	S
@@ -14502,7 +14502,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:4&collection=eptic3">
+<s id="1814:4">
 
 En	SP	en-i	en	SP	en	0	0
 2007	Z	2007-m	2007	Z	2007	0	0
@@ -14561,7 +14561,7 @@ Cotonou	NPMS000	Cotonou-n	cotonou	NPMS000	Cotonou	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:5&collection=eptic3">
+<s id="1814:5">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -14604,7 +14604,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:6&collection=eptic3">
+<s id="1814:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -14639,7 +14639,7 @@ conséquence	NCFS000	conséquence-n	conséquence	NCFS000	conséquence	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:7&collection=eptic3">
+<s id="1814:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -14673,7 +14673,7 @@ différents	AQ0MP00	différent-j	différent	AQ0MP00	différent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:8&collection=eptic3">
+<s id="1814:8">
 
 Certains	DI0MP0	certain-x	certain	DI0MP0	certain	M	P
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
@@ -14710,7 +14710,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:9&collection=eptic3">
+<s id="1814:9">
 
 Certains	DI0MP0	certain-x	certain	DI0MP0	certain	M	P
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
@@ -14737,7 +14737,7 @@ Union	NPFS000	Union-n	union	NPFS000	Union	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:10&collection=eptic3">
+<s id="1814:10">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VMIP2S0	sommer-v	sommer	VMIP2S0	sommer	0	0
@@ -14777,7 +14777,7 @@ ultimes	AQ0CP00	ultime-j	ultime	AQ0CP00	ultime	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:11&collection=eptic3">
+<s id="1814:11">
 
 Peu	RG	peu-r	peu	RG	peu	0	0
 importe	VMIP1S0	importer-v	importer	VMIP1S0	importer	0	0
@@ -14811,7 +14811,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:12&collection=eptic3">
+<s id="1814:12">
 
 D	NPMS000	D-n	d	NPMS000	D	M	S
 <g/>
@@ -14836,7 +14836,7 @@ commerciales	AQ0FP00	commercial-j	commerciale	AQ0FP00	commercial	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:13&collection=eptic3">
+<s id="1814:13">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -14883,7 +14883,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:14&collection=eptic3">
+<s id="1814:14">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -14928,7 +14928,7 @@ pêche	NCFS000	pêche-n	pêche	NCFS000	pêche	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:15&collection=eptic3">
+<s id="1814:15">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -14997,7 +14997,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:16&collection=eptic3">
+<s id="1814:16">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -15040,7 +15040,7 @@ détectée	VMP00SF	détecter-v	détectée	VMP00SF	détecter	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:17&collection=eptic3">
+<s id="1814:17">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 aussi	RG	aussi-r	aussi	RG	aussi	0	0
@@ -15077,7 +15077,7 @@ régions	NCFP000	région-n	région	NCFP000	région	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:18&collection=eptic3">
+<s id="1814:18">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -15126,7 +15126,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:19&collection=eptic3">
+<s id="1814:19">
 
 Certains	DI0MP0	certain-x	certain	DI0MP0	certain	M	P
 d	NCMS000	d-n	d	NCMS000	d	M	S
@@ -15164,7 +15164,7 @@ INTA	NP00000	INTA-n	inta	NP00000	INTA	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:20&collection=eptic3">
+<s id="1814:20">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -15199,7 +15199,7 @@ Nouvelle-Guinée	NP00000	Nouvelle-Guinée-n	nouvelle-guinée	NP00000	Nouvelle-Gu
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:21&collection=eptic3">
+<s id="1814:21">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 prenons	VMIP1P0	prendre-v	prendre	VMIP1P0	prendre	0	0
@@ -15231,7 +15231,7 @@ matérialise	VMIP3S0	matérialiser-v	matérialiser	VMIP3S0	matérialiser	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:22&collection=eptic3">
+<s id="1814:22">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 consentement	NCMS000	consentement-n	consentement	NCMS000	consentement	M	S
@@ -15256,7 +15256,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:23&collection=eptic3">
+<s id="1814:23">
 
 L	NPMS000	L-n	l	NPMS000	L	M	S
 <g/>
@@ -15305,7 +15305,7 @@ intérimaire	AQ0CS00	intérimaire-j	intérimaire	AQ0CS00	intérimaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:24&collection=eptic3">
+<s id="1814:24">
 
 Votre	DP2CSP	votre-x	votre	DP2CSP	votre	M	S
 vote	NCMS000	vote-n	vote	NCMS000	vote	M	S
@@ -15336,7 +15336,7 @@ importantes	AQ0FP00	important-j	importante	AQ0FP00	important	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:25&collection=eptic3">
+<s id="1814:25">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -15389,7 +15389,7 @@ actuellement	RG	actuellement-r	actuellement	RG	actuellement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:26&collection=eptic3">
+<s id="1814:26">
 
 Fidji	NP00000	Fidji-n	fidji	NP00000	Fidji	0	0
 conserve	VMIP1S0	conserver-v	conserver	VMIP1S0	conserver	0	0
@@ -15434,7 +15434,7 @@ commerciales	AQ0FP00	commercial-j	commerciale	AQ0FP00	commercial	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:27&collection=eptic3">
+<s id="1814:27">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -15470,7 +15470,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:28&collection=eptic3">
+<s id="1814:28">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 reprise	NCFS000	reprise-n	reprise	NCFS000	reprise	F	S
@@ -15503,7 +15503,7 @@ démocratiques	AQ0CP00	démocratique-j	démocratique	AQ0CP00	démocratique	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:29&collection=eptic3">
+<s id="1814:29">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -15527,7 +15527,7 @@ moment	NCMS000	moment-n	moment	NCMS000	moment	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:30&collection=eptic3">
+<s id="1814:30">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -15570,7 +15570,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1814:31&collection=eptic3">
+<s id="1814:31">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -15602,7 +15602,7 @@ Pacifique	AQ0CS00	pacifique-j	pacifique	AQ0CS00	pacifique	F	S
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1815:1&collection=eptic3">
+<s id="1815:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -15659,7 +15659,7 @@ Pacifique	AQ0CS00	pacifique-j	pacifique	AQ0CS00	pacifique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:2&collection=eptic3">
+<s id="1815:2">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -15710,7 +15710,7 @@ intérimaire	AQ0CS00	intérimaire-j	intérimaire	AQ0CS00	intérimaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:3&collection=eptic3">
+<s id="1815:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 espérons	VMIP1P0	espérer-v	espérer	VMIP1P0	espérer	0	0
@@ -15743,7 +15743,7 @@ plus	RG	plus-r	plus	RG	plus	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:4&collection=eptic3">
+<s id="1815:4">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -15795,7 +15795,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:5&collection=eptic3">
+<s id="1815:5">
 
 Pourtant	RG	pourtant-r	pourtant	RG	pourtant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -15825,7 +15825,7 @@ pêche	NCFS000	pêche-n	pêche	NCFS000	pêche	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:6&collection=eptic3">
+<s id="1815:6">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 notre	DP1CSP	notre-x	notre	DP1CSP	notre	F	S
@@ -15919,7 +15919,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1815:7&collection=eptic3">
+<s id="1815:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 encourageons	VMIP1P0	encourager-v	encourager	VMIP1P0	encourager	0	0
@@ -16015,7 +16015,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1816:1&collection=eptic3">
+<s id="1816:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -16041,7 +16041,7 @@ régionale	AQ0FS00	régional-j	régionale	AQ0FS00	régional	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:2&collection=eptic3">
+<s id="1816:2">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 que	PR00000	que-p	que	PR00000	que	0	0
@@ -16063,7 +16063,7 @@ ordre	NCMS000	ordre-n	ordre	NCMS000	ordre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:3&collection=eptic3">
+<s id="1816:3">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 contraire	NCMS000	contraire-n	contraire	NCMS000	contraire	M	S
@@ -16104,7 +16104,7 @@ particulières	AQ0FP00	particulier-j	particulière	AQ0FP00	particulier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:4&collection=eptic3">
+<s id="1816:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 dérogation	NCFS000	dérogation-n	dérogation	NCFS000	dérogation	F	S
@@ -16132,7 +16132,7 @@ exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:5&collection=eptic3">
+<s id="1816:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -16160,7 +16160,7 @@ précédemment	RG	précédemment-r	précédemment	RG	précédemment	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:6&collection=eptic3">
+<s id="1816:6">
 
 Si	CS	si-c	si	CS	si	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -16192,7 +16192,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:7&collection=eptic3">
+<s id="1816:7">
 
 Quels	PT0MP00	quel-p	quel	PT0MP00	quel	M	P
 sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
@@ -16223,7 +16223,7 @@ Nouvelle-Guinée	NP00000	Nouvelle-Guinée-n	nouvelle-guinée	NP00000	Nouvelle-Gu
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1816:8&collection=eptic3">
+<s id="1816:8">
 
 Quelles	PT0FP00	quel-p	quel	PT0FP00	quel	F	P
 sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
@@ -16235,7 +16235,7 @@ travailleurs	NCMP000	travailleur-n	travailleur	NCMP000	travailleur	M	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1816:9&collection=eptic3">
+<s id="1816:9">
 
 Tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -16250,7 +16250,7 @@ transparente	AQ0FS00	transparent-j	transparente	AQ0FS00	transparent	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1816:10&collection=eptic3">
+<s id="1816:10">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -16343,7 +16343,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1817:1&collection=eptic3">
+<s id="1817:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -16406,7 +16406,7 @@ origine	NCFS000	origine-n	origine	NCFS000	origine	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1817:2&collection=eptic3">
+<s id="1817:2">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 cours	NCFP000	cour-n	cour	NCFP000	cour	F	P
@@ -16446,7 +16446,7 @@ pêche	NCFS000	pêche-n	pêche	NCFS000	pêche	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1817:3&collection=eptic3">
+<s id="1817:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
@@ -16483,7 +16483,7 @@ inquiets	AQ0MP00	inquiet-j	inquiet	AQ0MP00	inquiet	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1817:4&collection=eptic3">
+<s id="1817:4">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 question	NCFS000	question-n	question	NCFS000	question	F	S
@@ -16569,7 +16569,7 @@ aider	VMN0000	aider-v	aider	VMN0000	aider	0	0
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1818:1&collection=eptic3">
+<s id="1818:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -16584,7 +16584,7 @@ intéressant	AQ0MS00	intéressant-j	intéressant	AQ0MS00	intéressant	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:2&collection=eptic3">
+<s id="1818:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 pauvreté	NCFS000	pauvreté-n	pauvreté	NCFS000	pauvreté	F	S
@@ -16595,7 +16595,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:3&collection=eptic3">
+<s id="1818:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -16605,7 +16605,7 @@ attaquer	VMN0000	attaquer-v	attaquer	VMN0000	attaquer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:4&collection=eptic3">
+<s id="1818:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 transfert	NCMS000	transfert-n	transfert	NCMS000	transfert	M	S
@@ -16636,7 +16636,7 @@ travail	NCMS000	travail-n	taf	NCMS000	travail	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:5&collection=eptic3">
+<s id="1818:5">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 3	Z	3-m	3	Z	3	0	0
@@ -16675,7 +16675,7 @@ plupart	NCFS000	plupart-n	plupart	NCFS000	plupart	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:6&collection=eptic3">
+<s id="1818:6">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
 emplois	NCMP000	emploi-n	emploi	NCMP000	emploi	M	P
@@ -16699,7 +16699,7 @@ pauvres	AQ0CP00	pauvre-j	pôvre	AQ0CP00	pauvre	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:7&collection=eptic3">
+<s id="1818:7">
 
 Lorsqu	NP00000	Lorsqu-n	lorsqu	NP00000	Lorsqu	0	0
 <g/>
@@ -16726,7 +16726,7 @@ garanties	NCFP000	garantie-n	garantie	NCFP000	garantie	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:8&collection=eptic3">
+<s id="1818:8">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -16823,7 +16823,7 @@ années	NCFP000	année-n	année	NCFP000	année	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:9&collection=eptic3">
+<s id="1818:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 demande	NCFS000	demande-n	demande	NCFS000	demande	F	S
@@ -16842,7 +16842,7 @@ chiffres	NCMP000	chiffre-n	chiffre	NCMP000	chiffre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:10&collection=eptic3">
+<s id="1818:10">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -16863,7 +16863,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:11&collection=eptic3">
+<s id="1818:11">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 développement	NCMS000	développement-n	développement	NCMS000	développement	M	S
@@ -16917,7 +16917,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:12&collection=eptic3">
+<s id="1818:12">
 
 En	SP	en-i	en	SP	en	0	0
 outre	NCFS000	outre-n	outre	NCFS000	outre	F	S
@@ -16960,7 +16960,7 @@ manifeste	NCMS000	manifeste-n	manifeste	NCMS000	manifeste	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:13&collection=eptic3">
+<s id="1818:13">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -16989,7 +16989,7 @@ commerciale	AQ0FS00	commercial-j	commerciale	AQ0FS00	commercial	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:14&collection=eptic3">
+<s id="1818:14">
 
 À	SP	à-i	à	SP	à	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -17035,7 +17035,7 @@ SPG	NPMS000	SPG-n	spg	NPMS000	SPG	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:15&collection=eptic3">
+<s id="1818:15">
 
 Cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 aspect	NCMS000	aspect-n	aspect	NCMS000	aspect	M	S
@@ -17055,7 +17055,7 @@ mentionner	VMN0000	mentionner-v	mentionner	VMN0000	mentionner	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:16&collection=eptic3">
+<s id="1818:16">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -17140,7 +17140,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:17&collection=eptic3">
+<s id="1818:17">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -17161,7 +17161,7 @@ mesure	NCFS000	mesure-n	mesure	NCFS000	mesure	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:18&collection=eptic3">
+<s id="1818:18">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 maintenant	RG	maintenant-r	maintenant	RG	maintenant	0	0
@@ -17183,7 +17183,7 @@ général	NCMS000	général-n	général	NCMS000	général	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:19&collection=eptic3">
+<s id="1818:19">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 échanges	NCMP000	échange-n	échange	NCMP000	échange	M	P
@@ -17198,7 +17198,7 @@ simples	AQ0CP00	simple-j	simple	AQ0CP00	simple	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:20&collection=eptic3">
+<s id="1818:20">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -17230,7 +17230,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:21&collection=eptic3">
+<s id="1818:21">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -17248,7 +17248,7 @@ initial	AQ0MS00	initial-j	initial	AQ0MS00	initial	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:22&collection=eptic3">
+<s id="1818:22">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 accords	NCMP000	accord-n	accord	NCMP000	accord	M	P
@@ -17267,7 +17267,7 @@ régional	AQ0MS00	régional-j	régional	AQ0MS00	régional	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:23&collection=eptic3">
+<s id="1818:23">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -17302,7 +17302,7 @@ Océanie	NPFS000	Océanie-n	océanie	NPFS000	Océanie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:24&collection=eptic3">
+<s id="1818:24">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -17325,7 +17325,7 @@ FED	NPCS000	FED-n	fed	NPCS000	FED	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:25&collection=eptic3">
+<s id="1818:25">
 
 Seule	AQ0FS00	seul-j	seule	AQ0FS00	seul	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -17345,7 +17345,7 @@ lieu	NCMS000	lieu-n	lieu	NCMS000	lieu	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:26&collection=eptic3">
+<s id="1818:26">
 
 Si	RG	si-r	si	RG	si	0	0
 l	AQ0MS0	l-j	l	AQ0MS0	l	M	S
@@ -17388,7 +17388,7 @@ fluctuation	NCFS000	fluctuation-n	fluctuation	NCFS000	fluctuation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:27&collection=eptic3">
+<s id="1818:27">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
@@ -17404,7 +17404,7 @@ concernés	VMP00PM	concerner-v	concerné	VMP00PM	concerner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:28&collection=eptic3">
+<s id="1818:28">
 
 Lorsque	CS	lorsque-c	lorsque	CS	lorsque	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -17442,7 +17442,7 @@ pas	RN	pas-r	pas	RN	pas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:29&collection=eptic3">
+<s id="1818:29">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -17460,7 +17460,7 @@ approfondie	VMP00SF	approfondir-v	approfondie	VMP00SF	approfondir	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:30&collection=eptic3">
+<s id="1818:30">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 proposons	VMIP1P0	proposer-v	proposer	VMIP1P0	proposer	0	0
@@ -17485,7 +17485,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:31&collection=eptic3">
+<s id="1818:31">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -17509,7 +17509,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1818:32&collection=eptic3">
+<s id="1818:32">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -17544,7 +17544,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1813:1&collection=eptic3">
+<s id="1813:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -17580,7 +17580,7 @@ raisons	NCFP000	raison-n	raison	NCFP000	raison	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:2&collection=eptic3">
+<s id="1813:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -17644,7 +17644,7 @@ assistance	NCFS000	assistance-n	assistance	NCFS000	assistance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:3&collection=eptic3">
+<s id="1813:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -17676,7 +17676,7 @@ Ford	NPMS000	Ford-n	ford	NPMS000	Ford	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:4&collection=eptic3">
+<s id="1813:4">
 
 Par	SP	par-i	par	SP	par	0	0
 chance	NCFS000	chance-n	chance	NCFS000	chance	F	S
@@ -17725,7 +17725,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:5&collection=eptic3">
+<s id="1813:5">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 position	NCFS000	position-n	position	NCFS000	position	F	S
@@ -17754,7 +17754,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:6&collection=eptic3">
+<s id="1813:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -17771,7 +17771,7 @@ commission	NCFS000	commission-n	commission	NCFS000	commission	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:7&collection=eptic3">
+<s id="1813:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -17794,7 +17794,7 @@ promotion	NCFS000	promotion-n	promotion	NCFS000	promotion	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:8&collection=eptic3">
+<s id="1813:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -17826,7 +17826,7 @@ domaine	NCMS000	domaine-n	domaine	NCMS000	domaine	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:9&collection=eptic3">
+<s id="1813:9">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -17867,7 +17867,7 @@ collaboration	NCFS000	collaboration-n	collaboration	NCFS000	collaboration	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:10&collection=eptic3">
+<s id="1813:10">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 informations	NCFP000	information-n	information	NCFP000	information	F	P
@@ -17894,7 +17894,7 @@ rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:11&collection=eptic3">
+<s id="1813:11">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -17920,7 +17920,7 @@ régional	AQ0MS00	régional-j	régional	AQ0MS00	régional	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:12&collection=eptic3">
+<s id="1813:12">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -17971,7 +17971,7 @@ pêche	NCFS000	pêche-n	pêche	NCFS000	pêche	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:13&collection=eptic3">
+<s id="1813:13">
 
 Troisièmement	NP00000	Troisièmement-n	troisièmement	NP00000	Troisièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -17995,7 +17995,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:14&collection=eptic3">
+<s id="1813:14">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -18040,7 +18040,7 @@ Fidji	NP00000	Fidji-n	fidji	NP00000	Fidji	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:15&collection=eptic3">
+<s id="1813:15">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -18096,7 +18096,7 @@ respectivement	RG	respectivement-r	respectivement	RG	respectivement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:16&collection=eptic3">
+<s id="1813:16">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -18147,7 +18147,7 @@ ans	NCMP000	an-n	an	NCMP000	an	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:17&collection=eptic3">
+<s id="1813:17">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Papouasie	NPFS000	Papouasie-n	papouasie	NPFS000	Papouasie	F	S
@@ -18199,7 +18199,7 @@ ans	NCMP000	an-n	an	NCMP000	an	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:18&collection=eptic3">
+<s id="1813:18">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 12	Z	12-m	12	Z	12	0	0
@@ -18269,7 +18269,7 @@ intérimaire	AQ0CS00	intérimaire-j	intérimaire	AQ0CS00	intérimaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:19&collection=eptic3">
+<s id="1813:19">
 
 Néanmoins	RG	néanmoins-r	néanmoins	RG	néanmoins	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -18324,7 +18324,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:20&collection=eptic3">
+<s id="1813:20">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -18350,7 +18350,7 @@ ratifier	VMN0000	ratifier-v	ratifier	VMN0000	ratifier	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:21&collection=eptic3">
+<s id="1813:21">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 voterons	VMIF1P0	voter-v	voter	VMIF1P0	voter	0	0
@@ -18394,7 +18394,7 @@ annexe	AQ0CS00	annexe-j	annexe	AQ0CS00	annexe	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:22&collection=eptic3">
+<s id="1813:22">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 proposition	NCFS000	proposition-n	proposition	NCFS000	proposition	F	S
@@ -18426,7 +18426,7 @@ commenter	VMN0000	commenter-v	commenter	VMN0000	commenter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:23&collection=eptic3">
+<s id="1813:23">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -18476,7 +18476,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:24&collection=eptic3">
+<s id="1813:24">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -18516,7 +18516,7 @@ Pacifique	AQ0CS00	pacifique-j	pacifique	AQ0CS00	pacifique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:25&collection=eptic3">
+<s id="1813:25">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 importe	VMIP1S0	importer-v	importer	VMIP1S0	importer	0	0
@@ -18564,7 +18564,7 @@ OMC	NPMS000	OMC-n	omc	NPMS000	OMC	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:26&collection=eptic3">
+<s id="1813:26">
 
 Compte	NCMS000	compte-n	compte	NCMS000	compte	M	S
 tenu	VMP00SM	tenir-v	tenu	VMP00SM	tenir	M	S
@@ -18591,7 +18591,7 @@ fidjien	RG	fidjien-r	fidjien	RG	fidjien	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:27&collection=eptic3">
+<s id="1813:27">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -18609,7 +18609,7 @@ démocratisation	NCFS000	démocratisation-n	démocratisation	NCFS000	démocratis
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:28&collection=eptic3">
+<s id="1813:28">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -18639,7 +18639,7 @@ fidjien	RG	fidjien-r	fidjien	RG	fidjien	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:29&collection=eptic3">
+<s id="1813:29">
 
 En	SP	en-i	en	SP	en	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -18683,7 +18683,7 @@ citoyens	NCMP000	citoyen-n	citoyen	NCMP000	citoyen	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:30&collection=eptic3">
+<s id="1813:30">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 trois	NCMN000	trois-n	trois	NCMN000	trois	M	P
@@ -18711,7 +18711,7 @@ femmes	NCFP000	femme-n	femme	NCFP000	femme	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:31&collection=eptic3">
+<s id="1813:31">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -18734,7 +18734,7 @@ emploi	NCMS000	emploi-n	emploi	NCMS000	emploi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:32&collection=eptic3">
+<s id="1813:32">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 soutiens	VMIP1S0	soutenir-v	soutenir	VMIP1S0	soutenir	0	0
@@ -18784,7 +18784,7 @@ durable	AQ0CS00	durable-j	durable	AQ0CS00	durable	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:33&collection=eptic3">
+<s id="1813:33">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 considérations	NCFP000	considération-n	considération	NCFP000	considération	F	P
@@ -18835,7 +18835,7 @@ réglementée	VMP00SF	réglementer-v	réglementée	VMP00SF	réglementer	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:34&collection=eptic3">
+<s id="1813:34">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 comprends	VMIP1S0	comprendre-v	comprendre	VMIP1S0	comprendre	0	0
@@ -18883,7 +18883,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:35&collection=eptic3">
+<s id="1813:35">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -18942,7 +18942,7 @@ conservé	VMP00SM	conserver-v	conservé	VMP00SM	conserver	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:36&collection=eptic3">
+<s id="1813:36">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 doute	VMIP1S0	douter-v	douter	VMIP1S0	douter	0	0
@@ -18997,7 +18997,7 @@ restreinte	VMP00SF	restreindre-v	restreinte	VMP00SF	restreindre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:37&collection=eptic3">
+<s id="1813:37">
 
 Néanmoins	RG	néanmoins-r	néanmoins	RG	néanmoins	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -19040,7 +19040,7 @@ appropriées	VMP00PF	approprier-v	appropriée	VMP00PF	approprier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:38&collection=eptic3">
+<s id="1813:38">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -19072,7 +19072,7 @@ complet	AQ0MS00	complet-j	complet	AQ0MS00	complet	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:39&collection=eptic3">
+<s id="1813:39">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -19110,7 +19110,7 @@ compte	NCMS000	compte-n	compte	NCMS000	compte	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:40&collection=eptic3">
+<s id="1813:40">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 points	NCMP000	point-n	pt	NCMP000	point	M	P
@@ -19122,7 +19122,7 @@ intellectuelle	AQ0FS00	intellectuel-j	intellectuelle	AQ0FS00	intellectuel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:41&collection=eptic3">
+<s id="1813:41">
 
 Trop	RG	trop-r	trop	RG	trop	0	0
 souvent	RG	souvent-r	souvent	RG	souvent	0	0
@@ -19157,7 +19157,7 @@ traditionnels	AQ0MP00	traditionnel-j	traditionnel	AQ0MP00	traditionnel	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:42&collection=eptic3">
+<s id="1813:42">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -19196,7 +19196,7 @@ mois	NCMP000	moi-n	moi	NCMP000	moi	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:43&collection=eptic3">
+<s id="1813:43">
 
 À	SP	à-i	à	SP	à	0	0
 mesure	NCFS000	mesure-n	mesure	NCFS000	mesure	F	S
@@ -19225,7 +19225,7 @@ Pacifique	NPCS000	Pacifique-n	pacifique	NPCS000	Pacifique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1813:44&collection=eptic3">
+<s id="1813:44">
 
 En	SP	en-i	en	SP	en	0	0
 attendant	VMG0000	attendre-v	attendre	VMG0000	attendre	0	0
@@ -19278,7 +19278,7 @@ avenir	NCMS000	avenir-n	avenir	NCMS000	avenir	M	S
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1820:1&collection=eptic3">
+<s id="1820:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -19295,7 +19295,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:2&collection=eptic3">
+<s id="1820:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 protection	NCFS000	protection-n	protection	NCFS000	protection	F	S
@@ -19342,7 +19342,7 @@ enfant	NCCS000	enfant-n	enfant	NCCS000	enfant	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:3&collection=eptic3">
+<s id="1820:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 stratégie	NCFS000	stratégie-n	stratégie	NCFS000	stratégie	F	S
@@ -19393,7 +19393,7 @@ fondamentaux	AQ0MP00	fondamental-j	fondamental	AQ0MP00	fondamental	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:4&collection=eptic3">
+<s id="1820:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -19438,7 +19438,7 @@ législative	AQ0FS00	législatif-j	législative	AQ0FS00	législatif	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:5&collection=eptic3">
+<s id="1820:5">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 pratique	NCFS000	pratique-n	pratique	NCFS000	pratique	F	S
@@ -19475,7 +19475,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:6&collection=eptic3">
+<s id="1820:6">
 
 À	SP	à-i	à	SP	à	0	0
 compter	VMN0000	compter-v	compter	VMN0000	compter	0	0
@@ -19519,7 +19519,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:7&collection=eptic3">
+<s id="1820:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -19574,7 +19574,7 @@ Union	NPFS000	Union-n	union	NPFS000	Union	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:8&collection=eptic3">
+<s id="1820:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -19610,7 +19610,7 @@ internationale	AQ0FS00	international-j	internationale	AQ0FS00	international	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:9&collection=eptic3">
+<s id="1820:9">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 domaine	NCMS000	domaine-n	domaine	NCMS000	domaine	M	S
@@ -19651,7 +19651,7 @@ nationales	AQ0FP00	national-j	nationale	AQ0FP00	national	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:10&collection=eptic3">
+<s id="1820:10">
 
 Tous	DI0MP0	tout-x	tout	DI0MP0	tout	M	P
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -19678,7 +19678,7 @@ pas	RN	pas-r	pas	RN	pas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:11&collection=eptic3">
+<s id="1820:11">
 
 Son	DP3CSS	son-x	son	DP3CSS	son	M	S
 objectif	NCMS000	objectif-n	objectif	NCMS000	objectif	M	S
@@ -19747,7 +19747,7 @@ respectés	VMP00PM	respecter-v	respecté	VMP00PM	respecter	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:12&collection=eptic3">
+<s id="1820:12">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 niveau	NCMS000	niveau-n	niveau	NCMS000	niveau	M	S
@@ -19798,7 +19798,7 @@ contractantes	AQ0FP00	contractant-j	contractante	AQ0FP00	contractant	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:13&collection=eptic3">
+<s id="1820:13">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -19846,7 +19846,7 @@ Haye	NP00000	Haye-n	haye	NP00000	Haye	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:14&collection=eptic3">
+<s id="1820:14">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 étant	VSG0000	être-v	être	VSG0000	être	0	0
@@ -19892,7 +19892,7 @@ enfants	NCCP000	enfant-n	enfant	NCCP000	enfant	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:15&collection=eptic3">
+<s id="1820:15">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -19942,7 +19942,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:16&collection=eptic3">
+<s id="1820:16">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 livre	NCCS000	livre-n	livre	NCCS000	livre	M	S
@@ -20006,7 +20006,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1820:17&collection=eptic3">
+<s id="1820:17">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -20036,7 +20036,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 <speaker name="Yannakoudakis Marina" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="174" duration="short" durations="73.0" speed="medium" speedwm="143.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1821:1&collection=eptic3">
+<s id="1821:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -20080,7 +20080,7 @@ parents	NCMP000	parent-n	parent	NCMP000	parent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:2&collection=eptic3">
+<s id="1821:2">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 adopter	VMN0000	adopter-v	adopter	VMN0000	adopter	0	0
@@ -20116,7 +20116,7 @@ adoption	NCFS000	adoption-n	adoption	NCFS000	adoption	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:3&collection=eptic3">
+<s id="1821:3">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 bien-être	NCMN000	bien-être-n	bien-être	NCMN000	bien-être	M	S
@@ -20143,7 +20143,7 @@ adoption	NCFS000	adoption-n	adoption	NCFS000	adoption	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:4&collection=eptic3">
+<s id="1821:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 question	NCFS000	question-n	question	NCFS000	question	F	S
@@ -20180,7 +20180,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:5&collection=eptic3">
+<s id="1821:5">
 
 S	NP00000	S-n	s	NP00000	S	0	0
 <g/>
@@ -20237,7 +20237,7 @@ enfant	NCCS000	enfant-n	enfant	NCCS000	enfant	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:6&collection=eptic3">
+<s id="1821:6">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -20283,7 +20283,7 @@ enfant	NCCS000	enfant-n	enfant	NCCS000	enfant	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1821:7&collection=eptic3">
+<s id="1821:7">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 États	NPMP000	États-n	états	NPMP000	États	M	P
@@ -20343,7 +20343,7 @@ priorité	NCFS000	priorité-n	priorité	NCFS000	priorité	F	S
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1822:1&collection=eptic3">
+<s id="1822:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -20378,7 +20378,7 @@ différentes	AQ0FP00	différent-j	différente	AQ0FP00	différent	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:2&collection=eptic3">
+<s id="1822:2">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
@@ -20399,7 +20399,7 @@ adoption	NCFS000	adoption-n	adoption	NCFS000	adoption	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:3&collection=eptic3">
+<s id="1822:3">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 association	NCFS000	association-n	association	NCFS000	association	F	S
@@ -20430,7 +20430,7 @@ faire	VMN0000	faire-v	faire	VMN0000	faire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:4&collection=eptic3">
+<s id="1822:4">
 
 Notre	DP1CSP	notre-x	notre	DP1CSP	notre	F	S
 attitude	NCFS000	attitude-n	attitude	NCFS000	attitude	F	S
@@ -20446,7 +20446,7 @@ changé	VMP00SM	changer-v	changé	VMP00SM	changer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:5&collection=eptic3">
+<s id="1822:5">
 
 En	SP	en-i	en	SP	en	0	0
 Irlande	NPFS000	Irlande-n	irlande	NPFS000	Irlande	F	S
@@ -20485,7 +20485,7 @@ adoptés	VMP00PM	adopter-v	adopté	VMP00PM	adopter	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:6&collection=eptic3">
+<s id="1822:6">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -20525,7 +20525,7 @@ dernière	AQ0FS00	dernier-j	dernière	AQ0FS00	dernier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:7&collection=eptic3">
+<s id="1822:7">
 
 Certes	RG	certes-r	certes	RG	certes	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -20544,7 +20544,7 @@ cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:8&collection=eptic3">
+<s id="1822:8">
 
 De	SP	de-i	de	SP	de	0	0
 même	RG	même-r	même	RG	même	0	0
@@ -20569,7 +20569,7 @@ enfants	NCCP000	enfant-n	enfant	NCCP000	enfant	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:9&collection=eptic3">
+<s id="1822:9">
 
 Chaque	DI0CS0	chaque-x	chaque	DI0CS0	chaque	M	S
 État	NPMS000	État-n	état	NPMS000	État	M	S
@@ -20604,7 +20604,7 @@ frontières	NCFP000	frontière-n	frontière	NCFP000	frontière	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:10&collection=eptic3">
+<s id="1822:10">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 conviendrait	VMIC3S0	convenir-v	convenir	VMIC3S0	convenir	0	0
@@ -20621,7 +20621,7 @@ coordination	NCFS000	coordination-n	coordination	NCFS000	coordination	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:11&collection=eptic3">
+<s id="1822:11">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -20645,7 +20645,7 @@ enfant	NCCS000	enfant-n	enfant	NCCS000	enfant	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:12&collection=eptic3">
+<s id="1822:12">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 en	PP3CN00	en-p	en	PP3CN00	en	0	0
@@ -20669,7 +20669,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:13&collection=eptic3">
+<s id="1822:13">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -20685,7 +20685,7 @@ lieu	NCMS000	lieu-n	lieu	NCMS000	lieu	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:14&collection=eptic3">
+<s id="1822:14">
 
 Par	SP	par-i	par	SP	par	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -20701,7 +20701,7 @@ certainement	RG	certainement-r	certainement	RG	certainement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1822:15&collection=eptic3">
+<s id="1822:15">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
@@ -20731,7 +20731,7 @@ mené	VMP00SM	mener-v	mené	VMP00SM	mener	M	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1823:1&collection=eptic3">
+<s id="1823:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -20759,7 +20759,7 @@ heureux	AQ0MN00	heureux-j	heureux	AQ0MN00	heureux	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1823:2&collection=eptic3">
+<s id="1823:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 plupart	NCFS000	plupart-n	plupart	NCFS000	plupart	F	S
@@ -20779,7 +20779,7 @@ naturels	AQ0MP00	naturel-j	naturel	AQ0MP00	naturel	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1823:3&collection=eptic3">
+<s id="1823:3">
 
 Beaucoup	RG	beaucoup-r	beaucoup	RG	beaucoup	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -20796,7 +20796,7 @@ adoptifs	AQ0MP00	adoptif-j	adoptif	AQ0MP00	adoptif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1823:4&collection=eptic3">
+<s id="1823:4">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 2	Z	2-m	2	Z	2	0	0
@@ -20832,7 +20832,7 @@ exploitation	NCFS000	exploitation-n	exploitation	NCFS000	exploitation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1823:5&collection=eptic3">
+<s id="1823:5">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -20922,7 +20922,7 @@ interminables	AQ0CP00	interminable-j	interminable	AQ0CP00	interminable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1823:6&collection=eptic3">
+<s id="1823:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -20973,7 +20973,7 @@ foyers	NCMP000	foyer-n	foyer	NCMP000	foyer	M	P
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1824:1&collection=eptic3">
+<s id="1824:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -21024,7 +21024,7 @@ internationale	AQ0FS00	international-j	internationale	AQ0FS00	international	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1824:2&collection=eptic3">
+<s id="1824:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -21095,7 +21095,7 @@ culture	NCFS000	culture-n	culture	NCFS000	culture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1824:3&collection=eptic3">
+<s id="1824:3">
 
 Plus	RG	plus-r	plus	RG	plus	0	0
 précisément	RG	précisément-r	précisément	RG	précisément	0	0
@@ -21155,7 +21155,7 @@ frontières	NCFP000	frontière-n	frontière	NCFP000	frontière	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1824:4&collection=eptic3">
+<s id="1824:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 traite	NCFS000	traite-n	traite	NCFS000	traite	F	S
@@ -21212,7 +21212,7 @@ international	AQ0MS00	international-j	international	AQ0MS00	international	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1824:5&collection=eptic3">
+<s id="1824:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -21281,7 +21281,7 @@ vulnérables	AQ0CP00	vulnérable-j	vulnérable	AQ0CP00	vulnérable	M,F	P
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1825:1&collection=eptic3">
+<s id="1825:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -21306,7 +21306,7 @@ illégale	AQ0FS00	illégal-j	illégale	AQ0FS00	illégal	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:2&collection=eptic3">
+<s id="1825:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 existe	VMIP1S0	exister-v	exister	VMIP1S0	exister	0	0
@@ -21342,7 +21342,7 @@ commerce	NCMS000	commerce-n	commerce	NCMS000	commerce	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:3&collection=eptic3">
+<s id="1825:3">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
 centaines	NCFP000	centaine-n	centaine	NCFP000	centaine	F	P
@@ -21360,7 +21360,7 @@ vente	NCFS000	vente-n	vente	NCFS000	vente	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:4&collection=eptic3">
+<s id="1825:4">
 
 Après	SP	après-i	après	SP	après	0	0
 tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
@@ -21405,7 +21405,7 @@ humains	AQ0MP00	humain-j	humain	AQ0MP00	humain	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:5&collection=eptic3">
+<s id="1825:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 demande	VMIP1S0	demander-v	demander	VMIP1S0	demander	0	0
@@ -21433,7 +21433,7 @@ auteurs	NCMP000	auteur-n	auteur	NCMP000	auteur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:6&collection=eptic3">
+<s id="1825:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -21458,7 +21458,7 @@ perverse	AQ0FS00	pervers-j	perverse	AQ0FS00	pervers	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1825:7&collection=eptic3">
+<s id="1825:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -21502,7 +21502,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1826:1&collection=eptic3">
+<s id="1826:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -21534,7 +21534,7 @@ apparentées	VMP00PF	apparenter-v	apparentée	VMP00PF	apparenter	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:2&collection=eptic3">
+<s id="1826:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 grands-parents	NCMP000	grands-parents-n	grands-parents	NCMP000	grands-parents	M	P
@@ -21586,7 +21586,7 @@ toxicomanie	NCFS000	toxicomanie-n	toxicomanie	NCFS000	toxicomanie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:3&collection=eptic3">
+<s id="1826:3">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -21626,7 +21626,7 @@ apparentées	VMP00PF	apparenter-v	apparentée	VMP00PF	apparenter	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:4&collection=eptic3">
+<s id="1826:4">
 
 Certains	DI0MP0	certain-x	certain	DI0MP0	certain	M	P
 parents	NCMP000	parent-n	parent	NCMP000	parent	M	P
@@ -21640,7 +21640,7 @@ petits-enfants	NCCP000	petit-enfant-n	petit-enfant	NCCP000	petit-enfant	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:5&collection=eptic3">
+<s id="1826:5">
 
 D	NP00000	D-n	d	NP00000	D	0	0
 <g/>
@@ -21670,7 +21670,7 @@ stable	AQ0CS00	stable-j	stable	AQ0CS00	stable	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:6&collection=eptic3">
+<s id="1826:6">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -21710,7 +21710,7 @@ dit	VMP00SM	dire-v	dit	VMP00SM	dire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1826:7&collection=eptic3">
+<s id="1826:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -21777,7 +21777,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1827:1&collection=eptic3">
+<s id="1827:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -21819,7 +21819,7 @@ soir	NCMS000	soir-n	soir	NCMS000	soir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:2&collection=eptic3">
+<s id="1827:2">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -21836,7 +21836,7 @@ débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:3&collection=eptic3">
+<s id="1827:3">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -21877,7 +21877,7 @@ internationales	AQ0FP00	international-j	internationale	AQ0FP00	international	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:4&collection=eptic3">
+<s id="1827:4">
 
 Tel	AQ0MS00	tel-j	tel	AQ0MS00	tel	M	S
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -21926,7 +21926,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:5&collection=eptic3">
+<s id="1827:5">
 
 À	SP	à-i	à	SP	à	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -21976,7 +21976,7 @@ de	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:6&collection=eptic3">
+<s id="1827:6">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -22020,7 +22020,7 @@ enfant	NCCS000	enfant-n	enfant	NCCS000	enfant	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:7&collection=eptic3">
+<s id="1827:7">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -22085,7 +22085,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:8&collection=eptic3">
+<s id="1827:8">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -22145,7 +22145,7 @@ roumain	AQ0MS00	roumain-j	roumain	AQ0MS00	roumain	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:9&collection=eptic3">
+<s id="1827:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 mesure	NCFS000	mesure-n	mesure	NCFS000	mesure	F	S
@@ -22183,7 +22183,7 @@ internationale	AQ0FS00	international-j	internationale	AQ0FS00	international	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:10&collection=eptic3">
+<s id="1827:10">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -22224,7 +22224,7 @@ loi	NCFS000	loi-n	loi	NCFS000	loi	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:11&collection=eptic3">
+<s id="1827:11">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 sujet	NCMS000	sujet-n	sujet	NCMS000	sujet	M	S
@@ -22271,7 +22271,7 @@ internationale	AQ0FS00	international-j	internationale	AQ0FS00	international	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:12&collection=eptic3">
+<s id="1827:12">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -22284,7 +22284,7 @@ suivi	VMP00SM	suivre-v	suivi	VMP00SM	suivre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:13&collection=eptic3">
+<s id="1827:13">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 allons	VMIP1P0	aller-v	aller	VMIP1P0	aller	0	0
@@ -22317,7 +22317,7 @@ organe	NCMS000	organe-n	organe	NCMS000	organe	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:14&collection=eptic3">
+<s id="1827:14">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -22339,7 +22339,7 @@ nationale	AQ0FS00	national-j	nationale	AQ0FS00	national	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:15&collection=eptic3">
+<s id="1827:15">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 concerne	VMIP3S0	concerner-v	concerner	VMIP3S0	concerner	0	0
@@ -22376,7 +22376,7 @@ cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:16&collection=eptic3">
+<s id="1827:16">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -22415,7 +22415,7 @@ attendue	VMP00SF	attendre-v	attendue	VMP00SF	attendre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:17&collection=eptic3">
+<s id="1827:17">
 
 En	SP	en-i	en	SP	en	0	0
 tant	RG	tant-r	tant	RG	tant	0	0
@@ -22478,7 +22478,7 @@ nombreux	AQ0MN00	nombreux-j	nombreux	AQ0MN00	nombreux	M	S,P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:18&collection=eptic3">
+<s id="1827:18">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -22535,7 +22535,7 @@ esprits	NCMP000	esprit-n	esprit	NCMP000	esprit	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1827:19&collection=eptic3">
+<s id="1827:19">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -22587,7 +22587,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1828:1&collection=eptic3">
+<s id="1828:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -22643,7 +22643,7 @@ destinations	NCFP000	destination-n	destination	NCFP000	destination	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1828:2&collection=eptic3">
+<s id="1828:2">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -22685,7 +22685,7 @@ voyageurs	NCMP000	voyageur-n	voyageur	NCMP000	voyageur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1828:3&collection=eptic3">
+<s id="1828:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 demande	VMIP1S0	demander-v	demander	VMIP1S0	demander	0	0
@@ -22776,7 +22776,7 @@ aéroports	NCMP000	aéroport-n	aéroport	NCMP000	aéroport	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1828:4&collection=eptic3">
+<s id="1828:4">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 chutes	NCFP000	chute-n	chute	NCFP000	chute	F	P
@@ -22812,7 +22812,7 @@ arctique	AQ0CS00	arctique-j	arctique	AQ0CS00	arctique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1828:5&collection=eptic3">
+<s id="1828:5">
 
 Elles	PP3FP00	elles-p	elles	PP3FP00	elles	0	0
 se	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -22825,7 +22825,7 @@ souvent	RG	souvent-r	souvent	RG	souvent	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1828:6&collection=eptic3">
+<s id="1828:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -22867,7 +22867,7 @@ préparer	VMN0000	préparer-v	préparer	VMN0000	préparer	0	0
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1829:1&collection=eptic3">
+<s id="1829:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -22951,7 +22951,7 @@ Rizokarpaso	NPMS000	Rizokarpaso-n	rizokarpaso	NPMS000	Rizokarpaso	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1829:2&collection=eptic3">
+<s id="1829:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 soi-disant	AQ0CN00	soi-disant-j	soi-disant	AQ0CN00	soi-disant	F	P
@@ -23023,7 +23023,7 @@ ans	NCMP000	an-n	an	NCMP000	an	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1829:3&collection=eptic3">
+<s id="1829:3">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -23069,7 +23069,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1830:1&collection=eptic3">
+<s id="1830:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -23136,7 +23136,7 @@ lieux	NCMP000	lieu-n	lieu	NCMP000	lieu	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1830:2&collection=eptic3">
+<s id="1830:2">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
@@ -23171,7 +23171,7 @@ samedi	NCMS000	samedi-n	samedi	NCMS000	samedi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1830:3&collection=eptic3">
+<s id="1830:3">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -23249,7 +23249,7 @@ entrer	VMN0000	entrer-v	entrer	VMN0000	entrer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1830:4&collection=eptic3">
+<s id="1830:4">
 
 En	SP	en-i	en	SP	en	0	0
 vertu	NCFS000	vertu-n	vertu	NCFS000	vertu	F	S
@@ -23285,7 +23285,7 @@ turque	AQ0FS00	turc-j	turque	AQ0FS00	turc	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1830:5&collection=eptic3">
+<s id="1830:5">
 
 Aujourd	NP00000	Aujourd-n	aujourd	NP00000	Aujourd	0	0
 '	Fe	'-x	'	Fe	'	0	0
@@ -23297,7 +23297,7 @@ sont	VMIP3P0	être-v	être	VMIP3P0	être	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1830:6&collection=eptic3">
+<s id="1830:6">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 comprenez	VMIP2P0	comprendre-v	comprendre	VMIP2P0	comprendre	0	0
@@ -23314,7 +23314,7 @@ pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1831:1&collection=eptic3">
+<s id="1831:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -23342,7 +23342,7 @@ Maroc	NPMS000	Maroc-n	maroc	NPMS000	Maroc	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:2&collection=eptic3">
+<s id="1831:2">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -23369,7 +23369,7 @@ modifié	VMP00SM	modifier-v	modifié	VMP00SM	modifier	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:3&collection=eptic3">
+<s id="1831:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -23395,7 +23395,7 @@ insu	NCMS000	insu-n	insu	NCMS000	insu	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:4&collection=eptic3">
+<s id="1831:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -23423,7 +23423,7 @@ UE-Maroc	NPMS000	UE-Maroc-n	ue-maroc	NPMS000	UE-Maroc	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:5&collection=eptic3">
+<s id="1831:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -23455,7 +23455,7 @@ Maroc	NPMS000	Maroc-n	maroc	NPMS000	Maroc	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:6&collection=eptic3">
+<s id="1831:6">
 
 Si	CS	si-c	si	CS	si	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -23494,7 +23494,7 @@ euro-méditerranéens	AQ0MP00	euro-méditerranéen-j	euro-méditerranéen	AQ0MP0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1831:7&collection=eptic3">
+<s id="1831:7">
 
 Voilà	I	voilà-x	voilà	I	voilà	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	F	P
@@ -23518,7 +23518,7 @@ soir	NCMS000	soir-n	soir	NCMS000	soir	M	S
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1832:1&collection=eptic3">
+<s id="1832:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -23544,7 +23544,7 @@ Burns	NPFP000	Burns-n	burns	NPFP000	Burns	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1832:2&collection=eptic3">
+<s id="1832:2">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 beaucoup	RG	beaucoup-r	beaucoup	RG	beaucoup	0	0
@@ -23571,7 +23571,7 @@ haggis	NCMN000	haggis-n	haggis	NCMN000	haggis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1832:3&collection=eptic3">
+<s id="1832:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 existe	VMIP1S0	exister-v	exister	VMIP1S0	exister	0	0
@@ -23609,7 +23609,7 @@ haggis	NCMN000	haggis-n	haggis	NCMN000	haggis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1832:4&collection=eptic3">
+<s id="1832:4">
 
 Quelle	DT0FS0	quel-x	quelle	DT0FS0	quel	F	S
 action	NCFS000	action-n	action	NCFS000	action	F	S
@@ -23674,7 +23674,7 @@ Américains	NPMP000	Américains-n	américains	NPMP000	Américains	M	P
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="161" duration="short" durations="71.0" speed="medium" speedwm="136.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1833:1&collection=eptic3">
+<s id="1833:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -23726,7 +23726,7 @@ Kazakhstan	NPMS000	Kazakhstan-n	kazakhstan	NPMS000	Kazakhstan	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:2&collection=eptic3">
+<s id="1833:2">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -23774,7 +23774,7 @@ décembre	NCMS000	décembre-n	décembre	NCMS000	décembre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:3&collection=eptic3">
+<s id="1833:3">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -23822,7 +23822,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:4&collection=eptic3">
+<s id="1833:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 presse	NCFS000	presse-n	presse	NCFS000	presse	F	S
@@ -23849,7 +23849,7 @@ harcelés	VMP00PM	harceler-v	harcelé	VMP00PM	harceler	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:5&collection=eptic3">
+<s id="1833:5">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 activistes	NCCP000	activiste-n	activiste	NCCP000	activiste	M,F	P
@@ -23868,7 +23868,7 @@ emprisonnés	VMP00PM	emprisonner-v	emprisonné	VMP00PM	emprisonner	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:6&collection=eptic3">
+<s id="1833:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 demande	VMIP1S0	demander-v	demander	VMIP1S0	demander	0	0
@@ -23889,7 +23889,7 @@ Nazarbayev	NPFS000	Nazarbayev-n	nazarbayev	NPFS000	Nazarbayev	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1833:7&collection=eptic3">
+<s id="1833:7">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 mouvements	NCMP000	mouvement-n	mouvement	NCMP000	mouvement	M	P
@@ -23971,7 +23971,7 @@ démocratiquement	RG	démocratiquement-r	démocratiquement	RG	démocratiquement	
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1834:1&collection=eptic3">
+<s id="1834:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -24018,7 +24018,7 @@ fondamental	AQ0MS00	fondamental-j	fondamental	AQ0MS00	fondamental	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1834:2&collection=eptic3">
+<s id="1834:2">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 droit	NCMS000	droit-n	droit	NCMS000	droit	M	S
@@ -24058,7 +24058,7 @@ Rizokarpaso	NPMS000	Rizokarpaso-n	rizokarpaso	NPMS000	Rizokarpaso	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1834:3&collection=eptic3">
+<s id="1834:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 soi-disant	AQ0CN00	soi-disant-j	soi-disant	AQ0CN00	soi-disant	F	S
@@ -24107,7 +24107,7 @@ l	AQ0MS0	l-j	l	AQ0MS0	l	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1834:4&collection=eptic3">
+<s id="1834:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Parlement	NPMS000	Parlement-n	parlement	NPMS000	Parlement	M	S
@@ -24163,7 +24163,7 @@ de	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1834:5&collection=eptic3">
+<s id="1834:5">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -24221,7 +24221,7 @@ restants	AQ0MP00	restant-j	restant	AQ0MP00	restant	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1835:1&collection=eptic3">
+<s id="1835:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -24261,7 +24261,7 @@ oeuvre	NCCS000	œuvre-n	oeuvre	NCCS000	œuvre	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:2&collection=eptic3">
+<s id="1835:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -24297,7 +24297,7 @@ directive	NCFS000	directive-n	directive	NCFS000	directive	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:3&collection=eptic3">
+<s id="1835:3">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 lacune	NCFS000	lacune-n	lacune	NCFS000	lacune	F	S
@@ -24321,7 +24321,7 @@ nationales	AQ0FP00	national-j	nationale	AQ0FP00	national	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:4&collection=eptic3">
+<s id="1835:4">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -24350,7 +24350,7 @@ maximales	AQ0FP00	maximal-j	maximale	AQ0FP00	maximal	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:5&collection=eptic3">
+<s id="1835:5">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -24368,7 +24368,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:6&collection=eptic3">
+<s id="1835:6">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 question	NCFS000	question-n	question	NCFS000	question	F	S
@@ -24389,7 +24389,7 @@ présentée	VMP00SF	présenter-v	présentée	VMP00SF	présenter	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1835:7&collection=eptic3">
+<s id="1835:7">
 
 Peut-être	RG	peut-être-r	peut-être	RG	peut-être	0	0
 que	CS	que-c	que	CS	que	0	0
@@ -24432,7 +24432,7 @@ travers	NCMN000	travers-n	travers	NCMN000	travers	M	S,P
 "	Fe	"-x	"	Fe	"	0	0
 </s>
 
-<s id="1835:8&collection=eptic3">
+<s id="1835:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 faut	VMIP3S0	faillir-v	faillir	VMIP3S0	faillir	0	0
@@ -24467,7 +24467,7 @@ critères	NCMP000	critère-n	critère	NCMP000	critère	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:9&collection=eptic3">
+<s id="1835:9">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 plus	RG	plus-r	plus	RG	plus	0	0
@@ -24478,7 +24478,7 @@ mieux	NCMN000	mieux-n	mieux	NCMN000	mieux	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1835:10&collection=eptic3">
+<s id="1835:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 prie	VMIP1S0	prier-v	prier	VMIP1S0	prier	0	0
@@ -24500,7 +24500,7 @@ agir	VMN0000	agir-v	agir	VMN0000	agir	0	0
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1836:1&collection=eptic3">
+<s id="1836:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -24515,7 +24515,7 @@ questions	NCFP000	question-n	question	NCFP000	question	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1836:2&collection=eptic3">
+<s id="1836:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -24554,7 +24554,7 @@ ONG	NP00000	ONG-n	ong	NP00000	ONG	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1836:3&collection=eptic3">
+<s id="1836:3">
 
 Y	PP3CN00	y-p	y	PP3CN00	y	0	0
 a-t-il	VMIP3S0	avoir-v	avoir	VAIP3S0,PP3MS00	avoir,il	0	0
@@ -24615,7 +24615,7 @@ réserves	NCFP000	réserve-n	réserve	NCFP000	réserve	F	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1836:4&collection=eptic3">
+<s id="1836:4">
 
 En	PP3CN00	en-p	en	PP3CN00	en	0	0
 d	NCMS000	d-n	d	NCMS000	d	M	S
@@ -24649,7 +24649,7 @@ annuelle	AQ0FS00	annuel-j	annuelle	AQ0FS00	annuel	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1836:5&collection=eptic3">
+<s id="1836:5">
 
 Où	PT00000	où-p	où	PT00000	où	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -24658,7 +24658,7 @@ responsabilité	NCFS000	responsabilité-n	responsabilité	NCFS000	responsabilit�
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1836:6&collection=eptic3">
+<s id="1836:6">
 
 À	SP	à-i	à	SP	à	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -24696,7 +24696,7 @@ responsabilité	NCFS000	responsabilité-n	responsabilité	NCFS000	responsabilit�
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1836:7&collection=eptic3">
+<s id="1836:7">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 étant	VSG0000	être-v	être	VSG0000	être	0	0
@@ -24728,7 +24728,7 @@ honnêtes	AQ0CP00	honnête-j	honnête	AQ0CP00	honnête	F	P
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1837:1&collection=eptic3">
+<s id="1837:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -24769,7 +24769,7 @@ efficace	AQ0CS00	efficace-j	efficace	AQ0CS00	efficace	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:2&collection=eptic3">
+<s id="1837:2">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 consensus	NCMN000	consensus-n	consensus	NCMN000	consensus	M	S
@@ -24781,7 +24781,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:3&collection=eptic3">
+<s id="1837:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 dispose	VMIP1S0	disposer-v	disposer	VMIP1S0	disposer	0	0
@@ -24812,7 +24812,7 @@ action	NCFS000	action-n	action	NCFS000	action	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:4&collection=eptic3">
+<s id="1837:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 responsabilité	NCFS000	responsabilité-n	responsabilité	NCFS000	responsabilité	F	S
@@ -24839,7 +24839,7 @@ Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:5&collection=eptic3">
+<s id="1837:5">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 qui	PR00000	qui-p	qui	PR00000	qui	0	0
@@ -24939,7 +24939,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:6&collection=eptic3">
+<s id="1837:6">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 que	CS	que-c	que	CS	que	0	0
@@ -24972,7 +24972,7 @@ façon	NCFS000	façon-n	façon	NCFS000	façon	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:7&collection=eptic3">
+<s id="1837:7">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 d	NCMS000	d-n	d	NCMS000	d	M	S
@@ -24987,7 +24987,7 @@ exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:8&collection=eptic3">
+<s id="1837:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 viens	VMIP1S0	venir-v	venir	VMIP1S0	venir	0	0
@@ -25039,7 +25039,7 @@ al-Houthi	VMP00SM	al-houthi-v	al-houthi	VMP00SM	al-houthi	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:9&collection=eptic3">
+<s id="1837:9">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -25095,7 +25095,7 @@ indépendance	NCFS000	indépendance-n	indépendance	NCFS000	indépendance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:10&collection=eptic3">
+<s id="1837:10">
 
 Après	SP	après-i	après	SP	après	0	0
 avoir	VAN0000	avoir-v	avoir	VAN0000	avoir	0	0
@@ -25137,7 +25137,7 @@ besoin	NCMS000	besoin-n	besoin	NCMS000	besoin	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:11&collection=eptic3">
+<s id="1837:11">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -25181,7 +25181,7 @@ Yémen	NPMS000	Yémen-n	yémen	NPMS000	Yémen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:12&collection=eptic3">
+<s id="1837:12">
 
 Bien	RG	bien-r	bien	RG	bien	0	0
 entendu	VMP00SM	entendre-v	entendu	VMP00SM	entendre	M	S
@@ -25210,7 +25210,7 @@ terme	NCMS000	terme-n	terme	NCMS000	terme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:13&collection=eptic3">
+<s id="1837:13">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -25232,7 +25232,7 @@ durable	AQ0CS00	durable-j	durable	AQ0CS00	durable	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:14&collection=eptic3">
+<s id="1837:14">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 sein	NCMS000	sein-n	sein	NCMS000	sein	M	S
@@ -25278,7 +25278,7 @@ humanitaires	AQ0CP00	humanitaire-j	humanitaire	AQ0CP00	humanitaire	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:15&collection=eptic3">
+<s id="1837:15">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 8	Z	8-m	8	Z	8	0	0
@@ -25296,7 +25296,7 @@ thème	NCMS000	thème-n	thème	NCMS000	thème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:16&collection=eptic3">
+<s id="1837:16">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 révision	NCFS000	révision-n	révision	NCFS000	révision	F	S
@@ -25346,7 +25346,7 @@ civile	AQ0FS00	civil-j	civile	AQ0FS00	civil	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:17&collection=eptic3">
+<s id="1837:17">
 
 Nos	DP1CPP	notre-x	notre	DP1CPP	notre	F	P
 conclusions	NCFP000	conclusion-n	conclusion	NCFP000	conclusion	F	P
@@ -25365,7 +25365,7 @@ domaines	NCMP000	domaine-n	domaine	NCMP000	domaine	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:18&collection=eptic3">
+<s id="1837:18">
 
 Tout	PI0MS00	tout-p	tout	PI0MS00	tout	M	S
 d'	SP	de-i	de	SP	de	0	0
@@ -25416,7 +25416,7 @@ locales	AQ0FP00	local-j	locale	AQ0FP00	local	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:19&collection=eptic3">
+<s id="1837:19">
 
 Alors	RG	alors-r	alors	RG	alors	0	0
 que	CS	que-c	que	CS	que	0	0
@@ -25437,7 +25437,7 @@ essentiel	AQ0MS00	essentiel-j	essentiel	AQ0MS00	essentiel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:20&collection=eptic3">
+<s id="1837:20">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 simplement	RG	simplement-r	simplement	RG	simplement	0	0
@@ -25453,7 +25453,7 @@ responsabilité	NCFS000	responsabilité-n	responsabilité	NCFS000	responsabilit�
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:21&collection=eptic3">
+<s id="1837:21">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -25483,7 +25483,7 @@ possible	AQ0CS00	possible-j	possible	AQ0CS00	possible	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:22&collection=eptic3">
+<s id="1837:22">
 
 Afin	SP	afin-i	afin	SP	afin	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -25526,7 +25526,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:23&collection=eptic3">
+<s id="1837:23">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 disposons	VMIP1P0	disposer-v	disposer	VMIP1P0	disposer	0	0
@@ -25573,7 +25573,7 @@ croissants	NCMP000	croissant-n	croissant	NCMP000	croissant	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:24&collection=eptic3">
+<s id="1837:24">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -25592,7 +25592,7 @@ là-bas	RG	là-bas-r	là-bas	RG	là-bas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:25&collection=eptic3">
+<s id="1837:25">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 deuxième	AO0CS00	2-j	deuxième	AO0CS00	2	M	S
@@ -25615,7 +25615,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:26&collection=eptic3">
+<s id="1837:26">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VMIP2S0	sommer-v	sommer	VMIP2S0	sommer	0	0
@@ -25640,7 +25640,7 @@ unisson	NCMS000	unisson-n	unisson	NCMS000	unisson	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:27&collection=eptic3">
+<s id="1837:27">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -25673,7 +25673,7 @@ donateurs	NCMP000	donateur-n	donateur	NCMP000	donateur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:28&collection=eptic3">
+<s id="1837:28">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -25729,7 +25729,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:29&collection=eptic3">
+<s id="1837:29">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -25762,7 +25762,7 @@ thème	NCMS000	thème-n	thème	NCMS000	thème	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:30&collection=eptic3">
+<s id="1837:30">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
@@ -25771,7 +25771,7 @@ changé	VMP00SM	changer-v	changé	VMP00SM	changer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:31&collection=eptic3">
+<s id="1837:31">
 
 Malheureusement	RG	malheureusement-r	malheureusement	RG	malheureusement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -25795,7 +25795,7 @@ humaine	AQ0FS00	humain-j	humaine	AQ0FS00	humain	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1837:32&collection=eptic3">
+<s id="1837:32">
 
 Quelle	DT0FS0	quel-x	quelle	DT0FS0	quel	F	S
 que	CS	que-c	que	CS	que	0	0
@@ -25853,7 +25853,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1838:1&collection=eptic3">
+<s id="1838:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -25895,7 +25895,7 @@ fictifs	AQ0MP00	fictif-j	fictif	AQ0MP00	fictif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:2&collection=eptic3">
+<s id="1838:2">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 fait	VMIP3S0	faire-v	faire	VMIP3S0	faire	0	0
@@ -25929,7 +25929,7 @@ mondiale	AQ0FS00	mondial-j	mondiale	AQ0FS00	mondial	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:3&collection=eptic3">
+<s id="1838:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 regrette	VMIP1S0	regretter-v	regretter	VMIP1S0	regretter	0	0
@@ -25945,7 +25945,7 @@ minuit	NCMS000	minuit-n	minuit	NCMS000	minuit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:4&collection=eptic3">
+<s id="1838:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 sera	VMIF3S0	être-v	être	VMIF3S0	être	0	0
@@ -25979,7 +25979,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:5&collection=eptic3">
+<s id="1838:5">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -26014,7 +26014,7 @@ commune	AQ0FS00	commun-j	commune	AQ0FS00	commun	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:6&collection=eptic3">
+<s id="1838:6">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -26035,7 +26035,7 @@ aborde	VMIP3S0	aborder-v	aborder	VMIP3S0	aborder	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:7&collection=eptic3">
+<s id="1838:7">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -26082,7 +26082,7 @@ argument	NCMS000	argument-n	argument	NCMS000	argument	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:8&collection=eptic3">
+<s id="1838:8">
 
 Tous	DI0MP0	tout-x	tout	DI0MP0	tout	M	P
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -26100,7 +26100,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:9&collection=eptic3">
+<s id="1838:9">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -26130,7 +26130,7 @@ réponses	NCFP000	réponse-n	réponse	NCFP000	réponse	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:10&collection=eptic3">
+<s id="1838:10">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -26150,7 +26150,7 @@ agriculteurs	NCMP000	agriculteur-n	agriculteur	NCMP000	agriculteur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1838:11&collection=eptic3">
+<s id="1838:11">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 jeunes	AQ0CP00	jeune-j	jeune	AQ0CP00	jeune	M	P
@@ -26193,7 +26193,7 @@ alimentaires	AQ0CP00	alimentaire-j	alimentaire	AQ0CP00	alimentaire	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1839:1&collection=eptic3">
+<s id="1839:1">
 
 En	SP	en-i	en	SP	en	0	0
 4	Z	4-m	4	Z	4	0	0
@@ -26213,7 +26213,7 @@ questions	NCFP000	question-n	question	NCFP000	question	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:2&collection=eptic3">
+<s id="1839:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -26240,7 +26240,7 @@ points	NCMP000	point-n	pt	NCMP000	point	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:3&collection=eptic3">
+<s id="1839:3">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -26253,7 +26253,7 @@ nécessaire	AQ0CS00	nécessaire-j	nécessaire	AQ0CS00	nécessaire	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:4&collection=eptic3">
+<s id="1839:4">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -26284,7 +26284,7 @@ affaiblie	VMP00SF	affaiblir-v	affaiblie	VMP00SF	affaiblir	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:5&collection=eptic3">
+<s id="1839:5">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -26313,7 +26313,7 @@ subsistance	NCFS000	subsistance-n	subsistance	NCFS000	subsistance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:6&collection=eptic3">
+<s id="1839:6">
 
 En	SP	en-i	en	SP	en	0	0
 outre	NCFS000	outre-n	outre	NCFS000	outre	F	S
@@ -26339,7 +26339,7 @@ cultures	NCFP000	culture-n	culture	NCFP000	culture	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1839:7&collection=eptic3">
+<s id="1839:7">
 
 Étant	VSG0000	être-v	être	VSG0000	être	0	0
 donné	VMP00SM	donner-v	donné	VMP00SM	donner	M	S
@@ -26376,7 +26376,7 @@ politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1839:8&collection=eptic3">
+<s id="1839:8">
 
 Volons-nous	VMM01P0	voler-v	voler	VMIP1P0,PP1CP00	voler,nous	0	0
 Pierre	NPFS000	Pierre-n	pierre	NPFS000	Pierre	F	S
@@ -26400,7 +26400,7 @@ finalement	RG	finalement-r	finalement	RG	finalement	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1839:9&collection=eptic3">
+<s id="1839:9">
 
 C	NP00000	C-n	c	NP00000	C	0	0
 <g/>
@@ -26423,7 +26423,7 @@ poser	VMN0000	poser-v	poser	VMN0000	poser	0	0
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1840:1&collection=eptic3">
+<s id="1840:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -26467,7 +26467,7 @@ Roms	NPMP000	Roms-n	roms	NPMP000	Roms	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1840:2&collection=eptic3">
+<s id="1840:2">
 
 Parmi	SP	parmi-i	parmi	SP	parmi	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	F	P
@@ -26506,7 +26506,7 @@ terre	NCFS000	terre-n	terre	NCFS000	terre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1840:3&collection=eptic3">
+<s id="1840:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -26530,7 +26530,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1840:4&collection=eptic3">
+<s id="1840:4">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -26565,7 +26565,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1840:5&collection=eptic3">
+<s id="1840:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 crois	VMIP1S0	croire-v	croire	VMIP1S0	croire	0	0
@@ -26630,7 +26630,7 @@ futures	AQ0FP00	futur-j	future	AQ0FP00	futur	F	P
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="433" duration="medium" durations="234.0" speed="slow" speedwm="111.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1841:1&collection=eptic3">
+<s id="1841:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -26690,7 +26690,7 @@ aliments	NCMP000	aliment-n	aliment	NCMP000	aliment	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:2&collection=eptic3">
+<s id="1841:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -26723,7 +26723,7 @@ efforts	NCMP000	effort-n	effort	NCMP000	effort	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:3&collection=eptic3">
+<s id="1841:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 sécurité	NCFS000	sécurité-n	sécurité	NCFS000	sécurité	F	S
@@ -26765,7 +26765,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:4&collection=eptic3">
+<s id="1841:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
@@ -26779,7 +26779,7 @@ personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:5&collection=eptic3">
+<s id="1841:5">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 PAC	NPMS000	PAC-n	pac	NPMS000	PAC	M	S
@@ -26816,7 +26816,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:6&collection=eptic3">
+<s id="1841:6">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 doit	VMIP3S0	devoir-v	devoir	VMIP3S0	devoir	0	0
@@ -26824,7 +26824,7 @@ continuer	VMN0000	continuer-v	continuer	VMN0000	continuer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:7&collection=eptic3">
+<s id="1841:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 sécurité	NCFS000	sécurité-n	sécurité	NCFS000	sécurité	F	S
@@ -26861,7 +26861,7 @@ novembre	NCMS000	novembre-n	novembre	NCMS000	novembre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:8&collection=eptic3">
+<s id="1841:8">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -26905,7 +26905,7 @@ consommateurs	NCMP000	consommateur-n	consommateur	NCMP000	consommateur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:9&collection=eptic3">
+<s id="1841:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -26931,7 +26931,7 @@ prix	NCMN000	prix-n	prix	NCMN000	prix	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:10&collection=eptic3">
+<s id="1841:10">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -26975,7 +26975,7 @@ marché	NCMS000	marché-n	marché	NCMS000	marché	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:11&collection=eptic3">
+<s id="1841:11">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -27005,7 +27005,7 @@ simple	AQ0CS00	simple-j	simple	AQ0CS00	simple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:12&collection=eptic3">
+<s id="1841:12">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -27030,7 +27030,7 @@ inefficaces	AQ0CP00	inefficace-j	inefficace	AQ0CP00	inefficace	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:13&collection=eptic3">
+<s id="1841:13">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -27046,7 +27046,7 @@ approfondi	VMP00SM	approfondir-v	approfondi	VMP00SM	approfondir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:14&collection=eptic3">
+<s id="1841:14">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 requiert	VMIP3S0	requérir-v	requérir	VMIP3S0	requérir	0	0
@@ -27133,7 +27133,7 @@ alimentaires	AQ0CP00	alimentaire-j	alimentaire	AQ0CP00	alimentaire	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:15&collection=eptic3">
+<s id="1841:15">
 
 Tous	DI0MP0	tout-x	tout	DI0MP0	tout	M	P
 ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
@@ -27177,7 +27177,7 @@ semaines	NCFP000	semaine-n	semaine	NCFP000	semaine	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:16&collection=eptic3">
+<s id="1841:16">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -27268,7 +27268,7 @@ diminution	NCFS000	diminution-n	diminution	NCFS000	diminution	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:17&collection=eptic3">
+<s id="1841:17">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -27283,7 +27283,7 @@ vue	NCFS000	vue-n	vue	NCFS000	vue	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1841:18&collection=eptic3">
+<s id="1841:18">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 atteindre	VMN0000	atteindre-v	atteindre	VMN0000	atteindre	0	0
@@ -27363,7 +27363,7 @@ européen	NCMS000	européen-n	européen	NCMS000	européen	M	S
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1842:1&collection=eptic3">
+<s id="1842:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -27407,7 +27407,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1842:2&collection=eptic3">
+<s id="1842:2">
 
 Mesdames	NCFP000	madame-n	madame	NCFP000	madame	F	P
 et	CC	et-c	et	CC	et	0	0
@@ -27454,7 +27454,7 @@ votre	DP2CSP	votre-x	votre	DP2CSP	votre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1842:3&collection=eptic3">
+<s id="1842:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -27485,7 +27485,7 @@ attentes	NCFP000	attente-n	attente	NCFP000	attente	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1842:4&collection=eptic3">
+<s id="1842:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vais	VMIP1S0	aller-v	aller	VMIP1S0	aller	0	0
@@ -27510,7 +27510,7 @@ maternelle	AQ0FS00	maternel-j	maternelle	AQ0FS00	maternel	F	S
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1843:1&collection=eptic3">
+<s id="1843:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -27559,7 +27559,7 @@ Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:2&collection=eptic3">
+<s id="1843:2">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 également	RG	également-r	également	RG	également	0	0
@@ -27592,7 +27592,7 @@ Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:3&collection=eptic3">
+<s id="1843:3">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -27625,7 +27625,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:4&collection=eptic3">
+<s id="1843:4">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -27666,7 +27666,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:5&collection=eptic3">
+<s id="1843:5">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 cap	NCMS000	cap-n	cap	NCMS000	cap	M	S
@@ -27700,7 +27700,7 @@ région	NCFS000	région-n	région	NCFS000	région	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:6&collection=eptic3">
+<s id="1843:6">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -27761,7 +27761,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:7&collection=eptic3">
+<s id="1843:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 prévoit	VMIP3S0	prévoir-v	prévoir	VMIP3S0	prévoir	0	0
@@ -27784,7 +27784,7 @@ mixte	AQ0CS00	mixte-j	mixte	AQ0CS00	mixte	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:8&collection=eptic3">
+<s id="1843:8">
 
 D	NP00000	D-n	d	NP00000	D	0	0
 <g/>
@@ -27856,7 +27856,7 @@ Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:9&collection=eptic3">
+<s id="1843:9">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -27886,7 +27886,7 @@ indirects	AQ0MP00	indirect-j	indirect	AQ0MP00	indirect	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:10&collection=eptic3">
+<s id="1843:10">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 contribuera	VMIF3S0	contribuer-v	contribuer	VMIF3S0	contribuer	0	0
@@ -27926,7 +27926,7 @@ opérationnelle	AQ0FS00	opérationnel-j	opérationnelle	AQ0FS00	opérationnel	F	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:11&collection=eptic3">
+<s id="1843:11">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 avantages	NCMP000	avantage-n	avantage	NCMP000	avantage	M	P
@@ -27945,7 +27945,7 @@ considérables	AQ0CP00	considérable-j	considérable	AQ0CP00	considérable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:12&collection=eptic3">
+<s id="1843:12">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 marché	NCMS000	marché-n	marché	NCMS000	marché	M	S
@@ -27963,7 +27963,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:13&collection=eptic3">
+<s id="1843:13">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 anciens	AQ0MP00	ancien-j	ancien	AQ0MP00	ancien	M	P
@@ -27995,7 +27995,7 @@ sensibles	AQ0CP00	sensible-j	sensible	AQ0CP00	sensible	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:14&collection=eptic3">
+<s id="1843:14">
 
 Par	SP	par-i	par	SP	par	0	0
 ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
@@ -28028,7 +28028,7 @@ prévisibles	AQ0CP00	prévisible-j	prévisible	AQ0CP00	prévisible	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:15&collection=eptic3">
+<s id="1843:15">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 règles	NCFP000	règle-n	règle	NCFP000	règle	F	P
@@ -28054,7 +28054,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:16&collection=eptic3">
+<s id="1843:16">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 protection	NCFS000	protection-n	protection	NCFS000	protection	F	S
@@ -28097,7 +28097,7 @@ européens	AQ0MP00	européen-j	européen	AQ0MP00	européen	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:17&collection=eptic3">
+<s id="1843:17">
 
 Renforcer	VMN0000	renforcer-v	renforcer	VMN0000	renforcer	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -28118,7 +28118,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:18&collection=eptic3">
+<s id="1843:18">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 permettra	VMIF3S0	permettre-v	permettre	VMIF3S0	permettre	0	0
@@ -28187,7 +28187,7 @@ Sud-est	NPMS000	Sud-est-n	sud-est	NPMS000	Sud-est	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:19&collection=eptic3">
+<s id="1843:19">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -28215,7 +28215,7 @@ intérimaire	AQ0CS00	intérimaire-j	intérimaire	AQ0CS00	intérimaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:20&collection=eptic3">
+<s id="1843:20">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 dernier	NCMS000	dernier-n	dernier	NCMS000	dernier	M	S
@@ -28247,7 +28247,7 @@ avril	NCMS000	avril-n	avril	NCMS000	avril	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:21&collection=eptic3">
+<s id="1843:21">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 faisant	VMG0000	faire-v	faire	VMG0000	faire	0	0
@@ -28286,7 +28286,7 @@ positif	AQ0MS00	positif-j	positif	AQ0MS00	positif	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:22&collection=eptic3">
+<s id="1843:22">
 
 Depuis	SP	depuis-i	depuis	SP	depuis	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -28335,7 +28335,7 @@ parlement	NCMS000	parlement-n	parlement	NCMS000	parlement	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:23&collection=eptic3">
+<s id="1843:23">
 
 Aujourd	NP00000	Aujourd-n	aujourd	NP00000	Aujourd	0	0
 '	Fe	'-x	'	Fe	'	0	0
@@ -28367,7 +28367,7 @@ politiques	AQ0CP00	politique-j	politique	AQ0CP00	politique	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:24&collection=eptic3">
+<s id="1843:24">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -28386,7 +28386,7 @@ tarder	VMN0000	tarder-v	tarder	VMN0000	tarder	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:25&collection=eptic3">
+<s id="1843:25">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -28431,7 +28431,7 @@ hui	RG	hui-r	hui	RG	hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:26&collection=eptic3">
+<s id="1843:26">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 remercie	VMIP1S0	remercier-v	remercier	VMIP1S0	remercier	0	0
@@ -28445,7 +28445,7 @@ Kacin	NPMS000	Kacin-n	kacin	NPMS000	Kacin	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:27&collection=eptic3">
+<s id="1843:27">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 résolution	NCFS000	résolution-n	résolution	NCFS000	résolution	F	S
@@ -28500,7 +28500,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:28&collection=eptic3">
+<s id="1843:28">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -28530,7 +28530,7 @@ serbe	AQ0CS00	serbe-j	serbe	AQ0CS00	serbe	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:29&collection=eptic3">
+<s id="1843:29">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -28562,7 +28562,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:30&collection=eptic3">
+<s id="1843:30">
 
 À	SP	à-i	à	SP	à	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -28591,7 +28591,7 @@ mois	NCMP000	moi-n	moi	NCMP000	moi	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:31&collection=eptic3">
+<s id="1843:31">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -28629,7 +28629,7 @@ Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:32&collection=eptic3">
+<s id="1843:32">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 dernière	NCFS000	dernier-n	dernière	NCFS000	dernier	F	S
@@ -28674,7 +28674,7 @@ de	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:33&collection=eptic3">
+<s id="1843:33">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 l	NCMS000	l-n	l	NCMS000	l	M	S
@@ -28708,7 +28708,7 @@ opportunités	NCFP000	opportunité-n	opportunité	NCFP000	opportunité	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:34&collection=eptic3">
+<s id="1843:34">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 chemin	NCMS000	chemin-n	chemin	NCMS000	chemin	M	S
@@ -28723,7 +28723,7 @@ connus	VMP00PM	connaître-v	connu	VMP00PM	connaître	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:35&collection=eptic3">
+<s id="1843:35">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 appartient	VMIP3S0	appartenir-v	appartenir	VMIP3S0	appartenir	0	0
@@ -28764,7 +28764,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:36&collection=eptic3">
+<s id="1843:36">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -28799,7 +28799,7 @@ intégration	NCFS000	intégration-n	intégration	NCFS000	intégration	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1843:37&collection=eptic3">
+<s id="1843:37">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 apportera	VMIF3S0	apporter-v	apporter	VMIF3S0	apporter	0	0
@@ -28853,7 +28853,7 @@ occidentaux	AQ0MP00	occidental-j	occidental	AQ0MP00	occidental	M	P
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1844:1&collection=eptic3">
+<s id="1844:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -28872,7 +28872,7 @@ excellent	AQ0MS00	excellent-j	excellent	AQ0MS00	excellent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:2&collection=eptic3">
+<s id="1844:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 félicite	VMIP1S0	féliciter-v	féliciter	VMIP1S0	féliciter	0	0
@@ -28885,7 +28885,7 @@ Kacin	NPMS000	Kacin-n	kacin	NPMS000	Kacin	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:3&collection=eptic3">
+<s id="1844:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -28912,7 +28912,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:4&collection=eptic3">
+<s id="1844:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 majorité	NCFS000	majorité-n	majorité	NCFS000	majorité	F	S
@@ -28938,7 +28938,7 @@ favorable	AQ0CS00	favorable-j	favorable	AQ0CS00	favorable	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:5&collection=eptic3">
+<s id="1844:5">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 détermination	NCFS000	détermination-n	détermination	NCFS000	détermination	F	S
@@ -28957,7 +28957,7 @@ années	NCFP000	année-n	année	NCFP000	année	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:6&collection=eptic3">
+<s id="1844:6">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
@@ -29023,7 +29023,7 @@ traumatisante	AQ0FS00	traumatisant-j	traumatisante	AQ0FS00	traumatisant	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:7&collection=eptic3">
+<s id="1844:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 décision	NCFS000	décision-n	décision	NCFS000	décision	F	S
@@ -29093,7 +29093,7 @@ Kosovo	NP00000	Kosovo-n	kosovo	NP00000	Kosovo	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:8&collection=eptic3">
+<s id="1844:8">
 
 Tous	DI0MP0	tout-x	tout	DI0MP0	tout	M	P
 2	Z	2-m	2	Z	2	0	0
@@ -29104,7 +29104,7 @@ psychologiques	AQ0CP00	psychologique-j	psychologique	AQ0CP00	psychologique	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:9&collection=eptic3">
+<s id="1844:9">
 
 Mladic	NP00000	Mladic-n	mladic	NP00000	Mladic	0	0
 a	VMIP3S0	avoir-v	avoir	VMIP3S0	avoir	0	0
@@ -29129,7 +29129,7 @@ serbe	AQ0CS00	serbe-j	serbe	AQ0CS00	serbe	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:10&collection=eptic3">
+<s id="1844:10">
 
 Toute	DI0FS0	tout-x	toute	DI0FS0	tout	F	S
 perte	NCFS000	perte-n	perte	NCFS000	perte	F	S
@@ -29140,7 +29140,7 @@ difficile	AQ0CS00	difficile-j	difficile	AQ0CS00	difficile	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:11&collection=eptic3">
+<s id="1844:11">
 
 Plusieurs	DI0CP0	plusieurs-x	plusieurs	DI0CP0	plusieurs	M	P
 autres	AQ0CP00	autre-j	autre	AQ0CP00	autre	M	P
@@ -29195,7 +29195,7 @@ archives	NCFP000	archive-n	archive	NCFP000	archive	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:12&collection=eptic3">
+<s id="1844:12">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 augures	NCMP000	augure-n	augure	NCMP000	augure	M	P
@@ -29218,7 +29218,7 @@ favorables	AQ0CP00	favorable-j	favorable	AQ0CP00	favorable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:13&collection=eptic3">
+<s id="1844:13">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -29232,7 +29232,7 @@ sens	NCMN000	sens-n	sens	NCMN000	sens	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:14&collection=eptic3">
+<s id="1844:14">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 tâches	NCFP000	tâche-n	tâche	NCFP000	tâche	F	P
@@ -29258,7 +29258,7 @@ route	NCFS000	route-n	route	NCFS000	route	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:15&collection=eptic3">
+<s id="1844:15">
 
 Si	CS	si-c	si	CS	si	0	0
 tout	PI0MS00	tout-p	tout	PI0MS00	tout	M	S
@@ -29288,7 +29288,7 @@ après	RG	après-r	après	RG	après	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1844:16&collection=eptic3">
+<s id="1844:16">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 route	NCFS000	route-n	route	NCFS000	route	F	S
@@ -29329,7 +29329,7 @@ démocratique	AQ0CS00	démocratique-j	démocratique	AQ0CS00	démocratique	M,F	S
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1845:1&collection=eptic3">
+<s id="1845:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -29384,7 +29384,7 @@ Kacin	NPMS000	Kacin-n	kacin	NPMS000	Kacin	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:2&collection=eptic3">
+<s id="1845:2">
 
 En	SP	en-i	en	SP	en	0	0
 octobre	NCMS000	octobre-n	octobre	NCMS000	octobre	M	S
@@ -29427,7 +29427,7 @@ Occident	NPMS000	Occident-n	occident	NPMS000	Occident	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:3&collection=eptic3">
+<s id="1845:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 va	VMIP3S0	aller-v	aller	VMIP3S0	aller	0	0
@@ -29460,7 +29460,7 @@ organisée	VMP00SF	organiser-v	organisée	VMP00SF	organiser	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:4&collection=eptic3">
+<s id="1845:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 groupe	NCMS000	groupe-n	groupe	NCMS000	groupe	M	S
@@ -29499,7 +29499,7 @@ serbe	AQ0CS00	serbe-j	serbe	AQ0CS00	serbe	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:5&collection=eptic3">
+<s id="1845:5">
 
 Quoiqu	NP00000	Quoiqu-n	quoiqu	NP00000	Quoiqu	0	0
 '	Fe	'-x	'	Fe	'	0	0
@@ -29579,7 +29579,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:6&collection=eptic3">
+<s id="1845:6">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 relation	NCFS000	relation-n	relation	NCFS000	relation	F	S
@@ -29597,7 +29597,7 @@ insoluble	AQ0CS00	insoluble-j	insoluble	AQ0CS00	insoluble	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:7&collection=eptic3">
+<s id="1845:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -29644,7 +29644,7 @@ suivre	VMN0000	suivre-v	suivre	VMN0000	suivre	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:8&collection=eptic3">
+<s id="1845:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 crois	VMIP1S0	croire-v	croire	VMIP1S0	croire	0	0
@@ -29671,7 +29671,7 @@ représentante	NCFS000	représentant-n	représentante	NCFS000	représentant	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1845:9&collection=eptic3">
+<s id="1845:9">
 
 La	PP3FSA0	le-p	le	PP3FSA0	le	F	S
 rejeter	VMN0000	rejeter-v	rejeter	VMN0000	rejeter	0	0
@@ -29735,7 +29735,7 @@ unies	VMP00PF	unir-v	unie	VMP00PF	unir	F	P
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1846:1&collection=eptic3">
+<s id="1846:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -29779,7 +29779,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:2&collection=eptic3">
+<s id="1846:2">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -29789,7 +29789,7 @@ remarques	NCFP000	remarque-n	remarque	NCFP000	remarque	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:3&collection=eptic3">
+<s id="1846:3">
 
 Afin	SP	afin-i	afin	SP	afin	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -29830,7 +29830,7 @@ intérêts	NCMP000	intérêt-n	intérêt	NCMP000	intérêt	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:4&collection=eptic3">
+<s id="1846:4">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -29874,7 +29874,7 @@ Balkans	NPMP000	Balkans-n	balkans	NPMP000	Balkans	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:5&collection=eptic3">
+<s id="1846:5">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 coeur	NCMS000	cœur-n	coeur	NCMS000	cœur	M	S
@@ -29904,7 +29904,7 @@ transport	NCMS000	transport-n	transport	NCMS000	transport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:6&collection=eptic3">
+<s id="1846:6">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 problèmes	NCMP000	problème-n	problème	NCMP000	problème	M	P
@@ -29922,7 +29922,7 @@ Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:7&collection=eptic3">
+<s id="1846:7">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -29953,7 +29953,7 @@ occasion	NCFS000	occasion-n	occasion	NCFS000	occasion	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:8&collection=eptic3">
+<s id="1846:8">
 
 Si	CS	si-c	si	CS	si	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -29997,7 +29997,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:9&collection=eptic3">
+<s id="1846:9">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -30034,7 +30034,7 @@ d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:10&collection=eptic3">
+<s id="1846:10">
 
 Seule	AQ0FS00	seul-j	seule	AQ0FS00	seul	F	S
 un	DI0MS0	un-x	un	DI0MS0	un	M	S
@@ -30066,7 +30066,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1846:11&collection=eptic3">
+<s id="1846:11">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -30093,7 +30093,7 @@ remarquable	AQ0CS00	remarquable-j	remarquable	AQ0CS00	remarquable	F	S
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1847:1&collection=eptic3">
+<s id="1847:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -30168,7 +30168,7 @@ occidentaux	AQ0MP00	occidental-j	occidental	AQ0MP00	occidental	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:2&collection=eptic3">
+<s id="1847:2">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 cours	NCFP000	cour-n	cour	NCFP000	cour	F	P
@@ -30220,7 +30220,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:3&collection=eptic3">
+<s id="1847:3">
 
 J	NPFS000	J-n	j	NPFS000	J	F	S
 <g/>
@@ -30272,7 +30272,7 @@ an	NCMS000	an-n	an	NCMS000	an	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:4&collection=eptic3">
+<s id="1847:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -30319,7 +30319,7 @@ large	AQ0CS00	large-j	large	AQ0CS00	large	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:5&collection=eptic3">
+<s id="1847:5">
 
 Plusieurs	PI0CN00	plusieurs-p	plusieurs	PI0CN00	plusieurs	M,F	S,P
 des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	M	P
@@ -30336,7 +30336,7 @@ déjà	RG	déjà-r	déjà	RG	déjà	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:6&collection=eptic3">
+<s id="1847:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -30350,7 +30350,7 @@ judiciaire	AQ0CS00	judiciaire-j	judiciaire	AQ0CS00	judiciaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:7&collection=eptic3">
+<s id="1847:7">
 
 En	SP	en-i	en	SP	en	0	0
 automne	NCMS000	automne-n	automne	NCMS000	automne	M	S
@@ -30399,7 +30399,7 @@ politique	AQ0CS00	politique-j	politique	AQ0CS00	politique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:8&collection=eptic3">
+<s id="1847:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -30421,7 +30421,7 @@ droit	NCMS000	droit-n	droit	NCMS000	droit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:9&collection=eptic3">
+<s id="1847:9">
 
 Concernant	SP	concernant-i	concernant	SP	concernant	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -30482,7 +30482,7 @@ Haye	NP00000	Haye-n	haye	NP00000	Haye	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:10&collection=eptic3">
+<s id="1847:10">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -30549,7 +30549,7 @@ terrain	NCMS000	terrain-n	terrain	NCMS000	terrain	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:11&collection=eptic3">
+<s id="1847:11">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -30560,7 +30560,7 @@ résultat	NCMS000	résultat-n	résultat	NCMS000	résultat	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:12&collection=eptic3">
+<s id="1847:12">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
@@ -30577,7 +30577,7 @@ fugitifs	NCFP000	fugitif-n	fugitif	NCFP000	fugitif	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1847:13&collection=eptic3">
+<s id="1847:13">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -30618,7 +30618,7 @@ comblé	VMP00SM	combler-v	comblé	VMP00SM	combler	M	S
 <speaker name="Kukan Eduard" gender="M" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="221" duration="short" durations="100.0" speed="medium" speedwm="132.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1848:1&collection=eptic3">
+<s id="1848:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -30662,7 +30662,7 @@ intégration	NCFS000	intégration-n	intégration	NCFS000	intégration	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:2&collection=eptic3">
+<s id="1848:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 conclusion	NCFS000	conclusion-n	conclusion	NCFS000	conclusion	F	S
@@ -30697,7 +30697,7 @@ voie	NCFS000	voie-n	voie	NCFS000	voie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:3&collection=eptic3">
+<s id="1848:3">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 gouvernement	NCMS000	gouvernement-n	gouvernement	NCMS000	gouvernement	M	S
@@ -30722,7 +30722,7 @@ stade	NCMS000	stade-n	stade	NCMS000	stade	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:4&collection=eptic3">
+<s id="1848:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -30765,7 +30765,7 @@ autres	AQ0CP00	autre-j	autre	AQ0CP00	autre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:5&collection=eptic3">
+<s id="1848:5">
 
 À	SP	à-i	à	SP	à	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -30780,7 +30780,7 @@ accord	NCMS000	accord-n	accord	NCMS000	accord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:6&collection=eptic3">
+<s id="1848:6">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -30804,7 +30804,7 @@ rapidement	RG	rapidement-r	rapidement	RG	rapidement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:7&collection=eptic3">
+<s id="1848:7">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -30828,7 +30828,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:8&collection=eptic3">
+<s id="1848:8">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
@@ -30863,7 +30863,7 @@ justice	NCFS000	justice-n	justice	NCFS000	justice	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:9&collection=eptic3">
+<s id="1848:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -30905,7 +30905,7 @@ publique	AQ0FS00	public-j	publique	AQ0FS00	public	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:10&collection=eptic3">
+<s id="1848:10">
 
 Parallèlement	RG	parallèlement-r	parallèlement	RG	parallèlement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -30933,7 +30933,7 @@ parlementaires	AQ0CP00	parlementaire-j	parlementaire	AQ0CP00	parlementaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:11&collection=eptic3">
+<s id="1848:11">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -30974,7 +30974,7 @@ avenir	NCMS000	avenir-n	avenir	NCMS000	avenir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:12&collection=eptic3">
+<s id="1848:12">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Parlement	NPMS000	Parlement-n	parlement	NPMS000	Parlement	M	S
@@ -30996,7 +30996,7 @@ occidentaux	AQ0MP00	occidental-j	occidental	AQ0MP00	occidental	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1848:13&collection=eptic3">
+<s id="1848:13">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
@@ -31020,7 +31020,7 @@ engagement	NCMS000	engagement-n	engagement	NCMS000	engagement	M	S
 <speaker name="Bostinaru Victor" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="157" duration="short" durations="66.0" speed="medium" speedwm="142.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1849:1&collection=eptic3">
+<s id="1849:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -31059,7 +31059,7 @@ UE	NP00000	UE-n	ue	NP00000	UE	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1849:2&collection=eptic3">
+<s id="1849:2">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
@@ -31124,7 +31124,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1849:3&collection=eptic3">
+<s id="1849:3">
 
 Compte	NCMS000	compte-n	compte	NCMS000	compte	M	S
 tenu	VMP00SM	tenir-v	tenu	VMP00SM	tenir	M	S
@@ -31198,7 +31198,7 @@ d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1849:4&collection=eptic3">
+<s id="1849:4">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -31227,7 +31227,7 @@ rapidement	RG	rapidement-r	rapidement	RG	rapidement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1849:5&collection=eptic3">
+<s id="1849:5">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -31264,7 +31264,7 @@ possible	AQ0CS00	possible-j	possible	AQ0CS00	possible	M	S
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="260" duration="medium" durations="168.0" speed="slow" speedwm="92.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1850:1&collection=eptic3">
+<s id="1850:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -31303,7 +31303,7 @@ Serbie	NP00000	Serbie-n	serbie	NP00000	Serbie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:2&collection=eptic3">
+<s id="1850:2">
 
 L	NP00000	L-n	l	NP00000	L	0	0
 <g/>
@@ -31345,7 +31345,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:3&collection=eptic3">
+<s id="1850:3">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 d'	SP	de-i	de	SP	de	0	0
@@ -31364,7 +31364,7 @@ débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:4&collection=eptic3">
+<s id="1850:4">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 ,	Fc	,-x	,	Fc	,	0	0
@@ -31400,7 +31400,7 @@ radicale	NCFS000	radical-n	radicale	NCFS000	radical	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:5&collection=eptic3">
+<s id="1850:5">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -31423,7 +31423,7 @@ avril	NCMS000	avril-n	avril	NCMS000	avril	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:6&collection=eptic3">
+<s id="1850:6">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 élections	NCFP000	élection-n	élection	NCFP000	élection	F	P
@@ -31448,7 +31448,7 @@ radicalisation	NCFS000	radicalisation-n	radicalisation	NCFS000	radicalisation	F	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:7&collection=eptic3">
+<s id="1850:7">
 
 Sur	SP	sur-i	sur	SP	sur	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -31492,7 +31492,7 @@ efficacité	NCFS000	efficacité-n	efficacité	NCFS000	efficacité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:8&collection=eptic3">
+<s id="1850:8">
 
 Une	DI0FS0	un-x	une	DI0FS0	un	F	S
 réflexion	NCFS000	réflexion-n	réflexion	NCFS000	réflexion	F	S
@@ -31508,7 +31508,7 @@ technologique	AQ0CS00	technologique-j	technologique	AQ0CS00	technologique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:9&collection=eptic3">
+<s id="1850:9">
 
 En	SP	en-i	en	SP	en	0	0
 réponse	NCFS000	réponse-n	réponse	NCFS000	réponse	F	S
@@ -31566,7 +31566,7 @@ intervention	NCFS000	intervention-n	intervention	NCFS000	intervention	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:10&collection=eptic3">
+<s id="1850:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 trouve	VMIP1S0	trouver-v	trouver	VMIP1S0	trouver	0	0
@@ -31594,7 +31594,7 @@ d	AQ0MS0	d-j	d	AQ0MS0	d	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:11&collection=eptic3">
+<s id="1850:11">
 
 Là	RG	là-r	là	RG	là	0	0
 où	PR00000	où-p	où	PR00000	où	0	0
@@ -31638,7 +31638,7 @@ judiciaire	AQ0CS00	judiciaire-j	judiciaire	AQ0CS00	judiciaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1850:12&collection=eptic3">
+<s id="1850:12">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s	NCFP000	s-n	s	NCFP000	s	F	P
@@ -31686,7 +31686,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 <speaker name="Morvai Krisztina" gender="F" country="Hungary" politfunc="MEP" politgroup="NI">
 <st language="en" length="long" lengthw="66" duration="short" durations="30.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1851:1&collection=eptic3">
+<s id="1851:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -31718,7 +31718,7 @@ commencer	VMN0000	commencer-v	commencer	VMN0000	commencer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1851:2&collection=eptic3">
+<s id="1851:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -31730,7 +31730,7 @@ celle-ci	PD0FS00	celui-ci-p	celui-ci	PD0FS00	celui-ci	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1851:3&collection=eptic3">
+<s id="1851:3">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -31777,7 +31777,7 @@ personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1851:4&collection=eptic3">
+<s id="1851:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 devrait	VMIC3S0	devoir-v	devoir	VMIC3S0	devoir	0	0
@@ -31800,7 +31800,7 @@ critique	NCCS000	critique-n	critique	NCCS000	critique	M,F	S
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="136" duration="short" durations="54.0" speed="medium" speedwm="151.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1852:1&collection=eptic3">
+<s id="1852:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -31832,7 +31832,7 @@ membres	NCMP000	membre-n	membre	NCMP000	membre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1852:2&collection=eptic3">
+<s id="1852:2">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 avez	VAIP2P0	avoir-v	avoir	VAIP2P0	avoir	0	0
@@ -31866,7 +31866,7 @@ législation	NCFS000	législation-n	législation	NCFS000	législation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1852:3&collection=eptic3">
+<s id="1852:3">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Présidence	NPFS000	Présidence-n	présidence	NPFS000	Présidence	F	S
@@ -31933,7 +31933,7 @@ efficace	AQ0CS00	efficace-j	efficace	AQ0CS00	efficace	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1852:4&collection=eptic3">
+<s id="1852:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -31952,7 +31952,7 @@ débuté	VMP00SM	débuter-v	débuté	VMP00SM	débuter	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1852:5&collection=eptic3">
+<s id="1852:5">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -32028,7 +32028,7 @@ correspondance	NCFS000	correspondance-n	correspondance	NCFS000	correspondance	F	
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="274" duration="medium" durations="120.0" speed="medium" speedwm="137.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1853:1&collection=eptic3">
+<s id="1853:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -32051,7 +32051,7 @@ plaît	VMIP3S0	plaire-v	plaire	VMIP3S0	plaire	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1853:2&collection=eptic3">
+<s id="1853:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -32068,7 +32068,7 @@ ministre	NCMS000	ministre-n	ministre	NCMS000	ministre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:3&collection=eptic3">
+<s id="1853:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dois	VMIP1S0	devoir-v	devoir	VMIP1S0	devoir	0	0
@@ -32081,7 +32081,7 @@ vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:4&collection=eptic3">
+<s id="1853:4">
 
 J	NP00000	J-n	j	NP00000	J	0	0
 <g/>
@@ -32137,7 +32137,7 @@ déclaré	VMP00SM	déclarer-v	déclaré	VMP00SM	déclarer	M	S
 :	Fd	:-x	:	Fd	:	0	0
 </s>
 
-<s id="1853:5&collection=eptic3">
+<s id="1853:5">
 
 '	Fe	'-x	'	Fe	'	0	0
 Regardez	VMM02P0	regarder-v	regarder	VMM02P0	regarder	0	0
@@ -32146,7 +32146,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:6&collection=eptic3">
+<s id="1853:6">
 
 Regardez	VMM02P0	regarder-v	regarder	VMM02P0	regarder	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -32173,7 +32173,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:7&collection=eptic3">
+<s id="1853:7">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -32185,7 +32185,7 @@ générations	NCFP000	génération-n	génération	NCFP000	génération	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:8&collection=eptic3">
+<s id="1853:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dois	VMIP1S0	devoir-v	devoir	VMIP1S0	devoir	0	0
@@ -32217,7 +32217,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:9&collection=eptic3">
+<s id="1853:9">
 
 Durant	SP	durant-i	durant	SP	durant	0	0
 votre	DP2CSP	votre-x	votre	DP2CSP	votre	F	S
@@ -32235,7 +32235,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:10&collection=eptic3">
+<s id="1853:10">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 auriez	VAIC2P0	avoir-v	avoir	VAIC2P0	avoir	0	0
@@ -32248,7 +32248,7 @@ aider	VMN0000	aider-v	aider	VMN0000	aider	0	0
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:11&collection=eptic3">
+<s id="1853:11">
 
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -32260,7 +32260,7 @@ difficile	AQ0CS00	difficile-j	difficile	AQ0CS00	difficile	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:12&collection=eptic3">
+<s id="1853:12">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Conseil	NPMS000	Conseil-n	conseil	NPMS000	Conseil	M	S
@@ -32284,7 +32284,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:13&collection=eptic3">
+<s id="1853:13">
 
 En	SP	en-i	en	SP	en	0	0
 notre	DP1CSP	notre-x	notre	DP1CSP	notre	F	S
@@ -32311,7 +32311,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:14&collection=eptic3">
+<s id="1853:14">
 
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -32344,7 +32344,7 @@ camps	NCMP000	camp-n	camp	NCMP000	camp	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:15&collection=eptic3">
+<s id="1853:15">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 Conseil	NPMS000	Conseil-n	conseil	NPMS000	Conseil	M	S
@@ -32360,7 +32360,7 @@ codécision	NCFS000	codécision-n	codécision	NCFS000	codécision	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:16&collection=eptic3">
+<s id="1853:16">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 semble	VMIP1S0	sembler-v	sembler	VMIP1S0	sembler	0	0
@@ -32392,14 +32392,14 @@ Lisbonne	NP00000	Lisbonne-n	lisbonne	NP00000	Lisbonne	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:17&collection=eptic3">
+<s id="1853:17">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 dites	VMIP2P0	dire-v	dire	VMIP2P0	dire	0	0
 :	Fd	:-x	:	Fd	:	0	0
 </s>
 
-<s id="1853:18&collection=eptic3">
+<s id="1853:18">
 
 '	Fe	'-x	'	Fe	'	0	0
 Regardez	VMM02P0	regarder-v	regarder	VMM02P0	regarder	0	0
@@ -32409,7 +32409,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:19&collection=eptic3">
+<s id="1853:19">
 
 Mais	CC	mais-c	mais	CC	mais	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -32440,7 +32440,7 @@ Syrie	NPFS000	Syrie-n	syrie	NPFS000	Syrie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:20&collection=eptic3">
+<s id="1853:20">
 
 Dites	VMP00PF	dire-v	dite	VMP00PF	dire	F	P
 alors	RG	alors-r	alors	RG	alors	0	0
@@ -32464,7 +32464,7 @@ délégués	VMP00PM	déléguer-v	délégué	VMP00PM	déléguer	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:21&collection=eptic3">
+<s id="1853:21">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -32472,7 +32472,7 @@ répondront	VMIF3P0	répondre-v	répondre	VMIF3P0	répondre	0	0
 :	Fd	:-x	:	Fd	:	0	0
 </s>
 
-<s id="1853:22&collection=eptic3">
+<s id="1853:22">
 
 '	Fe	'-x	'	Fe	'	0	0
 De	SP	de-i	de	SP	de	0	0
@@ -32481,7 +32481,7 @@ parlez-vous	VMIP2P0	parler-v	parler	VMIP2P0,PP2CP00	parler,vous	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="1853:23&collection=eptic3">
+<s id="1853:23">
 
 Mes	DP1CPS	mon-x	mon	DP1CPS	mon	M,F	P
 enfants	NCCP000	enfant-n	enfant	NCCP000	enfant	M,F	P
@@ -32496,7 +32496,7 @@ l	NCMS000	l-n	l	NCMS000	l	M	S
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:24&collection=eptic3">
+<s id="1853:24">
 
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -32509,7 +32509,7 @@ passeport	NCMS000	passeport-n	passeport	NCMS000	passeport	M	S
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:25&collection=eptic3">
+<s id="1853:25">
 
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VSIP1P0	être-v	être	VSIP1P0	être	0	0
@@ -32522,7 +32522,7 @@ réfugiés	NCMP000	réfugié-n	réfugié	NCMP000	réfugié	M	P
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:26&collection=eptic3">
+<s id="1853:26">
 
 pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -32549,7 +32549,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 '	Fe	'-x	'	Fe	'	0	0
 </s>
 
-<s id="1853:27&collection=eptic3">
+<s id="1853:27">
 
 Voilà	I	voilà-x	voilà	I	voilà	0	0
 qui	PR00000	qui-p	qui	PR00000	qui	0	0
@@ -32565,7 +32565,7 @@ belge	AQ0CS00	belge-j	belge	AQ0CS00	belge	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1853:28&collection=eptic3">
+<s id="1853:28">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 regrette	VMIP1S0	regretter-v	regretter	VMIP1S0	regretter	0	0
@@ -32576,7 +32576,7 @@ dire	VMN0000	dire-v	dire	VMN0000	dire	0	0
 ;	Fx	;-x	;	Fx	;	0	0
 </s>
 
-<s id="1853:29&collection=eptic3">
+<s id="1853:29">
 
 c	RG	c-r	c	RG	c	0	0
 <g/>
@@ -32601,7 +32601,7 @@ dis	VMIP1S0	dire-v	dire	VMIP1S0	dire	0	0
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="152" duration="short" durations="66.0" speed="medium" speedwm="138.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="32:1&collection=eptic3">
+<s id="32:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -32646,7 +32646,7 @@ controversés	VMP00PM	controverser-v	controversé	VMP00PM	controverser	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="32:2&collection=eptic3">
+<s id="32:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -32759,7 +32759,7 @@ sous-financés	VMP00PM	sous-financés-v	sous-financés	VMP00PM	sous-financés	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="32:3&collection=eptic3">
+<s id="32:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VMIP1P0	avoir-v	avoir	VMIP1P0	avoir	0	0
@@ -32827,7 +32827,7 @@ santé	NCFS000	santé-n	santé	NCFS000	santé	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="32:4&collection=eptic3">
+<s id="32:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 moment	NCMS000	moment-n	moment	NCMS000	moment	M	S
@@ -32860,7 +32860,7 @@ l'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="32:5&collection=eptic3">
+<s id="32:5">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -32875,7 +32875,7 @@ fourniture	NCFS000	fourniture-n	fourniture	NCFS000	fourniture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="32:6&collection=eptic3">
+<s id="32:6">
 
 Allons	VMM01P0	aller-v	aller	VMM01P0	aller	0	0
 vers	SP	vers-i	vers	SP	vers	0	0
@@ -32907,7 +32907,7 @@ entier	AQ0MS00	entier-j	entier	AQ0MS00	entier	M	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="164" duration="short" durations="65.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="37:1&collection=eptic3">
+<s id="37:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -32968,7 +32968,7 @@ ans	NCMP000	an-n	an	NCMP000	an	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:2&collection=eptic3">
+<s id="37:2">
 
 Si	CS	si-c	si	CS	si	0	0
 l'	DA0CS0	le-x	l'	DA0CS0	le	F	S
@@ -32997,7 +32997,7 @@ réjouir	VMN0000	réjouir-v	réjouir	VMN0000	réjouir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:3&collection=eptic3">
+<s id="37:3">
 
 En	SP	en-i	en	SP	en	0	0
 contrepartie	NCFS000	contrepartie-n	contrepartie	NCFS000	contrepartie	F	S
@@ -33029,7 +33029,7 @@ Italie	NP00000	Italie-n	italie	NP00000	Italie	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:4&collection=eptic3">
+<s id="37:4">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M,F	S
 <g/>
@@ -33059,7 +33059,7 @@ entière	AQ0FS00	entier-j	entière	AQ0FS00	entier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:5&collection=eptic3">
+<s id="37:5">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 solution	NCFS000	solution-n	solution	NCFS000	solution	F	S
@@ -33078,7 +33078,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:6&collection=eptic3">
+<s id="37:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -33119,7 +33119,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:7&collection=eptic3">
+<s id="37:7">
 
 Selon	SP	selon-i	selon	SP	selon	0	0
 moi	PP1CS00	moi-p	moi	PP1CS00	moi	0	0
@@ -33190,7 +33190,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:8&collection=eptic3">
+<s id="37:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -33206,7 +33206,7 @@ Italie	NP00000	Italie-n	italie	NP00000	Italie	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="37:9&collection=eptic3">
+<s id="37:9">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 en	PP3CN00	en-p	en	PP3CN00	en	0	0
@@ -33224,7 +33224,7 @@ capables	AQ0CP00	capable-j	capable	AQ0CP00	capable	M,F	P
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="156" duration="short" durations="60.0" speed="medium" speedwm="156.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1803:1&collection=eptic3">
+<s id="1803:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -33254,7 +33254,7 @@ connus	VMP00PM	connaître-v	connu	VMP00PM	connaître	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:2&collection=eptic3">
+<s id="1803:2">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -33291,7 +33291,7 @@ animaux	NCMP000	animal-n	animal	NCMP000	animal	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:3&collection=eptic3">
+<s id="1803:3">
 
 Certains	DI0MP0	certain-x	certain	DI0MP0	certain	M	P
 résultats	NCMP000	résultat-n	résultat	NCMP000	résultat	M	P
@@ -33330,7 +33330,7 @@ autorisée	VMP00SF	autoriser-v	autorisée	VMP00SF	autoriser	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:4&collection=eptic3">
+<s id="1803:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 système	NCMS000	système-n	système	NCMS000	système	M	S
@@ -33369,7 +33369,7 @@ contamination	NCFS000	contamination-n	contamination	NCFS000	contamination	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:5&collection=eptic3">
+<s id="1803:5">
 
 Lorsque	CS	lorsque-c	lorsque	CS	lorsque	0	0
 l	AQ0MS0	l-j	l	AQ0MS0	l	M	S
@@ -33408,7 +33408,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:6&collection=eptic3">
+<s id="1803:6">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
@@ -33432,7 +33432,7 @@ précaution	NCFS000	précaution-n	précaution	NCFS000	précaution	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:7&collection=eptic3">
+<s id="1803:7">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n	NCFS000	n-n	n	NCFS000	n	F	S
@@ -33449,7 +33449,7 @@ dioxine	NCFS000	dioxine-n	dioxine	NCFS000	dioxine	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:8&collection=eptic3">
+<s id="1803:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -33480,7 +33480,7 @@ Nord	NPMS000	Nord-n	nord	NPMS000	Nord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="1803:9&collection=eptic3">
+<s id="1803:9">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 que	PR00000	que-p	que	PR00000	que	0	0
@@ -33549,7 +33549,7 @@ situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="105" duration="short" durations="35.0" speed="high" speedwm="180.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="264:1&collection=eptic3">
+<s id="264:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -33575,7 +33575,7 @@ l'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="264:2&collection=eptic3">
+<s id="264:2">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -33600,7 +33600,7 @@ Israël	NPMS000	Israël-n	israël	NPMS000	Israël	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="264:3&collection=eptic3">
+<s id="264:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -33689,7 +33689,7 @@ voisins	NCMP000	voisin-n	voisin	NCMP000	voisin	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="264:4&collection=eptic3">
+<s id="264:4">
 
 Reportons	VMM01P0	reporter-v	reporter	VMM01P0	reporter	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -33702,7 +33702,7 @@ session	NCFS000	session-n	session	NCFS000	session	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="264:5&collection=eptic3">
+<s id="264:5">
 
 Tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -33769,7 +33769,7 @@ Quartet	NPMS000	Quartet-n	quartet	NPMS000	Quartet	M	S
 <speaker name="Stevenson Struan" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="133" duration="short" durations="58.0" speed="medium" speedwm="137.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="268:1&collection=eptic3">
+<s id="268:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -33813,7 +33813,7 @@ soulèvements	NCMP000	soulèvement-n	soulèvement	NCMP000	soulèvement	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="268:2&collection=eptic3">
+<s id="268:2">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
 centaines	NCFP000	centaine-n	centaine	NCFP000	centaine	F	P
@@ -33854,7 +33854,7 @@ réprimé	VMP00SM	réprimer-v	réprimé	VMP00SM	réprimer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="268:3&collection=eptic3">
+<s id="268:3">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 manifestations	NCFP000	manifestation-n	manifestation	NCFP000	manifestation	F	P
@@ -33865,7 +33865,7 @@ ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="268:4&collection=eptic3">
+<s id="268:4">
 
 Un	DI0MS0	un-x	un	DI0MS0	un	M	S
 jeune	AQ0CS00	jeune-j	jeune	AQ0CS00	jeune	M	S
@@ -33877,7 +33877,7 @@ tué	VMP00SM	tuer-v	tué	VMP00SM	tuer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="268:5&collection=eptic3">
+<s id="268:5">
 
 D'	SP	de-i	de	SP	de	0	0
 <g/>
@@ -33911,7 +33911,7 @@ fasciste	AQ0CS00	fasciste-j	fasciste	AQ0CS00	fasciste	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="268:6&collection=eptic3">
+<s id="268:6">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -33924,7 +33924,7 @@ encourager	VMN0000	encourager-v	encourager	VMN0000	encourager	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="268:7&collection=eptic3">
+<s id="268:7">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 restons-nous	VMIP1P0	rester-v	rester	VMIP1P0,PP1CP00	rester,nous	0	0
@@ -33943,7 +33943,7 @@ Téhéran	NPMS000	Téhéran-n	téhéran	NPMS000	Téhéran	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="268:8&collection=eptic3">
+<s id="268:8">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -33972,7 +33972,7 @@ Ashraf	NP00000	Ashraf-n	ashraf	NP00000	Ashraf	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="268:9&collection=eptic3">
+<s id="268:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -34002,7 +34002,7 @@ iranienne	AQ0FS00	iranien-j	iranienne	AQ0FS00	iranien	F	S
 <speaker name="Sturdy Robert" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="303" duration="medium" durations="120.0" speed="medium" speedwm="151.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="272:1&collection=eptic3">
+<s id="272:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -34022,7 +34022,7 @@ Commissaire	NPCS000	Commissaire-n	commissaire	NPCS000	Commissaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:2&collection=eptic3">
+<s id="272:2">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 <g/>
@@ -34038,7 +34038,7 @@ excellent	AQ0MS00	excellent-j	excellent	AQ0MS00	excellent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:3&collection=eptic3">
+<s id="272:3">
 
 Au	SP+DA	à+le-i	à+le	SP,DA0MS0	à,le	M	S
 fil	NCMS000	fil-n	fil	NCMS000	fil	M	S
@@ -34072,7 +34072,7 @@ meilleures	NCFP000	meilleur-n	meilleure	NCFP000	meilleur	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:4&collection=eptic3">
+<s id="272:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
@@ -34087,7 +34087,7 @@ phénoménal	AQ0MS00	phénoménal-j	phénoménal	AQ0MS00	phénoménal	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:5&collection=eptic3">
+<s id="272:5">
 
 Pratiquement	RG	pratiquement-r	pratiquement	RG	pratiquement	0	0
 tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
@@ -34103,7 +34103,7 @@ contribution	NCFS000	contribution-n	contribution	NCFS000	contribution	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:6&collection=eptic3">
+<s id="272:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -34124,7 +34124,7 @@ président	NCMS000	président-n	président	NCMS000	président	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:7&collection=eptic3">
+<s id="272:7">
 
 Sans	SP	sans-i	sans	SP	sans	0	0
 son	DP3CSS	son-x	son	DP3CSS	son	F	S
@@ -34162,7 +34162,7 @@ négociations	NCFP000	négociation-n	négociation	NCFP000	négociation	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:8&collection=eptic3">
+<s id="272:8">
 
 Plusieurs	DI0CP0	plusieurs-x	plusieurs	DI0CP0	plusieurs	F	P
 questions	NCFP000	question-n	question	NCFP000	question	F	P
@@ -34174,7 +34174,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:9&collection=eptic3">
+<s id="272:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -34224,7 +34224,7 @@ passe	NCCS000	passe-n	passe	NCCS000	passe	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:10&collection=eptic3">
+<s id="272:10">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 relève	VMIP1S0	relever-v	relever	VMIP1S0	relever	0	0
@@ -34243,7 +34243,7 @@ agriculture	NCFS000	agriculture-n	agriculture	NCFS000	agriculture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:11&collection=eptic3">
+<s id="272:11">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -34264,7 +34264,7 @@ excellente	AQ0FS00	excellent-j	excellente	AQ0FS00	excellent	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:12&collection=eptic3">
+<s id="272:12">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -34296,7 +34296,7 @@ libre-échangiste	NCCS000	libre-échangiste-n	libre-échangiste	NCCS000	libre-é
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:13&collection=eptic3">
+<s id="272:13">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dirais	VMIC1S0	dire-v	dire	VMIC1S0	dire	0	0
@@ -34337,7 +34337,7 @@ nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:14&collection=eptic3">
+<s id="272:14">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 vivons	VMIP1P0	vivre-v	vivre	VMIP1P0	vivre	0	0
@@ -34358,7 +34358,7 @@ non	RG	non-r	non	RG	non	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:15&collection=eptic3">
+<s id="272:15">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 pose	VMIP1S0	poser-v	poser	VMIP1S0	poser	0	0
@@ -34374,7 +34374,7 @@ réalité	NCFS000	réalité-n	réalité	NCFS000	réalité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:16&collection=eptic3">
+<s id="272:16">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 crois	VMIP1S0	croire-v	croire	VMIP1S0	croire	0	0
@@ -34406,7 +34406,7 @@ financière	AQ0FS00	financier-j	financière	AQ0FS00	financier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:17&collection=eptic3">
+<s id="272:17">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -34421,7 +34421,7 @@ futurs	AQ0MP00	futur-j	futur	AQ0MP00	futur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:18&collection=eptic3">
+<s id="272:18">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 <g/>
@@ -34438,7 +34438,7 @@ celui-ci	PD0MS00	celui-ci-p	celui-ci	PD0MS00	celui-ci	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:19&collection=eptic3">
+<s id="272:19">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -34469,7 +34469,7 @@ point	NCMS000	point-n	pt	NCMS000	point	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:20&collection=eptic3">
+<s id="272:20">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -34488,7 +34488,7 @@ soir	NCMS000	soir-n	soir	NCMS000	soir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="272:21&collection=eptic3">
+<s id="272:21">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -34518,7 +34518,7 @@ exhaustive	AQ0FS00	exhaustif-j	exhaustive	AQ0FS00	exhaustif	F	S
 <speaker name="Howitt Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="79" duration="short" durations="27.0" speed="high" speedwm="175.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="276:1&collection=eptic3">
+<s id="276:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -34553,7 +34553,7 @@ utiles	AQ0CP00	utile-j	utile	AQ0CP00	utile	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="276:2&collection=eptic3">
+<s id="276:2">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 Zala	NP00000	Zala-n	zala	NP00000	Zala	M	S
@@ -34582,7 +34582,7 @@ avis	NCMN000	avis-n	avis	NCMN000	avis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="276:3&collection=eptic3">
+<s id="276:3">
 
 Selon	SP	selon-i	selon	SP	selon	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	F	P
@@ -34620,7 +34620,7 @@ empêche	VMIP1S0	empêcher-v	empêcher	VMIP1S0	empêcher	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="276:4&collection=eptic3">
+<s id="276:4">
 
 Si	CS	si-c	si	CS	si	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	M	P
@@ -34643,7 +34643,7 @@ inopportun	AQ0MS00	inopportun-j	inopportun	AQ0MS00	inopportun	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="276:5&collection=eptic3">
+<s id="276:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -34668,7 +34668,7 @@ opinion	NCFS000	opinion-n	opinion	NCFS000	opinion	F	S
 <speaker name="Cashman Michael" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="296" duration="medium" durations="121.0" speed="medium" speedwm="146.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="280:1&collection=eptic3">
+<s id="280:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -34713,7 +34713,7 @@ mauvais	AQ0MN00	mauvais-j	mauvais	AQ0MN00	mauvais	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:2&collection=eptic3">
+<s id="280:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -34750,7 +34750,7 @@ préoccupé	VMP00SM	préoccuper-v	préoccupé	VMP00SM	préoccuper	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:3&collection=eptic3">
+<s id="280:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -34796,7 +34796,7 @@ sens	NCMN000	sens-n	sens	NCMN000	sens	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:4&collection=eptic3">
+<s id="280:4">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -34815,7 +34815,7 @@ confiance	NCFS000	confiance-n	confiance	NCFS000	confiance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:5&collection=eptic3">
+<s id="280:5">
 
 À	SP	à-i	à	SP	à	0	0
 cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
@@ -34889,7 +34889,7 @@ experts	NCCP000	expert-n	expert	NCCP000	expert	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:6&collection=eptic3">
+<s id="280:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 m'	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -34930,7 +34930,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:7&collection=eptic3">
+<s id="280:7">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -34972,7 +34972,7 @@ Amsterdam	NPMS000	Amsterdam-n	amsterdam	NPMS000	Amsterdam	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:8&collection=eptic3">
+<s id="280:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 l'	PP3CSA0	le-p	le	PP3CSA0	le	M,F	S
@@ -35003,7 +35003,7 @@ révision	NCFS000	révision-n	révision	NCFS000	révision	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:9&collection=eptic3">
+<s id="280:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pensais	VMII1S0	penser-v	penser	VMII1S0	penser	0	0
@@ -35050,7 +35050,7 @@ refuse	VMIP3S0	refuser-v	refuser	VMIP3S0	refuser	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:10&collection=eptic3">
+<s id="280:10">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 remarquerez	VMIF2P0	remarquer-v	remarquer	VMIF2P0	remarquer	0	0
@@ -35066,7 +35066,7 @@ Assemblée	NPFS000	Assemblée-n	assemblée	NPFS000	Assemblée	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:11&collection=eptic3">
+<s id="280:11">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 se	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -35085,7 +35085,7 @@ transparence	NCFS000	transparence-n	transparence	NCFS000	transparence	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:12&collection=eptic3">
+<s id="280:12">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 plupart	NCFS000	plupart-n	plupart	NCFS000	plupart	F	S
@@ -35101,7 +35101,7 @@ importance	NCFS000	importance-n	importance	NCFS000	importance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:13&collection=eptic3">
+<s id="280:13">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -35119,7 +35119,7 @@ consulté	VMP00SM	consulter-v	consulté	VMP00SM	consulter	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="280:14&collection=eptic3">
+<s id="280:14">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -35157,7 +35157,7 @@ engager	VMN0000	engager-v	engager	VMN0000	engager	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="280:15&collection=eptic3">
+<s id="280:15">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -35169,7 +35169,7 @@ pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="280:16&collection=eptic3">
+<s id="280:16">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -35222,7 +35222,7 @@ obtenus	VMP00PM	obtenir-v	obtenu	VMP00PM	obtenir	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="70.0" speed="slow" speedwm="114.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="610:1&collection=eptic3">
+<s id="610:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -35271,7 +35271,7 @@ climatique	AQ0CS00	climatique-j	climatique	AQ0CS00	climatique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:2&collection=eptic3">
+<s id="610:2">
 
 Toutefois	RG	toutefois-r	toutefois	RG	toutefois	0	0
 <g/>
@@ -35376,7 +35376,7 @@ euros	NCMP000	euro-n	euro	NCMP000	euro	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:3&collection=eptic3">
+<s id="610:3">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -35405,7 +35405,7 @@ légal	AQ0MS00	légal-j	légal	AQ0MS00	légal	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:4&collection=eptic3">
+<s id="610:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -35428,7 +35428,7 @@ s'	PP3CN00	se-p	se	PP3CN00	se	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:5&collection=eptic3">
+<s id="610:5">
 
 8	Z	8-m	8	Z	8	0	0
 pour	SP	pour-i	pour	SP	pour	0	0
@@ -35448,7 +35448,7 @@ fixé	VMP00SM	fixer-v	fixé	VMP00SM	fixer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:6&collection=eptic3">
+<s id="610:6">
 
 2	Z	2-m	2	Z	2	0	0
 pour	SP	pour-i	pour	SP	pour	0	0
@@ -35466,7 +35466,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="610:7&collection=eptic3">
+<s id="610:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -35491,7 +35491,7 @@ renégociation	NCFS000	renégociation-n	renégociation	NCFS000	renégociation	F	
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="121" duration="short" durations="55.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="287:1&collection=eptic3">
+<s id="287:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -35515,7 +35515,7 @@ siècle	NCMS000	siècle-n	siècle	NCMS000	siècle	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:2&collection=eptic3">
+<s id="287:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -35538,7 +35538,7 @@ mois	NCMP000	moi-n	moi	NCMP000	moi	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:3&collection=eptic3">
+<s id="287:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -35566,7 +35566,7 @@ précis	AQ0MN00	précis-j	précis	AQ0MN00	précis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:4&collection=eptic3">
+<s id="287:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -35600,7 +35600,7 @@ année	NCFS000	année-n	année	NCFS000	année	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:5&collection=eptic3">
+<s id="287:5">
 
 Quoi	PT0CN00	quoi-p	quoi	PT0CN00	quoi	0	0
 qu'	CS	que-c	que	CS	que	0	0
@@ -35626,7 +35626,7 @@ résolu	VMP00SM	résoudre-v	résolu	VMP00SM	résoudre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:6&collection=eptic3">
+<s id="287:6">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -35704,7 +35704,7 @@ cessez-le-feu	NCMN000	cessez-le-feu-n	cessez-le-feu	NCMN000	cessez-le-feu	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="287:7&collection=eptic3">
+<s id="287:7">
 
 Si	CS	si-c	si	CS	si	0	0
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -35735,7 +35735,7 @@ conflit	NCMS000	conflit-n	conflit	NCMS000	conflit	M	S
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="72.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="291:1&collection=eptic3">
+<s id="291:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -35762,7 +35762,7 @@ mer	NCFS000	mer-n	mer	NCFS000	mer	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:2&collection=eptic3">
+<s id="291:2">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 déchets	NCMP000	déchet-n	déchet	NCMP000	déchet	M	P
@@ -35819,7 +35819,7 @@ rare	AQ0CS00	rare-j	rare	AQ0CS00	rare	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:3&collection=eptic3">
+<s id="291:3">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 une	DI0FS0	un-x	une	DI0FS0	un	F	S
@@ -35835,7 +35835,7 @@ pertinente	AQ0FS00	pertinent-j	pertinente	AQ0FS00	pertinent	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:4&collection=eptic3">
+<s id="291:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
@@ -35865,7 +35865,7 @@ mer	NCFS000	mer-n	mer	NCFS000	mer	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:5&collection=eptic3">
+<s id="291:5">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -35878,7 +35878,7 @@ remédier	VMN0000	remédier-v	remédier	VMN0000	remédier	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:6&collection=eptic3">
+<s id="291:6">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 <g/>
@@ -35899,7 +35899,7 @@ pervers	NCMN000	pervers-n	pervers	NCMN000	pervers	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:7&collection=eptic3">
+<s id="291:7">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 peut	VMIP3S0	pouvoir-v	pouvoir	VMIP3S0	pouvoir	0	0
@@ -35922,7 +35922,7 @@ filets	NCMP000	filet-n	filet	NCMP000	filet	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:8&collection=eptic3">
+<s id="291:8">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 peut	VMIP3S0	pouvoir-v	pouvoir	VMIP3S0	pouvoir	0	0
@@ -35943,7 +35943,7 @@ pêché	VMP00SM	pêcher-v	pêché	VMP00SM	pêcher	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:9&collection=eptic3">
+<s id="291:9">
 
 Toutes	DI0FP0	tout-x	toute	DI0FP0	tout	F	P
 ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
@@ -35975,7 +35975,7 @@ commune	AQ0FS00	commun-j	commune	AQ0FS00	commun	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:10&collection=eptic3">
+<s id="291:10">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 définit	VMIP3S0	définir-v	définir	VMIP3S0	définir	0	0
@@ -36002,7 +36002,7 @@ accès	NCMN000	accès-n	accès	NCMN000	accès	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:11&collection=eptic3">
+<s id="291:11">
 
 Personne	PI0CS00	personne-p	personne	PI0CS00	personne	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -36036,7 +36036,7 @@ renouvelables	AQ0CP00	renouvelable-j	renouvelable	AQ0CP00	renouvelable	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:12&collection=eptic3">
+<s id="291:12">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -36088,7 +36088,7 @@ propriété	NCFS000	propriété-n	propriété	NCFS000	propriété	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="291:13&collection=eptic3">
+<s id="291:13">
 
 Rétablir	VMN0000	rétablir-v	rétablir	VMN0000	rétablir	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -36113,7 +36113,7 @@ solution	NCFS000	solution-n	solution	NCFS000	solution	F	S
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="205" duration="short" durations="70.0" speed="high" speedwm="175.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="295:1&collection=eptic3">
+<s id="295:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -36137,7 +36137,7 @@ financière	AQ0FS00	financier-j	financière	AQ0FS00	financier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:2&collection=eptic3">
+<s id="295:2">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -36166,7 +36166,7 @@ problèmes	NCMP000	problème-n	problème	NCMP000	problème	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:3&collection=eptic3">
+<s id="295:3">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 fut	VMIS3S0	être-v	être	VMIS3S0	être	0	0
@@ -36198,7 +36198,7 @@ insolvables	AQ0CP00	insolvable-j	insolvable	AQ0CP00	insolvable	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:4&collection=eptic3">
+<s id="295:4">
 
 Lorsqu	NP00000	Lorsqu-n	lorsqu	NP00000	Lorsqu	0	0
 <g/>
@@ -36236,7 +36236,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:5&collection=eptic3">
+<s id="295:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -36282,7 +36282,7 @@ raisons	NCFP000	raison-n	raison	NCFP000	raison	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:6&collection=eptic3">
+<s id="295:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -36307,7 +36307,7 @@ valeur	NCFS000	valeur-n	valeur	NCFS000	valeur	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:7&collection=eptic3">
+<s id="295:7">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 l'	PP3CSA0	le-p	le	PP3CSA0	le	M,F	S
@@ -36366,7 +36366,7 @@ crédit	NCMS000	crédit-n	crédit	NCMS000	crédit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:8&collection=eptic3">
+<s id="295:8">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -36382,7 +36382,7 @@ passé	VMP00SM	passer-v	passé	VMP00SM	passer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:9&collection=eptic3">
+<s id="295:9">
 
 Par	SP	par-i	par	SP	par	0	0
 ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
@@ -36417,7 +36417,7 @@ faillite	NCFS000	faillite-n	faillite	NCFS000	faillite	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:10&collection=eptic3">
+<s id="295:10">
 
 En	SP	en-i	en	SP	en	0	0
 introduisant	VMG0000	introduire-v	introduire	VMG0000	introduire	0	0
@@ -36437,7 +36437,7 @@ banques	NCFP000	banque-n	banque	NCFP000	banque	F	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="295:11&collection=eptic3">
+<s id="295:11">
 
 Celles-ci	PD0FP00	celui-ci-p	celui-ci	PD0FP00	celui-ci	0	0
 se	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -36477,7 +36477,7 @@ secours	NCMN000	secours-n	secours	NCMN000	secours	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="295:12&collection=eptic3">
+<s id="295:12">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -36504,7 +36504,7 @@ financière	AQ0FS00	financier-j	financière	AQ0FS00	financier	F	S
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="173" duration="short" durations="65.0" speed="medium" speedwm="159.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="299:1&collection=eptic3">
+<s id="299:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -36564,7 +36564,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:2&collection=eptic3">
+<s id="299:2">
 
 Depuis	RG	depuis-r	depuis	RG	depuis	0	0
 des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
@@ -36623,7 +36623,7 @@ tertiaire	AQ0CS00	tertiaire-j	tertiaire	AQ0CS00	tertiaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:3&collection=eptic3">
+<s id="299:3">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 Îles	NPFP000	Îles-n	îles	NPFP000	Îles	F	P
@@ -36663,7 +36663,7 @@ fiscale	AQ0FS00	fiscal-j	fiscale	AQ0FS00	fiscal	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:4&collection=eptic3">
+<s id="299:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dis	VMIP1S0	dire-v	dire	VMIP1S0	dire	0	0
@@ -36679,7 +36679,7 @@ fiscale	AQ0FS00	fiscal-j	fiscale	AQ0FS00	fiscal	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:5&collection=eptic3">
+<s id="299:5">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 îles	NCFP000	île-n	île	NCFP000	île	F	P
@@ -36704,7 +36704,7 @@ placés	VMP00PM	placer-v	placé	VMP00PM	placer	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:6&collection=eptic3">
+<s id="299:6">
 
 Et	CC	et-c	et	CC	et	0	0
 que	CS	que-c	que	CS	que	0	0
@@ -36730,7 +36730,7 @@ fiscal	AQ0MS00	fiscal-j	fiscal	AQ0MS00	fiscal	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="299:7&collection=eptic3">
+<s id="299:7">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 se	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -36755,7 +36755,7 @@ UE	NPFS000	UE-n	ue	NPFS000	UE	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="299:8&collection=eptic3">
+<s id="299:8">
 
 Honte	NCFS000	honte-n	honte	NCFS000	honte	F	S
 à	SP	à-i	à	SP	à	0	0
@@ -36774,7 +36774,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="160" duration="short" durations="64.0" speed="medium" speedwm="150.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="326:1&collection=eptic3">
+<s id="326:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -36814,7 +36814,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:2&collection=eptic3">
+<s id="326:2">
 
 Si	CS	si-c	si	CS	si	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -36856,7 +36856,7 @@ valable	AQ0CS00	valable-j	valable	AQ0CS00	valable	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:3&collection=eptic3">
+<s id="326:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devrions	VMIC1P0	devoir-v	devoir	VMIC1P0	devoir	0	0
@@ -36879,7 +36879,7 @@ membres	NCMP000	membre-n	membre	NCMP000	membre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:4&collection=eptic3">
+<s id="326:4">
 
 Certains	PI0MP00	certains-p	certains	PI0MP00	certains	M	P
 sont	VSIP3P0	être-v	être	VSIP3P0	être	0	0
@@ -36903,7 +36903,7 @@ l'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:5&collection=eptic3">
+<s id="326:5">
 
 À	SP	à-i	à	SP	à	0	0
 mesure	NCFS000	mesure-n	mesure	NCFS000	mesure	F	S
@@ -36975,7 +36975,7 @@ nationale	AQ0FS00	national-j	nationale	AQ0FS00	national	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:6&collection=eptic3">
+<s id="326:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 parlons	VMIP1P0	parler-v	parler	VMIP1P0	parler	0	0
@@ -37033,7 +37033,7 @@ demain	RG	demain-r	demain	RG	demain	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="326:7&collection=eptic3">
+<s id="326:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -37055,7 +37055,7 @@ cohérent	AQ0MS00	cohérent-j	cohérent	AQ0MS00	cohérent	M	S
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="149" duration="short" durations="64.0" speed="medium" speedwm="139.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="329:1&collection=eptic3">
+<s id="329:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -37083,7 +37083,7 @@ fiscal	AQ0MS00	fiscal-j	fiscal	AQ0MS00	fiscal	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:2&collection=eptic3">
+<s id="329:2">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 peut	VMIP3S0	pouvoir-v	pouvoir	VMIP3S0	pouvoir	0	0
@@ -37115,7 +37115,7 @@ ambition	NCFS000	ambition-n	ambition	NCFS000	ambition	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:3&collection=eptic3">
+<s id="329:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 voyons	VMIP1P0	voir-v	voir	VMIP1P0	voir	0	0
@@ -37131,7 +37131,7 @@ simple	AQ0CS00	simple-j	simple	AQ0CS00	simple	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:4&collection=eptic3">
+<s id="329:4">
 
 Impressionnante	AQ0FS00	impressionnant-j	impressionnante	AQ0FS00	impressionnant	F	S
 <g/>
@@ -37146,7 +37146,7 @@ intempérante	AQ0FS00	intempérant-j	intempérante	AQ0FS00	intempérant	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:5&collection=eptic3">
+<s id="329:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 parlons	VMIP1P0	parler-v	parler	VMIP1P0	parler	0	0
@@ -37185,7 +37185,7 @@ pensions	NCFP000	pension-n	pension	NCFP000	pension	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:6&collection=eptic3">
+<s id="329:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 parlons	VMIP1P0	parler-v	parler	VMIP1P0	parler	0	0
@@ -37201,7 +37201,7 @@ public	AQ0MS00	public-j	public	AQ0MS00	public	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:7&collection=eptic3">
+<s id="329:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 parlons	VMIP1P0	parler-v	parler	VMIP1P0	parler	0	0
@@ -37219,7 +37219,7 @@ unique	AQ0CS00	unique-j	unique	AQ0CS00	unique	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:8&collection=eptic3">
+<s id="329:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -37238,7 +37238,7 @@ ici	RG	ici-r	ici	RG	ici	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:9&collection=eptic3">
+<s id="329:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
@@ -37256,7 +37256,7 @@ monétaire	AQ0CS00	monétaire-j	monétaire	AQ0CS00	monétaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:10&collection=eptic3">
+<s id="329:10">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -37280,7 +37280,7 @@ fiscale	AQ0FS00	fiscal-j	fiscale	AQ0FS00	fiscal	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:11&collection=eptic3">
+<s id="329:11">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -37305,7 +37305,7 @@ intégration	NCFS000	intégration-n	intégration	NCFS000	intégration	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="329:12&collection=eptic3">
+<s id="329:12">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -37346,7 +37346,7 @@ vanité	NCFS000	vanité-n	vanité	NCFS000	vanité	F	S
 <speaker name="Bloom Godfrey" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="215" duration="short" durations="71.0" speed="high" speedwm="181.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="333:1&collection=eptic3">
+<s id="333:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -37372,7 +37372,7 @@ femme	NCFS000	femme-n	femme	NCFS000	femme	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:2&collection=eptic3">
+<s id="333:2">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 avez	VMIP2P0	avoir-v	avoir	VMIP2P0	avoir	0	0
@@ -37392,7 +37392,7 @@ quoi	PT0CN00	quoi-p	quoi	PT0CN00	quoi	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:3&collection=eptic3">
+<s id="333:3">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 parlez	VMIP2P0	parler-v	parler	VMIP2P0	parler	0	0
@@ -37404,7 +37404,7 @@ maternité	NCFS000	maternité-n	maternité	NCFS000	maternité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:4&collection=eptic3">
+<s id="333:4">
 
 Tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -37473,7 +37473,7 @@ entreprise	NCFS000	entreprise-n	entreprise	NCFS000	entreprise	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:5&collection=eptic3">
+<s id="333:5">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -37487,7 +37487,7 @@ service	NCMS000	service-n	service	NCMS000	service	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:6&collection=eptic3">
+<s id="333:6">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 avez	VMIP2P0	avoir-v	avoir	VMIP2P0	avoir	0	0
@@ -37558,7 +37558,7 @@ doubler	VMN0000	doubler-v	doubler	VMN0000	doubler	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:7&collection=eptic3">
+<s id="333:7">
 
 Et	CC	et-c	et	CC	et	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -37571,7 +37571,7 @@ quotas	NCMP000	quota-n	quota	NCMP000	quota	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:8&collection=eptic3">
+<s id="333:8">
 
 Qu'	PT0CN00	que-p	que	PT0CN00	que	0	0
 <g/>
@@ -37588,7 +37588,7 @@ folie	NCFS000	folie-n	folie	NCFS000	folie	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="333:9&collection=eptic3">
+<s id="333:9">
 
 Des	SP+D	de+les-i	de+les	SP,DA0CP0	de,le	F	P
 femmes	NCFP000	femme-n	femme	NCFP000	femme	F	P
@@ -37630,7 +37630,7 @@ quotas	NCMP000	quota-n	quota	NCMP000	quota	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="333:10&collection=eptic3">
+<s id="333:10">
 
 À	SP	à-i	à	SP	à	0	0
 présent	NCMS000	présent-n	présent	NCMS000	présent	M	S
@@ -37676,7 +37676,7 @@ boulot	NCFS000	boulot-n	boulot	NCFS000	boulot	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="333:11&collection=eptic3">
+<s id="333:11">
 
 "	Fe	"-x	"	Fe	"	0	0
 Tout	DI0MS0	tout-x	tout	DI0MS0	tout	M	S
@@ -37727,7 +37727,7 @@ comprendriez	VMIC2P0	comprendre-v	comprendre	VMIC2P0	comprendre	0	0
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="343" duration="medium" durations="127.0" speed="high" speedwm="162.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="337:1&collection=eptic3">
+<s id="337:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -37768,7 +37768,7 @@ souhaité	VMP00SM	souhaiter-v	souhaité	VMP00SM	souhaiter	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:2&collection=eptic3">
+<s id="337:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -37801,7 +37801,7 @@ démocratie	NCFS000	démocratie-n	démocratie	NCFS000	démocratie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:3&collection=eptic3">
+<s id="337:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -37865,7 +37865,7 @@ place	NCFS000	place-n	place	NCFS000	place	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:4&collection=eptic3">
+<s id="337:4">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -37912,7 +37912,7 @@ communautaire	AQ0CS00	communautaire-j	communautaire	AQ0CS00	communautaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:5&collection=eptic3">
+<s id="337:5">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -37961,7 +37961,7 @@ Barroso	NPMS000	Barroso-n	barroso	NPMS000	Barroso	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:6&collection=eptic3">
+<s id="337:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -37990,7 +37990,7 @@ présenté	VMP00SM	présenter-v	présenté	VMP00SM	présenter	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:7&collection=eptic3">
+<s id="337:7">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -38002,7 +38002,7 @@ démocratique	AQ0CS00	démocratique-j	démocratique	AQ0CS00	démocratique	M,F	S
 !	Fat	!-x	!	Fat	!	0	0
 </s>
 
-<s id="337:8&collection=eptic3">
+<s id="337:8">
 
 Ainsi	RG	ainsi-r	ainsi	RG	ainsi	0	0
 donc	RG	donc-r	donc	RG	donc	0	0
@@ -38048,7 +38048,7 @@ Europe	NPCS000	Europe-n	europe	NPCS000	Europe	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:9&collection=eptic3">
+<s id="337:9">
 
 À	SP	à-i	à	SP	à	0	0
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -38092,7 +38092,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:10&collection=eptic3">
+<s id="337:10">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 dit	VMIP3S0	dire-v	dire	VMIP3S0	dire	0	0
@@ -38106,7 +38106,7 @@ union	NCFS000	union-n	union	NCFS000	union	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:11&collection=eptic3">
+<s id="337:11">
 
 Personne	PI0CS00	personne-p	personne	PI0CS00	personne	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -38119,7 +38119,7 @@ cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:12&collection=eptic3">
+<s id="337:12">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -38138,7 +38138,7 @@ voulaient	VMII3P0	vouloir-v	vouloir	VMII3P0	vouloir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:13&collection=eptic3">
+<s id="337:13">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 votera	VMIF3S0	voter-v	voter	VMIF3S0	voter	0	0
@@ -38164,7 +38164,7 @@ pour	SP	pour-i	pour	SP	pour	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:14&collection=eptic3">
+<s id="337:14">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 dont	PR00000	dont-p	dont	PR00000	dont	0	0
@@ -38186,7 +38186,7 @@ Portugal	NPMS000	Portugal-n	portugal	NPMS000	Portugal	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:15&collection=eptic3">
+<s id="337:15">
 
 Après	SP	après-i	après	SP	après	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -38221,7 +38221,7 @@ suivant	NCMS000	suivant-n	suivant	NCMS000	suivant	M	S
 !	Fat	!-x	!	Fat	!	0	0
 </s>
 
-<s id="337:16&collection=eptic3">
+<s id="337:16">
 
 "	Fe	"-x	"	Fe	"	0	0
 <g/>
@@ -38251,7 +38251,7 @@ de	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:17&collection=eptic3">
+<s id="337:17">
 
 6	Z	6-m	6	Z	6	0	0
 pourcent	NCMS000	pourcent-n	pourcent	NCMS000	pourcent	M	S
@@ -38259,7 +38259,7 @@ pourcent	NCMS000	pourcent-n	pourcent	NCMS000	pourcent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:18&collection=eptic3">
+<s id="337:18">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 Barroso	NPMS000	Barroso-n	barroso	NPMS000	Barroso	M	S
@@ -38270,7 +38270,7 @@ parfaitement	RG	parfaitement-r	parfaitement	RG	parfaitement	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:19&collection=eptic3">
+<s id="337:19">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -38297,7 +38297,7 @@ cent	NCMP000	cent-n	cent	NCMP000	cent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:20&collection=eptic3">
+<s id="337:20">
 
 En	SP	en-i	en	SP	en	0	0
 avril	NCMS000	avril-n	avril	NCMS000	avril	M	S
@@ -38330,7 +38330,7 @@ reconduits	VMP00PM	reconduire-v	reconduit	VMP00PM	reconduire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:21&collection=eptic3">
+<s id="337:21">
 
 Souvenons-nous	VMM01P0	souvenir-v	souvenir	VMIP1P0,PP1CP00	souvenir,nous	0	0
 que	RN	que-r	que	RN	que	0	0
@@ -38359,7 +38359,7 @@ portugaise	AQ0FS00	portugais-j	portugaise	AQ0FS00	portugais	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:22&collection=eptic3">
+<s id="337:22">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -38385,7 +38385,7 @@ dette	NCFS000	dette-n	dette	NCFS000	dette	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="337:23&collection=eptic3">
+<s id="337:23">
 
 Si	CS	si-c	si	CS	si	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -38425,7 +38425,7 @@ elle-même	PP3FS00	elle-même-p	elle-même	PP3FS00	elle-même	0	0
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="143" duration="short" durations="68.0" speed="slow" speedwm="126.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="341:1&collection=eptic3">
+<s id="341:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -38450,7 +38450,7 @@ faim	NCFS000	faim-n	faim	NCFS000	faim	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:2&collection=eptic3">
+<s id="341:2">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -38472,7 +38472,7 @@ là-bas	RG	là-bas-r	là-bas	RG	là-bas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:3&collection=eptic3">
+<s id="341:3">
 
 Chaque	DI0CS0	chaque-x	chaque	DI0CS0	chaque	M	S
 jour	NCMS000	jour-n	jour	NCMS000	jour	M	S
@@ -38501,7 +38501,7 @@ nourriture	NCFS000	nourriture-n	nourriture	NCFS000	nourriture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:4&collection=eptic3">
+<s id="341:4">
 
 Jusqu'il	NPMS000	Jusqu'il-n	jusqu'il	NPMS000	Jusqu'il	M	S
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -38531,7 +38531,7 @@ elle-même	PP3FS00	elle-même-p	elle-même	PP3FS00	elle-même	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:5&collection=eptic3">
+<s id="341:5">
 
 Aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 <g/>
@@ -38545,7 +38545,7 @@ nourriture	NCFS000	nourriture-n	nourriture	NCFS000	nourriture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:6&collection=eptic3">
+<s id="341:6">
 
 En	SP	en-i	en	SP	en	0	0
 réalité	NCFS000	réalité-n	réalité	NCFS000	réalité	F	S
@@ -38567,7 +38567,7 @@ pauvres	AQ0CP00	pauvre-j	pôvre	AQ0CP00	pauvre	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:7&collection=eptic3">
+<s id="341:7">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -38602,7 +38602,7 @@ terres	NCFP000	terre-n	terre	NCFP000	terre	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:8&collection=eptic3">
+<s id="341:8">
 
 Sur	SP	sur-i	sur	SP	sur	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -38630,7 +38630,7 @@ autonomes	AQ0CP00	autonome-j	autonome	AQ0CP00	autonome	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:9&collection=eptic3">
+<s id="341:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -38644,7 +38644,7 @@ cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:10&collection=eptic3">
+<s id="341:10">
 
 En	SP	en-i	en	SP	en	0	0
 1960	Z	1960-m	1960	Z	1960	0	0
@@ -38670,7 +38670,7 @@ verte	AQ0FS00	vert-j	verte	AQ0FS00	vert	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:11&collection=eptic3">
+<s id="341:11">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 entendait	VMII3S0	entendre-v	entendre	VMII3S0	entendre	0	0
@@ -38686,7 +38686,7 @@ faim	NCFS000	faim-n	faim	NCFS000	faim	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:12&collection=eptic3">
+<s id="341:12">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 <g/>
@@ -38702,7 +38702,7 @@ faim	NCFS000	faim-n	faim	NCFS000	faim	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:13&collection=eptic3">
+<s id="341:13">
 
 Aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 <g/>
@@ -38719,7 +38719,7 @@ alimentaire	AQ0CS00	alimentaire-j	alimentaire	AQ0CS00	alimentaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="341:14&collection=eptic3">
+<s id="341:14">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 pouvons	VMIP1P0	pouvoir-v	pouvoir	VMIP1P0	pouvoir	0	0
@@ -38744,7 +38744,7 @@ volonté	NCFS000	volonté-n	volonté	NCFS000	volonté	F	S
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="67.0" speed="slow" speedwm="92.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="345:1&collection=eptic3">
+<s id="345:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -38782,7 +38782,7 @@ mondiale	AQ0FS00	mondial-j	mondiale	AQ0FS00	mondial	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="345:2&collection=eptic3">
+<s id="345:2">
 
 880	Z	880-m	880	Z	880	0	0
 milliards	NCMP000	milliard-n	milliard	NCMP000	milliard	M	P
@@ -38815,7 +38815,7 @@ occidentales	AQ0FP00	occidental-j	occidentale	AQ0FP00	occidental	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="345:3&collection=eptic3">
+<s id="345:3">
 
 En	SP	en-i	en	SP	en	0	0
 contrepartie	NCFS000	contrepartie-n	contrepartie	NCFS000	contrepartie	F	S
@@ -38837,7 +38837,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="345:4&collection=eptic3">
+<s id="345:4">
 
 Cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 argent	NCMS000	argent-n	argent	NCMS000	argent	M	S
@@ -38862,7 +38862,7 @@ pauvreté	NCFS000	pauvreté-n	pauvreté	NCFS000	pauvreté	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="345:5&collection=eptic3">
+<s id="345:5">
 
 Si	CS	si-c	si	CS	si	0	0
 ces	DD0CP0	ce-x	ce	DD0CP0	ce	M,F	P
@@ -38944,7 +38944,7 @@ commerciales	NCFP000	commercial-n	commerciale	NCFP000	commercial	F	P
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="60.0" speed="slow" speedwm="103.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="348:1&collection=eptic3">
+<s id="348:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -38983,7 +38983,7 @@ désaccord	NCMS000	désaccord-n	désaccord	NCMS000	désaccord	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="348:2&collection=eptic3">
+<s id="348:2">
 
 Après	SP	après-i	après	SP	après	0	0
 mûre	AQ0FS00	mûr-j	mûre	AQ0FS00	mûr	F	S
@@ -39013,7 +39013,7 @@ globale	AQ0FS00	global-j	globale	AQ0FS00	global	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="348:3&collection=eptic3">
+<s id="348:3">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -39078,7 +39078,7 @@ affamées	VMP00PF	affamer-v	affamée	VMP00PF	affamer	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="348:4&collection=eptic3">
+<s id="348:4">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devrions	VMIC1P0	devoir-v	devoir	VMIC1P0	devoir	0	0
@@ -39104,7 +39104,7 @@ aux	SP+DA	à+les-i	à+les	SP,DA0CP0	à,le	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="348:5&collection=eptic3">
+<s id="348:5">
 
 Si	CS	si-c	si	CS	si	0	0
 l'	DA0CS0	le-x	l'	DA0CS0	le	F	S
@@ -39137,7 +39137,7 @@ mondial	AQ0MS00	mondial-j	mondial	AQ0MS00	mondial	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="348:6&collection=eptic3">
+<s id="348:6">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -39159,7 +39159,7 @@ alimentation	NCFS000	alimentation-n	alimentation	NCFS000	alimentation	F	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="196" duration="short" durations="62.0" speed="high" speedwm="189.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="352:1&collection=eptic3">
+<s id="352:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -39194,7 +39194,7 @@ avis	NCMN000	avis-n	avis	NCMN000	avis	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:2&collection=eptic3">
+<s id="352:2">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -39221,7 +39221,7 @@ questions	NCFP000	question-n	question	NCFP000	question	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:3&collection=eptic3">
+<s id="352:3">
 
 Aucun	DI0MS0	aucun-x	aucun	DI0MS0	aucun	M	S
 député	NCMS000	député-n	député	NCMS000	député	M	S
@@ -39273,7 +39273,7 @@ Conseil	NPMS000	Conseil-n	conseil	NPMS000	Conseil	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:4&collection=eptic3">
+<s id="352:4">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -39283,7 +39283,7 @@ frustrant	AQ0MS00	frustrant-j	frustrant	AQ0MS00	frustrant	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:5&collection=eptic3">
+<s id="352:5">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -39296,7 +39296,7 @@ Ludford	NPMS000	Ludford-n	ludford	NPMS000	Ludford	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:6&collection=eptic3">
+<s id="352:6">
 
 Elle	PP3FS00	elle-p	elle	PP3FS00	elle	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -39329,7 +39329,7 @@ prise	VMP00SF	prendre-v	prise	VMP00SF	prendre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:7&collection=eptic3">
+<s id="352:7">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -39353,7 +39353,7 @@ dîner	NCMS000	dîner-n	dîner	NCMS000	dîner	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:8&collection=eptic3">
+<s id="352:8">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 moindre	AQ0CS00	moindre-j	moindre	AQ0CS00	moindre	F	S
@@ -39393,7 +39393,7 @@ conséquence	NCFS000	conséquence-n	conséquence	NCFS000	conséquence	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:9&collection=eptic3">
+<s id="352:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 sais	VMIP1S0	savoir-v	savoir	VMIP1S0	savoir	0	0
@@ -39436,7 +39436,7 @@ courrier	NCMS000	courrier-n	courrier	NCMS000	courrier	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:10&collection=eptic3">
+<s id="352:10">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -39453,7 +39453,7 @@ dire	VMN0000	dire-v	dire	VMN0000	dire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:11&collection=eptic3">
+<s id="352:11">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -39471,7 +39471,7 @@ sujet	NCMS000	sujet-n	sujet	NCMS000	sujet	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:12&collection=eptic3">
+<s id="352:12">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -39498,7 +39498,7 @@ bien	RG	bien-r	bien	RG	bien	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="352:13&collection=eptic3">
+<s id="352:13">
 
 N'	RN	ne-r	ne	RN	ne	0	0
 <g/>
@@ -39524,7 +39524,7 @@ votre	DP2CSP	votre-x	votre	DP2CSP	votre	M	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="90" duration="short" durations="39.0" speed="medium" speedwm="138.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="413:1&collection=eptic3">
+<s id="413:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -39570,7 +39570,7 @@ appréhender	VMN0000	appréhender-v	appréhender	VMN0000	appréhender	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="413:2&collection=eptic3">
+<s id="413:2">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 cas	NCMN000	cas-n	cas	NCMN000	cas	M	S
@@ -39585,7 +39585,7 @@ exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="413:3&collection=eptic3">
+<s id="413:3">
 
 Voilà	I	voilà-x	voilà	I	voilà	0	0
 un	DI0MS0	un-x	un	DI0MS0	un	M	S
@@ -39609,7 +39609,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="413:4&collection=eptic3">
+<s id="413:4">
 
 En	SP	en-i	en	SP	en	0	0
 tant	RG	tant-r	tant	RG	tant	0	0
@@ -39653,7 +39653,7 @@ lui	PP3CS00	lui-p	lui	PP3CS00	lui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="413:5&collection=eptic3">
+<s id="413:5">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rédacteur	NCMS000	rédacteur-n	rédacteur	NCMS000	rédacteur	M	S
@@ -39676,7 +39676,7 @@ poursuivre	VMN0000	poursuivre-v	poursuivre	VMN0000	poursuivre	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="413:6&collection=eptic3">
+<s id="413:6">
 
 Et	CC	et-c	et	CC	et	0	0
 <g/>
@@ -39706,7 +39706,7 @@ dernier	AQ0MS00	dernier-j	dernier	AQ0MS00	dernier	M	S
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="144" duration="short" durations="60.0" speed="medium" speedwm="144.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="417:1&collection=eptic3">
+<s id="417:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -39788,7 +39788,7 @@ nuit	NCFS000	nuit-n	nuit	NCFS000	nuit	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:2&collection=eptic3">
+<s id="417:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -39803,7 +39803,7 @@ capital	AQ0MS00	capital-j	capital	AQ0MS00	capital	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:3&collection=eptic3">
+<s id="417:3">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -39849,7 +39849,7 @@ commerciale	AQ0FS00	commercial-j	commerciale	AQ0FS00	commercial	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:4&collection=eptic3">
+<s id="417:4">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -39867,7 +39867,7 @@ forts	AQ0MP00	fort-j	fort	AQ0MP00	fort	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:5&collection=eptic3">
+<s id="417:5">
 
 Certains	PI0MP00	certains-p	certains	PI0MP00	certains	M	P
 les	PP3CPA0	les-p	les	PP3CPA0	les	M,F	P
@@ -39892,7 +39892,7 @@ frustration	NCFS000	frustration-n	frustration	NCFS000	frustration	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:6&collection=eptic3">
+<s id="417:6">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -39927,7 +39927,7 @@ environnement	NCMS000	environnement-n	environnement	NCMS000	environnement	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:7&collection=eptic3">
+<s id="417:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -39947,7 +39947,7 @@ climatique	AQ0CS00	climatique-j	climatique	AQ0CS00	climatique	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:8&collection=eptic3">
+<s id="417:8">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -39982,7 +39982,7 @@ rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="417:9&collection=eptic3">
+<s id="417:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -40003,7 +40003,7 @@ soutenir	VMN0000	soutenir-v	soutenir	VMN0000	soutenir	0	0
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="331" duration="medium" durations="128.0" speed="medium" speedwm="155.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="421:1&collection=eptic3">
+<s id="421:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -40044,7 +40044,7 @@ alimentaires	AQ0CP00	alimentaire-j	alimentaire	AQ0CP00	alimentaire	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:2&collection=eptic3">
+<s id="421:2">
 
 Ceux	PD0MP00	celui-p	celui	PD0MP00	celui	0	0
 d'	SP	de-i	de	SP	de	0	0
@@ -40086,7 +40086,7 @@ minuit	NCMS000	minuit-n	minuit	NCMS000	minuit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:3&collection=eptic3">
+<s id="421:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -40127,7 +40127,7 @@ nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:4&collection=eptic3">
+<s id="421:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -40141,7 +40141,7 @@ souvenir	NCMS000	souvenir-n	souvenir	NCMS000	souvenir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:5&collection=eptic3">
+<s id="421:5">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 d'	SP	de-i	de	SP	de	0	0
@@ -40172,7 +40172,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:6&collection=eptic3">
+<s id="421:6">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 réalités	NCFP000	réalité-n	réalité	NCFP000	réalité	F	P
@@ -40270,7 +40270,7 @@ agricole	AQ0CS00	agricole-j	agricole	AQ0CS00	agricole	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:7&collection=eptic3">
+<s id="421:7">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 vrai	AQ0MS00	vrai-j	vrai	AQ0MS00	vrai	M	S
@@ -40316,7 +40316,7 @@ engager	VMN0000	engager-v	engager	VMN0000	engager	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:8&collection=eptic3">
+<s id="421:8">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 défi	NCMS000	défi-n	défi	NCMS000	défi	M	S
@@ -40377,7 +40377,7 @@ commissaire	NCCS000	commissaire-n	commissaire	NCCS000	commissaire	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="421:9&collection=eptic3">
+<s id="421:9">
 
 Depuis	SP	depuis-i	depuis	SP	depuis	0	0
 longtemps	RG	longtemps-r	longtemps	RG	longtemps	0	0
@@ -40422,7 +40422,7 @@ Inde	NPMS000	Inde-n	inde	NPMS000	Inde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:10&collection=eptic3">
+<s id="421:10">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 que	PR00000	que-p	que	PR00000	que	0	0
@@ -40471,7 +40471,7 @@ débats	NCMP000	débat-n	débat	NCMP000	débat	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:11&collection=eptic3">
+<s id="421:11">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -40498,7 +40498,7 @@ agriculture	NCFS000	agriculture-n	agriculture	NCFS000	agriculture	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:12&collection=eptic3">
+<s id="421:12">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -40525,7 +40525,7 @@ mondiale	AQ0FS00	mondial-j	mondiale	AQ0FS00	mondial	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:13&collection=eptic3">
+<s id="421:13">
 
 Et	CC	et-c	et	CC	et	0	0
 <g/>
@@ -40562,7 +40562,7 @@ longtemps	RG	longtemps-r	longtemps	RG	longtemps	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="421:14&collection=eptic3">
+<s id="421:14">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -40586,7 +40586,7 @@ agriculture	NCFS000	agriculture-n	agriculture	NCFS000	agriculture	F	S
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="187" duration="short" durations="68.0" speed="high" speedwm="165.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="425:1&collection=eptic3">
+<s id="425:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -40624,7 +40624,7 @@ précédents	AQ0MP00	précédent-j	précédent	AQ0MP00	précédent	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:2&collection=eptic3">
+<s id="425:2">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -40665,7 +40665,7 @@ propriété	NCFS000	propriété-n	propriété	NCFS000	propriété	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:3&collection=eptic3">
+<s id="425:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 reçois	VMIP1S0	recevoir-v	recevoir	VMIP1S0	recevoir	0	0
@@ -40728,7 +40728,7 @@ vie	NCFS000	vie-n	vie	NCFS000	vie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:4&collection=eptic3">
+<s id="425:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 reçois	VMIP1S0	recevoir-v	recevoir	VMIP1S0	recevoir	0	0
@@ -40750,7 +40750,7 @@ Bulgarie	NPFS000	Bulgarie-n	bulgarie	NPFS000	Bulgarie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:5&collection=eptic3">
+<s id="425:5">
 
 Passons	VMM01P0	passer-v	passer	VMM01P0	passer	0	0
 à	SP	à-i	à	SP	à	0	0
@@ -40767,7 +40767,7 @@ Croatie	NPFS000	Croatie-n	croatie	NPFS000	Croatie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:6&collection=eptic3">
+<s id="425:6">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 préoccupations	NCFP000	préoccupation-n	préoccupation	NCFP000	préoccupation	F	P
@@ -40798,7 +40798,7 @@ propriété	NCFS000	propriété-n	propriété	NCFS000	propriété	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:7&collection=eptic3">
+<s id="425:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -40831,7 +40831,7 @@ voulu	VMP00SM	vouloir-v	voulu	VMP00SM	vouloir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="425:8&collection=eptic3">
+<s id="425:8">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 pays	NCMN000	pays-n	pays	NCMN000	pays	M	P
@@ -40902,7 +40902,7 @@ actuels	AQ0MP00	actuel-j	actuel	AQ0MP00	actuel	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="147" duration="short" durations="59.0" speed="medium" speedwm="149.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="446:1&collection=eptic3">
+<s id="446:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -40918,7 +40918,7 @@ aspects	NCMP000	aspect-n	aspect	NCMP000	aspect	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:2&collection=eptic3">
+<s id="446:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 souhaiterais	VMIC1S0	souhaiter-v	souhaiter	VMIC1S0	souhaiter	0	0
@@ -40959,7 +40959,7 @@ population	NCFS000	population-n	population	NCFS000	population	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:3&collection=eptic3">
+<s id="446:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -41018,7 +41018,7 @@ sport	NCMS000	sport-n	sport	NCMS000	sport	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:4&collection=eptic3">
+<s id="446:4">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -41038,7 +41038,7 @@ propos	NCMN000	propos-n	propos	NCMN000	propos	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:5&collection=eptic3">
+<s id="446:5">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 <g/>
@@ -41090,7 +41090,7 @@ universelle	AQ0FS00	universel-j	universelle	AQ0FS00	universel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:6&collection=eptic3">
+<s id="446:6">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -41134,7 +41134,7 @@ autre	AQ0CS00	autre-j	autre	AQ0CS00	autre	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:7&collection=eptic3">
+<s id="446:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 crois	VMIP1S0	croire-v	croire	VMIP1S0	croire	0	0
@@ -41148,7 +41148,7 @@ fruits	NCMP000	fruit-n	fruit	NCMP000	fruit	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="446:8&collection=eptic3">
+<s id="446:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 repose	VMIP1S0	reposer-v	reposer	VMIP1S0	reposer	0	0
@@ -41174,7 +41174,7 @@ satisfaits	VMP00PM	satisfaire-v	satisfait	VMP00PM	satisfaire	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="117" duration="short" durations="51.0" speed="medium" speedwm="137.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="449:1&collection=eptic3">
+<s id="449:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -41217,7 +41217,7 @@ industrie	NCFS000	industrie-n	industrie	NCFS000	industrie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:2&collection=eptic3">
+<s id="449:2">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
@@ -41229,7 +41229,7 @@ durer	VMN0000	durer-v	durer	VMN0000	durer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:3&collection=eptic3">
+<s id="449:3">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 propositions	NCFP000	proposition-n	proposition	NCFP000	proposition	F	P
@@ -41245,7 +41245,7 @@ acceptables	AQ0CP00	acceptable-j	acceptable	AQ0CP00	acceptable	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:4&collection=eptic3">
+<s id="449:4">
 
 Elles	PP3FP00	elles-p	elles	PP3FP00	elles	0	0
 ont	VAIP3P0	avoir-v	avoir	VAIP3P0	avoir	0	0
@@ -41282,7 +41282,7 @@ agricole	AQ0CS00	agricole-j	agricole	AQ0CS00	agricole	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:5&collection=eptic3">
+<s id="449:5">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 pourrait	VMIC3S0	pouvoir-v	pouvoir	VMIC3S0	pouvoir	0	0
@@ -41335,7 +41335,7 @@ rurales	AQ0FP00	rural-j	rurale	AQ0FP00	rural	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:6&collection=eptic3">
+<s id="449:6">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 question	NCFS000	question-n	question	NCFS000	question	F	S
@@ -41346,7 +41346,7 @@ vraiment	RG	vraiment-r	vraiment	RG	vraiment	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="449:7&collection=eptic3">
+<s id="449:7">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 <g/>
@@ -41415,7 +41415,7 @@ agricole	AQ0CS00	agricole-j	agricole	AQ0CS00	agricole	M	S
 <speaker name="De Rossa Proinsias " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="54" duration="short" durations="22.0" speed="medium" speedwm="147.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="453:1&collection=eptic3">
+<s id="453:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -41449,7 +41449,7 @@ irlandaise	AQ0FS00	irlandais-j	irlandaise	AQ0FS00	irlandais	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="453:2&collection=eptic3">
+<s id="453:2">
 
 Pourrais-je	VMIC1S0	pouvoir-v	pouvoir	VMIC1S0,PP1CSN0	pouvoir,je	0	0
 lui	PP3CS00	lui-p	lui	PP3CS00	lui	0	0
@@ -41464,7 +41464,7 @@ Royaume-Uni	NP00000	Royaume-Uni-n	royaume-uni	NP00000	Royaume-Uni	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="453:3&collection=eptic3">
+<s id="453:3">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -41496,7 +41496,7 @@ nord-irlandaise	AQ0FS00	nord-irlandais-j	nord-irlandaise	AQ0FS00	nord-irlandais	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="453:4&collection=eptic3">
+<s id="453:4">
 
 Ne	RN	ne-r	ne	RN	ne	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -41513,7 +41513,7 @@ nations	NCFP000	nation-n	nation	NCFP000	nation	F	P
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="453:5&collection=eptic3">
+<s id="453:5">
 
 Et	CC	et-c	et	CC	et	0	0
 une	DI0FS0	un-x	une	DI0FS0	un	F	S
@@ -41538,7 +41538,7 @@ ajouter	VMN0000	ajouter-v	ajouter	VMN0000	ajouter	0	0
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="191" duration="short" durations="69.0" speed="high" speedwm="166.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="457:1&collection=eptic3">
+<s id="457:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -41600,7 +41600,7 @@ solution	NCFS000	solution-n	solution	NCFS000	solution	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:2&collection=eptic3">
+<s id="457:2">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 préfèreraient	VMIC3P0	préfèreraient-v	préfèreraient	VMIC3P0	préfèreraient	0	0
@@ -41635,7 +41635,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:3&collection=eptic3">
+<s id="457:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 pouvons	VMIP1P0	pouvoir-v	pouvoir	VMIP1P0	pouvoir	0	0
@@ -41650,7 +41650,7 @@ marchés	NCMP000	marché-n	marché	NCMP000	marché	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:4&collection=eptic3">
+<s id="457:4">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
@@ -41683,7 +41683,7 @@ les	DA0CP0	le-x	l'	DA0CP0	le	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:5&collection=eptic3">
+<s id="457:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VMIP2S0	sommer-v	sommer	VMIP2S0	sommer	0	0
@@ -41726,7 +41726,7 @@ phytosanitaires	AQ0CP0	phytosanitaires-j	phytosanitaires	AQ0CP0	phytosanitaires	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:6&collection=eptic3">
+<s id="457:6">
 
 Que	CS	que-c	que	CS	que	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -41766,7 +41766,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:7&collection=eptic3">
+<s id="457:7">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -41779,7 +41779,7 @@ consommateurs	NCMP000	consommateur-n	consommateur	NCMP000	consommateur	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:8&collection=eptic3">
+<s id="457:8">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 autant	RG	autant-r	autant	RG	autant	0	0
@@ -41812,7 +41812,7 @@ ailleurs	RG	ailleurs-r	ailleurs	RG	ailleurs	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="457:9&collection=eptic3">
+<s id="457:9">
 
 Arrêtons	VMM01P0	arrêter-v	arrêter	VMM01P0	arrêter	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -41836,7 +41836,7 @@ irréalistes	AQ0CP00	irréaliste-j	irréaliste	AQ0CP00	irréaliste	M,F	P
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="184" duration="short" durations="68.0" speed="high" speedwm="162.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="459:1&collection=eptic3">
+<s id="459:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -41888,7 +41888,7 @@ d'	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:2&collection=eptic3">
+<s id="459:2">
 
 À	SP	à-i	à	SP	à	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -41918,7 +41918,7 @@ développement	NCMS000	développement-n	développement	NCMS000	développement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:3&collection=eptic3">
+<s id="459:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 disait	VMII3S0	dire-v	dire	VMII3S0	dire	0	0
@@ -41959,7 +41959,7 @@ comprenaient	VMII3P0	comprendre-v	comprendre	VMII3P0	comprendre	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:4&collection=eptic3">
+<s id="459:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -41989,7 +41989,7 @@ marchés	NCMP000	marché-n	marché	NCMP000	marché	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:5&collection=eptic3">
+<s id="459:5">
 
 À	SP	à-i	à	SP	à	0	0
 l'	DA0CS0	le-x	l'	DA0CS0	le	F	S
@@ -42020,7 +42020,7 @@ lors	RG	lors-r	lors	RG	lors	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:6&collection=eptic3">
+<s id="459:6">
 
 Avec	SP	avec-i	avec	SP	avec	0	0
 beaucoup	RG	beaucoup-r	beaucoup	RG	beaucoup	0	0
@@ -42048,7 +42048,7 @@ armes	NCFP000	arme-n	arme	NCFP000	arme	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:7&collection=eptic3">
+<s id="459:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 va	VMIP3S0	aller-v	aller	VMIP3S0	aller	0	0
@@ -42091,7 +42091,7 @@ subventionnée	VMP00SF	subventionner-v	subventionnée	VMP00SF	subventionner	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:8&collection=eptic3">
+<s id="459:8">
 
 Voyons	VMM01P0	voir-v	voir	VMM01P0	voir	0	0
 ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
@@ -42104,7 +42104,7 @@ passé	VMP00SM	passer-v	passé	VMP00SM	passer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:9&collection=eptic3">
+<s id="459:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 politique	NCFS000	politique-n	politique	NCFS000	politique	F	S
@@ -42121,7 +42121,7 @@ années	NCFP000	année-n	année	NCFP000	année	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:10&collection=eptic3">
+<s id="459:10">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -42135,7 +42135,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="459:11&collection=eptic3">
+<s id="459:11">
 
 Si	CS	si-c	si	CS	si	0	0
 nos	DP1CPP	notre-x	notre	DP1CPP	notre	F	P
@@ -42182,7 +42182,7 @@ pouvoirs	NCMP000	pouvoir-n	pouvoir	NCMP000	pouvoir	M	P
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="133" duration="short" durations="62.0" speed="slow" speedwm="128.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="461:1&collection=eptic3">
+<s id="461:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -42199,7 +42199,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:2&collection=eptic3">
+<s id="461:2">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 Schulz	NP00000	Schulz-n	schulz	NP00000	Schulz	M	S
@@ -42237,7 +42237,7 @@ Britanniques	NPCP000	Britanniques-n	britanniques	NPCP000	Britanniques	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:3&collection=eptic3">
+<s id="461:3">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 en	PP3CN00	en-p	en	PP3CN00	en	0	0
@@ -42254,7 +42254,7 @@ histoire	NCFS000	histoire-n	histoire	NCFS000	histoire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:4&collection=eptic3">
+<s id="461:4">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -42283,7 +42283,7 @@ Allemagne	NPFS000	Allemagne-n	allemagne	NPFS000	Allemagne	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:5&collection=eptic3">
+<s id="461:5">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -42310,7 +42310,7 @@ conviendrez	VMIF2P0	convenir-v	convenir	VMIF2P0	convenir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:6&collection=eptic3">
+<s id="461:6">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 avez	VMIP2P0	avoir-v	avoir	VMIP2P0	avoir	0	0
@@ -42319,7 +42319,7 @@ raison	NCFS000	raison-n	raison	NCFS000	raison	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:7&collection=eptic3">
+<s id="461:7">
 
 En	PP3CN00	en-p	en	PP3CN00	en	0	0
 fait	VMIP3S0	faire-v	faire	VMIP3S0	faire	0	0
@@ -42341,7 +42341,7 @@ Royaume-Uni	NP00000	Royaume-Uni-n	royaume-uni	NP00000	Royaume-Uni	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:8&collection=eptic3">
+<s id="461:8">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -42372,7 +42372,7 @@ indépendance	NCFS000	indépendance-n	indépendance	NCFS000	indépendance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:9&collection=eptic3">
+<s id="461:9">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 avez	VMIP2P0	avoir-v	avoir	VMIP2P0	avoir	0	0
@@ -42381,7 +42381,7 @@ raison	NCFS000	raison-n	raison	NCFS000	raison	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:10&collection=eptic3">
+<s id="461:10">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -42398,7 +42398,7 @@ différentes	AQ0FP00	différent-j	différente	AQ0FP00	différent	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:11&collection=eptic3">
+<s id="461:11">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -42451,7 +42451,7 @@ peuple	NCMS000	peuple-n	peuple	NCMS000	peuple	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:12&collection=eptic3">
+<s id="461:12">
 
 S'	PP3CN00	se-p	se	PP3CN00	se	0	0
 <g/>
@@ -42485,7 +42485,7 @@ détacher	VMN0000	détacher-v	détacher	VMN0000	détacher	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="461:13&collection=eptic3">
+<s id="461:13">
 
 Mais	CC	mais-c	mais	CC	mais	0	0
 dans	SP	dans-i	dans	SP	dans	0	0
@@ -42516,7 +42516,7 @@ possibilité	NCFS000	possibilité-n	possibilité	NCFS000	possibilité	F	S
 <speaker name="Moraes Claude" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="148" duration="short" durations="62.0" speed="medium" speedwm="143.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="463:1&collection=eptic3">
+<s id="463:1">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -42554,7 +42554,7 @@ criminel	AQ0MS00	criminel-j	criminel	AQ0MS00	criminel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="463:2&collection=eptic3">
+<s id="463:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dois	VMIP1S0	devoir-v	devoir	VMIP1S0	devoir	0	0
@@ -42613,7 +42613,7 @@ criminel	AQ0MS00	criminel-j	criminel	AQ0MS00	criminel	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="463:3&collection=eptic3">
+<s id="463:3">
 
 Maggie	NPFS000	Maggie-n	maggie	NPFS000	Maggie	F	S
 Hughes	NP00000	Hughes-n	hughes	NP00000	Hughes	F	S
@@ -42657,7 +42657,7 @@ victimes	NCFP000	victime-n	victime	NCFP000	victime	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="463:4&collection=eptic3">
+<s id="463:4">
 
 Par	SP	par-i	par	SP	par	0	0
 exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
@@ -42713,7 +42713,7 @@ judiciaire	AQ0CS00	judiciaire-j	judiciaire	AQ0CS00	judiciaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="463:5&collection=eptic3">
+<s id="463:5">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -42742,7 +42742,7 @@ entendus	VMP00PM	entendre-v	entendu	VMP00PM	entendre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="463:6&collection=eptic3">
+<s id="463:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -42782,7 +42782,7 @@ proposition	NCFS000	proposition-n	proposition	NCFS000	proposition	F	S
 <speaker name="Mitchell Gay " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="66" duration="short" durations="19.0" speed="high" speedwm="208.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="465:1&collection=eptic3">
+<s id="465:1">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -42806,7 +42806,7 @@ débuter	VMN0000	débuter-v	débuter	VMN0000	débuter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="465:2&collection=eptic3">
+<s id="465:2">
 
 Étant	VSG0000	être-v	être	VSG0000	être	0	0
 donné	VMP00SM	donner-v	donné	VMP00SM	donner	M	S
@@ -42843,7 +42843,7 @@ Rehn	NPFS000	Rehn-n	rehn	NPFS000	Rehn	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="465:3&collection=eptic3">
+<s id="465:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -42892,7 +42892,7 @@ répondre	VMN0000	répondre-v	répondre	VMN0000	répondre	0	0
 <speaker name="De Rossa Proinsias " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="103" duration="short" durations="45.0" speed="medium" speedwm="137.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="542:1&collection=eptic3">
+<s id="542:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -42912,7 +42912,7 @@ question	NCFS000	question-n	question	NCFS000	question	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:2&collection=eptic3">
+<s id="542:2">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -42944,7 +42944,7 @@ lui	PP3CS00	lui-p	lui	PP3CS00	lui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:3&collection=eptic3">
+<s id="542:3">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -42962,7 +42962,7 @@ traité	NCMS000	traité-n	traité	NCMS000	traité	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:4&collection=eptic3">
+<s id="542:4">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 d'	SP	de-i	de	SP	de	0	0
@@ -42980,7 +42980,7 @@ mécanisme	NCMS000	mécanisme-n	mécanisme	NCMS000	mécanisme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:5&collection=eptic3">
+<s id="542:5">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 <g/>
@@ -43019,7 +43019,7 @@ traité	NCMS000	traité-n	traité	NCMS000	traité	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:6&collection=eptic3">
+<s id="542:6">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	M	P
 parlements	NCMP000	parlement-n	parlement	NCMP000	parlement	M	P
@@ -43036,7 +43036,7 @@ décision	NCFS000	décision-n	décision	NCFS000	décision	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:7&collection=eptic3">
+<s id="542:7">
 
 Or	CC	or-c	or	CC	or	0	0
 <g/>
@@ -43060,7 +43060,7 @@ décembre	NCMS000	décembre-n	décembre	NCMS000	décembre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="542:8&collection=eptic3">
+<s id="542:8">
 
 Comment	PT00000	comment-p	comment	PT00000	comment	0	0
 cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
@@ -43070,7 +43070,7 @@ possible	AQ0CS00	possible-j	possible	AQ0CS00	possible	M,F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="542:9&collection=eptic3">
+<s id="542:9">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 faut	VMIP3S0	faillir-v	faillir	VMIP3S0	faillir	0	0
@@ -43094,7 +43094,7 @@ décision	NCFS000	décision-n	décision	NCFS000	décision	F	S
 <speaker name="Crowley Brian" gender="M" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="108" duration="short" durations="49.0" speed="medium" speedwm="132.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="546:1&collection=eptic3">
+<s id="546:1">
 
 Permettez-moi	VMM02P0	permettre-v	permettre	VMIP2P0,PP1CS00	permettre,moi	0	0
 de	SP	de-i	de	SP	de	0	0
@@ -43105,7 +43105,7 @@ remarques	NCFP000	remarque-n	remarque	NCFP000	remarque	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="546:2&collection=eptic3">
+<s id="546:2">
 
 Premièrement	RG	premièrement-r	premièrement	RG	premièrement	0	0
 <g/>
@@ -43155,7 +43155,7 @@ activité	NCFS000	activité-n	activité	NCFS000	activité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="546:3&collection=eptic3">
+<s id="546:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 semble	VMIP1S0	sembler-v	sembler	VMIP1S0	sembler	0	0
@@ -43177,7 +43177,7 @@ taille	NCFS000	taille-n	taille	NCFS000	taille	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="546:4&collection=eptic3">
+<s id="546:4">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 <g/>
@@ -43247,7 +43247,7 @@ européennes	AQ0FP00	européen-j	européenne	AQ0FP00	européen	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="546:5&collection=eptic3">
+<s id="546:5">
 
 Troisièmement	NP00000	Troisièmement-n	troisièmement	NP00000	Troisièmement	0	0
 <g/>
@@ -43291,7 +43291,7 @@ régions	NCFP000	région-n	région	NCFP000	région	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="546:6&collection=eptic3">
+<s id="546:6">
 
 Peut-être	RG	peut-être-r	peut-être	RG	peut-être	0	0
 faudrait-il	VMIC3S0	falloir-v	falloir	VMIC3S0,PP3MS00	falloir,il	0	0
@@ -43313,7 +43313,7 @@ suivre	VMN0000	suivre-v	suivre	VMN0000	suivre	0	0
 <speaker name="Harkin Marian" gender="F" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="long" lengthw="88" duration="short" durations="35.0" speed="medium" speedwm="150.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="550:1&collection=eptic3">
+<s id="550:1">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suppose	VMIP1S0	supposer-v	supposer	VMIP1S0	supposer	0	0
@@ -43353,7 +43353,7 @@ drastiques	AQ0CP00	drastique-j	drastique	AQ0CP00	drastique	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="550:2&collection=eptic3">
+<s id="550:2">
 
 Voici	I	voici-x	voici	I	voici	0	0
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -43423,7 +43423,7 @@ nulle	AQ0FS00	nul-j	nulle	AQ0FS00	nul	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="550:3&collection=eptic3">
+<s id="550:3">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -43481,7 +43481,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 <speaker name="Moraes Claude" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="314" duration="medium" durations="152.0" speed="slow" speedwm="123.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="554:1&collection=eptic3">
+<s id="554:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -43513,7 +43513,7 @@ investigation	NCFS000	investigation-n	investigation	NCFS000	investigation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:2&collection=eptic3">
+<s id="554:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -43572,7 +43572,7 @@ personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:3&collection=eptic3">
+<s id="554:3">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 a	VMIP3S0	avoir-v	avoir	VMIP3S0	avoir	0	0
@@ -43623,7 +43623,7 @@ Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="554:4&collection=eptic3">
+<s id="554:4">
 
 Et	CC	et-c	et	CC	et	0	0
 pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
@@ -43650,7 +43650,7 @@ interception	NCFS000	interception-n	interception	NCFS000	interception	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="554:5&collection=eptic3">
+<s id="554:5">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -43677,7 +43677,7 @@ valeurs	NCFP000	valeur-n	valeur	NCFP000	valeur	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:6&collection=eptic3">
+<s id="554:6">
 
 En	SP	en-i	en	SP	en	0	0
 tant	RG	tant-r	tant	RG	tant	0	0
@@ -43720,7 +43720,7 @@ exceptionnelle	AQ0FS00	exceptionnel-j	exceptionnelle	AQ0FS00	exceptionnel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:7&collection=eptic3">
+<s id="554:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -43760,7 +43760,7 @@ exceptionnelle	AQ0FS00	exceptionnel-j	exceptionnelle	AQ0FS00	exceptionnel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:8&collection=eptic3">
+<s id="554:8">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -43826,7 +43826,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:9&collection=eptic3">
+<s id="554:9">
 
 Peu	RG	peu-r	peu	RG	peu	0	0
 importe	VMIP1S0	importer-v	importer	VMIP1S0	importer	0	0
@@ -43896,7 +43896,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:10&collection=eptic3">
+<s id="554:10">
 
 Demain	RG	demain-r	demain	RG	demain	0	0
 il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
@@ -43914,7 +43914,7 @@ membre	NCMS000	membre-n	membre	NCMS000	membre	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:11&collection=eptic3">
+<s id="554:11">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -43987,7 +43987,7 @@ interception	NCFS000	interception-n	interception	NCFS000	interception	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="554:12&collection=eptic3">
+<s id="554:12">
 
 Si	CS	si-c	si	CS	si	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -44026,7 +44026,7 @@ lieu	NCMS000	lieu-n	lieu	NCMS000	lieu	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="554:13&collection=eptic3">
+<s id="554:13">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -44061,7 +44061,7 @@ problèmes	NCMP000	problème-n	problème	NCMP000	problème	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:14&collection=eptic3">
+<s id="554:14">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -44098,7 +44098,7 @@ lieu	NCMS000	lieu-n	lieu	NCMS000	lieu	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="554:15&collection=eptic3">
+<s id="554:15">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -44124,7 +44124,7 @@ problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="242" duration="short" durations="85.0" speed="high" speedwm="170.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="614:1&collection=eptic3">
+<s id="614:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -44217,7 +44217,7 @@ yougoslave	AQ0CS00	yougoslave-j	yougoslave	AQ0CS00	yougoslave	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:2&collection=eptic3">
+<s id="614:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -44252,7 +44252,7 @@ UE	NPFS000	UE-n	ue	NPFS000	UE	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:3&collection=eptic3">
+<s id="614:3">
 
 Selon	SP	selon-i	selon	SP	selon	0	0
 les	DA0CP0	le-x	l'	DA0CP0	le	F	P
@@ -44282,7 +44282,7 @@ adhésion	NCFS000	adhésion-n	adhésion	NCFS000	adhésion	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:4&collection=eptic3">
+<s id="614:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -44302,7 +44302,7 @@ Croatie	NPFS000	Croatie-n	croatie	NPFS000	Croatie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:5&collection=eptic3">
+<s id="614:5">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -44392,7 +44392,7 @@ Assemblée	NPFS000	Assemblée-n	assemblée	NPFS000	Assemblée	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:6&collection=eptic3">
+<s id="614:6">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -44423,7 +44423,7 @@ UE	NPFS000	UE-n	ue	NPFS000	UE	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:7&collection=eptic3">
+<s id="614:7">
 
 Sur	SP	sur-i	sur	SP	sur	0	0
 une	DI0FS0	un-x	une	DI0FS0	un	F	S
@@ -44472,7 +44472,7 @@ représentent	VMIP3P0	représenter-v	représenter	VMIP3P0	représenter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="614:8&collection=eptic3">
+<s id="614:8">
 
 Nos	DP1CPP	notre-x	notre	DP1CPP	notre	M,F	P
 parlementaires	NCCP000	parlementaire-n	parlementaire	NCCP000	parlementaire	M,F	P
@@ -44531,7 +44531,7 @@ permission	NCFS000	permission-n	permission	NCFS000	permission	F	S
 <speaker name="Karim Sajjad " gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="172" duration="short" durations="70.0" speed="medium" speedwm="147.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="562:1&collection=eptic3">
+<s id="562:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -44567,7 +44567,7 @@ Assemblée	NPFS000	Assemblée-n	assemblée	NPFS000	Assemblée	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:2&collection=eptic3">
+<s id="562:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -44585,7 +44585,7 @@ soutenons	VMIP1P0	soutenir-v	soutenir	VMIP1P0	soutenir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:3&collection=eptic3">
+<s id="562:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -44608,7 +44608,7 @@ monde	NCMS000	monde-n	monde	NCMS000	monde	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:4&collection=eptic3">
+<s id="562:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 population	NCFS000	population-n	population	NCFS000	population	F	S
@@ -44655,7 +44655,7 @@ sang	NCMS000	sang-n	sang	NCMS000	sang	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:5&collection=eptic3">
+<s id="562:5">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 incombe	VMIP3S0	incomber-v	incomber	VMIP3S0	incomber	0	0
@@ -44696,7 +44696,7 @@ ces	DD0CP0	ce-x	ce	DD0CP0	ce	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:6&collection=eptic3">
+<s id="562:6">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -44712,7 +44712,7 @@ participera	VMIF3S0	participer-v	participer	VMIF3S0	participer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:7&collection=eptic3">
+<s id="562:7">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 <g/>
@@ -44748,7 +44748,7 @@ conscients	AQ0MP00	conscient-j	conscient	AQ0MP00	conscient	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="562:8&collection=eptic3">
+<s id="562:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -44792,7 +44792,7 @@ gens	NCMP000	gens-n	gens	NCMP000	gens	M	P
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="148" duration="short" durations="64.0" speed="medium" speedwm="138.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="566:1&collection=eptic3">
+<s id="566:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -44829,7 +44829,7 @@ irlandais	NCMN000	irlandais-n	irlandais	NCMN000	irlandais	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:2&collection=eptic3">
+<s id="566:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Croatie	NPFS000	Croatie-n	croatie	NPFS000	Croatie	F	S
@@ -44850,7 +44850,7 @@ population	NCFS000	population-n	population	NCFS000	population	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:3&collection=eptic3">
+<s id="566:3">
 
 5	Z	5-m	5	Z	5	0	0
 millions	NCCP000	million-n	million	NCCP000	million	M,F	P
@@ -44870,7 +44870,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:4&collection=eptic3">
+<s id="566:4">
 
 De	SP	de-i	de	SP	de	0	0
 même	RG	même-r	même	RG	même	0	0
@@ -44922,7 +44922,7 @@ présent	AQ0MS00	présent-j	présent	AQ0MS00	présent	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:5&collection=eptic3">
+<s id="566:5">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -44961,7 +44961,7 @@ domaine	NCMS000	domaine-n	domaine	NCMS000	domaine	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:6&collection=eptic3">
+<s id="566:6">
 
 D'	SP	de-i	de	SP	de	0	0
 <g/>
@@ -44999,7 +44999,7 @@ venu	VMP00SM	venir-v	venu	VMP00SM	venir	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:7&collection=eptic3">
+<s id="566:7">
 
 Évidemment	RG	évidemment-r	évidemment	RG	évidemment	0	0
 <g/>
@@ -45013,7 +45013,7 @@ défauts	NCMP000	défaut-n	défaut	NCMP000	défaut	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:8&collection=eptic3">
+<s id="566:8">
 
 Notre	DP1CSP	notre-x	notre	DP1CSP	notre	M	S
 Seigneur	NPMS000	Seigneur-n	seigneur	NPMS000	Seigneur	M	S
@@ -45045,7 +45045,7 @@ pierre	NCFS000	pierre-n	pierre	NCFS000	pierre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="566:9&collection=eptic3">
+<s id="566:9">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -45083,7 +45083,7 @@ membre	NCMS000	membre-n	membre	NCMS000	membre	M	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="71" duration="short" durations="22.0" speed="high" speedwm="193.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="571:1&collection=eptic3">
+<s id="571:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -45114,7 +45114,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="571:2&collection=eptic3">
+<s id="571:2">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -45161,7 +45161,7 @@ activités	NCFP000	activité-n	activité	NCFP000	activité	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="571:3&collection=eptic3">
+<s id="571:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -45221,7 +45221,7 @@ exemple	NCMS000	exemple-n	exemple	NCMS000	exemple	M	S
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="141" duration="short" durations="53.0" speed="medium" speedwm="159.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="577:1&collection=eptic3">
+<s id="577:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -45268,7 +45268,7 @@ yeux	NCMP000	oeil-n	oeil	NCMP000	oeil	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:2&collection=eptic3">
+<s id="577:2">
 
 Alors	RG	alors-r	alors	RG	alors	0	0
 que	CS	que-c	que	CS	que	0	0
@@ -45319,7 +45319,7 @@ rejets	NCMP000	rejet-n	rejet	NCMP000	rejet	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:3&collection=eptic3">
+<s id="577:3">
 
 À	SP	à-i	à	SP	à	0	0
 l'	DA0CS0	le-x	l'	DA0CS0	le	F	S
@@ -45335,7 +45335,7 @@ a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:4&collection=eptic3">
+<s id="577:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 faut	VMIP3S0	faillir-v	faillir	VMIP3S0	faillir	0	0
@@ -45389,7 +45389,7 @@ descendants	NCMP000	descendant-n	descendant	NCMP000	descendant	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:5&collection=eptic3">
+<s id="577:5">
 
 Si	CS	si-c	si	CS	si	0	0
 seulement	RG	seulement-r	seulement	RG	seulement	0	0
@@ -45412,7 +45412,7 @@ droit	NCMS000	droit-n	droit	NCMS000	droit	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:6&collection=eptic3">
+<s id="577:6">
 
 Si	CS	si-c	si	CS	si	0	0
 seulement	RG	seulement-r	seulement	RG	seulement	0	0
@@ -45455,7 +45455,7 @@ mondial	AQ0MS00	mondial-j	mondial	AQ0MS00	mondial	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="577:7&collection=eptic3">
+<s id="577:7">
 
 Dès	SP	dès-i	dès	SP	dès	0	0
 lors	RG	lors-r	lors	RG	lors	0	0
@@ -45480,7 +45480,7 @@ nécessaires	AQ0CP00	nécessaire-j	nécessaire	AQ0CP00	nécessaire	M,F	P
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="107" duration="short" durations="40.0" speed="high" speedwm="160.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="628:1&collection=eptic3">
+<s id="628:1">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 problème	NCMS000	problème-n	problème	NCMS000	problème	M	S
@@ -45524,7 +45524,7 @@ temps	NCMN000	temps-n	temps	NCMN000	temps	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="628:2&collection=eptic3">
+<s id="628:2">
 
 Mais	CC	mais-c	mais	CC	mais	0	0
 qu'	CS	que-c	que	CS	que	0	0
@@ -45570,7 +45570,7 @@ pas	RN	pas-r	pas	RN	pas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="628:3&collection=eptic3">
+<s id="628:3">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 qui	PR00000	qui-p	qui	PR00000	qui	0	0
@@ -45622,7 +45622,7 @@ Schulz	NP00000	Schulz-n	schulz	NP00000	Schulz	M	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="628:4&collection=eptic3">
+<s id="628:4">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 Belgique	NPFS000	Belgique-n	belgique	NPFS000	Belgique	F	S
@@ -45649,7 +45649,7 @@ européen	AQ0MS00	européen-j	européen	AQ0MS00	européen	M	S
 <speaker name="Higgins Jim" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="98" duration="short" durations="43.0" speed="medium" speedwm="136.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="622:1&collection=eptic3">
+<s id="622:1">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 assistons	VMIP1P0	assister-v	assister	VMIP1P0	assister	0	0
@@ -45670,7 +45670,7 @@ procédure	NCFS000	procédure-n	procédure	NCFS000	procédure	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:2&collection=eptic3">
+<s id="622:2">
 
 On	PP3CSN0	on-p	on	PP3CSN0	on	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -45693,7 +45693,7 @@ de	SP	de-i	de	SP	de	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:3&collection=eptic3">
+<s id="622:3">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 <g/>
@@ -45723,7 +45723,7 @@ questions	NCFP000	question-n	question	NCFP000	question	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:4&collection=eptic3">
+<s id="622:4">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -45748,7 +45748,7 @@ commissaire	NCCS000	commissaire-n	commissaire	NCCS000	commissaire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:5&collection=eptic3">
+<s id="622:5">
 
 Une	DI0FS0	un-x	une	DI0FS0	un	F	S
 crise	NCFS000	crise-n	crise	NCFS000	crise	F	S
@@ -45779,7 +45779,7 @@ questions	NCFP000	question-n	question	NCFP000	question	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:6&collection=eptic3">
+<s id="622:6">
 
 Qui	PT0CN00	qui-p	qui	PT0CN00	qui	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -45790,7 +45790,7 @@ décision	NCFS000	décision-n	décision	NCFS000	décision	F	S
 ?	Fit	?-x	?	Fit	?	0	0
 </s>
 
-<s id="622:7&collection=eptic3">
+<s id="622:7">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 veux	VMIP1S0	vouloir-v	vouloir	VMIP1S0	vouloir	0	0
@@ -45847,7 +45847,7 @@ minutes	NCFP000	minute-n	minute	NCFP000	minute	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="622:8&collection=eptic3">
+<s id="622:8">
 
 Qui	PT0CN00	qui-p	qui	PT0CN00	qui	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -45869,7 +45869,7 @@ Présidente	NPFS000	Présidente-n	présidente	NPFS000	Présidente	F	S
 <speaker name="Howitt Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="242" duration="medium" durations="136.0" speed="slow" speedwm="106.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2316:1&collection=eptic3">
+<s id="2316:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -45913,7 +45913,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:2&collection=eptic3">
+<s id="2316:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -46017,7 +46017,7 @@ semaines	NCFP000	semaine-n	semaine	NCFP000	semaine	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:3&collection=eptic3">
+<s id="2316:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 voudrais	VMIC1S0	vouloir-v	vouloir	VMIC1S0	vouloir	0	0
@@ -46044,7 +46044,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:4&collection=eptic3">
+<s id="2316:4">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 président	NCMS000	président-n	président	NCMS000	président	M	S
@@ -46084,7 +46084,7 @@ modérée	VMP00SF	modérer-v	modérée	VMP00SF	modérer	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:5&collection=eptic3">
+<s id="2316:5">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 président	NCMS000	président-n	président	NCMS000	président	M	S
@@ -46110,7 +46110,7 @@ transition	NCFS000	transition-n	transition	NCFS000	transition	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:6&collection=eptic3">
+<s id="2316:6">
 
 Ou	CC	ou-c	ou	CC	ou	0	0
 bien	RG	bien-r	bien	RG	bien	0	0
@@ -46144,7 +46144,7 @@ tout	PI0MS00	tout-p	tout	PI0MS00	tout	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:7&collection=eptic3">
+<s id="2316:7">
 
 William	NPMS000	William-n	william	NPMS000	William	M	S
 Hague	NP00000	Hague-n	hague	NP00000	Hague	M	S
@@ -46174,7 +46174,7 @@ transition	NCFS000	transition-n	transition	NCFS000	transition	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:8&collection=eptic3">
+<s id="2316:8">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 <g/>
@@ -46197,7 +46197,7 @@ représentante	NCFS000	représentant-n	représentante	NCFS000	représentant	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:9&collection=eptic3">
+<s id="2316:9">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M,F	S
 <g/>
@@ -46236,7 +46236,7 @@ civile	AQ0FS00	civil-j	civile	AQ0FS00	civil	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:10&collection=eptic3">
+<s id="2316:10">
 
 Quels	DT0MP0	quel-x	quel	DT0MP0	quel	M	P
 que	CS	que-c	que	CS	que	0	0
@@ -46297,7 +46297,7 @@ homme	NCMS000	homme-n	homme	NCMS000	homme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:11&collection=eptic3">
+<s id="2316:11">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -46316,7 +46316,7 @@ imposons	VMIP1P0	imposer-v	imposer	VMIP1P0	imposer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2316:12&collection=eptic3">
+<s id="2316:12">
 
 Elles	PP3FP00	elles-p	elles	PP3FP00	elles	0	0
 sont	VSIP3P0	être-v	être	VSIP3P0	être	0	0
@@ -46350,7 +46350,7 @@ d'	SP	de-i	de	SP	de	0	0
 <speaker name="Gallagher Pat" gender="M" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="206" duration="short" durations="114.0" speed="slow" speedwm="108.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2318:1&collection=eptic3">
+<s id="2318:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -46385,7 +46385,7 @@ PME	NPMS000	PME-n	pme	NPMS000	PME	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:2&collection=eptic3">
+<s id="2318:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -46432,7 +46432,7 @@ Irlande	NPFS000	Irlande-n	irlande	NPFS000	Irlande	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:3&collection=eptic3">
+<s id="2318:3">
 
 De	SP	de-i	de	SP	de	0	0
 nombreuses	AQ0FP00	nombreux-j	nombreuse	AQ0FP00	nombreux	F	P
@@ -46455,7 +46455,7 @@ banques	NCFP000	banque-n	banque	NCFP000	banque	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:4&collection=eptic3">
+<s id="2318:4">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
@@ -46465,7 +46465,7 @@ inacceptable	AQ0CS00	inacceptable-j	inacceptable	AQ0CS00	inacceptable	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:5&collection=eptic3">
+<s id="2318:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -46507,7 +46507,7 @@ croissance	NCFS000	croissance-n	croissance	NCFS000	croissance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:6&collection=eptic3">
+<s id="2318:6">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -46523,7 +46523,7 @@ emplois	NCMP000	emploi-n	emploi	NCMP000	emploi	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:7&collection=eptic3">
+<s id="2318:7">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 seule	AQ0FS00	seul-j	seule	AQ0FS00	seul	F	S
@@ -46572,7 +46572,7 @@ sens	NCMN000	sens-n	sens	NCMN000	sens	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:8&collection=eptic3">
+<s id="2318:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VSIP1S0	être-v	être	VSIP1S0	être	0	0
@@ -46635,7 +46635,7 @@ Union	NPFS000	Union-n	union	NPFS000	Union	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:9&collection=eptic3">
+<s id="2318:9">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -46674,7 +46674,7 @@ européennes	AQ0FP00	européen-j	européenne	AQ0FP00	européen	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2318:10&collection=eptic3">
+<s id="2318:10">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -46710,7 +46710,7 @@ chômage	NCMS000	chômage-n	chômage	NCMS000	chômage	M	S
 <speaker name="Verhofstadt Guy" gender="M" country="Belgium" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="116" duration="short" durations="60.0" speed="slow" speedwm="116.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2320:1&collection=eptic3">
+<s id="2320:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -46730,7 +46730,7 @@ Harms	NPMP000	Harms-n	harms	NPMP000	Harms	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2320:2&collection=eptic3">
+<s id="2320:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -46790,7 +46790,7 @@ faire	VMN0000	faire-v	faire	VMN0000	faire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2320:3&collection=eptic3">
+<s id="2320:3">
 
 Mme	NPMS000	Mme-n	mme	NPMS000	Mme	M	S
 Kristiina	NP00000	Kristiina-n	kristiina	NP00000	Kristiina	M	S
@@ -46873,7 +46873,7 @@ Russie	NPMS000	Russie-n	russie	NPMS000	Russie	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2320:4&collection=eptic3">
+<s id="2320:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -46910,7 +46910,7 @@ faire	VMN0000	faire-v	faire	VMN0000	faire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2320:5&collection=eptic3">
+<s id="2320:5">
 
 (	Fpa	(-x	(	Fpa	(	0	0
 <g/>
@@ -46929,7 +46929,7 @@ Applaudissements	NPMP000	Applaudissements-n	applaudissements	NPMP000	Applaudisse
 <speaker name="Herczog Edit" gender="F" country="Hungary" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="70" duration="short" durations="53.0" speed="slow" speedwm="79.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2322:1&collection=eptic3">
+<s id="2322:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -46954,7 +46954,7 @@ Hongrie	NPFS000	Hongrie-n	hongrie	NPFS000	Hongrie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2322:2&collection=eptic3">
+<s id="2322:2">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 n'	RN	ne-r	ne	RN	ne	0	0
@@ -46987,7 +46987,7 @@ jugé	VMP00SM	juger-v	jugé	VMP00SM	juger	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2322:3&collection=eptic3">
+<s id="2322:3">
 
 Par	SP	par-i	par	SP	par	0	0
 conséquent	AQ0MS00	conséquent-j	conséquent	AQ0MS00	conséquent	M	S
@@ -47016,7 +47016,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2322:4&collection=eptic3">
+<s id="2322:4">
 
 Dans	SP	dans-i	dans	SP	dans	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -47050,7 +47050,7 @@ autres	PI0CP00	autre-p	autre	PI0CP00	autre	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2322:5&collection=eptic3">
+<s id="2322:5">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 procédure	NCFS000	procédure-n	procédure	NCFS000	procédure	F	S
@@ -47080,7 +47080,7 @@ favorables	AQ0CP00	favorable-j	favorable	AQ0CP00	favorable	M	P
 <speaker name="Kallas Siim" gender="M" country="Estonia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="111" duration="short" durations="92.0" speed="slow" speedwm="72.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2324:1&collection=eptic3">
+<s id="2324:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -47103,7 +47103,7 @@ positifs	AQ0MP00	positif-j	positif	AQ0MP00	positif	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2324:2&collection=eptic3">
+<s id="2324:2">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VSIP1P0	être-v	être	VSIP1P0	être	0	0
@@ -47120,7 +47120,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2324:3&collection=eptic3">
+<s id="2324:3">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 défi	NCMS000	défi-n	défi	NCMS000	défi	M	S
@@ -47136,7 +47136,7 @@ passagers	NCMP000	passager-n	passager	NCMP000	passager	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2324:4&collection=eptic3">
+<s id="2324:4">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 <g/>
@@ -47185,7 +47185,7 @@ majeure	AQ0FS00	majeur-j	majeure	AQ0FS00	majeur	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2324:5&collection=eptic3">
+<s id="2324:5">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -47224,7 +47224,7 @@ vaste	AQ0CS00	vaste-j	vaste	AQ0CS00	vaste	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2324:6&collection=eptic3">
+<s id="2324:6">
 
 De	SP	de-i	de	SP	de	0	0
 modestes	AQ0CP00	modeste-j	modeste	AQ0CP00	modeste	M	P
@@ -47273,7 +47273,7 @@ règlement	NCMS000	règlement-n	règlement	NCMS000	règlement	M	S
 <speaker name="Tarand Indrek" gender="M" country="Estonia" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="long" lengthw="76" duration="short" durations="44.0" speed="slow" speedwm="103.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2326:1&collection=eptic3">
+<s id="2326:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -47301,7 +47301,7 @@ justes	AQ0CP00	juste-j	juste	AQ0CP00	juste	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2326:2&collection=eptic3">
+<s id="2326:2">
 
 Cependant	RG	cependant-r	cependant	RG	cependant	0	0
 <g/>
@@ -47321,14 +47321,14 @@ de	SP	de-i	de	SP	de	0	0
 M.	NPFS000	M.-n	m.	NPFS000	M.	F	S
 </s>
 
-<s id="2326:3&collection=eptic3">
+<s id="2326:3">
 
 Fleckenstein	NPMS000	Fleckenstein-n	fleckenstein	NPMS000	Fleckenstein	M	S
 <g/>
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2326:4&collection=eptic3">
+<s id="2326:4">
 
 Si	CS	si-c	si	CS	si	0	0
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -47353,7 +47353,7 @@ cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2326:5&collection=eptic3">
+<s id="2326:5">
 
 A-t-il	VAIP3S0	avoir-v	avoir	VAIP3S0,PP3MS00	avoir,il	0	0
 suggéré	VMP00SM	suggérer-v	suggéré	VMP00SM	suggérer	M	S
@@ -47400,7 +47400,7 @@ immédiate	AQ0FS00	immédiat-j	immédiate	AQ0FS00	immédiat	F	S
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="128" duration="short" durations="89.0" speed="slow" speedwm="86.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2328:1&collection=eptic3">
+<s id="2328:1">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 reste	VMIP1S0	rester-v	rester	VMIP1S0	rester	0	0
@@ -47425,7 +47425,7 @@ en	SP	en-i	en	SP	en	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2328:2&collection=eptic3">
+<s id="2328:2">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -47446,7 +47446,7 @@ celui-ci	PD0MS00	celui-ci-p	celui-ci	PD0MS00	celui-ci	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2328:3&collection=eptic3">
+<s id="2328:3">
 
 À	SP	à-i	à	SP	à	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -47480,7 +47480,7 @@ Commission	NPFS000	Commission-n	commission	NPFS000	Commission	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2328:4&collection=eptic3">
+<s id="2328:4">
 
 S'	PP3CN00	se-p	se	PP3CN00	se	0	0
 <g/>
@@ -47523,7 +47523,7 @@ intervienne	VMSP3S0	intervenir-v	intervenir	VMSP3S0	intervenir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2328:5&collection=eptic3">
+<s id="2328:5">
 
 Comme	CS	comme-c	comme	CS	comme	0	0
 je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
@@ -47581,7 +47581,7 @@ agir	VMN0000	agir-v	agir	VMN0000	agir	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2328:6&collection=eptic3">
+<s id="2328:6">
 
 Soyez	VSM02P0	être-v	être	VSM02P0	être	0	0
 assurés	VMP00PM	assurer-v	assuré	VMP00PM	assurer	M	P
@@ -47604,7 +47604,7 @@ nécessaire	AQ0CS00	nécessaire-j	nécessaire	AQ0CS00	nécessaire	M,F	S
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="278" duration="medium" durations="148.0" speed="slow" speedwm="112.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2330:1&collection=eptic3">
+<s id="2330:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -47652,7 +47652,7 @@ possible	AQ0CS00	possible-j	possible	AQ0CS00	possible	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:2&collection=eptic3">
+<s id="2330:2">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -47704,7 +47704,7 @@ stabilité	NCFS000	stabilité-n	stabilité	NCFS000	stabilité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:3&collection=eptic3">
+<s id="2330:3">
 
 Et	CC	et-c	et	CC	et	0	0
 bien	RG	bien-r	bien	RG	bien	0	0
@@ -47763,12 +47763,12 @@ matin	NCMS000	matin-n	matin	NCMS000	matin	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:4&collection=eptic3">
+<s id="2330:4">
 
 M.	NP00000	M.-n	m.	NP00000	M.	0	0
 </s>
 
-<s id="2330:5&collection=eptic3">
+<s id="2330:5">
 
 Barroso	NP00000	Barroso-n	barroso	NP00000	Barroso	0	0
 l'	PP3CSA0	le-p	le	PP3CSA0	le	M,F	S
@@ -47795,7 +47795,7 @@ stabilité	NCFS000	stabilité-n	stabilité	NCFS000	stabilité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:6&collection=eptic3">
+<s id="2330:6">
 
 En	PP3CN00	en-p	en	PP3CN00	en	0	0
 fait	VMIP3S0	faire-v	faire	VMIP3S0	faire	0	0
@@ -47860,7 +47860,7 @@ pays	NCMN000	pays-n	pays	NCMN000	pays	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:7&collection=eptic3">
+<s id="2330:7">
 
 Vos	DP2CPP	votre-x	votre	DP2CPP	votre	M	P
 propos	NCMN000	propos-n	propos	NCMN000	propos	M	P
@@ -47877,7 +47877,7 @@ pas	RN	pas-r	pas	RN	pas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:8&collection=eptic3">
+<s id="2330:8">
 
 À	SP	à-i	à	SP	à	0	0
 qui	PR00000	qui-p	qui	PR00000	qui	0	0
@@ -47911,7 +47911,7 @@ hier	RG	hier-r	hier	RG	hier	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:9&collection=eptic3">
+<s id="2330:9">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 public	NCMS000	public-n	public	NCMS000	public	M	S
@@ -47945,7 +47945,7 @@ commencé	VMP00SM	commencer-v	commencé	VMP00SM	commencer	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:10&collection=eptic3">
+<s id="2330:10">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 modèle	NCMS000	modèle-n	modèle	NCMS000	modèle	M	S
@@ -47979,7 +47979,7 @@ renflouement	NCMS000	renflouement-n	renflouement	NCMS000	renflouement	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:11&collection=eptic3">
+<s id="2330:11">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 voulez	VMIP2P0	vouloir-v	vouloir	VMIP2P0	vouloir	0	0
@@ -48028,7 +48028,7 @@ dette	NCFS000	dette-n	dette	NCFS000	dette	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:12&collection=eptic3">
+<s id="2330:12">
 
 Vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
 utilisez	VMIP2P0	utiliser-v	utiliser	VMIP2P0	utiliser	0	0
@@ -48051,7 +48051,7 @@ budgétaire	AQ0CS00	budgétaire-j	budgétaire	AQ0CS00	budgétaire	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:13&collection=eptic3">
+<s id="2330:13">
 
 Si	CS	si-c	si	CS	si	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -48091,7 +48091,7 @@ dette	NCFS000	dette-n	dette	NCFS000	dette	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:14&collection=eptic3">
+<s id="2330:14">
 
 Si	CS	si-c	si	CS	si	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -48156,7 +48156,7 @@ propre	AQ0CS00	propre-j	propre	AQ0CS00	propre	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:15&collection=eptic3">
+<s id="2330:15">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 avons	VAIP1P0	avoir-v	avoir	VAIP1P0	avoir	0	0
@@ -48187,7 +48187,7 @@ dit	VMIP3S0	dire-v	dire	VMIP3S0	dire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:16&collection=eptic3">
+<s id="2330:16">
 
 Personne	PI0CS00	personne-p	personne	PI0CS00	personne	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -48197,7 +48197,7 @@ croit	VMIP3S0	croire-v	croire	VMIP3S0	croire	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:17&collection=eptic3">
+<s id="2330:17">
 
 Le	DA0MS0	le-x	le	DA0MS0	le	M	S
 public	NCMS000	public-n	public	NCMS000	public	M	S
@@ -48209,7 +48209,7 @@ pas	RN	pas-r	pas	RN	pas	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2330:18&collection=eptic3">
+<s id="2330:18">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -48234,7 +48234,7 @@ brisent	VMIP3P0	briser-v	briser	VMIP3P0	briser	0	0
 <speaker name="Mairead McGuinness" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="158" duration="short" durations="90.0" speed="slow" speedwm="105.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2332:1&collection=eptic3">
+<s id="2332:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -48281,7 +48281,7 @@ importune	AQ0FS00	importun-j	importune	AQ0FS00	importun	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2332:2&collection=eptic3">
+<s id="2332:2">
 
 En	SP	en-i	en	SP	en	0	0
 mettant	VMG0000	mettre-v	mettre	VMG0000	mettre	0	0
@@ -48339,7 +48339,7 @@ naissance	NCFS000	naissance-n	naissance	NCFS000	naissance	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2332:3&collection=eptic3">
+<s id="2332:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -48398,7 +48398,7 @@ accompagnement	NCMS000	accompagnement-n	accompagnement	NCMS000	accompagnement	M	
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2332:4&collection=eptic3">
+<s id="2332:4">
 
 Oui	RG	oui-r	oui	RG	oui	0	0
 <g/>
@@ -48421,7 +48421,7 @@ enfants	NCCP000	enfant-n	enfant	NCCP000	enfant	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2332:5&collection=eptic3">
+<s id="2332:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -48446,7 +48446,7 @@ contrôle	NCMS000	contrôle-n	contrôle	NCMS000	contrôle	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2332:6&collection=eptic3">
+<s id="2332:6">
 
 Enfin	RG	enfin-r	enfin	RG	enfin	0	0
 <g/>
@@ -48495,7 +48495,7 @@ naissance	NCFS000	naissance-n	naissance	NCFS000	naissance	F	S
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="160" duration="short" durations="118.0" speed="slow" speedwm="81.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2334:1&collection=eptic3">
+<s id="2334:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -48553,7 +48553,7 @@ habitables	AQ0CP00	habitable-j	habitable	AQ0CP00	habitable	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:2&collection=eptic3">
+<s id="2334:2">
 
 Pourquoi	PT00000	pourquoi-p	pourquoi	PT00000	pourquoi	0	0
 <g/>
@@ -48590,7 +48590,7 @@ effondrent	VMIP3P0	effondrer-v	effondrer	VMIP3P0	effondrer	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:3&collection=eptic3">
+<s id="2334:3">
 
 Qui	PT0CN00	qui-p	qui	PT0CN00	qui	0	0
 peut	VMIP3S0	pouvoir-v	pouvoir	VMIP3S0	pouvoir	0	0
@@ -48655,7 +48655,7 @@ terrestres	AQ0CP00	terrestre-j	terrestre	AQ0CP00	terrestre	M,F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:4&collection=eptic3">
+<s id="2334:4">
 
 Or	CC	or-c	or	CC	or	0	0
 <g/>
@@ -48707,7 +48707,7 @@ Haïti	NPMS000	Haïti-n	haïti	NPMS000	Haïti	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:5&collection=eptic3">
+<s id="2334:5">
 
 Ce	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 qu'	PR00000	que-p	que	PR00000	que	0	0
@@ -48733,7 +48733,7 @@ entière	AQ0FS00	entier-j	entière	AQ0FS00	entier	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:6&collection=eptic3">
+<s id="2334:6">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -48754,7 +48754,7 @@ situation	NCFS000	situation-n	situation	NCFS000	situation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2334:7&collection=eptic3">
+<s id="2334:7">
 
 Pour	SP	pour-i	pour	SP	pour	0	0
 ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
@@ -48786,7 +48786,7 @@ internationale	AQ0FS00	international-j	internationale	AQ0FS00	international	F	S
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="182" duration="short" durations="108.0" speed="slow" speedwm="101.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2336:1&collection=eptic3">
+<s id="2336:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -48809,7 +48809,7 @@ marasme	NCMS000	marasme-n	marasme	NCMS000	marasme	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:2&collection=eptic3">
+<s id="2336:2">
 
 Une	DI0FS0	un-x	une	DI0FS0	un	F	S
 nouvelle	NCFS000	nouveau-n	nouvelle	NCFS000	nouveau	F	S
@@ -48836,7 +48836,7 @@ fierté	NCFS000	fierté-n	fierté	NCFS000	fierté	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:3&collection=eptic3">
+<s id="2336:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 tiens	VMIP1S0	tenir-v	tenir	VMIP1S0	tenir	0	0
@@ -48866,7 +48866,7 @@ référendum	NCMS000	référendum-n	référendum	NCMS000	référendum	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:4&collection=eptic3">
+<s id="2336:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -48900,7 +48900,7 @@ Sud-Soudan	NPMS000	Sud-Soudan-n	sud-soudan	NPMS000	Sud-Soudan	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:5&collection=eptic3">
+<s id="2336:5">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 s'	PP3CN00	se-p	se	PP3CN00	se	0	0
@@ -48935,7 +48935,7 @@ civile	AQ0FS00	civil-j	civile	AQ0FS00	civil	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:6&collection=eptic3">
+<s id="2336:6">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -48973,7 +48973,7 @@ parlé	VMP00SM	parler-v	parlé	VMP00SM	parler	M	S
 M.	NP00000	M.-n	m.	NP00000	M.	M	S
 </s>
 
-<s id="2336:7&collection=eptic3">
+<s id="2336:7">
 
 Mitchell	NP00000	Mitchell-n	mitchell	NP00000	Mitchell	0	0
 <g/>
@@ -48991,7 +48991,7 @@ sanitaires	AQ0CP00	sanitaire-j	sanitaire	AQ0CP00	sanitaire	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:8&collection=eptic3">
+<s id="2336:8">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 pense	VMIP1S0	penser-v	penser	VMIP1S0	penser	0	0
@@ -49013,7 +49013,7 @@ cruciales	AQ0FP00	crucial-j	cruciale	AQ0FP00	crucial	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:9&collection=eptic3">
+<s id="2336:9">
 
 Un	DI0MS0	un-x	un	DI0MS0	un	M	S
 héros	NCMN000	héros-n	héros	NCMN000	héros	M	S
@@ -49044,7 +49044,7 @@ toujours	RG	toujours-r	toujours	RG	toujours	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:10&collection=eptic3">
+<s id="2336:10">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	F	S
 <g/>
@@ -49078,7 +49078,7 @@ nécessaire	AQ0CS00	nécessaire-j	nécessaire	AQ0CS00	nécessaire	M,F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:11&collection=eptic3">
+<s id="2336:11">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 vous	PP2CP00	vous-p	vous	PP2CP00	vous	0	0
@@ -49087,7 +49087,7 @@ remercie	VMIP1S0	remercier-v	remercier	VMIP1S0	remercier	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2336:12&collection=eptic3">
+<s id="2336:12">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 souhaitons	VMIP1P0	souhaiter-v	souhaiter	VMIP1P0	souhaiter	0	0
@@ -49108,7 +49108,7 @@ soudanais	AQ0MN00	soudanais-j	soudanais	AQ0MN00	soudanais	M	S
 <speaker name="Harkin Marian" gender="F" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="138" duration="short" durations="74.0" speed="slow" speedwm="111.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2338:1&collection=eptic3">
+<s id="2338:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -49144,7 +49144,7 @@ UE	NPFS000	UE-n	ue	NPFS000	UE	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2338:2&collection=eptic3">
+<s id="2338:2">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 rapport	NCMS000	rapport-n	rapport	NCMS000	rapport	M	S
@@ -49163,7 +49163,7 @@ proportionnée	VMP00SF	proportionner-v	proportionnée	VMP00SF	proportionner	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2338:3&collection=eptic3">
+<s id="2338:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -49223,7 +49223,7 @@ déchets	NCMP000	déchet-n	déchet	NCMP000	déchet	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2338:4&collection=eptic3">
+<s id="2338:4">
 
 Cela	PD0CS00	cela-p	cela	PD0CS00	cela	0	0
 évite	VMIP3S0	éviter-v	éviter	VMIP3S0	éviter	0	0
@@ -49249,7 +49249,7 @@ déraisonnables	AQ0CP00	déraisonnable-j	déraisonnable	AQ0CP00	déraisonnable	F
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2338:5&collection=eptic3">
+<s id="2338:5">
 
 Finalement	RG	finalement-r	finalement	RG	finalement	0	0
 <g/>
@@ -49303,7 +49303,7 @@ planète	NCFS000	planète-n	planète	NCFS000	planète	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2338:6&collection=eptic3">
+<s id="2338:6">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -49345,7 +49345,7 @@ rares	AQ0CP00	rare-j	rare	AQ0CP00	rare	M,F	P
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="129" duration="short" durations="93.0" speed="slow" speedwm="83.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2340:1&collection=eptic3">
+<s id="2340:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -49381,7 +49381,7 @@ jour	NCMS000	jour-n	jour	NCMS000	jour	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:2&collection=eptic3">
+<s id="2340:2">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 me	PP1CS00	me-p	me	PP1CS00	me	0	0
@@ -49401,7 +49401,7 @@ Palacio	NPMS000	Palacio-n	palacio	NPMS000	Palacio	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:3&collection=eptic3">
+<s id="2340:3">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -49423,7 +49423,7 @@ matière	NCFS000	matière-n	matière	NCFS000	matière	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:4&collection=eptic3">
+<s id="2340:4">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -49448,7 +49448,7 @@ européenne	AQ0FS00	européen-j	européenne	AQ0FS00	européen	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:5&collection=eptic3">
+<s id="2340:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 sommes	VMIP2S0	sommer-v	sommer	VMIP2S0	sommer	0	0
@@ -49479,7 +49479,7 @@ innovation	NCFS000	innovation-n	innovation	NCFS000	innovation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:6&collection=eptic3">
+<s id="2340:6">
 
 Ce	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 continent	NCMS000	continent-n	continent	NCMS000	continent	M	S
@@ -49500,7 +49500,7 @@ inventivité	NCFS000	inventivité-n	inventivité	NCFS000	inventivité	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:7&collection=eptic3">
+<s id="2340:7">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -49519,7 +49519,7 @@ exploiter	VMN0000	exploiter-v	exploiter	VMN0000	exploiter	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:8&collection=eptic3">
+<s id="2340:8">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 devons	VMIP1P0	devoir-v	devoir	VMIP1P0	devoir	0	0
@@ -49537,7 +49537,7 @@ brevets	NCMP000	brevet-n	brevet	NCMP000	brevet	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:9&collection=eptic3">
+<s id="2340:9">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 coopération	NCFS000	coopération-n	coopération	NCFS000	coopération	F	S
@@ -49555,7 +49555,7 @@ débat	NCMS000	débat-n	débat	NCMS000	débat	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2340:10&collection=eptic3">
+<s id="2340:10">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -49609,7 +49609,7 @@ innovation	NCFS000	innovation-n	innovation	NCFS000	innovation	F	S
 <speaker name="Crowley Brian" gender="M" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="131" duration="short" durations="69.0" speed="slow" speedwm="113.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2342:1&collection=eptic3">
+<s id="2342:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -49673,7 +49673,7 @@ février	NCMS000	février-n	février	NCMS000	février	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2342:2&collection=eptic3">
+<s id="2342:2">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 réaction	NCFS000	réaction-n	réaction	NCFS000	réaction	F	S
@@ -49715,7 +49715,7 @@ personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2342:3&collection=eptic3">
+<s id="2342:3">
 
 Deux	NCMN000	deux-n	deux	NCMN000	deux	M	P
 personnes	NCFP000	personne-n	personne	NCFP000	personne	F	P
@@ -49755,7 +49755,7 @@ piste	NCFS000	piste-n	piste	NCFS000	piste	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2342:4&collection=eptic3">
+<s id="2342:4">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -49819,7 +49819,7 @@ tragédie	NCFS000	tragédie-n	tragédie	NCFS000	tragédie	F	S
 <speaker name="Nick Griffin" gender="M" country="United Kingdom" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="198" duration="short" durations="107.0" speed="slow" speedwm="111.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2344:1&collection=eptic3">
+<s id="2344:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -49876,7 +49876,7 @@ endroits	NCMP000	endroit-n	endroit	NCMP000	endroit	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:2&collection=eptic3">
+<s id="2344:2">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 en	PP3CN00	en-p	en	PP3CN00	en	0	0
@@ -49908,7 +49908,7 @@ tenue	VMP00SF	tenir-v	tenue	VMP00SF	tenir	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:3&collection=eptic3">
+<s id="2344:3">
 
 Et	CC	et-c	et	CC	et	0	0
 lors	RG	lors-r	lors	RG	lors	0	0
@@ -49939,7 +49939,7 @@ décennies	NCFP000	décennie-n	décennie	NCFP000	décennie	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:4&collection=eptic3">
+<s id="2344:4">
 
 Deuxièmement	NP00000	Deuxièmement-n	deuxièmement	NP00000	Deuxièmement	0	0
 <g/>
@@ -49971,7 +49971,7 @@ Stream	NPMS000	Stream-n	stream	NPMS000	Stream	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:5&collection=eptic3">
+<s id="2344:5">
 
 Aucun	DI0MS0	aucun-x	aucun	DI0MS0	aucun	M	S
 changement	NCMS000	changement-n	changement	NCMS000	changement	M	S
@@ -49987,7 +49987,7 @@ cet	DD0MS0	ce-x	cet	DD0MS0	ce	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:6&collection=eptic3">
+<s id="2344:6">
 
 Troisièmement	NP00000	Troisièmement-n	troisièmement	NP00000	Troisièmement	0	0
 <g/>
@@ -50018,7 +50018,7 @@ années	NCFP000	année-n	année	NCFP000	année	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:7&collection=eptic3">
+<s id="2344:7">
 
 Ils	PP3MPN0	ils-p	ils	PP3MPN0	ils	0	0
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -50031,7 +50031,7 @@ fait	VMP00SM	faire-v	fait	VMP00SM	faire	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:8&collection=eptic3">
+<s id="2344:8">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 y	PP3CN00	y-p	y	PP3CN00	y	0	0
@@ -50061,7 +50061,7 @@ neige	NCFS000	neige-n	neige	NCFS000	neige	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:9&collection=eptic3">
+<s id="2344:9">
 
 Quelle	DT0FS0	quel-x	quelle	DT0FS0	quel	F	S
 absurdité	NCFS000	absurdité-n	absurdité	NCFS000	absurdité	F	S
@@ -50121,7 +50121,7 @@ artificielle	AQ0FS00	artificiel-j	artificielle	AQ0FS00	artificiel	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:10&collection=eptic3">
+<s id="2344:10">
 
 Presque	RG	presque-r	presque	RG	presque	0	0
 toutes	PI0FP00	tout-p	tout	PI0FP00	tout	F	P
@@ -50134,7 +50134,7 @@ villes	NCFP000	ville-n	ville	NCFP000	ville	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:11&collection=eptic3">
+<s id="2344:11">
 
 L'	DA0CS0	le-x	l'	DA0CS0	le	M	S
 <g/>
@@ -50164,7 +50164,7 @@ froides	AQ0FP00	froid-j	froide	AQ0FP00	froid	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2344:12&collection=eptic3">
+<s id="2344:12">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -50229,7 +50229,7 @@ faveur	NCFS000	faveur-n	faveur	NCFS000	faveur	F	S
 <speaker name="Martin Callanan" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="263" duration="medium" durations="121.0" speed="medium" speedwm="130.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2346:1&collection=eptic3">
+<s id="2346:1">
 
 Monsieur	NCMS000	monsieur-n	mr.	NCMS000	monsieur	M	S
 le	DA0MS0	le-x	le	DA0MS0	le	M	S
@@ -50251,12 +50251,12 @@ soulevés	VMP00PM	soulever-v	soulevé	VMP00PM	soulever	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:2&collection=eptic3">
+<s id="2346:2">
 
 M.	NP00000	M.-n	m.	NP00000	M.	0	0
 </s>
 
-<s id="2346:3&collection=eptic3">
+<s id="2346:3">
 
 Schlyter	NP00000	Schlyter-n	schlyter	NP00000	Schlyter	0	0
 a	VAIP3S0	avoir-v	avoir	VAIP3S0	avoir	0	0
@@ -50296,7 +50296,7 @@ Asie	NPFS000	Asie-n	asie	NPFS000	Asie	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:4&collection=eptic3">
+<s id="2346:4">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dois	VMIP1S0	devoir-v	devoir	VMIP1S0	devoir	0	0
@@ -50312,7 +50312,7 @@ observation	NCFS000	observation-n	observation	NCFS000	observation	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:5&collection=eptic3">
+<s id="2346:5">
 
 Nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
 nous	PP1CP00	nous-p	nous	PP1CP00	nous	0	0
@@ -50354,7 +50354,7 @@ Extrême-Orient	NPMS000	Extrême-Orient-n	extrême-orient	NPMS000	Extrême-Orien
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:6&collection=eptic3">
+<s id="2346:6">
 
 Mme	NPMS000	Mme-n	mme	NPMS000	Mme	M	S
 Wils	NP00000	Wils-n	wils	NP00000	Wils	M	S
@@ -50371,7 +50371,7 @@ particulières	AQ0FP00	particulier-j	particulière	AQ0FP00	particulier	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:7&collection=eptic3">
+<s id="2346:7">
 
 À	SP	à-i	à	SP	à	0	0
 mon	DP1CSS	mon-x	mon	DP1CSS	mon	M	S
@@ -50386,7 +50386,7 @@ erronée	AQ0FS00	erroné-j	erronée	AQ0FS00	erroné	F	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:8&collection=eptic3">
+<s id="2346:8">
 
 Les	DA0CP0	le-x	l'	DA0CP0	le	F	P
 possibilités	NCFP000	possibilité-n	possibilité	NCFP000	possibilité	F	P
@@ -50418,7 +50418,7 @@ carburants	NCMP000	carburant-n	carburant	NCMP000	carburant	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:9&collection=eptic3">
+<s id="2346:9">
 
 La	DA0FS0	le-x	la	DA0FS0	le	F	S
 pénétration	NCFS000	pénétration-n	pénétration	NCFS000	pénétration	F	S
@@ -50438,7 +50438,7 @@ camionnettes	NCFP000	camionnette-n	camionnette	NCFP000	camionnette	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:10&collection=eptic3">
+<s id="2346:10">
 
 Bien	RG	bien-r	bien	RG	bien	0	0
 entendu	VMP00SM	entendre-v	entendu	VMP00SM	entendre	M	S
@@ -50470,7 +50470,7 @@ entreprises	NCFP000	entreprise-n	entreprise	NCFP000	entreprise	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:11&collection=eptic3">
+<s id="2346:11">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 crains	VMIP1S0	craindre-v	craindre	VMIP1S0	craindre	0	0
@@ -50478,7 +50478,7 @@ que	CS	que-c	que	CS	que	0	0
 M.	NPFS000	M.-n	m.	NPFS000	M.	F	S
 </s>
 
-<s id="2346:12&collection=eptic3">
+<s id="2346:12">
 
 Nuttall	NPMS000	Nuttall-n	nuttall	NPMS000	Nuttall	M	S
 ne	RN	ne-r	ne	RN	ne	0	0
@@ -50509,7 +50509,7 @@ faux	RG	faux-r	faux	RG	faux	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:13&collection=eptic3">
+<s id="2346:13">
 
 Cette	DD0FS0	ce-x	cette	DD0FS0	ce	F	S
 mesure	NCFS000	mesure-n	mesure	NCFS000	mesure	F	S
@@ -50527,7 +50527,7 @@ entreprises	NCFP000	entreprise-n	entreprise	NCFP000	entreprise	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:14&collection=eptic3">
+<s id="2346:14">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 dois	VMIP1S0	devoir-v	devoir	VMIP1S0	devoir	0	0
@@ -50598,7 +50598,7 @@ entreprises	NCFP000	entreprise-n	entreprise	NCFP000	entreprise	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:15&collection=eptic3">
+<s id="2346:15">
 
 (	Fpa	(-x	(	Fpa	(	0	0
 <g/>
@@ -50620,7 +50620,7 @@ bon	AQ0MS00	bon-j	bon	AQ0MS00	bon	M	S
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:16&collection=eptic3">
+<s id="2346:16">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 produit	VMIP3S0	produire-v	produire	VMIP3S0	produire	0	0
@@ -50656,7 +50656,7 @@ environnementale	AQ0FS00	environnemental-j	environnementale	AQ0FS00	environnemen
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2346:17&collection=eptic3">
+<s id="2346:17">
 
 Quelle	DT0FS0	quel-x	quelle	DT0FS0	quel	F	S
 que	CS	que-c	que	CS	que	0	0
@@ -50702,7 +50702,7 @@ chose	NCFS000	chose-n	chose	NCFS000	chose	F	S
 <speaker name="Harkin Marian" gender="F" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="162" duration="short" durations="94.0" speed="slow" speedwm="103.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2349:1&collection=eptic3">
+<s id="2349:1">
 
 Madame	NCFS000	monsieur-n	madame	NCFS000	monsieur	F	S
 la	DA0FS0	le-x	la	DA0FS0	le	F	S
@@ -50740,7 +50740,7 @@ loin	RG	loin-r	loin	RG	loin	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:2&collection=eptic3">
+<s id="2349:2">
 
 C'	PP0CNN0	ce-p	ce	PP0CNN0	ce	0	0
 <g/>
@@ -50786,7 +50786,7 @@ aujourd'hui	RG	aujourd'hui-r	aujourd'hui	RG	aujourd'hui	0	0
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:3&collection=eptic3">
+<s id="2349:3">
 
 Il	PP3MSN0	il-p	il	PP3MSN0	il	0	0
 est	VMIP3S0	être-v	être	VMIP3S0	être	0	0
@@ -50822,7 +50822,7 @@ kilomètres	NCMP000	kilomètre-n	kilomètre	NCMP000	kilomètre	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:4&collection=eptic3">
+<s id="2349:4">
 
 J'	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 <g/>
@@ -50854,7 +50854,7 @@ courtes	AQ0FP00	court-j	courte	AQ0FP00	court	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:5&collection=eptic3">
+<s id="2349:5">
 
 Je	PP1CSN0	je-p	je	PP1CSN0	je	0	0
 suis	VMIP1S0	suivre-v	suivre	VMIP1S0	suivre	0	0
@@ -50884,7 +50884,7 @@ distances	NCFP000	distance-n	distance	NCFP000	distance	F	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:6&collection=eptic3">
+<s id="2349:6">
 
 Ces	DD0CP0	ce-x	ce	DD0CP0	ce	M	P
 droits	NCMP000	droit-n	droit	NCMP000	droit	M	P
@@ -50935,7 +50935,7 @@ handicaps	NCMP000	handicap-n	handicap	NCMP000	handicap	M	P
 .	Fp	.-x	.	Fp	.	0	0
 </s>
 
-<s id="2349:7&collection=eptic3">
+<s id="2349:7">
 
 Malheureusement	RG	malheureusement-r	malheureusement	RG	malheureusement	0	0
 <g/>

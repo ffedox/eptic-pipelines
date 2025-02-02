@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="FI01" gender="M" native="NA">
-<s id="1045:1" video="https://media.dipintra.it/?id=1045&start=00.08&end=00.10&collection=eptic3">
+<s id="1045:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.08&end=00.00.10">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -10,7 +10,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:2" video="https://media.dipintra.it/?id=1045&start=00.10&end=00.17&collection=eptic3">
+<s id="1045:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.10&end=00.00.17">
 Eräät	Pron_Qnt_Nom_Pl	eräs-p
 kollegat	N_Nom_Pl	kollega-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -28,7 +28,7 @@ esityslistalle	N_All_Sg	esityslista-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:3" video="https://media.dipintra.it/?id=1045&start=00.17&end=00.23&collection=eptic3">
+<s id="1045:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.17&end=00.00.23">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 ymmärrän	V_Prs_Act_Sg1	ymmärtää-v
 nämä	Pron_Dem_Nom_Pl	nämä-p
@@ -45,7 +45,7 @@ ihmisoikeuksista	N_Ela_Pl	ihminenoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:4" video="https://media.dipintra.it/?id=1045&start=00.23&end=00.29&collection=eptic3">
+<s id="1045:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.23&end=00.00.29">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -65,7 +65,7 @@ rikkomustapaus	N_Nom_Sg	rikkomustapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:5" video="https://media.dipintra.it/?id=1045&start=00.29&end=00.35&collection=eptic3">
+<s id="1045:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.29&end=00.00.35">
 Si-	DYSF	Si-
 lisäksi	Adp_Po	lisäksi-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
@@ -82,7 +82,7 @@ tilanteessa	N_Ine_Sg	tilanne-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:6" video="https://media.dipintra.it/?id=1045&start=00.35&end=00.37&collection=eptic3">
+<s id="1045:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.35&end=00.00.37">
 Ja	CC	ja-x
 presidenttini	N_Gen_Sg	presidentti-n
 on	V_Prs_Act_Sg3	olla-v
@@ -90,7 +90,7 @@ vankilassa	N_Ine_Sg	vankila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:7" video="https://media.dipintra.it/?id=1045&start=00.37&end=00.40&collection=eptic3">
+<s id="1045:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.37&end=00.00.40">
 Hän	Pron_Pers_Nom_Sg	hän-p
 odottaa	V_Prs_Act_Sg3	odottaa-v
 Brasilian	N_Prop_Gen_Sg	Brasilia-n
@@ -100,7 +100,7 @@ päätöstä	N_Ela_Sg	päätös-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:8" video="https://media.dipintra.it/?id=1045&start=00.40&end=00.43&collection=eptic3">
+<s id="1045:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.40&end=00.00.43">
 Korkein	A_Nom_Sg	Korkein-j
 oikeus	N_Nom_Sg	oikeus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -109,7 +109,7 @@ lomalla	N_Ade_Sg	loma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:9" video="https://media.dipintra.it/?id=1045&start=00.43&end=00.49&collection=eptic3">
+<s id="1045:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.43&end=00.00.49">
 Ja	CC	ja-x
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -127,7 +127,7 @@ päätöstä	N_Par_Sg	päätös-n
 tehtäisiin	V_Cond_Pass_Pe4	tehdä-v
 .	SENT	.-x
 </s>
-<s id="1045:10" video="https://media.dipintra.it/?id=1045&start=00.49&end=00.57&collection=eptic3">
+<s id="1045:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.49&end=00.00.57">
 Olen	V_Prs_Act_Sg1	Ole-v
 solidaarinen	A_Nom_Sg	solidaarinen-j
 uhrien	N_Gen_Pl	uhri-n
@@ -149,7 +149,7 @@ vasemmalta	A_Abl_Sg	vasen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:11" video="https://media.dipintra.it/?id=1045&start=00.58&end=01.04&collection=eptic3">
+<s id="1045:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.00.58&end=00.01.04">
 Mutta	CC	Mutta-x
 me-	DYSF	me-
 kiireellisiä	A_Par_Pl	kiireellinen-j
@@ -166,7 +166,7 @@ Indonesian	N_Prop_Gen_Sg	Indonesia-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1045:12" video="https://media.dipintra.it/?id=1045&start=01.05&end=01.20&collection=eptic3">
+<s id="1045:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.01.05&end=00.01.20">
 Haluaako	V_Prs_Act_Sg3	haluta-v
 Bra-	DYSF	Bra-
 parlamentti	N_Nom_Sg	parlamentti-n
@@ -192,7 +192,7 @@ henkilöihin	N_Ill_Pl	henkilö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1045:13" video="https://media.dipintra.it/?id=1045&start=01.20&end=01.24&collection=eptic3">
+<s id="1045:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1045.wmv&start=00.01.20&end=00.01.24">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 ehdotan	V_Prs_Act_Sg1	ehdottaa-v
 <g/>
@@ -214,7 +214,7 @@ asioista	N_Ela_Pl	asia-n
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="FI01" gender="M" native="NA">
-<s id="930:1" video="https://media.dipintra.it/?id=930&start=00.16&end=00.17&collection=eptic3">
+<s id="930:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.16&end=00.00.17">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -222,7 +222,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:2" video="https://media.dipintra.it/?id=930&start=00.17&end=00.20&collection=eptic3">
+<s id="930:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.17&end=00.00.20">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 ,	Punct	,-x
@@ -232,7 +232,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:3" video="https://media.dipintra.it/?id=930&start=00.21&end=00.29&collection=eptic3">
+<s id="930:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.21&end=00.00.29">
 Ehm	FPAUSE	ehm
 viimeiset	A_Nom_Pl	viimeinen-j
 tapahtumat	N_Nom_Pl	tapahtuma-n
@@ -255,7 +255,7 @@ historiassa	N_Ine_Sg	historia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:4" video="https://media.dipintra.it/?id=930&start=00.29&end=00.43&collection=eptic3">
+<s id="930:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.29&end=00.00.43">
 17.	A_Interr_Par_Sg	@ord@-j
 joulukuuta	N_Par_Sg	joulukuu-n
 nuori	A_Nom_Sg	nuori-j
@@ -281,7 +281,7 @@ vihannekset	N_Nom_Pl	vihannes-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:5" video="https://media.dipintra.it/?id=930&start=00.43&end=00.53&collection=eptic3">
+<s id="930:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.43&end=00.00.53">
 Sitten	Adp_Pr	sitten-x
 vähä-	DYSF	vähä-
 alle	Adv	alle-r
@@ -308,7 +308,7 @@ pois	Adv	pois-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:6" video="https://media.dipintra.it/?id=930&start=00.53&end=01.01&collection=eptic3">
+<s id="930:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.00.53&end=00.01.01">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unioni	N_Nom_Sg	unioni-n
 on	V_Prs_Act_Sg3	olla-v
@@ -327,7 +327,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:7" video="https://media.dipintra.it/?id=930&start=01.01&end=01.05&collection=eptic3">
+<s id="930:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.01&end=00.01.05">
 Ehm	FPAUSE	ehm
 turvallisuustilanne	N_Nom_Sg	turvallisuustila-n
 on	V_Prs_Act_Sg3	olla-v
@@ -336,7 +336,7 @@ hauras	A_Nom_Sg	hauras-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:8" video="https://media.dipintra.it/?id=930&start=01.06&end=01.09&collection=eptic3">
+<s id="930:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.06&end=00.01.09">
 Ehm	FPAUSE	ehm
 väkivalta	N_Nom_Sg	väkivalta-n
 edelleenkin	Adv	edelle-r
@@ -344,7 +344,7 @@ vallitsee	V_Prs_Act_Sg3	vallita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:9" video="https://media.dipintra.it/?id=930&start=01.10&end=01.20&collection=eptic3">
+<s id="930:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.10&end=00.01.20">
 Tunisia	N_Prop_Nom_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
 edelleenkin	Adv	edelle-r
@@ -368,7 +368,7 @@ saapumassa	V_Inf3_Ine	saapua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:10" video="https://media.dipintra.it/?id=930&start=01.21&end=01.36&collection=eptic3">
+<s id="930:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.21&end=00.01.36">
 Huolimatta	V_Inf3_Abe	huolia-v
 tietyistä	A_Ela_Pl	tietty-j
 epävarmuustekijöistä	N_Ela_Pl	epävarmuustekijä-n
@@ -402,7 +402,7 @@ vapauksia	N_Par_Pl	vapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:11" video="https://media.dipintra.it/?id=930&start=01.36&end=01.40&collection=eptic3">
+<s id="930:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.36&end=00.01.40">
 Se	Pron_Dem_Nom_Sg	se-p
 haluaa	V_Prs_Act_Sg3	haluta-v
 vapaat	A_Nom_Pl	vapaa-j
@@ -413,7 +413,7 @@ vaalit	N_Nom_Pl	vaali-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:12" video="https://media.dipintra.it/?id=930&start=01.41&end=01.45&collection=eptic3">
+<s id="930:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.41&end=00.01.45">
 Se	Pron_Dem_Nom_Sg	se-p
 haluaa	V_Prs_Act_Sg3	haluta-v
 kirjoittaa	V_Inf1_Lat	kirjoittaa-v
@@ -424,7 +424,7 @@ historiakirjaan	N_Ill_Sg	historiakirjaan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:13" video="https://media.dipintra.it/?id=930&start=01.45&end=01.48&collection=eptic3">
+<s id="930:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.45&end=00.01.48">
 Me	Pron_Pers_Nom_Pl	me-p
 haluamme	V_Prs_Act_Pl1	haluta-v
 tukea	V_Inf1_Lat	tukea-v
@@ -434,7 +434,7 @@ tässä	Pron_Dem_Ine_Sg	tämä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:14" video="https://media.dipintra.it/?id=930&start=01.50&end=01.59&collection=eptic3">
+<s id="930:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.01.50&end=00.01.59">
 Ehm	FPAUSE	ehm
 perustuslain	N_Gen_Sg	perustuslaki-n
 ehm	FPAUSE	ehm
@@ -458,7 +458,7 @@ suuntaan	N_Ill_Sg	suunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:15" video="https://media.dipintra.it/?id=930&start=02.00&end=02.03&collection=eptic3">
+<s id="930:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.02.00&end=00.02.03">
 Totta	A_Par_Sg	tosi-j
 kai	Adv	kai-r
 tämä	Pron_Dem_Nom_Sg	tämä-p
@@ -468,7 +468,7 @@ lähtölaukaus	N_Nom_Sg	lähtölaukaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:16" video="https://media.dipintra.it/?id=930&start=02.04&end=02.16&collection=eptic3">
+<s id="930:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.02.04&end=00.02.16">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unioni	N_Nom_Sg	unioni-n
 ei	V_Neg_Sg3	ei-v
@@ -492,7 +492,7 @@ perusvapauksista	N_Ela_Pl	perusvapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:17" video="https://media.dipintra.it/?id=930&start=02.17&end=02.38&collection=eptic3">
+<s id="930:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.02.17&end=00.02.38">
 Ja	CC	ja-x
 ehm	FPAUSE	ehm
 ja	CC	ja-x
@@ -547,7 +547,7 @@ perusvapaudet	N_Nom_Pl	perusvapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:18" video="https://media.dipintra.it/?id=930&start=02.40&end=02.53&collection=eptic3">
+<s id="930:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.02.40&end=00.02.53">
 Olen	V_Prs_Act_Sg1	Ole-v
 painottanut	PrfPrc_Act_Nom_Sg	painottaa-x
 sitä	Pron_Dem_Par_Sg	se-p
@@ -578,7 +578,7 @@ ihmisoikeuksiin	N_Ill_Pl	ihminenoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:19" video="https://media.dipintra.it/?id=930&start=02.53&end=03.20&collection=eptic3">
+<s id="930:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.02.53&end=00.03.20">
 Ensimmäisestä	Num_Ord_Ela_Sg	ensimmäinen-m
 tapaamisestämme	N_Ela_Sg	tapaamisestämme-n
 lähtien	V_Inf2_Act_Ins	lähteä-v
@@ -640,7 +640,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:20" video="https://media.dipintra.it/?id=930&start=03.20&end=03.39&collection=eptic3">
+<s id="930:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.03.20&end=00.03.39">
 Ja	CC	ja-x
 muuten	Adv	muuten-r
 <g/>
@@ -696,7 +696,7 @@ kaduilla	N_Ade_Pl	katu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:21" video="https://media.dipintra.it/?id=930&start=03.40&end=03.46&collection=eptic3">
+<s id="930:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.03.40&end=00.03.46">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 oli	V_PrfPrc_Act_Sg3	olla-v
 ehm	FPAUSE	ehm
@@ -713,7 +713,7 @@ saamiseksi	N_Tra_Sg	saaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:22" video="https://media.dipintra.it/?id=930&start=03.46&end=04.00&collection=eptic3">
+<s id="930:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.03.46&end=00.04.00">
 Ehm	FPAUSE	ehm
 Catherine	N_Prop_Nom_Sg	Catherine-n
 Ashton	N_Prop_Nom_Sg	Ashton-n
@@ -741,7 +741,7 @@ takeita	N_Par_Pl	tae-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:23" video="https://media.dipintra.it/?id=930&start=04.01&end=04.13&collection=eptic3">
+<s id="930:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.01&end=00.04.13">
 Ehm	FPAUSE	ehm
 tietenkin	Adv	tietenkin-r
 nämä	Pron_Dem_Nom_Pl	nämä-p
@@ -772,7 +772,7 @@ työnsä	N_Gen_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:24" video="https://media.dipintra.it/?id=930&start=04.13&end=04.24&collection=eptic3">
+<s id="930:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.13&end=00.04.24">
 Me	Pron_Pers_Nom_Pl	me-p
 olemme	V_Prs_Act_Pl1	olla-v
 valmiita	A_Par_Pl	valmis-j
@@ -796,7 +796,7 @@ prosessia	N_Par_Sg	prosessi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:25" video="https://media.dipintra.it/?id=930&start=04.24&end=04.35&collection=eptic3">
+<s id="930:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.24&end=00.04.35">
 Me	Pron_Pers_Nom_Pl	me-p
 ehm	FPAUSE	ehm
 olemme	V_Prs_Act_Pl1	olla-v
@@ -822,7 +822,7 @@ kehitys	N_Nom_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:26" video="https://media.dipintra.it/?id=930&start=04.36&end=04.46&collection=eptic3">
+<s id="930:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.36&end=00.04.46">
 On	V_Prs_Act_Sg3	olla-v
 ottaa	V_Inf1_Lat	ottaa-v
 huomioon	N_Ill_Sg	huomio-n
@@ -851,7 +851,7 @@ toimiminen	N_Nom_Sg	toimia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:27" video="https://media.dipintra.it/?id=930&start=04.46&end=04.52&collection=eptic3">
+<s id="930:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.46&end=00.04.52">
 Me	Pron_Pers_Nom_Pl	me-p
 olemme	V_Prs_Act_Pl1	olla-v
 valmiita	A_Par_Pl	valmis-j
@@ -867,7 +867,7 @@ prosessissa	N_Ine_Sg	prosessi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:28" video="https://media.dipintra.it/?id=930&start=04.53&end=04.56&collection=eptic3">
+<s id="930:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.53&end=00.04.56">
 Herra	N_Nom_Sg	Herra-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -878,7 +878,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:29" video="https://media.dipintra.it/?id=930&start=04.56&end=05.18&collection=eptic3">
+<s id="930:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.04.56&end=00.05.18">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 ehm	FPAUSE	ehm
 naapuruuspolitiikka	N_Nom_Sg	naapuruuspolitiikka-n
@@ -919,7 +919,7 @@ alue	N_Nom_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:30" video="https://media.dipintra.it/?id=930&start=05.19&end=05.33&collection=eptic3">
+<s id="930:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.05.19&end=00.05.33">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -955,7 +955,7 @@ naapureihimme	N_Ill_Pl	naapuri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:31" video="https://media.dipintra.it/?id=930&start=05.33&end=05.43&collection=eptic3">
+<s id="930:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.05.33&end=00.05.43">
 Ehm	FPAUSE	ehm
 Tunisiassa	N_Prop_Ine_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
@@ -974,7 +974,7 @@ maltillisuus	N_Nom_Sg	maltillisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:32" video="https://media.dipintra.it/?id=930&start=05.43&end=05.54&collection=eptic3">
+<s id="930:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.05.43&end=00.05.54">
 Tunisia	N_Prop_Nom_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -1001,7 +1001,7 @@ rohkeasti	Adv	rohkeasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:33" video="https://media.dipintra.it/?id=930&start=05.54&end=06.07&collection=eptic3">
+<s id="930:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.05.54&end=00.06.07">
 Ja	CC	ja-x
 minusta	Pron_Pers_Ela_Sg	minä-p
 jokaisten	Pron_Qnt_Gen_Pl	jokainen-p
@@ -1031,7 +1031,7 @@ Tunisia	N_Prop_Nom_Sg	Tunisia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:34" video="https://media.dipintra.it/?id=930&start=06.07&end=06.17&collection=eptic3">
+<s id="930:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.06.07&end=00.06.17">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 pitkät	A_Nom_Pl	pitkä-j
@@ -1055,7 +1055,7 @@ tasolla	N_Ade_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:35" video="https://media.dipintra.it/?id=930&start=06.18&end=06.41&collection=eptic3">
+<s id="930:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.06.18&end=00.06.41">
 Ja	CC	ja-x
 kuten	Adv	kuten-r
 vapa-	DYSF	vapa-
@@ -1103,7 +1103,7 @@ uudistuksia	N_Par_Pl	uudistus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="930:36" video="https://media.dipintra.it/?id=930&start=06.41&end=06.50&collection=eptic3">
+<s id="930:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=930.wmv&start=00.06.41&end=00.06.50">
 Me	Pron_Pers_Nom_Pl	me-p
 teemme	V_Prs_Act_Pl1	tehdä-v
 parhaamme	A_Gen_Sg	paras-j
@@ -1138,7 +1138,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="FI04" gender="M" native="NA">
-<s id="1054:1" video="https://media.dipintra.it/?id=1054&start=00.10&end=00.14&collection=eptic3">
+<s id="1054:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.00.10&end=00.00.14">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -1150,7 +1150,7 @@ Füle	N_Prop_Nom_Sg	Füle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:2" video="https://media.dipintra.it/?id=1054&start=00.14&end=00.26&collection=eptic3">
+<s id="1054:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.00.14&end=00.00.26">
 Haluan	V_Prs_Act_Sg1	haluta-v
 onnitella	V_Inf1_Lat	onnitella-v
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
@@ -1188,7 +1188,7 @@ pian	Adv	pian-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:3" video="https://media.dipintra.it/?id=1054&start=00.26&end=00.31&collection=eptic3">
+<s id="1054:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.00.26&end=00.00.31">
 Kansalaiset	N_Nom_Pl	kansalainen-n
 ovat	V_Prs_Act_Pl3	olla-v
 puhuneet	PrfPrc_Act_Nom_Pl	puhua-x
@@ -1204,7 +1204,7 @@ tappoi	V_PrfPrc_Act_Sg3	tappaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:4" video="https://media.dipintra.it/?id=1054&start=00.32&end=00.53&collection=eptic3">
+<s id="1054:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.00.32&end=00.00.53">
 Vain	Adv	vain-r
 heikot	A_Nom_Pl	heikko-j
 hallitukset	N_Nom_Pl	hallitus-n
@@ -1245,7 +1245,7 @@ kulun	N_Gen_Sg	kulku-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:5" video="https://media.dipintra.it/?id=1054&start=00.53&end=01.01&collection=eptic3">
+<s id="1054:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.00.53&end=00.01.01">
 Pääsy	N_Nom_Sg	pääsy-n
 ti-	DYSF	ti-
 käyttämään	V_Inf3_Ill	käyttää-v
@@ -1273,7 +1273,7 @@ maailman	N_Gen_Sg	maailma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:6" video="https://media.dipintra.it/?id=1054&start=01.01&end=01.18&collection=eptic3">
+<s id="1054:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.01&end=00.01.18">
 Kuulin	N_Ins_Pl	Kuula-n
 kansalaisten	N_Gen_Pl	kansalainen-n
 liikehdinnästä	N_Ela_Sg	liikehdintä-n
@@ -1298,7 +1298,7 @@ kaduilla	N_Ade_Pl	katu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:7" video="https://media.dipintra.it/?id=1054&start=01.18&end=01.26&collection=eptic3">
+<s id="1054:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.18&end=00.01.26">
 Viime	A	viime-j
 viikolla	N_Ade_Sg	viikko-n
 Ranskan	N_Prop_Gen_Sg	Ranska-n
@@ -1313,7 +1313,7 @@ muodossa	N_Ine_Sg	muoto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:8" video="https://media.dipintra.it/?id=1054&start=01.26&end=01.34&collection=eptic3">
+<s id="1054:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.26&end=00.01.34">
 Mikä	Pron_Qnt_Nom_Sg	mikä-p
 on	V_Prs_Act_Sg3	olla-v
 komission	N_Gen_Sg	komissio-n
@@ -1332,7 +1332,7 @@ tukemiseksi	N_Tra_Sg	tukeminen-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1054:9" video="https://media.dipintra.it/?id=1054&start=01.35&end=01.46&collection=eptic3">
+<s id="1054:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.35&end=00.01.46">
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 hallituksen	N_Gen_Sg	hallitus-n
 ja	CC	ja-x
@@ -1352,7 +1352,7 @@ internetissä	N_Ine_Sg	internet-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:10" video="https://media.dipintra.it/?id=1054&start=01.47&end=01.54&collection=eptic3">
+<s id="1054:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.47&end=00.01.54">
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 hallituksesta	N_Ela_Sg	hallitus-n
 tiedettiin	V_PrfPrc_Pass_Pe4	tietää-v
@@ -1371,7 +1371,7 @@ käyttämisessä	N_Ine_Sg	käyttäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:11" video="https://media.dipintra.it/?id=1054&start=01.55&end=02.00&collection=eptic3">
+<s id="1054:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.01.55&end=00.02.00">
 Eikä	CC	eikä-x
 se	Pron_Dem_Nom_Sg	se-p
 säästänyt	V_PrfPrc_Act_ConNeg_Sg	säästää-v
@@ -1384,7 +1384,7 @@ teknologioita	N_Par_Pl	teknologia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:12" video="https://media.dipintra.it/?id=1054&start=02.00&end=02.06&collection=eptic3">
+<s id="1054:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.00&end=00.02.06">
 Sortohallitukset	N_Nom_Pl	sortohallitus-n
 kautta	Adp_Po	kautta-x
 maailman	N_Gen_Sg	maailma-n
@@ -1399,7 +1399,7 @@ maailman	N_Gen_Sg	maailma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:13" video="https://media.dipintra.it/?id=1054&start=02.06&end=02.13&collection=eptic3">
+<s id="1054:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.06&end=00.02.13">
 Nyt	Adv	nyt-r
 on	V_Prs_Act_Sg3	olla-v
 Martin	N_Prop_Gen_Sg	Mart-n
@@ -1426,7 +1426,7 @@ petos	N_Nom_Sg	petos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:14" video="https://media.dipintra.it/?id=1054&start=02.13&end=02.16&collection=eptic3">
+<s id="1054:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.13&end=00.02.16">
 Komission	N_Gen_Sg	komissio-n
 jäsen	N_Nom_Sg	jäsen-n
 Füle	N_Prop_Nom_Sg	Füle-n
@@ -1440,7 +1440,7 @@ käsillä	N_Ade_Pl	käsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:15" video="https://media.dipintra.it/?id=1054&start=02.18&end=02.26&collection=eptic3">
+<s id="1054:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.18&end=00.02.26">
 Yhdysvallat	N_Prop_Nom_Pl	Yhdysvalta-n
 <g/>
 ,	Punct	,-x
@@ -1462,7 +1462,7 @@ puolesta	Adp_Po	puolesta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:16" video="https://media.dipintra.it/?id=1054&start=02.26&end=02.29&collection=eptic3">
+<s id="1054:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.26&end=00.02.29">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -1475,7 +1475,7 @@ edessään	Adp_Pr	edessä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:17" video="https://media.dipintra.it/?id=1054&start=02.30&end=02.34&collection=eptic3">
+<s id="1054:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.30&end=00.02.34">
 Tässähän	Pron_Dem_Ine_Sg	tämä-p
 puhumme	V_Prs_Act_Pl1	puhua-v
 vielä	Adv	vielä-r
@@ -1486,7 +1486,7 @@ iltana	N_Ess_Sg	ilta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1054:18" video="https://media.dipintra.it/?id=1054&start=02.34&end=02.50&collection=eptic3">
+<s id="1054:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1054.wmv&start=00.02.34&end=00.02.50">
 Mutta	CC	Mutta-x
 nuoret	A_Nom_Pl	nuori-j
 sukupolvet	N_Nom_Pl	sukupolvi-n
@@ -1554,7 +1554,7 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="FI01" gender="M" native="NA">
-<s id="1061:1" video="https://media.dipintra.it/?id=1061&start=00.08&end=00.24&collection=eptic3">
+<s id="1061:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.08&end=00.00.24">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
@@ -1597,7 +1597,7 @@ köyhyytenä	N_Ess_Sg	köyhyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:2" video="https://media.dipintra.it/?id=1061&start=00.24&end=00.35&collection=eptic3">
+<s id="1061:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.24&end=00.00.35">
 Presidentti	N_Nom_Sg	presidentti-n
 Ben	N_Prop_Nom_Sg	Ben-n
 Ali	N_Prop_Nom_Sg	Ali-n
@@ -1637,7 +1637,7 @@ sanovat	V_Prs_Act_Pl3	sanoa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:3" video="https://media.dipintra.it/?id=1061&start=00.35&end=00.38&collection=eptic3">
+<s id="1061:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.35&end=00.00.38">
 se	Pron_Dem_Nom_Sg	se-p
 hallitus	N_Nom_Sg	hallitus-n
 oli	V_PrfPrc_Act_Sg3	olla-v
@@ -1648,7 +1648,7 @@ sortajia	N_Par_Pl	sortaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:4" video="https://media.dipintra.it/?id=1061&start=00.38&end=00.43&collection=eptic3">
+<s id="1061:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.38&end=00.00.43">
 Siinä	Pron_Dem_Ine_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -1664,7 +1664,7 @@ arabimaasta	N_Ela_Sg	arabimaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:5" video="https://media.dipintra.it/?id=1061&start=00.43&end=00.53&collection=eptic3">
+<s id="1061:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.43&end=00.00.53">
 Ehm	FPAUSE	ehm
 kuit-	DYSF	kuit-
 ehm	FPAUSE	ehm
@@ -1679,7 +1679,7 @@ ja	CC	ja-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1061:6" video="https://media.dipintra.it/?id=1061&start=00.53&end=00.56&collection=eptic3">
+<s id="1061:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.53&end=00.00.56">
 Jihadit	NON-TWOL	jihad-x
 eivät	V_Neg_Pl3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -1689,7 +1689,7 @@ jalansijaa	N_Par_Sg	jalansija-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:7" video="https://media.dipintra.it/?id=1061&start=00.57&end=01.18&collection=eptic3">
+<s id="1061:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.00.57&end=00.01.18">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -1743,7 +1743,7 @@ tavoitteita	N_Par_Pl	tavoite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:8" video="https://media.dipintra.it/?id=1061&start=01.18&end=01.28&collection=eptic3">
+<s id="1061:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.01.18&end=00.01.28">
 Uusi	A_Nom_Sg	uusi-j
 johtajuus	N_Nom_Sg	johtajuus-n
 <g/>
@@ -1767,7 +1767,7 @@ pohjaa	N_Par_Sg	pohja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:9" video="https://media.dipintra.it/?id=1061&start=01.29&end=01.53&collection=eptic3">
+<s id="1061:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.01.29&end=00.01.53">
 Se	Pron_Dem_Nom_Sg	se-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 ryhtyä	V_Inf1_Lat	ryhtyä-v
@@ -1819,7 +1819,7 @@ kohteeksi	N_Tra_Sg	kohde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:10" video="https://media.dipintra.it/?id=1061&start=01.53&end=01.59&collection=eptic3">
+<s id="1061:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.01.53&end=00.01.59">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 pidänkin	V_Prs_Act_Sg1	pitää-v
 hyvänä	A_Ess_Sg	hyvä-j
@@ -1839,7 +1839,7 @@ kansalaisia	N_Par_Pl	kansalainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1061:11" video="https://media.dipintra.it/?id=1061&start=01.59&end=02.11&collection=eptic3">
+<s id="1061:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1061.wmv&start=00.01.59&end=00.02.11">
 Me	Pron_Pers_Nom_Pl	me-p
 EU	N_Nom_Sg	EU-n
 <g/>
@@ -1896,7 +1896,7 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="FI04" gender="M" native="NA">
-<s id="1062:1" video="https://media.dipintra.it/?id=1062&start=00.07&end=00.09&collection=eptic3">
+<s id="1062:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.07&end=00.00.09">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -1905,7 +1905,7 @@ Buzek	NON-TWOL	Buzek-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:2" video="https://media.dipintra.it/?id=1062&start=00.09&end=00.19&collection=eptic3">
+<s id="1062:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.09&end=00.00.19">
 Esititte	V_PrfPrc_Act_Pl2	esittää-v
 muutamia	Pron_Qnt_Par_Pl	muutama-p
 huomioita	N_Par_Pl	huomio-n
@@ -1932,7 +1932,7 @@ kansalaisia	N_Par_Pl	kansalainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:3" video="https://media.dipintra.it/?id=1062&start=00.19&end=00.21&collection=eptic3">
+<s id="1062:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.19&end=00.00.21">
 Ei	V_Neg_Sg3	ei-v
 kukaan	Pron_Qnt_Nom_Sg	kukaan-p
 demokraatti	N_Nom_Sg	demokraatti-n
@@ -1943,7 +1943,7 @@ mieltä	N_Par_Sg	mieli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:4" video="https://media.dipintra.it/?id=1062&start=00.21&end=00.29&collection=eptic3">
+<s id="1062:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.21&end=00.00.29">
 Ihmiset	N_Nom_Pl	ihminen-n
 suvaitsevat	V_Prs_Act_Pl3	suvaita-v
 paljon	Adv	paljon-r
@@ -1968,7 +1968,7 @@ kapinoivat	V_Prs_Act_Pl3	kapinoida-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:5" video="https://media.dipintra.it/?id=1062&start=00.30&end=00.40&collection=eptic3">
+<s id="1062:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.30&end=00.00.40">
 Sisäisen	A_Gen_Sg	sisäinen-j
 palveluiden	N_Gen_Pl	palvelu-n
 doktriini	N_Nom_Sg	doktriini-n
@@ -1996,7 +1996,7 @@ katkeaa	V_Prs_Act_Sg3	katketa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:6" video="https://media.dipintra.it/?id=1062&start=00.40&end=00.45&collection=eptic3">
+<s id="1062:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.40&end=00.00.45">
 Voidaanko	V_Prs_Pass_Pe4	voida-v
 tästä	Pron_Dem_Ela_Sg	tämä-p
 tehdä	V_Inf1_Lat	tehdä-v
@@ -2016,7 +2016,7 @@ tapahtuu	V_Prs_Act_Sg3	tapahtua-v
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1062:7" video="https://media.dipintra.it/?id=1062&start=00.50&end=00.57&collection=eptic3">
+<s id="1062:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.50&end=00.00.57">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -2040,7 +2040,7 @@ toiveista	N_Ela_Pl	toive-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:8" video="https://media.dipintra.it/?id=1062&start=00.57&end=01.02&collection=eptic3">
+<s id="1062:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.00.57&end=00.01.02">
 On	V_Prs_Act_Sg3	olla-v
 suuri	A_Nom_Sg	suuri-j
 työttömyys	N_Nom_Sg	työttömyys-n
@@ -2058,7 +2058,7 @@ politiikasta	N_Ela_Sg	politiikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:9" video="https://media.dipintra.it/?id=1062&start=01.03&end=01.12&collection=eptic3">
+<s id="1062:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.01.03&end=00.01.12">
 On	V_Prs_Act_Sg3	olla-v
 jo	Adv	jo-r
 kapinointia	N_Par_Sg	kapinointi-n
@@ -2080,7 +2080,7 @@ yhtenäisvaluuttaan	N_Ill_Sg	yhtenäisvaluutta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:10" video="https://media.dipintra.it/?id=1062&start=01.12&end=01.23&collection=eptic3">
+<s id="1062:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.01.12&end=00.01.23">
 Maat	N_Nom_Pl	Maa-n
 kuten	Adv	kuten-r
 Espanja	N_Prop_Nom_Sg	Espanja-n
@@ -2107,7 +2107,7 @@ EU-pakkopaidassa	N_Ine_Sg	EU-pakkopaidassa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:11" video="https://media.dipintra.it/?id=1062&start=01.23&end=01.32&collection=eptic3">
+<s id="1062:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.01.23&end=00.01.32">
 Älkää	V_Neg_Imprt_Act_Pl2	ei-v
 ajatelko	V_Imprt_Act_ConNeg	ajatella-v
 <g/>
@@ -2135,7 +2135,7 @@ kapinoituvat	V_Prs_Act_Pl3	kapinoituvat-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1062:12" video="https://media.dipintra.it/?id=1062&start=01.32&end=01.43&collection=eptic3">
+<s id="1062:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1062.wmv&start=00.01.32&end=00.01.43">
 Olen	V_Prs_Act_Sg1	Ole-v
 samaa	Pron_Qnt_Par_Sg	sama-p
 mieltä	N_Par_Sg	mieli-n
@@ -2187,7 +2187,7 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="FI11" gender="F" native="NA">
-<s id="1047:1" video="https://media.dipintra.it/?id=1047&start=00.10&end=00.12&collection=eptic3">
+<s id="1047:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.10&end=00.00.12">
 Kiitos	N_Nom_Sg	kiitos-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -2198,7 +2198,7 @@ kollegat	N_Nom_Pl	kollega-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:2" video="https://media.dipintra.it/?id=1047&start=00.12&end=00.22&collection=eptic3">
+<s id="1047:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.12&end=00.00.22">
 On	V_Prs_Act_Sg3	olla-v
 hyvä	A_Nom_Sg	hyvä-j
 aloittaa	V_Inf1_Lat	aloittaa-v
@@ -2221,7 +2221,7 @@ rakennustuotteita	N_Par_Pl	rakennustuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:3" video="https://media.dipintra.it/?id=1047&start=00.22&end=00.29&collection=eptic3">
+<s id="1047:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.22&end=00.00.29">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 tähän	Pron_Dem_Ill_Sg	tämä-p
 alkuun	N_Ill_Sg	alku-n
@@ -2239,7 +2239,7 @@ suosituksen	N_Gen_Sg	suositus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:4" video="https://media.dipintra.it/?id=1047&start=00.29&end=00.34&collection=eptic3">
+<s id="1047:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.29&end=00.00.34">
 He	Pron_Pers_Nom_Pl	He-p
 ovat	V_Prs_Act_Pl3	olla-v
 tehneet	PrfPrc_Act_Nom_Pl	tehdä-x
@@ -2256,7 +2256,7 @@ saamiseen	N_Ill_Sg	saaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:5" video="https://media.dipintra.it/?id=1047&start=00.34&end=00.46&collection=eptic3">
+<s id="1047:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.34&end=00.00.46">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 myös	Adv	myös-r
 kiittää	V_Inf1_Lat	kiittää-v
@@ -2280,7 +2280,7 @@ työhön	N_Ill_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:6" video="https://media.dipintra.it/?id=1047&start=00.47&end=00.59&collection=eptic3">
+<s id="1047:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.00.47&end=00.00.59">
 Kuten	Adv	kuten-r
 olen	V_Prs_Act_Sg1	olla-v
 sanonut	PrfPrc_Act_Nom_Sg	sanoa-x
@@ -2312,7 +2312,7 @@ näin	Adv	näin-r
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1047:7" video="https://media.dipintra.it/?id=1047&start=01.00&end=01.06&collection=eptic3">
+<s id="1047:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.01.00&end=00.01.06">
 Ehm	FPAUSE	ehm
 sisämarkkinat	N_Nom_Pl	sisämarkkinat-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -2324,7 +2324,7 @@ kaupalle	N_All_Sg	kauppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:8" video="https://media.dipintra.it/?id=1047&start=01.06&end=01.23&collection=eptic3">
+<s id="1047:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.01.06&end=00.01.23">
 Mario	N_Prop_Nom_Sg	Mario-n
 Monti	N_Prop_Nom_Sg	monti-n
 sanoi	V_PrfPrc_Act_Sg3	sanoa-v
@@ -2359,7 +2359,7 @@ esteitä	N_Par_Pl	este-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:9" video="https://media.dipintra.it/?id=1047&start=01.24&end=01.44&collection=eptic3">
+<s id="1047:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.01.24&end=00.01.44">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 ehm	FPAUSE	ehm
 ehdotuksella	N_Ade_Sg	ehdotus-n
@@ -2399,7 +2399,7 @@ tähän	Pron_Dem_Ill_Sg	tämä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:10" video="https://media.dipintra.it/?id=1047&start=01.45&end=02.00&collection=eptic3">
+<s id="1047:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.01.45&end=00.02.00">
 Ehm	FPAUSE	ehm
 rakennusteollisuus	N_Nom_Sg	rakennusteollisuus-n
 tällä	Pron_Dem_Ade_Sg	tämä-p
@@ -2423,7 +2423,7 @@ viivyttää	V_Inf1_Lat	viivyttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:11" video="https://media.dipintra.it/?id=1047&start=02.00&end=02.06&collection=eptic3">
+<s id="1047:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.00&end=00.02.06">
 Meidän	Pron_Pers_Gen_Pl	me-p
 ei	V_Neg_Sg3	ei-v
 auta	V_Prs_Act_ConNeg	auttaa-v
@@ -2439,7 +2439,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:12" video="https://media.dipintra.it/?id=1047&start=02.06&end=02.17&collection=eptic3">
+<s id="1047:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.06&end=00.02.17">
 12	Num_Nom_Sg	@card@-m
 miljoonaa	Num_Par_Sg	miljoona-m
 EU	N_Nom_Sg	EU-n
@@ -2465,7 +2465,7 @@ sektorista	N_Ela_Sg	sektori-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:13" video="https://media.dipintra.it/?id=1047&start=02.17&end=02.24&collection=eptic3">
+<s id="1047:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.17&end=00.02.24">
 38	Num_Nom_Sg	@card@-m
 <g/>
 ,	Punct	,-x
@@ -2485,7 +2485,7 @@ alasta	N_Ela_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:14" video="https://media.dipintra.it/?id=1047&start=02.24&end=02.29&collection=eptic3">
+<s id="1047:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.24&end=00.02.29">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -2497,7 +2497,7 @@ työllisyydelle	N_All_Sg	työllisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:15" video="https://media.dipintra.it/?id=1047&start=02.29&end=02.33&collection=eptic3">
+<s id="1047:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.29&end=00.02.33">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 myös	Adv	myös-r
@@ -2510,7 +2510,7 @@ aloista	N_Ela_Pl	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:16" video="https://media.dipintra.it/?id=1047&start=02.33&end=02.43&collection=eptic3">
+<s id="1047:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.33&end=00.02.43">
 Saksassa	N_Ine_Sg	Saksa-n
 esimerkiksi	N_Tra_Sg	esimerkki-n
 ehm	FPAUSE	ehm
@@ -2525,7 +2525,7 @@ työtapaturmissa	N_Ine_Pl	työtapaturma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:17" video="https://media.dipintra.it/?id=1047&start=02.44&end=02.55&collection=eptic3">
+<s id="1047:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.44&end=00.02.55">
 Ehm	FPAUSE	ehm
 näiden	Pron_Dem_Gen_Pl	nämä-p
 työterveys	N_Nom_Sg	työterveys-n
@@ -2556,7 +2556,7 @@ raportissa	N_Ine_Sg	raportti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:18" video="https://media.dipintra.it/?id=1047&start=02.56&end=03.08&collection=eptic3">
+<s id="1047:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.02.56&end=00.03.08">
 Ja	CC	ja-x
 itseasiassa	NON-TWOL	itseasia-x
 me	Pron_Pers_Nom_Pl	me-p
@@ -2577,7 +2577,7 @@ yksimielisyyteen	N_Ill_Sg	yksimielisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:19" video="https://media.dipintra.it/?id=1047&start=03.08&end=03.16&collection=eptic3">
+<s id="1047:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.08&end=00.03.16">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 monia	Pron_Qnt_Par_Pl	moni-p
@@ -2599,7 +2599,7 @@ kuolemaan	N_Ill_Sg	kuolema-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:20" video="https://media.dipintra.it/?id=1047&start=03.16&end=03.26&collection=eptic3">
+<s id="1047:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.16&end=00.03.26">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 kyse	N_Nom_Sg	kyse-n
@@ -2620,7 +2620,7 @@ mesotelioomaa	NON-TWOL	mesoteliooma-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:21" video="https://media.dipintra.it/?id=1047&start=03.27&end=03.33&collection=eptic3">
+<s id="1047:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.27&end=00.03.33">
 Ja	CC	ja-x
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -2642,7 +2642,7 @@ toisiinsa	Pron_Qnt_Ill_Pl	toinen-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:22" video="https://media.dipintra.it/?id=1047&start=03.34&end=03.40&collection=eptic3">
+<s id="1047:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.34&end=00.03.40">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 ehm	FPAUSE	ehm
 keuhkosairauksien	N_Gen_Pl	keuhkosairaus-n
@@ -2655,7 +2655,7 @@ käsitelty	PrfPrc_Pass_Nom_Sg	käsitellä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:23" video="https://media.dipintra.it/?id=1047&start=03.40&end=03.44&collection=eptic3">
+<s id="1047:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.40&end=00.03.44">
 On	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
 tärkeätä	A_Par_Sg	tärkeä-j
@@ -2671,7 +2671,7 @@ esille	Adv	esille-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:24" video="https://media.dipintra.it/?id=1047&start=03.44&end=03.47&collection=eptic3">
+<s id="1047:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.44&end=00.03.47">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 lyhyesti	Adv	lyhyesti-r
 kommentoida	V_Inf1_Lat	kommentoida-v
@@ -2680,7 +2680,7 @@ pk-alaa	N_Par_Sg	pk-alaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:25" video="https://media.dipintra.it/?id=1047&start=03.47&end=04.06&collection=eptic3">
+<s id="1047:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.03.47&end=00.04.06">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 ajatella	V_Inf1_Lat	ajatella-v
@@ -2718,7 +2718,7 @@ yrityksille	N_All_Pl	yritys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:26" video="https://media.dipintra.it/?id=1047&start=04.06&end=04.10&collection=eptic3">
+<s id="1047:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.06&end=00.04.10">
 Ja	CC	ja-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 tavalla	N_Ade_Sg	tapa-n
@@ -2730,7 +2730,7 @@ lisääntyvät	V_Prs_Act_Pl3	lisääntyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:27" video="https://media.dipintra.it/?id=1047&start=04.10&end=04.18&collection=eptic3">
+<s id="1047:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.10&end=00.04.18">
 Mitä	Pron_Rel_Par	Mi-p
 sitten	Adp_Pr	sitten-x
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -2748,7 +2748,7 @@ toimivat	V_Prs_Act_Pl3	toimia-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:28" video="https://media.dipintra.it/?id=1047&start=04.18&end=04.29&collection=eptic3">
+<s id="1047:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.18&end=00.04.29">
 Ehm	FPAUSE	ehm
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -2773,7 +2773,7 @@ esteitä	N_Par_Pl	este-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:29" video="https://media.dipintra.it/?id=1047&start=04.29&end=04.37&collection=eptic3">
+<s id="1047:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.29&end=00.04.37">
 Ja	CC	ja-x
 EU	N_Nom_Sg	EU-n
 <g/>
@@ -2793,7 +2793,7 @@ taloustilanteessa	N_Ine_Sg	taloustilanne-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:30" video="https://media.dipintra.it/?id=1047&start=04.37&end=04.40&collection=eptic3">
+<s id="1047:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.37&end=00.04.40">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -2806,7 +2806,7 @@ säännöksiä	N_Par_Pl	säännös-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:31" video="https://media.dipintra.it/?id=1047&start=04.40&end=04.51&collection=eptic3">
+<s id="1047:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.40&end=00.04.51">
 Ehm	FPAUSE	ehm
 varjoesittelijöiden	N_Gen_Pl	varjoesittelijä-n
 kanssa	Adp_Po	kanssa-x
@@ -2838,7 +2838,7 @@ muutenkaan	Adv	muuten-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:32" video="https://media.dipintra.it/?id=1047&start=04.51&end=05.00&collection=eptic3">
+<s id="1047:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.04.51&end=00.05.00">
 Ehm	FPAUSE	ehm
 rakennusteollisuudenkin	N_Nom_Sg	rakennusteollisuudenkin-n
 kannalta	N_Abl_Sg	kanta-n
@@ -2862,7 +2862,7 @@ toteuttamaan	V_Inf3_Ill	toteuttaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1047:33" video="https://media.dipintra.it/?id=1047&start=05.00&end=05.14&collection=eptic3">
+<s id="1047:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1047.wmv&start=00.05.00&end=00.05.14">
 Nämä	Pron_Dem_Nom_Pl	nämä-p
 jatkon	N_Gen_Sg	jatko-n
 ehm	FPAUSE	ehm
@@ -2909,7 +2909,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="FI04" gender="M" native="NA">
-<s id="1049:1" video="https://media.dipintra.it/?id=1049&start=00.14&end=00.16&collection=eptic3">
+<s id="1049:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.14&end=00.00.16">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -2918,7 +2918,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:2" video="https://media.dipintra.it/?id=1049&start=00.16&end=00.19&collection=eptic3">
+<s id="1049:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.16&end=00.00.19">
 Ja	CC	ja-x
 kiitoksia	N_Par_Pl	kiitos-n
 Stihlerille	N_Gen_Pl	Stihlerille-n
@@ -2927,7 +2927,7 @@ työstä	N_Ela_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:3" video="https://media.dipintra.it/?id=1049&start=00.19&end=00.20&collection=eptic3">
+<s id="1049:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.19&end=00.00.20">
 Tie	N_Nom_Sg	Tie-n
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -2935,7 +2935,7 @@ pitkä	A_Nom_Sg	pitkä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:4" video="https://media.dipintra.it/?id=1049&start=00.20&end=00.25&collection=eptic3">
+<s id="1049:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.20&end=00.00.25">
 Euroopassa	N_Prop_Ine_Sg	Eurooppa-n
 rakennusteollisuus	N_Nom_Sg	rakennusteollisuus-n
 työllistää	V_Prs_Act_Sg3	työllistää-v
@@ -2946,7 +2946,7 @@ kansalaista	N_Par_Sg	kansalainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:5" video="https://media.dipintra.it/?id=1049&start=00.25&end=00.32&collection=eptic3">
+<s id="1049:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.25&end=00.00.32">
 Lisäksi	Adv	lisäksi-r
 noin	Adv	noin-r
 92	Num_Nom_Sg	@card@-m
@@ -2960,7 +2960,7 @@ pk-yrityksiä	N_Par_Pl	pk-yrityksiä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:6" video="https://media.dipintra.it/?id=1049&start=00.33&end=00.36&collection=eptic3">
+<s id="1049:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.33&end=00.00.36">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tarkoittaa	V_Prs_Act_Sg3	tarkoittaa-v
 yli	Adv	yli-r
@@ -2970,7 +2970,7 @@ yritystä	N_Par_Sg	yritys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:7" video="https://media.dipintra.it/?id=1049&start=00.37&end=00.40&collection=eptic3">
+<s id="1049:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.37&end=00.00.40">
 Rakennusala	N_Nom_Sg	rakennusala-n
 on	V_Prs_Act_Sg3	olla-v
 siis	Adv	siis-r
@@ -2981,7 +2981,7 @@ taloudelle	N_All_Sg	talous-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:8" video="https://media.dipintra.it/?id=1049&start=00.40&end=00.45&collection=eptic3">
+<s id="1049:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.40&end=00.00.45">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 vastuu	N_Nom_Sg	vastuu-n
@@ -2995,7 +2995,7 @@ olosuhteissa	N_Ine_Pl	olosuhde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:9" video="https://media.dipintra.it/?id=1049&start=00.46&end=00.55&collection=eptic3">
+<s id="1049:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.46&end=00.00.55">
 On	V_Prs_Act_Sg3	olla-v
 monia	Pron_Qnt_Par_Pl	moni-p
 aspekteja	N_Par_Pl	aspekti-n
@@ -3018,7 +3018,7 @@ luonne	N_Nom_Sg	luo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:10" video="https://media.dipintra.it/?id=1049&start=00.55&end=01.08&collection=eptic3">
+<s id="1049:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.00.55&end=00.01.08">
 Siinä	Pron_Dem_Ine_Sg	se-p
 suhteessa	N_Ine_Sg	suhde-n
 tämä	Pron_Dem_Nom_Sg	tämä-p
@@ -3049,7 +3049,7 @@ yritykset	N_Nom_Pl	yritys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:11" video="https://media.dipintra.it/?id=1049&start=01.08&end=01.14&collection=eptic3">
+<s id="1049:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.01.08&end=00.01.14">
 Ja	CC	ja-x
 sitten	Adp_Pr	sitten-x
 vaarallisista	A_Ela_Pl	vaarallinen-j
@@ -3068,7 +3068,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:12" video="https://media.dipintra.it/?id=1049&start=01.14&end=01.22&collection=eptic3">
+<s id="1049:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.01.14&end=00.01.22">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -3098,7 +3098,7 @@ n	N_Nom_Sg	n-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1049:13" video="https://media.dipintra.it/?id=1049&start=01.22&end=01.32&collection=eptic3">
+<s id="1049:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1049.wmv&start=00.01.22&end=00.01.32">
 Ja	CC	ja-x
 ehm	FPAUSE	ehm
 tukee	V_Prs_Act_Sg3	tukea-v
@@ -3134,7 +3134,7 @@ keskuudessa	Adp_Po	keskuudessa-x
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="FI04" gender="M" native="NA">
-<s id="1058:1" video="https://media.dipintra.it/?id=1058&start=00.09&end=00.11&collection=eptic3">
+<s id="1058:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.09&end=00.00.11">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -3143,7 +3143,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:2" video="https://media.dipintra.it/?id=1058&start=00.11&end=00.23&collection=eptic3">
+<s id="1058:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.11&end=00.00.23">
 Ja	CC	ja-x
 kun	CS	kun-x
 olen	V_Prs_Act_Sg1	olla-v
@@ -3173,7 +3173,7 @@ tehnyt	PrfPrc_Act_Nom_Sg	tehdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:3" video="https://media.dipintra.it/?id=1058&start=00.25&end=00.32&collection=eptic3">
+<s id="1058:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.25&end=00.00.32">
 Ja	CC	ja-x
 kun	CS	kun-x
 ottaa	V_Prs_Act_Sg3	ottaa-v
@@ -3201,7 +3201,7 @@ hyvin	Adv	hyvin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:4" video="https://media.dipintra.it/?id=1058&start=00.34&end=00.49&collection=eptic3">
+<s id="1058:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.34&end=00.00.49">
 Ja	CC	ja-x
 rouva	N_Nom_Sg	rouva-n
 puhemies	N_Nom_Sg	puhemies-n
@@ -3243,7 +3243,7 @@ kannasta	N_Ela_Sg	kanta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:5" video="https://media.dipintra.it/?id=1058&start=00.50&end=00.55&collection=eptic3">
+<s id="1058:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.50&end=00.00.55">
 Kuten	Adv	kuten-r
 edustaja	N_Nom_Sg	edustaja-n
 Rühle	N_Prop_Nom_Sg	Rühle-n
@@ -3261,7 +3261,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:6" video="https://media.dipintra.it/?id=1058&start=00.55&end=00.59&collection=eptic3">
+<s id="1058:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.55&end=00.00.59">
 Niiden	Pron_Dem_Gen_Pl	ne-p
 kirje	N_Nom_Sg	kirje-n
 on	V_Prs_Act_Sg3	olla-v
@@ -3275,7 +3275,7 @@ pöytäkirjassa	N_Ine_Sg	pöytäkirja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:7" video="https://media.dipintra.it/?id=1058&start=00.59&end=01.02&collection=eptic3">
+<s id="1058:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.00.59&end=00.01.02">
 Siinä	Pron_Dem_Ine_Sg	se-p
 käsitellään	V_Prs_Pass_Pe4	käsitellä-v
 asiaa	N_Par_Sg	asia-n
@@ -3283,7 +3283,7 @@ yksityiskohtaisimmin	Adv	yksityiskohtaisimmin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:8" video="https://media.dipintra.it/?id=1058&start=01.02&end=01.07&collection=eptic3">
+<s id="1058:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.01.02&end=00.01.07">
 Haluan	V_Prs_Act_Sg1	haluta-v
 vain	Adv	vain-r
 esittää	V_Inf1_Lat	esittää-v
@@ -3295,7 +3295,7 @@ vahvistamisesta	N_Ela_Sg	vahvistaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:9" video="https://media.dipintra.it/?id=1058&start=01.08&end=01.11&collection=eptic3">
+<s id="1058:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.01.08&end=00.01.11">
 Ensimmäinen	Num_Ord_Nom_Sg	ensimmäinen-m
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -3309,7 +3309,7 @@ jäsen	N_Nom_Sg	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:10" video="https://media.dipintra.it/?id=1058&start=01.11&end=01.19&collection=eptic3">
+<s id="1058:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.01.11&end=00.01.19">
 Ensinnäkin	Adv	Ensinnäkin-r
 kiitän	V_Prs_Act_Sg1	kiittää-v
 teitä	Pron_Pers_Par_Pl	te-p
@@ -3334,7 +3334,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:11" video="https://media.dipintra.it/?id=1058&start=01.19&end=01.32&collection=eptic3">
+<s id="1058:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.01.19&end=00.01.32">
 Kuten	Adv	kuten-r
 otitte	V_PrfPrc_Act_Pl2	ottaa-v
 esille	Adv	esille-r
@@ -3370,7 +3370,7 @@ vakavasti	Adv	vakavasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1058:12" video="https://media.dipintra.it/?id=1058&start=01.32&end=01.49&collection=eptic3">
+<s id="1058:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1058.wmv&start=00.01.32&end=00.01.49">
 Ja	CC	ja-x
 sitten	Adp_Pr	sitten-x
 toisekseen	Pron_Qnt_Tra_Sg	toinen-p
@@ -3412,7 +3412,7 @@ talouteen	N_Ill_Sg	talous-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="FI11" gender="F" native="NA">
-<s id="1066:1" video="https://media.dipintra.it/?id=1066&start=00.08&end=00.10&collection=eptic3">
+<s id="1066:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.00.08&end=00.00.10">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -3420,7 +3420,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:2" video="https://media.dipintra.it/?id=1066&start=00.10&end=00.17&collection=eptic3">
+<s id="1066:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.00.10&end=00.00.17">
 Kiitos	N_Nom_Sg	kiitos-n
 kaikille	Pron_Qnt_All_Pl	kaikki-p
 kollegoille	N_All_Pl	kollega-n
@@ -3437,7 +3437,7 @@ salissa	N_Ine_Sg	sali-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:3" video="https://media.dipintra.it/?id=1066&start=00.17&end=00.35&collection=eptic3">
+<s id="1066:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.00.17&end=00.00.35">
 Herra	N_Nom_Sg	Herra-n
 ehm	FPAUSE	ehm
 Tajanin	N_Prop_Gen_Sg	Tajanin-n
@@ -3467,7 +3467,7 @@ kannalta	N_Abl_Sg	kanta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:4" video="https://media.dipintra.it/?id=1066&start=00.35&end=00.51&collection=eptic3">
+<s id="1066:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.00.35&end=00.00.51">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 tietenkin	Adv	tietenkin-r
@@ -3511,7 +3511,7 @@ häviö	N_Nom_Sg	häviö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:5" video="https://media.dipintra.it/?id=1066&start=00.52&end=01.12&collection=eptic3">
+<s id="1066:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.00.52&end=00.01.12">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 keskustelussa	N_Ine_Sg	keskustelu-n
 on	V_Prs_Act_Sg3	olla-v
@@ -3557,7 +3557,7 @@ keskustelu	N_Nom_Sg	keskustelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:6" video="https://media.dipintra.it/?id=1066&start=01.12&end=01.16&collection=eptic3">
+<s id="1066:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.01.12&end=00.01.16">
 Ehm	FPAUSE	ehm
 komissaarihan	N_Nom_Sg	komissaari-n
 on	V_Prs_Act_Sg3	olla-v
@@ -3568,7 +3568,7 @@ tarjonnut	PrfPrc_Act_Nom_Sg	tarjota-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:7" video="https://media.dipintra.it/?id=1066&start=01.16&end=01.24&collection=eptic3">
+<s id="1066:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.01.16&end=00.01.24">
 Meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 ehm	FPAUSE	ehm
@@ -3588,7 +3588,7 @@ kyse	N_Nom_Sg	kyse-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:8" video="https://media.dipintra.it/?id=1066&start=01.24&end=01.29&collection=eptic3">
+<s id="1066:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.01.24&end=00.01.29">
 38	Num_Nom_Sg	@card@-m
 miljoonaa	Num_Par_Sg	miljoona-m
 työntekijää	N_Par_Sg	työntekijä-n
@@ -3600,7 +3600,7 @@ Euroopassa	N_Prop_Ine_Sg	Eurooppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:9" video="https://media.dipintra.it/?id=1066&start=01.29&end=01.31&collection=eptic3">
+<s id="1066:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.01.29&end=00.01.31">
 Joten	A_Reldv	joten-j
 kiitän	V_Prs_Act_Sg1	kiittää-v
 komissaaria	N_Par_Sg	komissaari-n
@@ -3610,7 +3610,7 @@ puheenjohtajaa	N_Par_Sg	puhejohtaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1066:10" video="https://media.dipintra.it/?id=1066&start=01.31&end=01.42&collection=eptic3">
+<s id="1066:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1066.wmv&start=00.01.31&end=00.01.42">
 Odotan	V_Prs_Act_Sg1	odottaa-v
 nyt	Adv	nyt-r
 näitä	Pron_Dem_Par_Pl	nämä-p
@@ -3657,7 +3657,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="FI04" gender="M" native="NA">
-<s id="1056:1" video="https://media.dipintra.it/?id=1056&start=00.19&end=00.27&collection=eptic3">
+<s id="1056:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.00.19&end=00.00.27">
 Kuten	Adv	kuten-r
 tiedätte	V_Prs_Act_Pl2	tietää-v
 <g/>
@@ -3673,7 +3673,7 @@ Saksassa	N_Ine_Sg	Saksa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:2" video="https://media.dipintra.it/?id=1056&start=00.27&end=00.36&collection=eptic3">
+<s id="1056:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.00.27&end=00.00.36">
 Komission	N_Gen_Sg	komissio-n
 yksiköt	N_Nom_Pl	yksikkö-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -3691,7 +3691,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:3" video="https://media.dipintra.it/?id=1056&start=00.36&end=00.46&collection=eptic3">
+<s id="1056:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.00.36&end=00.00.46">
 Olen	V_Prs_Act_Sg1	Ole-v
 jo	Adv	jo-r
 alkanut	PrfPrc_Act_Nom_Sg	alkaa-x
@@ -3714,7 +3714,7 @@ tehokkaammaksi	A_Tra_Sg	tehokas-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:4" video="https://media.dipintra.it/?id=1056&start=00.47&end=00.50&collection=eptic3">
+<s id="1056:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.00.47&end=00.00.50">
 Mutta	CC	Mutta-x
 haluaisin	V_Cond_Act_Sg1	haluta-v
 esitellä	V_Inf1_Lat	esitellä-v
@@ -3724,7 +3724,7 @@ tapauksesta	N_Ela_Sg	tapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:5" video="https://media.dipintra.it/?id=1056&start=00.51&end=01.03&collection=eptic3">
+<s id="1056:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.00.51&end=00.01.03">
 Asia	N_Nom_Sg	As-n
 tuli	V_PrfPrc_Act_Sg3	tulla-v
 esille	Adv	esille-r
@@ -3752,7 +3752,7 @@ laboratoriosta	N_Ela_Sg	laboratorio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:6" video="https://media.dipintra.it/?id=1056&start=01.04&end=01.11&collection=eptic3">
+<s id="1056:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.04&end=00.01.11">
 Näytteistä	N_Ela_Pl	näyte-n
 löydettiin	V_PrfPrc_Pass_Pe4	löytää-v
 se	Pron_Dem_Nom_Sg	se-p
@@ -3776,7 +3776,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:7" video="https://media.dipintra.it/?id=1056&start=01.13&end=01.29&collection=eptic3">
+<s id="1056:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.13&end=00.01.29">
 Marraskuun	N_Gen_Sg	marraskuu-n
 puolivälin	N_Gen_Sg	puoliväli-n
 ja	CC	ja-x
@@ -3806,7 +3806,7 @@ käyttöön	N_Ill_Sg	käyttö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:8" video="https://media.dipintra.it/?id=1056&start=01.30&end=01.35&collection=eptic3">
+<s id="1056:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.30&end=00.01.35">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 yhtiö	N_Nom_Sg	yhtiö-n
 samaan	Pron_Qnt_Ill_Sg	sama-p
@@ -3817,7 +3817,7 @@ rehuvalmistajaksi	N_Tra_Sg	rehuvalmistajaksi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:9" video="https://media.dipintra.it/?id=1056&start=01.36&end=01.44&collection=eptic3">
+<s id="1056:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.36&end=00.01.44">
 Ilmeisesti	Adv	ilmeisesti-r
 rehujen	N_Gen_Pl	rehu-n
 sekoittuminen	N_Nom_Sg	sekoittua-n
@@ -3837,7 +3837,7 @@ sekaisin	A_Nom_Sg	sekainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:10" video="https://media.dipintra.it/?id=1056&start=01.47&end=01.53&collection=eptic3">
+<s id="1056:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.47&end=00.01.53">
 Marraskuun	N_Gen_Sg	marraskuu-n
 toiselta	Pron_Qnt_Abl_Sg	toinen-p
 puoliväliltä	N_Abl_Sg	puoliväliltä-n
@@ -3850,7 +3850,7 @@ myöhemmin	Adv	myöhemmin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:11" video="https://media.dipintra.it/?id=1056&start=01.54&end=01.59&collection=eptic3">
+<s id="1056:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.54&end=00.01.59">
 Sitten	Adp_Pr	sitten-x
 ensimmäisellä	Num_Ord_Ade_Sg	ensimmäinen-m
 joulukuun	N_Gen_Sg	joulukuu-n
@@ -3862,7 +3862,7 @@ saastuneita	PrfPrc_Act_Par_Pl	saastua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:12" video="https://media.dipintra.it/?id=1056&start=01.59&end=02.11&collection=eptic3">
+<s id="1056:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.01.59&end=00.02.11">
 Kuitenkin	Adv	kuitenkin-r
 <g/>
 ...	EPAUSE	...-x
@@ -3887,7 +3887,7 @@ saastuneina	PrfPrc_Act_Ess_Pl	saastua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:13" video="https://media.dipintra.it/?id=1056&start=02.12&end=02.22&collection=eptic3">
+<s id="1056:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.12&end=00.02.22">
 Melkein	Adv	Melkki-r
 2	Num_Nom_Sg	2-m
 300	Num_Nom_Sg	@card@-m
@@ -3908,7 +3908,7 @@ saastuneina	PrfPrc_Act_Ess_Pl	saastua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:14" video="https://media.dipintra.it/?id=1056&start=02.22&end=02.25&collection=eptic3">
+<s id="1056:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.22&end=00.02.25">
 Saksan	N_Prop_Gen_Sg	Saksa-n
 ulkopuolella	N_Ade_Sg	ulkopuoli-n
 näitä	Pron_Dem_Par_Pl	nämä-p
@@ -3917,7 +3917,7 @@ esiintynyt	V_PrfPrc_Act_ConNeg_Sg	esiintyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:15" video="https://media.dipintra.it/?id=1056&start=02.27&end=02.41&collection=eptic3">
+<s id="1056:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.27&end=00.02.41">
 100	Num_Nom_Sg	@card@-m
 000-200	Num_Nom_Sg	@card@-m
 000	Num_Nom_Sg	@card@-m
@@ -3942,7 +3942,7 @@ Saksassa	N_Ine_Sg	Saksa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:16" video="https://media.dipintra.it/?id=1056&start=02.41&end=02.46&collection=eptic3">
+<s id="1056:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.41&end=00.02.46">
 Ennakkovarautumistoimenpiteenä	N_Ess_Sg	Ennakkovarautumistoimenpiteenä-n
 kaikki	Pron_Qnt_Nom	kaikki-p
 tilat	N_Nom_Pl	tila-n
@@ -3951,14 +3951,14 @@ tuotantokieltoon	N_Ill_Sg	tuotantokieltoon-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:17" video="https://media.dipintra.it/?id=1056&start=02.46&end=02.49&collection=eptic3">
+<s id="1056:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.46&end=00.02.49">
 Kaupalliset	A_Nom_Pl	kaupallinen-j
 toimet	N_Nom_Pl	toimi-n
 keskeytettiin	V_PrfPrc_Pass_Pe4	keskeyttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:18" video="https://media.dipintra.it/?id=1056&start=02.51&end=03.00&collection=eptic3">
+<s id="1056:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.02.51&end=00.03.00">
 Hautuvat	V_Prs_Act_Pl3	Hautuvat-v
 munat	N_Nom_Pl	muna-n
 <g/>
@@ -3976,7 +3976,7 @@ kyseenalaisina	A_Ess_Pl	kyseenalainen-j
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1056:19" video="https://media.dipintra.it/?id=1056&start=03.08&end=03.18&collection=eptic3">
+<s id="1056:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.08&end=00.03.18">
 Ehm	FPAUSE	ehm
 tiloilta	N_Abl_Pl	tila-n
 ei	V_Neg_Sg3	ei-v
@@ -3992,7 +3992,7 @@ minnekään	Adv	minnekään-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:20" video="https://media.dipintra.it/?id=1056&start=03.18&end=03.29&collection=eptic3">
+<s id="1056:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.18&end=00.03.29">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 varmistetaan	V_Prs_Pass_Pe4	varmistaa-v
 analyyttisellä	A_Ade_Sg	analyyttinen-j
@@ -4020,7 +4020,7 @@ yläpuolella	N_Ade_Sg	yläpuoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:21" video="https://media.dipintra.it/?id=1056&start=03.30&end=03.38&collection=eptic3">
+<s id="1056:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.30&end=00.03.38">
 4	Num_Nom_Sg	4-m
 800	Num_Nom_Sg	@card@-m
 <g/>
@@ -4039,7 +4039,7 @@ alla	Adv	alla-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:22" video="https://media.dipintra.it/?id=1056&start=03.39&end=03.48&collection=eptic3">
+<s id="1056:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.39&end=00.03.48">
 Näyttää	V_Prs_Act_Sg3	näyttää-v
 siltä	Pron_Dem_Abl_Sg	se-p
 <g/>
@@ -4061,7 +4061,7 @@ ottamatta	V_Inf3_Abe	ottaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:23" video="https://media.dipintra.it/?id=1056&start=03.48&end=03.54&collection=eptic3">
+<s id="1056:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.48&end=00.03.54">
 Analyyttiset	A_Nom_Pl	analyyttinen-j
 tulokset	N_Nom_Pl	tulos-n
 osoittivat	V_PrfPrc_Act_Pl3	osoittaa-v
@@ -4081,7 +4081,7 @@ mukaisia	A_Par_Pl	mukainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:24" video="https://media.dipintra.it/?id=1056&start=03.54&end=04.03&collection=eptic3">
+<s id="1056:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.03.54&end=00.04.03">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 esimerkki	N_Nom_Sg	esimerkki-n
@@ -4100,7 +4100,7 @@ suhteessa	N_Ine_Sg	suhde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:25" video="https://media.dipintra.it/?id=1056&start=04.05&end=04.26&collection=eptic3">
+<s id="1056:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.04.05&end=00.04.26">
 Onnekas	A_Nom_Sg	onnekas-j
 osatekijä	N_Nom_Sg	osatekijä-n
 tässä	Pron_Dem_Ine_Sg	tämä-p
@@ -4154,7 +4154,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:26" video="https://media.dipintra.it/?id=1056&start=04.27&end=04.30&collection=eptic3">
+<s id="1056:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.04.27&end=00.04.30">
 Mitä	Pron_Rel_Par	Mi-p
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -4165,7 +4165,7 @@ hoitamiseksi	N_Tra_Sg	hoitaminen-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1056:27" video="https://media.dipintra.it/?id=1056&start=04.30&end=04.51&collection=eptic3">
+<s id="1056:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.04.30&end=00.04.51">
 Minun	Pron_Pers_Gen_Sg	minä-p
 yksikköni	N_Gen_Sg	yksikkö-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -4197,7 +4197,7 @@ kauppakumppaneille	N_All_Pl	kauppakumppani-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:28" video="https://media.dipintra.it/?id=1056&start=04.52&end=05.03&collection=eptic3">
+<s id="1056:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.04.52&end=00.05.03">
 komission	N_Gen_Sg	komissio-n
 viranomaiset	N_Nom_Pl	virkaomainen-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -4224,7 +4224,7 @@ ruoassa	N_Ine_Sg	ruoka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:29" video="https://media.dipintra.it/?id=1056&start=05.03&end=05.18&collection=eptic3">
+<s id="1056:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.05.03&end=00.05.18">
 Olen	V_Prs_Act_Sg1	Ole-v
 hen	A_Nom_Sg	hen-j
 <g/>
@@ -4267,7 +4267,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:30" video="https://media.dipintra.it/?id=1056&start=05.21&end=05.43&collection=eptic3">
+<s id="1056:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.05.21&end=00.05.43">
 Tänään	Adv	tänään-r
 otin	V_PrfPrc_Act_Sg1	ottaa-v
 yhteyttä	N_Par_Sg	yhteys-n
@@ -4310,7 +4310,7 @@ yhdistelmärehusta	N_Ela_Sg	yhdistelmärehusta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:31" video="https://media.dipintra.it/?id=1056&start=05.44&end=05.49&collection=eptic3">
+<s id="1056:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.05.44&end=00.05.49">
 Useiden	A_Gen_Pl	usea-j
 satojen	Num_Gen_Pl	sato-m
 tilojen	N_Gen_Pl	tila-n
@@ -4322,7 +4322,7 @@ seurauksena	N_Ess_Sg	seuraus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:32" video="https://media.dipintra.it/?id=1056&start=05.49&end=05.55&collection=eptic3">
+<s id="1056:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.05.49&end=00.05.55">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 koskee	V_Prs_Act_Sg3	koskea-v
 hyvin	Adv	hyvin-r
@@ -4341,7 +4341,7 @@ rikkominen	N_Nom_Sg	rikkominen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:33" video="https://media.dipintra.it/?id=1056&start=05.55&end=06.05&collection=eptic3">
+<s id="1056:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.05.55&end=00.06.05">
 Haluan	V_Prs_Act_Sg1	haluta-v
 sanoa	V_Inf1_Lat	sanoa-v
 selkeästi	Adv	selkeästi-r
@@ -4373,7 +4373,7 @@ nopeasti	Adv	nopeasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:34" video="https://media.dipintra.it/?id=1056&start=06.06&end=06.17&collection=eptic3">
+<s id="1056:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.06&end=00.06.17">
 Minulle	Pron_Pers_All_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 kerrottu	PrfPrc_Pass_Nom_Sg	kertoa-x
@@ -4398,7 +4398,7 @@ nopeasti	Adv	nopeasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:35" video="https://media.dipintra.it/?id=1056&start=06.17&end=06.27&collection=eptic3">
+<s id="1056:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.17&end=00.06.27">
 On	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
 tärkeä	A_Nom_Sg	tärkeä-j
@@ -4419,7 +4419,7 @@ nopeasti	Adv	nopeasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:36" video="https://media.dipintra.it/?id=1056&start=06.28&end=06.43&collection=eptic3">
+<s id="1056:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.28&end=00.06.43">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 syystä	N_Ela_Sg	syy-n
 elin-	DYSF	elin-
@@ -4450,7 +4450,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:37" video="https://media.dipintra.it/?id=1056&start=06.44&end=06.49&collection=eptic3">
+<s id="1056:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.44&end=00.06.49">
 Saksan	N_Prop_Gen_Sg	Saksa-n
 viranomaiset	N_Nom_Pl	virkaomainen-n
 <g/>
@@ -4466,7 +4466,7 @@ vierailusta	N_Ela_Sg	vierailu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:38" video="https://media.dipintra.it/?id=1056&start=06.49&end=06.55&collection=eptic3">
+<s id="1056:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.49&end=00.06.55">
 vierailusopimus	N_Nom_Sg	vierailusopimus-n
 heille	Pron_Pers_All_Pl	he-p
 ja	CC	ja-x
@@ -4488,7 +4488,7 @@ yhteistyötä	N_Par_Sg	yhteistyö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:39" video="https://media.dipintra.it/?id=1056&start=06.56&end=06.59&collection=eptic3">
+<s id="1056:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.56&end=00.06.59">
 Lisätietona	N_Ess_Sg	lisätieto-n
 teille	Pron_Pers_All_Pl	te-p
 <g/>
@@ -4499,7 +4499,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:40" video="https://media.dipintra.it/?id=1056&start=06.59&end=07.07&collection=eptic3">
+<s id="1056:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.06.59&end=00.07.07">
 Keskustelemme	V_Prs_Act_Pl1	keskustella-v
 tästä	Pron_Dem_Ela_Sg	tämä-p
 tapauksesta	N_Ela_Sg	tapaus-n
@@ -4518,7 +4518,7 @@ tammikuuta	N_Par_Sg	tammikuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:41" video="https://media.dipintra.it/?id=1056&start=07.07&end=07.13&collection=eptic3">
+<s id="1056:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.07.07&end=00.07.13">
 Kuten	Adv	kuten-r
 olen	V_Prs_Act_Sg1	olla-v
 jo	Adv	jo-r
@@ -4535,7 +4535,7 @@ lainsäädäntötoimenpiteitä	N_Par_Pl	lakisäädäntötoimenpide-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:42" video="https://media.dipintra.it/?id=1056&start=07.13&end=07.45&collection=eptic3">
+<s id="1056:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.07.13&end=00.07.45">
 Tapahtuma	N_Nom_Sg	tapahtuma-n
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -4588,7 +4588,7 @@ teollisuuskäyttöön	N_Ill_Sg	teollisuuskäyttö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:43" video="https://media.dipintra.it/?id=1056&start=07.45&end=07.53&collection=eptic3">
+<s id="1056:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.07.45&end=00.07.53">
 Ja	CC	ja-x
 harkitsen	V_Prs_Act_Sg1	harkita-v
 sitä	Pron_Dem_Par_Sg	se-p
@@ -4609,7 +4609,7 @@ asialle	N_All_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1056:44" video="https://media.dipintra.it/?id=1056&start=07.53&end=08.03&collection=eptic3">
+<s id="1056:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1056.wmv&start=00.07.53&end=00.08.03">
 Olen	V_Prs_Act_Sg1	Ole-v
 luottavainen	A_Nom_Sg	luottavainen-j
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -4653,13 +4653,13 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="FI11" gender="F" native="NA">
-<s id="1067:1" video="https://media.dipintra.it/?id=1067&start=00.07&end=00.08&collection=eptic3">
+<s id="1067:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.07&end=00.00.08">
 Kiitos	N_Nom_Sg	kiitos-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:2" video="https://media.dipintra.it/?id=1067&start=00.09&end=00.17&collection=eptic3">
+<s id="1067:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.09&end=00.00.17">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 ensinnäkin	Adv	ensinnäkin-r
 sanoa	V_Inf1_Lat	sanoa-v
@@ -4677,7 +4677,7 @@ puolesta	Adp_Po	puolesta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:3" video="https://media.dipintra.it/?id=1067&start=00.17&end=00.36&collection=eptic3">
+<s id="1067:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.17&end=00.00.36">
 Ehm	FPAUSE	ehm
 tämmöinen	A_Nom_Sg	tämmöinen-j
 kokemus	N_Nom_Sg	kokemus-n
@@ -4725,7 +4725,7 @@ eniten	Adv	eniten-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:4" video="https://media.dipintra.it/?id=1067&start=00.36&end=00.39&collection=eptic3">
+<s id="1067:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.36&end=00.00.39">
 Täällä	Adv	täällä-r
 mainittiin	V_PrfPrc_Pass_Pe4	mainita-v
 jo	Adv	jo-r
@@ -4739,7 +4739,7 @@ toiminta	N_Nom_Sg	toiminta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:5" video="https://media.dipintra.it/?id=1067&start=00.39&end=00.43&collection=eptic3">
+<s id="1067:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.39&end=00.00.43">
 Ne	Pron_Dem_Nom_Pl	ne-p
 joilla	N_Ade_Pl	joki-n
 <g/>
@@ -4759,7 +4759,7 @@ rangaista	V_Inf1_Lat	rangaista-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:6" video="https://media.dipintra.it/?id=1067&start=00.44&end=00.46&collection=eptic3">
+<s id="1067:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.44&end=00.00.46">
 Ja	CC	ja-x
 miksi	Pron_Rel_Tra	mikä-p
 tällaiseen	A_Ill_Sg	tällainen-j
@@ -4767,7 +4767,7 @@ ryhdytään	V_Prs_Pass_Pe4	ryhtyä-v
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1067:7" video="https://media.dipintra.it/?id=1067&start=00.46&end=00.52&collection=eptic3">
+<s id="1067:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.46&end=00.00.52">
 Täytyy	V_Prs_Act_Sg3	täytyä-v
 kysyä	V_Inf1_Lat	kysyä-v
 ja	CC	ja-x
@@ -4795,7 +4795,7 @@ rahaa	N_Par_Sg	raha-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1067:8" video="https://media.dipintra.it/?id=1067&start=00.52&end=00.56&collection=eptic3">
+<s id="1067:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.52&end=00.00.56">
 Ja	CC	ja-x
 jos	CS	jos-x
 näin	Adv	näin-r
@@ -4811,7 +4811,7 @@ oikeuteen	N_Ill_Sg	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:9" video="https://media.dipintra.it/?id=1067&start=00.56&end=01.06&collection=eptic3">
+<s id="1067:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.00.56&end=00.01.06">
 Mutta	CC	Mutta-x
 ehm	FPAUSE	ehm
 tällaista	A_Par_Sg	tällainen-j
@@ -4835,7 +4835,7 @@ vastuussa	N_Ine_Sg	vastuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:10" video="https://media.dipintra.it/?id=1067&start=01.06&end=01.15&collection=eptic3">
+<s id="1067:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.01.06&end=00.01.15">
 Ja	CC	ja-x
 heitä	Pron_Pers_Par_Pl	he-p
 vastaan	Adp_Po	vastaan-x
@@ -4866,7 +4866,7 @@ palautettua	PrfPrc_Pass_Par_Sg	palauttaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:11" video="https://media.dipintra.it/?id=1067&start=01.15&end=01.24&collection=eptic3">
+<s id="1067:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.01.15&end=00.01.24">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 kyllä	Adv	kyllä-r
 hyvin	Adv	hyvin-r
@@ -4904,7 +4904,7 @@ uudelleen	Adv	uudelleen-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1067:12" video="https://media.dipintra.it/?id=1067&start=01.24&end=01.32&collection=eptic3">
+<s id="1067:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1067.wmv&start=00.01.24&end=00.01.32">
 Mutta	CC	Mutta-x
 meidän	Pron_Pers_Gen_Pl	me-p
 ehm	FPAUSE	ehm
@@ -4943,7 +4943,7 @@ olemassa	V_Inf3_Ine	olla-v
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="FI11" gender="F" native="NA">
-<s id="1075:1" video="https://media.dipintra.it/?id=1075&start=00.09&end=00.11&collection=eptic3">
+<s id="1075:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.09&end=00.00.11">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -4951,7 +4951,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:2" video="https://media.dipintra.it/?id=1075&start=00.11&end=00.15&collection=eptic3">
+<s id="1075:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.11&end=00.00.15">
 Niin	Adv	niin-r
 minä	Pron_Pers_Nom_Sg	minä-p
 olen	V_Prs_Act_Sg1	olla-v
@@ -4961,7 +4961,7 @@ saarelta	N_Abl_Sg	saari-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:3" video="https://media.dipintra.it/?id=1075&start=00.15&end=00.25&collection=eptic3">
+<s id="1075:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.15&end=00.00.25">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 dioksiinikontaminaatio	N_Nom_Sg	dioksiinikontaminaatio-n
 näyttää	V_Prs_Act_Sg3	näyttää-v
@@ -4986,7 +4986,7 @@ vaadittu	PrfPrc_Pass_Nom_Sg	vaatia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:4" video="https://media.dipintra.it/?id=1075&start=00.25&end=00.35&collection=eptic3">
+<s id="1075:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.25&end=00.00.35">
 Ja	CC	ja-x
 kun	CS	kun-x
 taas	Adv	taas-r
@@ -5006,7 +5006,7 @@ menetelmiä	N_Par_Pl	menetelmä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:5" video="https://media.dipintra.it/?id=1075&start=00.35&end=00.40&collection=eptic3">
+<s id="1075:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.35&end=00.00.40">
 Tätä	Pron_Dem_Par_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 voida	V_Prs_Pass_ConNeg	voida-v
@@ -5021,7 +5021,7 @@ lisälainsäädännöillä	N_Ade_Pl	lisälainsäädännöillä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:6" video="https://media.dipintra.it/?id=1075&start=00.40&end=00.45&collection=eptic3">
+<s id="1075:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.40&end=00.00.45">
 Saksalaiset	A_Prop_Nom_Pl	saksalainen-j
 ovat	V_Prs_Act_Pl3	olla-v
 tunnistaneet	PrfPrc_Act_Nom_Pl	tunnistaa-x
@@ -5037,7 +5037,7 @@ toimenpiteisiin	N_Ill_Pl	toimipide-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:7" video="https://media.dipintra.it/?id=1075&start=00.46&end=01.00&collection=eptic3">
+<s id="1075:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.00.46&end=00.01.00">
 Ehm	FPAUSE	ehm
 Britanniassa	N_Prop_Ine_Sg	Britannia-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5075,7 +5075,7 @@ meillä	Pron_Pers_Ade_Pl	me-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1075:8" video="https://media.dipintra.it/?id=1075&start=01.00&end=01.08&collection=eptic3">
+<s id="1075:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1075.wmv&start=00.01.00&end=00.01.08">
 Jos	CS	Jos-x
 joku	Pron_Qnt_Nom_Sg	joku-p
 <g/>
@@ -5108,7 +5108,7 @@ löytyy	V_Prs_Act_Sg3	löytyä-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="FI06" gender="F" native="NA">
-<s id="1076:1" video="https://media.dipintra.it/?id=1076&start=00.11&end=00.14&collection=eptic3">
+<s id="1076:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.00.11&end=00.00.14">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -5117,7 +5117,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1076:2" video="https://media.dipintra.it/?id=1076&start=00.15&end=00.30&collection=eptic3">
+<s id="1076:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.00.15&end=00.00.30">
 Joulukuun	N_Gen_Sg	joulukuu-n
 ehm	FPAUSE	ehm
 rehun	N_Gen_Sg	rehu-n
@@ -5143,7 +5143,7 @@ puutteita	N_Par_Pl	puute-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1076:3" video="https://media.dipintra.it/?id=1076&start=00.30&end=00.46&collection=eptic3">
+<s id="1076:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.00.30&end=00.00.46">
 On	V_Prs_Act_Sg3	olla-v
 todella	Adv	todella-r
 huolestuttavaa	PrsPrc_Act_Par_Sg	huolestua-x
@@ -5173,7 +5173,7 @@ elintarvikeketjuun	N_Ill_Sg	elintarvikeketju-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1076:4" video="https://media.dipintra.it/?id=1076&start=00.47&end=01.00&collection=eptic3">
+<s id="1076:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.00.47&end=00.01.00">
 On	V_Prs_Act_Sg3	olla-v
 tärkeä	A_Nom_Sg	tärkeä-j
 <g/>
@@ -5199,7 +5199,7 @@ suojeleminen	N_Nom_Sg	suojella-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1076:5" video="https://media.dipintra.it/?id=1076&start=01.00&end=01.03&collection=eptic3">
+<s id="1076:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.01.00&end=00.01.03">
 Siksi	Adv	siksi-r
 haluaisin	V_Cond_Act_Sg1	haluta-v
 esittää	V_Inf1_Lat	esittää-v
@@ -5209,7 +5209,7 @@ kysymystä	N_Par_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1076:6" video="https://media.dipintra.it/?id=1076&start=01.03&end=01.18&collection=eptic3">
+<s id="1076:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.01.03&end=00.01.18">
 Voiko	V_Prs_Act_Sg3	voida-v
 komissio	N_Nom_Sg	komissio-n
 nyt	Adv	nyt-r
@@ -5237,7 +5237,7 @@ elintarvikeketjuun	N_Ill_Sg	elintarvikeketju-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1076:7" video="https://media.dipintra.it/?id=1076&start=01.18&end=01.29&collection=eptic3">
+<s id="1076:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1076.wmv&start=00.01.18&end=00.01.29">
 Ja	CC	ja-x
 aikooko	V_Prs_Act_Sg3	aikoa-v
 komissio	N_Nom_Sg	komissio-n
@@ -5261,7 +5261,7 @@ kriiseissä	N_Ine_Pl	kriisi-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1077:1" video="https://media.dipintra.it/?id=1077&start=00.07&end=00.12&collection=eptic3">
+<s id="1077:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.07&end=00.00.12">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -5277,7 +5277,7 @@ ongelma	N_Nom_Sg	ongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:2" video="https://media.dipintra.it/?id=1077&start=00.13&end=00.18&collection=eptic3">
+<s id="1077:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.13&end=00.00.18">
 Mitähän	Pron_Interr_Par	Mi-p
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5293,7 +5293,7 @@ kriisin	N_Gen_Sg	kriisi-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1077:3" video="https://media.dipintra.it/?id=1077&start=00.18&end=00.28&collection=eptic3">
+<s id="1077:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.18&end=00.00.28">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 tarkka	A_Nom_Sg	tarkka-j
@@ -5312,14 +5312,14 @@ hygieniasääntöihin	N_Ill_Pl	hygieniasääntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:4" video="https://media.dipintra.it/?id=1077&start=00.28&end=00.30&collection=eptic3">
+<s id="1077:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.28&end=00.00.30">
 He	Pron_Pers_Nom_Pl	He-p
 haluavat	A_Nom_Pl	haluava-j
 ohjeita	N_Par_Pl	ohje-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:5" video="https://media.dipintra.it/?id=1077&start=00.30&end=00.34&collection=eptic3">
+<s id="1077:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.30&end=00.00.34">
 Ja	CC	ja-x
 voisitteko	V_Cond_Act_Pl2	voida-v
 nyt	Adv	nyt-r
@@ -5336,7 +5336,7 @@ pyytävät	V_Prs_Act_Pl3	pyytää-v
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1077:6" video="https://media.dipintra.it/?id=1077&start=00.34&end=00.35&collection=eptic3">
+<s id="1077:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.34&end=00.00.35">
 Sitten	Adp_Pr	sitten-x
 kolme	Num_Nom_Sg	kolme-m
 muuta	V_Prs_Act_ConNeg	muuttaa-v
@@ -5344,7 +5344,7 @@ asiaa	N_Par_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:7" video="https://media.dipintra.it/?id=1077&start=00.36&end=00.47&collection=eptic3">
+<s id="1077:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.36&end=00.00.47">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 pitää	V_Prs_Act_Sg3	pitää-v
 olla	V_Inf1_Lat	olla-v
@@ -5369,7 +5369,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:8" video="https://media.dipintra.it/?id=1077&start=00.47&end=00.55&collection=eptic3">
+<s id="1077:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.47&end=00.00.55">
 Ja	CC	ja-x
 vähintäänkin	Adv	vähä-r
 meillä	Pron_Pers_Ade_Pl	me-p
@@ -5391,7 +5391,7 @@ rehuksi	N_Tra_Sg	rehu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:9" video="https://media.dipintra.it/?id=1077&start=00.56&end=00.58&collection=eptic3">
+<s id="1077:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.56&end=00.00.58">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -5400,7 +5400,7 @@ rakettitiedettä	N_Par_Sg	rakettitiedettä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:10" video="https://media.dipintra.it/?id=1077&start=00.59&end=01.09&collection=eptic3">
+<s id="1077:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.00.59&end=00.01.09">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 pitää	V_Prs_Act_Sg3	pitää-v
 myöskin	Adv	myöskin-r
@@ -5437,7 +5437,7 @@ rahaa	N_Par_Sg	raha-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1077:11" video="https://media.dipintra.it/?id=1077&start=01.10&end=01.15&collection=eptic3">
+<s id="1077:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1077.wmv&start=00.01.10&end=00.01.15">
 Me-	DYSF	Me-
 ongelma	N_Nom_Sg	ongelma-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5461,7 +5461,7 @@ miljardeja	Num_Par_Pl	miljardi-m
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1078:1" video="https://media.dipintra.it/?id=1078&start=00.11&end=00.12&collection=eptic3">
+<s id="1078:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.11&end=00.00.12">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 ,	Punct	,-x
@@ -5469,7 +5469,7 @@ kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:2" video="https://media.dipintra.it/?id=1078&start=00.13&end=00.27&collection=eptic3">
+<s id="1078:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.13&end=00.00.27">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -5512,7 +5512,7 @@ tapahtumia	N_Par_Pl	tapahtuma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:3" video="https://media.dipintra.it/?id=1078&start=00.27&end=00.29&collection=eptic3">
+<s id="1078:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.27&end=00.00.29">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 herättää	V_Prs_Act_Sg3	herättää-v
 nyt	Adv	nyt-r
@@ -5521,7 +5521,7 @@ aiheita	N_Par_Pl	aihe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:4" video="https://media.dipintra.it/?id=1078&start=00.29&end=00.49&collection=eptic3">
+<s id="1078:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.29&end=00.00.49">
 Ensinnäkin	Adv	Ensinnäkin-r
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -5572,7 +5572,7 @@ prosessointiteollisuuteen	N_Ill_Sg	prosessointiteollisuuteen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:5" video="https://media.dipintra.it/?id=1078&start=00.49&end=00.59&collection=eptic3">
+<s id="1078:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.49&end=00.00.59">
 Saksan	N_Prop_Gen_Sg	Saksa-n
 viranomaiset	N_Nom_Pl	virkaomainen-n
 ja	CC	ja-x
@@ -5596,7 +5596,7 @@ oli	V_PrfPrc_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:6" video="https://media.dipintra.it/?id=1078&start=00.59&end=01.11&collection=eptic3">
+<s id="1078:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.00.59&end=00.01.11">
 Mutta	CC	Mutta-x
 siitä	Pron_Dem_Ela_Sg	se-p
 huolimatta	V_Inf3_Abe	huolia-v
@@ -5624,7 +5624,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1078:7" video="https://media.dipintra.it/?id=1078&start=01.11&end=01.15&collection=eptic3">
+<s id="1078:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1078.wmv&start=00.01.11&end=00.01.15">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 tehdä	V_Inf1_Lat	tehdä-v
@@ -5646,7 +5646,7 @@ rangaistustoimia	N_Par_Pl	rangaistustoimi-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1051:1" video="https://media.dipintra.it/?id=1051&start=00.10&end=00.13&collection=eptic3">
+<s id="1051:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.10&end=00.00.13">
 Herra	N_Nom_Sg	Herra-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -5659,7 +5659,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:2" video="https://media.dipintra.it/?id=1051&start=00.13&end=00.16&collection=eptic3">
+<s id="1051:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.13&end=00.00.16">
 Trooppiset	A_Nom_Pl	trooppinen-j
 sademetsät	N_Nom_Pl	sademetsä-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -5668,7 +5668,7 @@ arvokkaat	A_Nom_Pl	arvokas-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:3" video="https://media.dipintra.it/?id=1051&start=00.16&end=00.23&collection=eptic3">
+<s id="1051:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.16&end=00.00.23">
 Meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 katsoa	V_Inf1_Lat	katsoa-v
@@ -5695,7 +5695,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:4" video="https://media.dipintra.it/?id=1051&start=00.24&end=00.35&collection=eptic3">
+<s id="1051:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.24&end=00.00.35">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -5730,7 +5730,7 @@ hiiltä	N_Abl_Pl	hiki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:5" video="https://media.dipintra.it/?id=1051&start=00.35&end=00.43&collection=eptic3">
+<s id="1051:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.35&end=00.00.43">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 yksi	Num_Nom_Sg	yksi-m
@@ -5758,7 +5758,7 @@ ajan	Adp_Po	ajaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:6" video="https://media.dipintra.it/?id=1051&start=00.43&end=00.51&collection=eptic3">
+<s id="1051:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.43&end=00.00.51">
 Nämä	Pron_Dem_Nom_Pl	nämä-p
 kaksi	Num_Nom_Sg	kaksi-m
 maata	N_Par_Sg	maa-n
@@ -5790,7 +5790,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:7" video="https://media.dipintra.it/?id=1051&start=00.51&end=01.05&collection=eptic3">
+<s id="1051:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.00.51&end=00.01.05">
 Kuitenkin	Adv	kuitenkin-r
 se	Pron_Dem_Nom_Sg	se-p
 <g/>
@@ -5825,7 +5825,7 @@ tyytyväisiä	A_Par_Pl	tyytyväinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:8" video="https://media.dipintra.it/?id=1051&start=01.05&end=01.13&collection=eptic3">
+<s id="1051:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.05&end=00.01.13">
 Huolellinen	A_Nom_Sg	huolellinen-j
 hallinto	N_Nom_Sg	hallinto-n
 voi	V_Prs_Act_Sg3	voida-v
@@ -5844,7 +5844,7 @@ tuonti	N_Nom_Sg	tuonti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:9" video="https://media.dipintra.it/?id=1051&start=01.14&end=01.25&collection=eptic3">
+<s id="1051:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.14&end=00.01.25">
 Puutavara	N_Nom_Sg	puutavara-n
 <g/>
 ,	Punct	,-x
@@ -5881,7 +5881,7 @@ asiaan	N_Ill_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:10" video="https://media.dipintra.it/?id=1051&start=01.26&end=01.40&collection=eptic3">
+<s id="1051:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.26&end=00.01.40">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 asian	N_Gen_Sg	asia-n
 seuranta	N_Nom_Sg	seuranta-n
@@ -5929,7 +5929,7 @@ kuunnellaan	V_Prs_Pass_Pe4	kuunnella-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:11" video="https://media.dipintra.it/?id=1051&start=01.40&end=01.46&collection=eptic3">
+<s id="1051:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.40&end=00.01.46">
 Ja	CC	ja-x
 sen	Pron_Dem_Gen_Sg	se-p
 jälkeen	Adp_Po	jälkeen-x
@@ -5951,7 +5951,7 @@ katoavat	V_Prs_Act_Pl3	kadota-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:12" video="https://media.dipintra.it/?id=1051&start=01.46&end=01.54&collection=eptic3">
+<s id="1051:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.46&end=00.01.54">
 Se	Pron_Dem_Nom_Sg	se-p
 <g/>
 ,	Punct	,-x
@@ -5976,7 +5976,7 @@ tuotteita	N_Par_Pl	tuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:13" video="https://media.dipintra.it/?id=1051&start=01.54&end=02.11&collection=eptic3">
+<s id="1051:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.01.54&end=00.02.11">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 pitää	V_Inf1_Lat	pitää-v
@@ -6022,7 +6022,7 @@ vuosia	N_Par_Pl	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:14" video="https://media.dipintra.it/?id=1051&start=02.11&end=02.15&collection=eptic3">
+<s id="1051:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.11&end=00.02.15">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 myöskin	Adv	myöskin-r
@@ -6034,7 +6034,7 @@ yhteys	N_Nom_Sg	yhteys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:15" video="https://media.dipintra.it/?id=1051&start=02.15&end=02.22&collection=eptic3">
+<s id="1051:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.15&end=00.02.22">
 Samaan	Pron_Qnt_Ill_Sg	sama-p
 aikaan	N_Ill_Sg	aika-n
 meidän	Pron_Pers_Gen_Pl	me-p
@@ -6054,7 +6054,7 @@ maailmassa	N_Ine_Sg	maailma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:16" video="https://media.dipintra.it/?id=1051&start=02.22&end=02.29&collection=eptic3">
+<s id="1051:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.22&end=00.02.29">
 Sopimus	N_Nom_Sg	sopimus-n
 näistä	Pron_Dem_Ela_Pl	nämä-p
 tu-	DYSF	tu-
@@ -6077,14 +6077,14 @@ tuotteille	N_All_Pl	tuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:17" video="https://media.dipintra.it/?id=1051&start=02.29&end=02.30&collection=eptic3">
+<s id="1051:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.29&end=00.02.30">
 Se	Pron_Dem_Nom_Sg	se-p
 pitää	V_Prs_Act_Sg3	pitää-v
 hyväksyä	V_Inf1_Lat	hyväksyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:18" video="https://media.dipintra.it/?id=1051&start=02.30&end=02.35&collection=eptic3">
+<s id="1051:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.30&end=00.02.35">
 Kysymys	N_Nom_Sg	kysymys-n
 on	V_Prs_Act_Sg3	olla-v
 rajallisista	A_Ela_Pl	rajallinen-j
@@ -6107,7 +6107,7 @@ myymään	V_Inf3_Ill	myydä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:19" video="https://media.dipintra.it/?id=1051&start=02.35&end=02.38&collection=eptic3">
+<s id="1051:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.35&end=00.02.38">
 He	Pron_Pers_Nom_Pl	He-p
 ymmärtävät	V_Prs_Act_Pl3	ymmärtää-v
 mikä	Pron_Qnt_Nom_Sg	mikä-p
@@ -6120,7 +6120,7 @@ mekin	Pron_Pers_Nom_Pl	me-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:20" video="https://media.dipintra.it/?id=1051&start=02.38&end=02.43&collection=eptic3">
+<s id="1051:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.38&end=00.02.43">
 Nämä	Pron_Dem_Nom_Pl	nämä-p
 ihmiset	N_Nom_Pl	ihminen-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -6134,7 +6134,7 @@ pitää	V_Prs_Act_Sg3	pitää-v
 au-	DYSF	au-
 .	SENT	.-x
 </s>
-<s id="1051:21" video="https://media.dipintra.it/?id=1051&start=02.43&end=02.49&collection=eptic3">
+<s id="1051:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.43&end=00.02.49">
 Me	Pron_Pers_Nom_Pl	me-p
 tarvitsemme	V_Prs_Act_Pl1	tarvita-v
 heidän	Pron_Pers_Gen_Pl	he-p
@@ -6155,7 +6155,7 @@ huolenaiheita	N_Par_Pl	huoliaihe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:22" video="https://media.dipintra.it/?id=1051&start=02.49&end=02.55&collection=eptic3">
+<s id="1051:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.49&end=00.02.55">
 Kysymys	N_Nom_Sg	kysymys-n
 on	V_Prs_Act_Sg3	olla-v
 kaksisuuntaisesta	A_Ela_Sg	kaksisuuntainen-j
@@ -6174,7 +6174,7 @@ toimeen	N_Ill_Sg	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:23" video="https://media.dipintra.it/?id=1051&start=02.55&end=03.00&collection=eptic3">
+<s id="1051:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.02.55&end=00.03.00">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 sopimukset	N_Nom_Pl	sopimus-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -6196,7 +6196,7 @@ lle	N_Nom_Sg	lle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:24" video="https://media.dipintra.it/?id=1051&start=03.00&end=03.05&collection=eptic3">
+<s id="1051:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.03.00&end=00.03.05">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 huolehtia	V_Inf1_Lat	huolehtia-v
@@ -6218,7 +6218,7 @@ puututaan	V_Prs_Pass_Pe4	puuttua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:25" video="https://media.dipintra.it/?id=1051&start=03.05&end=03.14&collection=eptic3">
+<s id="1051:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.03.05&end=00.03.14">
 Sitten	Adp_Pr	sitten-x
 meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
@@ -6246,7 +6246,7 @@ pikaisesti	Adv	pikaisesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1051:26" video="https://media.dipintra.it/?id=1051&start=03.14&end=03.19&collection=eptic3">
+<s id="1051:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1051.wmv&start=00.03.14&end=00.03.19">
 Odotan	V_Prs_Act_Sg1	odottaa-v
 mielenkiinnolla	N_Ade_Sg	mielenkiinto-n
 yhteistyötä	N_Par_Sg	yhteistyö-n
@@ -6267,7 +6267,7 @@ saavuttamiseksi	N_Tra_Sg	saavuttaminen-n
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="FI06" gender="F" native="NA">
-<s id="1089:1" video="https://media.dipintra.it/?id=1089&start=00.06&end=00.08&collection=eptic3">
+<s id="1089:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.06&end=00.00.08">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -6275,7 +6275,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:2" video="https://media.dipintra.it/?id=1089&start=00.08&end=00.14&collection=eptic3">
+<s id="1089:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.08&end=00.00.14">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 aluksi	N_Tra_Sg	alku-n
 kiittää	V_Inf1_Lat	kiittää-v
@@ -6288,7 +6288,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:3" video="https://media.dipintra.it/?id=1089&start=00.14&end=00.21&collection=eptic3">
+<s id="1089:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.14&end=00.00.21">
 Me	Pron_Pers_Nom_Pl	me-p
 teimme	V_PrfPrc_Act_Pl1	tehdä-v
 erittäin	Adv	erittäin-r
@@ -6305,7 +6305,7 @@ yhteisymmärryksen	N_Gen_Sg	yhteisymmärrys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:4" video="https://media.dipintra.it/?id=1089&start=00.21&end=00.39&collection=eptic3">
+<s id="1089:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.21&end=00.00.39">
 Sopimukset	N_Nom_Pl	sopimus-n
 Kongon	N_Prop_Gen_Sg	Konko-n
 ja	CC	ja-x
@@ -6337,7 +6337,7 @@ tervetullutta	N_Par_Sg	tervetullutta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:5" video="https://media.dipintra.it/?id=1089&start=00.40&end=00.45&collection=eptic3">
+<s id="1089:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.40&end=00.00.45">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 mahdollisuus	N_Nom_Sg	mahdollisuus-n
@@ -6348,7 +6348,7 @@ puutavarakauppaa	N_Par_Sg	puutavarakauppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:6" video="https://media.dipintra.it/?id=1089&start=00.45&end=01.02&collection=eptic3">
+<s id="1089:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.00.45&end=00.01.02">
 Ehm	FPAUSE	ehm
 tällä	Pron_Dem_Ade_Sg	tämä-p
 tavoin	N_Ins_Pl	tapa-n
@@ -6382,7 +6382,7 @@ levinnyttä	PrfPrc_Act_Par_Sg	levitä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:7" video="https://media.dipintra.it/?id=1089&start=01.02&end=01.11&collection=eptic3">
+<s id="1089:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.01.02&end=00.01.11">
 Ehm	FPAUSE	ehm
 olen	V_Prs_Act_Sg1	olla-v
 iloinen	A_Nom_Sg	iloinen-j
@@ -6409,7 +6409,7 @@ iltana	N_Ess_Sg	ilta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:8" video="https://media.dipintra.it/?id=1089&start=01.11&end=01.38&collection=eptic3">
+<s id="1089:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.01.11&end=00.01.38">
 Ensinnäkin	N_Gen_Sg	Ensinnäkin-n
 ehm	FPAUSE	ehm
 vaarana	N_Ess_Sg	vaara-n
@@ -6449,7 +6449,7 @@ välttää	V_Inf1_Lat	välttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:9" video="https://media.dipintra.it/?id=1089&start=01.38&end=01.55&collection=eptic3">
+<s id="1089:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.01.38&end=00.01.55">
 Meidän	Pron_Pers_Gen_Pl	me-p
 tulisi	V_Cond_Act_Sg3	tulla-v
 ehm	FPAUSE	ehm
@@ -6477,7 +6477,7 @@ etenee	V_Prs_Act_Sg3	edetä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:10" video="https://media.dipintra.it/?id=1089&start=01.55&end=02.06&collection=eptic3">
+<s id="1089:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.01.55&end=00.02.06">
 Ehm	FPAUSE	ehm
 toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 alkuperäisväestö	N_Nom_Sg	alkuperäisväestö-n
@@ -6500,7 +6500,7 @@ sopimuksista	N_Ela_Pl	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:11" video="https://media.dipintra.it/?id=1089&start=02.06&end=02.26&collection=eptic3">
+<s id="1089:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.06&end=00.02.26">
 Kongon	N_Prop_Gen_Sg	Konko-n
 hallituksen	N_Gen_Sg	hallitus-n
 sopi-	DYSF	sopi-
@@ -6540,7 +6540,7 @@ Kongossa	N_Prop_Ine_Sg	Kongo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:12" video="https://media.dipintra.it/?id=1089&start=02.26&end=02.36&collection=eptic3">
+<s id="1089:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.26&end=00.02.36">
 Kolmanneksi	Num_Ord_Tra_Sg	kolmas-m
 meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -6569,7 +6569,7 @@ täytäntöön	Adv	täytäntöön-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:13" video="https://media.dipintra.it/?id=1089&start=02.36&end=02.39&collection=eptic3">
+<s id="1089:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.36&end=00.02.39">
 Ja	CC	ja-x
 on	V_Prs_Act_Sg3	olla-v
 ihan	Adv	ihan-r
@@ -6582,7 +6582,7 @@ paperilla	N_Ade_Sg	paperi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:14" video="https://media.dipintra.it/?id=1089&start=02.39&end=02.44&collection=eptic3">
+<s id="1089:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.39&end=00.02.44">
 Jos	CS	Jos-x
 meillä	Pron_Pers_Ade_Pl	me-p
 ei	V_Neg_Sg3	ei-v
@@ -6600,7 +6600,7 @@ arvoton	A_Nom_Sg	arvoton-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:15" video="https://media.dipintra.it/?id=1089&start=02.44&end=02.51&collection=eptic3">
+<s id="1089:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.44&end=00.02.51">
 Ja	CC	ja-x
 kuten	Adv	kuten-r
 on	V_Prs_Act_Sg3	olla-v
@@ -6621,7 +6621,7 @@ sopimukseen	N_Ill_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:16" video="https://media.dipintra.it/?id=1089&start=02.51&end=02.59&collection=eptic3">
+<s id="1089:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.51&end=00.02.59">
 Meidän	Pron_Pers_Gen_Pl	me-p
 <g/>
 ,	Punct	,-x
@@ -6644,7 +6644,7 @@ toimii	V_Prs_Act_Sg3	toimia-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:17" video="https://media.dipintra.it/?id=1089&start=02.59&end=03.09&collection=eptic3">
+<s id="1089:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.02.59&end=00.03.09">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tarkoittaa	V_Prs_Act_Sg3	tarkoittaa-v
 <g/>
@@ -6665,7 +6665,7 @@ Eurooppaan	N_Prop_Ill_Sg	Eurooppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:18" video="https://media.dipintra.it/?id=1089&start=03.09&end=03.20&collection=eptic3">
+<s id="1089:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.03.09&end=00.03.20">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 annettava	PrsPrc_Pass_Nom_Sg	antaa-x
@@ -6687,7 +6687,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:19" video="https://media.dipintra.it/?id=1089&start=03.20&end=03.28&collection=eptic3">
+<s id="1089:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.03.20&end=00.03.28">
 Joten	A_Reldv	joten-j
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -6710,7 +6710,7 @@ menestys	N_Nom_Sg	menestys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:20" video="https://media.dipintra.it/?id=1089&start=03.29&end=03.46&collection=eptic3">
+<s id="1089:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.03.29&end=00.03.46">
 Haluan	V_Prs_Act_Sg1	haluta-v
 toistaa	V_Inf1_Lat	toistaa-v
 <g/>
@@ -6754,7 +6754,7 @@ käytännössä	N_Ine_Sg	käytäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:21" video="https://media.dipintra.it/?id=1089&start=03.46&end=03.54&collection=eptic3">
+<s id="1089:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.03.46&end=00.03.54">
 Niiden	Pron_Dem_Gen_Pl	ne-p
 tulisi	V_Cond_Act_Sg3	tulla-v
 johtaa	V_Inf1_Lat	johtaa-v
@@ -6773,7 +6773,7 @@ hallinnointiin	N_Ill_Sg	hallinnointi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1089:22" video="https://media.dipintra.it/?id=1089&start=03.54&end=04.01&collection=eptic3">
+<s id="1089:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1089.wmv&start=00.03.54&end=00.04.01">
 Mutta	CC	Mutta-x
 jos	CS	jos-x
 niitä	Pron_Dem_Par_Pl	ne-p
@@ -6809,7 +6809,7 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1085:1" video="https://media.dipintra.it/?id=1085&start=00.07&end=00.12&collection=eptic3">
+<s id="1085:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.07&end=00.00.12">
 Niin	Adv	niin-r
 yleinen	A_Nom_Sg	yleinen-j
 lähestymistapa	N_Nom_Sg	lähestyminentapa-n
@@ -6820,7 +6820,7 @@ asiassa	N_Ine_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:2" video="https://media.dipintra.it/?id=1085&start=00.12&end=00.27&collection=eptic3">
+<s id="1085:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.12&end=00.00.27">
 On	V_Prs_Act_Sg3	olla-v
 hyvä	A_Nom_Sg	hyvä-j
 <g/>
@@ -6865,7 +6865,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:3" video="https://media.dipintra.it/?id=1085&start=00.27&end=00.33&collection=eptic3">
+<s id="1085:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.27&end=00.00.33">
 Niin	Adv	niin-r
 se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
@@ -6889,7 +6889,7 @@ hallitus	N_Nom_Sg	hallitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:4" video="https://media.dipintra.it/?id=1085&start=00.33&end=00.35&collection=eptic3">
+<s id="1085:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.33&end=00.00.35">
 Kamerun	N_Prop_Nom_Sg	Kamerun-n
 on	V_Prs_Act_Sg3	olla-v
 pitkälti	Adv	pitkälti-r
@@ -6899,7 +6899,7 @@ maa	N_Nom_Sg	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:5" video="https://media.dipintra.it/?id=1085&start=00.35&end=00.39&collection=eptic3">
+<s id="1085:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.35&end=00.00.39">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -6909,7 +6909,7 @@ korruptioindeksissä	N_Ine_Sg	korruptioindeksi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:6" video="https://media.dipintra.it/?id=1085&start=00.39&end=00.48&collection=eptic3">
+<s id="1085:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.39&end=00.00.48">
 Ja	CC	ja-x
 Kongon	N_Prop_Gen_Sg	Konko-n
 tasavallassa	N_Ine_Sg	tasavalta-n
@@ -6921,7 +6921,7 @@ riistotoimintaa	N_Par_Sg	riistotoimintaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:7" video="https://media.dipintra.it/?id=1085&start=00.48&end=00.54&collection=eptic3">
+<s id="1085:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.48&end=00.00.54">
 Nyt	Adv	nyt-r
 on	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
@@ -6941,7 +6941,7 @@ suojeluaan	N_Par_Sg	suojelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:8" video="https://media.dipintra.it/?id=1085&start=00.55&end=01.05&collection=eptic3">
+<s id="1085:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.00.55&end=00.01.05">
 Korruptio	N_Nom_Sg	korruptio-n
 ja	CC	ja-x
 työntekijöiden	N_Gen_Pl	työntekijä-n
@@ -6959,7 +6959,7 @@ toimeentuloon	N_Ill_Sg	toimeentulo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:9" video="https://media.dipintra.it/?id=1085&start=01.05&end=01.19&collection=eptic3">
+<s id="1085:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.05&end=00.01.19">
 Siksi	Adv	siksi-r
 koeryhmä	N_Nom_Sg	koeryhmä-n
 katsoo	V_Prs_Act_Sg3	katsoa-v
@@ -6986,7 +6986,7 @@ asema	N_Nom_Sg	asema-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:10" video="https://media.dipintra.it/?id=1085&start=01.20&end=01.25&collection=eptic3">
+<s id="1085:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.20&end=00.01.25">
 Ja	CC	ja-x
 laiton	A_Nom_Sg	laiton-j
 ehm	FPAUSE	ehm
@@ -7000,7 +7000,7 @@ tasoon	N_Ill_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:11" video="https://media.dipintra.it/?id=1085&start=01.25&end=01.29&collection=eptic3">
+<s id="1085:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.25&end=00.01.29">
 Se	Pron_Dem_Nom_Sg	se-p
 voi	V_Prs_Act_Sg3	voida-v
 olla	V_Inf1_Lat	olla-v
@@ -7017,7 +7017,7 @@ nälkää	N_Par_Sg	nälkä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:12" video="https://media.dipintra.it/?id=1085&start=01.29&end=01.39&collection=eptic3">
+<s id="1085:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.29&end=00.01.39">
 Joten	A_Reldv	joten-j
 laittoman	A_Gen_Sg	laiton-j
 metsän	N_Gen_Sg	metsä-n
@@ -7037,7 +7037,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:13" video="https://media.dipintra.it/?id=1085&start=01.40&end=01.50&collection=eptic3">
+<s id="1085:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.40&end=00.01.50">
 Tätä	Pron_Dem_Par_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 <g/>
@@ -7067,7 +7067,7 @@ aikaansaamiseksi	N_Tra_Sg	aikaansaada-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:14" video="https://media.dipintra.it/?id=1085&start=01.50&end=01.58&collection=eptic3">
+<s id="1085:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.50&end=00.01.58">
 Metsätyöntekijät	N_Nom_Pl	metsätyöntekijä-n
 ja	CC	ja-x
 alkuperäisväestöt	N_Nom_Pl	alkuperäisväestöt-n
@@ -7088,7 +7088,7 @@ omaisuudesta	N_Ela_Sg	omaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:15" video="https://media.dipintra.it/?id=1085&start=01.58&end=02.01&collection=eptic3">
+<s id="1085:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.01.58&end=00.02.01">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 koskee	V_Prs_Act_Sg3	koskea-v
 Etelä-Afrikan	N_Prop_Gen_Sg	Etelä-Afrikka-n
@@ -7096,7 +7096,7 @@ väestöä	N_Par_Sg	väestö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1085:16" video="https://media.dipintra.it/?id=1085&start=02.01&end=02.10&collection=eptic3">
+<s id="1085:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1085.wmv&start=00.02.01&end=00.02.10">
 He	Pron_Pers_Nom_Pl	He-p
 voivat	V_Prs_Act_Pl3	voida-v
 ottaa	V_Inf1_Lat	ottaa-v
@@ -7131,7 +7131,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1087:1" video="https://media.dipintra.it/?id=1087&start=00.07&end=00.11&collection=eptic3">
+<s id="1087:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.07&end=00.00.11">
 Nyt	Adv	nyt-r
 puhutaan	V_Prs_Pass_Pe4	puhua-v
 vapaaehtoisesta	A_Ela_Sg	vapaaehtoinen-j
@@ -7141,7 +7141,7 @@ kumppanuussopimuksesta	N_Ela_Sg	kumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:2" video="https://media.dipintra.it/?id=1087&start=00.11&end=00.23&collection=eptic3">
+<s id="1087:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.11&end=00.00.23">
 Ne	Pron_Dem_Nom_Pl	ne-p
 ovat	V_Prs_Act_Pl3	olla-v
 hienoja	A_Par_Pl	hieno-j
@@ -7174,7 +7174,7 @@ tavoitteisiin	N_Ill_Pl	tavoite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:3" video="https://media.dipintra.it/?id=1087&start=00.25&end=00.34&collection=eptic3">
+<s id="1087:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.25&end=00.00.34">
 Mutta	CC	Mutta-x
 käytännön	N_Gen_Sg	käytäntö-n
 tasolla	N_Ade_Sg	taso-n
@@ -7190,7 +7190,7 @@ haasteita	N_Par_Pl	haaste-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:4" video="https://media.dipintra.it/?id=1087&start=00.34&end=00.43&collection=eptic3">
+<s id="1087:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.34&end=00.00.43">
 Pelkästään	Adv	pelkästään-r
 tämän	Pron_Dem_Gen_Sg	tämä-p
 maan	N_Gen_Sg	maa-n
@@ -7212,14 +7212,14 @@ olematonta	A_Par_Sg	olematon-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:5" video="https://media.dipintra.it/?id=1087&start=00.43&end=00.46&collection=eptic3">
+<s id="1087:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.43&end=00.00.46">
 Korruptio	N_Nom_Sg	korruptio-n
 on	V_Prs_Act_Sg3	olla-v
 päätähuimaavaa	N_Par_Sg	päätähuimaavaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:6" video="https://media.dipintra.it/?id=1087&start=00.48&end=00.52&collection=eptic3">
+<s id="1087:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.48&end=00.00.52">
 Kongo	N_Prop_Nom_Sg	Kongo-n
 on	V_Prs_Act_Sg3	olla-v
 yksi	Num_Nom_Sg	yksi-m
@@ -7230,7 +7230,7 @@ maista	N_Ela_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:7" video="https://media.dipintra.it/?id=1087&start=00.52&end=00.57&collection=eptic3">
+<s id="1087:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.52&end=00.00.57">
 Ja	CC	ja-x
 kuinka	Adv	kuinka-r
 paljon	Adv	paljon-r
@@ -7245,14 +7245,14 @@ parissa	N_Ine_Sg	par-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1087:8" video="https://media.dipintra.it/?id=1087&start=00.57&end=01.00&collection=eptic3">
+<s id="1087:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.00.57&end=00.01.00">
 Vain	Adv	vain-r
 kourallinen	N_Nom_Sg	kourallinen-n
 ihmisiä	N_Par_Pl	ihminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:9" video="https://media.dipintra.it/?id=1087&start=01.00&end=01.07&collection=eptic3">
+<s id="1087:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.01.00&end=00.01.07">
 Sitten	Adp_Pr	sitten-x
 laittoman	A_Gen_Sg	laiton-j
 puukaupan	N_Gen_Sg	puukauppa-n
@@ -7271,7 +7271,7 @@ tilalle	N_All_Sg	tila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:10" video="https://media.dipintra.it/?id=1087&start=01.07&end=01.20&collection=eptic3">
+<s id="1087:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.01.07&end=00.01.20">
 Ja	CC	ja-x
 laittoman	A_Gen_Sg	laiton-j
 puun	N_Gen_Sg	puu-n
@@ -7298,7 +7298,7 @@ metsiä	N_Par_Pl	metsä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:11" video="https://media.dipintra.it/?id=1087&start=01.21&end=01.30&collection=eptic3">
+<s id="1087:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.01.21&end=00.01.30">
 Ja	CC	ja-x
 kaikki	Pron_Qnt_Nom	kaikki-p
 nämä	Pron_Dem_Nom_Pl	nämä-p
@@ -7329,7 +7329,7 @@ ongelmallista	A_Par_Sg	ongelmallinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1087:12" video="https://media.dipintra.it/?id=1087&start=01.30&end=01.47&collection=eptic3">
+<s id="1087:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1087.wmv&start=00.01.30&end=00.01.47">
 Eli	CC	Eli-x
 miten	Adv	miten-r
 <g/>
@@ -7393,7 +7393,7 @@ pyrimme	V_Prs_Act_Pl1	pyrkiä-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1086:1" video="https://media.dipintra.it/?id=1086&start=00.10&end=00.12&collection=eptic3">
+<s id="1086:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.10&end=00.00.12">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 ,	Punct	,-x
@@ -7402,7 +7402,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:2" video="https://media.dipintra.it/?id=1086&start=00.12&end=00.18&collection=eptic3">
+<s id="1086:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.12&end=00.00.18">
 Tietysti	Adv	tietysti-r
 keskustelu	N_Nom_Sg	keskustelu-n
 nyt	Adv	nyt-r
@@ -7420,7 +7420,7 @@ sopimuksiin	N_Ill_Pl	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:3" video="https://media.dipintra.it/?id=1086&start=00.18&end=00.31&collection=eptic3">
+<s id="1086:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.18&end=00.00.31">
 Jos	CS	Jos-x
 ajatellaan	V_Prs_Pass_Pe4	ajatella-v
 metsiä	N_Par_Pl	metsä-n
@@ -7449,7 +7449,7 @@ metsiin	N_Ill_Pl	metsä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:4" video="https://media.dipintra.it/?id=1086&start=00.32&end=00.42&collection=eptic3">
+<s id="1086:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.32&end=00.00.42">
 Eli	CC	Eli-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -7484,7 +7484,7 @@ käsittelemään	V_Inf3_Ill	käsitellä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:5" video="https://media.dipintra.it/?id=1086&start=00.44&end=00.48&collection=eptic3">
+<s id="1086:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.44&end=00.00.48">
 Sitten	Adp_Pr	sitten-x
 myöskin	Adv	myöskin-r
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -7495,7 +7495,7 @@ sitoutumiset	N_Nom_Pl	sitoutuminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:6" video="https://media.dipintra.it/?id=1086&start=00.48&end=00.56&collection=eptic3">
+<s id="1086:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.48&end=00.00.56">
 Joskus	Adv	joskus-r
 nämä	Pron_Dem_Nom_Pl	nämä-p
 maat	N_Nom_Pl	maa-n
@@ -7516,7 +7516,7 @@ historiaa	N_Par_Sg	historia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:7" video="https://media.dipintra.it/?id=1086&start=00.56&end=01.03&collection=eptic3">
+<s id="1086:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.00.56&end=00.01.03">
 Ne	Pron_Dem_Nom_Pl	ne-p
 itsenäistyivät	V_PrfPrc_Act_Pl3	itsenäistyä-v
 50	Num_Nom_Sg	@card@-m
@@ -7536,7 +7536,7 @@ itsenäistyneet	PrfPrc_Act_Nom_Pl	itsenäistyä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:8" video="https://media.dipintra.it/?id=1086&start=01.03&end=01.14&collection=eptic3">
+<s id="1086:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.03&end=00.01.14">
 Eli	CC	Eli-x
 vie	V_Prs_Act_Sg3	viedä-v
 aikaa	N_Par_Sg	aika-n
@@ -7559,7 +7559,7 @@ tiellä	N_Ade_Sg	tie-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:9" video="https://media.dipintra.it/?id=1086&start=01.16&end=01.21&collection=eptic3">
+<s id="1086:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.16&end=00.01.21">
 Jos	CS	Jos-x
 katsotaan	V_Prs_Pass_Pe4	katsoa-v
 nyt	Adv	nyt-r
@@ -7577,7 +7577,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:10" video="https://media.dipintra.it/?id=1086&start=01.22&end=01.25&collection=eptic3">
+<s id="1086:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.22&end=00.01.25">
 Eli	CC	Eli-x
 se	Pron_Dem_Nom_Sg	se-p
 tarkoittaa	V_Prs_Act_Sg3	tarkoittaa-v
@@ -7591,7 +7591,7 @@ vahvistumassa	V_Inf3_Ine	vahvistua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:11" video="https://media.dipintra.it/?id=1086&start=01.25&end=01.33&collection=eptic3">
+<s id="1086:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.25&end=00.01.33">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 nyt	Adv	nyt-r
@@ -7617,7 +7617,7 @@ merkkejä	N_Par_Pl	merkki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:12" video="https://media.dipintra.it/?id=1086&start=01.34&end=01.41&collection=eptic3">
+<s id="1086:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.34&end=00.01.41">
 Ja	CC	ja-x
 ainoa	Pron_Qnt_Nom_Sg	aino-p
 tapa	N_Nom_Sg	tapa-n
@@ -7639,7 +7639,7 @@ metsähallintoa	N_Par_Sg	metsähallinto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:13" video="https://media.dipintra.it/?id=1086&start=01.43&end=01.49&collection=eptic3">
+<s id="1086:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.43&end=00.01.49">
 Kongon	N_Prop_Gen_Sg	Konko-n
 ja	CC	ja-x
 Kamerunin	N_Prop_Gen_Sg	Kamerun-n
@@ -7655,7 +7655,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:14" video="https://media.dipintra.it/?id=1086&start=01.49&end=01.54&collection=eptic3">
+<s id="1086:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.49&end=00.01.54">
 No	Interj	no-i
 neuvotteluja	N_Par_Pl	neuvottelu-n
 käydään	V_Prs_Pass_Pe4	käydä-v
@@ -7671,7 +7671,7 @@ päätökseen	N_Tra_Sg	päätös-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:15" video="https://media.dipintra.it/?id=1086&start=01.55&end=01.58&collection=eptic3">
+<s id="1086:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.55&end=00.01.58">
 Eli	CC	Eli-x
 riskit	N_Nom_Pl	riski-n
 <g/>
@@ -7685,7 +7685,7 @@ pieniä	A_Par_Pl	pieni-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:16" video="https://media.dipintra.it/?id=1086&start=01.59&end=02.02&collection=eptic3">
+<s id="1086:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.01.59&end=00.02.02">
 Sitoumus	N_Nom_Sg	sitoumus-n
 on	V_Prs_Act_Sg3	olla-v
 se	Pron_Dem_Nom_Sg	se-p
@@ -7697,7 +7697,7 @@ lähteä	V_Inf1_Lat	lähteä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:17" video="https://media.dipintra.it/?id=1086&start=02.03&end=02.06&collection=eptic3">
+<s id="1086:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.03&end=00.02.06">
 Eli	CC	Eli-x
 minä	Pron_Pers_Nom_Sg	minä-p
 katsoisin	V_Cond_Act_Sg1	katsoa-v
@@ -7709,7 +7709,7 @@ valossa	N_Ine_Sg	valo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:18" video="https://media.dipintra.it/?id=1086&start=02.07&end=02.12&collection=eptic3">
+<s id="1086:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.07&end=00.02.12">
 Ja	CC	ja-x
 meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
@@ -7720,7 +7720,7 @@ torjumista	N_Par_Sg	torjuminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:19" video="https://media.dipintra.it/?id=1086&start=02.12&end=02.18&collection=eptic3">
+<s id="1086:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.12&end=00.02.18">
 Cancúnissa	N_Prop_Ine_Sg	Cancún-n
 saimme	V_PrfPrc_Act_Pl1	saada-v
 sitoumuksia	N_Par_Pl	sitoumus-n
@@ -7734,7 +7734,7 @@ vakavasti	Adv	vakavasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:20" video="https://media.dipintra.it/?id=1086&start=02.18&end=02.22&collection=eptic3">
+<s id="1086:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.18&end=00.02.22">
 Ainoastaan	Adv	Ainoa-r
 me	Pron_Pers_Nom_Pl	me-p
 emme	V_Neg_Pl1	ei-v
@@ -7750,7 +7750,7 @@ oikeudenmukainen	A_Nom_Sg	oikeusmukainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:21" video="https://media.dipintra.it/?id=1086&start=02.22&end=02.25&collection=eptic3">
+<s id="1086:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.22&end=00.02.25">
 Myöskin	Adv	myöskin-r
 muut	Pron_Qnt_Nom_Pl	muu-p
 osat	N_Nom_Pl	osa-n
@@ -7760,7 +7760,7 @@ oppineet	PrfPrc_Act_Nom_Pl	oppia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:22" video="https://media.dipintra.it/?id=1086&start=02.25&end=02.28&collection=eptic3">
+<s id="1086:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.25&end=00.02.28">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 kun	CS	kun-x
 ajatellaan	V_Prs_Pass_Pe4	ajatella-v
@@ -7770,7 +7770,7 @@ energiatehokkuus	N_Nom_Sg	energiatehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:23" video="https://media.dipintra.it/?id=1086&start=02.29&end=02.33&collection=eptic3">
+<s id="1086:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.29&end=00.02.33">
 Se	Pron_Dem_Nom_Sg	se-p
 lähti	V_PrfPrc_Act_Sg3	lähteä-v
 täältä	Adv	täältä-r
@@ -7787,14 +7787,14 @@ kysymyksissä	N_Ine_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:24" video="https://media.dipintra.it/?id=1086&start=02.33&end=02.36&collection=eptic3">
+<s id="1086:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.33&end=00.02.36">
 Ja	CC	ja-x
 samoin	Adv	samoin-r
 resurssitehokkuus	N_Nom_Sg	resurssitehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:25" video="https://media.dipintra.it/?id=1086&start=02.36&end=02.40&collection=eptic3">
+<s id="1086:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.36&end=00.02.40">
 Jos	CS	Jos-x
 käytettäisiin	V_Cond_Pass_Pe4	käyttää-v
 vähemmän	Adv	vähemmän-r
@@ -7812,7 +7812,7 @@ tästä	Pron_Dem_Ela_Sg	tämä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:26" video="https://media.dipintra.it/?id=1086&start=02.40&end=02.43&collection=eptic3">
+<s id="1086:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.40&end=00.02.43">
 Eli	CC	Eli-x
 monin	Pron_Qnt_Ins_Pl	moni-p
 tavoin	N_Ins_Pl	tapa-n
@@ -7822,7 +7822,7 @@ johtoasemassa	N_Ine_Sg	johtoasema-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:27" video="https://media.dipintra.it/?id=1086&start=02.43&end=02.52&collection=eptic3">
+<s id="1086:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.43&end=00.02.52">
 Ja	CC	ja-x
 sitten	Adp_Pr	sitten-x
 lopuksi	N_Tra_Sg	loppu-n
@@ -7850,7 +7850,7 @@ käytössämme	N_Ine_Sg	käyttö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:28" video="https://media.dipintra.it/?id=1086&start=02.52&end=02.57&collection=eptic3">
+<s id="1086:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.52&end=00.02.57">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 EU	N_Nom_Sg	EU-n
@@ -7866,7 +7866,7 @@ valtuuskuntia	N_Par_Pl	valtuuskunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:29" video="https://media.dipintra.it/?id=1086&start=02.58&end=03.02&collection=eptic3">
+<s id="1086:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.02.58&end=00.03.02">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 vastuu	N_Nom_Sg	vastuu-n
@@ -7881,7 +7881,7 @@ jäsenvaltiolle	N_All_Sg	jäsenvaltio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:30" video="https://media.dipintra.it/?id=1086&start=03.02&end=03.10&collection=eptic3">
+<s id="1086:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.03.02&end=00.03.10">
 Ja	CC	ja-x
 monissa	Pron_Qnt_Ine_Pl	moni-p
 tapauksissa	N_Ine_Pl	tapaus-n
@@ -7899,7 +7899,7 @@ solmittua	PrfPrc_Pass_Par_Sg	solmia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:31" video="https://media.dipintra.it/?id=1086&start=03.12&end=03.16&collection=eptic3">
+<s id="1086:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.03.12&end=00.03.16">
 Me	Pron_Pers_Nom_Pl	me-p
 haluamme	V_Prs_Act_Pl1	haluta-v
 edetä	V_Inf1_Lat	edetä-v
@@ -7919,7 +7919,7 @@ prosessi	N_Nom_Sg	prosessi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1086:32" video="https://media.dipintra.it/?id=1086&start=03.16&end=03.25&collection=eptic3">
+<s id="1086:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1086.wmv&start=00.03.16&end=00.03.25">
 Se	Pron_Dem_Nom_Sg	se-p
 menee	V_Prs_Act_Sg3	mennä-v
 oikeaan	A_Ill_Sg	oikea-j
@@ -7952,7 +7952,7 @@ tänään	Adv	tänään-r
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1088:1" video="https://media.dipintra.it/?id=1088&start=00.09&end=00.11&collection=eptic3">
+<s id="1088:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.09&end=00.00.11">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -7960,14 +7960,14 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:2" video="https://media.dipintra.it/?id=1088&start=00.11&end=00.12&collection=eptic3">
+<s id="1088:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.11&end=00.00.12">
 Puhun	V_Prs_Act_Sg1	puhua-v
 ihan	Adv	ihan-r
 lyhyesti	Adv	lyhyesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:3" video="https://media.dipintra.it/?id=1088&start=00.14&end=00.18&collection=eptic3">
+<s id="1088:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.14&end=00.00.18">
 Olen	V_Prs_Act_Sg1	Ole-v
 täysin	Adv	täysin-r
 samaa	Pron_Qnt_Par_Sg	sama-p
@@ -7980,7 +7980,7 @@ aiheesta	N_Ela_Sg	aihe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:4" video="https://media.dipintra.it/?id=1088&start=00.19&end=00.32&collection=eptic3">
+<s id="1088:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.19&end=00.00.32">
 Ensinnäkin	Adv	Ensinnäkin-r
 toistan	V_Prs_Act_Sg1	toistaa-v
 nyt	Adv	nyt-r
@@ -8020,7 +8020,7 @@ se	Pron_Dem_Nom_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:5" video="https://media.dipintra.it/?id=1088&start=00.32&end=00.44&collection=eptic3">
+<s id="1088:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.32&end=00.00.44">
 Kyseessä	N_Ine_Sg	kyse-n
 on	V_Prs_Act_Sg3	olla-v
 siis	Adv	siis-r
@@ -8056,7 +8056,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:6" video="https://media.dipintra.it/?id=1088&start=00.44&end=00.52&collection=eptic3">
+<s id="1088:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.44&end=00.00.52">
 Mutta	CC	Mutta-x
 meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -8081,13 +8081,13 @@ jatkuvat	V_Prs_Act_Pl3	jatkua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:7" video="https://media.dipintra.it/?id=1088&start=00.52&end=00.54&collection=eptic3">
+<s id="1088:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.52&end=00.00.54">
 Sitten	Adp_Pr	sitten-x
 kalastuksesta	N_Ela_Sg	kalastus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:8" video="https://media.dipintra.it/?id=1088&start=00.54&end=00.58&collection=eptic3">
+<s id="1088:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.54&end=00.00.58">
 Komissio	N_Nom_Sg	komissio-n
 teki	V_PrfPrc_Act_Sg3	tehdä-v
 selväksi	A_Tra_Sg	selvä-j
@@ -8100,7 +8100,7 @@ poikkeus	N_Nom_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:9" video="https://media.dipintra.it/?id=1088&start=00.58&end=01.00&collection=eptic3">
+<s id="1088:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.00.58&end=00.01.00">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 ainoa	Pron_Qnt_Nom_Sg	aino-p
@@ -8108,7 +8108,7 @@ poikkeus	N_Nom_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:10" video="https://media.dipintra.it/?id=1088&start=01.00&end=01.04&collection=eptic3">
+<s id="1088:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.00&end=00.01.04">
 Ei	V_Neg_Sg3	ei-v
 puhuta	V_Prs_Pass_ConNeg	puhua-v
 nyt	Adv	nyt-r
@@ -8125,7 +8125,7 @@ poikkeuksen	N_Gen_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:11" video="https://media.dipintra.it/?id=1088&start=01.04&end=01.07&collection=eptic3">
+<s id="1088:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.04&end=00.01.07">
 Miksi	Pron_Rel_Tra	Mi-p
 anomme	V_Prs_Act_Pl1	anoa-v
 nyt	Adv	nyt-r
@@ -8134,7 +8134,7 @@ Papua-Uusi-Guinealle	NON-TWOL	Papua-Uusi-Guinealle-x
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1088:12" video="https://media.dipintra.it/?id=1088&start=01.07&end=01.12&collection=eptic3">
+<s id="1088:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.07&end=00.01.12">
 No	Interj	no-i
 voin	V_Prs_Act_Sg1	voida-v
 kertoa	V_Inf1_Lat	kertoa-v
@@ -8154,7 +8154,7 @@ maailmaa	N_Par_Sg	maailma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:13" video="https://media.dipintra.it/?id=1088&start=01.15&end=01.23&collection=eptic3">
+<s id="1088:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.15&end=00.01.23">
 Ja	CC	ja-x
 todennäköisyys	N_Nom_Sg	todennäköisyys-n
 <g/>
@@ -8185,7 +8185,7 @@ tehdä	V_Inf1_Lat	tehdä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:14" video="https://media.dipintra.it/?id=1088&start=01.23&end=01.28&collection=eptic3">
+<s id="1088:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.23&end=00.01.28">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -8200,7 +8200,7 @@ vesillä	N_Ade_Pl	vesi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:15" video="https://media.dipintra.it/?id=1088&start=01.28&end=01.37&collection=eptic3">
+<s id="1088:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.28&end=00.01.37">
 Ja	CC	ja-x
 kuten	Adv	kuten-r
 on	V_Prs_Act_Sg3	olla-v
@@ -8221,7 +8221,7 @@ sitä	Pron_Dem_Par_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:16" video="https://media.dipintra.it/?id=1088&start=01.37&end=01.54&collection=eptic3">
+<s id="1088:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.37&end=00.01.54">
 Mutta	CC	Mutta-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -8262,7 +8262,7 @@ kehitystä	N_Par_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:17" video="https://media.dipintra.it/?id=1088&start=01.55&end=02.09&collection=eptic3">
+<s id="1088:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.01.55&end=00.02.09">
 Näin	Adv	näin-r
 voimme	V_Prs_Act_Pl1	voida-v
 luoda	V_Inf1_Lat	luoda-v
@@ -8293,7 +8293,7 @@ kysymyksissä	N_Ine_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:18" video="https://media.dipintra.it/?id=1088&start=02.09&end=02.19&collection=eptic3">
+<s id="1088:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.09&end=00.02.19">
 Komissio	N_Nom_Sg	komissio-n
 sanoi	V_PrfPrc_Act_Sg3	sanoa-v
 <g/>
@@ -8320,7 +8320,7 @@ kalastukseen	N_Ill_Sg	kalastus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:19" video="https://media.dipintra.it/?id=1088&start=02.20&end=02.24&collection=eptic3">
+<s id="1088:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.20&end=00.02.24">
 Tähän	Pron_Dem_Ill_Sg	tämä-p
 liittyy	V_Prs_Act_Sg3	liittyä-v
 myöskin	Adv	myöskin-r
@@ -8334,7 +8334,7 @@ keskeisiä	A_Par_Pl	keskeinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:20" video="https://media.dipintra.it/?id=1088&start=02.24&end=02.30&collection=eptic3">
+<s id="1088:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.24&end=00.02.30">
 Ja	CC	ja-x
 Papua-Uusi-Guineassa	NON-TWOL	Papua-Uusi-Guinea-x
 on	V_Prs_Act_Sg3	olla-v
@@ -8353,7 +8353,7 @@ työpaikkoja	N_Par_Pl	työpaikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:21" video="https://media.dipintra.it/?id=1088&start=02.30&end=02.44&collection=eptic3">
+<s id="1088:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.30&end=00.02.44">
 Ja	CC	ja-x
 jos	CS	jos-x
 yhtäkkiä	Adv	yhtäkkiä-r
@@ -8387,7 +8387,7 @@ toimiin	N_Ill_Pl	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:22" video="https://media.dipintra.it/?id=1088&start=02.44&end=02.48&collection=eptic3">
+<s id="1088:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.44&end=00.02.48">
 Mutta	CC	Mutta-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -8397,7 +8397,7 @@ puolestaan	N_Ela_Sg	puoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:23" video="https://media.dipintra.it/?id=1088&start=02.48&end=02.54&collection=eptic3">
+<s id="1088:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.48&end=00.02.54">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 sopimus	N_Nom_Sg	sopimus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -8416,7 +8416,7 @@ tonnikalateollisuudelle	N_All_Sg	tonnikalateollisuudelle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:24" video="https://media.dipintra.it/?id=1088&start=02.55&end=03.04&collection=eptic3">
+<s id="1088:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.02.55&end=00.03.04">
 Esittelijänä	N_Ess_Sg	esittelijä-n
 tapasin	V_PrfPrc_Act_Sg1	tavata-v
 Espanjan	N_Prop_Gen_Sg	Espanja-n
@@ -8437,7 +8437,7 @@ ole	V_Prs_Act_ConNeg	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:25" video="https://media.dipintra.it/?id=1088&start=03.04&end=03.09&collection=eptic3">
+<s id="1088:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.03.04&end=00.03.09">
 Ja	CC	ja-x
 Fraga	NON-TWOL	Fraga-x
 <g/>
@@ -8454,7 +8454,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1088:26" video="https://media.dipintra.it/?id=1088&start=03.09&end=03.21&collection=eptic3">
+<s id="1088:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1088.wmv&start=00.03.09&end=00.03.21">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 mitään	Pron_Qnt_Par_Sg	mikään-p
@@ -8495,7 +8495,7 @@ maalla	N_Ade_Sg	maa-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1096:1" video="https://media.dipintra.it/?id=1096&start=00.10&end=00.12&collection=eptic3">
+<s id="1096:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.00.10&end=00.00.12">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 ,	Punct	,-x
@@ -8504,7 +8504,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:2" video="https://media.dipintra.it/?id=1096&start=00.12&end=00.27&collection=eptic3">
+<s id="1096:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.00.12&end=00.00.27">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 kiittää	V_Inf1_Lat	kiittää-v
 esittelijää	N_Par_Sg	esittelijä-n
@@ -8541,7 +8541,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:3" video="https://media.dipintra.it/?id=1096&start=00.27&end=00.32&collection=eptic3">
+<s id="1096:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.00.27&end=00.00.32">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 toivon	V_Prs_Act_Sg1	toivoa-v
 <g/>
@@ -8555,14 +8555,14 @@ neuvoaan	N_Par_Sg	neuvo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:4" video="https://media.dipintra.it/?id=1096&start=00.33&end=00.35&collection=eptic3">
+<s id="1096:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.00.33&end=00.00.35">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 parlamenttiin	N_Ill_Sg	parlamentti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:5" video="https://media.dipintra.it/?id=1096&start=00.35&end=01.00&collection=eptic3">
+<s id="1096:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.00.35&end=00.01.00">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 ensimmäinen	Num_Ord_Nom_Sg	ensimmäinen-m
@@ -8611,7 +8611,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:6" video="https://media.dipintra.it/?id=1096&start=01.00&end=01.19&collection=eptic3">
+<s id="1096:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.00&end=00.01.19">
 Näiden	Pron_Dem_Gen_Pl	nämä-p
 sopimusten	N_Gen_Pl	sopimus-n
 tarkoituksena	N_Ess_Sg	tarkoitus-n
@@ -8647,7 +8647,7 @@ päättymistä	N_Par_Sg	päättyminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:7" video="https://media.dipintra.it/?id=1096&start=01.20&end=01.28&collection=eptic3">
+<s id="1096:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.20&end=00.01.28">
 Komissio	N_Nom_Sg	komissio-n
 kävi	V_PrfPrc_Act_Sg3	käydä-v
 neuvotteluja	N_Par_Pl	neuvottelu-n
@@ -8667,7 +8667,7 @@ muuttunut	PrfPrc_Act_Nom_Sg	muuttua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:8" video="https://media.dipintra.it/?id=1096&start=01.28&end=01.33&collection=eptic3">
+<s id="1096:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.28&end=00.01.33">
 Ja	CC	ja-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -8680,7 +8680,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:9" video="https://media.dipintra.it/?id=1096&start=01.33&end=01.43&collection=eptic3">
+<s id="1096:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.33&end=00.01.43">
 Vii-	DYSF	Vii-
 me	Pron_Pers_Nom_Pl	me-p
 voimme	V_Prs_Act_Pl1	voida-v
@@ -8707,7 +8707,7 @@ mukaisesti	Adp_Po	mukaisesti-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:10" video="https://media.dipintra.it/?id=1096&start=01.43&end=01.51&collection=eptic3">
+<s id="1096:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.43&end=00.01.51">
 Me	Pron_Pers_Nom_Pl	me-p
 keskustelemme	V_Prs_Act_Pl1	keskustella-v
 pienistä	A_Ela_Pl	pieni-j
@@ -8724,7 +8724,7 @@ toisistaan	Pron_Qnt_Ela_Pl	toinen-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:11" video="https://media.dipintra.it/?id=1096&start=01.51&end=01.56&collection=eptic3">
+<s id="1096:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.51&end=00.01.56">
 Niissä	Pron_Dem_Ine_Pl	ne-p
 on	V_Prs_Act_Sg3	olla-v
 erilaiset	A_Nom_Pl	erilainen-j
@@ -8743,7 +8743,7 @@ erilaisia	A_Par_Pl	erilainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:12" video="https://media.dipintra.it/?id=1096&start=01.56&end=02.04&collection=eptic3">
+<s id="1096:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.01.56&end=00.02.04">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 niistä	Pron_Dem_Ela_Pl	ne-p
 ovat	V_Prs_Act_Pl3	olla-v
@@ -8768,7 +8768,7 @@ kauppamääräykset	N_Nom_Pl	kauppamääräys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:13" video="https://media.dipintra.it/?id=1096&start=02.04&end=02.09&collection=eptic3">
+<s id="1096:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.04&end=00.02.09">
 Ja	CC	ja-x
 joillakin	Pron_Qnt_Ade_Pl	joka-p
 niistä	Pron_Dem_Ela_Pl	ne-p
@@ -8791,7 +8791,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:14" video="https://media.dipintra.it/?id=1096&start=02.09&end=02.19&collection=eptic3">
+<s id="1096:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.09&end=00.02.19">
 Olemme	V_Prs_Act_Pl1	Ole-v
 valmiita	A_Par_Pl	valmis-j
 kauppasuhteisiin	N_Ill_Pl	kauppasuhteinen-n
@@ -8811,7 +8811,7 @@ kokonaisuudessaan	N_Ine_Sg	kokonaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:15" video="https://media.dipintra.it/?id=1096&start=02.21&end=02.32&collection=eptic3">
+<s id="1096:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.21&end=00.02.32">
 Olipa	V_PrfPrc_Act_Sg3	olla-v
 lähestymistapa	N_Nom_Sg	lähestyminentapa-n
 mikä	Pron_Qnt_Nom_Sg	mikä-p
@@ -8839,7 +8839,7 @@ kehitystä	N_Par_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:16" video="https://media.dipintra.it/?id=1096&start=02.33&end=02.42&collection=eptic3">
+<s id="1096:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.33&end=00.02.42">
 Siksi	Adv	siksi-r
 on	V_Prs_Act_Sg3	olla-v
 myöskin	Adv	myöskin-r
@@ -8856,7 +8856,7 @@ kehitystä	N_Par_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:17" video="https://media.dipintra.it/?id=1096&start=02.42&end=02.54&collection=eptic3">
+<s id="1096:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.42&end=00.02.54">
 Ja	CC	ja-x
 siksi	Pron_Dem_Tra_Sg	se-p
 kumppanuusmaita	N_Par_Pl	kumppanuusmaa-n
@@ -8881,7 +8881,7 @@ tuovan	A_Gen_Sg	tuova-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:18" video="https://media.dipintra.it/?id=1096&start=02.55&end=03.05&collection=eptic3">
+<s id="1096:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.02.55&end=00.03.05">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 yhteydessä	N_Ine_Sg	yhteys-n
 olen	V_Prs_Act_Sg1	olla-v
@@ -8905,7 +8905,7 @@ alkuperään	N_Ill_Sg	alkuperä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:19" video="https://media.dipintra.it/?id=1096&start=03.06&end=03.28&collection=eptic3">
+<s id="1096:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.03.06&end=00.03.28">
 Juuri	Adv	Juuri-r
 kehittyville	A_All_Pl	kehittyvä-j
 maille	N_All_Pl	maa-n
@@ -8944,7 +8944,7 @@ toimintaa	N_Par_Sg	toiminta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:20" video="https://media.dipintra.it/?id=1096&start=03.30&end=03.42&collection=eptic3">
+<s id="1096:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.03.30&end=00.03.42">
 EU	N_Nom_Sg	EU-n
 ja	CC	ja-x
 Papua-Uusi-Guinea	N_Prop_Nom_Sg	Papua-Uusi-Guinea-n
@@ -8972,7 +8972,7 @@ havaittavissa	PrsPrc_Pass_Ine_Pl	havaita-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:21" video="https://media.dipintra.it/?id=1096&start=03.42&end=03.52&collection=eptic3">
+<s id="1096:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.03.42&end=00.03.52">
 Voin	V_Prs_Act_Sg1	Vuo-v
 myös	Adv	myös-r
 var-	DYSF	var-
@@ -8993,7 +8993,7 @@ alueelle	N_All_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:22" video="https://media.dipintra.it/?id=1096&start=03.53&end=04.06&collection=eptic3">
+<s id="1096:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.03.53&end=00.04.06">
 Ehm	FPAUSE	ehm
 komissio	N_Nom_Sg	komissio-n
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -9023,7 +9023,7 @@ loppua	N_Par_Sg	loppu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:23" video="https://media.dipintra.it/?id=1096&start=04.07&end=04.29&collection=eptic3">
+<s id="1096:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.04.07&end=00.04.29">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 teistä	Pron_Pers_Ela_Pl	te-p
 ovat	V_Prs_Act_Pl3	olla-v
@@ -9061,7 +9061,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:24" video="https://media.dipintra.it/?id=1096&start=04.29&end=04.35&collection=eptic3">
+<s id="1096:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.04.29&end=00.04.35">
 Ja	CC	ja-x
 otamme	V_Prs_Act_Pl1	ottaa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
@@ -9078,7 +9078,7 @@ tuloksiin	N_Ill_Pl	tulos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:25" video="https://media.dipintra.it/?id=1096&start=04.35&end=04.42&collection=eptic3">
+<s id="1096:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.04.35&end=00.04.42">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 suostumus	N_Nom_Sg	suostumus-n
@@ -9099,7 +9099,7 @@ sopimukseen	N_Ill_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:26" video="https://media.dipintra.it/?id=1096&start=04.42&end=04.56&collection=eptic3">
+<s id="1096:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.04.42&end=00.04.56">
 Yksi	Num_Nom_Sg	yksi-m
 niistä	Pron_Dem_Ela_Pl	ne-p
 on	V_Prs_Act_Sg3	olla-v
@@ -9135,7 +9135,7 @@ puitteissa	N_Ine_Pl	puite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:27" video="https://media.dipintra.it/?id=1096&start=04.56&end=05.02&collection=eptic3">
+<s id="1096:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.04.56&end=00.05.02">
 Teidän	Pron_Pers_Gen_Pl	te-p
 äänestystuloksenne	N_Tra_Sg	äänestystulo-n
 on	V_Prs_Act_Sg3	olla-v
@@ -9147,14 +9147,14 @@ pääsemiseksi	N_Tra_Sg	pääsemiseksi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:28" video="https://media.dipintra.it/?id=1096&start=05.03&end=05.05&collection=eptic3">
+<s id="1096:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.05.03&end=00.05.05">
 Nyt	Adv	nyt-r
 tulee	V_Prs_Act_Sg3	tulla-v
 Fidžiin	N_Prop_Gen_Sg	Fidži-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:29" video="https://media.dipintra.it/?id=1096&start=05.05&end=05.13&collection=eptic3">
+<s id="1096:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.05.05&end=00.05.13">
 Maa	N_Nom_Sg	Maa-n
 on	V_Prs_Act_Sg3	olla-v
 allekirjoittanut	PrfPrc_Act_Nom_Sg	allekirjoittaa-x
@@ -9171,7 +9171,7 @@ ehdoilla	N_Ade_Pl	ehto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:30" video="https://media.dipintra.it/?id=1096&start=05.13&end=05.24&collection=eptic3">
+<s id="1096:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.05.13&end=00.05.24">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 syystä	N_Ela_Sg	syy-n
 Papua-Uusi-Guinea	N_Prop_Nom_Sg	Papua-Uusi-Guinea-n
@@ -9191,7 +9191,7 @@ sopimusta	N_Par_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:31" video="https://media.dipintra.it/?id=1096&start=05.25&end=05.37&collection=eptic3">
+<s id="1096:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.05.25&end=00.05.37">
 Fidžillä	NON-TWOL	Fidži-x
 on	V_Prs_Act_Sg3	olla-v
 pääsy	N_Nom_Sg	pääsy-n
@@ -9221,7 +9221,7 @@ sanktioita	N_Par_Pl	sanktio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:32" video="https://media.dipintra.it/?id=1096&start=05.37&end=06.03&collection=eptic3">
+<s id="1096:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.05.37&end=00.06.03">
 EU	N_Nom_Sg	EU-n
 on	V_Prs_Act_Sg3	olla-v
 siis	Adv	siis-r
@@ -9270,7 +9270,7 @@ nähtävissä	PrsPrc_Pass_Ine_Pl	nähdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:33" video="https://media.dipintra.it/?id=1096&start=06.03&end=06.11&collection=eptic3">
+<s id="1096:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.06.03&end=00.06.11">
 Sopimuksesta	N_Ela_Sg	sopimus-n
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -9300,7 +9300,7 @@ menetetä	V_Prs_Pass_ConNeg	menettää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1096:34" video="https://media.dipintra.it/?id=1096&start=06.11&end=06.19&collection=eptic3">
+<s id="1096:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1096.wmv&start=00.06.11&end=00.06.19">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 sitoutunut	PrfPrc_Act_Nom_Sg	sitoutua-x
@@ -9325,7 +9325,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="FI06" gender="F" native="NA">
-<s id="1097:1" video="https://media.dipintra.it/?id=1097&start=00.08&end=00.10&collection=eptic3">
+<s id="1097:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.00.08&end=00.00.10">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -9333,7 +9333,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:2" video="https://media.dipintra.it/?id=1097&start=00.11&end=00.25&collection=eptic3">
+<s id="1097:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.00.11&end=00.00.25">
 Ehm	FPAUSE	ehm
 EPP	N_Nom_Sg	Epp-n
 <g/>
@@ -9369,7 +9369,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:3" video="https://media.dipintra.it/?id=1097&start=00.26&end=00.35&collection=eptic3">
+<s id="1097:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.00.26&end=00.00.35">
 Ehm	FPAUSE	ehm
 tämä	Pron_Dem_Nom_Sg	tämä-p
 sopimus	N_Nom_Sg	sopimus-n
@@ -9384,7 +9384,7 @@ väliaikainen	A_Nom_Sg	väliaikainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:4" video="https://media.dipintra.it/?id=1097&start=00.35&end=00.46&collection=eptic3">
+<s id="1097:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.00.35&end=00.00.46">
 Ehm	FPAUSE	ehm
 olemme	V_Prs_Act_Pl1	olla-v
 kuitenkin	Adv	kuitenkin-r
@@ -9412,7 +9412,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:5" video="https://media.dipintra.it/?id=1097&start=00.46&end=01.07&collection=eptic3">
+<s id="1097:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.00.46&end=00.01.07">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 tämä	Pron_Dem_Nom_Sg	tämä-p
 kattaa	V_Prs_Act_Sg3	kattaa-v
@@ -9459,7 +9459,7 @@ kalastustuotteilla	N_Ade_Pl	kalastustuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:6" video="https://media.dipintra.it/?id=1097&start=01.07&end=01.34&collection=eptic3">
+<s id="1097:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.01.07&end=00.01.34">
 Päätöslauselmassa	N_Ine_Sg	päätöslauselma-n
 nostamme	V_Prs_Act_Pl1	nostaa-v
 esiin	Adv	esiin-r
@@ -9520,7 +9520,7 @@ kalanjalostusteollisuudella	N_Ade_Sg	kalajalostusteollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1097:7" video="https://media.dipintra.it/?id=1097&start=01.34&end=01.58&collection=eptic3">
+<s id="1097:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1097.wmv&start=00.01.34&end=00.01.58">
 Ja	CC	ja-x
 pyytäisimme	V_Cond_Act_Pl1	pyytää-v
 <g/>
@@ -9573,7 +9573,7 @@ alkuperämaasäännöt	N_Nom_Pl	alkuperämaasäännöt-n
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1098:1" video="https://media.dipintra.it/?id=1098&start=00.09&end=00.11&collection=eptic3">
+<s id="1098:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.09&end=00.00.11">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -9581,7 +9581,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:2" video="https://media.dipintra.it/?id=1098&start=00.11&end=00.21&collection=eptic3">
+<s id="1098:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.11&end=00.00.21">
 Yksi	Num_Nom_Sg	yksi-m
 tavoite	N_Nom_Sg	tavoite-n
 <g/>
@@ -9611,7 +9611,7 @@ päinvastoin	Adv	päinvastoin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:3" video="https://media.dipintra.it/?id=1098&start=00.22&end=00.29&collection=eptic3">
+<s id="1098:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.22&end=00.00.29">
 EU	N_Nom_Sg	EU-n
 on	V_Prs_Act_Sg3	olla-v
 hajottamassa	V_Inf3_Ine	hajottaa-v
@@ -9626,7 +9626,7 @@ ehdoilla	N_Ade_Pl	ehto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:4" video="https://media.dipintra.it/?id=1098&start=00.30&end=00.38&collection=eptic3">
+<s id="1098:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.30&end=00.00.38">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 poikkeukset	N_Nom_Pl	poikkeus-n
 <g/>
@@ -9645,7 +9645,7 @@ Fidzillä	N_Prop_Par_Sg	Fidzillä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:5" video="https://media.dipintra.it/?id=1098&start=00.38&end=00.45&collection=eptic3">
+<s id="1098:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.38&end=00.00.45">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 vaarallista	A_Par_Sg	vaarallinen-j
@@ -9665,7 +9665,7 @@ sovittu	PrfPrc_Pass_Nom_Sg	sopia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:6" video="https://media.dipintra.it/?id=1098&start=00.45&end=00.50&collection=eptic3">
+<s id="1098:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.45&end=00.00.50">
 Sanon	V_Prs_Act_Sg1	sanoa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
 siksi	Pron_Dem_Tra_Sg	se-p
@@ -9688,7 +9688,7 @@ asiasta	N_Ela_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:7" video="https://media.dipintra.it/?id=1098&start=00.50&end=01.00&collection=eptic3">
+<s id="1098:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.00.50&end=00.01.00">
 Kaikista	Pron_Qnt_Ela_Pl	kaikki-p
 vaikutuksista	N_Ela_Pl	vaikutus-n
 <g/>
@@ -9717,7 +9717,7 @@ olosuhteet	N_Nom_Pl	olosuhde-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1098:8" video="https://media.dipintra.it/?id=1098&start=01.00&end=01.07&collection=eptic3">
+<s id="1098:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.01.00&end=00.01.07">
 Näitä	Pron_Dem_Par_Pl	nämä-p
 asioita	N_Par_Pl	asia-n
 pitäisi	V_Cond_Act_Sg3	pitää-v
@@ -9736,7 +9736,7 @@ tehdään	V_Prs_Pass_Pe4	tehdä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1098:9" video="https://media.dipintra.it/?id=1098&start=01.07&end=01.20&collection=eptic3">
+<s id="1098:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.01.07&end=00.01.20">
 Ei	V_Neg_Sg3	ei-v
 pelkästään	Adv	pelkästään-r
 niiden	Pron_Dem_Gen_Pl	ne-p
@@ -9766,7 +9766,7 @@ maalle	N_All_Sg	maa-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1098:10" video="https://media.dipintra.it/?id=1098&start=01.21&end=01.27&collection=eptic3">
+<s id="1098:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1098.wmv&start=00.01.21&end=00.01.27">
 Ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
 katsoa	V_Inf1_Lat	katsoa-v
@@ -9792,7 +9792,7 @@ markkinoilla	N_Ade_Pl	markkinat-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1102:1" video="https://media.dipintra.it/?id=1102&start=00.07&end=00.09&collection=eptic3">
+<s id="1102:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1102.wmv&start=00.00.07&end=00.00.09">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -9800,7 +9800,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1102:2" video="https://media.dipintra.it/?id=1102&start=00.09&end=00.21&collection=eptic3">
+<s id="1102:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1102.wmv&start=00.00.09&end=00.00.21">
 Itse	Pron_Refl_Nom_Sg	itse-p
 asiassa	N_Ine_Sg	asia-n
 tulin	N_Ins_Pl	tuli-n
@@ -9834,7 +9834,7 @@ alkuperämääräyksessä	N_Ine_Sg	alkuperämääräyksessä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1102:3" video="https://media.dipintra.it/?id=1102&start=00.21&end=00.35&collection=eptic3">
+<s id="1102:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1102.wmv&start=00.00.21&end=00.00.35">
 Viimeisten	A_Gen_Pl	Viimeinen-j
 seitsemän	Num_Gen_Sg	seitsemän-m
 päivän	N_Gen_Sg	päivä-n
@@ -9869,7 +9869,7 @@ taholta	N_Abl_Sg	taho-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1102:4" video="https://media.dipintra.it/?id=1102&start=00.35&end=00.53&collection=eptic3">
+<s id="1102:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1102.wmv&start=00.00.35&end=00.00.53">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 asia	N_Nom_Sg	asia-n
 ei	V_Neg_Sg3	ei-v
@@ -9935,7 +9935,7 @@ tukea	V_Inf1_Lat	tukea-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="FI03" gender="M" native="NA">
-<s id="1103:1" video="https://media.dipintra.it/?id=1103&start=00.09&end=00.18&collection=eptic3">
+<s id="1103:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.09&end=00.00.18">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
@@ -9959,7 +9959,7 @@ köyhyyttä	N_Par_Sg	köyhyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:2" video="https://media.dipintra.it/?id=1103&start=00.18&end=00.20&collection=eptic3">
+<s id="1103:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.18&end=00.00.20">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 tarttua	V_Inf1_Lat	tarttua-v
@@ -9967,7 +9967,7 @@ siihen	Pron_Dem_Ill_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:3" video="https://media.dipintra.it/?id=1103&start=00.21&end=00.35&collection=eptic3">
+<s id="1103:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.21&end=00.00.35">
 Yksi	Num_Nom_Sg	yksi-m
 tapa	N_Nom_Sg	tapa-n
 on	V_Prs_Act_Sg3	olla-v
@@ -9999,7 +9999,7 @@ tekevät	V_Prs_Act_Pl3	tehdä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:4" video="https://media.dipintra.it/?id=1103&start=00.35&end=00.49&collection=eptic3">
+<s id="1103:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.35&end=00.00.49">
 Ehm	FPAUSE	ehm
 Papua-Uudessa-Guineassa	N_Prop_Ine_Sg	Papua-Uudessa-Guineassa-n
 on	V_Prs_Act_Sg3	olla-v
@@ -10032,7 +10032,7 @@ naisia	N_Par_Pl	nainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:5" video="https://media.dipintra.it/?id=1103&start=00.50&end=00.58&collection=eptic3">
+<s id="1103:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.50&end=00.00.58">
 Kysymys	N_Nom_Sg	kysymys-n
 on	V_Prs_Act_Sg3	olla-v
 työpaikoista	N_Ela_Pl	työpaikka-n
@@ -10055,7 +10055,7 @@ maille	N_All_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:6" video="https://media.dipintra.it/?id=1103&start=00.59&end=01.07&collection=eptic3">
+<s id="1103:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.00.59&end=00.01.07">
 Si-	DYSF	Si-
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -10077,7 +10077,7 @@ turvalausekkeita	N_Par_Pl	turvalauseke-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:7" video="https://media.dipintra.it/?id=1103&start=01.08&end=01.20&collection=eptic3">
+<s id="1103:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.01.08&end=00.01.20">
 Ehm	FPAUSE	ehm
 ajattelen	V_Prs_Act_Sg1	ajatella-v
 kuitenkin	Adv	kuitenkin-r
@@ -10114,7 +10114,7 @@ vuosina	N_Ess_Pl	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:8" video="https://media.dipintra.it/?id=1103&start=01.22&end=01.28&collection=eptic3">
+<s id="1103:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.01.22&end=00.01.28">
 Ja	CC	ja-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -10133,7 +10133,7 @@ luvuista	N_Ela_Pl	luku-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:9" video="https://media.dipintra.it/?id=1103&start=01.29&end=01.45&collection=eptic3">
+<s id="1103:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.01.29&end=00.01.45">
 Mikä	Pron_Qnt_Nom_Sg	mikä-p
 vakava	A_Nom_Sg	vakava-j
 säilyketeollisuuden	N_Gen_Sg	säilyketeollisuus-n
@@ -10162,7 +10162,7 @@ säilyketeollisuudelle	N_All_Sg	säilyketeollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:10" video="https://media.dipintra.it/?id=1103&start=01.46&end=02.00&collection=eptic3">
+<s id="1103:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.01.46&end=00.02.00">
 Kehitys	N_Nom_Sg	kehitys-n
 kaupan	N_Gen_Sg	kauppa-n
 virroille	N_All_Pl	virta-n
@@ -10202,7 +10202,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:11" video="https://media.dipintra.it/?id=1103&start=02.00&end=02.07&collection=eptic3">
+<s id="1103:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.00&end=00.02.07">
 Lisäksi	Adv	lisäksi-r
 komissio	N_Nom_Sg	komissio-n
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -10215,7 +10215,7 @@ puitteissa	N_Ine_Pl	puite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:12" video="https://media.dipintra.it/?id=1103&start=02.07&end=02.17&collection=eptic3">
+<s id="1103:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.07&end=00.02.17">
 Emmekä	CC	ei-x
 me	Pron_Pers_Nom_Pl	me-p
 epäröi	V_Prs_Act_ConNeg	epäröidä-v
@@ -10241,7 +10241,7 @@ nähtävissä	PrsPrc_Pass_Ine_Pl	nähdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:13" video="https://media.dipintra.it/?id=1103&start=02.18&end=02.28&collection=eptic3">
+<s id="1103:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.18&end=00.02.28">
 Väliaikainen	A_Nom_Sg	väliaikainen-j
 sopimus	N_Nom_Sg	sopimus-n
 yksiselitteisesti	Adv	yksiselitteisesti-r
@@ -10260,7 +10260,7 @@ suojeluvälineistä	N_Ela_Pl	suojeluvälineistä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:14" video="https://media.dipintra.it/?id=1103&start=02.28&end=02.41&collection=eptic3">
+<s id="1103:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.28&end=00.02.41">
 Ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
 mitään	Pron_Qnt_Par_Sg	mikään-p
@@ -10284,7 +10284,7 @@ AKT-maissa	N_Ine_Pl	AKT-maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:15" video="https://media.dipintra.it/?id=1103&start=02.41&end=02.47&collection=eptic3">
+<s id="1103:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.41&end=00.02.47">
 Ja	CC	ja-x
 tätä	Pron_Dem_Par_Sg	tämä-p
 asiaa	N_Par_Sg	asia-n
@@ -10306,7 +10306,7 @@ mainitsin	V_PrfPrc_Act_Sg1	mainita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:16" video="https://media.dipintra.it/?id=1103&start=02.47&end=03.13&collection=eptic3">
+<s id="1103:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.02.47&end=00.03.13">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 lisätä	V_Inf1_Lat	lisätä-v
 sen	Pron_Dem_Gen_Sg	se-p
@@ -10363,7 +10363,7 @@ elintarviketurvallisuusmääräyksiä	N_Par_Pl	elintarviketurvallisuusmääräyk
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:17" video="https://media.dipintra.it/?id=1103&start=03.13&end=03.20&collection=eptic3">
+<s id="1103:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.13&end=00.03.20">
 Joten	A_Reldv	joten-j
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -10384,7 +10384,7 @@ toimenpiteitä	N_Par_Pl	toimenpide-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:18" video="https://media.dipintra.it/?id=1103&start=03.20&end=03.25&collection=eptic3">
+<s id="1103:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.20&end=00.03.25">
 Nyt	Adv	nyt-r
 sitten	Adp_Pr	sitten-x
 laajempi	A_Nom_Sg	laaja-j
@@ -10401,7 +10401,7 @@ ylipäätään	N_Par_Sg	ylipää-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:19" video="https://media.dipintra.it/?id=1103&start=03.25&end=03.28&collection=eptic3">
+<s id="1103:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.25&end=00.03.28">
 Kauppa	N_Nom_Sg	kauppa-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -10411,7 +10411,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:20" video="https://media.dipintra.it/?id=1103&start=03.28&end=03.35&collection=eptic3">
+<s id="1103:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.28&end=00.03.35">
 Kuten	Adv	kuten-r
 sanoin	N_Ins_Pl	sana-n
 <g/>
@@ -10432,7 +10432,7 @@ kehitysmaissa	N_Ine_Pl	kehitysmaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:21" video="https://media.dipintra.it/?id=1103&start=03.35&end=03.39&collection=eptic3">
+<s id="1103:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.35&end=00.03.39">
 On	V_Prs_Act_Sg3	olla-v
 totta	A_Par_Sg	tosi-j
 <g/>
@@ -10445,7 +10445,7 @@ vaikeasti	Adv	vaikeasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:22" video="https://media.dipintra.it/?id=1103&start=03.39&end=03.44&collection=eptic3">
+<s id="1103:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.39&end=00.03.44">
 Pelkästään	Adv	pelkästään-r
 kauppasopimukset	N_Nom_Pl	kauppasopimus-n
 eivät	V_Neg_Pl3	ei-v
@@ -10457,7 +10457,7 @@ kehitystä	N_Par_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:23" video="https://media.dipintra.it/?id=1103&start=03.45&end=04.00&collection=eptic3">
+<s id="1103:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.03.45&end=00.04.00">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 45	Num_Nom_Sg	@card@-m
@@ -10486,7 +10486,7 @@ kauppaa	N_Par_Sg	kauppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:24" video="https://media.dipintra.it/?id=1103&start=04.00&end=04.09&collection=eptic3">
+<s id="1103:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.00&end=00.04.09">
 Ja	CC	ja-x
 kaikki	Pron_Qnt_Nom	kaikki-p
 kehittyvät	V_Prs_Act_Pl3	kehittyä-v
@@ -10506,7 +10506,7 @@ vientituotteeseen	N_Ill_Sg	vientituote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:25" video="https://media.dipintra.it/?id=1103&start=04.11&end=04.16&collection=eptic3">
+<s id="1103:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.11&end=00.04.16">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 <g/>
 ,	Punct	,-x
@@ -10520,7 +10520,7 @@ maihin	N_Ill_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:26" video="https://media.dipintra.it/?id=1103&start=04.16&end=04.21&collection=eptic3">
+<s id="1103:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.16&end=00.04.21">
 Me	Pron_Pers_Nom_Pl	me-p
 puhumme	V_Prs_Act_Pl1	puhua-v
 nyt	Adv	nyt-r
@@ -10536,7 +10536,7 @@ turvallisuutta	N_Par_Sg	turvallisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:27" video="https://media.dipintra.it/?id=1103&start=04.21&end=04.24&collection=eptic3">
+<s id="1103:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.21&end=00.04.24">
 Me	Pron_Pers_Nom_Pl	me-p
 ei	V_Neg_Sg3	ei-v
 voi	V_Prs_Act_ConNeg	voida-v
@@ -10551,7 +10551,7 @@ asioista	N_Ela_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:28" video="https://media.dipintra.it/?id=1103&start=04.24&end=04.29&collection=eptic3">
+<s id="1103:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.24&end=00.04.29">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 välittää	V_Inf1_Lat	välittää-v
@@ -10566,7 +10566,7 @@ selvityksen	N_Gen_Sg	selvitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:29" video="https://media.dipintra.it/?id=1103&start=04.29&end=04.36&collection=eptic3">
+<s id="1103:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.29&end=00.04.36">
 Me	Pron_Pers_Nom_Pl	me-p
 olemme	V_Prs_Act_Pl1	olla-v
 ehdottaneet	PrfPrc_Act_Nom_Pl	ehdottaa-x
@@ -10588,7 +10588,7 @@ tavoitteita	N_Par_Pl	tavoite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:30" video="https://media.dipintra.it/?id=1103&start=04.36&end=04.43&collection=eptic3">
+<s id="1103:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.36&end=00.04.43">
 Joten	A_Reldv	joten-j
 minun	Pron_Pers_Gen_Sg	minä-p
 mielestäni	N_Ela_Sg	mieli-n
@@ -10610,7 +10610,7 @@ ongelmia	N_Par_Pl	ongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1103:31" video="https://media.dipintra.it/?id=1103&start=04.44&end=04.52&collection=eptic3">
+<s id="1103:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1103.wmv&start=00.04.44&end=00.04.52">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 meidän	Pron_Pers_Gen_Pl	me-p
@@ -10646,7 +10646,7 @@ sopimukselle	N_All_Sg	sopimus-n
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="FI06" gender="F" native="NA">
-<s id="1068:1" video="https://media.dipintra.it/?id=1068&start=00.07&end=00.09&collection=eptic3">
+<s id="1068:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.00.07&end=00.00.09">
 Kiitoksia	N_Par_Pl	kiitos-n
 oikein	Adv	oikein-r
 paljon	Adv	paljon-r
@@ -10656,7 +10656,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:2" video="https://media.dipintra.it/?id=1068&start=00.09&end=00.23&collection=eptic3">
+<s id="1068:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.00.09&end=00.00.23">
 Ensinnäkin	Adv	Ensinnäkin-r
 haluaisin	V_Cond_Act_Sg1	haluta-v
 sanoa	V_Inf1_Lat	sanoa-v
@@ -10699,7 +10699,7 @@ paikalla	N_Ade_Sg	paikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:3" video="https://media.dipintra.it/?id=1068&start=00.23&end=00.31&collection=eptic3">
+<s id="1068:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.00.23&end=00.00.31">
 Ehm	FPAUSE	ehm
 haluan	V_Prs_Act_Sg1	haluta-v
 kuitenkin	Adv	kuitenkin-r
@@ -10719,7 +10719,7 @@ avustaan	N_Ela_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:4" video="https://media.dipintra.it/?id=1068&start=00.31&end=00.39&collection=eptic3">
+<s id="1068:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.00.31&end=00.00.39">
 Ehm	FPAUSE	ehm
 esittelijänä	N_Ess_Sg	esittelijä-n
 olen	V_Prs_Act_Sg1	olla-v
@@ -10740,7 +10740,7 @@ työtä	N_Par_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:5" video="https://media.dipintra.it/?id=1068&start=00.39&end=01.04&collection=eptic3">
+<s id="1068:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.00.39&end=00.01.04">
 Valitettavasti	PrsPrc_Pass_Adv	valitettavasti-x
 kun	CS	kun-x
 Glynnin	N_Gen_Sg	Glynnin-n
@@ -10793,7 +10793,7 @@ tässä	Pron_Dem_Ine_Sg	tämä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:6" video="https://media.dipintra.it/?id=1068&start=01.04&end=01.14&collection=eptic3">
+<s id="1068:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.01.04&end=00.01.14">
 Haluan	V_Prs_Act_Sg1	haluta-v
 kiittää	V_Inf1_Lat	kiittää-v
 myös	Adv	myös-r
@@ -10814,14 +10814,14 @@ vaatimisessa	N_Ine_Sg	vaatiminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:7" video="https://media.dipintra.it/?id=1068&start=01.14&end=01.16&collection=eptic3">
+<s id="1068:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.01.14&end=00.01.16">
 Oli	V_PrfPrc_Act_Sg3	olla-v
 hänen	Pron_Pers_Gen_Sg	hän-p
 viimeisensä	A_Gen_Sg	viimeinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:8" video="https://media.dipintra.it/?id=1068&start=01.16&end=01.32&collection=eptic3">
+<s id="1068:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.01.16&end=00.01.32">
 Haluan	V_Prs_Act_Sg1	haluta-v
 onnitella	V_Inf1_Lat	onnitella-v
 häntä	Pron_Pers_Par_Sg	häntä-p
@@ -10848,7 +10848,7 @@ avustaan	N_Ela_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:9" video="https://media.dipintra.it/?id=1068&start=01.33&end=01.54&collection=eptic3">
+<s id="1068:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.01.33&end=00.01.54">
 Ensin	Adv	Ensi-r
 haluaisin	V_Cond_Act_Sg1	haluta-v
 tehdä	V_Inf1_Lat	tehdä-v
@@ -10887,7 +10887,7 @@ kysymyksistä	N_Ela_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:10" video="https://media.dipintra.it/?id=1068&start=01.55&end=02.00&collection=eptic3">
+<s id="1068:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.01.55&end=00.02.00">
 Ensinnäkin	N_Gen_Sg	Ensinnäkin-n
 taustasta	N_Ela_Sg	tausta-n
 ja	CC	ja-x
@@ -10896,7 +10896,7 @@ integraatiosta	N_Ela_Sg	integraatio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:11" video="https://media.dipintra.it/?id=1068&start=02.01&end=02.09&collection=eptic3">
+<s id="1068:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.02.01&end=00.02.09">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 neuvoteltu	PrfPrc_Pass_Nom_Sg	neuvotella-x
@@ -10915,7 +10915,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:12" video="https://media.dipintra.it/?id=1068&start=02.09&end=02.19&collection=eptic3">
+<s id="1068:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.02.09&end=00.02.19">
 Nämä	Pron_Dem_Nom_Pl	nämä-p
 ovat	V_Prs_Act_Pl3	olla-v
 ne	Pron_Dem_Nom_Pl	ne-p
@@ -10950,7 +10950,7 @@ sokeria	N_Par_Sg	sokeri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:13" video="https://media.dipintra.it/?id=1068&start=02.20&end=02.32&collection=eptic3">
+<s id="1068:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.02.20&end=00.02.32">
 Ehm	FPAUSE	ehm
 talouskumppanuussopimus	N_Nom_Sg	talouskumppanuussopimus-n
 antaa	V_Prs_Act_Sg3	antaa-v
@@ -10969,7 +10969,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:14" video="https://media.dipintra.it/?id=1068&start=02.32&end=02.50&collection=eptic3">
+<s id="1068:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.02.32&end=00.02.50">
 Papua-Uusi-Guinea	N_Prop_Nom_Sg	Papua-Uusi-Guinea-n
 on	V_Prs_Act_Sg3	olla-v
 ehm	FPAUSE	ehm
@@ -10994,7 +10994,7 @@ sisällä	Adp_Po	sisältää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:15" video="https://media.dipintra.it/?id=1068&start=02.51&end=03.07&collection=eptic3">
+<s id="1068:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.02.51&end=00.03.07">
 Ehm	FPAUSE	ehm
 kaikki	Pron_Qnt_Nom	kaikki-p
 paitsi	Adv	paitsi-r
@@ -11022,7 +11022,7 @@ kauppasopimukseen	N_Ill_Sg	kauppasopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:16" video="https://media.dipintra.it/?id=1068&start=03.07&end=03.16&collection=eptic3">
+<s id="1068:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.07&end=00.03.16">
 Olen	V_Prs_Act_Sg1	Ole-v
 iloinen	A_Nom_Sg	iloinen-j
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -11043,7 +11043,7 @@ valtiot	N_Nom_Pl	valtio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:17" video="https://media.dipintra.it/?id=1068&start=03.17&end=03.35&collection=eptic3">
+<s id="1068:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.17&end=00.03.35">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
@@ -11082,7 +11082,7 @@ suostumuksesta	N_Ela_Sg	suostumus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:18" video="https://media.dipintra.it/?id=1068&start=03.36&end=03.42&collection=eptic3">
+<s id="1068:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.36&end=00.03.42">
 Ehm	FPAUSE	ehm
 kannatan	V_Prs_Act_Sg1	kannattaa-v
 <g/>
@@ -11101,7 +11101,7 @@ siihen	Pron_Dem_Ill_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:19" video="https://media.dipintra.it/?id=1068&start=03.43&end=03.45&collection=eptic3">
+<s id="1068:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.43&end=00.03.45">
 Ja	CC	ja-x
 haluaisin	V_Cond_Act_Sg1	haluta-v
 kommentoida	V_Inf1_Lat	kommentoida-v
@@ -11111,7 +11111,7 @@ asiaa	N_Par_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:20" video="https://media.dipintra.it/?id=1068&start=03.45&end=03.51&collection=eptic3">
+<s id="1068:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.45&end=00.03.51">
 Ensinnäkin	NON-TWOL	Ensinnäkin-x
 Aid	NON-TWOL	Aid-x
 for	NON-TWOL	for-x
@@ -11123,7 +11123,7 @@ apu	N_Nom_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:21" video="https://media.dipintra.it/?id=1068&start=03.53&end=03.56&collection=eptic3">
+<s id="1068:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.53&end=00.03.56">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 tärkeä	A_Nom_Sg	tärkeä-j
@@ -11132,7 +11132,7 @@ kitkemisessä	N_Ine_Sg	kitkeä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:22" video="https://media.dipintra.it/?id=1068&start=03.56&end=04.07&collection=eptic3">
+<s id="1068:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.03.56&end=00.04.07">
 On	V_Prs_Act_Sg3	olla-v
 tärkeää	A_Par_Sg	tärkeä-j
 <g/>
@@ -11151,7 +11151,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:23" video="https://media.dipintra.it/?id=1068&start=04.08&end=04.22&collection=eptic3">
+<s id="1068:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.04.08&end=00.04.22">
 On	V_Prs_Act_Sg3	olla-v
 tärkeä	A_Nom_Sg	tärkeä-j
 korostaa	V_Inf1_Lat	korostaa-v
@@ -11178,7 +11178,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:24" video="https://media.dipintra.it/?id=1068&start=04.23&end=04.32&collection=eptic3">
+<s id="1068:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.04.23&end=00.04.32">
 Tätä	Pron_Dem_Par_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 saisi	V_Cond_Act_ConNeg	saada-v
@@ -11197,7 +11197,7 @@ hallinnon	N_Gen_Sg	hallinto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:25" video="https://media.dipintra.it/?id=1068&start=04.32&end=04.45&collection=eptic3">
+<s id="1068:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.04.32&end=00.04.45">
 Ehm	FPAUSE	ehm
 vaadimme	V_Prs_Act_Pl1	vaatia-v
 <g/>
@@ -11222,13 +11222,13 @@ sokerisektorille	N_All_Sg	sokerisektorille-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:26" video="https://media.dipintra.it/?id=1068&start=04.45&end=04.47&collection=eptic3">
+<s id="1068:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.04.45&end=00.04.47">
 Sitten	Adp_Pr	sitten-x
 kalastus	N_Nom_Sg	kalastus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:27" video="https://media.dipintra.it/?id=1068&start=04.47&end=05.01&collection=eptic3">
+<s id="1068:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.04.47&end=00.05.01">
 Kalastuksella	N_Ade_Sg	kalastus-n
 on	V_Prs_Act_Sg3	olla-v
 erittäin	Adv	erittäin-r
@@ -11247,7 +11247,7 @@ elinkeinon	N_Gen_Sg	elinkeino-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:28" video="https://media.dipintra.it/?id=1068&start=05.02&end=05.13&collection=eptic3">
+<s id="1068:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.05.02&end=00.05.13">
 Kalastusteollisuudessa	N_Ine_Sg	kalastusteollisuus-n
 suurin	A_Nom_Sg	suuri-j
 osa	N_Nom_Sg	osa-n
@@ -11272,7 +11272,7 @@ naisille	N_All_Pl	nainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:29" video="https://media.dipintra.it/?id=1068&start=05.14&end=05.20&collection=eptic3">
+<s id="1068:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.05.14&end=00.05.20">
 On	V_Prs_Act_Sg3	olla-v
 tärkeä	A_Nom_Sg	tärkeä-j
 <g/>
@@ -11286,7 +11286,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:30" video="https://media.dipintra.it/?id=1068&start=05.20&end=05.37&collection=eptic3">
+<s id="1068:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.05.20&end=00.05.37">
 Ympäristökysymykset	N_Nom_Pl	ympäristökysymys-n
 ovat	V_Prs_Act_Pl3	olla-v
 erittäin	Adv	erittäin-r
@@ -11317,7 +11317,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:31" video="https://media.dipintra.it/?id=1068&start=05.38&end=06.07&collection=eptic3">
+<s id="1068:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.05.38&end=00.06.07">
 Kalastuksen	N_Gen_Sg	kalastus-n
 <g/>
 ...	EPAUSE	...-x
@@ -11359,7 +11359,7 @@ tonnikalasäilykkeistä	N_Ela_Pl	tonnikalasäilykkeistä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:32" video="https://media.dipintra.it/?id=1068&start=06.07&end=06.23&collection=eptic3">
+<s id="1068:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.06.07&end=00.06.23">
 En	V_Neg_Sg1	ei-v
 usko	N_Nom_Sg	usko-n
 <g/>
@@ -11393,7 +11393,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:33" video="https://media.dipintra.it/?id=1068&start=06.23&end=06.42&collection=eptic3">
+<s id="1068:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.06.23&end=00.06.42">
 Kuitenkin	Adv	kuitenkin-r
 on	V_Prs_Act_Sg3	olla-v
 tärkeää	A_Par_Sg	tärkeä-j
@@ -11424,7 +11424,7 @@ toimia	V_Inf1_Lat	toimia-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:34" video="https://media.dipintra.it/?id=1068&start=06.43&end=06.53&collection=eptic3">
+<s id="1068:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.06.43&end=00.06.53">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 olen	V_Prs_Act_Sg1	olla-v
 suosittanut	PrfPrc_Act_Nom_Sg	suosittaa-x
@@ -11444,7 +11444,7 @@ suoja	N_Nom_Sg	suoja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:35" video="https://media.dipintra.it/?id=1068&start=06.53&end=07.05&collection=eptic3">
+<s id="1068:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.06.53&end=00.07.05">
 Me	Pron_Pers_Nom_Pl	me-p
 liian	Adv	liian-r
 usein	Adv	usein-r
@@ -11469,7 +11469,7 @@ näkökulmasta	N_Ela_Sg	näkökulma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1068:36" video="https://media.dipintra.it/?id=1068&start=07.07&end=07.29&collection=eptic3">
+<s id="1068:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1068.wmv&start=00.07.07&end=00.07.29">
 Nyt	Adv	nyt-r
 kun	CS	kun-x
 olemme	V_Prs_Act_Pl1	olla-v
@@ -11518,7 +11518,7 @@ Kiitoksia	N_Par_Pl	kiitos-n
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="FI12" gender="M" native="NA">
-<s id="1104:1" video="https://media.dipintra.it/?id=1104&start=00.08&end=00.14&collection=eptic3">
+<s id="1104:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.00.08&end=00.00.14">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -11536,7 +11536,7 @@ kysymyksen	N_Gen_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:2" video="https://media.dipintra.it/?id=1104&start=00.17&end=00.30&collection=eptic3">
+<s id="1104:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.00.17&end=00.00.30">
 Nai-	DYSF	Nai-
 lasten	N_Gen_Pl	lapsi-n
 oikeuksien	N_Gen_Pl	oikeus-n
@@ -11563,7 +11563,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:3" video="https://media.dipintra.it/?id=1104&start=00.32&end=00.48&collection=eptic3">
+<s id="1104:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.00.32&end=00.00.48">
 Lasten	N_Gen_Pl	lapsi-n
 oikeuksien	N_Gen_Pl	oikeus-n
 strategiassa	N_Ine_Sg	strategia-n
@@ -11592,7 +11592,7 @@ perusoikeuskirjaan	N_Ill_Sg	perusoikeuskirja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:4" video="https://media.dipintra.it/?id=1104&start=00.48&end=01.12&collection=eptic3">
+<s id="1104:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.00.48&end=00.01.12">
 Komissio	N_Nom_Sg	komissio-n
 haluaa	V_Prs_Act_Sg3	haluta-v
 varmistaa	V_Inf1_Lat	varmistaa-v
@@ -11646,7 +11646,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:5" video="https://media.dipintra.it/?id=1104&start=01.15&end=01.25&collection=eptic3">
+<s id="1104:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.01.15&end=00.01.25">
 Komissio	N_Nom_Sg	komissio-n
 myöskin	Adv	myöskin-r
 raportoi	V_Prs_Act_Sg3	raportoida-v
@@ -11670,7 +11670,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:6" video="https://media.dipintra.it/?id=1104&start=01.26&end=01.44&collection=eptic3">
+<s id="1104:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.01.26&end=00.01.44">
 Ja	CC	ja-x
 täytyy	V_Prs_Act_Sg3	täytyä-v
 muistaa	V_Inf1_Lat	muistaa-v
@@ -11706,7 +11706,7 @@ oikeutta	N_Par_Sg	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:7" video="https://media.dipintra.it/?id=1104&start=01.45&end=01.52&collection=eptic3">
+<s id="1104:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.01.45&end=00.01.52">
 Ja	CC	ja-x
 täytyy	V_Prs_Act_Sg3	täytyä-v
 muistuttaa	V_Inf1_Lat	muistuttaa-v
@@ -11731,7 +11731,7 @@ olemassa	V_Inf3_Ine	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:8" video="https://media.dipintra.it/?id=1104&start=01.53&end=02.08&collection=eptic3">
+<s id="1104:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.01.53&end=00.02.08">
 Tätä	Pron_Dem_Par_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 säännelty	PrfPrc_Pass_Nom_Sg	säännellä-x
@@ -11755,7 +11755,7 @@ lainsäädännössä	N_Ine_Sg	lakisäädäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:9" video="https://media.dipintra.it/?id=1104&start=02.11&end=02.35&collection=eptic3">
+<s id="1104:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.02.11&end=00.02.35">
 Yleissopimus	N_Nom_Sg	yleissopimus-n
 <g/>
 ,	Punct	,-x
@@ -11814,7 +11814,7 @@ perusoikeudet	N_Nom_Pl	perusoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:10" video="https://media.dipintra.it/?id=1104&start=02.38&end=02.56&collection=eptic3">
+<s id="1104:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.02.38&end=00.02.56">
 Kansainvälisesti	Adv	kansainvälisesti-r
 komissio	N_Nom_Sg	komissio-n
 tukee	V_Prs_Act_Sg3	tukea-v
@@ -11846,7 +11846,7 @@ kokouksissa	N_Ine_Pl	kokous-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:11" video="https://media.dipintra.it/?id=1104&start=02.59&end=03.19&collection=eptic3">
+<s id="1104:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.02.59&end=00.03.19">
 Komissio	N_Nom_Sg	komissio-n
 ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
@@ -11888,7 +11888,7 @@ yleissopimuksen	N_Gen_Sg	yleissopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:12" video="https://media.dipintra.it/?id=1104&start=03.21&end=03.48&collection=eptic3">
+<s id="1104:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.03.21&end=00.03.48">
 Komissio	N_Nom_Sg	komissio-n
 seuraa	V_Prs_Act_Sg3	seurata-v
 tarkkaavaisesti	Adv	tarkkaavaisesti-r
@@ -11927,7 +11927,7 @@ adoptiosääntöjä	N_Par_Pl	adoptiosääntöjä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:13" video="https://media.dipintra.it/?id=1104&start=03.49&end=03.54&collection=eptic3">
+<s id="1104:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.03.49&end=00.03.54">
 Ja	CC	ja-x
 myöskin	Adv	myöskin-r
 on	V_Prs_Act_Sg3	olla-v
@@ -11943,7 +11943,7 @@ asioista	N_Ela_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:14" video="https://media.dipintra.it/?id=1104&start=03.58&end=04.27&collection=eptic3">
+<s id="1104:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.03.58&end=00.04.27">
 Runsas	A_Nom_Sg	runsas-j
 vuosi	N_Nom_Sg	vuo-n
 sitten	Adp_Pr	sitten-x
@@ -11990,7 +11990,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1104:15" video="https://media.dipintra.it/?id=1104&start=04.30&end=04.34&collection=eptic3">
+<s id="1104:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1104.wmv&start=00.04.30&end=00.04.34">
 Eli	CC	Eli-x
 tämäkin	Pron_Dem_Nom_Sg	tämä-p
 liittyy	V_Prs_Act_Sg3	liittyä-v
@@ -12017,7 +12017,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1105:1" video="https://media.dipintra.it/?id=1105&start=00.05&end=00.07&collection=eptic3">
+<s id="1105:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.05&end=00.00.07">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -12025,7 +12025,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:2" video="https://media.dipintra.it/?id=1105&start=00.08&end=00.19&collection=eptic3">
+<s id="1105:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.08&end=00.00.19">
 Irlannissa	N_Prop_Ine_Sg	Irlanti-n
 kansalaisen	N_Gen_Sg	kansalainen-n
 <g/>
@@ -12046,7 +12046,7 @@ erilaisia	A_Par_Pl	erilainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:3" video="https://media.dipintra.it/?id=1105&start=00.20&end=00.26&collection=eptic3">
+<s id="1105:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.20&end=00.00.26">
 Tähän	Pron_Dem_Ill_Sg	tämä-p
 ehm	FPAUSE	ehm
 yhdistykseen	N_Ill_Sg	yhdistys-n
@@ -12062,7 +12062,7 @@ perhettä	N_Par_Sg	perhe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:4" video="https://media.dipintra.it/?id=1105&start=00.26&end=00.29&collection=eptic3">
+<s id="1105:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.26&end=00.00.29">
 Monet	Pron_Qnt_Nom_Pl	Monet-p
 ovat	V_Prs_Act_Pl3	olla-v
 jo	Adv	jo-r
@@ -12075,7 +12075,7 @@ adoptoida	V_Inf1_Lat	adoptoida-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:5" video="https://media.dipintra.it/?id=1105&start=00.29&end=00.38&collection=eptic3">
+<s id="1105:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.29&end=00.00.38">
 Irlannissa	N_Prop_Ine_Sg	Irlanti-n
 meillä	Pron_Pers_Ade_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -12101,7 +12101,7 @@ adoptoitavaksi	PrsPrc_Pass_Tra_Sg	adoptoida-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:6" video="https://media.dipintra.it/?id=1105&start=00.38&end=00.45&collection=eptic3">
+<s id="1105:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.38&end=00.00.45">
 Ei	V_Neg_Sg3	ei-v
 tämä	Pron_Dem_Nom_Sg	tämä-p
 ole	V_Prs_Act_ConNeg	olla-v
@@ -12126,7 +12126,7 @@ adoptoinnista	N_Ela_Sg	adoptointi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:7" video="https://media.dipintra.it/?id=1105&start=00.45&end=00.48&collection=eptic3">
+<s id="1105:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.45&end=00.00.48">
 Lapsen	N_Gen_Sg	lapsi-n
 edun	N_Gen_Sg	etu-n
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -12136,7 +12136,7 @@ ytimessä	N_Ine_Sg	ydin-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:8" video="https://media.dipintra.it/?id=1105&start=00.48&end=01.02&collection=eptic3">
+<s id="1105:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.00.48&end=00.01.02">
 Ehm	FPAUSE	ehm
 meillä	Pron_Pers_Ade_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -12157,7 +12157,7 @@ kansainvälisesti	Adv	kansainvälisesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:9" video="https://media.dipintra.it/?id=1105&start=01.03&end=01.06&collection=eptic3">
+<s id="1105:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.01.03&end=00.01.06">
 Mei-	DYSF	Mei-
 Euroopalla	N_A_Propde_Sg	Eurooppa-n
 tulisi	V_Cond_Act_Sg3	tulla-v
@@ -12167,7 +12167,7 @@ rooli	N_Nom_Sg	rooli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:10" video="https://media.dipintra.it/?id=1105&start=01.06&end=01.11&collection=eptic3">
+<s id="1105:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.01.06&end=00.01.11">
 Uskon	V_Prs_Act_Sg1	uskoa-v
 <g/>
 ,	Punct	,-x
@@ -12182,7 +12182,7 @@ oikeuksista	N_Ela_Pl	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:11" video="https://media.dipintra.it/?id=1105&start=01.11&end=01.16&collection=eptic3">
+<s id="1105:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.01.11&end=00.01.16">
 Me	Pron_Pers_Nom_Pl	me-p
 puhumme	V_Prs_Act_Pl1	puhua-v
 asiasta	N_Ela_Sg	asia-n
@@ -12203,7 +12203,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:12" video="https://media.dipintra.it/?id=1105&start=01.16&end=01.20&collection=eptic3">
+<s id="1105:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.01.16&end=00.01.20">
 Toivotaan	V_Prs_Pass_Pe4	toivoa-v
 <g/>
 ,	Punct	,-x
@@ -12218,7 +12218,7 @@ parantuu	V_Prs_Act_Sg3	parantua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1105:13" video="https://media.dipintra.it/?id=1105&start=01.21&end=01.23&collection=eptic3">
+<s id="1105:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1105.mp4&start=00.01.21&end=00.01.23">
 Tilanne	N_Nom_Sg	Tila-n
 o-	DYSF	o-
 ,	Punct	,-x
@@ -12237,7 +12237,7 @@ hyvä	A_Nom_Sg	hyvä-j
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="FI08" gender="F" native="NA">
-<s id="1106:1" video="https://media.dipintra.it/?id=1106&start=00.10&end=00.11&collection=eptic3">
+<s id="1106:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.10&end=00.00.11">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -12245,7 +12245,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:2" video="https://media.dipintra.it/?id=1106&start=00.12&end=00.21&collection=eptic3">
+<s id="1106:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.12&end=00.00.21">
 Suurin	A_Nom_Sg	suuri-j
 lahja	N_Nom_Sg	lahja-n
 <g/>
@@ -12269,7 +12269,7 @@ vanhemmiltaan	N_Abl_Pl	vanhempi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:3" video="https://media.dipintra.it/?id=1106&start=00.21&end=00.25&collection=eptic3">
+<s id="1106:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.21&end=00.00.25">
 Monet	Pron_Qnt_Nom_Pl	Monet-p
 kuitenkin	Adv	kuitenkin-r
 saavat	V_Prs_Act_Pl3	saada-v
@@ -12279,7 +12279,7 @@ adoptiovanhemmiltaan	N_Ill_Sg	adoptiovanhemmiltaan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:4" video="https://media.dipintra.it/?id=1106&start=00.25&end=00.33&collection=eptic3">
+<s id="1106:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.25&end=00.00.33">
 Ja	CC	ja-x
 mielestäni	N_Ela_Sg	mieli-n
 kumpi	Pron_Interr_Nom_Sg	kumpi-p
@@ -12301,7 +12301,7 @@ korruptiota	N_Par_Sg	korruptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:5" video="https://media.dipintra.it/?id=1106&start=00.33&end=00.36&collection=eptic3">
+<s id="1106:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.33&end=00.00.36">
 Tasapainon	N_Gen_Sg	tasapaino-n
 löytäminen	N_Nom_Sg	löytäminen-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12311,7 +12311,7 @@ hankalaa	A_Par_Sg	hankala-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:6" video="https://media.dipintra.it/?id=1106&start=00.37&end=01.02&collection=eptic3">
+<s id="1106:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.00.37&end=00.01.02">
 Mielestäni	N_Ela_Sg	mieli-n
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -12350,7 +12350,7 @@ mahdollisuuksia	N_Par_Pl	mahdollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1106:7" video="https://media.dipintra.it/?id=1106&start=01.03&end=01.11&collection=eptic3">
+<s id="1106:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1106.wmv&start=00.01.03&end=00.01.11">
 Tasapaino	N_Nom_Sg	tasapaino-n
 on	V_Prs_Act_Sg3	olla-v
 saatava	PrsPrc_Pass_Nom_Sg	saada-x
@@ -12379,7 +12379,7 @@ koti	N_Nom_Sg	koti-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1107:1" video="https://media.dipintra.it/?id=1107&start=00.07&end=00.11&collection=eptic3">
+<s id="1107:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.07&end=00.00.11">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -12394,7 +12394,7 @@ kollegat	N_Nom_Pl	kollega-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:2" video="https://media.dipintra.it/?id=1107&start=00.11&end=00.25&collection=eptic3">
+<s id="1107:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.11&end=00.00.25">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 useita	A_Par_Pl	usea-j
@@ -12428,7 +12428,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:3" video="https://media.dipintra.it/?id=1107&start=00.25&end=00.35&collection=eptic3">
+<s id="1107:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.25&end=00.00.35">
 Ehm	FPAUSE	ehm
 komission	N_Gen_Sg	komissio-n
 pitäisi	V_Cond_Act_Sg3	pitää-v
@@ -12459,7 +12459,7 @@ edun	N_Gen_Sg	etu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:4" video="https://media.dipintra.it/?id=1107&start=00.35&end=00.44&collection=eptic3">
+<s id="1107:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.35&end=00.00.44">
 Ehm	FPAUSE	ehm
 ja	CC	ja-x
 pitkällä	A_Ade_Sg	pitkä-j
@@ -12478,7 +12478,7 @@ kotimaahansa	N_Ill_Sg	kotimaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:5" video="https://media.dipintra.it/?id=1107&start=00.45&end=00.52&collection=eptic3">
+<s id="1107:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.45&end=00.00.52">
 Ehm	FPAUSE	ehm
 on	V_Prs_Act_Sg3	olla-v
 pidettävä	A_Nom_Sg	pitää-j
@@ -12499,7 +12499,7 @@ toteutua	V_Inf1_Lat	toteutua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:6" video="https://media.dipintra.it/?id=1107&start=00.53&end=00.57&collection=eptic3">
+<s id="1107:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.53&end=00.00.57">
 Omassakin	A_Ine_Sg	oma-j
 maassani	N_Ine_Sg	maa-n
 valitettavasti	PrsPrc_Pass_Adv	valitettavasti-x
@@ -12514,7 +12514,7 @@ tapahtuu	V_Prs_Act_Sg3	tapahtua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:7" video="https://media.dipintra.it/?id=1107&start=00.57&end=01.13&collection=eptic3">
+<s id="1107:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.00.57&end=00.01.13">
 Ehm	FPAUSE	ehm
 lasten	N_Gen_Pl	lapsi-n
 ehm	FPAUSE	ehm
@@ -12548,7 +12548,7 @@ tasolla	N_Ade_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1107:8" video="https://media.dipintra.it/?id=1107&start=01.13&end=01.29&collection=eptic3">
+<s id="1107:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1107.wmv&start=00.01.13&end=00.01.29">
 Toivottavasti	Adv	toivottavasti-r
 komissio	N_Nom_Sg	komissio-n
 voisi	V_Cond_Act_Sg3	voida-v
@@ -12590,7 +12590,7 @@ selkiytyisivät	V_Cond_Act_Pl3	selkiytyä-v
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1108:1" video="https://media.dipintra.it/?id=1108&start=00.07&end=00.09&collection=eptic3">
+<s id="1108:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.07&end=00.00.09">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -12602,7 +12602,7 @@ komissaari	N_Nom_Sg	komissaari-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:2" video="https://media.dipintra.it/?id=1108&start=00.09&end=00.17&collection=eptic3">
+<s id="1108:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.09&end=00.00.17">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 jälleen	Adv	jälleen-r
 kerran	N_Gen_Sg	kerta-n
@@ -12615,7 +12615,7 @@ adoptioon	N_Ill_Sg	adoptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:3" video="https://media.dipintra.it/?id=1108&start=00.17&end=00.28&collection=eptic3">
+<s id="1108:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.17&end=00.00.28">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 Euroopassa	N_Prop_Ine_Sg	Eurooppa-n
@@ -12635,7 +12635,7 @@ adoptoitaviksi	PrsPrc_Pass_Tra_Pl	adoptoida-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:4" video="https://media.dipintra.it/?id=1108&start=00.28&end=00.37&collection=eptic3">
+<s id="1108:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.28&end=00.00.37">
 Jos	CS	Jos-x
 me	Pron_Pers_Nom_Pl	me-p
 jotain	Pron_Qnt_Par_Sg	jotain-p
@@ -12659,7 +12659,7 @@ tapahtuu	V_Prs_Act_Sg3	tapahtua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:5" video="https://media.dipintra.it/?id=1108&start=00.37&end=00.48&collection=eptic3">
+<s id="1108:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.37&end=00.00.48">
 Toivoisin	V_Cond_Act_Sg1	toivoa-v
 <g/>
 ,	Punct	,-x
@@ -12687,7 +12687,7 @@ rikoksentekijät	N_Nom_Pl	rikostekijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:6" video="https://media.dipintra.it/?id=1108&start=00.48&end=00.54&collection=eptic3">
+<s id="1108:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.48&end=00.00.54">
 Me	Pron_Pers_Nom_Pl	me-p
 emme	V_Neg_Pl1	ei-v
 yksittäisten	A_Gen_Pl	yksittäinen-j
@@ -12704,7 +12704,7 @@ kitkeä	V_Inf1_Lat	kitkeä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1108:7" video="https://media.dipintra.it/?id=1108&start=00.54&end=00.57&collection=eptic3">
+<s id="1108:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1108.wmv&start=00.00.54&end=00.00.57">
 Se	Pron_Dem_Nom_Sg	se-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 tehdä	V_Inf1_Lat	tehdä-v
@@ -12721,7 +12721,7 @@ tasolla	N_Ade_Sg	taso-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1110:1" video="https://media.dipintra.it/?id=1110&start=00.06&end=00.08&collection=eptic3">
+<s id="1110:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.06&end=00.00.08">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -12729,7 +12729,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:2" video="https://media.dipintra.it/?id=1110&start=00.08&end=00.14&collection=eptic3">
+<s id="1110:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.08&end=00.00.14">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 vain	Adv	vain-r
 halusin	V_PrfPrc_Act_Sg1	haluta-v
@@ -12740,7 +12740,7 @@ sukulaisuuskysymykseen	N_Ill_Sg	sukulaisuuskysymykseen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:3" video="https://media.dipintra.it/?id=1110&start=00.16&end=00.22&collection=eptic3">
+<s id="1110:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.16&end=00.00.22">
 Ehm	FPAUSE	ehm
 yleensä	Adv	yleensä-r
 ehm	FPAUSE	ehm
@@ -12751,7 +12751,7 @@ isovanhempia	N_Par_Pl	isovanhemmat-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:4" video="https://media.dipintra.it/?id=1110&start=00.22&end=00.28&collection=eptic3">
+<s id="1110:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.22&end=00.00.28">
 Usein	Adv	usein-r
 isovanhemmat	N_Nom_Pl	isovanhempi-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -12768,7 +12768,7 @@ huumeongelma	N_Nom_Sg	huumeongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:5" video="https://media.dipintra.it/?id=1110&start=00.28&end=00.34&collection=eptic3">
+<s id="1110:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.28&end=00.00.34">
 Ehm	FPAUSE	ehm
 Britanniassa	N_Prop_Ine_Sg	Britannia-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12781,7 +12781,7 @@ hyväksi	A_Tra_Sg	hyvä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:6" video="https://media.dipintra.it/?id=1110&start=00.34&end=00.37&collection=eptic3">
+<s id="1110:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.34&end=00.00.37">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 sukulaishoivaajat	N_Nom_Pl	sukulaishoivaajat-n
 adoptoivat	V_Prs_Act_Pl3	adoptoida-v
@@ -12789,7 +12789,7 @@ lapsen	N_Gen_Sg	lapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:7" video="https://media.dipintra.it/?id=1110&start=00.37&end=00.42&collection=eptic3">
+<s id="1110:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.37&end=00.00.42">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 taas	Adv	taas-r
 muuten	Adv	muuten-r
@@ -12803,7 +12803,7 @@ lapselle	N_All_Sg	lapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:8" video="https://media.dipintra.it/?id=1110&start=00.42&end=00.50&collection=eptic3">
+<s id="1110:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.42&end=00.00.50">
 Kuitenkin	Adv	kuitenkin-r
 tällaiset	A_Nom_Pl	tällainen-j
 ehm	FPAUSE	ehm
@@ -12822,7 +12822,7 @@ oikeudet	N_Nom_Pl	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1110:9" video="https://media.dipintra.it/?id=1110&start=00.51&end=01.03&collection=eptic3">
+<s id="1110:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1110.wmv&start=00.00.51&end=00.01.03">
 Ehm	FPAUSE	ehm
 ihmiset	N_Nom_Pl	ihminen-n
 eivät	V_Neg_Pl3	ei-v
@@ -12869,7 +12869,7 @@ hoidettu	PrfPrc_Pass_Nom_Sg	hoitaa-x
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="FI08" gender="F" native="NA">
-<s id="1123:1" video="https://media.dipintra.it/?id=1123&start=00.13&end=00.25&collection=eptic3">
+<s id="1123:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.00.13&end=00.00.25">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -12899,7 +12899,7 @@ tänään	Adv	tänään-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:2" video="https://media.dipintra.it/?id=1123&start=00.25&end=00.27&collection=eptic3">
+<s id="1123:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.00.25&end=00.00.27">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 viisi	Num_Nom_Sg	viisi-m
@@ -12907,7 +12907,7 @@ kommenttia	N_Par_Sg	kommentti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:3" video="https://media.dipintra.it/?id=1123&start=00.27&end=00.41&collection=eptic3">
+<s id="1123:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.00.27&end=00.00.41">
 Ensinnäkin	N_Gen_Sg	Ensinnäkin-n
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12932,7 +12932,7 @@ adoptioissa	N_Ine_Pl	adoptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:4" video="https://media.dipintra.it/?id=1123&start=00.42&end=00.56&collection=eptic3">
+<s id="1123:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.00.42&end=00.00.56">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -12957,7 +12957,7 @@ suhteen	Adp_Po	suhteen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:5" video="https://media.dipintra.it/?id=1123&start=00.57&end=01.01&collection=eptic3">
+<s id="1123:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.00.57&end=00.01.01">
 Otan	V_Prs_Act_Sg1	Ota-v
 esille	Adv	esille-r
 kaksi	Num_Nom_Sg	kaksi-m
@@ -12966,7 +12966,7 @@ tarkemmin	Adv	tarkemmin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:6" video="https://media.dipintra.it/?id=1123&start=01.02&end=01.15&collection=eptic3">
+<s id="1123:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.01.02&end=00.01.15">
 Ensinnäkin	N_Gen_Sg	Ensinnäkin-n
 tuleva	PrsPrc_Act_Nom_Sg	tulla-x
 tiedonanto	N_Nom_Sg	tiedonanto-n
@@ -12989,7 +12989,7 @@ oikeuksia	N_Par_Pl	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:7" video="https://media.dipintra.it/?id=1123&start=01.17&end=01.26&collection=eptic3">
+<s id="1123:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.01.17&end=00.01.26">
 Erityisesti	Adv	erityisesti-r
 pyritään	V_Prs_Pass_Pe4	pyrkiä-v
 parantamaan	V_Inf3_Ill	parantaa-v
@@ -13010,7 +13010,7 @@ toimeenpanossa	N_Ine_Sg	toimeenpano-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:8" video="https://media.dipintra.it/?id=1123&start=01.27&end=01.49&collection=eptic3">
+<s id="1123:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.01.27&end=00.01.49">
 Toisekseen	Pron_Qnt_Tra_Sg	toinen-p
 <g/>
 ,	Punct	,-x
@@ -13046,7 +13046,7 @@ ssa	N_Nom_Sg	ssa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:9" video="https://media.dipintra.it/?id=1123&start=01.52&end=02.03&collection=eptic3">
+<s id="1123:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.01.52&end=00.02.03">
 Toisekseen	Pron_Qnt_Tra_Sg	toinen-p
 olen	V_Prs_Act_Sg1	olla-v
 samaa	Pron_Qnt_Par_Sg	sama-p
@@ -13072,7 +13072,7 @@ avulla	N_Ade_Sg	avu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:10" video="https://media.dipintra.it/?id=1123&start=02.03&end=02.12&collection=eptic3">
+<s id="1123:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.02.03&end=00.02.12">
 Komissio	N_Nom_Sg	komissio-n
 haluaa	V_Prs_Act_Sg3	haluta-v
 korostaa	V_Inf1_Lat	korostaa-v
@@ -13098,7 +13098,7 @@ vastuulla	N_Ade_Sg	vastuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:11" video="https://media.dipintra.it/?id=1123&start=02.16&end=02.38&collection=eptic3">
+<s id="1123:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.02.16&end=00.02.38">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 toimenpide	N_Nom_Sg	toimipide-n
 on	V_Prs_Act_Sg3	olla-v
@@ -13129,7 +13129,7 @@ taustalla	N_Ade_Sg	tausta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:12" video="https://media.dipintra.it/?id=1123&start=02.38&end=02.46&collection=eptic3">
+<s id="1123:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.02.38&end=00.02.46">
 Ja	CC	ja-x
 korostan	V_Prs_Act_Sg1	korostaa-v
 vielä	Adv	vielä-r
@@ -13152,7 +13152,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:13" video="https://media.dipintra.it/?id=1123&start=02.47&end=02.49&collection=eptic3">
+<s id="1123:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.02.47&end=00.02.49">
 Kolmas	Num_Ord_Nom_Sg	kolmas-m
 asia	N_Nom_Sg	asia-n
 koskee	V_Prs_Act_Sg3	koskea-v
@@ -13160,7 +13160,7 @@ valvontaa	N_Par_Sg	valvonta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:14" video="https://media.dipintra.it/?id=1123&start=02.50&end=03.07&collection=eptic3">
+<s id="1123:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.02.50&end=00.03.07">
 Uskomme	V_Prs_Act_Pl1	uskoa-v
 vakaasti	Adv	vakaasti-r
 <g/>
@@ -13186,7 +13186,7 @@ adoptiota	N_Par_Sg	adoptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:15" video="https://media.dipintra.it/?id=1123&start=03.09&end=03.28&collection=eptic3">
+<s id="1123:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.03.09&end=00.03.28">
 Komissio	N_Nom_Sg	komissio-n
 osallistui	V_PrfPrc_Act_Sg3	osallistua-v
 tähän	Pron_Dem_Ill_Sg	tämä-p
@@ -13218,7 +13218,7 @@ puitteissa	N_Ine_Pl	puite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:16" video="https://media.dipintra.it/?id=1123&start=03.28&end=03.40&collection=eptic3">
+<s id="1123:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.03.28&end=00.03.40">
 Neljänneksi	Num_Ord_Tra_Sg	neljäs-m
 komissio	N_Nom_Sg	komissio-n
 katsoo	V_Prs_Act_Sg3	katsoa-v
@@ -13234,7 +13234,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:17" video="https://media.dipintra.it/?id=1123&start=03.41&end=03.46&collection=eptic3">
+<s id="1123:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.03.41&end=00.03.46">
 Samoin	Adv	Samo-r
 on	V_Prs_Act_Sg3	olla-v
 otettava	PrsPrc_Pass_Nom_Sg	ottaa-x
@@ -13246,7 +13246,7 @@ lainsäädännöt	N_Nom_Pl	lakisäädäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:18" video="https://media.dipintra.it/?id=1123&start=03.46&end=03.56&collection=eptic3">
+<s id="1123:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.03.46&end=00.03.56">
 Ja	CC	ja-x
 viidenneksi	Num_Ord_Tra_Sg	viides-m
 ja	CC	ja-x
@@ -13276,7 +13276,7 @@ tänään	Adv	tänään-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:19" video="https://media.dipintra.it/?id=1123&start=03.56&end=04.09&collection=eptic3">
+<s id="1123:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.03.56&end=00.04.09">
 Vien	V_Prs_Act_Sg1	viedä-v
 Redingille	N_All_Sg	Redingille-n
 terveiset	N_Nom_Pl	terveiset-n
@@ -13309,7 +13309,7 @@ hänelle	Pron_Pers_All_Sg	hän-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:20" video="https://media.dipintra.it/?id=1123&start=04.10&end=04.21&collection=eptic3">
+<s id="1123:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.04.10&end=00.04.21">
 Itse	Pron_Refl_Nom_Sg	itse-p
 olen	V_Prs_Act_Sg1	olla-v
 adoptoidun	PrfPrc_Pass_Gen_Sg	adoptoida-x
@@ -13336,7 +13336,7 @@ ottaa	V_Inf1_Lat	ottaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:21" video="https://media.dipintra.it/?id=1123&start=04.22&end=04.37&collection=eptic3">
+<s id="1123:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.04.22&end=00.04.37">
 Olen	V_Prs_Act_Sg1	Ole-v
 kuunnellut	PrfPrc_Act_Nom_Sg	kuunnella-x
 tämäniltaista	A_Par_Sg	tämäniltainen-j
@@ -13366,7 +13366,7 @@ lainsäädännöstä	N_Ela_Sg	lakisäädäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1123:22" video="https://media.dipintra.it/?id=1123&start=04.38&end=04.48&collection=eptic3">
+<s id="1123:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1123.wmv&start=00.04.38&end=00.04.48">
 Ja	CC	ja-x
 toivokaamme	V_Imprt_Act_Pl1	toivoa-v
 <g/>
@@ -13398,7 +13398,7 @@ maissa	N_Ine_Pl	maa-n
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1138:1" video="https://media.dipintra.it/?id=1138&start=00.09&end=00.35&collection=eptic3">
+<s id="1138:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.00.09&end=00.00.35">
 Niin	Adv	niin-r
 haluan	V_Prs_Act_Sg1	haluta-v
 esittää	V_Inf1_Lat	esittää-v
@@ -13429,7 +13429,7 @@ matkalaukkujaan	N_Par_Pl	matkalaukkujaan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1138:2" video="https://media.dipintra.it/?id=1138&start=00.35&end=00.45&collection=eptic3">
+<s id="1138:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.00.35&end=00.00.45">
 Se	Pron_Dem_Nom_Sg	se-p
 <g/>
 ,	Punct	,-x
@@ -13457,7 +13457,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1138:3" video="https://media.dipintra.it/?id=1138&start=00.45&end=00.58&collection=eptic3">
+<s id="1138:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.00.45&end=00.00.58">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -13495,7 +13495,7 @@ korvauksen	N_Gen_Sg	korvaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1138:4" video="https://media.dipintra.it/?id=1138&start=00.58&end=01.08&collection=eptic3">
+<s id="1138:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.00.58&end=00.01.08">
 Ja	CC	ja-x
 jotta	CS	jotta-x
 voidaan	V_Prs_Pass_Pe4	voida-v
@@ -13517,7 +13517,7 @@ tilanteita	N_Par_Pl	tilanne-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1138:5" video="https://media.dipintra.it/?id=1138&start=01.09&end=01.18&collection=eptic3">
+<s id="1138:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.01.09&end=00.01.18">
 Ehm	FPAUSE	ehm
 Potsdamin	N_Prop_Gen_Sg	Potsdam-n
 ehm	FPAUSE	ehm
@@ -13537,7 +13537,7 @@ sulavat	V_Prs_Act_Pl3	sulaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1138:6" video="https://media.dipintra.it/?id=1138&start=01.18&end=01.23&collection=eptic3">
+<s id="1138:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1138.wmv&start=00.01.18&end=00.01.23">
 Me	Pron_Pers_Nom_Pl	me-p
 emme	V_Neg_Pl1	ei-v
 voi	V_Prs_Act_ConNeg	voida-v
@@ -13563,7 +13563,7 @@ niihin	Pron_Dem_Ill_Pl	ne-p
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1139:1" video="https://media.dipintra.it/?id=1139&start=00.09&end=00.11&collection=eptic3">
+<s id="1139:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1139.wmv&start=00.00.09&end=00.00.11">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 ,	Punct	,-x
@@ -13572,7 +13572,7 @@ kollegat	N_Nom_Pl	kollega-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1139:2" video="https://media.dipintra.it/?id=1139&start=00.11&end=00.32&collection=eptic3">
+<s id="1139:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1139.wmv&start=00.00.11&end=00.00.32">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 ihmisoikeusjulkilausuman	N_Gen_Sg	ihmisoikeusjulkilausuman-n
@@ -13601,7 +13601,7 @@ joulumessu	N_Nom_Sg	joulumessu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1139:3" video="https://media.dipintra.it/?id=1139&start=00.32&end=00.48&collection=eptic3">
+<s id="1139:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1139.wmv&start=00.00.32&end=00.00.48">
 Mutta	CC	Mutta-x
 Turkin	N_Prop_Gen_Sg	Turkki-n
 viranomaisten	N_Gen_Pl	virkaomainen-n
@@ -13632,7 +13632,7 @@ järjestetty	PrfPrc_Pass_Nom_Sg	järjestää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1139:4" video="https://media.dipintra.it/?id=1139&start=00.48&end=00.56&collection=eptic3">
+<s id="1139:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1139.wmv&start=00.00.48&end=00.00.56">
 Hyvä	A_Nom_Sg	hyvä-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13660,13 +13660,13 @@ maaperällä	N_Ade_Sg	maaperä-n
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="FI10" gender="F" native="NA">
-<s id="1140:1" video="https://media.dipintra.it/?id=1140&start=00.09&end=00.10&collection=eptic3">
+<s id="1140:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.09&end=00.00.10">
 Herra	N_Nom_Sg	Herra-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1140:2" video="https://media.dipintra.it/?id=1140&start=00.10&end=00.24&collection=eptic3">
+<s id="1140:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.10&end=00.00.24">
 Joulupäivänä	N_Ess_Sg	joulupäivä-n
 Kyproksen	N_Prop_Gen_Sg	Kypros-n
 miehitetyllä	PrfPrc_Pass_Ade_Sg	miehittää-x
@@ -13683,7 +13683,7 @@ messun	N_Ela_Sg	messun-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1140:3" video="https://media.dipintra.it/?id=1140&start=00.24&end=00.35&collection=eptic3">
+<s id="1140:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.24&end=00.00.35">
 Ja	CC	ja-x
 ehm	FPAUSE	ehm
 siellä	Adv	siellä-r
@@ -13705,7 +13705,7 @@ paikalta	N_Abl_Sg	paikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1140:4" video="https://media.dipintra.it/?id=1140&start=00.35&end=00.39&collection=eptic3">
+<s id="1140:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.35&end=00.00.39">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 oli	V_PrfPrc_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
@@ -13715,7 +13715,7 @@ tilaisuus	N_Nom_Sg	tilaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1140:5" video="https://media.dipintra.it/?id=1140&start=00.40&end=00.51&collection=eptic3">
+<s id="1140:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.40&end=00.00.51">
 Ja	CC	ja-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 toimi	V_Prs_Act_ConNeg	toimia-v
@@ -13732,7 +13732,7 @@ kohtaan	N_Ill_Sg	kohta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1140:6" video="https://media.dipintra.it/?id=1140&start=00.51&end=01.18&collection=eptic3">
+<s id="1140:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1140.wmv&start=00.00.51&end=00.01.18">
 Kaikki	Pron_Qnt_Nom	kaikki-p
 ehm	FPAUSE	ehm
 nämä	Pron_Dem_Nom_Pl	nämä-p
@@ -13788,7 +13788,7 @@ vähän	Adv	vähän-r
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="FI10" gender="F" native="NA">
-<s id="1141:1" video="https://media.dipintra.it/?id=1141&start=00.10&end=00.13&collection=eptic3">
+<s id="1141:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.00.10&end=00.00.13">
 Kiitoksia	N_Par_Pl	kiitos-n
 paljon	Adv	paljon-r
 <g/>
@@ -13801,7 +13801,7 @@ kollegat	N_Nom_Pl	kollega-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1141:2" video="https://media.dipintra.it/?id=1141&start=00.13&end=00.18&collection=eptic3">
+<s id="1141:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.00.13&end=00.00.18">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 tuoda	V_Inf1_Lat	tuoda-v
 esille	Adv	esille-r
@@ -13823,7 +13823,7 @@ sopimukseen	N_Ill_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1141:3" video="https://media.dipintra.it/?id=1141&start=00.19&end=00.34&collection=eptic3">
+<s id="1141:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.00.19&end=00.00.34">
 Tällaisen	A_Gen_Sg	tällainen-j
 ehm	FPAUSE	ehm
 yhteistyön	N_Gen_Sg	yhteistyö-n
@@ -13853,7 +13853,7 @@ samana	Pron_Qnt_Ess_Sg	sama-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1141:4" video="https://media.dipintra.it/?id=1141&start=00.35&end=00.51&collection=eptic3">
+<s id="1141:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.00.35&end=00.00.51">
 Ehm	FPAUSE	ehm
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 komissio	N_Nom_Sg	komissio-n
@@ -13881,7 +13881,7 @@ sopimus	N_Nom_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1141:5" video="https://media.dipintra.it/?id=1141&start=00.52&end=01.11&collection=eptic3">
+<s id="1141:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.00.52&end=00.01.11">
 Sitä	Pron_Dem_Par_Sg	se-p
 ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
@@ -13914,7 +13914,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1141:6" video="https://media.dipintra.it/?id=1141&start=01.12&end=01.16&collection=eptic3">
+<s id="1141:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1141.wmv&start=00.01.12&end=00.01.16">
 Ja	CC	ja-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -13939,7 +13939,7 @@ esille	Adv	esille-r
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1142:1" video="https://media.dipintra.it/?id=1142&start=00.09&end=00.11&collection=eptic3">
+<s id="1142:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.09&end=00.00.11">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -13947,7 +13947,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1142:2" video="https://media.dipintra.it/?id=1142&start=00.12&end=00.19&collection=eptic3">
+<s id="1142:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.12&end=00.00.19">
 Ensi	A	Ensi-j
 viikolla	N_Ade_Sg	viikko-n
 tullaan	V_Prs_Act_Sg1	tullata-v
@@ -13961,7 +13961,7 @@ kansallisrunoilijaa	N_Par_Sg	kansallisrunoilijaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1142:3" video="https://media.dipintra.it/?id=1142&start=00.20&end=00.25&collection=eptic3">
+<s id="1142:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.20&end=00.00.25">
 Hän	Pron_Pers_Nom_Sg	hän-p
 <g/>
 ,	Punct	,-x
@@ -13973,7 +13973,7 @@ haggis	N_Nom_Sg	haggis-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1142:4" video="https://media.dipintra.it/?id=1142&start=00.26&end=00.33&collection=eptic3">
+<s id="1142:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.26&end=00.00.33">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 eurooppalaiset	A_Prop_Nom_Pl	eurooppalainen-j
@@ -13985,7 +13985,7 @@ tuomisen	N_Gen_Sg	tuominen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1142:5" video="https://media.dipintra.it/?id=1142&start=00.33&end=00.49&collection=eptic3">
+<s id="1142:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.33&end=00.00.49">
 Ehm	FPAUSE	ehm
 me	Pron_Pers_Nom_Pl	me-p
 kuitenkin	Adv	kuitenkin-r
@@ -14009,7 +14009,7 @@ Amerikkaan	N_Prop_Ill_Sg	Amerikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1142:6" video="https://media.dipintra.it/?id=1142&start=00.49&end=00.53&collection=eptic3">
+<s id="1142:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1142.wmv&start=00.00.49&end=00.00.53">
 Amerikkalaisetkin	A_Prop_Nom_Pl	amerikkalainen-j
 haluavat	V_Prs_Act_Pl3	haluta-v
 illallisellaan	N_Ade_Sg	illallisellaan-n
@@ -14026,7 +14026,7 @@ syödä	V_Inf1_Lat	syödä-v
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1143:1" video="https://media.dipintra.it/?id=1143&start=00.10&end=00.19&collection=eptic3">
+<s id="1143:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.00.10&end=00.00.19">
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
@@ -14047,7 +14047,7 @@ perusihmisoikeus	N_Nom_Sg	perusihminenoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1143:2" video="https://media.dipintra.it/?id=1143&start=00.20&end=00.32&collection=eptic3">
+<s id="1143:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.00.20&end=00.00.32">
 Kuitenkin	Adv	kuitenkin-r
 omassa	A_Ine_Sg	oma-j
 maassani	N_Ine_Sg	maa-n
@@ -14070,7 +14070,7 @@ tekemästä	V_Inf3_Ela	tehdä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1143:3" video="https://media.dipintra.it/?id=1143&start=00.32&end=00.48&collection=eptic3">
+<s id="1143:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.00.32&end=00.00.48">
 Ehm	FPAUSE	ehm
 Turkin	N_Prop_Gen_Sg	Turkki-n
 ehm	FPAUSE	ehm
@@ -14092,7 +14092,7 @@ kirkosta	N_Ela_Sg	kirkko-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1143:4" video="https://media.dipintra.it/?id=1143&start=00.48&end=00.59&collection=eptic3">
+<s id="1143:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.00.48&end=00.00.59">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -14113,7 +14113,7 @@ pohjoisosassa	N_Ine_Sg	pohjoisosa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1143:5" video="https://media.dipintra.it/?id=1143&start=00.59&end=01.07&collection=eptic3">
+<s id="1143:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.00.59&end=00.01.07">
 Se	Pron_Dem_Nom_Sg	se-p
 rikkoo	V_Prs_Act_Sg3	rikkoa-v
 ihmisoikeuksia	N_Par_Pl	ihminenoikeus-n
@@ -14129,7 +14129,7 @@ sopimusta	N_Par_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1143:6" video="https://media.dipintra.it/?id=1143&start=01.07&end=01.22&collection=eptic3">
+<s id="1143:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1143.wmv&start=00.01.07&end=00.01.22">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unionin	N_Gen_Sg	unioni-n
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -14158,7 +14158,7 @@ puhdistusta	N_Par_Sg	puhdistus-n
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="FI08" gender="F" native="NA">
-<s id="1144:1" video="https://media.dipintra.it/?id=1144&start=00.11&end=00.19&collection=eptic3">
+<s id="1144:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.00.11&end=00.00.19">
 Elintarvikkeiden	N_Gen_Pl	elintarvike-n
 ravintolisädirektiivi	N_Nom_Sg	ravintolisädirektiivi-n
 hyväksyttiin	V_PrfPrc_Pass_Pe4	hyväksyä-v
@@ -14178,7 +14178,7 @@ täytäntöön	Adv	täytäntöön-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1144:2" video="https://media.dipintra.it/?id=1144&start=00.19&end=00.39&collection=eptic3">
+<s id="1144:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.00.19&end=00.00.39">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 siksi	Pron_Dem_Tra_Sg	se-p
@@ -14218,7 +14218,7 @@ lainsäädäntöä	N_Par_Sg	lakisäädäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1144:3" video="https://media.dipintra.it/?id=1144&start=00.39&end=00.52&collection=eptic3">
+<s id="1144:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.00.39&end=00.00.52">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -14247,7 +14247,7 @@ näin	Adv	näin-r
 <g/>
 ...	EPAUSE	...-x
 </s>
-<s id="1144:4" video="https://media.dipintra.it/?id=1144&start=01.00&end=01.10&collection=eptic3">
+<s id="1144:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.01.00&end=00.01.10">
 Tässäkin	Pron_Dem_Ine_Sg	tämä-p
 asiassa	N_Ine_Sg	asia-n
 komission	N_Gen_Sg	komissio-n
@@ -14273,7 +14273,7 @@ vaatimuksia	N_Par_Pl	vaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1144:5" video="https://media.dipintra.it/?id=1144&start=01.11&end=01.14&collection=eptic3">
+<s id="1144:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.01.11&end=00.01.14">
 Ja	CC	ja-x
 mitä	Pron_Rel_Par	mikä-p
 pikemmin	Adv	pikemmin-r
@@ -14284,7 +14284,7 @@ parempi	A_Nom_Sg	parempi-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1144:6" video="https://media.dipintra.it/?id=1144&start=01.14&end=01.17&collection=eptic3">
+<s id="1144:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1144.wmv&start=00.01.14&end=00.01.17">
 Ja	CC	ja-x
 toivottavasti	Adv	toivottavasti-r
 komissio	N_Nom_Sg	komissio-n
@@ -14302,7 +14302,7 @@ toimeen	N_Ill_Sg	toimi-n
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1124:1" video="https://media.dipintra.it/?id=1124&start=00.09&end=00.13&collection=eptic3">
+<s id="1124:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.09&end=00.00.13">
 Ihan	Adv	ihan-r
 lyhyesti	Adv	lyhyesti-r
 vain	Adv	vain-r
@@ -14313,7 +14313,7 @@ kysymyksiä	N_Par_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1124:2" video="https://media.dipintra.it/?id=1124&start=00.14&end=00.24&collection=eptic3">
+<s id="1124:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.14&end=00.00.24">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 EU	N_Nom_Sg	EU-n
@@ -14347,7 +14347,7 @@ kansalaisjärjestöille	N_All_Pl	kansalaisjärjestö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1124:3" video="https://media.dipintra.it/?id=1124&start=00.25&end=00.36&collection=eptic3">
+<s id="1124:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.25&end=00.00.36">
 Kysymys	N_Nom_Sg	kysymys-n
 <g/>
 ...	EPAUSE	...-x
@@ -14377,7 +14377,7 @@ varaumia	N_Par_Pl	varauma-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1124:4" video="https://media.dipintra.it/?id=1124&start=00.37&end=00.42&collection=eptic3">
+<s id="1124:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.37&end=00.00.42">
 Vai	CC	vai-x
 annammeko	V_Prs_Act_Pl1	antaa-v
 me	Pron_Pers_Nom_Pl	me-p
@@ -14390,7 +14390,7 @@ vuosittain	Adv	vuosittain-r
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1124:5" video="https://media.dipintra.it/?id=1124&start=00.42&end=00.45&collection=eptic3">
+<s id="1124:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.42&end=00.00.45">
 Ehm	FPAUSE	ehm
 missä	Pron_Rel_Ine	mikä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -14399,7 +14399,7 @@ vastuukysymykset	N_Nom_Pl	vastuukysymys-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1124:6" video="https://media.dipintra.it/?id=1124&start=00.46&end=00.50&collection=eptic3">
+<s id="1124:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.46&end=00.00.50">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 tässä	Pron_Dem_Ine_Sg	tämä-p
 näin	Adv	näin-r
@@ -14417,7 +14417,7 @@ minua	Pron_Pers_Par_Sg	minä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1124:7" video="https://media.dipintra.it/?id=1124&start=00.51&end=00.58&collection=eptic3">
+<s id="1124:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.51&end=00.00.58">
 Ehm	FPAUSE	ehm
 minua	Pron_Pers_Par_Sg	minä-p
 huoletti	V_PrfPrc_Act_Sg3	huoletti-v
@@ -14441,7 +14441,7 @@ vastuullisia	A_Par_Pl	vastuullinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1124:8" video="https://media.dipintra.it/?id=1124&start=00.58&end=01.00&collection=eptic3">
+<s id="1124:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1124.wmv&start=00.00.58&end=00.01.00">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 kyllä	Adv	kyllä-r
 <g/>
@@ -14461,7 +14461,7 @@ on	V_Prs_Act_Sg3	olla-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1125:1" video="https://media.dipintra.it/?id=1125&start=00.00&end=00.13&collection=eptic3">
+<s id="1125:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.00&end=00.00.13">
 Kiitoksia	N_Par_Pl	kiitos-n
 kovasti	Adv	kovasti-r
 <g/>
@@ -14470,7 +14470,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:2" video="https://media.dipintra.it/?id=1125&start=00.13&end=00.26&collection=eptic3">
+<s id="1125:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.13&end=00.00.26">
 Olen	V_Prs_Act_Sg1	Ole-v
 erittäin	Adv	erittäin-r
 tyytyväinen	A_Nom_Sg	tyytyväinen-j
@@ -14492,7 +14492,7 @@ puolesta	Adp_Po	puolesta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:3" video="https://media.dipintra.it/?id=1125&start=00.26&end=00.29&collection=eptic3">
+<s id="1125:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.26&end=00.00.29">
 Vuonna	N_Ess_Sg	vuosi-n
 2007	Num_Nom_Sg	@card@-m
 ehm	FPAUSE	ehm
@@ -14502,7 +14502,7 @@ konsensus	N_Nom_Sg	konsensus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:4" video="https://media.dipintra.it/?id=1125&start=00.29&end=00.38&collection=eptic3">
+<s id="1125:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.29&end=00.00.38">
 Ehm	FPAUSE	ehm
 se	Pron_Dem_Nom_Sg	se-p
 tarjoaa	V_Prs_Act_Sg3	tarjota-v
@@ -14523,7 +14523,7 @@ toimintasuunnitelma	N_Nom_Sg	toimintasuunnitelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:5" video="https://media.dipintra.it/?id=1125&start=00.38&end=00.48&collection=eptic3">
+<s id="1125:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.38&end=00.00.48">
 Sekä	CC	sekä-x
 jäsenvaltiot	N_Nom_Pl	jäsenvaltio-n
 että	CS	että-x
@@ -14546,7 +14546,7 @@ täytäntöönpannaan	N_Nom_Sg	täytäntöönpanna-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:6" video="https://media.dipintra.it/?id=1125&start=00.48&end=01.31&collection=eptic3">
+<s id="1125:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.00.48&end=00.01.31">
 Ja	CC	ja-x
 korostaisin	V_Cond_Act_Sg1	korostaa-v
 <g/>
@@ -14614,13 +14614,13 @@ sellaiseksi	A_Tra_Sg	sellainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:7" video="https://media.dipintra.it/?id=1125&start=01.31&end=01.32&collection=eptic3">
+<s id="1125:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.01.31&end=00.01.32">
 Annan	V_Prs_Act_Sg1	antaa-v
 esimerkin	N_Gen_Sg	esimerkki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:8" video="https://media.dipintra.it/?id=1125&start=01.32&end=01.35&collection=eptic3">
+<s id="1125:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.01.32&end=00.01.35">
 Tulin	N_Ins_Pl	Tula-n
 tässä	Pron_Dem_Ine_Sg	tämä-p
 vähän	Adv	vähän-r
@@ -14630,7 +14630,7 @@ Jemenistä	N_Prop_Ela_Sg	Jemen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:9" video="https://media.dipintra.it/?id=1125&start=01.35&end=01.42&collection=eptic3">
+<s id="1125:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.01.35&end=00.01.42">
 Siellä	Adv	siellä-r
 yhdessä	Adv	yhdessä-r
 ehm	FPAUSE	ehm
@@ -14652,7 +14652,7 @@ paikalla	N_Ade_Sg	paikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:10" video="https://media.dipintra.it/?id=1125&start=01.42&end=02.05&collection=eptic3">
+<s id="1125:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.01.42&end=00.02.05">
 Tuolloin	Adv	tuolloin-r
 me	Pron_Pers_Nom_Pl	me-p
 ehm	FPAUSE	ehm
@@ -14688,7 +14688,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:11" video="https://media.dipintra.it/?id=1125&start=02.05&end=02.28&collection=eptic3">
+<s id="1125:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.02.05&end=00.02.28">
 Kun	CS	Kun-x
 nyt	Adv	nyt-r
 olen	V_Prs_Act_Sg1	olla-v
@@ -14731,7 +14731,7 @@ tarvitsevat	V_Prs_Act_Pl3	tarvita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:12" video="https://media.dipintra.it/?id=1125&start=02.28&end=02.43&collection=eptic3">
+<s id="1125:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.02.28&end=00.02.43">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 puhumme	V_Prs_Act_Pl1	puhua-v
 kyl-	DYSF	kyl-
@@ -14758,7 +14758,7 @@ pohjoisosassa	N_Ine_Sg	pohjoisosa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:13" video="https://media.dipintra.it/?id=1125&start=02.43&end=02.50&collection=eptic3">
+<s id="1125:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.02.43&end=00.02.50">
 Ehm	FPAUSE	ehm
 jotta	CS	jotta-x
 saadaan	V_Prs_Pass_Pe4	saada-v
@@ -14775,7 +14775,7 @@ riitä	V_Prs_Act_ConNeg	riittää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:14" video="https://media.dipintra.it/?id=1125&start=02.50&end=02.53&collection=eptic3">
+<s id="1125:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.02.50&end=00.02.53">
 Täytyy	V_Prs_Act_Sg3	täytyä-v
 saada	V_Inf1_Lat	saada-v
 aikaan	N_Ill_Sg	aika-n
@@ -14787,7 +14787,7 @@ rauhaa	N_Par_Sg	rauha-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:15" video="https://media.dipintra.it/?id=1125&start=02.53&end=03.06&collection=eptic3">
+<s id="1125:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.02.53&end=00.03.06">
 Komissiossa	N_Ine_Sg	komissio-n
 olemme	V_Prs_Act_Pl1	olla-v
 nyt	Adv	nyt-r
@@ -14806,7 +14806,7 @@ suunnitelmaamme	N_Ill_Sg	suunnitelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:16" video="https://media.dipintra.it/?id=1125&start=03.06&end=03.12&collection=eptic3">
+<s id="1125:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.06&end=00.03.12">
 Olemme	V_Prs_Act_Pl1	Ole-v
 tehneet	PrfPrc_Act_Nom_Pl	tehdä-x
 yhteistyötä	N_Par_Sg	yhteistyö-n
@@ -14822,7 +14822,7 @@ tiedonannon	N_Gen_Sg	tietoanto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:17" video="https://media.dipintra.it/?id=1125&start=03.12&end=03.34&collection=eptic3">
+<s id="1125:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.12&end=00.03.34">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tarkastus	N_Nom_Sg	tarkastus-n
 tai	CC	tai-x
@@ -14863,7 +14863,7 @@ suojelun	N_Gen_Sg	suojelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:18" video="https://media.dipintra.it/?id=1125&start=03.34&end=03.39&collection=eptic3">
+<s id="1125:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.34&end=00.03.39">
 Mutta	CC	Mutta-x
 tiedämme	V_Prs_Act_Pl1	tietää-v
 <g/>
@@ -14877,7 +14877,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:19" video="https://media.dipintra.it/?id=1125&start=03.39&end=03.45&collection=eptic3">
+<s id="1125:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.39&end=00.03.45">
 Ensinnäkin	Adv	Ensinnäkin-r
 meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
@@ -14889,7 +14889,7 @@ tehokkuutta	N_Par_Sg	tehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:20" video="https://media.dipintra.it/?id=1125&start=03.45&end=03.56&collection=eptic3">
+<s id="1125:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.45&end=00.03.56">
 Meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 koordinoida	V_Inf1_Lat	koordinoida-v
@@ -14915,7 +14915,7 @@ tärkeä	A_Nom_Sg	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:21" video="https://media.dipintra.it/?id=1125&start=03.56&end=04.10&collection=eptic3">
+<s id="1125:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.03.56&end=00.04.10">
 Ja	CC	ja-x
 haluaisin	V_Cond_Act_Sg1	haluta-v
 vielä	Adv	vielä-r
@@ -14950,7 +14950,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:22" video="https://media.dipintra.it/?id=1125&start=04.10&end=04.40&collection=eptic3">
+<s id="1125:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.04.10&end=00.04.40">
 Pyrimme	V_Prs_Act_Pl1	pyrkiä-v
 varmistamaan	V_Inf3_Ill	varmistaa-v
 aina	Adv	aina-r
@@ -15002,7 +15002,7 @@ käyttöä	N_Par_Sg	käyttö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:23" video="https://media.dipintra.it/?id=1125&start=04.40&end=04.46&collection=eptic3">
+<s id="1125:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.04.40&end=00.04.46">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 Jemenissä	N_Prop_Ine_Sg	Jemen-n
 ehm	FPAUSE	ehm
@@ -15015,7 +15015,7 @@ virastostamme	N_Ela_Sg	virastostamme-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:24" video="https://media.dipintra.it/?id=1125&start=04.46&end=04.52&collection=eptic3">
+<s id="1125:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.04.46&end=00.04.52">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 parannukselle	N_All_Sg	parannus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -15025,7 +15025,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:25" video="https://media.dipintra.it/?id=1125&start=04.52&end=04.56&collection=eptic3">
+<s id="1125:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.04.52&end=00.04.56">
 Meidän	Pron_Pers_Gen_Pl	me-p
 tulisi	V_Cond_Act_Sg3	tulla-v
 vahvistaa	V_Inf1_Lat	vahvistaa-v
@@ -15034,7 +15034,7 @@ eurooppalaista	A_Prop_Par_Sg	eurooppalainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:26" video="https://media.dipintra.it/?id=1125&start=04.56&end=05.14&collection=eptic3">
+<s id="1125:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.04.56&end=00.05.14">
 Me	Pron_Pers_Nom_Pl	me-p
 olemme	V_Prs_Act_Pl1	olla-v
 suurin	A_Nom_Sg	suuri-j
@@ -15080,7 +15080,7 @@ yhdellä	Num_Ade_Sg	yksi-m
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:27" video="https://media.dipintra.it/?id=1125&start=05.14&end=05.33&collection=eptic3">
+<s id="1125:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.05.14&end=00.05.33">
 Ja	CC	ja-x
 kolmanneksi	Num_Ord_Tra_Sg	kolmas-m
 meidän	Pron_Pers_Gen_Pl	me-p
@@ -15111,7 +15111,7 @@ asiaamme	N_Par_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:28" video="https://media.dipintra.it/?id=1125&start=05.33&end=05.50&collection=eptic3">
+<s id="1125:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.05.33&end=00.05.50">
 Ja	CC	ja-x
 vielä	Adv	vielä-r
 loppuun	N_Ill_Sg	loppu-n
@@ -15146,7 +15146,7 @@ muuttunut	PrfPrc_Act_Nom_Sg	muuttua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1125:29" video="https://media.dipintra.it/?id=1125&start=05.50&end=06.30&collection=eptic3">
+<s id="1125:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1125.wmv&start=00.05.50&end=00.06.30">
 Yhä	Adv	yhä-r
 enemmän	Adv	enemmän-r
 ja	CC	ja-x
@@ -15208,7 +15208,7 @@ tasolla	N_Ade_Sg	taso-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1126:1" video="https://media.dipintra.it/?id=1126&start=00.07&end=00.09&collection=eptic3">
+<s id="1126:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.07&end=00.00.09">
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -15216,7 +15216,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:2" video="https://media.dipintra.it/?id=1126&start=00.09&end=00.20&collection=eptic3">
+<s id="1126:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.09&end=00.00.20">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 kiittää	V_Inf1_Lat	kiittää-v
 esittelijää	N_Par_Sg	esittelijä-n
@@ -15232,7 +15232,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:3" video="https://media.dipintra.it/?id=1126&start=00.20&end=00.27&collection=eptic3">
+<s id="1126:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.20&end=00.00.27">
 Itse	Pron_Refl_Nom_Sg	itse-p
 edellisellä	A_Ade_Sg	edellinen-j
 kaudella	N_Ade_Sg	kausi-n
@@ -15251,7 +15251,7 @@ lausunnon	N_Gen_Sg	lausunto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:4" video="https://media.dipintra.it/?id=1126&start=00.27&end=00.40&collection=eptic3">
+<s id="1126:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.27&end=00.00.40">
 Ikävää	N_Par_Sg	ikävä-n
 <g/>
 ,	Punct	,-x
@@ -15286,7 +15286,7 @@ kyse	N_Nom_Sg	kyse-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:5" video="https://media.dipintra.it/?id=1126&start=00.40&end=00.47&collection=eptic3">
+<s id="1126:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.40&end=00.00.47">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 mietintö	N_Nom_Sg	mietintö-n
@@ -15307,7 +15307,7 @@ pitäen	V_Inf2_Act_Ins	pitää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:6" video="https://media.dipintra.it/?id=1126&start=00.48&end=00.55&collection=eptic3">
+<s id="1126:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.48&end=00.00.55">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 muutamia	Pron_Qnt_Par_Pl	muutama-p
@@ -15326,7 +15326,7 @@ tekstissä	N_Ine_Sg	teksti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:7" video="https://media.dipintra.it/?id=1126&start=00.55&end=01.01&collection=eptic3">
+<s id="1126:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.00.55&end=00.01.01">
 Ehm	FPAUSE	ehm
 voidaan	V_Prs_Pass_Pe4	voida-v
 sanoa	V_Inf1_Lat	sanoa-v
@@ -15351,7 +15351,7 @@ mieltä	N_Par_Sg	mieli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:8" video="https://media.dipintra.it/?id=1126&start=01.01&end=01.07&collection=eptic3">
+<s id="1126:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.01.01&end=00.01.07">
 Me	Pron_Pers_Nom_Pl	me-p
 tarvitsemme	V_Prs_Act_Pl1	tarvita-v
 kaikkia	Pron_Qnt_Par_Pl	kaikki-p
@@ -15366,7 +15366,7 @@ elintarviketurvallisuutta	N_Par_Sg	elintarviketurvallisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:9" video="https://media.dipintra.it/?id=1126&start=01.07&end=01.11&collection=eptic3">
+<s id="1126:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.01.07&end=00.01.11">
 Meidän	Pron_Pers_Gen_Pl	me-p
 täytyy	V_Prs_Act_Sg3	täytyä-v
 puuttua	V_Inf1_Lat	puuttua-v
@@ -15378,7 +15378,7 @@ heilahteluihin	N_Ill_Pl	heilahtelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:10" video="https://media.dipintra.it/?id=1126&start=01.11&end=01.19&collection=eptic3">
+<s id="1126:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.01.11&end=00.01.19">
 Kaikkein	Adv	kaikki-r
 ehm	FPAUSE	ehm
 tärkein	A_Nom_Sg	tärkeä-j
@@ -15397,7 +15397,7 @@ alhainen	A_Nom_Sg	alhainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1126:11" video="https://media.dipintra.it/?id=1126&start=01.19&end=01.25&collection=eptic3">
+<s id="1126:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1126.wmv&start=00.01.19&end=00.01.25">
 Eivät	V_Neg_Pl3	ei-v
 nuoret	A_Nom_Pl	nuori-j
 maanviljelijät	N_Nom_Pl	maaviljelijä-n
@@ -15417,7 +15417,7 @@ ilmaiseksi	A_Tra_Sg	ilmainen-j
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="FI08" gender="F" native="NA">
-<s id="1127:1" video="https://media.dipintra.it/?id=1127&start=00.11&end=00.20&collection=eptic3">
+<s id="1127:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.00.11&end=00.00.20">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -15443,7 +15443,7 @@ tehnyt	PrfPrc_Act_Nom_Sg	tehdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1127:2" video="https://media.dipintra.it/?id=1127&start=00.21&end=00.29&collection=eptic3">
+<s id="1127:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.00.21&end=00.00.29">
 Hän	Pron_Pers_Nom_Sg	hän-p
 on	V_Prs_Act_Sg3	olla-v
 ottanut	PrfPrc_Act_Nom_Sg	ottaa-x
@@ -15467,7 +15467,7 @@ asiaa	N_Par_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1127:3" video="https://media.dipintra.it/?id=1127&start=00.30&end=00.39&collection=eptic3">
+<s id="1127:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.00.30&end=00.00.39">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -15494,7 +15494,7 @@ vähennetä	V_Prs_Pass_ConNeg	vähentää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1127:4" video="https://media.dipintra.it/?id=1127&start=00.39&end=00.44&collection=eptic3">
+<s id="1127:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.00.39&end=00.00.44">
 Toisekseen	Pron_Qnt_Tra_Sg	toinen-p
 toivon	V_Prs_Act_Sg1	toivoa-v
 <g/>
@@ -15508,7 +15508,7 @@ elinkeinoksi	N_Tra_Sg	elinkeino-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1127:5" video="https://media.dipintra.it/?id=1127&start=00.47&end=01.03&collection=eptic3">
+<s id="1127:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.00.47&end=00.01.03">
 Ottaen	V_Inf2_Act_Ins	ottaa-v
 huomioon	N_Ill_Sg	huomio-n
 <g/>
@@ -15529,7 +15529,7 @@ ihmisiä	N_Par_Pl	ihminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1127:6" video="https://media.dipintra.it/?id=1127&start=01.03&end=01.11&collection=eptic3">
+<s id="1127:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1127.wmv&start=00.01.03&end=00.01.11">
 Pitäisikö	V_Cond_Act_Sg3	pitää-v
 meidän	Pron_Pers_Gen_Pl	me-p
 arvioida	V_Inf1_Lat	arvioida-v
@@ -15558,7 +15558,7 @@ alalla	N_Ade_Sg	ala-n
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="FI09" gender="F" native="NA">
-<s id="1128:1" video="https://media.dipintra.it/?id=1128&start=00.09&end=00.23&collection=eptic3">
+<s id="1128:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.09&end=00.00.23">
 Niin	Adv	niin-r
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellähän	N_Ade_Sg	hetki-n
@@ -15582,7 +15582,7 @@ romastrategia	N_Nom_Sg	romastrategia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1128:2" video="https://media.dipintra.it/?id=1128&start=00.23&end=00.31&collection=eptic3">
+<s id="1128:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.23&end=00.00.31">
 Kun	CS	Kun-x
 puhumme	V_Prs_Act_Pl1	puhua-v
 köyhimmistä	A_Ela_Pl	köyhä-j
@@ -15600,7 +15600,7 @@ maanviljelyksestä	N_Ela_Sg	maanviljelys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1128:3" video="https://media.dipintra.it/?id=1128&start=00.31&end=00.34&collection=eptic3">
+<s id="1128:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.31&end=00.00.34">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 johtuu	V_Prs_Act_Sg3	johtua-v
 osittain	Adv	osittain-r
@@ -15616,7 +15616,7 @@ maata	V_Inf1_Lat	maata-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1128:4" video="https://media.dipintra.it/?id=1128&start=00.34&end=00.41&collection=eptic3">
+<s id="1128:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.34&end=00.00.41">
 Ehm	FPAUSE	ehm
 tässä	Pron_Dem_Ine_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
@@ -15636,7 +15636,7 @@ pöydällä	N_Ade_Sg	pöytä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1128:5" video="https://media.dipintra.it/?id=1128&start=00.42&end=00.45&collection=eptic3">
+<s id="1128:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.42&end=00.00.45">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 EU	N_Nom_Sg	EU-n
@@ -15650,7 +15650,7 @@ kysymyksistä	N_Ela_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1128:6" video="https://media.dipintra.it/?id=1128&start=00.45&end=01.02&collection=eptic3">
+<s id="1128:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1128.wmv&start=00.00.45&end=00.01.02">
 Mielestäni	N_Ela_Sg	mieli-n
 maataloussektorilla	N_Ade_Sg	maataloussektori-n
 komissionkin	N_Gen_Sg	komissio-n
@@ -15687,7 +15687,7 @@ pöydille	N_All_Pl	pöytä-n
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="FI05" gender="F" native="NA">
-<s id="1129:1" video="https://media.dipintra.it/?id=1129&start=00.09&end=00.22&collection=eptic3">
+<s id="1129:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1129.wmv&start=00.00.09&end=00.00.22">
 Kiitokset	N_Nom_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -15714,7 +15714,7 @@ siis	Adv	siis-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1129:2" video="https://media.dipintra.it/?id=1129&start=00.23&end=00.34&collection=eptic3">
+<s id="1129:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1129.wmv&start=00.00.23&end=00.00.34">
 Jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 ,	Punct	,-x
@@ -15736,7 +15736,7 @@ parlamentti-ystävällinen	A_Nom_Sg	parlamentti-ystävällinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1129:3" video="https://media.dipintra.it/?id=1129&start=00.34&end=00.39&collection=eptic3">
+<s id="1129:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1129.wmv&start=00.00.34&end=00.00.39">
 Odotan	V_Prs_Act_Sg1	odottaa-v
 hyvää	A_Par_Sg	hyvä-j
 yhteistyötä	N_Par_Sg	yhteistyö-n
@@ -15746,7 +15746,7 @@ kanssanne	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1129:4" video="https://media.dipintra.it/?id=1129&start=00.44&end=00.47&collection=eptic3">
+<s id="1129:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1129.wmv&start=00.00.44&end=00.00.47">
 Ja	CC	ja-x
 nyt	Adv	nyt-r
 siirryn	V_Prs_Act_Sg1	siirtyä-v
@@ -15767,7 +15767,7 @@ sallitte	V_Prs_Act_Pl2	sallia-v
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="FI02" gender="F" native="NA">
-<s id="1130:1" video="https://media.dipintra.it/?id=1130&start=00.09&end=00.14&collection=eptic3">
+<s id="1130:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.09&end=00.00.14">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -15781,7 +15781,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:2" video="https://media.dipintra.it/?id=1130&start=00.14&end=00.28&collection=eptic3">
+<s id="1130:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.14&end=00.00.28">
 On	V_Prs_Act_Sg3	olla-v
 suuri	A_Nom_Sg	suuri-j
 ilo	N_Nom_Sg	ilo-n
@@ -15806,7 +15806,7 @@ assosiaatiosopimuksesta	N_Ela_Sg	assosiaatiosopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:3" video="https://media.dipintra.it/?id=1130&start=00.28&end=00.34&collection=eptic3">
+<s id="1130:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.28&end=00.00.34">
 Haluan	V_Prs_Act_Sg1	haluta-v
 myös	Adv	myös-r
 ilmaista	V_Inf1_Lat	ilmaista-v
@@ -15817,7 +15817,7 @@ Kacinille	NON-TWOL	Kacinille-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:4" video="https://media.dipintra.it/?id=1130&start=00.37&end=00.40&collection=eptic3">
+<s id="1130:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.37&end=00.00.40">
 Hän	Pron_Pers_Nom_Sg	hän-p
 on	V_Prs_Act_Sg3	olla-v
 näin	Adv	näin-r
@@ -15828,7 +15828,7 @@ integraatioprosessiin	N_Ill_Sg	integraatioprosessi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:5" video="https://media.dipintra.it/?id=1130&start=00.41&end=00.49&collection=eptic3">
+<s id="1130:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.41&end=00.00.49">
 Vakautus-	DYSF	Vakautus-
 ja	CC	ja-x
 assosiaatiosopimus	N_Nom_Sg	assosiaatiosopimus-n
@@ -15847,7 +15847,7 @@ unionia	N_Par_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:6" video="https://media.dipintra.it/?id=1130&start=00.49&end=01.02&collection=eptic3">
+<s id="1130:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.00.49&end=00.01.02">
 Ja	CC	ja-x
 sopimuksen	N_Gen_Sg	sopimus-n
 päätavoitteenahan	N_Ess_Sg	päätavoite-n
@@ -15867,7 +15867,7 @@ jäsenyysmahdollisuutta	N_Par_Sg	jäsenyysmahdollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:7" video="https://media.dipintra.it/?id=1130&start=01.03&end=01.13&collection=eptic3">
+<s id="1130:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.01.03&end=00.01.13">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 virstanpylväs	N_Nom_Sg	virstapylväs-n
@@ -15887,7 +15887,7 @@ alueellisestikin	Adv	alueellisesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:8" video="https://media.dipintra.it/?id=1130&start=01.15&end=01.22&collection=eptic3">
+<s id="1130:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.01.15&end=00.01.22">
 Vakautus-	DYSF	Vakautus-
 ja	CC	ja-x
 assosiaatiosopimus	N_Nom_Sg	assosiaatiosopimus-n
@@ -15898,7 +15898,7 @@ puitteet	N_Nom_Pl	puite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:9" video="https://media.dipintra.it/?id=1130&start=01.22&end=01.37&collection=eptic3">
+<s id="1130:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.01.22&end=00.01.37">
 Siinä	Pron_Dem_Ine_Sg	se-p
 esitetään	V_Prs_Pass_Pe4	esittää-v
 komiteoita	N_Par_Pl	komitea-n
@@ -15933,7 +15933,7 @@ ovat	V_Prs_Act_Pl3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:10" video="https://media.dipintra.it/?id=1130&start=01.37&end=01.49&collection=eptic3">
+<s id="1130:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.01.37&end=00.01.49">
 Ja	CC	ja-x
 selvä	A_Nom_Sg	selvä-j
 on	V_Prs_Act_Sg3	olla-v
@@ -15961,7 +15961,7 @@ valiokunnan	N_Gen_Sg	valiokunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:11" video="https://media.dipintra.it/?id=1130&start=01.50&end=01.59&collection=eptic3">
+<s id="1130:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.01.50&end=00.01.59">
 Ja	CC	ja-x
 vähitellen	Adv	vähitellen-r
 pyritään	V_Prs_Pass_Pe4	pyrkiä-v
@@ -15979,7 +15979,7 @@ sisämarkkinoihin	N_Ill_Pl	sisämarkkina-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:12" video="https://media.dipintra.it/?id=1130&start=02.01&end=02.05&collection=eptic3">
+<s id="1130:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.01&end=00.02.05">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tuo	V_Prs_Act_Sg3	tuoda-v
 taloudellista	A_Par_Sg	taloudellinen-j
@@ -15996,7 +15996,7 @@ Serbialle	N_A_Propll_Sg	Serbia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:13" video="https://media.dipintra.it/?id=1130&start=02.09&end=02.15&collection=eptic3">
+<s id="1130:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.09&end=00.02.15">
 Ilman	Adp_Pr	Ilma-x
 muuta	Pron_Qnt_Par_Sg	muu-p
 pyritään	V_Prs_Pass_Pe4	pyrkiä-v
@@ -16009,7 +16009,7 @@ investoinnit	N_Nom_Pl	investointi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:14" video="https://media.dipintra.it/?id=1130&start=02.15&end=02.27&collection=eptic3">
+<s id="1130:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.15&end=00.02.27">
 Ja	CC	ja-x
 siitä	Pron_Dem_Ela_Sg	se-p
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -16037,7 +16037,7 @@ maassa	N_Ine_Sg	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:15" video="https://media.dipintra.it/?id=1130&start=02.29&end=02.32&collection=eptic3">
+<s id="1130:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.29&end=00.02.32">
 Myöskin	Adv	myöskin-r
 ehm	FPAUSE	ehm
 hyödyt	N_Nom_Pl	hyöty-n
@@ -16051,7 +16051,7 @@ tärkeitä	A_Par_Pl	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:16" video="https://media.dipintra.it/?id=1130&start=02.32&end=02.37&collection=eptic3">
+<s id="1130:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.32&end=00.02.37">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 markkinat	N_Nom_Pl	markkina-n
 avautuvat	V_Prs_Act_Pl3	avautua-v
@@ -16060,7 +16060,7 @@ EU-viennille	N_All_Pl	EU-viennille-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:17" video="https://media.dipintra.it/?id=1130&start=02.38&end=02.49&collection=eptic3">
+<s id="1130:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.38&end=00.02.49">
 Aikaisemmin	Adv	aikaisemmin-r
 ehm	FPAUSE	ehm
 tariffit	N_Nom_Pl	tariffi-n
@@ -16082,7 +16082,7 @@ maataloustuotteet	N_Nom_Pl	maataloustuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:18" video="https://media.dipintra.it/?id=1130&start=02.50&end=03.02&collection=eptic3">
+<s id="1130:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.02.50&end=00.03.02">
 Ja	CC	ja-x
 vähitellen	Adv	vähitellen-r
 pyritään	V_Prs_Pass_Pe4	pyrkiä-v
@@ -16103,7 +16103,7 @@ yksinkertaisimmiksi	A_Tra_Pl	yksinkertaisimmiksi-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:19" video="https://media.dipintra.it/?id=1130&start=03.03&end=03.07&collection=eptic3">
+<s id="1130:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.03&end=00.03.07">
 Valtion	N_Gen_Sg	valtio-n
 tukimääräykset	N_Nom_Pl	tukimääräykset-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -16114,7 +16114,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:20" video="https://media.dipintra.it/?id=1130&start=03.07&end=03.14&collection=eptic3">
+<s id="1130:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.07&end=00.03.14">
 Ja	CC	ja-x
 tekijäoikeuskysymyksissä	N_Ine_Pl	tekijäoikeuskysymyksissä-n
 myöskin	Adv	myöskin-r
@@ -16125,7 +16125,7 @@ tasolle	N_All_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:21" video="https://media.dipintra.it/?id=1130&start=03.14&end=03.22&collection=eptic3">
+<s id="1130:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.14&end=00.03.22">
 Ja	CC	ja-x
 vähitellen	Adv	vähitellen-r
 julkisten	A_Gen_Pl	julkinen-j
@@ -16138,7 +16138,7 @@ EU-tarjoajille	N_All_Sg	EU-tarjoajille-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:22" video="https://media.dipintra.it/?id=1130&start=03.24&end=03.47&collection=eptic3">
+<s id="1130:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.24&end=00.03.47">
 Tärkeät	A_Nom_Pl	tärkeä-j
 läheiset	A_Nom_Pl	läheinen-j
 siteet	N_Nom_Pl	side-n
@@ -16187,7 +16187,7 @@ mainita	V_Inf1_Lat	mainita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:23" video="https://media.dipintra.it/?id=1130&start=03.48&end=03.57&collection=eptic3">
+<s id="1130:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.48&end=00.03.57">
 Ja	CC	ja-x
 näin	Adv	näin-r
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
@@ -16203,7 +16203,7 @@ Kaakkois-Euroopassa	N_Prop_Ine_Sg	Kaakkois-Euroopassa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:24" video="https://media.dipintra.it/?id=1130&start=03.57&end=04.06&collection=eptic3">
+<s id="1130:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.03.57&end=00.04.06">
 Ja	CC	ja-x
 on	V_Prs_Act_Sg3	olla-v
 myöskin	Adv	myöskin-r
@@ -16222,7 +16222,7 @@ ryhtynyt	PrfPrc_Act_Nom_Sg	ryhtyä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:25" video="https://media.dipintra.it/?id=1130&start=04.06&end=04.19&collection=eptic3">
+<s id="1130:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.04.06&end=00.04.19">
 Alunperin	N_Ins_Pl	alkuperä-n
 oli	V_PrfPrc_Act_Sg3	olla-v
 ajateltu	PrfPrc_Pass_Nom_Sg	ajatella-x
@@ -16253,7 +16253,7 @@ täytäntöönpanna	N_Nom_Sg	täytäntöönpanna-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:26" video="https://media.dipintra.it/?id=1130&start=04.20&end=04.30&collection=eptic3">
+<s id="1130:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.04.20&end=00.04.30">
 Näin	Adv	näin-r
 Serbia	N_Prop_Nom_Sg	Serbia-n
 osoitti	V_PrfPrc_Act_Sg3	osoittaa-v
@@ -16275,7 +16275,7 @@ hyviä	A_Par_Pl	hyvä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:27" video="https://media.dipintra.it/?id=1130&start=04.30&end=04.47&collection=eptic3">
+<s id="1130:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.04.30&end=00.04.47">
 Kun	CS	Kun-x
 neuvosto	N_Nom_Sg	neuvosto-n
 14.6.2010	Num_Nom_Sg	@card@-m
@@ -16302,7 +16302,7 @@ parlamentissa	N_Ine_Sg	parlamentti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:28" video="https://media.dipintra.it/?id=1130&start=04.47&end=04.57&collection=eptic3">
+<s id="1130:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.04.47&end=00.04.57">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 tämän	Pron_Dem_Gen_Sg	tämä-p
@@ -16326,7 +16326,7 @@ välillä	Adp_Po	välillä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:29" video="https://media.dipintra.it/?id=1130&start=04.58&end=05.04&collection=eptic3">
+<s id="1130:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.04.58&end=00.05.04">
 Ja	CC	ja-x
 toivottavasti	Adv	toivottavasti-r
 näin	Adv	näin-r
@@ -16339,7 +16339,7 @@ hoidettua	PrfPrc_Pass_Par_Sg	hoitaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:30" video="https://media.dipintra.it/?id=1130&start=05.04&end=05.09&collection=eptic3">
+<s id="1130:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.04&end=00.05.09">
 Hyvä	A_Nom_Sg	hyvä-j
 puheenjohtaja	N_Nom_Sg	puheenjohtaja-n
 <g/>
@@ -16351,7 +16351,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:31" video="https://media.dipintra.it/?id=1130&start=05.09&end=05.23&collection=eptic3">
+<s id="1130:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.09&end=00.05.23">
 Lopuksi	N_Tra_Sg	loppu-n
 vielä	Adv	vielä-r
 toteaisin	A_Nom_Sg	toteaisin-j
@@ -16369,7 +16369,7 @@ valmisteluasiakirjassa	N_Ine_Sg	valmisteluasiakirja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:32" video="https://media.dipintra.it/?id=1130&start=05.23&end=05.28&collection=eptic3">
+<s id="1130:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.23&end=00.05.28">
 Todetaan	V_Prs_Pass_Pe4	todeta-v
 se	Pron_Dem_Nom_Sg	se-p
 <g/>
@@ -16384,7 +16384,7 @@ Kacinille	NON-TWOL	Kacinille-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:33" video="https://media.dipintra.it/?id=1130&start=05.29&end=05.44&collection=eptic3">
+<s id="1130:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.29&end=00.05.44">
 Päätöslauselma	N_Nom_Sg	päätöslauselma-n
 on	V_Prs_Act_Sg3	olla-v
 viesti	N_Nom_Sg	viesti-n
@@ -16424,7 +16424,7 @@ mahdollistuisi	V_Cond_Act_Sg3	mahdollistua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:34" video="https://media.dipintra.it/?id=1130&start=05.44&end=05.53&collection=eptic3">
+<s id="1130:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.44&end=00.05.53">
 Ja	CC	ja-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -16444,7 +16444,7 @@ valmistelusta	N_Ela_Sg	valmistelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:35" video="https://media.dipintra.it/?id=1130&start=05.54&end=06.04&collection=eptic3">
+<s id="1130:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.05.54&end=00.06.04">
 Kävin	V_PrfPrc_Act_Sg1	käydä-v
 viime	A	viime-j
 marraskuussa	N_Ine_Sg	marraskuu-n
@@ -16462,7 +16462,7 @@ kyselykaavakkeen	N_Gen_Sg	kyselykaavake-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:36" video="https://media.dipintra.it/?id=1130&start=06.05&end=06.11&collection=eptic3">
+<s id="1130:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.05&end=00.06.11">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 viranomaiset	N_Nom_Pl	virkaomainen-n
 nyt	Adv	nyt-r
@@ -16476,7 +16476,7 @@ kyselyyn	N_Ill_Sg	kysely-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:37" video="https://media.dipintra.it/?id=1130&start=06.11&end=06.16&collection=eptic3">
+<s id="1130:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.11&end=00.06.16">
 Ja	CC	ja-x
 kuun	N_Gen_Sg	kuu-n
 loppuun	N_Ill_Sg	loppu-n
@@ -16488,7 +16488,7 @@ saamaan	V_Inf3_Ill	saada-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:38" video="https://media.dipintra.it/?id=1130&start=06.17&end=06.26&collection=eptic3">
+<s id="1130:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.17&end=00.06.26">
 30.12	Num_Nom_Sg	@card@-m
 <g/>
 .	SENT	.-x
@@ -16505,7 +16505,7 @@ edistymisraporttia	N_Par_Sg	edistyminenraportti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:39" video="https://media.dipintra.it/?id=1130&start=06.26&end=06.40&collection=eptic3">
+<s id="1130:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.26&end=00.06.40">
 Ja	CC	ja-x
 komissio	N_Nom_Sg	komissio-n
 käy	V_Prs_Act_Sg3	käydä-v
@@ -16532,7 +16532,7 @@ menettelyt	N_Nom_Pl	menettely-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:40" video="https://media.dipintra.it/?id=1130&start=06.40&end=06.46&collection=eptic3">
+<s id="1130:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.40&end=00.06.46">
 Ja	CC	ja-x
 jotta	CS	jotta-x
 sitten	Adp_Pr	sitten-x
@@ -16545,7 +16545,7 @@ enemmänkin	Adv	enempi-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:41" video="https://media.dipintra.it/?id=1130&start=06.46&end=06.49&collection=eptic3">
+<s id="1130:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.46&end=00.06.49">
 Hyvä	A_Nom_Sg	hyvä-j
 puheenjohtaja	N_Nom_Sg	puheenjohtaja-n
 <g/>
@@ -16555,7 +16555,7 @@ jäsenet	N_Nom_Pl	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:42" video="https://media.dipintra.it/?id=1130&start=06.49&end=06.55&collection=eptic3">
+<s id="1130:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.49&end=00.06.55">
 Niin	Adv	niin-r
 kuin	CS	kuin-x
 Unkarin	N_Prop_Gen_Sg	Unkari-n
@@ -16572,7 +16572,7 @@ Serbialle	N_A_Propll_Sg	Serbia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:43" video="https://media.dipintra.it/?id=1130&start=06.55&end=06.59&collection=eptic3">
+<s id="1130:43" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.06.55&end=00.06.59">
 Siinä	Pron_Dem_Ine_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 paljon	Adv	paljon-r
@@ -16583,7 +16583,7 @@ mahdollisuuksia	N_Par_Pl	mahdollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:44" video="https://media.dipintra.it/?id=1130&start=07.01&end=07.04&collection=eptic3">
+<s id="1130:44" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.07.01&end=00.07.04">
 Tie	N_Nom_Sg	Tie-n
 on	V_Prs_Act_Sg3	olla-v
 nyt	Adv	nyt-r
@@ -16595,7 +16595,7 @@ tiedossa	N_Ine_Sg	tieto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:45" video="https://media.dipintra.it/?id=1130&start=07.04&end=07.17&collection=eptic3">
+<s id="1130:45" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.07.04&end=00.07.17">
 Nyt	Adv	nyt-r
 sitten	Adp_Pr	sitten-x
 Serbian	N_Prop_Gen_Sg	Serbia-n
@@ -16627,7 +16627,7 @@ hun	NON-TWOL	Hun-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:46" video="https://media.dipintra.it/?id=1130&start=07.18&end=07.27&collection=eptic3">
+<s id="1130:46" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.07.18&end=00.07.27">
 Ja	CC	ja-x
 yhteisellä	A_Ade_Sg	yhteinen-j
 tuella	N_Ade_Sg	tuki-n
@@ -16649,7 +16649,7 @@ integraatiotoimessaan	N_Ine_Sg	integraatiotoimessaan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1130:47" video="https://media.dipintra.it/?id=1130&start=07.28&end=07.44&collection=eptic3">
+<s id="1130:47" video="http://amelia.sslmit.unibo.it/video/video.php?id=1130.wmv&start=00.07.28&end=00.07.44">
 Ja	CC	ja-x
 tästä	Pron_Dem_Ela_Sg	tämä-p
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -16694,7 +16694,7 @@ Kiitos	N_Nom_Sg	kiitos-n
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="FI07" gender="F" native="NA">
-<s id="1137:1" video="https://media.dipintra.it/?id=1137&start=00.11&end=00.18&collection=eptic3">
+<s id="1137:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.11&end=00.00.18">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -16713,7 +16713,7 @@ esittelijälle	N_All_Sg	esittelijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:2" video="https://media.dipintra.it/?id=1137&start=00.19&end=00.26&collection=eptic3">
+<s id="1137:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.19&end=00.00.26">
 Serbia	N_Prop_Nom_Sg	Serbia-n
 näyttäisi	V_Cond_Act_Sg3	näyttää-v
 siltä	Pron_Dem_Abl_Sg	se-p
@@ -16736,7 +16736,7 @@ tulevaisuuden	N_Gen_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:3" video="https://media.dipintra.it/?id=1137&start=00.26&end=00.31&collection=eptic3">
+<s id="1137:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.26&end=00.00.31">
 Suurin	A_Nom_Sg	suuri-j
 osa	N_Nom_Sg	osa-n
 poliitikoista	N_Ela_Pl	poliitikko-n
@@ -16754,7 +16754,7 @@ ratkaisu	N_Nom_Sg	ratkaisu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:4" video="https://media.dipintra.it/?id=1137&start=00.32&end=00.40&collection=eptic3">
+<s id="1137:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.32&end=00.00.40">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 päättäväisyys	N_Nom_Sg	päättäväisyys-n
 <g/>
@@ -16769,7 +16769,7 @@ puitteissa	N_Ine_Pl	puite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:5" video="https://media.dipintra.it/?id=1137&start=00.40&end=00.57&collection=eptic3">
+<s id="1137:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.40&end=00.00.57">
 Siellä	Adv	siellä-r
 oli	V_PrfPrc_Act_Sg3	olla-v
 kommunismia	N_Par_Sg	kommunismi-n
@@ -16813,7 +16813,7 @@ historia	N_Nom_Sg	historia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:6" video="https://media.dipintra.it/?id=1137&start=00.57&end=01.04&collection=eptic3">
+<s id="1137:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.00.57&end=00.01.04">
 Ehm	FPAUSE	ehm
 täten	Adv	täten-r
 nyt	Adv	nyt-r
@@ -16832,7 +16832,7 @@ saavutettu	PrfPrc_Pass_Nom_Sg	saavuttaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:7" video="https://media.dipintra.it/?id=1137&start=01.04&end=01.14&collection=eptic3">
+<s id="1137:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.01.04&end=00.01.14">
 Kaksi	Num_Nom_Sg	kaksi-m
 ongelmaa	N_Par_Sg	ongelma-n
 on	V_Prs_Act_Sg3	olla-v
@@ -16859,7 +16859,7 @@ itsenäisyys	N_Nom_Sg	itsenäisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:8" video="https://media.dipintra.it/?id=1137&start=01.14&end=01.17&collection=eptic3">
+<s id="1137:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.01.14&end=00.01.17">
 Ja	CC	ja-x
 tämä	Pron_Dem_Nom_Sg	tämä-p
 <g/>
@@ -16872,7 +16872,7 @@ esteisiin	N_Ill_Pl	este-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:9" video="https://media.dipintra.it/?id=1137&start=01.17&end=01.30&collection=eptic3">
+<s id="1137:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.01.17&end=00.01.30">
 Mladićilla	N_Ade_Pl	Mladićilla-n
 on	V_Prs_Act_Sg3	olla-v
 omat	A_Nom_Pl	oma-j
@@ -16908,7 +16908,7 @@ tuskallista	A_Par_Sg	tuskallinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:10" video="https://media.dipintra.it/?id=1137&start=01.30&end=01.47&collection=eptic3">
+<s id="1137:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.01.30&end=00.01.47">
 On	V_Prs_Act_Sg3	olla-v
 muitakin	Pron_Qnt_Par_Pl	muu-p
 osa-alueita	N_Par_Pl	osa-alue-n
@@ -16945,7 +16945,7 @@ avataan	V_Prs_Pass_Pe4	avata-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:11" video="https://media.dipintra.it/?id=1137&start=01.49&end=02.01&collection=eptic3">
+<s id="1137:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.01.49&end=00.02.01">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 ennuste	N_Nom_Sg	ennuste-n
 on	V_Prs_Act_Sg3	olla-v
@@ -16981,7 +16981,7 @@ eteenpäin	Adv	eteenpäin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:12" video="https://media.dipintra.it/?id=1137&start=02.02&end=02.11&collection=eptic3">
+<s id="1137:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.02.02&end=00.02.11">
 Jos	CS	Jos-x
 kaikki	Pron_Qnt_Nom	kaikki-p
 menee	V_Prs_Act_Sg3	mennä-v
@@ -17006,7 +17006,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1137:13" video="https://media.dipintra.it/?id=1137&start=02.11&end=02.16&collection=eptic3">
+<s id="1137:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1137.wmv&start=00.02.11&end=00.02.16">
 Koko	A	koko-j
 Eurooppa	N_Prop_Nom_Sg	Eurooppa-n
 ehm	FPAUSE	ehm
@@ -17033,13 +17033,13 @@ demokraattinen	A_Nom_Sg	demokraattinen-j
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="FI07" gender="F" native="NA">
-<s id="1145:1" video="https://media.dipintra.it/?id=1145&start=00.09&end=00.10&collection=eptic3">
+<s id="1145:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.09&end=00.00.10">
 Rouva	N_Nom_Sg	rouva-n
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:2" video="https://media.dipintra.it/?id=1145&start=00.10&end=00.16&collection=eptic3">
+<s id="1145:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.10&end=00.00.16">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 EU-jäsenyystie	N_Nom_Sg	EU-jäsenyystie-n
 menee	V_Prs_Act_Sg3	mennä-v
@@ -17053,7 +17053,7 @@ mietinnöstä	N_Ela_Sg	mietintö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:3" video="https://media.dipintra.it/?id=1145&start=00.17&end=00.25&collection=eptic3">
+<s id="1145:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.17&end=00.00.25">
 Vierailin	V_PrfPrc_Act_Sg1	vierailla-v
 Serbiassa	N_Prop_Ine_Sg	Serbia-n
 lokakuussa	N_Ine_Sg	lokakuu-n
@@ -17074,7 +17074,7 @@ oli	V_PrfPrc_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:4" video="https://media.dipintra.it/?id=1145&start=00.25&end=00.35&collection=eptic3">
+<s id="1145:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.25&end=00.00.35">
 Paljon	Adv	Paljo-r
 pitää	V_Prs_Act_Sg3	pitää-v
 vielä	Adv	vielä-r
@@ -17099,7 +17099,7 @@ Haagiin	N_Prop_Ill_Sg	Haag-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:5" video="https://media.dipintra.it/?id=1145&start=00.35&end=00.38&collection=eptic3">
+<s id="1145:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.35&end=00.00.38">
 Ehm	FPAUSE	ehm
 hän	Pron_Pers_Nom_Sg	hän-p
 on	V_Prs_Act_Sg3	olla-v
@@ -17109,7 +17109,7 @@ maaperällä	N_Ade_Sg	maaperä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:6" video="https://media.dipintra.it/?id=1145&start=00.39&end=00.48&collection=eptic3">
+<s id="1145:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.39&end=00.00.48">
 Ehm	FPAUSE	ehm
 EU	N_Nom_Sg	EU-n
 palkitsee	V_Prs_Act_Sg3	palkita-v
@@ -17126,7 +17126,7 @@ kautta	Adp_Po	kautta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:7" video="https://media.dipintra.it/?id=1145&start=00.50&end=01.04&collection=eptic3">
+<s id="1145:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.00.50&end=00.01.04">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 suhteet	N_Nom_Pl	suhde-n
 Kosovoon	N_Prop_Ill_Sg	Kosovo-n
@@ -17155,7 +17155,7 @@ maanjakosopimus	N_Nom_Sg	maanjakosopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:8" video="https://media.dipintra.it/?id=1145&start=01.04&end=01.10&collection=eptic3">
+<s id="1145:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.01.04&end=00.01.10">
 Ehm	FPAUSE	ehm
 meidän	Pron_Pers_Gen_Pl	me-p
 tulisi	V_Cond_Act_Sg3	tulla-v
@@ -17173,7 +17173,7 @@ käymään	V_Inf3_Ill	käydä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1145:9" video="https://media.dipintra.it/?id=1145&start=01.12&end=01.20&collection=eptic3">
+<s id="1145:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1145.wmv&start=00.01.12&end=00.01.20">
 Meidän	Pron_Pers_Gen_Pl	me-p
 ei	V_Neg_Sg3	ei-v
 tulisi	V_Cond_Act_ConNeg	tulla-v
@@ -17202,7 +17202,7 @@ tilaan	N_Ill_Sg	tila-n
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="FI02" gender="F" native="NA">
-<s id="1146:1" video="https://media.dipintra.it/?id=1146&start=00.08&end=00.10&collection=eptic3">
+<s id="1146:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.08&end=00.00.10">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -17210,7 +17210,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:2" video="https://media.dipintra.it/?id=1146&start=00.10&end=00.12&collection=eptic3">
+<s id="1146:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.10&end=00.00.12">
 Hyvät	A_Nom_Pl	hyvä-j
 naiset	N_Nom_Pl	nainen-n
 ja	CC	ja-x
@@ -17218,7 +17218,7 @@ herrat	N_Nom_Pl	herra-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:3" video="https://media.dipintra.it/?id=1146&start=00.12&end=00.20&collection=eptic3">
+<s id="1146:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.12&end=00.00.20">
 Assosiaatio-	DYSF	Assosiaatio-
 ja	CC	ja-x
 vakautussopimus	N_Nom_Sg	vakautussopimus-n
@@ -17240,7 +17240,7 @@ Serbialle	N_A_Propll_Sg	Serbia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:4" video="https://media.dipintra.it/?id=1146&start=00.20&end=00.22&collection=eptic3">
+<s id="1146:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.20&end=00.00.22">
 Ja	CC	ja-x
 pari	Num_Nom_Sg	pari-m
 huomiota	N_Par_Sg	huomio-n
@@ -17249,7 +17249,7 @@ esittää	V_Inf1_Lat	esittää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:5" video="https://media.dipintra.it/?id=1146&start=00.22&end=00.33&collection=eptic3">
+<s id="1146:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.22&end=00.00.33">
 Kun	CS	Kun-x
 halutaan	V_Prs_Pass_Pe4	haluta-v
 kunnolla	N_Ade_Sg	kunto-n
@@ -17277,7 +17277,7 @@ etunsa	N_Nom_Pl	etu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:6" video="https://media.dipintra.it/?id=1146&start=00.33&end=00.39&collection=eptic3">
+<s id="1146:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.33&end=00.00.39">
 Tässähän	Pron_Dem_Ine_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 Albanian	N_Prop_Gen_Sg	Albania-n
@@ -17293,7 +17293,7 @@ riittävästi	PrsPrc_Act_Adv	riittävästi-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:7" video="https://media.dipintra.it/?id=1146&start=00.39&end=00.48&collection=eptic3">
+<s id="1146:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.39&end=00.00.48">
 Ehm	FPAUSE	ehm
 järjestäytynyt	PrfPrc_Act_Nom_Sg	järjestäytyä-x
 rikollisuus	N_Nom_Sg	rikollisuus-n
@@ -17312,7 +17312,7 @@ unionia	N_Par_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:8" video="https://media.dipintra.it/?id=1146&start=00.48&end=00.54&collection=eptic3">
+<s id="1146:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.48&end=00.00.54">
 Ja	CC	ja-x
 markkinat	N_Nom_Pl	markkina-n
 ja	CC	ja-x
@@ -17325,7 +17325,7 @@ tarvittaisiin	V_Cond_Pass_Pe4	tarvita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:9" video="https://media.dipintra.it/?id=1146&start=00.54&end=00.57&collection=eptic3">
+<s id="1146:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.54&end=00.00.57">
 Eikä	CC	eikä-x
 näitä	Pron_Dem_Par_Pl	nämä-p
 voida	V_Prs_Pass_ConNeg	voida-v
@@ -17336,7 +17336,7 @@ apua	N_Par_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:10" video="https://media.dipintra.it/?id=1146&start=00.57&end=00.59&collection=eptic3">
+<s id="1146:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.57&end=00.00.59">
 Ja	CC	ja-x
 toinen	Pron_Qnt_Nom_Sg	toinen-p
 huomioni	N_Nom_Sg	huomio-n
@@ -17344,7 +17344,7 @@ vielä	Adv	vielä-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:11" video="https://media.dipintra.it/?id=1146&start=00.59&end=01.08&collection=eptic3">
+<s id="1146:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.00.59&end=00.01.08">
 On	V_Prs_Act_Sg3	olla-v
 vältyttävä	PrsPrc_Pass_Nom_Sg	välttyä-x
 siltä	Pron_Dem_Abl_Sg	se-p
@@ -17368,7 +17368,7 @@ asiasta	N_Ela_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:12" video="https://media.dipintra.it/?id=1146&start=01.08&end=01.18&collection=eptic3">
+<s id="1146:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.01.08&end=00.01.18">
 Tietysti	Adv	tietysti-r
 se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
@@ -17392,7 +17392,7 @@ huomattava	PrsPrc_Pass_Nom_Sg	huomata-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:13" video="https://media.dipintra.it/?id=1146&start=01.18&end=01.27&collection=eptic3">
+<s id="1146:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.01.18&end=00.01.27">
 Vuosi	N_Nom_Sg	Vuo-n
 2011	Num_Nom_Sg	@card@-m
 on	V_Prs_Act_Sg3	olla-v
@@ -17416,7 +17416,7 @@ lle	N_Nom_Sg	lle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:14" video="https://media.dipintra.it/?id=1146&start=01.27&end=01.36&collection=eptic3">
+<s id="1146:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.01.27&end=00.01.36">
 Ja	CC	ja-x
 tätä	Pron_Dem_Par_Sg	tämä-p
 mahdollisuutta	N_Par_Sg	mahdollisuus-n
@@ -17441,7 +17441,7 @@ Serbiaa	N_Prop_Par_Sg	Serbia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:15" video="https://media.dipintra.it/?id=1146&start=01.36&end=01.46&collection=eptic3">
+<s id="1146:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.01.36&end=00.01.46">
 Vain	Adv	vain-r
 arvokkaasti	Adv	arvokkaasti-r
 kohdeltu	PrfPrc_Pass_Nom_Sg	kohdella-x
@@ -17464,7 +17464,7 @@ hun	NON-TWOL	Hun-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1146:16" video="https://media.dipintra.it/?id=1146&start=01.46&end=01.50&collection=eptic3">
+<s id="1146:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1146.wmv&start=00.01.46&end=00.01.50">
 Ja	CC	ja-x
 tässä	Pron_Dem_Ine_Sg	tämä-p
 katsoisin	V_Cond_Act_Sg1	katsoa-v
@@ -17490,7 +17490,7 @@ työtä	N_Par_Sg	työ-n
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="FI07" gender="F" native="NA">
-<s id="1148:1" video="https://media.dipintra.it/?id=1148&start=00.10&end=00.12&collection=eptic3">
+<s id="1148:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.10&end=00.00.12">
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 ,	Punct	,-x
@@ -17499,7 +17499,7 @@ puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:2" video="https://media.dipintra.it/?id=1148&start=00.12&end=00.18&collection=eptic3">
+<s id="1148:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.12&end=00.00.18">
 Olen	V_Prs_Act_Sg1	Ole-v
 samaa	Pron_Qnt_Par_Sg	sama-p
 mieltä	N_Par_Sg	mieli-n
@@ -17518,7 +17518,7 @@ mietintöä	N_Par_Sg	mietintö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:3" video="https://media.dipintra.it/?id=1148&start=00.18&end=00.34&collection=eptic3">
+<s id="1148:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.18&end=00.00.34">
 Ja	CC	ja-x
 olen	V_Prs_Act_Sg1	olla-v
 täysin	Adv	täysin-r
@@ -17549,7 +17549,7 @@ Länsi-Balkanilla	N_A_Propde_Sg	LänsiBalkan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:4" video="https://media.dipintra.it/?id=1148&start=00.34&end=00.40&collection=eptic3">
+<s id="1148:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.34&end=00.00.40">
 Minä	Pron_Pers_Nom_Sg	Mi-p
 olen	V_Prs_Act_Sg1	olla-v
 tukenut	PrfPrc_Act_Nom_Sg	tukea-x
@@ -17572,7 +17572,7 @@ jäsen	N_Nom_Sg	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:5" video="https://media.dipintra.it/?id=1148&start=00.40&end=00.47&collection=eptic3">
+<s id="1148:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.40&end=00.00.47">
 Ehm	FPAUSE	ehm
 edistin	V_PrfPrc_Act_Sg1	edistää-v
 tätä	Pron_Dem_Par_Sg	tämä-p
@@ -17590,7 +17590,7 @@ varapuheenjohtaja	N_Nom_Sg	varapuhejohtaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:6" video="https://media.dipintra.it/?id=1148&start=00.47&end=00.55&collection=eptic3">
+<s id="1148:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.47&end=00.00.55">
 Tein	N_Ins_Pl	Tie-n
 myöskin	Adv	myöskin-r
 yhteistyötä	N_Par_Sg	yhteistyö-n
@@ -17609,7 +17609,7 @@ maille	N_All_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:7" video="https://media.dipintra.it/?id=1148&start=00.55&end=01.01&collection=eptic3">
+<s id="1148:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.00.55&end=00.01.01">
 Noin	Adv	noin-r
 vuosi	N_Nom_Sg	vuo-n
 sitten	Adp_Pr	sitten-x
@@ -17622,7 +17622,7 @@ mukana	Adv	mukana-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:8" video="https://media.dipintra.it/?id=1148&start=01.01&end=01.05&collection=eptic3">
+<s id="1148:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.01&end=00.01.05">
 Ehm	FPAUSE	ehm
 olen	V_Prs_Act_Sg1	olla-v
 pitänyt	PrfPrc_Act_Nom_Sg	pitää-x
@@ -17634,7 +17634,7 @@ asioissa	N_Ine_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:9" video="https://media.dipintra.it/?id=1148&start=01.06&end=01.11&collection=eptic3">
+<s id="1148:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.06&end=00.01.11">
 Mutta	CC	Mutta-x
 nämä	Pron_Dem_Nom_Pl	nämä-p
 haasteet	N_Nom_Pl	haaste-n
@@ -17654,7 +17654,7 @@ mainittu	PrfPrc_Pass_Nom_Sg	mainita-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:10" video="https://media.dipintra.it/?id=1148&start=01.12&end=01.19&collection=eptic3">
+<s id="1148:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.12&end=00.01.19">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 lisätä	V_Inf1_Lat	lisätä-v
 tähän	Pron_Dem_Ill_Sg	tämä-p
@@ -17669,7 +17669,7 @@ syksyltä	N_Abl_Sg	syksy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:11" video="https://media.dipintra.it/?id=1148&start=01.19&end=01.29&collection=eptic3">
+<s id="1148:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.19&end=00.01.29">
 Siellä	Adv	siellä-r
 soitettiin	V_PrfPrc_Pass_Pe4	soittaa-v
 hälytyskelloja	N_Par_Pl	hälytyskello-n
@@ -17687,7 +17687,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:12" video="https://media.dipintra.it/?id=1148&start=01.29&end=01.38&collection=eptic3">
+<s id="1148:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.29&end=00.01.38">
 Ja	CC	ja-x
 tässä	Pron_Dem_Ine_Sg	tämä-p
 Serbian	N_Prop_Gen_Sg	Serbia-n
@@ -17705,7 +17705,7 @@ vaikuttimia	N_Par_Pl	vaikutin-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:13" video="https://media.dipintra.it/?id=1148&start=01.38&end=01.42&collection=eptic3">
+<s id="1148:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.38&end=00.01.42">
 Sitten	Adp_Pr	sitten-x
 yhteistyö	N_Nom_Sg	yhteistyö-n
 Haagin	N_Prop_Gen_Sg	Haag-n
@@ -17714,7 +17714,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:14" video="https://media.dipintra.it/?id=1148&start=01.42&end=01.54&collection=eptic3">
+<s id="1148:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.42&end=00.01.54">
 Ministeri	N_Nom_Sg	ministeri-n
 Kacin	N_Prop_Gen_Sg	Kacin-n
 eilen	Adv	eilen-r
@@ -17742,7 +17742,7 @@ Haagiin	N_Prop_Ill_Sg	Haag-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:15" video="https://media.dipintra.it/?id=1148&start=01.54&end=02.10&collection=eptic3">
+<s id="1148:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.01.54&end=00.02.10">
 Mutta	CC	Mutta-x
 pääsyyttäjä	N_Nom_Sg	pääsyyttäjä-n
 herra	N_Nom_Sg	herra-n
@@ -17781,7 +17781,7 @@ välillä	Adp_Po	välillä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:16" video="https://media.dipintra.it/?id=1148&start=02.10&end=02.14&collection=eptic3">
+<s id="1148:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.02.10&end=00.02.14">
 Koska	CS	koska-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 menolla	N_Ade_Sg	meno-n
@@ -17793,7 +17793,7 @@ kiinni	Adv	kiinni-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1148:17" video="https://media.dipintra.it/?id=1148&start=02.14&end=02.20&collection=eptic3">
+<s id="1148:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1148.wmv&start=00.02.14&end=00.02.20">
 Elikkä	N_Nom_Sg	Elikkä-n
 pahoin	Adv	pahoin-r
 pelkään	V_Prs_Act_Sg1	pelätä-v

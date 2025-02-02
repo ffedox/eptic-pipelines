@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2098:1" video="https://media.dipintra.it/?id=2098&start=00.08&end=00.10&collection=eptic3">
+<s id="2098:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.08&end=00.00.10">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -10,7 +10,7 @@ gospod	Somei	gospod-s
 predsednik	Somei	predsednik-s	
 .	SENT	.-s	
 </s>
-<s id="2098:2" video="https://media.dipintra.it/?id=2098&start=00.11&end=00.17&collection=eptic3">
+<s id="2098:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.11&end=00.00.17">
 Nekateri	Zn-mmi	nekateri-z	
 kolegi	Sommi	kolega-s	
 ehm	FPAUSE	ehm-s	
@@ -28,7 +28,7 @@ na	Dm	na-d
 dnevni	Ppnzem	dneven-p	dnevna
 red.	O	red.-o	
 </s>
-<s id="2098:3" video="https://media.dipintra.it/?id=2098&start=00.19&end=00.32&collection=eptic3">
+<s id="2098:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.19&end=00.00.32">
 Ehm	FPAUSE	Ehm-g	
 razumem	Ggvspe	razumeti-g	
 njihove	Zstmmtm	njihov-z	
@@ -69,7 +69,7 @@ kršena	Pdnzei	kršen-p	kršena
 zakonodaja	Sozei	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2098:4" video="https://media.dipintra.it/?id=2098&start=00.34&end=00.41&collection=eptic3">
+<s id="2098:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.34&end=00.00.41">
 Ehm	FPAUSE	Ehm-g	
 poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
@@ -96,7 +96,7 @@ ehm	FPAUSE	ehm-s
 Braziliji	Slzem	Brazilija-s	
 .	SENT	.-s	
 </s>
-<s id="2098:5" video="https://media.dipintra.it/?id=2098&start=00.43&end=00.55&collection=eptic3">
+<s id="2098:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.43&end=00.00.55">
 Ehm	FPAUSE	Ehm-p	ehm
 gospod	Somei	gospod-s	
 Cesare	Slzer	Cesare-s	
@@ -130,7 +130,7 @@ ehm	FPAUSE	ehm-g
 dogajalo	Ggnd-es	dogajati-g	
 .	SENT	.-s	
 </s>
-<s id="2098:6" video="https://media.dipintra.it/?id=2098&start=00.56&end=01.05&collection=eptic3">
+<s id="2098:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.00.56&end=00.01.05">
 Naj	Vd	naj-v	
 ehm	FPAUSE	ehm-g	
 izrazim	Ggdspe	izraziti-g	
@@ -156,7 +156,7 @@ desni	Ppnzem	desen-p	desna
 strani	Sozem	stran-s	
 .	SENT	.-s	
 </s>
-<s id="2098:7" video="https://media.dipintra.it/?id=2098&start=01.06&end=01.26&collection=eptic3">
+<s id="2098:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2098.wmv&start=00.01.06&end=00.01.26">
 In	Vp	in-v	
 zato	Rsn	zato-r	
 ehm	FPAUSE	ehm-g	
@@ -208,7 +208,7 @@ Mugabeja	Somer	Mugabeja-s
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="SL17" gender="M" native="Y">
-<s id="2099:1" video="https://media.dipintra.it/?id=2099&start=00.20&end=00.23&collection=eptic3">
+<s id="2099:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.00.20&end=00.00.23">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -216,7 +216,7 @@ gospod	Somei	gospod-s
 predsednik	Somei	predsednik-s	
 .	SENT	.-s	
 </s>
-<s id="2099:2" video="https://media.dipintra.it/?id=2099&start=00.24&end=00.32&collection=eptic3">
+<s id="2099:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.00.24&end=00.00.32">
 Spoštovani	Pdnmeid	spoštovan-p	spoštovani
 poslanke	Sozmi	poslanka-s	
 in	Vp	in-v	
@@ -237,7 +237,7 @@ moderni	Ppnzem	moderen-p	moderna
 zgodovini	Sozem	zgodovina-s	
 .	SENT	.-s	
 </s>
-<s id="2099:3" video="https://media.dipintra.it/?id=2099&start=00.33&end=00.45&collection=eptic3">
+<s id="2099:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.00.33&end=00.00.45">
 Univerzitetni	Ppnmeid	univerziteten-p	univerzitetni
 študent	Somei	študent-s	
 se	Zp------k	se-z	
@@ -267,7 +267,7 @@ za	Dt	za-d
 preživetje	Soset	preživetje-s	
 .	SENT	.-s	
 </s>
-<s id="2099:4" video="https://media.dipintra.it/?id=2099&start=00.46&end=00.56&collection=eptic3">
+<s id="2099:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.00.46&end=00.00.56">
 Mesec	Sometn	mesec-s	
 po	Dm	po-d	
 tem	Zk-mem	ta-z	
@@ -291,7 +291,7 @@ svojim	Zp-meo	svoj-z
 kabinetom	Someo	kabinet-s	
 .	SENT	.-s	
 </s>
-<s id="2099:5" video="https://media.dipintra.it/?id=2099&start=00.58&end=01.05&collection=eptic3">
+<s id="2099:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.00.58&end=00.01.05">
 Ljudstvo	Sosei	ljudstvo-s	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -308,7 +308,7 @@ dveh	Kbgsdm	dva-k
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2099:6" video="https://media.dipintra.it/?id=2099&start=01.06&end=01.13&collection=eptic3">
+<s id="2099:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.06&end=00.01.13">
 Situacija	Sozei	situacija-s	
 glede	Dr	glede-d	
 varnosti	Sozer	varnost-s	
@@ -327,7 +327,7 @@ in	Vp	in-v
 ropanju	Sosem	ropanje-s	
 .	SENT	.-s	
 </s>
-<s id="2099:7" video="https://media.dipintra.it/?id=2099&start=01.13&end=01.22&collection=eptic3">
+<s id="2099:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.13&end=00.01.22">
 Obstajajo	Ggnstm	obstajati-g	
 prve	Kbvzer	prvi-k	
 novice	Sozer	novica-s	
@@ -338,7 +338,7 @@ narodne	Ppnzer	naroden-p	narodna
 enotnosti	Sozer	enotnost-s	
 .	SENT	.-s	
 </s>
-<s id="2099:8" video="https://media.dipintra.it/?id=2099&start=01.23&end=01.31&collection=eptic3">
+<s id="2099:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.23&end=00.01.31">
 Čeprav	Vd	čeprav-v	
 obstaja	Ggnste	obstajati-g	
 še	L	še-l	
@@ -353,7 +353,7 @@ jasno	Rsn	jasno-r
 jasno	Ppnsei	jasen-p	jasno
 .	SENT	.-s	
 </s>
-<s id="2099:9" video="https://media.dipintra.it/?id=2099&start=01.34&end=01.42&collection=eptic3">
+<s id="2099:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.34&end=00.01.42">
 Ehm	FPAUSE	Ehm-p	ehm
 Tunizijci	Sommi	Tunizijci-s	
 želijo	Ggnstm	želeti-g	
@@ -374,7 +374,7 @@ do	Dr	do-d
 izražanja	Soser	izražanje-s	
 .	SENT	.-s	
 </s>
-<s id="2099:10" video="https://media.dipintra.it/?id=2099&start=01.43&end=01.53&collection=eptic3">
+<s id="2099:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.43&end=00.01.53">
 Želijo	Ggnstm	želeti-g	
 pravične	Ppnzmi	pravičen-p	pravična
 volitve	Sozmi	volitev-s	
@@ -390,7 +390,7 @@ tem	Zk-sem	ta-z
 dogajanju	Sosem	dogajanje-s	
 .	U	.-u	
 </s>
-<s id="2099:11" video="https://media.dipintra.it/?id=2099&start=01.55&end=02.00&collection=eptic3">
+<s id="2099:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.01.55&end=00.02.00">
 Želijo	Ggnstm	želeti-g	
 novo	Ppnzet	nov-p	nova
 ustavo	Sozet	ustava-s	
@@ -406,7 +406,7 @@ pravo	Ppnzet	pravi-p	prava
 smer	Sozet	smer-s	
 .	SENT	.-s	
 </s>
-<s id="2099:12" video="https://media.dipintra.it/?id=2099&start=02.01&end=02.04&collection=eptic3">
+<s id="2099:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.02.01&end=00.02.04">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 seveda	L	seveda-l	
@@ -414,7 +414,7 @@ zgolj	L	zgolj-l
 začetek	Sometn	začetek-s	
 .	SENT	.-s	
 </s>
-<s id="2099:13" video="https://media.dipintra.it/?id=2099&start=02.05&end=02.40&collection=eptic3">
+<s id="2099:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.02.05&end=00.02.40">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 <g/>
@@ -473,7 +473,7 @@ in	Vp	in-v
 pravicami	Sozmo	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2099:14" video="https://media.dipintra.it/?id=2099&start=02.41&end=02.53&collection=eptic3">
+<s id="2099:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.02.41&end=00.02.53">
 Vedno	Rsn	vedno-r	
 znova	Rsn	znova-r	
 sem	Gp-spe-n	biti-g	
@@ -501,7 +501,7 @@ in	Vp	in-v
 demokracije	Sozer	demokracija-s	
 .	SENT	.-s	
 </s>
-<s id="2099:15" video="https://media.dipintra.it/?id=2099&start=02.55&end=03.23&collection=eptic3">
+<s id="2099:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.02.55&end=00.03.23">
 Na	Dm	na-d	
 prvih	Kbvmmm	prvi-k	
 krogih	Sommm	krog-s	
@@ -543,7 +543,7 @@ naših	Zspzmrm	naš-z
 zahtev	Sozmr	zahteva-s	
 .	SENT	.-s	
 </s>
-<s id="2099:16" video="https://media.dipintra.it/?id=2099&start=03.24&end=03.39&collection=eptic3">
+<s id="2099:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.03.24&end=00.03.39">
 Če	Vd	če-v	
 še	L	še-l	
 vedno	Rsn	vedno-r	
@@ -577,7 +577,7 @@ zadnjih	Ppnmmm	zadnji-p	zadnji
 tednih	Sommm	teden-s	
 .	SENT	.-s	
 </s>
-<s id="2099:17" video="https://media.dipintra.it/?id=2099&start=03.40&end=03.48&collection=eptic3">
+<s id="2099:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.03.40&end=00.03.48">
 Kaj	Zv-set	kaj-z	
 drugega	Kbzser	drug-k	
 bi	Gp-g	biti-g	
@@ -594,7 +594,7 @@ k	Dd	k-d
 demokraciji	Sozed	demokracija-s	
 ?	SENT	?-s	
 </s>
-<s id="2099:18" video="https://media.dipintra.it/?id=2099&start=03.49&end=04.00&collection=eptic3">
+<s id="2099:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.03.49&end=00.04.00">
 Kot	Vd	kot-v	
 sva	Gp-spd-n	biti-g	
 dejala	Ggdd-dm	dejati-g	
@@ -616,7 +616,7 @@ vsemi	Zc-mmo	ves-z
 jamstvi	Sosmo	jamstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2099:19" video="https://media.dipintra.it/?id=2099&start=04.01&end=04.15&collection=eptic3">
+<s id="2099:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.04.01&end=00.04.15">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -644,7 +644,7 @@ svojim	Zp-seo	svoj-z
 delom	Soseo	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2099:20" video="https://media.dipintra.it/?id=2099&start=04.16&end=04.27&collection=eptic3">
+<s id="2099:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.04.16&end=00.04.27">
 Seveda	L	seveda-l	
 smo	Gp-spm-n	biti-g	
 pripravljeni	Pdnmmi	pripravljen-p	pripravljen
@@ -668,7 +668,7 @@ demokratičnem	Ppnmem	demokratičen-p	demokratični
 procesu	Somem	proces-s	
 .	SENT	.-s	
 </s>
-<s id="2099:21" video="https://media.dipintra.it/?id=2099&start=04.29&end=04.48&collection=eptic3">
+<s id="2099:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.04.29&end=00.04.48">
 Pripravljamo	Ggnspm	pripravljati-g	
 tudi	L	tudi-l	
 sveženj	Sometn	sveženj-s	
@@ -718,7 +718,7 @@ in	Vp	in-v
 pravice	Sozer	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2099:22" video="https://media.dipintra.it/?id=2099&start=04.49&end=04.55&collection=eptic3">
+<s id="2099:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.04.49&end=00.04.55">
 To	Zk-sei	ta-z	
 bomo	Gp-ppm-n	biti-g	
 seveda	L	seveda-l	
@@ -730,7 +730,7 @@ državami	Sozmo	država-s
 članicami	Sozmo	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2099:23" video="https://media.dipintra.it/?id=2099&start=04.56&end=05.14&collection=eptic3">
+<s id="2099:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.04.56&end=00.05.14">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 ,	U	,-u	
@@ -767,7 +767,7 @@ svobodnega	Ppnmer	svoboden-p	svoboden
 trga	Somer	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2099:24" video="https://media.dipintra.it/?id=2099&start=05.16&end=05.20&collection=eptic3">
+<s id="2099:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.16&end=00.05.20">
 Skupaj	Rsn	skupaj-r	
 si	Zp---d--k	se-z	
 želimo	Ggnspm	želeti-g	
@@ -779,7 +779,7 @@ seveda	L	seveda-l
 blaginjo	Sozet	blaginja-s	
 .	SENT	.-s	
 </s>
-<s id="2099:25" video="https://media.dipintra.it/?id=2099&start=05.22&end=05.28&collection=eptic3">
+<s id="2099:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.22&end=00.05.28">
 Evropska	Ppnzei	evropski-p	evropska
 komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
@@ -798,7 +798,7 @@ sosedsko	Ppnzet	sosedski-p	sosedska
 politiko	Sozet	politika-s	
 .	SENT	.-s	
 </s>
-<s id="2099:26" video="https://media.dipintra.it/?id=2099&start=05.29&end=05.32&collection=eptic3">
+<s id="2099:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.29&end=00.05.32">
 Tako	Rsn	tako-r	
 za	Dt	za-d	
 naše	Zspzmtm	naš-z	
@@ -811,7 +811,7 @@ sosede	Sommt	sosed-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2099:27" video="https://media.dipintra.it/?id=2099&start=05.34&end=05.39&collection=eptic3">
+<s id="2099:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.34&end=00.05.39">
 Tunizija	Slzei	Tunizija-s	
 ima	Ggnste-n	imeti-g	
 močen	Ppnmetn	močen-p	močan
@@ -819,7 +819,7 @@ srednji	Ppnmetd	srednji-p	srednji
 razred	Sometn	razred-s	
 .	SENT	.-s	
 </s>
-<s id="2099:28" video="https://media.dipintra.it/?id=2099&start=05.40&end=05.58&collection=eptic3">
+<s id="2099:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.40&end=00.05.58">
 Visoko	Rsn	visoko-r	
 izobraženo	Pdnzet	izobražen-p	izobražena
 delovno	Ppnzet	deloven-p	delovna
@@ -856,7 +856,7 @@ pomuno-	DYSF	pomuno-s
 pogumom	Someo	pogum-s	
 .	SENT	.-s	
 </s>
-<s id="2099:29" video="https://media.dipintra.it/?id=2099&start=05.58&end=06.09&collection=eptic3">
+<s id="2099:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.05.58&end=00.06.09">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -887,7 +887,7 @@ stabilno	Ppnzet	stabilen-p	stabilna
 Tunizijo	Slzet	Tunizija-s	
 .	SENT	.-s	
 </s>
-<s id="2099:30" video="https://media.dipintra.it/?id=2099&start=06.11&end=06.19&collection=eptic3">
+<s id="2099:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.06.11&end=00.06.19">
 S	Do	z-d	
 Tunizijo	Slzeo	Tunizija-s	
 imamo	Ggnspm-n	imeti-g	
@@ -904,7 +904,7 @@ našimi	Zspzmom	naš-z
 podjetji	Sosmo	podjetje-s	
 .	SENT	.-s	
 </s>
-<s id="2099:31" video="https://media.dipintra.it/?id=2099&start=06.21&end=06.42&collection=eptic3">
+<s id="2099:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.06.21&end=00.06.42">
 V	Dm	v-d	
 interesu	Somem	interes-s	
 visoke	Ppnzer	visok-p	visoka
@@ -943,7 +943,7 @@ socialne	Ppnzmt	socialen-p	socialna
 reforme	Sozmt	reforma-s	
 .	SENT	.-s	
 </s>
-<s id="2099:32" video="https://media.dipintra.it/?id=2099&start=06.43&end=06.52&collection=eptic3">
+<s id="2099:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2099.wmv&start=00.06.43&end=00.06.52">
 Skupaj	Rsn	skupaj-r	
 se	Zp------k	se-z	
 bomo	Gp-ppm-n	biti-g	
@@ -971,7 +971,7 @@ realnost	Sozet	realnost-s
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="SL15" gender="F" native="Y">
-<s id="2100:1" video="https://media.dipintra.it/?id=2100&start=00.11&end=00.15&collection=eptic3">
+<s id="2100:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.11&end=00.00.15">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -985,7 +985,7 @@ spoštovani	Pdnmmi	spoštovan-p	spoštovani
 kolegi	Sommi	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2100:2" video="https://media.dipintra.it/?id=2100&start=00.15&end=00.24&collection=eptic3">
+<s id="2100:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.15&end=00.00.24">
 Rada	Rsn	rad-r	
 bi	Gp-g	biti-g	
 čestitala	Ggvd-dm	čestitati-g	
@@ -1005,7 +1005,7 @@ in	Vp	in-v
 pravice	Sozer	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2100:3" video="https://media.dipintra.it/?id=2100&start=00.24&end=00.28&collection=eptic3">
+<s id="2100:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.24&end=00.00.28">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -1019,7 +1019,7 @@ pravičnih	Ppnzmr	pravičen-p	pravična
 volitev	Sozmr	volitev-s	
 .	SENT	.-s	
 </s>
-<s id="2100:4" video="https://media.dipintra.it/?id=2100&start=00.29&end=00.35&collection=eptic3">
+<s id="2100:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.29&end=00.00.35">
 Režim	Somei	režim-s	
 je	Gp-ste-n	biti-g	
 uporabil	Ggdd-em	uporabiti-g	
@@ -1029,7 +1029,7 @@ svojim	Zp-zmd	svoj-z
 mladim	Ppnmmd	mlad-p	mladi
 .	SENT	.-s	
 </s>
-<s id="2100:5" video="https://media.dipintra.it/?id=2100&start=00.36&end=00.43&collection=eptic3">
+<s id="2100:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.36&end=00.00.43">
 Želele	Ggdd-mz	Želele-g	
 so	Gp-stm-n	biti-g	
 ohraniti	Ggdn	ohraniti-g	
@@ -1044,7 +1044,7 @@ oblast	Sozet	oblast-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2100:6" video="https://media.dipintra.it/?id=2100&start=00.50&end=00.55&collection=eptic3">
+<s id="2100:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.50&end=00.00.55">
 Režim	Somei	režim-s	
 ne	L	ne-l	
 bo	Gp-pte-n	biti-g	
@@ -1063,7 +1063,7 @@ do	Dr	do-d
 informacij	Sozmr	informacija-s	
 .	SENT	.-s	
 </s>
-<s id="2100:7" video="https://media.dipintra.it/?id=2100&start=00.57&end=01.05&collection=eptic3">
+<s id="2100:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.00.57&end=00.01.05">
 Opozicija	Sozei	opozicija-s	
 je	Gp-ste-n	biti-g	
 zato	Rsn	zato-r	
@@ -1084,7 +1084,7 @@ po	Dm	po-d
 svetu	Somem	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2100:8" video="https://media.dipintra.it/?id=2100&start=01.07&end=01.20&collection=eptic3">
+<s id="2100:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.07&end=00.01.20">
 Videla	Ggvd-ez	videti-g	
 sem	Gp-spe-n	biti-g	
 gibanja	Sosmt	gibanje-s	
@@ -1114,7 +1114,7 @@ po	Dm	po-d
 ulicah	Sozmm	ulica-s	
 .	SENT	.-s	
 </s>
-<s id="2100:9" video="https://media.dipintra.it/?id=2100&start=01.21&end=01.31&collection=eptic3">
+<s id="2100:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.21&end=00.01.31">
 Zunanji	Ppnmeid	zunanji-p	zunanji
 francoski	Ppnmeid	francoski-p	francoski
 minister	Somei	minister-s	
@@ -1128,7 +1128,7 @@ policijske	Ppnzer	policijski-p	policijska
 pomoči	Sozer	pomoč-s	
 .	SENT	.-s	
 </s>
-<s id="2100:10" video="https://media.dipintra.it/?id=2100&start=01.32&end=01.35&collection=eptic3">
+<s id="2100:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.32&end=00.01.35">
 Kakšen	Zv-mei	kakšen-z	
 je	Gp-ste-n	biti-g	
 odziv	Somei	odziv-s	
@@ -1138,7 +1138,7 @@ to	Zk-zet	ta-z
 ponudbo	Sozet	ponudba-s	
 ?	SENT	?-s	
 </s>
-<s id="2100:11" video="https://media.dipintra.it/?id=2100&start=01.37&end=01.48&collection=eptic3">
+<s id="2100:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.37&end=00.01.48">
 Soočenja	Sosmi	Soočenja-s	
 med	Do	med-d	
 tunizijsko	Ppnzeo	tunizijski-p	tunizijska
@@ -1160,7 +1160,7 @@ spletu	Somem	splet-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2100:12" video="https://media.dipintra.it/?id=2100&start=01.52&end=01.57&collection=eptic3">
+<s id="2100:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.52&end=00.01.57">
 In	Vp	in-v	
 vlada	Sozei	vlada-s	
 je	Gp-ste-n	biti-g	
@@ -1173,7 +1173,7 @@ cenzuriranju	Sosem	cenzuriranje-s
 softwarea	Somer	software-s	
 .	SENT	.-s	
 </s>
-<s id="2100:13" video="https://media.dipintra.it/?id=2100&start=01.59&end=02.07&collection=eptic3">
+<s id="2100:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.01.59&end=00.02.07">
 Uporabila	Ggdd-ez	uporabiti-g	
 je	Gp-ste-n	biti-g	
 vse	Zc-sei	ves-z	
@@ -1198,7 +1198,7 @@ svobodo	Sozet	svoboda-s
 izražanja	Soser	izražanje-s	
 .	SENT	.-s	
 </s>
-<s id="2100:14" video="https://media.dipintra.it/?id=2100&start=02.08&end=02.30&collection=eptic3">
+<s id="2100:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.02.08&end=00.02.30">
 Danes	Rsn	danes-r	
 je	Gp-ste-n	biti-g	
 dan	Sometn	dan-s	
@@ -1232,7 +1232,7 @@ svetovni	Ppnmetd	svetoven-p	svetovni
 splet	Sometn	splet-s	
 .	SENT	.-s	
 </s>
-<s id="2100:15" video="https://media.dipintra.it/?id=2100&start=02.31&end=02.38&collection=eptic3">
+<s id="2100:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.02.31&end=00.02.38">
 Danes	Rsn	danes-r	
 se	Zp------k	se-z	
 bomo	Gp-ppm-n	biti-g	
@@ -1248,7 +1248,7 @@ Madžarskem	Slsem	Madžarsko-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2100:16" video="https://media.dipintra.it/?id=2100&start=02.39&end=02.46&collection=eptic3">
+<s id="2100:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.02.39&end=00.02.46">
 Tunizija	Slzei	Tunizija-s	
 je	Gp-ste-n	biti-g	
 dala	Ggdd-ez	dati-g	
@@ -1268,7 +1268,7 @@ svobodo	Sozet	svoboda-s
 izražanja	Soser	izražanje-s	
 .	SENT	.-s	
 </s>
-<s id="2100:17" video="https://media.dipintra.it/?id=2100&start=02.47&end=02.52&collection=eptic3">
+<s id="2100:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2100.wmv&start=00.02.47&end=00.02.52">
 Ne	L	ne-l	
 vem	Ggnspe	vedeti-g	
 ,	U	,-u	
@@ -1296,7 +1296,7 @@ spletu	Somem	splet-s
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="SL15" gender="F" native="Y">
-<s id="2101:1" video="https://media.dipintra.it/?id=2101&start=00.09&end=00.17&collection=eptic3">
+<s id="2101:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.09&end=00.00.17">
 Upor	Somei	upor-s	
 v	Dm	v-d	
 Tuniziji	Slzem	Tunizija-s	
@@ -1311,7 +1311,7 @@ gospodarske	Ppnzer	gospodarski-p	gospodarska
 stagnacije	Sozer	stagnacija-s	
 .	SENT	.-s	
 </s>
-<s id="2101:2" video="https://media.dipintra.it/?id=2101&start=00.18&end=00.24&collection=eptic3">
+<s id="2101:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.18&end=00.00.24">
 Vladajoča	Pdnzei	Vladajoča-p	vladajoča
 elita	Sozei	elita-s	
 ,	U	,-u	
@@ -1328,7 +1328,7 @@ revščino	Sozeo	revščina-s
 ljudstva	Soser	ljudstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2101:3" video="https://media.dipintra.it/?id=2101&start=00.26&end=00.33&collection=eptic3">
+<s id="2101:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.26&end=00.00.33">
 Predsednik	Somei	predsednik-s	
 Ben	Slmei	Ben-s	
 Ali	Slmei	Ali-s	
@@ -1346,7 +1346,7 @@ ehm	FPAUSE	ehm-s
 državljanov	Sommr	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2101:4" video="https://media.dipintra.it/?id=2101&start=00.34&end=00.47&collection=eptic3">
+<s id="2101:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.34&end=00.00.47">
 Njegova	Zstzeiem	njegov-z	
 vlada	Sozei	vlada-s	
 je	Gp-ste-n	biti-g	
@@ -1374,7 +1374,7 @@ zmerno	Ppnzet	zmeren-p	zmerna
 državo	Sozet	država-s	
 .	SENT	.-s	
 </s>
-<s id="2101:5" video="https://media.dipintra.it/?id=2101&start=00.47&end=00.54&collection=eptic3">
+<s id="2101:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.47&end=00.00.54">
 Tam	Rsn	tam-r	
 so	Gp-stm-n	biti-g	
 prepovedali	Ggdd-mm	prepovedati-g	
@@ -1390,7 +1390,7 @@ dalje	Rsn	dalje-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2101:6" video="https://media.dipintra.it/?id=2101&start=00.55&end=01.08&collection=eptic3">
+<s id="2101:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.00.55&end=00.01.08">
 Zato	Rsn	zato-r	
 je	Gp-ste-n	biti-g	
 bil	Gp-d-em	biti-g	
@@ -1410,7 +1410,7 @@ te	Zk-zmi	ta-z
 dosežke	Sommt	dosežek-s	
 .	SENT	.-s	
 </s>
-<s id="2101:7" video="https://media.dipintra.it/?id=2101&start=01.10&end=01.20&collection=eptic3">
+<s id="2101:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.01.10&end=00.01.20">
 Če	Vd	če-v	
 ne	L	ne-l	
 bi	Gp-g	biti-g	
@@ -1435,7 +1435,7 @@ zunanje	Ppnzer	zunanji-p	zunanja
 politike	Sozer	politika-s	
 .	SENT	.-s	
 </s>
-<s id="2101:8" video="https://media.dipintra.it/?id=2101&start=01.21&end=01.38&collection=eptic3">
+<s id="2101:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.01.21&end=00.01.38">
 Treba	Rsn	treba-r	
 je	Gp-ste-n	biti-g	
 razumeti	Ggvn	razumeti-g	
@@ -1477,7 +1477,7 @@ in	Vp	in-v
 skrajneži	Sommi	skrajnež-s	
 .	SENT	.-s	
 </s>
-<s id="2101:9" video="https://media.dipintra.it/?id=2101&start=01.41&end=01.55&collection=eptic3">
+<s id="2101:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.01.41&end=00.01.55">
 Torej	Rsn	torej-r	
 ,	U	,-u	
 zato	Vp	zato-v	
@@ -1505,7 +1505,7 @@ miroljubne	Ppnmmt	miroljuben-p	miroljuben
 demonstrante	Sommt	demonstrant-s	
 .	SENT	.-s	
 </s>
-<s id="2101:10" video="https://media.dipintra.it/?id=2101&start=01.58&end=02.04&collection=eptic3">
+<s id="2101:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.01.58&end=00.02.04">
 Vojska	Sozei	vojska-s	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -1519,7 +1519,7 @@ bil	Gp-d-em	biti-g
 izgovor	Somei	izgovor-s	
 .	SENT	.-s	
 </s>
-<s id="2101:11" video="https://media.dipintra.it/?id=2101&start=02.05&end=02.15&collection=eptic3">
+<s id="2101:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2101.wmv&start=00.02.05&end=00.02.15">
 Mi	Zopmmi	jaz-z	
 seveda	L	seveda-l	
 moramo	Ggnspm	morati-g	
@@ -1560,7 +1560,7 @@ domov	Rsn	domov-r
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2102:1" video="https://media.dipintra.it/?id=2102&start=00.12&end=00.14&collection=eptic3">
+<s id="2102:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.12&end=00.00.14">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -1568,7 +1568,7 @@ gospod	Somei	gospod-s
 predsednik	Somei	predsednik-s	
 .	SENT	.-s	
 </s>
-<s id="2102:2" video="https://media.dipintra.it/?id=2102&start=00.15&end=00.20&collection=eptic3">
+<s id="2102:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.15&end=00.00.20">
 Govorili	Ggnd-mm	govoriti-g	
 ste	Gp-sdm-n	biti-g	
 o	Dm	o-d	
@@ -1582,7 +1582,7 @@ narodne	Ppnzer	naroden-p	narodna
 enotnosti	Sozer	enotnost-s	
 .	SENT	.-s	
 </s>
-<s id="2102:3" video="https://media.dipintra.it/?id=2102&start=00.20&end=00.23&collection=eptic3">
+<s id="2102:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.20&end=00.00.23">
 Nihče	Zl-mei	nihče-z	
 od	Dr	od-d	
 demokratov	Sommr	demokrat-s	
@@ -1592,7 +1592,7 @@ more	Ggnste	moči-g
 nestrinjati	Ggnn	nestrinjati-g	
 .	SENT	.-s	
 </s>
-<s id="2102:4" video="https://media.dipintra.it/?id=2102&start=00.24&end=00.33&collection=eptic3">
+<s id="2102:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.24&end=00.00.33">
 Ljudje	Sommi	človek-s	
 so	Gp-stm-n	biti-g	
 veliko	Rsn	veliko-r	
@@ -1612,7 +1612,7 @@ bodo	Gp-ptm-n	biti-g
 uprli	Ggdd-mm	upreti-g	
 .	SENT	.-s	
 </s>
-<s id="2102:5" video="https://media.dipintra.it/?id=2102&start=00.34&end=00.40&collection=eptic3">
+<s id="2102:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.34&end=00.00.40">
 Vsako	Zc-set	vsak-z	
 ljudstvo	Soset	ljudstvo-s	
 je	Gp-ste-n	biti-g	
@@ -1628,7 +1628,7 @@ zmanjka	Ggdste	zmanjkati-g
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2102:6" video="https://media.dipintra.it/?id=2102&start=00.41&end=00.47&collection=eptic3">
+<s id="2102:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.41&end=00.00.47">
 Zanima	Ggnste	zanimati-g	
 me	Zop-et--k	jaz-z	
 ,	U	,-u	
@@ -1651,7 +1651,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2102:7" video="https://media.dipintra.it/?id=2102&start=00.48&end=00.52&collection=eptic3">
+<s id="2102:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.48&end=00.00.52">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 ima	Ggnste-n	imeti-g	
@@ -1661,7 +1661,7 @@ nesposobno	Ppnzet	nesposoben-p	nesposobna
 vlado	Sozet	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2102:8" video="https://media.dipintra.it/?id=2102&start=00.53&end=00.58&collection=eptic3">
+<s id="2102:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.53&end=00.00.58">
 Ima	Ggnste-n	imeti-g	
 politično	Ppnzet	političen-p	politična
 elito	Sozet	elita-s	
@@ -1675,7 +1675,7 @@ svojih	Zp-mmr	svoj-z
 državljanov	Sommr	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2102:9" video="https://media.dipintra.it/?id=2102&start=00.59&end=01.06&collection=eptic3">
+<s id="2102:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.00.59&end=00.01.06">
 V	Dm	v-d	
 veliko	Rsn	veliko-r	
 državah	Sozmm	država-s	
@@ -1695,7 +1695,7 @@ evropske	Ppnzer	evropski-p	evropska
 politike	Sozer	politika-s	
 .	SENT	.-s	
 </s>
-<s id="2102:10" video="https://media.dipintra.it/?id=2102&start=01.06&end=01.16&collection=eptic3">
+<s id="2102:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.01.06&end=00.01.16">
 Obstajajo	Ggnstm	obstajati-g	
 že	L	že-l	
 izgredi	Sommi	izgred-s	
@@ -1710,7 +1710,7 @@ monetarne	Ppnzer	monetaren-p	monetarna
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2102:11" video="https://media.dipintra.it/?id=2102&start=01.17&end=01.21&collection=eptic3">
+<s id="2102:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.01.17&end=00.01.21">
 In	Vp	in-v	
 Grčiji	Slzem	Grčija-s	
 bodo	Gp-ptm-n	biti-g	
@@ -1722,7 +1722,7 @@ in	Vp	in-v
 Španija	Slzei	Španija-s	
 .	SENT	.-s	
 </s>
-<s id="2102:12" video="https://media.dipintra.it/?id=2102&start=01.22&end=01.29&collection=eptic3">
+<s id="2102:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.01.22&end=00.01.29">
 Ko	Vd	ko-v	
 bodo	Gp-ptm-n	biti-g	
 gospodarstva	Soser	gospodarstvo-s	
@@ -1748,7 +1748,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2102:13" video="https://media.dipintra.it/?id=2102&start=01.30&end=01.32&collection=eptic3">
+<s id="2102:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.01.30&end=00.01.32">
 Ko	Vd	ko-v	
 vlada	Sozei	vlada-s	
 postane	Ggdste	postati-g	
@@ -1761,7 +1761,7 @@ ljudstvo	Sosei	ljudstvo-s
 uprlo	Ggdd-es	upreti-g	
 .	SENT	.-s	
 </s>
-<s id="2102:14" video="https://media.dipintra.it/?id=2102&start=01.32&end=01.37&collection=eptic3">
+<s id="2102:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2102.wmv&start=00.01.32&end=00.01.37">
 Strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
 s	Do	z-d	
@@ -1813,7 +1813,7 @@ svet-	DYSF	svet-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2103:1" video="https://media.dipintra.it/?id=2103&start=00.10&end=00.13&collection=eptic3">
+<s id="2103:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.10&end=00.00.13">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -1829,7 +1829,7 @@ in	Vp	in-v
 kolegi	Sommi	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2103:2" video="https://media.dipintra.it/?id=2103&start=00.14&end=00.25&collection=eptic3">
+<s id="2103:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.14&end=00.00.25">
 Lepo	Ppnsei	lep-p	lepo
 je	Gp-ste-n	biti-g	
 začeti	Ggdn	začeti-g	
@@ -1863,7 +1863,7 @@ belgijsko	Ppnsei	belgijski-p	belgijsko
 predsedstvo	Sosei	predsedstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2103:3" video="https://media.dipintra.it/?id=2103&start=00.26&end=00.35&collection=eptic3">
+<s id="2103:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.26&end=00.00.35">
 Ehm	FPAUSE	Ehm-g	
 zahvaljujem	Ggnspe	zahvaljevati-g	
 se	Zp------k	se-z	
@@ -1893,7 +1893,7 @@ postal	Ggdd-em	postati-g
 realnost	Sozet	realnost-s	
 .	SENT	.-s	
 </s>
-<s id="2103:4" video="https://media.dipintra.it/?id=2103&start=00.36&end=00.41&collection=eptic3">
+<s id="2103:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.36&end=00.00.41">
 Ravno	L	ravno-l	
 tako	Rsn	tako-r	
 se	Zp------k	se-z	
@@ -1907,7 +1907,7 @@ belgijskemu	Ppnsed	belgijski-p	belgijsko
 predsedstvu	Sosed	predsedstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2103:5" video="https://media.dipintra.it/?id=2103&start=00.42&end=00.47&collection=eptic3">
+<s id="2103:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.42&end=00.00.47">
 Zlasti	L	zlasti-l	
 se	Zp------k	se-z	
 zahvaljujem	Ggnspe	zahvaljevati-g	
@@ -1920,7 +1920,7 @@ njuno	Zstsetd	njun-z
 delo	Soset	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2103:6" video="https://media.dipintra.it/?id=2103&start=00.48&end=00.59&collection=eptic3">
+<s id="2103:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.48&end=00.00.59">
 Kot	Vd	kot-v	
 sem	Gp-spe-n	biti-g	
 rekla	Ggdd-ez	reči-g	
@@ -1944,7 +1944,7 @@ ograje	Sozer	ograja-s
 vprašaj	Sometn	vprašaj-s	
 .	SENT	.-s	
 </s>
-<s id="2103:7" video="https://media.dipintra.it/?id=2103&start=00.59&end=01.04&collection=eptic3">
+<s id="2103:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.00.59&end=00.01.04">
 Zelo	Rsn	zelo-r	
 pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
@@ -1961,7 +1961,7 @@ za	Dt	za-d
 trgovino	Sozet	trgovina-s	
 .	SENT	.-s	
 </s>
-<s id="2103:8" video="https://media.dipintra.it/?id=2103&start=01.05&end=01.26&collection=eptic3">
+<s id="2103:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.01.05&end=00.01.26">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 povedal	Ggdd-em	povedati-g	
@@ -2014,7 +2014,7 @@ ovire	Sozmt	ovira-s
 odpraviti	Ggdn	odpraviti-g	
 .	SENT	.-s	
 </s>
-<s id="2103:9" video="https://media.dipintra.it/?id=2103&start=01.25&end=01.31&collection=eptic3">
+<s id="2103:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.01.25&end=00.01.31">
 In	Vp	in-v	
 s	Do	z-d	
 tem	Zk-meo	ta-z	
@@ -2033,7 +2033,7 @@ bolj	Rsr	bolj-r
 učinkovit	Ppnmein	učinkovit-p	učinkovit
 .	SENT	.-s	
 </s>
-<s id="2103:10" video="https://media.dipintra.it/?id=2103&start=01.32&end=01.46&collection=eptic3">
+<s id="2103:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.01.32&end=00.01.46">
 Poskušali	Ggnd-mm	poskušati-g	
 smo	Gp-spm-n	biti-g	
 ,	U	,-u	
@@ -2066,7 +2066,7 @@ pogoje	Sommt	pogoj-s
 trgovanja	Soser	trgovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2103:11" video="https://media.dipintra.it/?id=2103&start=01.47&end=01.56&collection=eptic3">
+<s id="2103:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.01.47&end=00.01.56">
 Kajti	Vp	kajti-v	
 gradbena	Ppnzei	gradben-p	gradbena
 industrija	Sozei	industrija-s	
@@ -2088,7 +2088,7 @@ leta	Soser	leto-s
 2008	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2103:12" video="https://media.dipintra.it/?id=2103&start=01.57&end=02.22&collection=eptic3">
+<s id="2103:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.01.57&end=00.02.22">
 Ehm	FPAUSE	Ehm-p	ehm
 s-	DYSF	s-p	s
 stanje	Sosei	stanje-s	
@@ -2150,7 +2150,7 @@ sektorja	Somer	sektor-s
 odvisni	Ppnmmi	odvisen-p	odvisen
 .	SENT	.-s	
 </s>
-<s id="2103:13" video="https://media.dipintra.it/?id=2103&start=02.25&end=02.30&collection=eptic3">
+<s id="2103:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.02.25&end=00.02.30">
 In	Vp	in-v	
 zato	Vp	zato-v	
 je	Gp-ste-n	biti-g	
@@ -2169,7 +2169,7 @@ za	Dt	za-d
 rast	Sozet	rast-s	
 .	SENT	.-s	
 </s>
-<s id="2103:14" video="https://media.dipintra.it/?id=2103&start=02.31&end=02.35&collection=eptic3">
+<s id="2103:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.02.31&end=00.02.35">
 Ravno	L	ravno-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -2179,7 +2179,7 @@ eden	Kbzmei	eden-k
 najnevarnejših	Ppsmmr	nevaren-p	najnevarnejši
 .	SENT	.-s	
 </s>
-<s id="2103:15" video="https://media.dipintra.it/?id=2103&start=02.36&end=02.45&collection=eptic3">
+<s id="2103:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.02.36&end=00.02.45">
 Ehm	FPAUSE	Ehm-g	
 vzemimo	Ggdvpm	vzeti-g	
 si	Gp-sde-n	biti-g	
@@ -2210,7 +2210,7 @@ ehm	FPAUSE	ehm-s
 poškodbo	Sozet	poškodba-s	
 .	SENT	.-s	
 </s>
-<s id="2103:16" video="https://media.dipintra.it/?id=2103&start=02.47&end=02.56&collection=eptic3">
+<s id="2103:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.02.47&end=00.02.56">
 In	Vp	in-v	
 zato	Rsn	zato-r	
 moramo	Ggnspm	morati-g	
@@ -2230,7 +2230,7 @@ našem	Zspsemm	naš-z
 poročilu	Sosem	poročilo-s	
 .	SENT	.-s	
 </s>
-<s id="2103:17" video="https://media.dipintra.it/?id=2103&start=02.58&end=03.17&collection=eptic3">
+<s id="2103:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.02.58&end=00.03.17">
 In	Vp	in-v	
 tako	Rsn	tako-r	
 nam	Zop-md	jaz-z	
@@ -2278,7 +2278,7 @@ v	Dm	v-d
 preteklosti	Sozem	preteklost-s	
 .	SENT	.-s	
 </s>
-<s id="2103:18" video="https://media.dipintra.it/?id=2103&start=03.18&end=03.23&collection=eptic3">
+<s id="2103:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.18&end=00.03.23">
 Tukaj	Rsn	tukaj-r	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -2291,7 +2291,7 @@ za	Dt	za-d
 prah	Sometn	prah-s	
 .	SENT	.-s	
 </s>
-<s id="2103:19" video="https://media.dipintra.it/?id=2103&start=03.24&end=03.30&collection=eptic3">
+<s id="2103:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.24&end=00.03.30">
 Ustrezno	Ppnsei	ustrezen-p	ustrezno
 označevanje	Sosei	označevanje-s	
 takih	Zk-zmr	tak-z	
@@ -2308,7 +2308,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2103:20" video="https://media.dipintra.it/?id=2103&start=03.31&end=03.38&collection=eptic3">
+<s id="2103:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.31&end=00.03.38">
 Ponosna	Ppnzei	ponosen-p	ponosna
 sem	Gp-spe-n	biti-g	
 ,	U	,-u	
@@ -2325,7 +2325,7 @@ leta	Soser	leto-s
 pljuč	Sosmr	pljuča-s	
 .	SENT	.-s	
 </s>
-<s id="2103:21" video="https://media.dipintra.it/?id=2103&start=03.39&end=03.46&collection=eptic3">
+<s id="2103:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.39&end=00.03.46">
 Pljuča	Sommi	Pljuča-s	
 se	Zp------k	se-z	
 često	Rsn	često-r	
@@ -2346,7 +2346,7 @@ našem	Zspmemm	naš-z
 parlamentu	Somem	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2103:22" video="https://media.dipintra.it/?id=2103&start=03.47&end=03.50&collection=eptic3">
+<s id="2103:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.47&end=00.03.50">
 Ravno	L	ravno-l	
 tako	Zk-zet	tak-z	
 j-	DYSF	j-s	
@@ -2364,7 +2364,7 @@ srednja	Ppnsmt	srednji-p	srednje
 podjetja	Sosmt	podjetje-s	
 .	SENT	.-s	
 </s>
-<s id="2103:23" video="https://media.dipintra.it/?id=2103&start=03.51&end=04.10&collection=eptic3">
+<s id="2103:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.03.51&end=00.04.10">
 Morali	Ggnd-mm	morati-g	
 bi	Gp-g	biti-g	
 najprej	Rss	najprej-r	
@@ -2400,7 +2400,7 @@ trgovski	Ppnmetd	trgovski-p	trgovski
 potencial	Sometn	potencial-s	
 .	SENT	.-s	
 </s>
-<s id="2103:24" video="https://media.dipintra.it/?id=2103&start=04.11&end=04.21&collection=eptic3">
+<s id="2103:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.11&end=00.04.21">
 Ravno	L	ravno-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -2427,7 +2427,7 @@ prvotno	Rsn	prvotno-r
 predvideli	Ggdd-mm	predvideti-g	
 .	SENT	.-s	
 </s>
-<s id="2103:25" video="https://media.dipintra.it/?id=2103&start=04.22&end=04.37&collection=eptic3">
+<s id="2103:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.22&end=00.04.37">
 Transparentnost	Sozei	transparentnost-s	
 procesov	Sommr	proces-s	
 in	Vp	in-v	
@@ -2461,7 +2461,7 @@ posebnih	Ppnmmm	poseben-p	poseben
 pogojih	Sommm	pogoj-s	
 .	SENT	.-s	
 </s>
-<s id="2103:26" video="https://media.dipintra.it/?id=2103&start=04.39&end=04.41&collection=eptic3">
+<s id="2103:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.39&end=00.04.41">
 V	Dm	v-d	
 Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
@@ -2474,7 +2474,7 @@ boljšo	Pppzet	dober-p	boljša
 zakonodajo	Sozet	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2103:27" video="https://media.dipintra.it/?id=2103&start=04.42&end=04.50&collection=eptic3">
+<s id="2103:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.42&end=00.04.50">
 Skupaj	Rsn	skupaj-r	
 s	Do	z-d	
 poročevalci	Sommo	poročevalec-s	
@@ -2497,7 +2497,7 @@ ehm	FPAUSE	ehm-g
 relevantna	Ppnsmi	relevanten-p	relevantno
 .	SENT	.-s	
 </s>
-<s id="2103:28" video="https://media.dipintra.it/?id=2103&start=04.51&end=04.58&collection=eptic3">
+<s id="2103:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.51&end=00.04.58">
 In	Vp	in-v	
 ehm	FPAUSE	ehm-g	
 poudarjamo	Ggnspm	poudarjati-g	
@@ -2514,7 +2514,7 @@ jasna	Ppnsmt	jasen-p	jasno
 pravila	Sosmt	pravilo-s	
 .	SENT	.-s	
 </s>
-<s id="2103:29" video="https://media.dipintra.it/?id=2103&start=04.59&end=05.16&collection=eptic3">
+<s id="2103:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2103.wmv&start=00.04.59&end=00.05.16">
 Izziva	Ggnste	izzivati-g	
 izzivi	Sommi	izziv-s	
 so	Gp-stm-n	biti-g	
@@ -2567,7 +2567,7 @@ mest	Sosmr	mesto-s
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="SL15" gender="F" native="Y">
-<s id="2104:1" video="https://media.dipintra.it/?id=2104&start=00.16&end=00.22&collection=eptic3">
+<s id="2104:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.00.16&end=00.00.22">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -2592,7 +2592,7 @@ tudi	L	tudi-l
 dolgo	Rsn	dolgo-r	
 .	SENT	.-s	
 </s>
-<s id="2104:2" video="https://media.dipintra.it/?id=2104&start=00.23&end=00.47&collection=eptic3">
+<s id="2104:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.00.23&end=00.00.47">
 V	Dm	v-d	
 Evropi	Slzem	Evropa-s	
 zaposluje	Ggnste	zaposlovati-g	
@@ -2650,7 +2650,7 @@ gospodarske	Ppnzer	gospodarski-p	gospodarska
 krize	Sozer	kriza-s	
 .	SENT	.-s	
 </s>
-<s id="2104:3" video="https://media.dipintra.it/?id=2104&start=00.48&end=00.59&collection=eptic3">
+<s id="2104:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.00.48&end=00.00.59">
 Veliko	Rsn	veliko-r	
 vidikov	Sommr	vidik-s	
 v	Dm	v-d	
@@ -2678,7 +2678,7 @@ samega	Ppnmer	sam-p	sam
 trga	Somer	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2104:4" video="https://media.dipintra.it/?id=2104&start=01.00&end=01.08&collection=eptic3">
+<s id="2104:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.01.00&end=00.01.08">
 Potem	Rsn	potem-r	
 je	Gp-ste-n	biti-g	
 tu	Rsn	tu-r	
@@ -2697,7 +2697,7 @@ ehm	FPAUSE	ehm-s
 bremenom	Soseo	breme-s	
 .	SENT	.-s	
 </s>
-<s id="2104:5" video="https://media.dipintra.it/?id=2104&start=01.08&end=01.10&collection=eptic3">
+<s id="2104:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.01.08&end=00.01.10">
 Potem	Rsn	potem-r	
 so	Gp-stm-n	biti-g	
 tu	Rsn	tu-r	
@@ -2706,7 +2706,7 @@ nevarne	Ppnzmi	nevaren-p	nevarna
 snovi	Sozmi	snov-s	
 .	SENT	.-s	
 </s>
-<s id="2104:6" video="https://media.dipintra.it/?id=2104&start=01.10&end=01.16&collection=eptic3">
+<s id="2104:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.01.10&end=00.01.16">
 Tu	Rsn	tu-r	
 smo	Gp-spm-n	biti-g	
 ehm	FPAUSE	ehm-s	
@@ -2725,7 +2725,7 @@ obstoječo	Pdnzeo	obstoječ-p	obstoječa
 zakonodajo	Sozeo	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2104:7" video="https://media.dipintra.it/?id=2104&start=01.16&end=01.34&collection=eptic3">
+<s id="2104:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2104.wmv&start=00.01.16&end=00.01.34">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -2781,7 +2781,7 @@ podjetja	Sosmt	podjetje-s
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="SL15" gender="F" native="Y">
-<s id="2105:1" video="https://media.dipintra.it/?id=2105&start=00.11&end=00.12&collection=eptic3">
+<s id="2105:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.11&end=00.00.12">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -2789,7 +2789,7 @@ gospa	Sozei	gospa-s
 predsednica	Sozei	predsednica-s	
 .	SENT	.-s	
 </s>
-<s id="2105:2" video="https://media.dipintra.it/?id=2105&start=00.13&end=00.36&collection=eptic3">
+<s id="2105:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.13&end=00.00.36">
 Kot	Vd	kot-v	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 odbora	Somer	odbor-s	
@@ -2842,7 +2842,7 @@ izredno	Rsn	izredno-r
 dobro	Rsn	dobro-r	
 .	SENT	.-s	
 </s>
-<s id="2105:3" video="https://media.dipintra.it/?id=2105&start=00.37&end=00.43&collection=eptic3">
+<s id="2105:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.37&end=00.00.43">
 Gospa	Sozei	gospa-s	
 predsednica	Sozei	predsednica-s	
 ,	U	,-u	
@@ -2861,7 +2861,7 @@ tej	Zk-zem	ta-z
 hiši	Sozem	hiša-s	
 .	SENT	.-s	
 </s>
-<s id="2105:4" video="https://media.dipintra.it/?id=2105&start=00.44&end=00.49&collection=eptic3">
+<s id="2105:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.44&end=00.00.49">
 Tokrat	Rsn	tokrat-r	
 smo	Gp-spm-n	biti-g	
 uspeli	Ggdd-mm	uspeti-g	
@@ -2875,7 +2875,7 @@ ga	Zotset--k	on-z
 prejeli	Ggdd-mm	prejeti-g	
 .	SENT	.-s	
 </s>
-<s id="2105:5" video="https://media.dipintra.it/?id=2105&start=00.51&end=00.54&collection=eptic3">
+<s id="2105:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.51&end=00.00.54">
 Ehm	FPAUSE	Ehm-g	
 izboljšali	Ggdd-mm	izboljšati-g	
 smo	Gp-spm-n	biti-g	
@@ -2890,7 +2890,7 @@ od	Dr	od-d
 Sveta	Somer	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2105:6" video="https://media.dipintra.it/?id=2105&start=00.55&end=01.01&collection=eptic3">
+<s id="2105:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.00.55&end=00.01.01">
 Ehm	FPAUSE	Ehm-g	
 slišali	Ggvd-mm	slišati-g	
 smo	Gp-spm-n	biti-g	
@@ -2912,7 +2912,7 @@ o	Dm	o-d
 tem	Zk-sem	ta-z	
 .	SENT	.-s	
 </s>
-<s id="2105:7" video="https://media.dipintra.it/?id=2105&start=01.02&end=01.05&collection=eptic3">
+<s id="2105:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.02&end=00.01.05">
 Tudi	L	tudi-l	
 madžarsko	Ppnsei	madžarski-p	madžarsko
 predsedstvo	Sosei	predsedstvo-s	
@@ -2924,7 +2924,7 @@ svojo	Zp-zet	svoj-z
 izjavo	Sozet	izjava-s	
 .	SENT	.-s	
 </s>
-<s id="2105:8" video="https://media.dipintra.it/?id=2105&start=01.06&end=01.09&collection=eptic3">
+<s id="2105:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.06&end=00.01.09">
 Dovolite	Ggdvdm	dovoliti-g	
 mi	Zop-ed--k	jaz-z	
 ,	U	,-u	
@@ -2937,7 +2937,7 @@ nekaj	Rsn	nekaj-r
 pripombami	Sozmo	pripomba-s	
 .	SENT	.-s	
 </s>
-<s id="2105:9" video="https://media.dipintra.it/?id=2105&start=01.11&end=01.17&collection=eptic3">
+<s id="2105:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.11&end=00.01.17">
 Najprej	Rss	najprej-r	
 ,	U	,-u	
 gospod	Somei	gospod-s	
@@ -2960,7 +2960,7 @@ ga	Zotmet--k	on-z
 opravili	Ggdd-mm	opraviti-g	
 .	SENT	.-s	
 </s>
-<s id="2105:10" video="https://media.dipintra.it/?id=2105&start=01.18&end=01.20&collection=eptic3">
+<s id="2105:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.18&end=00.01.20">
 Z	Do	z-d	
 vami	Zod-mo	ti-z	
 moramo	Ggnspm	morati-g	
@@ -2971,7 +2971,7 @@ tega	Zk-mer	ta-z
 predloga	Somer	predlog-s	
 .	SENT	.-s	
 </s>
-<s id="2105:11" video="https://media.dipintra.it/?id=2105&start=01.21&end=01.32&collection=eptic3">
+<s id="2105:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.21&end=00.01.32">
 Kot	Vd	kot-v	
 ste	Gp-sdm-n	biti-g	
 sami	Ppnmmi	sam-p	sam
@@ -2999,7 +2999,7 @@ zelo	Rsn	zelo-r
 resno	Rsn	resno-r	
 .	SENT	.-s	
 </s>
-<s id="2105:12" video="https://media.dipintra.it/?id=2105&start=01.33&end=01.36&collection=eptic3">
+<s id="2105:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.33&end=00.01.36">
 Drugič	Rsn	drugič-r	
 ,	U	,-u	
 mislim	Ggnspe	misliti-g	
@@ -3011,7 +3011,7 @@ bistven	Ppnmein	bistven-p	bistven
 sektor	Somei	sektor-s	
 ;	U	;-u	
 </s>
-<s id="2105:13" video="https://media.dipintra.it/?id=2105&start=01.37&end=01.52&collection=eptic3">
+<s id="2105:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2105.wmv&start=00.01.37&end=00.01.52">
 sektor	Somei	sektor-s	
 ,	U	,-u	
 ki	Vd	ki-v	
@@ -3054,7 +3054,7 @@ gospodarstva	Soser	gospodarstvo-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2106:1" video="https://media.dipintra.it/?id=2106&start=00.10&end=00.11&collection=eptic3">
+<s id="2106:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.10&end=00.00.11">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -3062,7 +3062,7 @@ gospa	Sozei	gospa-s
 predsednica	Sozei	predsednica-s	
 .	SENT	.-s	
 </s>
-<s id="2106:2" video="https://media.dipintra.it/?id=2106&start=00.13&end=00.19&collection=eptic3">
+<s id="2106:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.13&end=00.00.19">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 vsem	Zc-zmd	ves-z	
@@ -3085,7 +3085,7 @@ nocoj	Rsn	nocoj-r
 spregovorili	Ggdd-mm	spregovoriti-g	
 .	SENT	.-s	
 </s>
-<s id="2106:3" video="https://media.dipintra.it/?id=2106&start=00.20&end=00.26&collection=eptic3">
+<s id="2106:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.20&end=00.00.26">
 Zahvaljujem	Ggnspe	zahvaljevati-g	
 se	Zp------k	se-z	
 gospodu	Somed	gospod-s	
@@ -3101,7 +3101,7 @@ terminskem	Ppnmem	terminski-p	terminski
 planu	Somem	plan-s	
 .	SENT	.-s	
 </s>
-<s id="2106:4" video="https://media.dipintra.it/?id=2106&start=00.27&end=00.38&collection=eptic3">
+<s id="2106:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.27&end=00.00.38">
 Gospod	Somei	gospod-s	
 Schwab	Slmei	Schwab-s	
 in	Vp	in-v	
@@ -3132,7 +3132,7 @@ ga	Zotset--k	on-z
 zastavili	Ggdd-mm	zastaviti-g	
 .	SENT	.-s	
 </s>
-<s id="2106:5" video="https://media.dipintra.it/?id=2106&start=00.39&end=00.51&collection=eptic3">
+<s id="2106:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.39&end=00.00.51">
 Zelo	Rsn	zelo-r	
 pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
@@ -3160,7 +3160,7 @@ zdijo	Ggnstm	zdeti-g
 pomembne	Ppnzmi	pomemben-p	pomembna
 .	SENT	.-s	
 </s>
-<s id="2106:6" video="https://media.dipintra.it/?id=2106&start=00.51&end=00.57&collection=eptic3">
+<s id="2106:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.51&end=00.00.57">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -3178,7 +3178,7 @@ tej	Zk-zem	ta-z
 razpravi	Sozem	razprava-s	
 ;	U	;-u	
 </s>
-<s id="2106:7" video="https://media.dipintra.it/?id=2106&start=00.58&end=01.14&collection=eptic3">
+<s id="2106:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.00.58&end=00.01.14">
 gradbeni	Ppnmeid	gradben-p	gradbeni
 sektor	Somei	sektor-s	
 je	Gp-ste-n	biti-g	
@@ -3224,7 +3224,7 @@ tem	Zk-seo	ta-z
 delom	Soseo	delo-s	
 .	SENT	.-s	
 </s>
-<s id="2106:8" video="https://media.dipintra.it/?id=2106&start=01.15&end=01.17&collection=eptic3">
+<s id="2106:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.01.15&end=00.01.17">
 To	Zk-sei	ta-z	
 nam	Zop-md	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -3232,7 +3232,7 @@ komisar	Somei	komisar-s
 ponudil	Ggdd-em	ponuditi-g	
 .	SENT	.-s	
 </s>
-<s id="2106:9" video="https://media.dipintra.it/?id=2106&start=01.18&end=01.24&collection=eptic3">
+<s id="2106:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.01.18&end=00.01.24">
 Tako	Rsn	tako-r	
 bomo	Gp-ppm-n	biti-g	
 zagotovili	Ggdd-mm	zagotoviti-g	
@@ -3252,7 +3252,7 @@ ehm	FPAUSE	ehm-s
 pozornosti	Sozer	pozornost-s	
 .	SENT	.-s	
 </s>
-<s id="2106:10" video="https://media.dipintra.it/?id=2106&start=01.24&end=01.29&collection=eptic3">
+<s id="2106:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.01.24&end=00.01.29">
 Kajti	Vp	kajti-v	
 rekli	Ggdd-mm	reči-g	
 smo	Gp-spm-n	biti-g	
@@ -3267,7 +3267,7 @@ tega	Zk-mer	ta-z
 sektorja	Somer	sektor-s	
 .	SENT	.-s	
 </s>
-<s id="2106:11" video="https://media.dipintra.it/?id=2106&start=01.30&end=01.35&collection=eptic3">
+<s id="2106:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.01.30&end=00.01.35">
 Torej	Rsn	torej-r	
 še	L	še-l	
 enkrat	Rsn	enkrat-r	
@@ -3284,7 +3284,7 @@ gospod	Somei	gospod-s
 komisar	Somei	komisar-s	
 .	SENT	.-s	
 </s>
-<s id="2106:12" video="https://media.dipintra.it/?id=2106&start=01.35&end=01.45&collection=eptic3">
+<s id="2106:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2106.wmv&start=00.01.35&end=00.01.45">
 Ehm	FPAUSE	Ehm-s	
 nadaljevali	Ggnd-mm	nadaljevati-g	
 bomo	Gp-ppm-n	biti-g	
@@ -3324,7 +3324,7 @@ dogajalo	Ggnd-es	dogajati-g
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2107:1" video="https://media.dipintra.it/?id=2107&start=00.12&end=00.15&collection=eptic3">
+<s id="2107:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.12&end=00.00.15">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 ,	U	,-u	
@@ -3334,7 +3334,7 @@ in	Vp	in-v
 poslanci	Sommi	poslanec-s	
 .	SENT	.-s	
 </s>
-<s id="2107:2" video="https://media.dipintra.it/?id=2107&start=00.17&end=00.30&collection=eptic3">
+<s id="2107:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.17&end=00.00.30">
 Kot	Vd	kot-v	
 verjetno	Rsn	verjetno-r	
 zelo	Rsn	zelo-r	
@@ -3361,7 +3361,7 @@ v	Dm	v-d
 Nemčiji	Slzem	Nemčija-s	
 .	SENT	.-s	
 </s>
-<s id="2107:3" video="https://media.dipintra.it/?id=2107&start=00.31&end=00.39&collection=eptic3">
+<s id="2107:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.31&end=00.00.39">
 Evropska	Ppnzei	evropski-p	evropska
 komisija	Sozei	komisija-s	
 tesno	Rsn	tesno-r	
@@ -3378,7 +3378,7 @@ nemškimi	Ppnzmo	nemški-p	nemška
 oblastmi	Sozmo	oblast-s	
 .	SENT	.-s	
 </s>
-<s id="2107:4" video="https://media.dipintra.it/?id=2107&start=00.41&end=00.50&collection=eptic3">
+<s id="2107:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.41&end=00.00.50">
 Premišljujemo	Ggnspm	Premišljujemo-g	
 že	L	že-l	
 o	Dm	o-d	
@@ -3401,14 +3401,14 @@ bolj	Rsr	bolj-r
 učinkovit	Ppnmein	učinkovit-p	učinkovit
 .	SENT	.-s	
 </s>
-<s id="2107:5" video="https://media.dipintra.it/?id=2107&start=00.50&end=00.52&collection=eptic3">
+<s id="2107:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.50&end=00.00.52">
 Naj	L	naj-l	
 začnem	Ggdspe	začeti-g	
 z	Do	z-d	
 incidentom	Someo	incident-s	
 .	SENT	.-s	
 </s>
-<s id="2107:6" video="https://media.dipintra.it/?id=2107&start=00.53&end=01.12&collection=eptic3">
+<s id="2107:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.00.53&end=00.01.12">
 Za	Dt	za-d	
 to	Zk-set	ta-z	
 smo	Gp-spm-n	biti-g	
@@ -3444,7 +3444,7 @@ evropsko	Ppnzeo	evropski-p	evropska
 zakonodajo	Sozeo	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2107:7" video="https://media.dipintra.it/?id=2107&start=01.14&end=01.30&collection=eptic3">
+<s id="2107:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.01.14&end=00.01.30">
 V	Dm	v-d	
 sredini	Sozem	sredina-s	
 decembra	Somer	december-s	
@@ -3466,7 +3466,7 @@ tehnično	Ppnzet	tehničen-p	tehnična
 uporabo	Sozet	uporaba-s	
 .	SENT	.-s	
 </s>
-<s id="2107:8" video="https://media.dipintra.it/?id=2107&start=01.32&end=01.40&collection=eptic3">
+<s id="2107:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.01.32&end=00.01.40">
 Ta	Zk-mei	ta-z	
 to	Zk-sei	ta-z	
 podjetje	Sosei	podjetje-s	
@@ -3479,7 +3479,7 @@ proizvajalec	Somei	proizvajalec-s
 krme	Sozer	krma-s	
 .	SENT	.-s	
 </s>
-<s id="2107:9" video="https://media.dipintra.it/?id=2107&start=01.42&end=01.49&collection=eptic3">
+<s id="2107:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.01.42&end=00.01.49">
 Očitno	Rsn	očitno-r	
 je	Gp-ste-n	biti-g	
 prišlo	Ggdd-es	priti-g	
@@ -3493,7 +3493,7 @@ proizvodnji	Sozem	proizvodnja-s
 krme	Sozer	krma-s	
 .	SENT	.-s	
 </s>
-<s id="2107:10" video="https://media.dipintra.it/?id=2107&start=01.53&end=01.56&collection=eptic3">
+<s id="2107:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.01.53&end=00.01.56">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 so	Gp-stm-n	biti-g	
@@ -3503,7 +3503,7 @@ našli	Ggdd-mm	najti-g
 dioksin	Sometn	dioksin-s	
 .	SENT	.-s	
 </s>
-<s id="2107:11" video="https://media.dipintra.it/?id=2107&start=01.58&end=02.03&collection=eptic3">
+<s id="2107:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.01.58&end=00.02.03">
 Ostali	Pdnmmi	ostal-p	ostali
 vzorci	Sommi	vzorec-s	
 ,	U	,-u	
@@ -3521,7 +3521,7 @@ bili	Gp-d-mm	biti-g
 okuženi	Pdnmmi	okužen-p	okužen
 .	SENT	.-s	
 </s>
-<s id="2107:12" video="https://media.dipintra.it/?id=2107&start=02.04&end=02.16&collection=eptic3">
+<s id="2107:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.02.04&end=00.02.16">
 Kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
 pa	Vp	pa-v	
@@ -3540,7 +3540,7 @@ okužene	Pdnzer	okužen-p	okužena
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:13" video="https://media.dipintra.it/?id=2107&start=02.18&end=02.29&collection=eptic3">
+<s id="2107:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.02.18&end=00.02.29">
 Zato	Rsn	zato-r	
 so	Gp-stm-n	biti-g	
 vzorce	Sommt	vzorec-s	
@@ -3558,7 +3558,7 @@ Nemčije	Slzer	Nemčija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:14" video="https://media.dipintra.it/?id=2107&start=02.33&end=02.43&collection=eptic3">
+<s id="2107:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.02.33&end=00.02.43">
 Imamo	Ggnspm-n	imeti-g	
 nekaj	Rsn	nekaj-r	
 ton	Sozmr	tona-s	
@@ -3574,7 +3574,7 @@ strupenega	Ppnmer	strupen-p	strupen
 dioksina	Somer	dioksin-s	
 .	SENT	.-s	
 </s>
-<s id="2107:15" video="https://media.dipintra.it/?id=2107&start=02.44&end=02.51&collection=eptic3">
+<s id="2107:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.02.44&end=00.02.51">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 so	Gp-stm-n	biti-g	
@@ -3591,7 +3591,7 @@ trgovino	Sozet	trgovina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:16" video="https://media.dipintra.it/?id=2107&start=02.52&end=03.04&collection=eptic3">
+<s id="2107:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.02.52&end=00.03.04">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 so	Gp-stm-n	biti-g	
@@ -3606,7 +3606,7 @@ tako	Rsn	tako-r
 dalje	Rsn	dalje-r	
 .	SENT	.-s	
 </s>
-<s id="2107:17" video="https://media.dipintra.it/?id=2107&start=03.06&end=03.12&collection=eptic3">
+<s id="2107:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.03.06&end=00.03.12">
 Nekatere	Zn-zmi	nekateri-z	
 potencialno	Rsn	potencialno-r	
 okuženi	Pdnmmi	okužen-p	okužen
@@ -3622,7 +3622,7 @@ druge	Kbzzmt	drug-k
 države	Sozmt	država-s	
 .	SENT	.-s	
 </s>
-<s id="2107:18" video="https://media.dipintra.it/?id=2107&start=03.13&end=03.42&collection=eptic3">
+<s id="2107:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.03.13&end=00.03.42">
 Nobeno	Zl-sei	noben-z	
 teh	Zk-smr	ta-z	
 živil	Sosmr	živilo-s	
@@ -3682,7 +3682,7 @@ zaprtih	Pdnmmr	zaprt-p	zaprt
 938	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2107:19" video="https://media.dipintra.it/?id=2107&start=03.44&end=03.50&collection=eptic3">
+<s id="2107:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.03.44&end=00.03.50">
 Od	Dr	od-d	
 incidenta	Somer	incident-s	
 ni	Gp-ste-d	biti-g	
@@ -3694,7 +3694,7 @@ okuženimi	Pdnmmo	okužen-p	okužen
 proizvodi	Sommo	proizvod-s	
 .	SENT	.-s	
 </s>
-<s id="2107:20" video="https://media.dipintra.it/?id=2107&start=03.52&end=03.57&collection=eptic3">
+<s id="2107:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.03.52&end=00.03.57">
 Analize	Sozmi	analiza-s	
 kasnejše	Pppzmt	kasen-p	kasnejša
 analize	Sozmt	analiza-s	
@@ -3712,7 +3712,7 @@ evropsko	Ppnzeo	evropski-p	evropska
 zakonodajo	Sozeo	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2107:21" video="https://media.dipintra.it/?id=2107&start=03.58&end=04.04&collection=eptic3">
+<s id="2107:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.03.58&end=00.04.04">
 To	Zk-sei	ta-z	
 kaže	Ggnste	kazati-g	
 na	Dt	na-d	
@@ -3733,7 +3733,7 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:22" video="https://media.dipintra.it/?id=2107&start=04.08&end=04.20&collection=eptic3">
+<s id="2107:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.04.08&end=00.04.20">
 Pozitivna	Ppnzei	pozitiven-p	pozitivna
 plat	Sozei	plat-s	
 tega	Zk-mer	ta-z	
@@ -3758,7 +3758,7 @@ visoke	Ppnzer	visok-p	visoka
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:23" video="https://media.dipintra.it/?id=2107&start=04.25&end=04.32&collection=eptic3">
+<s id="2107:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.04.25&end=00.04.32">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -3778,7 +3778,7 @@ teh	Zk-mmr	ta-z
 proizvodov	Sommr	proizvod-s	
 .	SENT	.-s	
 </s>
-<s id="2107:24" video="https://media.dipintra.it/?id=2107&start=04.34&end=04.44&collection=eptic3">
+<s id="2107:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.04.34&end=00.04.44">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 takoj	Rsn	takoj-r	
@@ -3803,7 +3803,7 @@ in	Vp	in-v
 obveščanje	Soset	obveščanje-s	
 .	SENT	.-s	
 </s>
-<s id="2107:25" video="https://media.dipintra.it/?id=2107&start=04.45&end=04.54&collection=eptic3">
+<s id="2107:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.04.45&end=00.04.54">
 Stopili	Ggdd-mm	stopiti-g	
 smo	Gp-spm-n	biti-g	
 v	Dt	v-d	
@@ -3832,7 +3832,7 @@ trgovinske	Ppnmmt	trgovinski-p	trgovinski
 partnerje	Sommt	partner-s	
 .	SENT	.-s	
 </s>
-<s id="2107:26" video="https://media.dipintra.it/?id=2107&start=04.57&end=05.19&collection=eptic3">
+<s id="2107:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.04.57&end=00.05.19">
 Evropska	Ppnzei	evropski-p	evropska
 komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
@@ -3870,7 +3870,7 @@ prihodnosti	Sozem	prihodnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:27" video="https://media.dipintra.it/?id=2107&start=05.22&end=05.41&collection=eptic3">
+<s id="2107:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.05.22&end=00.05.41">
 Tudi	L	tudi-l	
 danes	Rsn	danes-r	
 sem	Gp-spe-n	biti-g	
@@ -3905,7 +3905,7 @@ potencialno	Rsn	potencialno-r
 okužene	Pdnzmi	okužen-p	okužena
 .	SENT	.-s	
 </s>
-<s id="2107:28" video="https://media.dipintra.it/?id=2107&start=05.43&end=05.47&collection=eptic3">
+<s id="2107:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.05.43&end=00.05.47">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -3919,7 +3919,7 @@ farm	Sozmr	farma-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:29" video="https://media.dipintra.it/?id=2107&start=05.51&end=05.59&collection=eptic3">
+<s id="2107:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.05.51&end=00.05.59">
 In	Vp	in-v	
 s	Do	z-d	
 tem	Zk-seo	ta-z	
@@ -3934,7 +3934,7 @@ varnostjo	Sozeo	varnost-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2107:30" video="https://media.dipintra.it/?id=2107&start=06.00&end=06.06&collection=eptic3">
+<s id="2107:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.00&end=00.06.06">
 Nemčija	Slzei	Nemčija-s	
 se	Zp------k	se-z	
 zelo	Rsn	zelo-r	
@@ -3952,7 +3952,7 @@ te	Zk-zer	ta-z
 situacije	Sozer	situacija-s	
 .	SENT	.-s	
 </s>
-<s id="2107:31" video="https://media.dipintra.it/?id=2107&start=06.08&end=06.16&collection=eptic3">
+<s id="2107:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.08&end=00.06.16">
 Obvestili	Ggdd-mm	obvestiti-g	
 sm-	DYSF	sm-s	
 so	Gp-stm-n	biti-g	
@@ -3976,7 +3976,7 @@ izvedli	Ggdd-mm	izvesti-g
 prej	Rsr	prej-r	
 .	SENT	.-s	
 </s>
-<s id="2107:32" video="https://media.dipintra.it/?id=2107&start=06.18&end=06.32&collection=eptic3">
+<s id="2107:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.18&end=00.06.32">
 Kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
 je	Gp-ste-n	biti-g	
@@ -4001,7 +4001,7 @@ nadaljne	Ppnmmt	nadaljni-p	nadaljni
 ukrepe	Sommt	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2107:33" video="https://media.dipintra.it/?id=2107&start=06.34&end=06.46&collection=eptic3">
+<s id="2107:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.34&end=00.06.46">
 Zato	Rsn	zato-r	
 bomo	Gp-ppm-n	biti-g	
 tja	Rsn	tja-r	
@@ -4035,7 +4035,7 @@ v	Dm	v-d
 prihodnosti	Sozem	prihodnost-s	
 .	SENT	.-s	
 </s>
-<s id="2107:34" video="https://media.dipintra.it/?id=2107&start=06.47&end=06.50&collection=eptic3">
+<s id="2107:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.47&end=00.06.50">
 Nemške	Ppnzmi	nemški-p	nemška
 oblasti	Sozmi	oblast-s	
 se	Zp------k	se-z	
@@ -4045,7 +4045,7 @@ tem	Zk-meo	ta-z
 obiskom	Someo	obisk-s	
 .	SENT	.-s	
 </s>
-<s id="2107:35" video="https://media.dipintra.it/?id=2107&start=06.51&end=06.56&collection=eptic3">
+<s id="2107:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.51&end=00.06.56">
 Sam	Ppnmein	sam-p	sam
 vem	Ggnspe	vedeti-g	
 ,	U	,-u	
@@ -4060,7 +4060,7 @@ nemških	Ppnmmr	nemški-p	nemški
 kolegov	Sommr	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2107:36" video="https://media.dipintra.it/?id=2107&start=06.58&end=07.03&collection=eptic3">
+<s id="2107:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.06.58&end=00.07.03">
 In	Vp	in-v	
 še	L	še-l	
 dodatne	Ppnzmt	dodaten-p	dodatna
@@ -4069,7 +4069,7 @@ za	Dt	za-d
 vas	Zod-mt	ti-z	
 .	SENT	.-s	
 </s>
-<s id="2107:37" video="https://media.dipintra.it/?id=2107&start=07.03&end=07.12&collection=eptic3">
+<s id="2107:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.03&end=00.07.12">
 O	Dm	o-d	
 tem	Zk-sem	ta-z	
 se	Zp------k	se-z	
@@ -4087,7 +4087,7 @@ v	Dm	v-d
 Bruslju	Slmem	Bruselj-s	
 .	SENT	.-s	
 </s>
-<s id="2107:38" video="https://media.dipintra.it/?id=2107&start=07.13&end=07.17&collection=eptic3">
+<s id="2107:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.13&end=00.07.17">
 Tam	Rsn	tam-r	
 bodo	Gp-ptm-n	biti-g	
 sprejeli	Ggdd-mm	sprejeti-g	
@@ -4098,7 +4098,7 @@ zakonodajne	Ppnmmt	zakonodajen-p	zakonodajni
 sklepe	Sommt	sklep-s	
 .	SENT	.-s	
 </s>
-<s id="2107:39" video="https://media.dipintra.it/?id=2107&start=07.18&end=07.33&collection=eptic3">
+<s id="2107:39" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.18&end=00.07.33">
 Zato	Vp	zato-v	
 ker	Vd	ker-v	
 želimo	Ggnspm	želeti-g	
@@ -4126,7 +4126,7 @@ krme	Sozer	krma-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2107:40" video="https://media.dipintra.it/?id=2107&start=07.39&end=07.49&collection=eptic3">
+<s id="2107:40" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.39&end=00.07.49">
 Zato	Rsn	zato-r	
 moramo	Ggnspm	morati-g	
 nadzirati	Ggnn	nadzirati-g	
@@ -4145,7 +4145,7 @@ industrijsko	Ppnzet	industrijski-p	industrijska
 uporabo	Sozet	uporaba-s	
 .	SENT	.-s	
 </s>
-<s id="2107:41" video="https://media.dipintra.it/?id=2107&start=07.50&end=07.54&collection=eptic3">
+<s id="2107:41" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.50&end=00.07.54">
 Zato	Rsn	zato-r	
 moramo	Ggnspm	morati-g	
 opravljati	Ggnn	opravljati-g	
@@ -4157,7 +4157,7 @@ fazah	Sozmm	faza-s
 proizvodnje	Sozer	proizvodnja-s	
 .	SENT	.-s	
 </s>
-<s id="2107:42" video="https://media.dipintra.it/?id=2107&start=07.56&end=08.07&collection=eptic3">
+<s id="2107:42" video="http://amelia.sslmit.unibo.it/video/video.php?id=2107.wmv&start=00.07.56&end=00.08.07">
 Ti	Zk-mmi	ta-z	
 ukrepi	Sommi	ukrep-s	
 bodo	Gp-ptm-n	biti-g	
@@ -4192,7 +4192,7 @@ krme	Sozer	krma-s
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="SL17" gender="M" native="Y">
-<s id="2108:1" video="https://media.dipintra.it/?id=2108&start=00.08&end=00.10&collection=eptic3">
+<s id="2108:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.08&end=00.00.10">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -4200,7 +4200,7 @@ gospa	Sozei	gospa-s
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 .	SENT	.-s	
 </s>
-<s id="2108:2" video="https://media.dipintra.it/?id=2108&start=00.11&end=00.19&collection=eptic3">
+<s id="2108:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.11&end=00.00.19">
 Najprej	Rss	najprej-r	
 bi	Gp-g	biti-g	
 rad	Rsn	rad-r	
@@ -4222,7 +4222,7 @@ nemški	Ppnmmi	nemški-p	nemški
 kmetje	Sommi	kmet-s	
 .	SENT	.-s	
 </s>
-<s id="2108:3" video="https://media.dipintra.it/?id=2108&start=00.20&end=00.27&collection=eptic3">
+<s id="2108:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.20&end=00.00.27">
 Pred	Do	pred-d	
 dvema	Kbgsdo	dva-k	
 letoma	Sosdo	leto-s	
@@ -4234,7 +4234,7 @@ nekaj	Zn-set	nekaj-z
 podobnega	Ppnser	podoben-p	podobno
 .	SENT	.-s	
 </s>
-<s id="2108:4" video="https://media.dipintra.it/?id=2108&start=00.27&end=00.41&collection=eptic3">
+<s id="2108:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.27&end=00.00.41">
 Kmetje	Sommi	kmet-s	
 najbolj	Rss	najbolj-r	
 trpijo	Ggnstm	trpeti-g	
@@ -4254,7 +4254,7 @@ takšnih	Zk-zmm	takšen-z
 dejavnostih	Sozmm	dejavnost-s	
 .	SENT	.-s	
 </s>
-<s id="2108:5" video="https://media.dipintra.it/?id=2108&start=00.42&end=00.51&collection=eptic3">
+<s id="2108:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.42&end=00.00.51">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 kaznivo	Ppnset	kazniv-p	kaznivo
@@ -4269,7 +4269,7 @@ podjetja	Sosmi	podjetje-s
 počnejo	Ggvstm	početi-g	
 .	SENT	.-s	
 </s>
-<s id="2108:6" video="https://media.dipintra.it/?id=2108&start=00.52&end=00.58&collection=eptic3">
+<s id="2108:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.52&end=00.00.58">
 Želijo	Ggnstm	želeti-g	
 zasluši-	DYSF	zasluši-s	
 zaslužiti	Ggdn	zaslužiti-g	
@@ -4285,7 +4285,7 @@ kazensko	Ppnsei	kazenski-p	kazensko
 preganjati	Ggnn	preganjati-g	
 .	SENT	.-s	
 </s>
-<s id="2108:7" video="https://media.dipintra.it/?id=2108&start=00.59&end=01.06&collection=eptic3">
+<s id="2108:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.00.59&end=00.01.06">
 Ne	L	ne-l	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -4300,7 +4300,7 @@ niso	Gp-stm-d	biti-g
 odgovorni	Ppnmmi	odgovoren-p	odgovoren
 .	SENT	.-s	
 </s>
-<s id="2108:8" video="https://media.dipintra.it/?id=2108&start=01.06&end=01.14&collection=eptic3">
+<s id="2108:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.01.06&end=00.01.14">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 proizvajalce	Sommt	proizvajalec-s	
@@ -4325,7 +4325,7 @@ naše	Zspmmtm	naš-z
 potrošnike	Sommt	potrošnik-s	
 .	SENT	.-s	
 </s>
-<s id="2108:9" video="https://media.dipintra.it/?id=2108&start=01.14&end=01.27&collection=eptic3">
+<s id="2108:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.01.14&end=00.01.27">
 Ne	L	ne-l	
 razumem	Ggvspe	razumeti-g	
 namreč	Vp	namreč-v	
@@ -4362,7 +4362,7 @@ ne	L	ne-l
 zgodi	Ggdste	zgoditi-g	
 .	SENT	.-s	
 </s>
-<s id="2108:10" video="https://media.dipintra.it/?id=2108&start=01.28&end=01.33&collection=eptic3">
+<s id="2108:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2108.wmv&start=00.01.28&end=00.01.33">
 Zato	Vp	zato-v	
 ne	L	ne-l	
 potrebujemo	Ggnspm	potrebovati-g	
@@ -4387,14 +4387,14 @@ imamo	Ggnspm-n	imeti-g
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="SL21" gender="M" native="Y">
-<s id="2109:1" video="https://media.dipintra.it/?id=2109&start=00.11&end=00.12&collection=eptic3">
+<s id="2109:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.11&end=00.00.12">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
 predsednica	Sozei	predsednica-s	
 .	SENT	.-s	
 </s>
-<s id="2109:2" video="https://media.dipintra.it/?id=2109&start=00.14&end=00.26&collection=eptic3">
+<s id="2109:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.14&end=00.00.26">
 Najprej	Rss	najprej-r	
 naj	L	naj-l	
 povem	Ggdspe	povedati-g	
@@ -4422,7 +4422,7 @@ močnejše	Pppmmt	močen-p	močnejši
 standarde	Sommt	standard-s	
 .	SENT	.-s	
 </s>
-<s id="2109:3" video="https://media.dipintra.it/?id=2109&start=00.27&end=00.35&collection=eptic3">
+<s id="2109:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.27&end=00.00.35">
 Po	Dm	po-d	
 drugi	Kbzzem	drug-k	
 strani	Sozem	stran-s	
@@ -4444,7 +4444,7 @@ proizvodnje	Sozer	proizvodnja-s
 semen	Sosmr	seme-s	
 .	SENT	.-s	
 </s>
-<s id="2109:4" video="https://media.dipintra.it/?id=2109&start=00.37&end=00.42&collection=eptic3">
+<s id="2109:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.37&end=00.00.42">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 tega	Zk-ser	ta-z	
@@ -4459,7 +4459,7 @@ dodatno	Ppnzeo	dodaten-p	dodatna
 zakonodajo	Sozeo	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2109:5" video="https://media.dipintra.it/?id=2109&start=00.43&end=00.48&collection=eptic3">
+<s id="2109:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.43&end=00.00.48">
 Nemci	Slmmi	Nemec-s	
 so	Gp-stm-n	biti-g	
 identificirali	Ggvd-mm	identificirati-g	
@@ -4476,7 +4476,7 @@ ustrezno	Rsn	ustrezno-r
 ukrepajo	Ggnstm	ukrepati-g	
 .	SENT	.-s	
 </s>
-<s id="2109:6" video="https://media.dipintra.it/?id=2109&start=00.48&end=01.05&collection=eptic3">
+<s id="2109:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.00.48&end=00.01.05">
 V	Dm	v-d	
 Združenem	Pdnsem	Združenem-p	združenem
 kraljestvu	Sosem	kraljestvo-s	
@@ -4505,7 +4505,7 @@ na	Dm	na-d
 kmetiji	Sozem	kmetija-s	
 .	SENT	.-s	
 </s>
-<s id="2109:7" video="https://media.dipintra.it/?id=2109&start=01.06&end=01.15&collection=eptic3">
+<s id="2109:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2109.wmv&start=00.01.06&end=00.01.15">
 Na	Dt	na-d	
 ta	Zk-met	ta-z	
 način	Sometn	način-s	
@@ -4532,7 +4532,7 @@ potrošnika	Somer	potrošnik-s
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2110:1" video="https://media.dipintra.it/?id=2110&start=00.13&end=00.15&collection=eptic3">
+<s id="2110:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.00.13&end=00.00.15">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -4547,7 +4547,7 @@ in	Vp	in-v
 kolegi	Sommi	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2110:2" video="https://media.dipintra.it/?id=2110&start=00.20&end=00.30&collection=eptic3">
+<s id="2110:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.00.20&end=00.00.30">
 Ehm	FPAUSE	Ehm-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -4579,7 +4579,7 @@ našem	Zspmemm	naš-z
 sistemu	Somem	sistem-s	
 .	SENT	.-s	
 </s>
-<s id="2110:3" video="https://media.dipintra.it/?id=2110&start=00.31&end=00.42&collection=eptic3">
+<s id="2110:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.00.31&end=00.00.42">
 Več	Rsr	več-r	
 kot	Vd	kot-v	
 zaskrbljujoče	Pdnzmt	zaskrbljujoč-p	zaskrbljujoča
@@ -4616,7 +4616,7 @@ prehrambno	Ppnzet	prehramben-p	prehrambena
 verigo	Sozet	veriga-s	
 .	SENT	.-s	
 </s>
-<s id="2110:4" video="https://media.dipintra.it/?id=2110&start=00.43&end=01.00&collection=eptic3">
+<s id="2110:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.00.43&end=00.01.00">
 In	Vp	in-v	
 ehm	FPAUSE	ehm-g	
 velikokrat	Rsn	velikokrat-r	
@@ -4653,7 +4653,7 @@ varnost	Sozet	varnost-s
 hrane	Sozer	hrana-s	
 .	SENT	.-s	
 </s>
-<s id="2110:5" video="https://media.dipintra.it/?id=2110&start=01.01&end=01.02&collection=eptic3">
+<s id="2110:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.01.01&end=00.01.02">
 In	Vp	in-v	
 zato	Rsn	zato-r	
 imam	Ggnspe-n	imeti-g	
@@ -4663,7 +4663,7 @@ dve	Kbgsdt	dva-k
 vprašanji	Sosdt	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2110:6" video="https://media.dipintra.it/?id=2110&start=01.03&end=01.16&collection=eptic3">
+<s id="2110:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.01.03&end=00.01.16">
 Prvič	Rsn	prvič-r	
 ,	U	,-u	
 ali	Vp	ali-v	
@@ -4693,7 +4693,7 @@ prehrambni	Ppnzem	prehramben-p	prehrambena
 verigi	Sozem	veriga-s	
 ?	SENT	?-s	
 </s>
-<s id="2110:7" video="https://media.dipintra.it/?id=2110&start=01.17&end=01.25&collection=eptic3">
+<s id="2110:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2110.wmv&start=00.01.17&end=00.01.25">
 In	Vp	in-v	
 drugič	Rsn	drugič-r	
 ,	U	,-u	
@@ -4721,12 +4721,12 @@ prihodnje	Ppnset	prihodnji-p	prihodnje
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2112:1" video="https://media.dipintra.it/?id=2112&start=00.09&end=00.09&collection=eptic3">
+<s id="2112:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.09&end=00.00.09">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
-<s id="2112:2" video="https://media.dipintra.it/?id=2112&start=00.10&end=00.13&collection=eptic3">
+<s id="2112:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.10&end=00.00.13">
 Na	Dm	na-d	
 Irskem	Slsem	Irsko-s	
 pred	Do	pred-d	
@@ -4741,7 +4741,7 @@ imeli	Ggnd-mm	imeti-g
 problem	Sometn	problem-s	
 .	SENT	.-s	
 </s>
-<s id="2112:3" video="https://media.dipintra.it/?id=2112&start=00.14&end=00.19&collection=eptic3">
+<s id="2112:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.14&end=00.00.19">
 Zanima	Ggnste	zanimati-g	
 me	Zop-et--k	jaz-z	
 ,	U	,-u	
@@ -4764,7 +4764,7 @@ tekoči	Pdnzed	tekoč-p	tekoča
 krizi	Sozed	kriza-s	
 .	SENT	.-s	
 </s>
-<s id="2112:4" video="https://media.dipintra.it/?id=2112&start=00.20&end=00.31&collection=eptic3">
+<s id="2112:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.20&end=00.00.31">
 Imam	Ggnspe-n	imeti-g	
 specifično	Ppnset	specifičen-p	specifično
 vprašanje	Soset	vprašanje-s	
@@ -4788,7 +4788,7 @@ ehm	FPAUSE	ehm-s
 pravil	Sosmr	pravilo-s	
 .	SENT	.-s	
 </s>
-<s id="2112:5" video="https://media.dipintra.it/?id=2112&start=00.32&end=00.34&collection=eptic3">
+<s id="2112:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.32&end=00.00.34">
 Prosim	Ggnspe	prositi-g	
 ,	U	,-u	
 dajte	Ggdvdm	dati-g	
@@ -4799,7 +4799,7 @@ kar	Zz-set	kar-z
 zahtevate	Ggvsdm	zahtevati-g	
 .	SENT	.-s	
 </s>
-<s id="2112:6" video="https://media.dipintra.it/?id=2112&start=00.34&end=00.36&collection=eptic3">
+<s id="2112:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.34&end=00.00.36">
 In	Vp	in-v	
 še	L	še-l	
 3	Kag	[number]-k	
@@ -4808,7 +4808,7 @@ naj	L	naj-l
 izpostavim	Ggdspe	izpostaviti-g	
 .	SENT	.-s	
 </s>
-<s id="2112:7" video="https://media.dipintra.it/?id=2112&start=00.37&end=01.01&collection=eptic3">
+<s id="2112:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.00.37&end=00.01.01">
 Zelo	Rsn	zelo-r	
 jasno	Rsn	jasno-r	
 moramo	Ggnspm	morati-g	
@@ -4851,7 +4851,7 @@ prehrambeno	Ppnzet	prehramben-p	prehrambena
 verigo	Sozet	veriga-s	
 .	SENT	.-s	
 </s>
-<s id="2112:8" video="https://media.dipintra.it/?id=2112&start=01.01&end=01.04&collection=eptic3">
+<s id="2112:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.01.01&end=00.01.04">
 To	Zk-sei	ta-z	
 prav	L	prav-l	
 gotovo	Rsn	gotovo-r	
@@ -4860,7 +4860,7 @@ višja	Pppzei	visok-p	višja
 matematika	Sozei	matematika-s	
 .	SENT	.-s	
 </s>
-<s id="2112:9" video="https://media.dipintra.it/?id=2112&start=01.04&end=01.14&collection=eptic3">
+<s id="2112:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2112.wmv&start=00.01.04&end=00.01.14">
 Kontrola	Sozei	kontrola-s	
 je	Gp-ste-n	biti-g	
 tista	Zk-zei	tisti-z	
@@ -4894,7 +4894,7 @@ več	Rsr	več-r
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2113:1" video="https://media.dipintra.it/?id=2113&start=00.12&end=00.13&collection=eptic3">
+<s id="2113:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2113.wmv&start=00.00.12&end=00.00.13">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -4902,7 +4902,7 @@ gospa	Sozei	gospa-s
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 .	SENT	.-s	
 </s>
-<s id="2113:2" video="https://media.dipintra.it/?id=2113&start=00.14&end=00.29&collection=eptic3">
+<s id="2113:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2113.wmv&start=00.00.14&end=00.00.29">
 Kar	Rsn	kar-r	
 nekaj	Rsn	nekaj-r	
 takih	Zk-mmr	tak-z	
@@ -4951,7 +4951,7 @@ tovrstne	Ppnmmt	tovrsten-p	tovrstni
 incidente	Sommt	incident-s	
 .	SENT	.-s	
 </s>
-<s id="2113:3" video="https://media.dipintra.it/?id=2113&start=00.30&end=00.31&collection=eptic3">
+<s id="2113:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2113.wmv&start=00.00.30&end=00.00.31">
 To	Zk-sei	ta-z	
 nas	Zop-mt	jaz-z	
 vse	Zc-sei	ves-z	
@@ -4959,7 +4959,7 @@ zelo	Rsn	zelo-r
 skrbi	Ggnste	skrbeti-g	
 .	SENT	.-s	
 </s>
-<s id="2113:4" video="https://media.dipintra.it/?id=2113&start=00.32&end=00.49&collection=eptic3">
+<s id="2113:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2113.wmv&start=00.00.32&end=00.00.49">
 Te	Zk-zmi	ta-z	
 incidenti	Sommi	incident-s	
 zelo	Rsn	zelo-r	
@@ -5002,7 +5002,7 @@ predelovalno	Ppnzet	predelovalen-p	predelovalna
 industrijo	Sozet	industrija-s	
 .	SENT	.-s	
 </s>
-<s id="2113:5" video="https://media.dipintra.it/?id=2113&start=00.50&end=01.15&collection=eptic3">
+<s id="2113:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2113.wmv&start=00.00.50&end=00.01.15">
 Ehm	FPAUSE	Ehm-p	ehm
 Komisija	Sozei	komisija-s	
 in	Vp	in-v	
@@ -5061,7 +5061,7 @@ ehm	FPAUSE	ehm-s
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2114:1" video="https://media.dipintra.it/?id=2114&start=00.09&end=00.11&collection=eptic3">
+<s id="2114:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.09&end=00.00.11">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
@@ -5069,7 +5069,7 @@ gospod	Somei	gospod-s
 komisar	Somei	komisar-s	
 .	SENT	.-s	
 </s>
-<s id="2114:2" video="https://media.dipintra.it/?id=2114&start=00.13&end=00.24&collection=eptic3">
+<s id="2114:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.13&end=00.00.24">
 Tropski	Ppnmmi	tropski-p	tropski
 gozdovi	Sommi	gozd-s	
 v	Dm	v-d	
@@ -5093,7 +5093,7 @@ izkoriščanja	Soser	izkoriščanje-s
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2114:3" video="https://media.dipintra.it/?id=2114&start=00.24&end=00.36&collection=eptic3">
+<s id="2114:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.24&end=00.00.36">
 Vendar	Vp	vendar-v	
 ti	Zk-mmi	ta-z	
 gozdovi	Sommi	gozd-s	
@@ -5120,7 +5120,7 @@ ogromno	Rsn	ogromno-r
 ogljika	Somer	ogljik-s	
 .	SENT	.-s	
 </s>
-<s id="2114:4" video="https://media.dipintra.it/?id=2114&start=00.36&end=00.42&collection=eptic3">
+<s id="2114:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.36&end=00.00.42">
 Boj	Somei	boj-s	
 proti	Dd	proti-d	
 krčenju	Sosed	krčenje-s	
@@ -5135,7 +5135,7 @@ podnebnim	Ppnzmd	podneben-p	podnebna
 spremembam	Sozmd	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2114:5" video="https://media.dipintra.it/?id=2114&start=00.43&end=00.54&collection=eptic3">
+<s id="2114:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.43&end=00.00.54">
 Vlade	Sozmi	vlada-s	
 po	Dm	po-d	
 celem	Ppnmem	cel-p	cel
@@ -5166,7 +5166,7 @@ Evropsko	Ppnzeo	evropski-p	evropska
 unijo	Sozeo	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2114:6" video="https://media.dipintra.it/?id=2114&start=00.55&end=00.59&collection=eptic3">
+<s id="2114:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.55&end=00.00.59">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 izvajanje	Sosei	izvajanje-s	
@@ -5177,7 +5177,7 @@ bistvenega	Ppnmer	bistven-p	bistven
 pomena	Somer	pomen-s	
 .	SENT	.-s	
 </s>
-<s id="2114:7" video="https://media.dipintra.it/?id=2114&start=00.59&end=01.02&collection=eptic3">
+<s id="2114:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.00.59&end=00.01.02">
 Sami	Ppnmmi	sam-p	sam
 vemo	Ggnspm	vedeti-g	
 ,	U	,-u	
@@ -5187,7 +5187,7 @@ imamo	Ggnspm-n	imeti-g
 doma	Rsn	doma-r	
 .	SENT	.-s	
 </s>
-<s id="2114:8" video="https://media.dipintra.it/?id=2114&start=01.03&end=01.09&collection=eptic3">
+<s id="2114:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.03&end=00.01.09">
 Vendar	Vp	vendar-v	
 za	Dt	za-d	
 to	Zk-set	ta-z	
@@ -5209,7 +5209,7 @@ zelo	Rsn	zelo-r
 zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 .	SENT	.-s	
 </s>
-<s id="2114:9" video="https://media.dipintra.it/?id=2114&start=01.10&end=01.14&collection=eptic3">
+<s id="2114:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.10&end=00.01.14">
 Gozdarjenje	Soset	gozdarjenje-s	
 ehm	FPAUSE	ehm-g	
 in	Vp	in-v	
@@ -5220,7 +5220,7 @@ je	Gp-ste-n	biti-g
 pomembno	Ppnsei	pomemben-p	pomembno
 .	SENT	.-s	
 </s>
-<s id="2114:10" video="https://media.dipintra.it/?id=2114&start=01.15&end=01.25&collection=eptic3">
+<s id="2114:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.15&end=00.01.25">
 Trenutno	Rsn	trenutno-r	
 nelegalno	Rsn	nelegalno-r	
 ehm	FPAUSE	ehm-g	
@@ -5238,7 +5238,7 @@ na	Dm	na-d
 trgu	Somem	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2114:11" video="https://media.dipintra.it/?id=2114&start=01.26&end=01.33&collection=eptic3">
+<s id="2114:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.26&end=00.01.33">
 Ehm	FPAUSE	Ehm-g	
 izvajanje	Soset	izvajanje-s	
 zakonodaje	Sozer	zakonodaja-s	
@@ -5256,7 +5256,7 @@ lokalno	Ppnset	lokalen-p	lokalno
 prebivalstvo	Soset	prebivalstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2114:12" video="https://media.dipintra.it/?id=2114&start=01.34&end=01.40&collection=eptic3">
+<s id="2114:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.34&end=00.01.40">
 Zagotoviti	Ggdn	zagotoviti-g	
 moramo	Ggnspm	morati-g	
 ,	U	,-u	
@@ -5272,7 +5272,7 @@ jim	Zotzmd--k	on-z
 prisluhnemo	Ggdspm	prisluhniti-g	
 .	SENT	.-s	
 </s>
-<s id="2114:13" video="https://media.dipintra.it/?id=2114&start=01.41&end=01.48&collection=eptic3">
+<s id="2114:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.41&end=00.01.48">
 Kljub	Dd	kljub-d	
 vsemu	Zc-sed	ves-z	
 bodo	Gp-ptm-n	biti-g	
@@ -5286,7 +5286,7 @@ gozdovi	Sommi	gozd-s
 izginjajo	Ggnstm	izginjati-g	
 .	SENT	.-s	
 </s>
-<s id="2114:14" video="https://media.dipintra.it/?id=2114&start=01.49&end=02.09&collection=eptic3">
+<s id="2114:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.01.49&end=00.02.09">
 Ehm	FPAUSE	Ehm-g	
 tropski	Ppnmetd	tropski-p	tropski
 les	Sometn	les-s	
@@ -5317,7 +5317,7 @@ počasi	Rsn	počasi-r
 raste	Ggnste	rasti-g	
 .	SENT	.-s	
 </s>
-<s id="2114:15" video="https://media.dipintra.it/?id=2114&start=02.09&end=02.24&collection=eptic3">
+<s id="2114:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.02.09&end=00.02.24">
 Ne	L	ne-l	
 smemo	Ggnspm	smeti-g	
 ehm	FPAUSE	ehm-s	
@@ -5348,7 +5348,7 @@ pridelan	Pdnmetn	pridelan-p	pridelan
 les	Sometn	les-s	
 .	SENT	.-s	
 </s>
-<s id="2114:16" video="https://media.dipintra.it/?id=2114&start=02.25&end=02.33&collection=eptic3">
+<s id="2114:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.02.25&end=00.02.33">
 To	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -5367,7 +5367,7 @@ temu	Zk-sed	ta-z
 nasprotujemo	Ggnspm	nasprotovati-g	
 .	SENT	.-s	
 </s>
-<s id="2114:17" video="https://media.dipintra.it/?id=2114&start=02.33&end=02.41&collection=eptic3">
+<s id="2114:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.02.33&end=00.02.41">
 Ljudje	Sommi	človek-s	
 ehm	FPAUSE	ehm-s	
 ,	U	,-u	
@@ -5388,7 +5388,7 @@ tega	Zk-mer	ta-z
 lesa	Somer	les-s	
 .	SENT	.-s	
 </s>
-<s id="2114:18" video="https://media.dipintra.it/?id=2114&start=02.41&end=02.48&collection=eptic3">
+<s id="2114:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.02.41&end=00.02.48">
 Zelo	Rsn	zelo-r	
 dobro	Rsn	dobro-r	
 razumejo	Ggvstm	razumeti-g	
@@ -5405,7 +5405,7 @@ našo	Zspzetm	naš-z
 podporo	Sozet	podpora-s	
 .	SENT	.-s	
 </s>
-<s id="2114:19" video="https://media.dipintra.it/?id=2114&start=02.49&end=03.02&collection=eptic3">
+<s id="2114:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.02.49&end=00.03.02">
 Tovrstni	Ppnmmi	tovrsten-p	tovrstni
 sporazumi	Sommi	sporazum-s	
 so	Gp-stm-n	biti-g	
@@ -5434,7 +5434,7 @@ Evropske	Ppnzer	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2114:20" video="https://media.dipintra.it/?id=2114&start=03.03&end=03.18&collection=eptic3">
+<s id="2114:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2114.wmv&start=00.03.03&end=00.03.18">
 Moramo	Ggnspm	morati-g	
 vse	Zc-zmt	ves-z	
 kršitve	Sozmt	kršitev-s	
@@ -5487,12 +5487,12 @@ dosegli	Ggdd-mm	doseči-g
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2115:1" video="https://media.dipintra.it/?id=2115&start=00.08&end=00.09&collection=eptic3">
+<s id="2115:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.00.08&end=00.00.09">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
-<s id="2115:2" video="https://media.dipintra.it/?id=2115&start=00.10&end=00.34&collection=eptic3">
+<s id="2115:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.00.10&end=00.00.34">
 Naj	L	naj-l	
 ehm	FPAUSE	ehm-g	
 se	Zp------k	se-z	
@@ -5554,7 +5554,7 @@ med	Do	med-d
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2115:3" video="https://media.dipintra.it/?id=2115&start=00.35&end=00.40&collection=eptic3">
+<s id="2115:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.00.35&end=00.00.40">
 Tako	Rsn	tako-r	
 kot	Vd	kot-v	
 sta	Gp-std-n	biti-g	
@@ -5572,7 +5572,7 @@ zaslužijo	Ggdstm	zaslužiti-g
 dobrodošlico	Sozet	dobrodošlica-s	
 .	SENT	.-s	
 </s>
-<s id="2115:4" video="https://media.dipintra.it/?id=2115&start=00.41&end=01.03&collection=eptic3">
+<s id="2115:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.00.41&end=00.01.03">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 mehanizem	Somei	mehanizem-s	
@@ -5618,7 +5618,7 @@ v	Dm	v-d
 Afriki	Slzem	Afrika-s	
 .	SENT	.-s	
 </s>
-<s id="2115:5" video="https://media.dipintra.it/?id=2115&start=01.03&end=01.08&collection=eptic3">
+<s id="2115:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.01.03&end=00.01.08">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 imam	Ggnspe-n	imeti-g	
@@ -5633,7 +5633,7 @@ nekaj	Rsn	nekaj-r
 pomislekov	Sommr	pomislek-s	
 .	SENT	.-s	
 </s>
-<s id="2115:6" video="https://media.dipintra.it/?id=2115&start=01.08&end=01.36&collection=eptic3">
+<s id="2115:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.01.08&end=00.01.36">
 Naj	L	naj-l	
 omenim	Ggdspe	omeniti-g	
 samo	L	samo-l	
@@ -5686,7 +5686,7 @@ globalnega	Ppnser	globalen-p	globalno
 okolja	Soser	okolje-s	
 .	SENT	.-s	
 </s>
-<s id="2115:7" video="https://media.dipintra.it/?id=2115&start=01.37&end=01.52&collection=eptic3">
+<s id="2115:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.01.37&end=00.01.52">
 Potrebujemo	Ggnspm	potrebovati-g	
 ehm	FPAUSE	ehm-g	
 trajnostno	Ppnset	trajnosten-p	trajnostno
@@ -5714,7 +5714,7 @@ tem	Zk-sem	ta-z
 poročati	Ggnn	poročati-g	
 .	SENT	.-s	
 </s>
-<s id="2115:8" video="https://media.dipintra.it/?id=2115&start=01.53&end=02.03&collection=eptic3">
+<s id="2115:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.01.53&end=00.02.03">
 Razen	Dr	razen-d	
 tega	Zk-ser	ta-z	
 avtohtono	Rsn	avtohtono-r	
@@ -5737,7 +5737,7 @@ tovrstnih	Ppnmmr	tovrsten-p	tovrstni
 sporazumov	Sommr	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2115:9" video="https://media.dipintra.it/?id=2115&start=02.04&end=02.29&collection=eptic3">
+<s id="2115:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.02.04&end=00.02.29">
 Prostovoljni	Ppnmmi	prostovoljen-p	prostovoljni
 partnerski	Ppnmmi	partnerski-p	partnerski
 sporazumi	Sommi	sporazum-s	
@@ -5784,7 +5784,7 @@ zakonodaji	Sozem	zakonodaja-s
 Konga	Slmer	Kongo-s	
 .	SENT	.-s	
 </s>
-<s id="2115:10" video="https://media.dipintra.it/?id=2115&start=02.30&end=02.36&collection=eptic3">
+<s id="2115:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.02.30&end=00.02.36">
 Strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
 z	Do	z-d	
@@ -5802,7 +5802,7 @@ teh	Zk-mmr	ta-z
 sporazumov	Sommr	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2115:11" video="https://media.dipintra.it/?id=2115&start=02.37&end=02.46&collection=eptic3">
+<s id="2115:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.02.37&end=00.02.46">
 Ne	L	ne-l	
 glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -5828,7 +5828,7 @@ na	Dm	na-d
 papirju	Somem	papir-s	
 .	SENT	.-s	
 </s>
-<s id="2115:12" video="https://media.dipintra.it/?id=2115&start=02.46&end=02.53&collection=eptic3">
+<s id="2115:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.02.46&end=00.02.53">
 In	Vp	in-v	
 moram	Ggnspe	morati-g	
 reči	Ggdn	reči-g	
@@ -5845,7 +5845,7 @@ temi	Zk-mmo	ta-z
 sporazumi	Sommo	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2115:13" video="https://media.dipintra.it/?id=2115&start=02.54&end=03.02&collection=eptic3">
+<s id="2115:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.02.54&end=00.03.02">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 moramo	Ggnspm	morati-g	
@@ -5865,7 +5865,7 @@ dejansko	Rsn	dejansko-r
 udejanjeni	Pdnmmi	udejanjen-p	udejanjen
 .	SENT	.-s	
 </s>
-<s id="2115:14" video="https://media.dipintra.it/?id=2115&start=03.02&end=03.21&collection=eptic3">
+<s id="2115:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.03.02&end=00.03.21">
 Moramo	Ggnspm	morati-g	
 zagotoviti	Ggdn	zagotoviti-g	
 zakonitost	Sozet	zakonitost-s	
@@ -5907,7 +5907,7 @@ ga	Zotmet--k	on-z
 omenil	Ggdd-em	omeniti-g	
 .	SENT	.-s	
 </s>
-<s id="2115:15" video="https://media.dipintra.it/?id=2115&start=03.22&end=03.29&collection=eptic3">
+<s id="2115:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.03.22&end=00.03.29">
 V	Dm	v-d	
 naslednjih	Ppnmmm	naslednji-p	naslednji
 mesecih	Sommm	mesec-s	
@@ -5926,7 +5926,7 @@ sporazumi	Sommi	sporazum-s
 obnesli	Ggdd-mm	obnesti-g	
 .	SENT	.-s	
 </s>
-<s id="2115:16" video="https://media.dipintra.it/?id=2115&start=03.30&end=03.47&collection=eptic3">
+<s id="2115:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.03.30&end=00.03.47">
 Naj	L	naj-l	
 še	L	še-l	
 enkrat	Rsn	enkrat-r	
@@ -5973,7 +5973,7 @@ v	Dm	v-d
 praksi	Sozem	praksa-s	
 .	SENT	.-s	
 </s>
-<s id="2115:17" video="https://media.dipintra.it/?id=2115&start=03.47&end=04.00&collection=eptic3">
+<s id="2115:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2115.wmv&start=00.03.47&end=00.04.00">
 To	Zk-sei	ta-z	
 pa	Vp	pa-v	
 mora	Ggnste	morati-g	
@@ -6022,7 +6022,7 @@ spremlja	Ggnste	spremljati-g
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2116:1" video="https://media.dipintra.it/?id=2116&start=00.10&end=00.27&collection=eptic3">
+<s id="2116:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.00.10&end=00.00.27">
 Splošni	Ppnzem	splošen-p	splošna
 pristop	Sometn	pristop-s	
 ehm	FPAUSE	ehm-g	
@@ -6062,7 +6062,7 @@ v	Dm	v-d
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2116:2" video="https://media.dipintra.it/?id=2116&start=00.28&end=00.54&collection=eptic3">
+<s id="2116:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.00.28&end=00.00.54">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 potrebno	Ppnsei	potreben-p	potrebno
@@ -6122,7 +6122,7 @@ avtohtono	Ppnset	avtohton-p	avtohtono
 prebivalstvo	Soset	prebivalstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2116:3" video="https://media.dipintra.it/?id=2116&start=00.55&end=01.07&collection=eptic3">
+<s id="2116:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.00.55&end=00.01.07">
 V	Dm	v-d	
 gozdarstvu	Sosem	gozdarstvo-s	
 nadPIPPPERO	Somei	nadPIPPPERO-s	
@@ -6142,7 +6142,7 @@ avtohtonih	Ppnmmr	avtohton-p	avtohton
 prebivalcev	Sommr	prebivalec-s	
 .	SENT	.-s	
 </s>
-<s id="2116:4" video="https://media.dipintra.it/?id=2116&start=01.08&end=01.20&collection=eptic3">
+<s id="2116:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.01.08&end=00.01.20">
 Zato	Vp	zato-v	
 mi	Zopmmi	jaz-z	
 pozivamo	Ggnspm	pozivati-g	
@@ -6167,7 +6167,7 @@ avtohtono	Ppnset	avtohton-p	avtohtono
 prebivalstvo	Soset	prebivalstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2116:5" video="https://media.dipintra.it/?id=2116&start=01.21&end=01.40&collection=eptic3">
+<s id="2116:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.01.21&end=00.01.40">
 Nezakonita	Ppnzei	nezakonit-p	nezakonita
 sečnja	Sozei	sečnja-s	
 je	Gp-ste-n	biti-g	
@@ -6205,7 +6205,7 @@ revnih	Ppnzmr	reven-p	revna
 skupnosti	Sozmr	skupnost-s	
 .	SENT	.-s	
 </s>
-<s id="2116:6" video="https://media.dipintra.it/?id=2116&start=01.41&end=02.00&collection=eptic3">
+<s id="2116:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.01.41&end=00.02.00">
 Tega	Zk-ser	ta-z	
 ne	L	ne-l	
 bodo	Gp-ptm-n	biti-g	
@@ -6245,7 +6245,7 @@ svoje	Zp-mmt	svoj-z
 vire	Sommt	vir-s	
 .	SENT	.-s	
 </s>
-<s id="2116:7" video="https://media.dipintra.it/?id=2116&start=02.01&end=02.12&collection=eptic3">
+<s id="2116:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2116.wmv&start=00.02.01&end=00.02.12">
 In	Vp	in-v	
 tukaj	Rsn	tukaj-r	
 se	Zp------k	se-z	
@@ -6275,7 +6275,7 @@ režim	Sometn	režim-s
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="809" duration="long" durations="397.0" speed="slow" speedwm="122.3" delivery="read">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2117:1" video="https://media.dipintra.it/?id=2117&start=00.10&end=00.12&collection=eptic3">
+<s id="2117:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.00.10&end=00.00.12">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 ,	U	,-u	
@@ -6285,7 +6285,7 @@ poslanke	Sozmi	poslanka-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:2" video="https://media.dipintra.it/?id=2117&start=00.15&end=00.33&collection=eptic3">
+<s id="2117:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.00.15&end=00.00.33">
 Za	Dt	za-d	
 začetek	Sometn	začetek-s	
 naj	L	naj-l	
@@ -6323,7 +6323,7 @@ oba	Zc-mdt	oba-z
 sporazuma	Somdt	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2117:3" video="https://media.dipintra.it/?id=2117&start=00.34&end=00.38&collection=eptic3">
+<s id="2117:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.00.34&end=00.00.38">
 Ehm	FPAUSE	Ehm-g	
 prav	L	prav-l	
 tako	Rsn	tako-r	
@@ -6340,7 +6340,7 @@ svoje	Zp-zer	svoj-z
 obljube	Sozer	obljuba-s	
 .	SENT	.-s	
 </s>
-<s id="2117:4" video="https://media.dipintra.it/?id=2117&start=00.39&end=00.52&collection=eptic3">
+<s id="2117:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.00.39&end=00.00.52">
 Zelo	Rsn	zelo-r	
 pomembno	Ppnsei	pomemben-p	pomembno
 je	Gp-ste-n	biti-g	
@@ -6372,7 +6372,7 @@ gore	Sozer	gora-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:5" video="https://media.dipintra.it/?id=2117&start=00.54&end=01.13&collection=eptic3">
+<s id="2117:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.00.54&end=00.01.13">
 Dejansko	Rsn	dejansko-r	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -6413,7 +6413,7 @@ tega	Zk-mer	ta-z
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2117:6" video="https://media.dipintra.it/?id=2117&start=01.14&end=01.29&collection=eptic3">
+<s id="2117:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.01.14&end=00.01.29">
 Res	Rsn	res-r	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -6458,7 +6458,7 @@ uspešni	Ppnmeid	uspešen-p	uspešen
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:7" video="https://media.dipintra.it/?id=2117&start=01.30&end=01.54&collection=eptic3">
+<s id="2117:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.01.30&end=00.01.54">
 Partnerski	Ppnzdi	partnerski-p	partnerska
 državi	Sozdi	država-s	
 sta	Gp-std-n	biti-g	
@@ -6508,7 +6508,7 @@ podnebne	Ppnzmt	podneben-p	podnebna
 spremembe	Sozmt	sprememba-s	
 .	SENT	.-s	
 </s>
-<s id="2117:8" video="https://media.dipintra.it/?id=2117&start=01.55&end=02.02&collection=eptic3">
+<s id="2117:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.01.55&end=00.02.02">
 Istočasno	Rsn	istočasno-r	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -6528,7 +6528,7 @@ tropski	Ppnmetd	tropski-p	tropski
 les	Sometn	les-s	
 .	SENT	.-s	
 </s>
-<s id="2117:9" video="https://media.dipintra.it/?id=2117&start=02.03&end=02.21&collection=eptic3">
+<s id="2117:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.02.03&end=00.02.21">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -6580,7 +6580,7 @@ les	Sometn	les-s
 legalen	Ppnmein	legalen-p	legalen
 .	SENT	.-s	
 </s>
-<s id="2117:10" video="https://media.dipintra.it/?id=2117&start=02.23&end=02.30&collection=eptic3">
+<s id="2117:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.02.23&end=00.02.30">
 Istočasno	Rsn	istočasno-r	
 ,	U	,-u	
 glede	Rsn	glede-r	
@@ -6603,7 +6603,7 @@ zaščito	Sozeo	zaščita-s
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2117:11" video="https://media.dipintra.it/?id=2117&start=02.31&end=02.43&collection=eptic3">
+<s id="2117:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.02.31&end=00.02.43">
 Včasih	Rsn	včasih-r	
 je	Gp-ste-n	biti-g	
 pač	L	pač-l	
@@ -6632,7 +6632,7 @@ obeh	Zc-zdm	oba-z
 straneh	Sozdm	stran-s	
 .	SENT	.-s	
 </s>
-<s id="2117:12" video="https://media.dipintra.it/?id=2117&start=02.44&end=02.46&collection=eptic3">
+<s id="2117:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.02.44&end=00.02.46">
 Naj	L	naj-l	
 odgovorim	Ggdspe	odgovoriti-g	
 na	Dt	na-d	
@@ -6647,7 +6647,7 @@ bilo	Gp-d-es	biti-g
 zastavljenih	Pdnmmr	zastavljen-p	zastavljen
 .	SENT	.-s	
 </s>
-<s id="2117:13" video="https://media.dipintra.it/?id=2117&start=02.48&end=03.08&collection=eptic3">
+<s id="2117:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.02.48&end=00.03.08">
 Kar	Zz-sei	kar-z	
 zadeva	Ggnste	zadevati-g	
 izvajanje	Soset	izvajanje-s	
@@ -6685,7 +6685,7 @@ ehm	FPAUSE	ehm-s
 sporazuma	Somer	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2117:14" video="https://media.dipintra.it/?id=2117&start=03.09&end=03.15&collection=eptic3">
+<s id="2117:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.03.09&end=00.03.15">
 TuPIPPPERO	Slmei	TuPIPPPERO-s	
 ,	U	,-u	
 tukaj	Rsn	tukaj-r	
@@ -6708,7 +6708,7 @@ Evropskemu	Ppnmed	evropski-p	evropski
 parlamentu	Somed	parlament-s	
 .	SENT	.-s	
 </s>
-<s id="2117:15" video="https://media.dipintra.it/?id=2117&start=03.16&end=03.23&collection=eptic3">
+<s id="2117:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.03.16&end=00.03.23">
 V	Dm	v-d	
 okviru	Somem	okvir-s	
 priprav	Sozmr	priprava-s	
@@ -6728,7 +6728,7 @@ avtohtonim	Ppnseo	avtohton-p	avtohtono
 prebivalstvom	Soseo	prebivalstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2117:16" video="https://media.dipintra.it/?id=2117&start=03.24&end=03.41&collection=eptic3">
+<s id="2117:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.03.24&end=00.03.41">
 Do	Dr	do-d	
 sedaj	Rsn	sedaj-r	
 so	Gp-stm-n	biti-g	
@@ -6773,7 +6773,7 @@ prizadeti	Pdnmeid	prizadet-p	prizadet
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:17" video="https://media.dipintra.it/?id=2117&start=03.42&end=03.55&collection=eptic3">
+<s id="2117:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.03.42&end=00.03.55">
 Tudi	L	tudi-l	
 neodvisni	Ppnmmi	neodvisen-p	neodvisen
 nadzorniki	Sommi	nadzornik-s	
@@ -6796,7 +6796,7 @@ skupnostmi	Sozmo	skupnost-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:18" video="https://media.dipintra.it/?id=2117&start=03.56&end=04.10&collection=eptic3">
+<s id="2117:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.03.56&end=00.04.10">
 V	Dm	v-d	
 času	Somem	čas-s	
 od	Dr	od-d	
@@ -6818,7 +6818,7 @@ v	Dm	v-d
 razvoju	Somem	razvoj-s	
 .	SENT	.-s	
 </s>
-<s id="2117:19" video="https://media.dipintra.it/?id=2117&start=04.11&end=04.14&collection=eptic3">
+<s id="2117:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.04.11&end=00.04.14">
 Deloma	Rsn	deloma-r	
 je	Gp-ste-n	biti-g	
 šlo	Ggvd-es	iti-g	
@@ -6831,7 +6831,7 @@ posameznih	Ppnzmm	posamezen-p	posamezna
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2117:20" video="https://media.dipintra.it/?id=2117&start=04.16&end=04.27&collection=eptic3">
+<s id="2117:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.04.16&end=00.04.27">
 Potem	Rsn	potem-r	
 je	Gp-ste-n	biti-g	
 tu	Rsn	tu-r	
@@ -6863,7 +6863,7 @@ leta	Soser	leto-s
 2013	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2117:21" video="https://media.dipintra.it/?id=2117&start=04.29&end=04.33&collection=eptic3">
+<s id="2117:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.04.29&end=00.04.33">
 Naj	L	naj-l	
 poudarim	Ggdspe	poudariti-g	
 ,	U	,-u	
@@ -6877,7 +6877,7 @@ temu	Zk-sed	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2117:22" video="https://media.dipintra.it/?id=2117&start=04.35&end=04.47&collection=eptic3">
+<s id="2117:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.04.35&end=00.04.47">
 Predvideli	Ggdd-mm	predvideti-g	
 smo	Gp-spm-n	biti-g	
 tudi	L	tudi-l	
@@ -6912,7 +6912,7 @@ oblastmi	Sozmo	oblast-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2117:23" video="https://media.dipintra.it/?id=2117&start=04.48&end=05.08&collection=eptic3">
+<s id="2117:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.04.48&end=00.05.08">
 Imamo	Ggnspm-n	imeti-g	
 tudi	L	tudi-l	
 pred	Do	pred-d	
@@ -6950,7 +6950,7 @@ gozdov	Sommr	gozd-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2117:24" video="https://media.dipintra.it/?id=2117&start=05.09&end=05.35&collection=eptic3">
+<s id="2117:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.05.09&end=00.05.35">
 ZPIPPPERO	Slmei	ZPIPPPERO-s	
 ,	U	,-u	
 kar	Zz-sei	kar-z	
@@ -6994,7 +6994,7 @@ avtohtonih	Ppnzmr	avtohton-p	avtohtona
 skupnosti	Sozmr	skupnost-s	
 .	SENT	.-s	
 </s>
-<s id="2117:25" video="https://media.dipintra.it/?id=2117&start=05.37&end=05.40&collection=eptic3">
+<s id="2117:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.05.37&end=00.05.40">
 Zabeležil	Ggdd-em	Zabeležil-g	
 sem	Gp-spe-n	biti-g	
 si	Zp---d--k	se-z	
@@ -7007,7 +7007,7 @@ zadeva	Sozei	zadeva-s
 pravice	Sozer	pravica-s	
 ;	U	;-u	
 </s>
-<s id="2117:26" video="https://media.dipintra.it/?id=2117&start=05.42&end=06.01&collection=eptic3">
+<s id="2117:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.05.42&end=00.06.01">
 ehm	FPAUSE	ehm-g	
 strinjam	Ggnspe	strinjati-g	
 se	Zp------k	se-z	
@@ -7065,7 +7065,7 @@ partnerskimi	Ppnzmo	partnerski-p	partnerska
 državami	Sozmo	država-s	
 .	SENT	.-s	
 </s>
-<s id="2117:27" video="https://media.dipintra.it/?id=2117&start=06.03&end=06.07&collection=eptic3">
+<s id="2117:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.06.03&end=00.06.07">
 Bi	Gp-g	biti-g	
 pa	Vp	pa-v	
 izpostavil	Ggdd-em	izpostaviti-g	
@@ -7081,7 +7081,7 @@ celotnem	Ppnmem	celoten-p	celoten
 postopku	Somem	postopek-s	
 .	SENT	.-s	
 </s>
-<s id="2117:28" video="https://media.dipintra.it/?id=2117&start=06.08&end=06.20&collection=eptic3">
+<s id="2117:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.06.08&end=00.06.20">
 Partnerske	Ppnzmi	partnerski-p	partnerska
 države	Sozmi	država-s	
 se	Zp------k	se-z	
@@ -7106,7 +7106,7 @@ doseči	Ggdn	doseči-g
 napredka	Somer	napredek-s	
 .	SENT	.-s	
 </s>
-<s id="2117:29" video="https://media.dipintra.it/?id=2117&start=06.21&end=06.42&collection=eptic3">
+<s id="2117:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.06.21&end=00.06.42">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7167,7 +7167,7 @@ dodatnega	Ppnser	dodaten-p	dodatno
 tveganja	Soser	tveganje-s	
 .	SENT	.-s	
 </s>
-<s id="2117:30" video="https://media.dipintra.it/?id=2117&start=06.43&end=06.47&collection=eptic3">
+<s id="2117:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.06.43&end=00.06.47">
 Morda	L	morda-l	
 s	Do	z-d	
 tem	Zk-seo	ta-z	
@@ -7190,7 +7190,7 @@ lahko	Rsn	lahko-r
 ponosni	Ppnmmi	ponosen-p	ponosen
 .	SENT	.-s	
 </s>
-<s id="2117:31" video="https://media.dipintra.it/?id=2117&start=06.47&end=06.48&collection=eptic3">
+<s id="2117:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2117.wmv&start=00.06.47&end=00.06.48">
 Hvala	Sozei	hvala-s	
 .	U	.-u	
 </s>
@@ -7202,7 +7202,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="SL19" gender="M" native="Y">
-<s id="2118:1" video="https://media.dipintra.it/?id=2118&start=00.08&end=00.11&collection=eptic3">
+<s id="2118:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.00.08&end=00.00.11">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 ,	U	,-u	
@@ -7214,7 +7214,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2118:2" video="https://media.dipintra.it/?id=2118&start=00.12&end=00.24&collection=eptic3">
+<s id="2118:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.00.12&end=00.00.24">
 Lepe	Ppnzmi	lep-p	lepa
 besede	Sozmi	beseda-s	
 ,	U	,-u	
@@ -7248,7 +7248,7 @@ ciljev	Sommr	cilj-s
 </s>
 ...	EPAUSE	...-u	
 .	SENT	.-s	
-<s id="2118:3" video="https://media.dipintra.it/?id=2118&start=00.26&end=00.38&collection=eptic3">
+<s id="2118:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.00.26&end=00.00.38">
 Ampak	Vp	ampak-v	
 ehm	FPAUSE	ehm-g	
 praktične	Ppnzmt	praktičen-p	praktična
@@ -7272,7 +7272,7 @@ velikost	Sozet	velikost-s
 države	Sozer	država-s	
 .	SENT	.-s	
 </s>
-<s id="2118:4" video="https://media.dipintra.it/?id=2118&start=00.39&end=00.52&collection=eptic3">
+<s id="2118:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.00.39&end=00.00.52">
 Država	Sozei	država-s	
 je	Gp-ste-n	biti-g	
 velika	Ppnzei	velik-p	velika
@@ -7307,7 +7307,7 @@ lestvice	Sozer	lestvica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2118:5" video="https://media.dipintra.it/?id=2118&start=00.53&end=01.32&collection=eptic3">
+<s id="2118:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.00.53&end=00.01.32">
 Številni	Ppnmmi	številen-p	številen
 ljudi	Sommt	človek-s	
 ,	U	,-u	
@@ -7379,7 +7379,7 @@ svoje	Zp-mmt	svoj-z
 cilje	Sommt	cilj-s	
 .	SENT	.-s	
 </s>
-<s id="2118:6" video="https://media.dipintra.it/?id=2118&start=01.32&end=01.50&collection=eptic3">
+<s id="2118:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2118.wmv&start=00.01.32&end=00.01.50">
 Kakšna	Zv-zei	kakšen-z	
 zagotovila	Ggdd-dm	zagotoviti-g	
 nam	Zop-md	jaz-z	
@@ -7435,7 +7435,7 @@ cilje	Sommt	cilj-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="46.0" speed="high" speedwm="164.3" delivery="impromptu">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2119:1" video="https://media.dipintra.it/?id=2119&start=00.10&end=00.11&collection=eptic3">
+<s id="2119:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2119.wmv&start=00.00.10&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -7444,7 +7444,7 @@ predsedujoča	Pdnmdi	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2119:2" video="https://media.dipintra.it/?id=2119&start=00.14&end=00.33&collection=eptic3">
+<s id="2119:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2119.wmv&start=00.00.14&end=00.00.33">
 Seveda	L	seveda-l	
 gre	Ggvste	iti-g	
 tu	Rsn	tu-r	
@@ -7490,7 +7490,7 @@ velike	Ppnzmi	velik-p	velika
 korporacije	Sozmi	korporacija-s	
 .	SENT	.-s	
 </s>
-<s id="2119:3" video="https://media.dipintra.it/?id=2119&start=00.34&end=00.44&collection=eptic3">
+<s id="2119:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2119.wmv&start=00.00.34&end=00.00.44">
 In	Vp	in-v	
 zato	Vp	zato-v	
 je	Gp-ste-n	biti-g	
@@ -7527,7 +7527,7 @@ je	Gp-ste-n	biti-g
 napisan	Pdnmein	napisan-p	napisan
 .	SENT	.-s	
 </s>
-<s id="2119:4" video="https://media.dipintra.it/?id=2119&start=00.45&end=01.03&collection=eptic3">
+<s id="2119:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2119.wmv&start=00.00.45&end=00.01.03">
 Zagotoviti	Ggdn	zagotoviti-g	
 moramo	Ggnspm	morati-g	
 ,	U	,-u	
@@ -7566,7 +7566,7 @@ v	Dt	v-d
 Evropo	Slzet	Evropa-s	
 .	SENT	.-s	
 </s>
-<s id="2119:5" video="https://media.dipintra.it/?id=2119&start=01.03&end=01.06&collection=eptic3">
+<s id="2119:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2119.wmv&start=00.01.03&end=00.01.06">
 Torej	Rsn	torej-r	
 pazljivi	Ppnmmi	pazljiv-p	pazljiv
 moramo	Ggnspm	morati-g	
@@ -7581,7 +7581,7 @@ biti	Gp-n	biti-g
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2120:1" video="https://media.dipintra.it/?id=2120&start=00.11&end=00.18&collection=eptic3">
+<s id="2120:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.00.11&end=00.00.18">
 Komisar	Somei	komisar-s	
 ,	U	,-u	
 različne	Ppnzer	različen-p	različna
@@ -7598,7 +7598,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2120:2" video="https://media.dipintra.it/?id=2120&start=00.19&end=00.38&collection=eptic3">
+<s id="2120:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.00.19&end=00.00.38">
 Namreč	Vp	namreč-v	
 ko	Vd	ko-v	
 gledamo	Ggnspm	gledati-g	
@@ -7659,7 +7659,7 @@ področje	Soset	področje-s
 področje	Soset	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2120:3" video="https://media.dipintra.it/?id=2120&start=00.39&end=00.41&collection=eptic3">
+<s id="2120:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.00.39&end=00.00.41">
 Vem	Ggnspe	vedeti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7672,7 +7672,7 @@ celovito	Ppnzet	celovit-p	celovita
 rešitev	Sozet	rešitev-s	
 .	SENT	.-s	
 </s>
-<s id="2120:4" video="https://media.dipintra.it/?id=2120&start=00.41&end=00.43&collection=eptic3">
+<s id="2120:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.00.41&end=00.00.43">
 Ne	L	ne-l	
 ,	U	,-u	
 gre	Ggvste	iti-g	
@@ -7685,7 +7685,7 @@ je	Gp-ste-n	biti-g
 pomemben	Ppnmein	pomemben-p	pomemben
 .	SENT	.-s	
 </s>
-<s id="2120:5" video="https://media.dipintra.it/?id=2120&start=00.44&end=01.03&collection=eptic3">
+<s id="2120:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.00.44&end=00.01.03">
 Tudi	L	tudi-l	
 <g/>
 ...	EPAUSE	...-u	
@@ -7738,7 +7738,7 @@ pri	Dm	pri-d
 nas	Zop-mm	jaz-z	
 .	SENT	.-s	
 </s>
-<s id="2120:6" video="https://media.dipintra.it/?id=2120&start=01.03&end=01.12&collection=eptic3">
+<s id="2120:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.03&end=00.01.12">
 Zato	Rsn	zato-r	
 je	Gp-ste-n	biti-g	
 potrebnega	Ppnmer	potreben-p	potreben
@@ -7776,14 +7776,14 @@ virov	Sommr	vir-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2120:7" video="https://media.dipintra.it/?id=2120&start=01.13&end=01.15&collection=eptic3">
+<s id="2120:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.13&end=00.01.15">
 So	Gp-stm-n	biti-g	
 na	Dm	na-d	
 dobri	Ppnzem	dober-p	dobra
 poti	Sozem	pot-s	
 .	SENT	.-s	
 </s>
-<s id="2120:8" video="https://media.dipintra.it/?id=2120&start=01.16&end=01.25&collection=eptic3">
+<s id="2120:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.16&end=00.01.25">
 Če	Vd	če-v	
 pogledate	Ggdsdm	pogledati-g	
 Afriko	Slzet	Afrika-s	
@@ -7814,7 +7814,7 @@ vedno	Rsn	vedno-r
 bolje	Rsr	dobro-r	
 .	SENT	.-s	
 </s>
-<s id="2120:9" video="https://media.dipintra.it/?id=2120&start=01.26&end=01.33&collection=eptic3">
+<s id="2120:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.26&end=00.01.33">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -7845,7 +7845,7 @@ spodbudnih	Ppnmmm	spodbuden-p	spodbuden
 dogodkih	Sommm	dogodek-s	
 .	SENT	.-s	
 </s>
-<s id="2120:10" video="https://media.dipintra.it/?id=2120&start=01.34&end=01.41&collection=eptic3">
+<s id="2120:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.34&end=00.01.41">
 In	Vp	in-v	
 edini	Ppnmeid	edin-p	edini
 način	Somei	način-s	
@@ -7874,7 +7874,7 @@ izkoriščanju	Sosem	izkoriščanje-s
 gozdov	Sommr	gozd-s	
 .	SENT	.-s	
 </s>
-<s id="2120:11" video="https://media.dipintra.it/?id=2120&start=01.42&end=01.50&collection=eptic3">
+<s id="2120:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.42&end=00.01.50">
 Ko	Vd	ko-v	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -7907,12 +7907,12 @@ tako	Rsn	tako-r
 naprej	Rsn	naprej-r	
 .	SENT	.-s	
 </s>
-<s id="2120:12" video="https://media.dipintra.it/?id=2120&start=01.50&end=01.51&collection=eptic3">
+<s id="2120:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.50&end=00.01.51">
 Pogajamo	Ggnspm	pogajati-g	
 se	Zp------k	se-z	
 .	U	.-u	
 </s>
-<s id="2120:13" video="https://media.dipintra.it/?id=2120&start=01.52&end=01.58&collection=eptic3">
+<s id="2120:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.52&end=00.01.58">
 Upamo	Ggnspm	upati-g	
 seveda	L	seveda-l	
 ,	U	,-u	
@@ -7941,7 +7941,7 @@ zelo	Rsn	zelo-r
 majhna	Ppnmdi	majhen-p	majhen
 .	SENT	.-s	
 </s>
-<s id="2120:14" video="https://media.dipintra.it/?id=2120&start=01.59&end=02.07&collection=eptic3">
+<s id="2120:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.01.59&end=00.02.07">
 Zavzetost	Sozei	zavzetost-s	
 obstaja	Ggnste	obstajati-g	
 in	Vp	in-v	
@@ -7964,7 +7964,7 @@ ta	Zk-met	ta-z
 proces	Sometn	proces-s	
 .	SENT	.-s	
 </s>
-<s id="2120:15" video="https://media.dipintra.it/?id=2120&start=02.08&end=02.12&collection=eptic3">
+<s id="2120:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.02.08&end=00.02.12">
 Hkrati	Rsn	hkrati-r	
 moramo	Ggnspm	morati-g	
 upoštevati	Ggvn	upoštevati-g	
@@ -7982,7 +7982,7 @@ o	Dm	o-d
 Cancunu	Slmem	Cancunu-s	
 .	SENT	.-s	
 </s>
-<s id="2120:16" video="https://media.dipintra.it/?id=2120&start=02.13&end=02.28&collection=eptic3">
+<s id="2120:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.02.13&end=00.02.28">
 Treba	Rsn	treba-r	
 je	Gp-ste-n	biti-g	
 te	Zk-mmt	ta-z	
@@ -8028,7 +8028,7 @@ energetsko	Ppnzet	energetski-p	energetska
 učinkovitost	Sozet	učinkovitost-s	
 .	SENT	.-s	
 </s>
-<s id="2120:17" video="https://media.dipintra.it/?id=2120&start=02.29&end=02.33&collection=eptic3">
+<s id="2120:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.02.29&end=00.02.33">
 Tukaj	Rsn	tukaj-r	
 smo	Gp-spm-n	biti-g	
 dobro	Rsn	dobro-r	
@@ -8047,7 +8047,7 @@ tega	Zk-mer	ta-z
 tiče	Ggnste	tikati-g	
 .	SENT	.-s	
 </s>
-<s id="2120:18" video="https://media.dipintra.it/?id=2120&start=02.34&end=03.00&collection=eptic3">
+<s id="2120:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.02.34&end=00.03.00">
 Ravno	L	ravno-l	
 tako	Rsn	tako-r	
 kar	Rsn	kar-r	
@@ -8121,7 +8121,7 @@ peljali	Ggnd-mm	peljati-g
 skupaj	Rsn	skupaj-r	
 .	SENT	.-s	
 </s>
-<s id="2120:19" video="https://media.dipintra.it/?id=2120&start=03.01&end=03.02&collection=eptic3">
+<s id="2120:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.03.01&end=00.03.02">
 Ne	L	ne-l	
 sami	Ppnmmi	sam-p	sam
 ,	U	,-u	
@@ -8135,7 +8135,7 @@ državami	Sozmo	država-s
 članicami	Sozmo	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2120:20" video="https://media.dipintra.it/?id=2120&start=03.03&end=03.26&collection=eptic3">
+<s id="2120:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2120.wmv&start=00.03.03&end=00.03.26">
 Ravno	L	ravno-l	
 znanje	Soset	znanje-s	
 držav	Sozmr	država-s	
@@ -8206,7 +8206,7 @@ zastavili	Ggdd-mm	zastaviti-g
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="SL19" gender="M" native="Y">
-<s id="2127:1" video="https://media.dipintra.it/?id=2127&start=00.10&end=00.11&collection=eptic3">
+<s id="2127:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.00.10&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -8214,7 +8214,7 @@ gospod	Somei	gospod-s
 predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 .	SENT	.-s	
 </s>
-<s id="2127:2" video="https://media.dipintra.it/?id=2127&start=00.12&end=00.32&collection=eptic3">
+<s id="2127:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.00.12&end=00.00.32">
 Zelo	Rsn	zelo-r	
 kratek	Ppnmein	kratek-p	kratek
 bom	Gp-ppe-n	biti-g	
@@ -8265,7 +8265,7 @@ predpisov	Sommr	predpis-s
 STO	Soser	STO-s	
 .	SENT	.-s	
 </s>
-<s id="2127:3" video="https://media.dipintra.it/?id=2127&start=00.34&end=00.54&collection=eptic3">
+<s id="2127:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.00.34&end=00.00.54">
 Gre	Ggvste	iti-g	
 tu	Rsn	tu-r	
 za	Dt	za-d	
@@ -8335,7 +8335,7 @@ nazPIPPPERO	Sozet	nazPIPPPERO-s
 naprej	Rsn	naprej-r	
 .	SENT	.-s	
 </s>
-<s id="2127:4" video="https://media.dipintra.it/?id=2127&start=00.55&end=00.57&collection=eptic3">
+<s id="2127:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.00.55&end=00.00.57">
 Naprej	Rsn	naprej-r	
 ,	U	,-u	
 kar	Zz-sei	kar-z	
@@ -8344,7 +8344,7 @@ tiče	Ggnste	tikati-g
 ribištva	Soser	ribištvo-s	
 .	SENT	.-s	
 </s>
-<s id="2127:5" video="https://media.dipintra.it/?id=2127&start=00.58&end=01.03&collection=eptic3">
+<s id="2127:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.00.58&end=00.01.03">
 Dejansko	Rsn	dejansko-r	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -8372,7 +8372,7 @@ takšno	Zk-zet	takšen-z
 izjemo	Sozet	izjema-s	
 .	SENT	.-s	
 </s>
-<s id="2127:6" video="https://media.dipintra.it/?id=2127&start=01.04&end=01.08&collection=eptic3">
+<s id="2127:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.04&end=00.01.08">
 In	Vp	in-v	
 zakaj	Rsn	zakaj-r	
 <g/>
@@ -8386,11 +8386,11 @@ Gvineji	Slzem	Gvineja-s
 Gvineji	Slzem	Gvineja-s	
 ?	U	?-u	
 </s>
-<s id="2127:7" video="https://media.dipintra.it/?id=2127&start=01.08&end=01.09&collection=eptic3">
+<s id="2127:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.08&end=00.01.09">
 Zakaj	Rsn	zakaj-r	
 ?	SENT	?-s	
 </s>
-<s id="2127:8" video="https://media.dipintra.it/?id=2127&start=01.09&end=01.14&collection=eptic3">
+<s id="2127:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.09&end=00.01.14">
 Zato	Vp	zato-v	
 ker	Vd	ker-v	
 gre	Ggvste	iti-g	
@@ -8405,7 +8405,7 @@ strani	Sozem	stran-s
 sveta	Somer	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2127:9" video="https://media.dipintra.it/?id=2127&start=01.15&end=01.24&collection=eptic3">
+<s id="2127:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.15&end=00.01.24">
 In	Vp	in-v	
 verjetnost	Sozei	verjetnost-s	
 ,	U	,-u	
@@ -8423,7 +8423,7 @@ zelo	Rsn	zelo-r
 majhna	Ppnzei	majhen-p	majhna
 .	SENT	.-s	
 </s>
-<s id="2127:10" video="https://media.dipintra.it/?id=2127&start=01.24&end=01.37&collection=eptic3">
+<s id="2127:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.24&end=00.01.37">
 Seveda	L	seveda-l	
 jih	Zotmmt--k	on-z	
 nič	Rsn	nič-r	
@@ -8458,7 +8458,7 @@ moramo	Ggnspm	morati-g
 spodbujati	Ggnn	spodbujati-g	
 .	SENT	.-s	
 </s>
-<s id="2127:11" video="https://media.dipintra.it/?id=2127&start=01.39&end=01.59&collection=eptic3">
+<s id="2127:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.01.39&end=00.01.59">
 Ampak	Vp	ampak-v	
 trenutna	Ppnzei	trenuten-p	trenutna
 situacija	Sozei	situacija-s	
@@ -8513,7 +8513,7 @@ za	Dt	za-d
 ženske	Sozmt	ženska-s	
 .	SENT	.-s	
 </s>
-<s id="2127:12" video="https://media.dipintra.it/?id=2127&start=02.00&end=02.08&collection=eptic3">
+<s id="2127:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.00&end=00.02.08">
 In	Vp	in-v	
 vemo	Ggnspm	vedeti-g	
 ,	U	,-u	
@@ -8541,7 +8541,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2127:13" video="https://media.dipintra.it/?id=2127&start=02.09&end=02.24&collection=eptic3">
+<s id="2127:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.09&end=00.02.24">
 In	Vp	in-v	
 kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
@@ -8574,7 +8574,7 @@ tako	Rsn	tako-r
 naprej	Rsn	naprej-r	
 .	SENT	.-s	
 </s>
-<s id="2127:14" video="https://media.dipintra.it/?id=2127&start=02.24&end=02.29&collection=eptic3">
+<s id="2127:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.24&end=00.02.29">
 Torej	Rsn	torej-r	
 tri	Kbgzmi	trije-k	
 tovarne	Sozmi	tovarna-s	
@@ -8592,7 +8592,7 @@ standarde	Sommt	standard-s
 zadovoljujejo	Ggnstm	zadovoljevati-g	
 .	SENT	.-s	
 </s>
-<s id="2127:15" video="https://media.dipintra.it/?id=2127&start=02.30&end=02.46&collection=eptic3">
+<s id="2127:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.30&end=00.02.46">
 Če	Vd	če-v	
 bo	Gp-pte-n	biti-g	
 pa	Vp	pa-v	
@@ -8632,7 +8632,7 @@ neke	Zn-mmt	nek-z
 ukrepe	Sommt	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2127:16" video="https://media.dipintra.it/?id=2127&start=02.47&end=02.54&collection=eptic3">
+<s id="2127:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.47&end=00.02.54">
 Ampak	Vp	ampak-v	
 trenutne	Ppnzmi	trenuten-p	trenutna
 statistike	Sozmi	statistika-s	
@@ -8656,7 +8656,7 @@ njeno	Zstzetez	njen-z
 industrijo	Sozet	industrija-s	
 .	SENT	.-s	
 </s>
-<s id="2127:17" video="https://media.dipintra.it/?id=2127&start=02.55&end=03.05&collection=eptic3">
+<s id="2127:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.02.55&end=00.03.05">
 In	Vp	in-v	
 kot	Vd	kot-v	
 poročevalec	Somei	poročevalec-s	
@@ -8693,7 +8693,7 @@ ni	Gp-ste-d	biti-g
 grožnje	Sozer	grožnja-s	
 .	SENT	.-s	
 </s>
-<s id="2127:18" video="https://media.dipintra.it/?id=2127&start=03.05&end=03.13&collection=eptic3">
+<s id="2127:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.03.05&end=00.03.13">
 V	Dm	v-d	
 resnici	Sozem	resnica-s	
 jih	Zotsmt--k	on-z	
@@ -8716,7 +8716,7 @@ resne	Ppnzer	resen-p	resna
 grožnje	Sozer	grožnja-s	
 .	SENT	.-s	
 </s>
-<s id="2127:19" video="https://media.dipintra.it/?id=2127&start=03.13&end=03.22&collection=eptic3">
+<s id="2127:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2127.wmv&start=00.03.13&end=00.03.22">
 Torej	Rsn	torej-r	
 ne	L	ne-l	
 pretiravajmo	Ggnvpm	pretiravati-g	
@@ -8748,7 +8748,7 @@ branimo	Ggnspm	braniti-g
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="SL19" gender="M" native="Y">
-<s id="2122:1" video="https://media.dipintra.it/?id=2122&start=00.12&end=00.27&collection=eptic3">
+<s id="2122:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.00.12&end=00.00.27">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 za	Dt	za-d	
@@ -8786,7 +8786,7 @@ in	Vp	in-v
 Fidžijem	Slmeo	Fidžijem-s	
 .	SENT	.-s	
 </s>
-<s id="2122:2" video="https://media.dipintra.it/?id=2122&start=00.28&end=00.33&collection=eptic3">
+<s id="2122:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.00.28&end=00.00.33">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -8799,7 +8799,7 @@ priporočilu	Sosed	priporočilo-s
 poročevalca	Somer	poročevalec-s	
 .	SENT	.-s	
 </s>
-<s id="2122:3" video="https://media.dipintra.it/?id=2122&start=00.34&end=00.45&collection=eptic3">
+<s id="2122:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.00.34&end=00.00.45">
 Ehm	FPAUSE	Ehm-g	
 Evropski	Ppnmetd	evropski-p	evropski
 parlament	Sometn	parlament-s	
@@ -8831,7 +8831,7 @@ trgovinskih	Ppnmmm	trgovinski-p	trgovinski
 sporazumih	Sommm	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2122:4" video="https://media.dipintra.it/?id=2122&start=00.46&end=01.01&collection=eptic3">
+<s id="2122:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.00.46&end=00.01.01">
 Ta	Zk-mei	ta-z	
 trgovinski	Ppnmeid	trgovinski-p	trgovinski
 sporazum	Somei	sporazum-s	
@@ -8855,7 +8855,7 @@ tihomorsko	Ppnzeo	tihomorski-p	tihomorska
 regijo	Sozeo	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2122:5" video="https://media.dipintra.it/?id=2122&start=01.02&end=01.20&collection=eptic3">
+<s id="2122:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.02&end=00.01.20">
 Leta	Soser	leto-s	
 2007	Kag	[number]-k	
 je	Gp-ste-n	biti-g	
@@ -8897,7 +8897,7 @@ Cotonoja	Slmer	Cotonoja-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2122:6" video="https://media.dipintra.it/?id=2122&start=01.21&end=01.31&collection=eptic3">
+<s id="2122:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.21&end=00.01.31">
 Komisija	Sozei	komisija-s	
 ehm	FPAUSE	ehm-s	
 si	Zp---d--k	se-z	
@@ -8913,7 +8913,7 @@ to	Zk-zeo	ta-z
 regijo	Sozeo	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2122:7" video="https://media.dipintra.it/?id=2122&start=01.32&end=01.37&collection=eptic3">
+<s id="2122:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.32&end=00.01.37">
 Potekajo	Ggnstm	potekati-g	
 stalna	Ppnsmi	stalen-p	stalno
 pogajanja	Sosmi	pogajanje-s	
@@ -8923,7 +8923,7 @@ tihomorskimi	Ppnmmo	tihomorski-p	tihomorski
 partnerji	Sommo	partner-s	
 .	SENT	.-s	
 </s>
-<s id="2122:8" video="https://media.dipintra.it/?id=2122&start=01.37&end=01.49&collection=eptic3">
+<s id="2122:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.37&end=00.01.49">
 Nadaljujemo	Ggnspm	nadaljevati-g	
 pa	Vp	pa-v	
 lahko	Rsn	lahko-r	
@@ -8952,7 +8952,7 @@ to	Zk-sei	ta-z
 zahteva	Ggvste	zahtevati-g	
 .	SENT	.-s	
 </s>
-<s id="2122:9" video="https://media.dipintra.it/?id=2122&start=01.50&end=01.57&collection=eptic3">
+<s id="2122:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.50&end=00.01.57">
 Te	Zk-zmi	ta-z	
 države	Sozmi	država-s	
 v	Dm	v-d	
@@ -8971,7 +8971,7 @@ Evropsko	Ppnzeo	evropski-p	evropska
 unije	Sozer	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2122:10" video="https://media.dipintra.it/?id=2122&start=01.57&end=02.04&collection=eptic3">
+<s id="2122:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.01.57&end=00.02.04">
 Najmanj	Rss	najmanj-r	
 razvite	Ppnmmt	razvit-p	razvit
 ehm	FPAUSE	ehm-s	
@@ -8988,7 +8988,7 @@ poseben	Ppnmetn	poseben-p	poseben
 režim	Sometn	režim-s	
 .	SENT	.-s	
 </s>
-<s id="2122:11" video="https://media.dipintra.it/?id=2122&start=02.05&end=02.11&collection=eptic3">
+<s id="2122:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.02.05&end=00.02.11">
 Z	Do	z-d	
 nekaterimi	Zn-zmo	nekateri-z	
 državami	Sozmo	država-s	
@@ -9010,7 +9010,7 @@ trgovanja	Soser	trgovanje-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2122:12" video="https://media.dipintra.it/?id=2122&start=02.12&end=02.22&collection=eptic3">
+<s id="2122:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.02.12&end=00.02.22">
 Čim	Vd	čim-v	
 ehm	FPAUSE	ehm-g	
 prej	Rsr	prej-r	
@@ -9035,7 +9035,7 @@ kot	Vd	kot-v
 celoti	Sozem	celota-s	
 .	SENT	.-s	
 </s>
-<s id="2122:13" video="https://media.dipintra.it/?id=2122&start=02.23&end=02.32&collection=eptic3">
+<s id="2122:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.02.23&end=00.02.32">
 Ne	L	ne-l	
 glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -9066,7 +9066,7 @@ držav	Sozmr	država-s
 podpisnic	Sozmr	podpisnica-s	
 .	SENT	.-s	
 </s>
-<s id="2122:14" video="https://media.dipintra.it/?id=2122&start=02.33&end=02.57&collection=eptic3">
+<s id="2122:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.02.33&end=00.02.57">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -9106,7 +9106,7 @@ drugim	Kbzseo	drug-k
 državam	Sozmd	država-s	
 .	SENT	.-s	
 </s>
-<s id="2122:15" video="https://media.dipintra.it/?id=2122&start=02.58&end=03.07&collection=eptic3">
+<s id="2122:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.02.58&end=00.03.07">
 Upošteval	Ggnd-em	Upošteval-g	
 sem	Gp-spe-n	biti-g	
 vaše	Zsdsetm	vaš-z	
@@ -9121,7 +9121,7 @@ izvoženih	Pdnzmr	izvožen-p	izvožena
 rib	Sozmr	riba-s	
 .	SENT	.-s	
 </s>
-<s id="2122:16" video="https://media.dipintra.it/?id=2122&start=03.08&end=03.28&collection=eptic3">
+<s id="2122:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.03.08&end=00.03.28">
 Ampak	Vp	ampak-v	
 ravno	L	ravno-l	
 iz	Dr	iz-d	
@@ -9166,7 +9166,7 @@ evropske	Ppnzer	evropski-p	evropska
 industrije	Sozer	industrija-s	
 .	SENT	.-s	
 </s>
-<s id="2122:17" video="https://media.dipintra.it/?id=2122&start=03.29&end=03.44&collection=eptic3">
+<s id="2122:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.03.29&end=00.03.44">
 Seveda	L	seveda-l	
 smo	Gp-spm-n	biti-g	
 ehm	FPAUSE	ehm-s	
@@ -9187,7 +9187,7 @@ nismo	Gp-spm-d	biti-g
 ugotovili	Ggdd-mm	ugotoviti-g	
 .	SENT	.-s	
 </s>
-<s id="2122:18" video="https://media.dipintra.it/?id=2122&start=03.45&end=03.53&collection=eptic3">
+<s id="2122:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.03.45&end=00.03.53">
 Naj	L	naj-l	
 povem	Ggdspe	povedati-g	
 ,	U	,-u	
@@ -9205,7 +9205,7 @@ drugi	Kbzzem	drug-k
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2122:19" video="https://media.dipintra.it/?id=2122&start=03.53&end=04.06&collection=eptic3">
+<s id="2122:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.03.53&end=00.04.06">
 Komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
 natančno	Rsn	natančno-r	
@@ -9230,7 +9230,7 @@ letošnjega	Ppnser	letošnji-p	letošnje
 leta	Soser	leto-s	
 .	SENT	.-s	
 </s>
-<s id="2122:20" video="https://media.dipintra.it/?id=2122&start=04.07&end=04.29&collection=eptic3">
+<s id="2122:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.04.07&end=00.04.29">
 Nekateri	Zn-mmi	nekateri-z	
 ste	Gp-sdm-n	biti-g	
 septembra	Somer	september-s	
@@ -9269,7 +9269,7 @@ ta	Zk-met	ta-z
 sektor	Sometn	sektor-s	
 .	SENT	.-s	
 </s>
-<s id="2122:21" video="https://media.dipintra.it/?id=2122&start=04.30&end=04.36&collection=eptic3">
+<s id="2122:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.04.30&end=00.04.36">
 Mislil	Ggnd-em	misliti-g	
 je	Gp-ste-n	biti-g	
 to	Zk-set	ta-z	
@@ -9292,7 +9292,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2122:22" video="https://media.dipintra.it/?id=2122&start=04.37&end=04.46&collection=eptic3">
+<s id="2122:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.04.37&end=00.04.46">
 Potrdilo	Sosei	potrdilo-s	
 Evropskega	Ppnmer	evropski-p	evropski
 ehm	FPAUSE	ehm-s	
@@ -9309,7 +9309,7 @@ sporazum	Somei	sporazum-s
 predvideva	Ggnste	predvidevati-g	
 .	SENT	.-s	
 </s>
-<s id="2122:23" video="https://media.dipintra.it/?id=2122&start=04.46&end=04.57&collection=eptic3">
+<s id="2122:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.04.46&end=00.04.57">
 Eden	Kbzmei	eden-k	
 od	Dr	od-d	
 takPIPPPERO	Sozeo	takPIPPPERO-s	
@@ -9335,7 +9335,7 @@ začasnim	Ppnmeo	začasen-p	začasni
 sporazumom	Someo	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2122:24" video="https://media.dipintra.it/?id=2122&start=04.58&end=05.04&collection=eptic3">
+<s id="2122:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.04.58&end=00.05.04">
 Če	Vd	če-v	
 boste	Gp-pdm-n	biti-g	
 glasovali	Ggvd-mm	glasovati-g	
@@ -9354,7 +9354,7 @@ pomembnih	Ppnsmm	pomemben-p	pomembno
 področjih	Sosmm	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2122:25" video="https://media.dipintra.it/?id=2122&start=05.05&end=05.15&collection=eptic3">
+<s id="2122:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.05&end=00.05.15">
 Kar	Zz-sei	kar-z	
 pa	Vp	pa-v	
 zadeva	Ggnste	zadevati-g	
@@ -9380,7 +9380,7 @@ velja	Ggnste	veljati-g
 začasno	Rsn	začasno-r	
 .	SENT	.-s	
 </s>
-<s id="2122:26" video="https://media.dipintra.it/?id=2122&start=05.16&end=05.27&collection=eptic3">
+<s id="2122:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.16&end=00.05.27">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 ,	U	,-u	
@@ -9407,7 +9407,7 @@ o	Dm	o-d
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2122:27" video="https://media.dipintra.it/?id=2122&start=05.27&end=05.35&collection=eptic3">
+<s id="2122:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.27&end=00.05.35">
 Trenutno	Rsn	trenutno-r	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -9424,7 +9424,7 @@ o	Dm	o-d
 trgu	Somem	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2122:28" video="https://media.dipintra.it/?id=2122&start=05.35&end=05.41&collection=eptic3">
+<s id="2122:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.35&end=00.05.41">
 Kot	Vd	kot-v	
 veste	Ggnsdm	vedeti-g	
 ,	U	,-u	
@@ -9441,7 +9441,7 @@ pomoč	Sozet	pomoč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2122:29" video="https://media.dipintra.it/?id=2122&start=05.42&end=05.58&collection=eptic3">
+<s id="2122:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.42&end=00.05.58">
 Fidžiju	Somed	Fidžiju-s	
 zaradi	Dr	zaradi-d	
 politične	Ppnzer	političen-p	politična
@@ -9474,7 +9474,7 @@ demokratičnim	Ppnsmd	demokratičen-p	demokratično
 načelom	Sosmd	načelo-s	
 .	SENT	.-s	
 </s>
-<s id="2122:30" video="https://media.dipintra.it/?id=2122&start=05.59&end=06.03&collection=eptic3">
+<s id="2122:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.05.59&end=00.06.03">
 Vendar	Vp	vendar-v	
 na	Dm	na-d	
 Fidžu	Slmem	Fidžu-s	
@@ -9489,7 +9489,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2122:31" video="https://media.dipintra.it/?id=2122&start=06.04&end=06.15&collection=eptic3">
+<s id="2122:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.06.04&end=00.06.15">
 Sporazum	Somei	sporazum-s	
 o	Dm	o-d	
 ehm	FPAUSE	ehm-s	
@@ -9516,7 +9516,7 @@ unije	Sozer	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2122:32" video="https://media.dipintra.it/?id=2122&start=06.16&end=06.20&collection=eptic3">
+<s id="2122:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2122.wmv&start=00.06.16&end=00.06.20">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 za	Dt	za-d	
@@ -9532,7 +9532,7 @@ pozornost	Sozet	pozornost-s
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="SL19" gender="M" native="Y">
-<s id="2123:1" video="https://media.dipintra.it/?id=2123&start=00.09&end=00.26&collection=eptic3">
+<s id="2123:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.00.09&end=00.00.26">
 Hvala	Sozei	hvala-s	
 ,	U	,-u	
 gospod	Somei	gospod-s	
@@ -9572,7 +9572,7 @@ v	Dm	v-d
 tihomorski	Ppnzem	tihomorski-p	tihomorska
 .	SENT	.-s	
 </s>
-<s id="2123:2" video="https://media.dipintra.it/?id=2123&start=00.27&end=00.33&collection=eptic3">
+<s id="2123:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.00.27&end=00.00.33">
 Ta	Zk-mei	ta-z	
 sporazum	Somei	sporazum-s	
 prav	L	prav-l	
@@ -9595,7 +9595,7 @@ le	L	le-l
 začasni	Ppnmmi	začasen-p	začasni
 .	SENT	.-s	
 </s>
-<s id="2123:3" video="https://media.dipintra.it/?id=2123&start=00.34&end=00.45&collection=eptic3">
+<s id="2123:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.00.34&end=00.00.45">
 Upamo	Ggnspm	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9624,7 +9624,7 @@ te	Zk-zer	ta-z
 regije	Sozer	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2123:4" video="https://media.dipintra.it/?id=2123&start=00.46&end=01.05&collection=eptic3">
+<s id="2123:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.00.46&end=00.01.05">
 Razen	Dr	razen-d	
 tega	Zk-ser	ta-z	
 sporazum	Somei	sporazum-s	
@@ -9656,7 +9656,7 @@ te	Zk-zer	ta-z
 regije	Sozer	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2123:5" video="https://media.dipintra.it/?id=2123&start=01.06&end=01.31&collection=eptic3">
+<s id="2123:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.01.06&end=00.01.31">
 V	Dm	v-d	
 naši	Zspzemm	naš-z	
 resoluciji	Sozem	resolucija-s	
@@ -9703,7 +9703,7 @@ ribiških	Ppnmmr	ribiški-p	ribiški
 izdelkov	Sommr	izdelek-s	
 .	SENT	.-s	
 </s>
-<s id="2123:6" video="https://media.dipintra.it/?id=2123&start=01.32&end=01.57&collection=eptic3">
+<s id="2123:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2123.wmv&start=00.01.32&end=00.01.57">
 Komisijo	Sozet	komisija-s	
 spodbujamo	Ggnspm	spodbujati-g	
 ,	U	,-u	
@@ -9753,12 +9753,12 @@ poreklu	Sosem	poreklo-s
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="SL14" gender="F" native="Y">
-<s id="2124:1" video="https://media.dipintra.it/?id=2124&start=00.10&end=00.13&collection=eptic3">
+<s id="2124:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.10&end=00.00.13">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
-<s id="2124:2" video="https://media.dipintra.it/?id=2124&start=00.14&end=00.17&collection=eptic3">
+<s id="2124:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.14&end=00.00.17">
 Eden	Kbzmei	eden-k	
 od	Dr	od-d	
 namenov	Sommr	namen-s	
@@ -9770,7 +9770,7 @@ regionalno	Ppnsei	regionalen-p	regionalno
 povezovanje	Sosei	povezovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2124:3" video="https://media.dipintra.it/?id=2124&start=00.17&end=00.23&collection=eptic3">
+<s id="2124:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.17&end=00.00.23">
 Zdaj	Rsn	zdaj-r	
 ehm	FPAUSE	ehm-g	
 ni	Gp-ste-d	biti-g	
@@ -9787,7 +9787,7 @@ prej	Rsr	prej-r
 nasprotno	Rsn	nasprotno-r	
 .	SENT	.-s	
 </s>
-<s id="2124:4" video="https://media.dipintra.it/?id=2124&start=00.24&end=00.32&collection=eptic3">
+<s id="2124:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.24&end=00.00.32">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 razdira	Ggnste	razdirati-g	
@@ -9810,7 +9810,7 @@ posebnimi	Ppnmmo	poseben-p	poseben
 pogoji	Sommo	pogoj-s	
 .	SENT	.-s	
 </s>
-<s id="2124:5" video="https://media.dipintra.it/?id=2124&start=00.33&end=00.41&collection=eptic3">
+<s id="2124:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.33&end=00.00.41">
 Na	Dt	na-d	
 primer	Sometn	primer-s	
 izjema	Sozei	izjema-s	
@@ -9831,7 +9831,7 @@ Novi	Ppnzem	nov-p	nova
 Gvineji	Slzem	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2124:6" video="https://media.dipintra.it/?id=2124&start=00.41&end=00.48&collection=eptic3">
+<s id="2124:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.41&end=00.00.48">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -9858,7 +9858,7 @@ bilo	Gp-d-es	biti-g
 dogovorjeno	Pdnsei	dogovorjen-p	dogovorjeno
 .	SENT	.-s	
 </s>
-<s id="2124:7" video="https://media.dipintra.it/?id=2124&start=00.49&end=01.00&collection=eptic3">
+<s id="2124:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.00.49&end=00.01.00">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 poznati	Ggnn	poznati-g	
@@ -9886,7 +9886,7 @@ o	Dm	o-d
 floti	Sozem	flota-s	
 .	SENT	.-s	
 </s>
-<s id="2124:8" video="https://media.dipintra.it/?id=2124&start=01.00&end=01.10&collection=eptic3">
+<s id="2124:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.01.00&end=00.01.10">
 Vse	Zc-sei	ves-z	
 to	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
@@ -9907,7 +9907,7 @@ podlagi	Sozem	podlaga-s
 tega	Zk-ser	ta-z	
 .	SENT	.-s	
 </s>
-<s id="2124:9" video="https://media.dipintra.it/?id=2124&start=01.11&end=01.27&collection=eptic3">
+<s id="2124:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2124.wmv&start=00.01.11&end=00.01.27">
 Ne	L	ne-l	
 na	Dm	na-d	
 podlagi	Sozem	podlaga-s	
@@ -9958,14 +9958,14 @@ trgu	Somem	trg-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2125:1" video="https://media.dipintra.it/?id=2125&start=00.09&end=00.10&collection=eptic3">
+<s id="2125:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2125.wmv&start=00.00.09&end=00.00.10">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 ,	U	,-u	
 predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 .	SENT	.-s	
 </s>
-<s id="2125:2" video="https://media.dipintra.it/?id=2125&start=00.11&end=00.22&collection=eptic3">
+<s id="2125:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2125.wmv&start=00.00.11&end=00.00.22">
 Želela	Ggnd-ez	želeti-g	
 sem	Gp-spe-n	biti-g	
 pravzaprav	L	pravzaprav-l	
@@ -9995,7 +9995,7 @@ o	Dm	o-d
 poreklu	Sosem	poreklo-s	
 .	SENT	.-s	
 </s>
-<s id="2125:3" video="https://media.dipintra.it/?id=2125&start=00.22&end=00.38&collection=eptic3">
+<s id="2125:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2125.wmv&start=00.00.22&end=00.00.38">
 V	Dm	v-d	
 zadnjih	Ppnsmm	zadnji-p	zadnje
 7	Kag	[number]-k	
@@ -10021,7 +10021,7 @@ zaskrbljenih	Pdnmmr	zaskrbljen-p	zaskrbljen
 državljanov	Sommr	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2125:4" video="https://media.dipintra.it/?id=2125&start=00.39&end=00.55&collection=eptic3">
+<s id="2125:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2125.wmv&start=00.00.39&end=00.00.55">
 O	Dm	o-d	
 tej	Zk-zem	ta-z	
 specifični	Ppnzem	specifičen-p	specifična
@@ -10085,7 +10085,7 @@ pomagati	Ggvn	pomagati-g
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2126:1" video="https://media.dipintra.it/?id=2126&start=00.10&end=00.19&collection=eptic3">
+<s id="2126:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.00.10&end=00.00.19">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 ,	U	,-u	
@@ -10103,14 +10103,14 @@ obstaja	Ggnste	obstajati-g
 revščina	Sozei	revščina-s	
 .	SENT	.-s	
 </s>
-<s id="2126:2" video="https://media.dipintra.it/?id=2126&start=00.19&end=00.23&collection=eptic3">
+<s id="2126:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.00.19&end=00.00.23">
 Tega	Zk-ser	ta-z	
 se	Zp------k	se-z	
 moramo	Ggnspm	morati-g	
 lotiti	Ggdn	lotiti-g	
 .	SENT	.-s	
 </s>
-<s id="2126:3" video="https://media.dipintra.it/?id=2126&start=00.23&end=00.36&collection=eptic3">
+<s id="2126:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.00.23&end=00.00.36">
 En	Kbzmei	en-k	
 način	Somei	način-s	
 je	Gp-ste-n	biti-g	
@@ -10146,7 +10146,7 @@ dostojno	Ppnset	dostojen-p	dostojno
 življenje	Soset	življenje-s	
 .	SENT	.-s	
 </s>
-<s id="2126:4" video="https://media.dipintra.it/?id=2126&start=00.37&end=00.49&collection=eptic3">
+<s id="2126:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.00.37&end=00.00.49">
 Ehm	FPAUSE	Ehm-g	
 tri	Kbgzmi	trije-k	
 predelovalne	Ppnzmi	predelovalen-p	predelovalna
@@ -10170,7 +10170,7 @@ približno	Rsn	približno-r
 ljudi	Sommr	človek-s	
 .	SENT	.-s	
 </s>
-<s id="2126:5" video="https://media.dipintra.it/?id=2126&start=00.49&end=01.00&collection=eptic3">
+<s id="2126:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.00.49&end=00.01.00">
 Večino	Sozet	večina-s	
 teh	Zk-mmr	ta-z	
 zaposlenih	Pdnmmr	zaposlen-p	zaposlen
@@ -10197,7 +10197,7 @@ na	Dm	na-d
 svetu	Somem	svet-s	
 .	SENT	.-s	
 </s>
-<s id="2126:6" video="https://media.dipintra.it/?id=2126&start=01.00&end=01.28&collection=eptic3">
+<s id="2126:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.01.00&end=00.01.28">
 Ko	Vd	ko-v	
 je	Gp-ste-n	biti-g	
 Komisija	Sozei	komisija-s	
@@ -10253,7 +10253,7 @@ to	Zk-sei	ta-z
 upravičeno	Rsn	upravičeno-r	
 .	SENT	.-s	
 </s>
-<s id="2126:7" video="https://media.dipintra.it/?id=2126&start=01.29&end=01.42&collection=eptic3">
+<s id="2126:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.01.29&end=00.01.42">
 Imamo	Ggnspm-n	imeti-g	
 številke	Sozmi	številka-s	
 iz	Dr	iz-d	
@@ -10282,7 +10282,7 @@ verjetne	Ppnzer	verjeten-p	verjetna
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2126:8" video="https://media.dipintra.it/?id=2126&start=01.43&end=01.48&collection=eptic3">
+<s id="2126:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.01.43&end=00.01.48">
 Torej	Vp	torej-v	
 to	Zk-sei	ta-z	
 ne	L	ne-l	
@@ -10297,7 +10297,7 @@ v	Dt	v-d
 prihodnje	Ppnset	prihodnji-p	prihodnje
 .	SENT	.-s	
 </s>
-<s id="2126:9" video="https://media.dipintra.it/?id=2126&start=01.49&end=02.00&collection=eptic3">
+<s id="2126:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.01.49&end=00.02.00">
 Razvoj	Somei	razvoj-s	
 razmer	Sozmr	razmera-s	
 bomo	Gp-ppm-n	biti-g	
@@ -10316,7 +10316,7 @@ letu	Sosem	leto-s
 2011	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2126:10" video="https://media.dipintra.it/?id=2126&start=02.02&end=02.17&collection=eptic3">
+<s id="2126:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.02.02&end=00.02.17">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 bo	Gp-pte-n	biti-g	
@@ -10348,7 +10348,7 @@ evropskem	Ppnmem	evropski-p	evropski
 trgu	Somem	trg-s	
 .	SENT	.-s	
 </s>
-<s id="2126:11" video="https://media.dipintra.it/?id=2126&start=02.18&end=02.29&collection=eptic3">
+<s id="2126:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.02.18&end=00.02.29">
 Začasni	Ppnmeid	začasen-p	začasni
 sporazum	Somei	sporazum-s	
 eksplicitno	Rsn	eksplicitno-r	
@@ -10369,7 +10369,7 @@ trgovinsko	Ppnzet	trgovinski-p	trgovinska
 zaščito	Sozet	zaščita-s	
 .	SENT	.-s	
 </s>
-<s id="2126:12" video="https://media.dipintra.it/?id=2126&start=02.30&end=02.43&collection=eptic3">
+<s id="2126:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.02.30&end=00.02.43">
 V	Dm	v-d	
 tej	Zk-zem	ta-z	
 fazi	Sozem	faza-s	
@@ -10394,7 +10394,7 @@ GSP	Slmei	GSP-s
 +	U	+-u	
 .	SENT	.-s	
 </s>
-<s id="2126:13" video="https://media.dipintra.it/?id=2126&start=02.43&end=02.46&collection=eptic3">
+<s id="2126:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.02.43&end=00.02.46">
 Tudi	L	tudi-l	
 ta	Zk-met	ta-z	
 vidik	Sometn	vidik-s	
@@ -10409,7 +10409,7 @@ omenil	Ggdd-em	omeniti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2126:14" video="https://media.dipintra.it/?id=2126&start=02.47&end=03.15&collection=eptic3">
+<s id="2126:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.02.47&end=00.03.15">
 Naj	L	naj-l	
 dodam	Ggdspe	dodati-g	
 ,	U	,-u	
@@ -10461,7 +10461,7 @@ higienske	Ppnmmt	higienski-p	higienski
 standarde	Sommt	standard-s	
 .	SENT	.-s	
 </s>
-<s id="2126:15" video="https://media.dipintra.it/?id=2126&start=03.15&end=03.21&collection=eptic3">
+<s id="2126:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.03.15&end=00.03.21">
 Zato	Rsn	zato-r	
 mislim	Ggnspe	misliti-g	
 ,	U	,-u	
@@ -10479,7 +10479,7 @@ ta	Zk-mei	ta-z
 ukrep	Somei	ukrep-s	
 .	SENT	.-s	
 </s>
-<s id="2126:16" video="https://media.dipintra.it/?id=2126&start=03.22&end=03.36&collection=eptic3">
+<s id="2126:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.03.22&end=00.03.36">
 Zdaj	Rsn	zdaj-r	
 pa	Vp	pa-v	
 kar	Rsn	kar-r	
@@ -10513,7 +10513,7 @@ v	Dm	v-d
 razvoju	Somem	razvoj-s	
 .	SENT	.-s	
 </s>
-<s id="2126:17" video="https://media.dipintra.it/?id=2126&start=03.36&end=03.47&collection=eptic3">
+<s id="2126:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.03.36&end=00.03.47">
 Res	Rsn	res-r	
 je	Gp-ste-n	biti-g	
 ,	U	,-u	
@@ -10534,7 +10534,7 @@ trgovinski	Ppnmmi	trgovinski-p	trgovinski
 sporazumi	Sommi	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2126:18" video="https://media.dipintra.it/?id=2126&start=03.48&end=03.54&collection=eptic3">
+<s id="2126:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.03.48&end=00.03.54">
 Zato	Rsn	zato-r	
 tej	Zk-zed	ta-z	
 regiji	Sozed	regija-s	
@@ -10550,7 +10550,7 @@ trgovino	Sozet	trgovina-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2126:19" video="https://media.dipintra.it/?id=2126&start=03.55&end=04.02&collection=eptic3">
+<s id="2126:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.03.55&end=00.04.02">
 Ehm	FPAUSE	Ehm-g	
 s	Do	z-d	
 tem	Zk-seo	ta-z	
@@ -10560,7 +10560,7 @@ trgovinske	Ppnmmt	trgovinski-p	trgovinski
 tokove	Sommt	tok-s	
 .	SENT	.-s	
 </s>
-<s id="2126:20" video="https://media.dipintra.it/?id=2126&start=04.02&end=04.15&collection=eptic3">
+<s id="2126:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.04.02&end=00.04.15">
 In	Vp	in-v	
 če	Vd	če-v	
 si	Zp---d--k	se-z	
@@ -10588,7 +10588,7 @@ sami	Ppnzed	sam-p	sama
 dobrini	Sozed	dobrina-s	
 .	SENT	.-s	
 </s>
-<s id="2126:21" video="https://media.dipintra.it/?id=2126&start=04.16&end=04.43&collection=eptic3">
+<s id="2126:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.04.16&end=00.04.43">
 In	Vp	in-v	
 ko	Vd	ko-v	
 govorimo	Ggnspm	govoriti-g	
@@ -10659,7 +10659,7 @@ naše	Zspmmtm	naš-z
 cilje	Sommt	cilj-s	
 .	SENT	.-s	
 </s>
-<s id="2126:22" video="https://media.dipintra.it/?id=2126&start=04.44&end=04.51&collection=eptic3">
+<s id="2126:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.04.44&end=00.04.51">
 Zato	Rsn	zato-r	
 mislim	Ggnspe	misliti-g	
 ,	U	,-u	
@@ -10679,7 +10679,7 @@ ta	Zk-met	ta-z
 sporazum	Sometn	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2126:23" video="https://media.dipintra.it/?id=2126&start=04.52&end=04.52&collection=eptic3">
+<s id="2126:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2126.wmv&start=00.04.52&end=00.04.52">
 Hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
@@ -10691,12 +10691,12 @@ Hvala	Sozei	hvala-s
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2121:1" video="https://media.dipintra.it/?id=2121&start=00.08&end=00.09&collection=eptic3">
+<s id="2121:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.00.08&end=00.00.09">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
-<s id="2121:2" video="https://media.dipintra.it/?id=2121&start=00.11&end=00.18&collection=eptic3">
+<s id="2121:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.00.11&end=00.00.18">
 Sprva	Rsn	sprva-r	
 naj	L	naj-l	
 rečem	Ggdspe	reči-g	
@@ -10722,7 +10722,7 @@ dober	Ppnmetn	dober-p	dober
 razlog	Sometn	razlog-s	
 .	SENT	.-s	
 </s>
-<s id="2121:3" video="https://media.dipintra.it/?id=2121&start=00.19&end=00.30&collection=eptic3">
+<s id="2121:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.00.19&end=00.00.30">
 Ehm	FPAUSE	Ehm-g	
 razložil	Ggdd-em	razložiti-g	
 mi	Zop-ed--k	jaz-z	
@@ -10753,7 +10753,7 @@ dobro	Ppnset	dober-p	dobro
 sodelovanje	Soset	sodelovanje-s	
 .	SENT	.-s	
 </s>
-<s id="2121:4" video="https://media.dipintra.it/?id=2121&start=00.31&end=00.42&collection=eptic3">
+<s id="2121:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.00.31&end=00.00.42">
 Kot	Vd	kot-v	
 poročevalcev	Sommr	poročevalec-s	
 sem	Gp-spe-n	biti-g	
@@ -10768,7 +10768,7 @@ Glyna	Slmetd	Glyna-s
 Forda	Slmetd	Ford-s	
 .	SENT	.-s	
 </s>
-<s id="2121:5" video="https://media.dipintra.it/?id=2121&start=00.43&end=01.01&collection=eptic3">
+<s id="2121:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.00.43&end=00.01.01">
 Resolucija	Sozei	resolucija-s	
 iz	Dr	iz-d	
 leta	Soser	leto-s	
@@ -10804,7 +10804,7 @@ zastavljanju	Sosem	zastavljanje-s
 vprašanja	Soser	vprašanje-s	
 .	SENT	.-s	
 </s>
-<s id="2121:6" video="https://media.dipintra.it/?id=2121&start=01.02&end=01.15&collection=eptic3">
+<s id="2121:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.01.02&end=00.01.15">
 Pa	Vp	pa-v	
 tudi	L	tudi-l	
 Donatelli	Slmdt	Donatelli-s	
@@ -10834,7 +10834,7 @@ nadaljnjem	Ppnmem	nadaljnji-p	nadaljnji
 delu	Somem	del-s	
 .	SENT	.-s	
 </s>
-<s id="2121:7" video="https://media.dipintra.it/?id=2121&start=01.16&end=01.33&collection=eptic3">
+<s id="2121:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.01.16&end=00.01.33">
 Olajšala	Ggdd-ez	Olajšala-g	
 mi	Zop-ed--k	jaz-z	
 je	Gp-ste-n	biti-g	
@@ -10871,7 +10871,7 @@ mojem	Zspseme	moj-z
 poročilu	Sosed	poročilo-s	
 .	SENT	.-s	
 </s>
-<s id="2121:8" video="https://media.dipintra.it/?id=2121&start=01.34&end=01.53&collection=eptic3">
+<s id="2121:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.01.34&end=00.01.53">
 Naj	L	naj-l	
 nekaj	Rsn	nekaj-r	
 povem	Ggdspe	povedati-g	
@@ -10907,7 +10907,7 @@ in	Vp	in-v
 ribolov	Somei	ribolov-s	
 .	SENT	.-s	
 </s>
-<s id="2121:9" video="https://media.dipintra.it/?id=2121&start=01.54&end=01.58&collection=eptic3">
+<s id="2121:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.01.54&end=00.01.58">
 Pa	Vp	pa-v	
 naj	L	naj-l	
 omenim	Ggdspe	omeniti-g	
@@ -10922,7 +10922,7 @@ to	Zk-zeo	ta-z
 regijo	Sozeo	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:10" video="https://media.dipintra.it/?id=2121&start=01.59&end=02.09&collection=eptic3">
+<s id="2121:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.01.59&end=00.02.09">
 Ehm	FPAUSE	Ehm-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -10946,7 +10946,7 @@ Novo	Ppnzet	nov-p	nova
 Gvinejo	Slzet	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2121:11" video="https://media.dipintra.it/?id=2121&start=02.10&end=02.19&collection=eptic3">
+<s id="2121:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.02.10&end=00.02.19">
 To	Zk-sei	ta-z	
 sta	Gp-std-n	biti-g	
 otoški	Ppnzdi	otoški-p	otoška
@@ -10969,7 +10969,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:12" video="https://media.dipintra.it/?id=2121&start=02.20&end=02.21&collection=eptic3">
+<s id="2121:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.02.20&end=00.02.21">
 To	Zk-sei	ta-z	
 sta	Gp-std-n	biti-g	
 pa	Vp	pa-v	
@@ -10978,7 +10978,7 @@ in	Vp	in-v
 tuna	Sozei	tuna-s	
 .	SENT	.-s	
 </s>
-<s id="2121:13" video="https://media.dipintra.it/?id=2121&start=02.22&end=02.43&collection=eptic3">
+<s id="2121:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.02.22&end=00.02.43">
 Ehm	FPAUSE	Ehm-s	
 imajo	Ggnstm-n	imeti-g	
 tudi	L	tudi-l	
@@ -11016,7 +11016,7 @@ dvanajstih	Kbg-mm	dvanajst-k
 letih	Sosmm	leto-s	
 .	SENT	.-s	
 </s>
-<s id="2121:14" video="https://media.dipintra.it/?id=2121&start=02.43&end=02.51&collection=eptic3">
+<s id="2121:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.02.43&end=00.02.51">
 Obstaja	Ggnste	obstajati-g	
 še	L	še-l	
 dvanajst	Kbg-mi	dvanajst-k	
@@ -11037,7 +11037,7 @@ ne	L	ne-l
 take	Zk-zmi	tak-z	
 .	U	.-u	
 </s>
-<s id="2121:15" video="https://media.dipintra.it/?id=2121&start=02.52&end=03.04&collection=eptic3">
+<s id="2121:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.02.52&end=00.03.04">
 Imajo	Ggnstm-n	imeti-g	
 posebne	Ppnzmt	poseben-p	posebna
 kvote	Sozmt	kvota-s	
@@ -11067,7 +11067,7 @@ oziroma	Vp	oziroma-v
 partnerstvu	Sosem	partnerstvo-s	
 .	SENT	.-s	
 </s>
-<s id="2121:16" video="https://media.dipintra.it/?id=2121&start=03.05&end=03.15&collection=eptic3">
+<s id="2121:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.05&end=00.03.15">
 Ehm	FPAUSE	Ehm-g	
 kljub	Dd	kljub-d	
 temu	Zk-sed	ta-z	
@@ -11092,7 +11092,7 @@ Pacifika	Slmer	Pacifik-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2121:17" video="https://media.dipintra.it/?id=2121&start=03.16&end=03.26&collection=eptic3">
+<s id="2121:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.16&end=00.03.26">
 Glede	Dr	glede-d	
 vsebine	Sozer	vsebina-s	
 resolucije	Sozer	resolucija-s	
@@ -11113,7 +11113,7 @@ lahko	Rsn	lahko-r
 ratificira	Ggvste	ratificirati-g	
 .	SENT	.-s	
 </s>
-<s id="2121:18" video="https://media.dipintra.it/?id=2121&start=03.26&end=03.31&collection=eptic3">
+<s id="2121:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.26&end=00.03.31">
 In	Vp	in-v	
 v	Dt	v-d	
 sredo	Sozet	sreda-s	
@@ -11129,7 +11129,7 @@ tem	Zk-sem	ta-z
 glasovali	Ggvd-mm	glasovati-g	
 .	SENT	.-s	
 </s>
-<s id="2121:19" video="https://media.dipintra.it/?id=2121&start=03.31&end=03.37&collection=eptic3">
+<s id="2121:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.31&end=00.03.37">
 Sprva	Rsn	sprva-r	
 bo	Gp-pte-n	biti-g	
 to	Zk-set	ta-z	
@@ -11146,7 +11146,7 @@ da	Vd	da-v
 sprejmemo	Ggdspm	sprejeti-g	
 .	SENT	.-s	
 </s>
-<s id="2121:20" video="https://media.dipintra.it/?id=2121&start=03.37&end=03.43&collection=eptic3">
+<s id="2121:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.37&end=00.03.43">
 In	Vp	in-v	
 drugo	Kbzsei	drug-k	
 je	Gp-ste-n	biti-g	
@@ -11163,14 +11163,14 @@ sama	Ppnzei	sam-p	sama
 resolucija	Sozei	resolucija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:21" video="https://media.dipintra.it/?id=2121&start=03.44&end=03.46&collection=eptic3">
+<s id="2121:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.44&end=00.03.46">
 Naj	L	naj-l	
 komentiram	Ggvspe	komentirati-g	
 tri	Kbgzmt	trije-k	
 stvari	Sozmt	stvar-s	
 .	SENT	.-s	
 </s>
-<s id="2121:22" video="https://media.dipintra.it/?id=2121&start=03.46&end=03.50&collection=eptic3">
+<s id="2121:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.46&end=00.03.50">
 Predvsem	L	predvsem-l	
 pomoč	Sozet	pomoč-s	
 za	Do	za-d	
@@ -11180,7 +11180,7 @@ ehm	FPAUSE	ehm-s
 trgovino	Sozet	trgovina-s	
 .	SENT	.-s	
 </s>
-<s id="2121:23" video="https://media.dipintra.it/?id=2121&start=03.51&end=03.57&collection=eptic3">
+<s id="2121:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.51&end=00.03.57">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 bistvenega	Ppnmer	bistven-p	bistven
@@ -11197,7 +11197,7 @@ tej	Zk-zem	ta-z
 regiji	Sozem	regija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:24" video="https://media.dipintra.it/?id=2121&start=03.57&end=04.16&collection=eptic3">
+<s id="2121:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.03.57&end=00.04.16">
 Ehm	FPAUSE	Ehm-g	
 od	Dr	od-d	
 <g/>
@@ -11232,7 +11232,7 @@ za	Dt	za-d
 pomoč	Sozet	pomoč-s	
 .	SENT	.-s	
 </s>
-<s id="2121:25" video="https://media.dipintra.it/?id=2121&start=04.16&end=04.22&collection=eptic3">
+<s id="2121:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.04.16&end=00.04.22">
 Seveda	L	seveda-l	
 pa	Vp	pa-v	
 pri	Dm	pri-d	
@@ -11250,7 +11250,7 @@ sistemom	Someo	sistem-s
 STO	Soser	STO-s	
 .	SENT	.-s	
 </s>
-<s id="2121:26" video="https://media.dipintra.it/?id=2121&start=04.23&end=04.31&collection=eptic3">
+<s id="2121:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.04.23&end=00.04.31">
 Pri	Dm	pri-d	
 tem	Zk-sem	ta-z	
 ne	L	ne-l	
@@ -11277,7 +11277,7 @@ na	Dm	na-d
 Fidžiju	Slmem	Fidžiju-s	
 .	SENT	.-s	
 </s>
-<s id="2121:27" video="https://media.dipintra.it/?id=2121&start=04.32&end=04.43&collection=eptic3">
+<s id="2121:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.04.32&end=00.04.43">
 Ehm	FPAUSE	Ehm-g	
 spodbujati	Ggnn	spodbujati-g	
 ga	Zotmet--k	on-z	
@@ -11299,7 +11299,7 @@ sladkorni	Ppnzem	sladkoren-p	sladkorna
 industriji	Sozem	industrija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:28" video="https://media.dipintra.it/?id=2121&start=04.44&end=04.51&collection=eptic3">
+<s id="2121:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.04.44&end=00.04.51">
 Kar	Rsn	kar-r	
 se	Zp------k	se-z	
 tiče	Ggnste	tikati-g	
@@ -11316,7 +11316,7 @@ držav	Sozmr	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2121:29" video="https://media.dipintra.it/?id=2121&start=04.51&end=05.09&collection=eptic3">
+<s id="2121:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.04.51&end=00.05.09">
 Ehm	FPAUSE	Ehm-g	
 v	Dm	v-d	
 treh	Kbgmmm	trije-k	
@@ -11348,7 +11348,7 @@ delovna	Ppnsmt	deloven-p	delovno
 mesta	Sosmt	mesto-s	
 .	SENT	.-s	
 </s>
-<s id="2121:30" video="https://media.dipintra.it/?id=2121&start=05.10&end=05.20&collection=eptic3">
+<s id="2121:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.05.10&end=00.05.20">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 podpiram	Ggnspe	podpirati-g	
@@ -11371,7 +11371,7 @@ razvija	Ggnste	razvijati-g
 trajnostno	Ppnsei	trajnosten-p	trajnostno
 .	U	.-u	
 </s>
-<s id="2121:31" video="https://media.dipintra.it/?id=2121&start=05.21&end=05.36&collection=eptic3">
+<s id="2121:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.05.21&end=00.05.36">
 Bistvenega	Ppnmer	bistven-p	bistven
 pomena	Somer	pomen-s	
 so	Gp-stm-n	biti-g	
@@ -11400,7 +11400,7 @@ neprijavljenega	Ppnmer	neprijavljen-p	neprijavljen
 ribolova	Somer	ribolov-s	
 .	SENT	.-s	
 </s>
-<s id="2121:32" video="https://media.dipintra.it/?id=2121&start=05.37&end=05.49&collection=eptic3">
+<s id="2121:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.05.37&end=00.05.49">
 Ehm	FPAUSE	Ehm-p	ehm
 <g/>
 ...	EPAUSE	...-u	
@@ -11419,7 +11419,7 @@ Evropsko	Ppnzet	evropski-p	evropska
 unijo	Sozet	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2121:33" video="https://media.dipintra.it/?id=2121&start=05.50&end=06.04&collection=eptic3">
+<s id="2121:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.05.50&end=00.06.04">
 V	Dm	v-d	
 obdobju	Sosem	obdobje-s	
 od	Dr	od-d	
@@ -11447,7 +11447,7 @@ ehm	FPAUSE	ehm-g
 tune	Sozmt	tuna-s	
 .	SENT	.-s	
 </s>
-<s id="2121:34" video="https://media.dipintra.it/?id=2121&start=06.04&end=06.29&collection=eptic3">
+<s id="2121:34" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.06.04&end=00.06.29">
 Mislim	Ggnspe	misliti-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -11489,7 +11489,7 @@ državah	Sozmm	država-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2121:35" video="https://media.dipintra.it/?id=2121&start=06.33&end=06.39&collection=eptic3">
+<s id="2121:35" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.06.33&end=00.06.39">
 Komisija	Sozei	komisija-s	
 mora	Ggnste	morati-g	
 ustrezno	Rsn	ustrezno-r	
@@ -11502,7 +11502,7 @@ Nove	Ppnzer	nov-p	nova
 Gvineje	Slzer	Gvineja-s	
 .	SENT	.-s	
 </s>
-<s id="2121:36" video="https://media.dipintra.it/?id=2121&start=06.40&end=07.02&collection=eptic3">
+<s id="2121:36" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.06.40&end=00.07.02">
 Ehm	FPAUSE	Ehm-g	
 v	Dm	v-d	
 svojem	Zp-sem	svoj-z	
@@ -11549,7 +11549,7 @@ tradicionalno	Ppnset	tradicionalen-p	tradicionalno
 znanje	Soset	znanje-s	
 .	SENT	.-s	
 </s>
-<s id="2121:37" video="https://media.dipintra.it/?id=2121&start=07.03&end=07.12&collection=eptic3">
+<s id="2121:37" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.07.03&end=00.07.12">
 Govorim	Ggnspe	govoriti-g	
 tudi	L	tudi-l	
 o	Dm	o-d	
@@ -11567,7 +11567,7 @@ na	Dt	na-d
 mesecev	Sommr	mesec-s	
 .	SENT	.-s	
 </s>
-<s id="2121:38" video="https://media.dipintra.it/?id=2121&start=07.13&end=07.30&collection=eptic3">
+<s id="2121:38" video="http://amelia.sslmit.unibo.it/video/video.php?id=2121.wmv&start=00.07.13&end=00.07.30">
 Nimam	Ggnspe-d	imeti-g	
 časa	Somer	čas-s	
 sedaj	Rsn	sedaj-r	
@@ -11613,14 +11613,14 @@ dela	Soser	delo-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="SL19" gender="M" native="Y">
-<s id="2128:1" video="https://media.dipintra.it/?id=2128&start=00.09&end=00.10&collection=eptic3">
+<s id="2128:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.00.09&end=00.00.10">
 Hvala	Sozei	hvala-s	
 ,	U	,-u	
 gospod	Somei	gospod-s	
 predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 .	SENT	.-s	
 </s>
-<s id="2128:2" video="https://media.dipintra.it/?id=2128&start=00.11&end=00.16&collection=eptic3">
+<s id="2128:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.00.11&end=00.00.16">
 Hvala	Sozei	hvala-s	
 ,	U	,-u	
 da	Vd	da-v	
@@ -11635,7 +11635,7 @@ na	Dm	na-d
 dnevni	Ppnzem	dneven-p	dnevna
 red.	O	red.-o	
 </s>
-<s id="2128:3" video="https://media.dipintra.it/?id=2128&start=00.16&end=00.32&collection=eptic3">
+<s id="2128:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.00.16&end=00.00.32">
 Zaščita	Ggdvdd	Zaščita-g	
 ehm	FPAUSE	ehm-s	
 otrok	Somei	otrok-s	
@@ -11671,7 +11671,7 @@ letu	Sosem	leto-s
 2006	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2128:4" video="https://media.dipintra.it/?id=2128&start=00.33&end=00.48&collection=eptic3">
+<s id="2128:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.00.33&end=00.00.48">
 Strategija	Sozei	strategija-s	
 o	Dm	o-d	
 pravicah	Sozmm	pravica-s	
@@ -11704,7 +11704,7 @@ temeljnih	Ppnzmm	temeljen-p	temeljna
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2128:5" video="https://media.dipintra.it/?id=2128&start=00.49&end=01.01&collection=eptic3">
+<s id="2128:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.00.49&end=00.01.01">
 In	Vp	in-v	
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
@@ -11737,7 +11737,7 @@ kot	Vd	kot-v
 nezakonodajni	Ppnmmi	nezakonodajni-p	nezakonodajni
 .	SENT	.-s	
 </s>
-<s id="2128:6" video="https://media.dipintra.it/?id=2128&start=01.02&end=01.12&collection=eptic3">
+<s id="2128:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.02&end=00.01.12">
 In	Vp	in-v	
 takšno	Zk-zet	takšen-z	
 prakso	Sozet	praksa-s	
@@ -11771,7 +11771,7 @@ letos	Rsn	letos-r
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2128:7" video="https://media.dipintra.it/?id=2128&start=01.15&end=01.23&collection=eptic3">
+<s id="2128:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.15&end=00.01.23">
 Komisija	Sozei	komisija-s	
 bo	Gp-pte-n	biti-g	
 letno	Rsn	letno-r	
@@ -11790,7 +11790,7 @@ temeljnih	Ppnzmm	temeljen-p	temeljna
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2128:8" video="https://media.dipintra.it/?id=2128&start=01.24&end=01.25&collection=eptic3">
+<s id="2128:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.24&end=00.01.25">
 To	Zk-sei	ta-z	
 bomo	Gp-ppm-n	biti-g	
 začeli	Ggdd-mm	začeti-g	
@@ -11801,7 +11801,7 @@ letu	Sosem	leto-s
 2011	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2128:9" video="https://media.dipintra.it/?id=2128&start=01.25&end=01.42&collection=eptic3">
+<s id="2128:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.25&end=00.01.42">
 Pri	Dm	pri-d	
 tem	Zk-sem	ta-z	
 pa	Vp	pa-v	
@@ -11844,7 +11844,7 @@ evropske	Ppnzer	evropski-p	evropska
 zakonodaje	Sozer	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2128:10" video="https://media.dipintra.it/?id=2128&start=01.43&end=01.53&collection=eptic3">
+<s id="2128:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.43&end=00.01.53">
 V	Dm	v-d	
 tem	Zk-mem	ta-z	
 smislu	Somem	smisel-s	
@@ -11864,7 +11864,7 @@ mednarodnih	Ppnzmm	mednaroden-p	mednarodna
 posvojitvah	Sozmm	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2128:11" video="https://media.dipintra.it/?id=2128&start=01.54&end=02.09&collection=eptic3">
+<s id="2128:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.01.54&end=00.02.09">
 Sam	Ppnmein	sam-p	sam
 predmet	Somei	predmet-s	
 uPIPPPERO	Somei	uPIPPPERO-s	
@@ -11906,7 +11906,7 @@ nacionalne	Ppnzer	nacionalen-p	nacionalna
 zakonodaje	Sozer	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2128:12" video="https://media.dipintra.it/?id=2128&start=02.10&end=02.38&collection=eptic3">
+<s id="2128:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.02.10&end=00.02.38">
 Konvencija	Sozei	konvencija-s	
 ,	U	,-u	
 <g/>
@@ -11966,7 +11966,7 @@ pravice	Sozer	pravica-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2128:13" video="https://media.dipintra.it/?id=2128&start=02.39&end=02.57&collection=eptic3">
+<s id="2128:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.02.39&end=00.02.57">
 Komisija	Sozei	komisija-s	
 podpira	Ggnste	podpirati-g	
 <g/>
@@ -11998,7 +11998,7 @@ konvencije	Sozer	konvencija-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2128:14" video="https://media.dipintra.it/?id=2128&start=02.59&end=03.20&collection=eptic3">
+<s id="2128:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.02.59&end=00.03.20">
 Komisija	Sozei	komisija-s	
 meni	Ggnste	meniti-g	
 ,	U	,-u	
@@ -12048,14 +12048,14 @@ Haaški	Ppnzed	Haaški-p	haaški
 konvenciji	Sozed	konvencija-s	
 .	SENT	.-s	
 </s>
-<s id="2128:15" video="https://media.dipintra.it/?id=2128&start=03.21&end=03.22&collection=eptic3">
+<s id="2128:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.03.21&end=00.03.22">
 Pri	Dm	pri-d	
 tem	Zk-sem	ta-z	
 pa	Vp	pa-v	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2128:16" video="https://media.dipintra.it/?id=2128&start=03.23&end=03.31&collection=eptic3">
+<s id="2128:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.03.23&end=00.03.31">
 Komisija	Sozei	komisija-s	
 spremlja	Ggnste	spremljati-g	
 mednarodne	Ppnzmt	mednaroden-p	mednarodna
@@ -12076,7 +12076,7 @@ otrok	Sommr	otrok-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2128:17" video="https://media.dipintra.it/?id=2128&start=03.34&end=03.54&collection=eptic3">
+<s id="2128:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.03.34&end=00.03.54">
 In	Vp	in-v	
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
@@ -12115,7 +12115,7 @@ tem	Zk-sem	ta-z
 področju	Sosem	področje-s	
 .	SENT	.-s	
 </s>
-<s id="2128:18" video="https://media.dipintra.it/?id=2128&start=03.55&end=04.03&collection=eptic3">
+<s id="2128:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.03.55&end=00.04.03">
 Pred	Do	pred-d	
 kakšnim	Zv-meo	kakšen-z	
 letom	Soseo	leto-s	
@@ -12141,7 +12141,7 @@ tem	Zk-sem	ta-z
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2128:19" video="https://media.dipintra.it/?id=2128&start=04.06&end=04.29&collection=eptic3">
+<s id="2128:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.04.06&end=00.04.29">
 Komisijina	Sozei	Komisijina-s	
 Zelena	Slmer	Zelen-s	
 knjiga	Sozei	knjiga-s	
@@ -12189,7 +12189,7 @@ evropskih	Ppnmmr	evropski-p	evropski
 državljanov	Sommr	državljan-s	
 .	SENT	.-s	
 </s>
-<s id="2128:20" video="https://media.dipintra.it/?id=2128&start=04.30&end=04.35&collection=eptic3">
+<s id="2128:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.04.30&end=00.04.35">
 In	Vp	in-v	
 <g/>
 ...	EPAUSE	...-u	
@@ -12209,7 +12209,7 @@ danes	Rsn	danes-r
 zastavljena	Pdnzei	zastavljen-p	zastavljena
 .	SENT	.-s	
 </s>
-<s id="2128:21" video="https://media.dipintra.it/?id=2128&start=04.35&end=04.36&collection=eptic3">
+<s id="2128:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2128.wmv&start=00.04.35&end=00.04.36">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 .	SENT	.-s	
@@ -12222,12 +12222,12 @@ lepa	Ppnzei	lep-p	lepa
 <speaker name="Yannakoudakis Marina" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="174" duration="short" durations="73.0" speed="medium" speedwm="143.0" delivery="read">
 <interpreter id="SL16" gender="F" native="Y">
-<s id="2129:1" video="https://media.dipintra.it/?id=2129&start=00.12&end=00.13&collection=eptic3">
+<s id="2129:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.12&end=00.00.13">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 .	SENT	.-s	
 </s>
-<s id="2129:2" video="https://media.dipintra.it/?id=2129&start=00.13&end=00.20&collection=eptic3">
+<s id="2129:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.13&end=00.00.20">
 Posvojitev	Sozei	posvojitev-s	
 je	Gp-ste-n	biti-g	
 dober	Ppnmein	dober-p	dober
@@ -12251,7 +12251,7 @@ jih	Zotzmt--k	on-z
 zgubijo	Ggdstm	zgubiti-g	
 .	SENT	.-s	
 </s>
-<s id="2129:3" video="https://media.dipintra.it/?id=2129&start=00.21&end=00.36&collection=eptic3">
+<s id="2129:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.21&end=00.00.36">
 In	Vp	in-v	
 posvojitev	Sozei	posvojitev-s	
 v	Dm	v-d	
@@ -12283,7 +12283,7 @@ otroka	Somer	otrok-s
 ...	EPAUSE	...-u	
 .	SENT	.-s	
 </s>
-<s id="2129:4" video="https://media.dipintra.it/?id=2129&start=00.39&end=00.47&collection=eptic3">
+<s id="2129:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.39&end=00.00.47">
 Mednarodna	Ppnzei	mednaroden-p	mednarodna
 posvojitev	Sozei	posvojitev-s	
 je	Gp-ste-n	biti-g	
@@ -12312,7 +12312,7 @@ red.	O	red.-o
 ..	O	..-o	
 .	SENT	.-s	
 </s>
-<s id="2129:5" video="https://media.dipintra.it/?id=2129&start=00.49&end=00.56&collection=eptic3">
+<s id="2129:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.49&end=00.00.56">
 Seveda	L	seveda-l	
 moramo	Ggnspm	morati-g	
 tu	Rsn	tu-r	
@@ -12336,7 +12336,7 @@ nova	Ppnzei	nov-p	nova
 tveganje	Sosei	tveganje-s	
 .	SENT	.-s	
 </s>
-<s id="2129:6" video="https://media.dipintra.it/?id=2129&start=00.57&end=01.04&collection=eptic3">
+<s id="2129:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.00.57&end=00.01.04">
 Namreč	Vp	namreč-v	
 tveganja	Sosmi	tveganje-s	
 ,	U	,-u	
@@ -12359,7 +12359,7 @@ njihovih	Zstzmrm	njihov-z
 pravic	Sozmr	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2129:7" video="https://media.dipintra.it/?id=2129&start=01.05&end=01.12&collection=eptic3">
+<s id="2129:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.01.05&end=00.01.12">
 To	Zk-sei	ta-z	
 velja	Ggnste	veljati-g	
 za	Dt	za-d	
@@ -12382,7 +12382,7 @@ interesu	Somem	interes-s
 otrok	Sommr	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2129:8" video="https://media.dipintra.it/?id=2129&start=01.13&end=01.27&collection=eptic3">
+<s id="2129:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2129.wmv&start=00.01.13&end=00.01.27">
 Države	Sozmi	država-s	
 članice	Sozmi	članica-s	
 morajo	Ggnstm	morati-g	
@@ -12427,12 +12427,12 @@ spoštovanje	Soset	spoštovanje-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2130:1" video="https://media.dipintra.it/?id=2130&start=00.08&end=00.09&collection=eptic3">
+<s id="2130:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.08&end=00.00.09">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 .	SENT	.-s	
 </s>
-<s id="2130:2" video="https://media.dipintra.it/?id=2130&start=00.10&end=00.18&collection=eptic3">
+<s id="2130:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.10&end=00.00.18">
 Ehm	FPAUSE	Ehm-g	
 moto	Sometn	moto-s	
 agencije	Sozer	agencija-s	
@@ -12453,7 +12453,7 @@ različen	Ppnmetn	različen-p	različen
 način	Sometn	način-s	
 .	SENT	.-s	
 </s>
-<s id="2130:3" video="https://media.dipintra.it/?id=2130&start=00.19&end=00.23&collection=eptic3">
+<s id="2130:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.19&end=00.00.23">
 Obstaja	Ggnste	obstajati-g	
 več	Rsr	več-r	
 kot	Vd	kot-v	
@@ -12463,7 +12463,7 @@ te	Zk-zer	ta-z
 agencije	Sozer	agencija-s	
 .	SENT	.-s	
 </s>
-<s id="2130:4" video="https://media.dipintra.it/?id=2130&start=00.23&end=00.25&collection=eptic3">
+<s id="2130:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.23&end=00.00.25">
 Nekateri	Zn-mmi	nekateri-z	
 so	Gp-stm-n	biti-g	
 že	L	že-l	
@@ -12476,7 +12476,7 @@ to	Zk-set	ta-z
 storiti	Ggdn	storiti-g	
 .	SENT	.-s	
 </s>
-<s id="2130:5" video="https://media.dipintra.it/?id=2130&start=00.26&end=00.28&collection=eptic3">
+<s id="2130:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.26&end=00.00.28">
 Naš	Zspmeim	naš-z	
 odnos	Somei	odnos-s	
 do	Dr	do-d	
@@ -12488,7 +12488,7 @@ Irskem	Slsem	Irsko-s
 spremenil	Ggdd-em	spremeniti-g	
 .	SENT	.-s	
 </s>
-<s id="2130:6" video="https://media.dipintra.it/?id=2130&start=00.28&end=00.38&collection=eptic3">
+<s id="2130:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.28&end=00.00.38">
 Na	Dm	na-d	
 Irskem	Slsem	Irsko-s	
 je	Gp-ste-n	biti-g	
@@ -12516,7 +12516,7 @@ ga	Zotmet--k	on-z
 posvojijo	Ggdstm	posvojiti-g	
 .	SENT	.-s	
 </s>
-<s id="2130:7" video="https://media.dipintra.it/?id=2130&start=00.38&end=00.43&collection=eptic3">
+<s id="2130:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.38&end=00.00.43">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 dobra	Ppnzei	dober-p	dobra
@@ -12537,7 +12537,7 @@ na	Dt	na-d
 posvojitve	Sozmt	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2130:8" video="https://media.dipintra.it/?id=2130&start=00.44&end=00.50&collection=eptic3">
+<s id="2130:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.44&end=00.00.50">
 Otrok	Somei	otrok-s	
 mora	Ggnste	morati-g	
 biti	Gp-n	biti-g	
@@ -12547,7 +12547,7 @@ naših	Zspmmrm	naš-z
 interesov	Sommr	interes-s	
 .	SENT	.-s	
 </s>
-<s id="2130:9" video="https://media.dipintra.it/?id=2130&start=00.50&end=00.57&collection=eptic3">
+<s id="2130:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.50&end=00.00.57">
 Imamo	Ggnspm-n	imeti-g	
 dolžnost	Sozet	dolžnost-s	
 in	Vp	in-v	
@@ -12563,7 +12563,7 @@ našim	Zspmeom	naš-z
 otrokom	Sommd	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2130:10" video="https://media.dipintra.it/?id=2130&start=00.58&end=01.06&collection=eptic3">
+<s id="2130:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.00.58&end=00.01.06">
 Vsaka	Zc-zei	vsak-z	
 država	Sozei	država-s	
 članica	Sozei	članica-s	
@@ -12584,7 +12584,7 @@ kot	Vd	kot-v
 koordinator	Somei	koordinator-s	
 .	SENT	.-s	
 </s>
-<s id="2130:11" video="https://media.dipintra.it/?id=2130&start=01.06&end=01.10&collection=eptic3">
+<s id="2130:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.01.06&end=00.01.10">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -12599,7 +12599,7 @@ pravicah	Sozmm	pravica-s
 otrok	Sommr	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2130:12" video="https://media.dipintra.it/?id=2130&start=01.11&end=01.15&collection=eptic3">
+<s id="2130:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.01.11&end=00.01.15">
 Veliko	Rsn	veliko-r	
 o	Dm	o-d	
 tem	Zk-sem	ta-z	
@@ -12617,7 +12617,7 @@ teh	Zk-zmr	ta-z
 pravic	Sozmr	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2130:13" video="https://media.dipintra.it/?id=2130&start=01.16&end=01.20&collection=eptic3">
+<s id="2130:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.01.16&end=00.01.20">
 Upam	Ggnspe	upati-g	
 ,	U	,-u	
 da	Vd	da-v	
@@ -12638,7 +12638,7 @@ izb	Sozmr	izba-s
 oljšala	Ggnd-dm	oljšala-g	
 .	SENT	.-s	
 </s>
-<s id="2130:14" video="https://media.dipintra.it/?id=2130&start=01.21&end=01.24&collection=eptic3">
+<s id="2130:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2130.mp4&start=00.01.21&end=00.01.24">
 Ta	Zk-zei	ta-z	
 razprava	Sozei	razprava-s	
 je	Gp-ste-n	biti-g	
@@ -12661,7 +12661,7 @@ to	Zk-set	ta-z
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2131:1" video="https://media.dipintra.it/?id=2131&start=00.09&end=00.11&collection=eptic3">
+<s id="2131:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.00.09&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -12669,7 +12669,7 @@ gospod	Somei	gospod-s
 predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 .	SENT	.-s	
 </s>
-<s id="2131:2" video="https://media.dipintra.it/?id=2131&start=00.12&end=00.16&collection=eptic3">
+<s id="2131:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.00.12&end=00.00.16">
 Ehm	FPAUSE	Ehm-g	
 največji	Ppsmeid	velik-p	največji
 dar	Somei	dar-s	
@@ -12686,7 +12686,7 @@ srečen	Ppnmein	srečen-p	srečen
 dom	Somei	dom-s	
 .	SENT	.-s	
 </s>
-<s id="2131:3" video="https://media.dipintra.it/?id=2131&start=00.17&end=00.26&collection=eptic3">
+<s id="2131:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.00.17&end=00.00.26">
 Za	Dt	za-d	
 številne	Ppnmmt	številen-p	številen
 <g/>
@@ -12712,7 +12712,7 @@ jih	Zotmmt--k	on-z
 posvojijo	Ggdstm	posvojiti-g	
 .	SENT	.-s	
 </s>
-<s id="2131:4" video="https://media.dipintra.it/?id=2131&start=00.27&end=00.33&collection=eptic3">
+<s id="2131:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.00.27&end=00.00.33">
 Seveda	L	seveda-l	
 če	Vd	če-v	
 pri	Dm	pri-d	
@@ -12725,7 +12725,7 @@ izkoriščanje	Sosei	izkoriščanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2131:5" video="https://media.dipintra.it/?id=2131&start=00.36&end=01.04&collection=eptic3">
+<s id="2131:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.00.36&end=00.01.04">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 sicer	L	sicer-l	
@@ -12781,7 +12781,7 @@ postopki	Sommo	postopek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2131:6" video="https://media.dipintra.it/?id=2131&start=01.09&end=01.15&collection=eptic3">
+<s id="2131:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2131.wmv&start=00.01.09&end=00.01.15">
 Ehm	FPAUSE	Ehm-p	ehm
 večina	Sozei	večina-s	
 posvojenih	Pdnmmr	posvojen-p	posvojen
@@ -12803,7 +12803,7 @@ domovih	Sommm	dom-s
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="SL08" gender="F" native="Y">
-<s id="2132:1" video="https://media.dipintra.it/?id=2132&start=00.08&end=00.11&collection=eptic3">
+<s id="2132:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.08&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -12815,7 +12815,7 @@ spoštovani	Pdnmmi	spoštovan-p	spoštovani
 kolegi	Sommi	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2132:2" video="https://media.dipintra.it/?id=2132&start=00.12&end=00.21&collection=eptic3">
+<s id="2132:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.12&end=00.00.21">
 Imamo	Ggnspm-n	imeti-g	
 širok	Ppnmetn	širok-p	širok
 nabor	Sometn	nabor-s	
@@ -12835,7 +12835,7 @@ nekoliko	Rsn	nekoliko-r
 zmede	Ggdste	zmesti-g	
 .	SENT	.-s	
 </s>
-<s id="2132:3" video="https://media.dipintra.it/?id=2132&start=00.21&end=00.25&collection=eptic3">
+<s id="2132:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.21&end=00.00.25">
 Kdo	Zv-mei	kdo-z	
 je	Gp-ste-n	biti-g	
 pravzaprav	L	pravzaprav-l	
@@ -12849,7 +12849,7 @@ posvojitve	Sozmt	posvojitev-s
 nadzoroval	Ggnd-em	nadzorovati-g	
 ?	SENT	?-s	
 </s>
-<s id="2132:4" video="https://media.dipintra.it/?id=2132&start=00.26&end=00.35&collection=eptic3">
+<s id="2132:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.26&end=00.00.35">
 Komisija	Sozei	komisija-s	
 mora	Ggnste	morati-g	
 stopiti	Ggdn	stopiti-g	
@@ -12878,7 +12878,7 @@ minimalne	Ppnmmt	minimalen-p	minimalni
 standarde	Sommt	standard-s	
 .	SENT	.-s	
 </s>
-<s id="2132:5" video="https://media.dipintra.it/?id=2132&start=00.35&end=00.42&collection=eptic3">
+<s id="2132:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.35&end=00.00.42">
 In	Vp	in-v	
 da	Vd	da-v	
 bo	Gp-pte-n	biti-g	
@@ -12898,7 +12898,7 @@ izvorno	Ppnzet	izvoren-p	izvorna
 kulturo	Sozet	kultura-s	
 .	SENT	.-s	
 </s>
-<s id="2132:6" video="https://media.dipintra.it/?id=2132&start=00.42&end=00.50&collection=eptic3">
+<s id="2132:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.42&end=00.00.50">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 podvzeti	Ggdn	podvzeti-g	
@@ -12918,7 +12918,7 @@ z	Do	z-d
 otroki	Sommo	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2132:7" video="https://media.dipintra.it/?id=2132&start=00.51&end=00.58&collection=eptic3">
+<s id="2132:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.51&end=00.00.58">
 V	Dm	v-d	
 moji	Zspzeme	moj-z	
 državi	Sozem	država-s	
@@ -12941,7 +12941,7 @@ zunaj	Dr	zunaj-d
 njih	Zotmmr	on-z	
 .	SENT	.-s	
 </s>
-<s id="2132:8" video="https://media.dipintra.it/?id=2132&start=00.59&end=01.05&collection=eptic3">
+<s id="2132:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.00.59&end=00.01.05">
 Ehm	FPAUSE	Ehm-g	
 dogaja	Ggnste	dogajati-g	
 se	Zp------k	se-z	
@@ -12959,7 +12959,7 @@ prodaja	Ggnste	prodajati-g
 posvojiteljem	Sommd	posvojitelj-s	
 .	SENT	.-s	
 </s>
-<s id="2132:9" video="https://media.dipintra.it/?id=2132&start=01.05&end=01.11&collection=eptic3">
+<s id="2132:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.01.05&end=00.01.11">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 pojav	Somei	pojav-s	
@@ -12975,7 +12975,7 @@ mednarodni	Ppnzem	mednaroden-p	mednarodna
 ravni	Sozem	raven-s	
 .	SENT	.-s	
 </s>
-<s id="2132:10" video="https://media.dipintra.it/?id=2132&start=01.12&end=01.33&collection=eptic3">
+<s id="2132:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2132.wmv&start=00.01.12&end=00.01.33">
 Pozivam	Ggnspe	pozivati-g	
 Komisijo	Sozet	komisija-s	
 ,	U	,-u	
@@ -13035,7 +13035,7 @@ ljudi	Sommt	človek-s
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="SL08" gender="F" native="Y">
-<s id="2133:1" video="https://media.dipintra.it/?id=2133&start=00.11&end=00.15&collection=eptic3">
+<s id="2133:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2133.wmv&start=00.00.11&end=00.00.15">
 Rada	Rsn	rad-r	
 bi	Gp-g	biti-g	
 vas	Zod-mt	ti-z	
@@ -13046,7 +13046,7 @@ nezakonitih	Ppnzmr	nezakonit-p	nezakonita
 posvojitev	Sozmr	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2133:2" video="https://media.dipintra.it/?id=2133&start=00.15&end=00.26&collection=eptic3">
+<s id="2133:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2133.wmv&start=00.00.15&end=00.00.26">
 V	Dm	v-d	
 Evropi	Slzem	Evropa-s	
 obstaja	Ggnste	obstajati-g	
@@ -13071,7 +13071,7 @@ posvojenih	Pdnmmr	posvojen-p	posvojen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2133:3" video="https://media.dipintra.it/?id=2133&start=00.27&end=00.45&collection=eptic3">
+<s id="2133:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2133.wmv&start=00.00.27&end=00.00.45">
 V	Dm	v-d	
 parlamentu	Somem	parlament-s	
 smo	Gp-spm-n	biti-g	
@@ -13104,7 +13104,7 @@ zločine	Sommt	zločin-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2133:4" video="https://media.dipintra.it/?id=2133&start=00.48&end=01.01&collection=eptic3">
+<s id="2133:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2133.wmv&start=00.00.48&end=00.01.01">
 Ne	L	ne-l	
 moremo	Ggnspm	moči-g	
 se	Zp------k	se-z	
@@ -13145,7 +13145,7 @@ ravni	Sozem	raven-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2134:1" video="https://media.dipintra.it/?id=2134&start=00.19&end=00.46&collection=eptic3">
+<s id="2134:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2134.wmv&start=00.00.19&end=00.00.46">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -13194,7 +13194,7 @@ dom	Sometn	dom-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2134:2" video="https://media.dipintra.it/?id=2134&start=00.51&end=01.06&collection=eptic3">
+<s id="2134:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2134.wmv&start=00.00.51&end=00.01.06">
 Ehm	FPAUSE	Ehm-g	
 tega	Zk-ser	ta-z	
 smo	Gp-spm-n	biti-g	
@@ -13229,7 +13229,7 @@ pozornosti	Sozer	pozornost-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2135:1" video="https://media.dipintra.it/?id=2135&start=00.15&end=00.23&collection=eptic3">
+<s id="2135:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.00.15&end=00.00.23">
 Najprej	Rss	najprej-r	
 <g/>
 ...	EPAUSE	...-u	
@@ -13254,7 +13254,7 @@ zanimivo	Ppnzet	zanimiv-p	zanimiva
 razpravo	Sozet	razprava-s	
 .	SENT	.-s	
 </s>
-<s id="2135:2" video="https://media.dipintra.it/?id=2135&start=00.24&end=00.28&collection=eptic3">
+<s id="2135:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.00.24&end=00.00.28">
 Za	Dt	za-d	
 konec	Sometn	konec-s	
 pa	Vp	pa-v	
@@ -13263,7 +13263,7 @@ pet	Kbg-mi	pet-k
 pripomb	Sozmr	pripomba-s	
 .	SENT	.-s	
 </s>
-<s id="2135:3" video="https://media.dipintra.it/?id=2135&start=00.29&end=00.38&collection=eptic3">
+<s id="2135:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.00.29&end=00.00.38">
 Kot	Vd	kot-v	
 prvo	Kbvsei	prvi-k	
 ,	U	,-u	
@@ -13288,7 +13288,7 @@ posvojitvah	Sozmm	posvojitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:4" video="https://media.dipintra.it/?id=2135&start=00.41&end=00.54&collection=eptic3">
+<s id="2135:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.00.41&end=00.00.54">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 in	Vp	in-v	
@@ -13319,7 +13319,7 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 .	SENT	.-s	
 </s>
-<s id="2135:5" video="https://media.dipintra.it/?id=2135&start=00.56&end=00.59&collection=eptic3">
+<s id="2135:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.00.56&end=00.00.59">
 S	Do	z-d	
 tem	Zk-seo	ta-z	
 v	Dm	v-d	
@@ -13333,11 +13333,11 @@ stvari	Sozdt	stvar-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:6" video="https://media.dipintra.it/?id=2135&start=01.00&end=01.02&collection=eptic3">
+<s id="2135:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.00&end=00.01.02">
 Prvič	Rsn	prvič-r	
 .	SENT	.-s	
 </s>
-<s id="2135:7" video="https://media.dipintra.it/?id=2135&start=01.04&end=01.13&collection=eptic3">
+<s id="2135:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.04&end=00.01.13">
 V	Dm	v-d	
 prihodnjem	Ppnsem	prihodnji-p	prihodnje
 sporočilu	Sosem	sporočilo-s	
@@ -13362,7 +13362,7 @@ do	Dr	do-d
 13	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2135:8" video="https://media.dipintra.it/?id=2135&start=01.15&end=01.23&collection=eptic3">
+<s id="2135:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.15&end=00.01.23">
 To	Zk-sei	ta-z	
 bo	Gp-pte-n	biti-g	
 vključevalo	Ggnd-es	vključevati-g	
@@ -13385,12 +13385,12 @@ otrokovih	Psnzmm	otrokov-p	otrokova
 pravicah	Sozmm	pravica-s	
 .	SENT	.-s	
 </s>
-<s id="2135:9" video="https://media.dipintra.it/?id=2135&start=01.25&end=01.26&collection=eptic3">
+<s id="2135:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.25&end=00.01.26">
 Drugič	Rsn	drugič-r	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:10" video="https://media.dipintra.it/?id=2135&start=01.27&end=01.46&collection=eptic3">
+<s id="2135:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.27&end=00.01.46">
 Kot	Vd	kot-v	
 že	L	že-l	
 omenjeno	Pdnsei	omenjen-p	omenjeno
@@ -13423,13 +13423,13 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:11" video="https://media.dipintra.it/?id=2135&start=01.50&end=01.51&collection=eptic3">
+<s id="2135:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.50&end=00.01.51">
 Naslednja	Ppnzei	naslednji-p	naslednja
 točka	Sozei	točka-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:12" video="https://media.dipintra.it/?id=2135&start=01.53&end=02.00&collection=eptic3">
+<s id="2135:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.01.53&end=00.02.00">
 Nekateri	Zn-mmi	nekateri-z	
 poslanci	Sommi	poslanec-s	
 so	Gp-stm-n	biti-g	
@@ -13457,7 +13457,7 @@ potrebe	Sozer	potreba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:13" video="https://media.dipintra.it/?id=2135&start=02.04&end=02.12&collection=eptic3">
+<s id="2135:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.04&end=00.02.12">
 Tu	Rsn	tu-r	
 <g/>
 ...	EPAUSE	...-u	
@@ -13481,7 +13481,7 @@ vlade	Sozer	vlada-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:14" video="https://media.dipintra.it/?id=2135&start=02.17&end=02.29&collection=eptic3">
+<s id="2135:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.17&end=00.02.29">
 Sprejeti	Pdnmeid	sprejet-p	sprejet
 ukrep	Somei	ukrep-s	
 je	Gp-ste-n	biti-g	
@@ -13511,7 +13511,7 @@ v	Dm	v-d
 Romuniji	Slzem	Romunija-s	
 .	SENT	.-s	
 </s>
-<s id="2135:15" video="https://media.dipintra.it/?id=2135&start=02.29&end=02.34&collection=eptic3">
+<s id="2135:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.29&end=00.02.34">
 Komisija	Sozei	komisija-s	
 vseskozi	Rsn	vseskozi-r	
 spremlja	Ggnste	spremljati-g	
@@ -13529,7 +13529,7 @@ poudarim	Ggdspe	poudariti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:16" video="https://media.dipintra.it/?id=2135&start=02.38&end=02.41&collection=eptic3">
+<s id="2135:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.38&end=00.02.41">
 Ta	Zk-zei	ta-z	
 zadeva	Sozei	zadeva-s	
 je	Gp-ste-n	biti-g	
@@ -13540,7 +13540,7 @@ romunske	Ppnzer	romunski-p	romunska
 vlade	Sozer	vlada-s	
 .	SENT	.-s	
 </s>
-<s id="2135:17" video="https://media.dipintra.it/?id=2135&start=02.42&end=02.46&collection=eptic3">
+<s id="2135:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.42&end=00.02.46">
 Romunska	Ppnzei	romunski-p	romunska
 vlada	Sozei	vlada-s	
 mora	Ggnste	morati-g	
@@ -13553,7 +13553,7 @@ to	Zk-zet	ta-z
 zakonodajo	Sozet	zakonodaja-s	
 .	SENT	.-s	
 </s>
-<s id="2135:18" video="https://media.dipintra.it/?id=2135&start=02.47&end=02.49&collection=eptic3">
+<s id="2135:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.47&end=00.02.49">
 Tretja	Kbvzei	tretji-k	
 točka	Sozei	točka-s	
 ,	U	,-u	
@@ -13563,7 +13563,7 @@ spremljanje	Sosei	spremljanje-s
 napredka	Somer	napredek-s	
 .	SENT	.-s	
 </s>
-<s id="2135:19" video="https://media.dipintra.it/?id=2135&start=02.52&end=03.05&collection=eptic3">
+<s id="2135:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.02.52&end=00.03.05">
 Prepričani	Pdnmmi	prepričan-p	prepričan
 smo	Gp-spm-n	biti-g	
 ,	U	,-u	
@@ -13596,7 +13596,7 @@ posvojitvah	Sozmm	posvojitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:20" video="https://media.dipintra.it/?id=2135&start=03.09&end=03.12&collection=eptic3">
+<s id="2135:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.09&end=00.03.12">
 Ta	Zk-zei	ta-z	
 skupina	Sozei	skupina-s	
 za	Dt	za-d	
@@ -13613,7 +13613,7 @@ komisija	Sozei	komisija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:21" video="https://media.dipintra.it/?id=2135&start=03.15&end=03.23&collection=eptic3">
+<s id="2135:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.15&end=00.03.23">
 Tudi	L	tudi-l	
 tisto	Zk-set	tisti-z	
 ,	U	,-u	
@@ -13639,14 +13639,14 @@ tega	Zk-mer	ta-z
 organa	Somer	organ-s	
 .	SENT	.-s	
 </s>
-<s id="2135:22" video="https://media.dipintra.it/?id=2135&start=03.25&end=03.27&collection=eptic3">
+<s id="2135:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.25&end=00.03.27">
 Naslednja	Ppnzei	naslednji-p	naslednja
 točka	Sozei	točka-s	
 ,	U	,-u	
 akreditacije	Sozmi	akreditacija-s	
 .	SENT	.-s	
 </s>
-<s id="2135:23" video="https://media.dipintra.it/?id=2135&start=03.28&end=03.36&collection=eptic3">
+<s id="2135:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.28&end=00.03.36">
 Komisija	Sozei	komisija-s	
 meni	Ggnste	meniti-g	
 ,	U	,-u	
@@ -13661,7 +13661,7 @@ držav	Sozmr	država-s
 članic	Sozmr	članica-s	
 .	SENT	.-s	
 </s>
-<s id="2135:24" video="https://media.dipintra.it/?id=2135&start=03.37&end=03.48&collection=eptic3">
+<s id="2135:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.37&end=00.03.48">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 del	Somei	del-s	
@@ -13684,7 +13684,7 @@ državni	Ppnzem	državen-p	državna
 ravni	Sozem	raven-s	
 .	SENT	.-s	
 </s>
-<s id="2135:25" video="https://media.dipintra.it/?id=2135&start=03.49&end=03.49&collection=eptic3">
+<s id="2135:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.49&end=00.03.49">
 In	Vp	in-v	
 še	L	še-l	
 to	Zk-sei	ta-z	
@@ -13692,7 +13692,7 @@ za	Dt	za-d
 konec	Sometn	konec-s	
 .	SENT	.-s	
 </s>
-<s id="2135:26" video="https://media.dipintra.it/?id=2135&start=03.50&end=03.53&collection=eptic3">
+<s id="2135:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.50&end=00.03.53">
 Zelo	Rsn	zelo-r	
 hvaležna	Ppnzei	hvaležen-p	hvaležna
 sem	Gp-spe-n	biti-g	
@@ -13709,7 +13709,7 @@ tej	Zk-zem	ta-z
 točki	Sozem	točka-s	
 .	SENT	.-s	
 </s>
-<s id="2135:27" video="https://media.dipintra.it/?id=2135&start=03.55&end=04.05&collection=eptic3">
+<s id="2135:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.03.55&end=00.04.05">
 Podpredsednici	Sozdt	podpredsednica-s	
 Redingovi	Psnzed	Redingovi-p	redingovi
 bom	Gp-ppe-n	biti-g	
@@ -13735,13 +13735,13 @@ odgovor	Somei	odgovor-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:28" video="https://media.dipintra.it/?id=2135&start=04.08&end=04.09&collection=eptic3">
+<s id="2135:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.08&end=00.04.09">
 Naj	L	naj-l	
 zaključim	Ggdspe	zaključiti-g	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2135:29" video="https://media.dipintra.it/?id=2135&start=04.12&end=04.22&collection=eptic3">
+<s id="2135:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.12&end=00.04.22">
 Bila	Gp-d-ez	biti-g	
 sem	Gp-spe-n	biti-g	
 botra	Sozei	botra-s	
@@ -13778,7 +13778,7 @@ za	Dt	za-d
 posvojitev	Sozet	posvojitev-s	
 .	SENT	.-s	
 </s>
-<s id="2135:30" video="https://media.dipintra.it/?id=2135&start=04.23&end=04.35&collection=eptic3">
+<s id="2135:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.23&end=00.04.35">
 Veliko	Rsn	veliko-r	
 je	Gp-ste-n	biti-g	
 ovir	Sozmr	ovira-s	
@@ -13820,7 +13820,7 @@ za	Dt	za-d
 dušo	Sozet	duša-s	
 .	SENT	.-s	
 </s>
-<s id="2135:31" video="https://media.dipintra.it/?id=2135&start=04.36&end=04.44&collection=eptic3">
+<s id="2135:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.36&end=00.04.44">
 Zato	Rsn	zato-r	
 moramo	Ggnspm	morati-g	
 moliti	Ggnn	moliti-g	
@@ -13847,7 +13847,7 @@ pravice	Sozmt	pravica-s
 otrok	Sommr	otrok-s	
 .	SENT	.-s	
 </s>
-<s id="2135:32" video="https://media.dipintra.it/?id=2135&start=04.46&end=04.47&collection=eptic3">
+<s id="2135:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.46&end=00.04.47">
 Naših	Ggdvde	Naših-g	
 otrok	Sommr	otrok-s	
 in	Vp	in-v	
@@ -13858,7 +13858,7 @@ drugih	Kbzzmr	drug-k
 držav	Sozmr	država-s	
 .	SENT	.-s	
 </s>
-<s id="2135:33" video="https://media.dipintra.it/?id=2135&start=04.47&end=04.48&collection=eptic3">
+<s id="2135:33" video="http://amelia.sslmit.unibo.it/video/video.php?id=2135.wmv&start=00.04.47&end=00.04.48">
 Hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
@@ -13870,12 +13870,12 @@ Hvala	Sozei	hvala-s
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2136:1" video="https://media.dipintra.it/?id=2136&start=00.10&end=00.11&collection=eptic3">
+<s id="2136:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.10&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 .	SENT	.-s	
 </s>
-<s id="2136:2" video="https://media.dipintra.it/?id=2136&start=00.12&end=00.17&collection=eptic3">
+<s id="2136:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.12&end=00.00.17">
 Govoril	Ggnd-em	govoriti-g	
 bom	Gp-ppe-n	biti-g	
 o	Dm	o-d	
@@ -13891,7 +13891,7 @@ pred	Do	pred-d
 božičem	Someo	božič-s	
 .	SENT	.-s	
 </s>
-<s id="2136:3" video="https://media.dipintra.it/?id=2136&start=00.18&end=00.24&collection=eptic3">
+<s id="2136:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.18&end=00.00.24">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 povzročilo	Ggdd-es	povzročiti-g	
@@ -13909,7 +13909,7 @@ s	Do	z-d
 prtljago	Sozeo	prtljaga-s	
 .	SENT	.-s	
 </s>
-<s id="2136:4" video="https://media.dipintra.it/?id=2136&start=00.25&end=00.37&collection=eptic3">
+<s id="2136:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.25&end=00.00.37">
 Naša	Zspzeim	naš-z	
 letališča	Soser	letališče-s	
 ,	U	,-u	
@@ -13946,7 +13946,7 @@ za	Dt	za-d
 potnike	Sommt	potnik-s	
 .	SENT	.-s	
 </s>
-<s id="2136:5" video="https://media.dipintra.it/?id=2136&start=00.37&end=00.48&collection=eptic3">
+<s id="2136:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.37&end=00.00.48">
 Zato	Rsn	zato-r	
 pozivam	Ggnspe	pozivati-g	
 Evropski	Ppnmeid	evropski-p	evropski
@@ -13969,7 +13969,7 @@ tega	Zk-mer	ta-z
 zastoja	Somer	zastoj-s	
 .	SENT	.-s	
 </s>
-<s id="2136:6" video="https://media.dipintra.it/?id=2136&start=00.49&end=00.51&collection=eptic3">
+<s id="2136:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.49&end=00.00.51">
 Treba	Rsn	treba-r	
 je	Gp-ste-n	biti-g	
 preprečiti	Ggdn	preprečiti-g	
@@ -13981,7 +13981,7 @@ ponovno	Rsn	ponovno-r
 ponovi	Ggdste	ponoviti-g	
 .	SENT	.-s	
 </s>
-<s id="2136:7" video="https://media.dipintra.it/?id=2136&start=00.52&end=01.03&collection=eptic3">
+<s id="2136:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.00.52&end=00.01.03">
 Prav	L	prav-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -14028,7 +14028,7 @@ odgovornost	Sozet	odgovornost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2136:8" video="https://media.dipintra.it/?id=2136&start=01.06&end=01.14&collection=eptic3">
+<s id="2136:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.01.06&end=00.01.14">
 Nizke	Ppnzmi	nizek-p	nizka
 temperature	Sozmi	temperatura-s	
 in	Vp	in-v	
@@ -14052,7 +14052,7 @@ arktičnega	Ppnmer	arktičen-p	arktični
 ledu	Somer	led-s	
 .	SENT	.-s	
 </s>
-<s id="2136:9" video="https://media.dipintra.it/?id=2136&start=01.15&end=01.19&collection=eptic3">
+<s id="2136:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.01.15&end=00.01.19">
 Teh	Zk-mmr	ta-z	
 dogodkov	Sommr	dogodek-s	
 bo	Gp-pte-n	biti-g	
@@ -14071,7 +14071,7 @@ učinek	Sometn	učinek-s
 tega	Zk-ser	ta-z	
 .	SENT	.-s	
 </s>
-<s id="2136:10" video="https://media.dipintra.it/?id=2136&start=01.20&end=01.23&collection=eptic3">
+<s id="2136:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2136.wmv&start=00.01.20&end=00.01.23">
 Ampak	Vp	ampak-v	
 kakorkoli	Rsn	kakorkoli-r	
 že	L	že-l	
@@ -14092,7 +14092,7 @@ dogodke	Sommt	dogodek-s
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="SL08" gender="F" native="Y">
-<s id="2137:1" video="https://media.dipintra.it/?id=2137&start=00.11&end=00.12&collection=eptic3">
+<s id="2137:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2137.wmv&start=00.00.11&end=00.00.12">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 kolegice	Sozmi	kolegica-s	
@@ -14100,7 +14100,7 @@ in	Vp	in-v
 kolegi	Sommi	kolega-s	
 .	SENT	.-s	
 </s>
-<s id="2137:2" video="https://media.dipintra.it/?id=2137&start=00.13&end=00.29&collection=eptic3">
+<s id="2137:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2137.wmv&start=00.00.13&end=00.00.29">
 Kot	Vd	kot-v	
 piše	Ggnste	pisati-g	
 v	Dm	v-d	
@@ -14134,7 +14134,7 @@ več	Rsr	več-r
 dogodkov	Sommr	dogodek-s	
 .	SENT	.-s	
 </s>
-<s id="2137:3" video="https://media.dipintra.it/?id=2137&start=00.30&end=00.40&collection=eptic3">
+<s id="2137:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2137.wmv&start=00.00.30&end=00.00.40">
 Tako	Rsn	tako-r	
 imenovani	Pdnmmi	imenovan-p	imenovan
 organi	Sommi	organ-s	
@@ -14157,7 +14157,7 @@ dan	Sometn	dan-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2137:4" video="https://media.dipintra.it/?id=2137&start=00.44&end=00.50&collection=eptic3">
+<s id="2137:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2137.wmv&start=00.00.44&end=00.00.50">
 Na	Dt	na-d	
 CiPIPPPERO	Slzet	CiPIPPPERO-s	
 ,	U	,-u	
@@ -14176,7 +14176,7 @@ to	Zk-sei	ta-z
 prijavljeno	Pdnsei	prijavljen-p	prijavljeno
 .	SENT	.-s	
 </s>
-<s id="2137:5" video="https://media.dipintra.it/?id=2137&start=00.51&end=00.56&collection=eptic3">
+<s id="2137:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2137.wmv&start=00.00.51&end=00.00.56">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 ,	U	,-u	
@@ -14199,7 +14199,7 @@ svobodo	Sozet	svoboda-s
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2138:1" video="https://media.dipintra.it/?id=2138&start=00.10&end=00.25&collection=eptic3">
+<s id="2138:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.10&end=00.00.25">
 Na	Dt	na-d	
 božič	Sometn	božič-s	
 so	Gp-stm-n	biti-g	
@@ -14227,7 +14227,7 @@ kristjanov	Sommr	kristjan-s
 tam	Rsn	tam-r	
 .	SENT	.-s	
 </s>
-<s id="2138:2" video="https://media.dipintra.it/?id=2138&start=00.27&end=00.30&collection=eptic3">
+<s id="2138:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.27&end=00.00.30">
 Tako	Rsn	tako-r	
 so	Gp-stm-n	biti-g	
 morali	Ggnd-mm	morati-g	
@@ -14239,7 +14239,7 @@ oditi	Ggdn	oditi-g
 domov	Rsn	domov-r	
 .	SENT	.-s	
 </s>
-<s id="2138:3" video="https://media.dipintra.it/?id=2138&start=00.31&end=00.37&collection=eptic3">
+<s id="2138:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.31&end=00.00.37">
 Pretveza	Sozei	pretveza-s	
 je	Gp-ste-n	biti-g	
 bila	Gp-d-ez	biti-g	
@@ -14258,7 +14258,7 @@ nedeljsko	Ppnzet	nedeljski-p	nedeljska
 mašo	Sozet	maša-s	
 .	SENT	.-s	
 </s>
-<s id="2138:4" video="https://media.dipintra.it/?id=2138&start=00.38&end=00.53&collection=eptic3">
+<s id="2138:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.38&end=00.00.53">
 Zahteva	Sozei	zahteva-s	
 po	Dm	po-d	
 pisnem	Ppnsem	pisen-p	pisno
@@ -14293,7 +14293,7 @@ birokratskim	Ppnmeo	birokratski-p	birokratski
 izgovorom	Someo	izgovor-s	
 .	SENT	.-s	
 </s>
-<s id="2138:5" video="https://media.dipintra.it/?id=2138&start=00.54&end=00.56&collection=eptic3">
+<s id="2138:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.54&end=00.00.56">
 Vse	Zc-sei	ves-z	
 to	Zk-sei	ta-z	
 se	Zp------k	se-z	
@@ -14306,7 +14306,7 @@ državi	Sozem	država-s
 EU	Slzer	EU-s	
 .	SENT	.-s	
 </s>
-<s id="2138:6" video="https://media.dipintra.it/?id=2138&start=00.56&end=01.01&collection=eptic3">
+<s id="2138:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.00.56&end=00.01.01">
 To	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 storili	Ggdd-mm	storiti-g	
@@ -14325,7 +14325,7 @@ uniji	Sozed	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2138:7" video="https://media.dipintra.it/?id=2138&start=01.04&end=01.12&collection=eptic3">
+<s id="2138:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.01.04&end=00.01.12">
 V	Dm	v-d	
 Harpaspinesuli	Slmem	Harpaspinesuli-s	
 je	Gp-ste-n	biti-g	
@@ -14350,7 +14350,7 @@ Dunajskem	Ppnmem	dunajski-p	dunajski
 sporazumu	Somem	sporazum-s	
 .	SENT	.-s	
 </s>
-<s id="2138:8" video="https://media.dipintra.it/?id=2138&start=01.12&end=01.14&collection=eptic3">
+<s id="2138:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.01.12&end=00.01.14">
 Danes	Rsn	danes-r	
 jih	Zotmmt--k	on-z	
 je	Gp-ste-n	biti-g	
@@ -14359,7 +14359,7 @@ le	L	le-l
 300	Kag	[number]-k	
 .	SENT	.-s	
 </s>
-<s id="2138:9" video="https://media.dipintra.it/?id=2138&start=01.15&end=01.17&collection=eptic3">
+<s id="2138:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2138.wmv&start=00.01.15&end=00.01.17">
 Sedaj	Rsn	sedaj-r	
 razumete	Ggvsdm	razumeti-g	
 ,	U	,-u	
@@ -14384,7 +14384,7 @@ malo	Rsn	malo-r
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2139:1" video="https://media.dipintra.it/?id=2139&start=00.13&end=00.18&collection=eptic3">
+<s id="2139:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.13&end=00.00.18">
 Kolegice	Sozmi	kolegica-s	
 in	Vp	in-v	
 kolegi	Sommi	kolega-s	
@@ -14401,7 +14401,7 @@ in	Vp	in-v
 Marokom	Slmeo	Marok-s	
 .	SENT	.-s	
 </s>
-<s id="2139:2" video="https://media.dipintra.it/?id=2139&start=00.19&end=00.27&collection=eptic3">
+<s id="2139:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.19&end=00.00.27">
 Prihodnost	Sozei	prihodnost-s	
 kmetijskega	Ppnmer	kmetijski-p	kmetijski
 sektorja	Somer	sektor-s	
@@ -14425,7 +14425,7 @@ trenutni	Ppnzem	trenuten-p	trenutna
 obliki	Sozem	oblika-s	
 .	SENT	.-s	
 </s>
-<s id="2139:3" video="https://media.dipintra.it/?id=2139&start=00.28&end=00.34&collection=eptic3">
+<s id="2139:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.28&end=00.00.34">
 Nujno	Rsn	nujno-r	
 moramo	Ggnspm	morati-g	
 odpreti	Ggdn	odpreti-g	
@@ -14440,14 +14440,14 @@ kmetijskim	Ppnmeo	kmetijski-p	kmetijski
 sektorjem	Someo	sektor-s	
 .	SENT	.-s	
 </s>
-<s id="2139:4" video="https://media.dipintra.it/?id=2139&start=00.35&end=00.37&collection=eptic3">
+<s id="2139:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.35&end=00.00.37">
 Ne	L	ne-l	
 za	Do	za-d	
 njihovim	Zstmeom	njihov-z	
 hrbtom	Someo	hrbet-s	
 .	SENT	.-s	
 </s>
-<s id="2139:5" video="https://media.dipintra.it/?id=2139&start=00.37&end=00.49&collection=eptic3">
+<s id="2139:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.37&end=00.00.49">
 Evropska	Ppnzei	evropski-p	evropska
 komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
@@ -14478,7 +14478,7 @@ Marokom	Slmeo	Marok-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2139:6" video="https://media.dipintra.it/?id=2139&start=00.52&end=00.59&collection=eptic3">
+<s id="2139:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.00.52&end=00.00.59">
 Ta	Zk-mei	ta-z	
 sporazum	Somei	sporazum-s	
 pa	Vp	pa-v	
@@ -14499,7 +14499,7 @@ v	Dm	v-d
 Maroku	Slmem	Maroko-s	
 .	SENT	.-s	
 </s>
-<s id="2139:7" video="https://media.dipintra.it/?id=2139&start=01.00&end=01.11&collection=eptic3">
+<s id="2139:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.01.00&end=00.01.11">
 Če	Vd	če-v	
 ne	L	ne-l	
 storimo	Ggdspm	storiti-g	
@@ -14522,14 +14522,14 @@ sredozemskih	Ppnzmm	sredozemski-p	sredozemska
 državah	Sozmm	država-s	
 .	SENT	.-s	
 </s>
-<s id="2139:8" video="https://media.dipintra.it/?id=2139&start=01.12&end=01.14&collection=eptic3">
+<s id="2139:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.01.12&end=00.01.14">
 To	Zk-sei	ta-z	
 so	Gp-stm-n	biti-g	
 moje	Zspzmie	moj-z	
 skrbi	Sozmi	skrb-s	
 .	SENT	.-s	
 </s>
-<s id="2139:9" video="https://media.dipintra.it/?id=2139&start=01.15&end=01.16&collection=eptic3">
+<s id="2139:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2139.wmv&start=00.01.15&end=00.01.16">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -14545,12 +14545,12 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2140:1" video="https://media.dipintra.it/?id=2140&start=00.12&end=00.13&collection=eptic3">
+<s id="2140:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.12&end=00.00.13">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 .	SENT	.-s	
 </s>
-<s id="2140:2" video="https://media.dipintra.it/?id=2140&start=00.14&end=00.29&collection=eptic3">
+<s id="2140:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.14&end=00.00.29">
 Ljudje	Sommi	človek-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -14570,20 +14570,20 @@ tudi	L	tudi-l
 haggis	Somei	haggis-s	
 .	SENT	.-s	
 </s>
-<s id="2140:3" video="https://media.dipintra.it/?id=2140&start=00.30&end=00.31&collection=eptic3">
+<s id="2140:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.30&end=00.00.31">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 to	Zk-sei	ta-z	
 .	SENT	.-s	
 </s>
-<s id="2140:4" video="https://media.dipintra.it/?id=2140&start=00.32&end=00.33&collection=eptic3">
+<s id="2140:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.32&end=00.00.33">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 dediščina	Sozei	dediščina-s	
 Škotske	Slzer	Škotska-s	
 .	SENT	.-s	
 </s>
-<s id="2140:5" video="https://media.dipintra.it/?id=2140&start=00.35&end=00.40&collection=eptic3">
+<s id="2140:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.35&end=00.00.40">
 Poskušajo	Ggnstm	Poskušajo-g	
 in	Vp	in-v	
 bi	Gp-g	biti-g	
@@ -14594,7 +14594,7 @@ haggis	Somei	haggis-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2140:6" video="https://media.dipintra.it/?id=2140&start=00.42&end=00.54&collection=eptic3">
+<s id="2140:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2140.wmv&start=00.00.42&end=00.00.54">
 Škotski	Ppnmmi	škotski-p	škotski
 haggis	Sommi	haggis-s	
 bi	Gp-g	biti-g	
@@ -14631,7 +14631,7 @@ kosil	Ggnd-em	kositi-g
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="161" duration="short" durations="71.0" speed="medium" speedwm="136.1" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2141:1" video="https://media.dipintra.it/?id=2141&start=00.11&end=00.22&collection=eptic3">
+<s id="2141:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.00.11&end=00.00.22">
 Predsednik	Somei	predsednik-s	
 ,	U	,-u	
 decembra	Somer	december-s	
@@ -14658,7 +14658,7 @@ Kazahstanu	Slmem	Kazahstan-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2141:2" video="https://media.dipintra.it/?id=2141&start=00.25&end=00.32&collection=eptic3">
+<s id="2141:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.00.25&end=00.00.32">
 To	Zk-sei	ta-z	
 naj	L	naj-l	
 bi	Gp-g	biti-g	
@@ -14676,7 +14676,7 @@ v	Dm	v-d
 decembru	Somem	december-s	
 .	SENT	.-s	
 </s>
-<s id="2141:3" video="https://media.dipintra.it/?id=2141&start=00.35&end=00.51&collection=eptic3">
+<s id="2141:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.00.35&end=00.00.51">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 so	Gp-stm-n	biti-g	
@@ -14719,21 +14719,21 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2141:4" video="https://media.dipintra.it/?id=2141&start=00.56&end=00.58&collection=eptic3">
+<s id="2141:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.00.56&end=00.00.58">
 Kazahstanska	Ppnzei	kazahstanski-p	kazahstanska
 opozicija	Sozei	opozicija-s	
 se	Zp------k	se-z	
 zapira	Ggnste	zapirati-g	
 .	SENT	.-s	
 </s>
-<s id="2141:5" video="https://media.dipintra.it/?id=2141&start=01.00&end=01.03&collection=eptic3">
+<s id="2141:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.01.00&end=00.01.03">
 Nazarbajev	Psnmein	Nazarbajev-p	nazarbajev
 izvaja	Ggnste	izvajati-g	
 svojo	Zp-zet	svoj-z	
 diktaturo	Sozet	diktatura-s	
 .	SENT	.-s	
 </s>
-<s id="2141:6" video="https://media.dipintra.it/?id=2141&start=01.04&end=01.24&collection=eptic3">
+<s id="2141:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.01.04&end=00.01.24">
 Sindikate	Sommt	sindikat-s	
 je	Gp-ste-n	biti-g	
 treba	Rsn	treba-r	
@@ -14766,7 +14766,7 @@ Ben	Slmei	Ben-s
 Alija	Slmei	Alija-s	
 .	SENT	.-s	
 </s>
-<s id="2141:7" video="https://media.dipintra.it/?id=2141&start=01.24&end=01.26&collection=eptic3">
+<s id="2141:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2141.wmv&start=00.01.24&end=00.01.26">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 ,	U	,-u	
@@ -14782,7 +14782,7 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2410:1" video="https://media.dipintra.it/?id=2410&start=00:11.7&end=00:19.9&collection=eptic3">
+<s id="2410:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=00:11.7&end=00:19.9">
 Tudi	L	tudi-l	
 sama	Ppnzei	sam-p	sama
 sem	Gp-spe-n	biti-g	
@@ -14805,7 +14805,7 @@ pravica	Sozei	pravica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2410:2" video="https://media.dipintra.it/?id=2410&start=00:20.1&end=00:31.7&collection=eptic3">
+<s id="2410:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=00:20.1&end=00:31.7">
 Ta	DYSF	taa	
 pravica	Sozei	pravica-s	
 je	Gp-ste-n	biti-g	
@@ -14835,7 +14835,7 @@ Rizokarpaso	Slmei	Rizokarpaso-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2410:3" video="https://media.dipintra.it/?id=2410&start=00:33.6&end=00:40.4&collection=eptic3">
+<s id="2410:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=00:33.6&end=00:40.4">
 Ehm	FPAUSE	Ehm-g	
 turški	Ppnmetd	turški-p	turški
 o-	DYSF	o-s	
@@ -14851,7 +14851,7 @@ maše	Sozer	maša-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2410:4" video="https://media.dipintra.it/?id=2410&start=00:42.6&end=00:47.9&collection=eptic3">
+<s id="2410:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=00:42.6&end=00:47.9">
 ...	EPAUSE	...-u	
 Grške	Ppnmed	Grške-p	grške
 ehm	FPAUSE	ehm-s	
@@ -14863,7 +14863,7 @@ cerkve	Sozer	cerkev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2410:5" video="https://media.dipintra.it/?id=2410&start=00:48.3&end=01:08.5&collection=eptic3">
+<s id="2410:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=00:48.3&end=01:08.5">
 Treba	Rsn	treba-r	
 je	Gp-ste-n	biti-g	
 jasno	Ppnsei	jasen-p	jasno
@@ -14902,7 +14902,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2410:6" video="https://media.dipintra.it/?id=2410&start=01:09.3&end=01:23.7&collection=eptic3">
+<s id="2410:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2410.wmv&start=01:09.3&end=01:23.7">
 Treba	Rsn	treba-r	
 je	Gp-ste-n	biti-g	
 ustaviti	Ggdn	ustaviti-g	
@@ -14939,7 +14939,7 @@ Cipra	Slmer	Ciper-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2411:1" video="https://media.dipintra.it/?id=2411&start=00:11.3&end=00:19.3&collection=eptic3">
+<s id="2411:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:11.3&end=00:19.3">
 Direktiva	Sozei	direktiva-s	
 o	Dm	o-d	
 dodatkih	Sommm	dodatek-s	
@@ -14959,7 +14959,7 @@ uveljavljena	DYSF	u_veljavljena
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:2" video="https://media.dipintra.it/?id=2411&start=00:19.4&end=00:27.6&collection=eptic3">
+<s id="2411:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:19.4&end=00:27.6">
 Komisija	Sozei	komisija-s	
 je	Gp-ste-n	biti-g	
 podala	Ggvd-ez	podati-g	
@@ -14990,7 +14990,7 @@ dodatkih	Sommm	dodatek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:3" video="https://media.dipintra.it/?id=2411&start=00:28.2&end=00:38.0&collection=eptic3">
+<s id="2411:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:28.2&end=00:38.0">
 To	Zk-sei	ta-z	
 pomeni	Ggvste	pomeniti-g	
 <g/>
@@ -15016,7 +15016,7 @@ državah	Sozmm	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:4" video="https://media.dipintra.it/?id=2411&start=00:38.7&end=00:45.6&collection=eptic3">
+<s id="2411:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:38.7&end=00:45.6">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 pošteno	Ppnsei	pošten-p	pošteno
@@ -15041,7 +15041,7 @@ količine	Sozmt	količina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:5" video="https://media.dipintra.it/?id=2411&start=00:47.1&end=00:49.1&collection=eptic3">
+<s id="2411:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:47.1&end=00:49.1">
 Iz-	DYSF	Iz-s	
 to	Zk-set	ta-z	
 je	Gp-ste-n	biti-g	
@@ -15052,7 +15052,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:6" video="https://media.dipintra.it/?id=2411&start=00:49.1&end=01:02.4&collection=eptic3">
+<s id="2411:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=00:49.1&end=01:02.4">
 Vprašanje	Sosei	vprašanje-s	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -15085,7 +15085,7 @@ samovoljno	Rsn	samovoljno-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:7" video="https://media.dipintra.it/?id=2411&start=01:02.6&end=01:09.4&collection=eptic3">
+<s id="2411:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=01:02.6&end=01:09.4">
 Potrebujemo	Ggnspm	potrebovati-g	
 evropsko	Ppnzet	evropski-p	evropska
 zakonodajo	Sozet	zakonodaja-s	
@@ -15106,7 +15106,7 @@ oteževala	DYSF	oteže_vala
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2411:8" video="https://media.dipintra.it/?id=2411&start=01:09.4&end=01:16.0&collection=eptic3">
+<s id="2411:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2411.wmv&start=01:09.4&end=01:16.0">
 Potrebujemo	Ggnspm	potrebovati-g	
 standardizacijo	Sozet	standardizacija-s	
 <g/>
@@ -15142,7 +15142,7 @@ stori	Ggdste	storiti-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2412:1" video="https://media.dipintra.it/?id=2412&start=00:10.3&end=00:14.4&collection=eptic3">
+<s id="2412:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:10.3&end=00:14.4">
 Postavil	Ggdd-em	postaviti-g	
 bi	Gp-g	biti-g	
 nekaj	Rsn	nekaj-r	
@@ -15156,7 +15156,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2412:2" video="https://media.dipintra.it/?id=2412&start=00:17.6&end=00:21.9&collection=eptic3">
+<s id="2412:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:17.6&end=00:21.9">
 Vem	Ggnspe	vedeti-g	
 <g/>
 ,	U	,-u	
@@ -15177,7 +15177,7 @@ potrebujejo	Ggnstm	potrebovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2412:3" video="https://media.dipintra.it/?id=2412&start=00:21.9&end=00:24.0&collection=eptic3">
+<s id="2412:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:21.9&end=00:24.0">
 Pogosto	Rsn	pogosto-r	
 se	Zp------k	se-z	
 to	Zk-sei	ta-z	
@@ -15188,7 +15188,7 @@ organizacij	Sozmr	organizacija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2412:4" video="https://media.dipintra.it/?id=2412&start=00:24.7&end=00:41.4&collection=eptic3">
+<s id="2412:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:24.7&end=00:41.4">
 Zanima	Ggnste	zanimati-g	
 me	Zop-et--k	jaz-z	
 <g/>
@@ -15239,7 +15239,7 @@ težave	Sozmt	težava-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="2412:5" video="https://media.dipintra.it/?id=2412&start=00:42.3&end=00:57.8&collection=eptic3">
+<s id="2412:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:42.3&end=00:57.8">
 Ali	Vp	ali-v	
 nevladne	Ppnzmi	nevladen-p	nevladna
 organizacije	DYSF	organizaacije
@@ -15275,7 +15275,7 @@ pomoč	Sozet	pomoč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2412:6" video="https://media.dipintra.it/?id=2412&start=00:58.5&end=01:04.3&collection=eptic3">
+<s id="2412:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2412.wmv&start=00:58.5&end=01:04.3">
 Ehm	FPAUSE	Ehm-g	
 seveda	L	seveda-l	
 se	Zp------k	se-z	
@@ -15303,7 +15303,7 @@ nepravilnosti	Sozmt	nepravilnost-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2413:1" video="https://media.dipintra.it/?id=2413&start=00:14.6&end=00:28.0&collection=eptic3">
+<s id="2413:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=00:14.6&end=00:28.0">
 Pozdravljam	Ggnspe	pozdravljati-g	
 poročilo	DYSF	poročiloo
 gospe	Sozer	gospa-s	
@@ -15323,7 +15323,7 @@ pomoč	Sozet	pomoč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:2" video="https://media.dipintra.it/?id=2413&start=00:28.6&end=00:37.7&collection=eptic3">
+<s id="2413:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=00:28.6&end=00:37.7">
 Soglasje	Sosei	soglasje-s	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -15353,7 +15353,7 @@ načrt	Sometn	načrt-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:3" video="https://media.dipintra.it/?id=2413&start=00:39.8&end=00:50.1&collection=eptic3">
+<s id="2413:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=00:39.8&end=00:50.1">
 Tako	Rsn	tako-r	
 države	Sozmi	država-s	
 članice	Sozmi	članica-s	
@@ -15379,7 +15379,7 @@ izvajano	Pdnsei	izvajan-p	izvajano
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:4" video="https://media.dipintra.it/?id=2413&start=00:52.5&end=01:09.0&collection=eptic3">
+<s id="2413:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=00:52.5&end=01:09.0">
 ...	EPAUSE	...-u	
 Iz	Dr	iz-d	
 poročila	DYSF	poročilaa
@@ -15410,7 +15410,7 @@ soglasja	Soser	soglasje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:5" video="https://media.dipintra.it/?id=2413&start=01:13.3&end=01:31.6&collection=eptic3">
+<s id="2413:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=01:13.3&end=01:31.6">
 ...	EPAUSE	...-u	
 Štiri	Kbgzmt	štirje-k	
 petine	DYSF	petinee	
@@ -15448,7 +15448,7 @@ nevtralna	Ppnzei	nevtralen-p	nevtralna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:6" video="https://media.dipintra.it/?id=2413&start=01:31.6&end=01:32.7&collection=eptic3">
+<s id="2413:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=01:31.6&end=01:32.7">
 Naj	Vd	naj-v	
 vam	Zod-md	ti-z	
 podam	Ggvspe	podati-g	
@@ -15457,7 +15457,7 @@ primer	Sometn	primer-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:7" video="https://media.dipintra.it/?id=2413&start=01:33.7&end=01:51.2&collection=eptic3">
+<s id="2413:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=01:33.7&end=01:51.2">
 Pravkar	Rsn	pravkar-r	
 sem	Gp-spe-n	biti-g	
 se	Zp------k	se-z	
@@ -15500,7 +15500,7 @@ Houti	Slmei	Houti-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:8" video="https://media.dipintra.it/?id=2413&start=01:52.1&end=02:06.2&collection=eptic3">
+<s id="2413:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=01:52.1&end=02:06.2">
 Prvič	Rsn	prvič-r	
 smo	Gp-spm-n	biti-g	
 dobili	Ggdd-mm	dobiti-g	
@@ -15538,7 +15538,7 @@ nevtralnosti	Sozer	nevtralnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:9" video="https://media.dipintra.it/?id=2413&start=02:07.0&end=02:25.3&collection=eptic3">
+<s id="2413:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:07.0&end=02:25.3">
 Več	Rsr	več-r	
 ur	Sozmr	ura-s	
 <g/>
@@ -15586,7 +15586,7 @@ stiski	Sozem	stiska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:10" video="https://media.dipintra.it/?id=2413&start=02:27.3&end=02:38.4&collection=eptic3">
+<s id="2413:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:27.3&end=02:38.4">
 ...	EPAUSE	...-u	
 Tukaj	Rsn	tukaj-r	
 govorimo	Ggnspm	govoriti-g	
@@ -15595,7 +15595,7 @@ o	Dm	o-d
 <g/>
 .	U	.-u	
 </s>
-<s id="2413:11" video="https://media.dipintra.it/?id=2413&start=02:38.4&end=02:42.9&collection=eptic3">
+<s id="2413:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:38.4&end=02:42.9">
 000	Kag	[number]-k	
 beguncih	Sommm	begunec-s	
 v	Dm	v-d	
@@ -15618,7 +15618,7 @@ na	Dt	na-d
 <g/>
 .	U	.-u	
 </s>
-<s id="2413:12" video="https://media.dipintra.it/?id=2413&start=02:42.9&end=02:46.9&collection=eptic3">
+<s id="2413:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:42.9&end=02:46.9">
 000	Kag	[number]-k	
 <g/>
 ,	U	,-u	
@@ -15651,7 +15651,7 @@ Jemnu	Slmem	Jemen-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:13" video="https://media.dipintra.it/?id=2413&start=02:46.9&end=02:55.7&collection=eptic3">
+<s id="2413:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:46.9&end=02:55.7">
 Vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 dolgoročen	Ppnmein	dolgoročen-p	dolgoročni
@@ -15682,7 +15682,7 @@ mir	Sometn	mir-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:14" video="https://media.dipintra.it/?id=2413&start=02:58.8&end=03:09.8&collection=eptic3">
+<s id="2413:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=02:58.8&end=03:09.8">
 V	Dm	v-d	
 Komisiji	Sozem	komisija-s	
 smo	Gp-spm-n	biti-g	
@@ -15702,7 +15702,7 @@ partnerji	Sommo	partner-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:15" video="https://media.dipintra.it/?id=2413&start=03:10.5&end=03:15.2&collection=eptic3">
+<s id="2413:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:10.5&end=03:15.2">
 Decembra	Somer	december-s	
 2008	Kag	[number]-k	
 je	Gp-ste-n	biti-g	
@@ -15714,7 +15714,7 @@ tem	Zk-sem	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:16" video="https://media.dipintra.it/?id=2413&start=03:15.7&end=03:23.4&collection=eptic3">
+<s id="2413:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:15.7&end=03:23.4">
 Pregled	Somei	pregled-s	
 kaže	Ggnste	kazati-g	
 na	Dt	na-d	
@@ -15736,7 +15736,7 @@ odziva	Somer	odziv-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:17" video="https://media.dipintra.it/?id=2413&start=03:24.1&end=03:37.3&collection=eptic3">
+<s id="2413:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:24.1&end=03:37.3">
 Tako	Rsn	tako-r	
 ehm	FPAUSE	ehm-g	
 v	Dm	v-d	
@@ -15762,7 +15762,7 @@ družbe	Sozer	družba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:18" video="https://media.dipintra.it/?id=2413&start=03:37.9&end=03:53.5&collection=eptic3">
+<s id="2413:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:37.9&end=03:53.5">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 izboljšati	Ggdn	izboljšati-g	
@@ -15801,7 +15801,7 @@ zmogljivosti	Sozmr	zmogljivost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:19" video="https://media.dipintra.it/?id=2413&start=03:54.2&end=03:57.9&collection=eptic3">
+<s id="2413:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:54.2&end=03:57.9">
 V	Dm	v-d	
 času	Somem	čas-s	
 <g/>
@@ -15820,7 +15820,7 @@ kritično	Ppnsei	kritičen-p	kritično
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:20" video="https://media.dipintra.it/?id=2413&start=03:59.8&end=04:02.3&collection=eptic3">
+<s id="2413:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=03:59.8&end=04:02.3">
 In	Vp	in-v	
 pa	Vp	pa-v	
 potem	Rsn	potem-r	
@@ -15834,7 +15834,7 @@ odgovornosti	Sozer	odgovornost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:21" video="https://media.dipintra.it/?id=2413&start=04:03.0&end=04:11.8&collection=eptic3">
+<s id="2413:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=04:03.0&end=04:11.8">
 Prav	L	prav-l	
 gotovo	Rsn	gotovo-r	
 je	Gp-ste-n	biti-g	
@@ -15859,7 +15859,7 @@ kakovostna	Ppnzei	kakovosten-p	kakovostna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:22" video="https://media.dipintra.it/?id=2413&start=04:12.6&end=04:19.5&collection=eptic3">
+<s id="2413:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=04:12.6&end=04:19.5">
 Kaj	Zv-sei	kaj-z	
 lahko	Rsn	lahko-r	
 naredimo	Ggdspm	narediti-g	
@@ -15887,7 +15887,7 @@ odgovornost	Sozet	odgovornost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:23" video="https://media.dipintra.it/?id=2413&start=04:20.7&end=04:38.9&collection=eptic3">
+<s id="2413:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=04:20.7&end=04:38.9">
 Če	Vd	če-v	
 pregledamo	Ggdspm	pregledati-g	
 eno	Kbzzet	en-k	
@@ -15929,7 +15929,7 @@ davkoplačevalcev	Sommr	davkoplačevalec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:24" video="https://media.dipintra.it/?id=2413&start=04:39.9&end=04:46.7&collection=eptic3">
+<s id="2413:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=04:39.9&end=04:46.7">
 V	Dm	v-d	
 Jemnu	Slmem	Jemen-s	
 sem	Gp-spe-n	biti-g	
@@ -15942,7 +15942,7 @@ pomoč	Sozet	pomoč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:25" video="https://media.dipintra.it/?id=2413&start=04:47.5&end=05:03.5&collection=eptic3">
+<s id="2413:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=04:47.5&end=05:03.5">
 Druga	Kbzzei	drug-k	
 zadeva	Sozei	zadeva-s	
 <g/>
@@ -15982,7 +15982,7 @@ glasom	Someo	glas-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:26" video="https://media.dipintra.it/?id=2413&start=05:04.3&end=05:13.9&collection=eptic3">
+<s id="2413:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:04.3&end=05:13.9">
 Potrebno	Rsn	potrebno-r	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -16014,7 +16014,7 @@ nove	Ppnmmt	nov-p	novi
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:27" video="https://media.dipintra.it/?id=2413&start=05:14.9&end=05:30.2&collection=eptic3">
+<s id="2413:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:14.9&end=05:30.2">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -16065,7 +16065,7 @@ Evropi	Slzem	Evropa-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:28" video="https://media.dipintra.it/?id=2413&start=05:31.2&end=05:42.2&collection=eptic3">
+<s id="2413:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:31.2&end=05:42.2">
 Naj	Vd	naj-v	
 ehm	FPAUSE	ehm-g	
 zaključim	Ggdspe	zaključiti-g	
@@ -16093,7 +16093,7 @@ področju	Sosem	področje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:29" video="https://media.dipintra.it/?id=2413&start=05:42.9&end=05:47.0&collection=eptic3">
+<s id="2413:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:42.9&end=05:47.0">
 Pozivam	Ggnspe	pozivati-g	
 Parlament	Somei	parlament-s	
 <g/>
@@ -16109,14 +16109,14 @@ temi	Sozem	tema-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2413:30" video="https://media.dipintra.it/?id=2413&start=05:47.8&end=05:49.1&collection=eptic3">
+<s id="2413:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:47.8&end=05:49.1">
 Svet	Somei	svet-s	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
 spremenil	Ggdd-em	spremeniti-g	
 <g/>
 .	SENT	.-s	
-<s id="2413:31" video="https://media.dipintra.it/?id=2413&start=05:51.2&end=06:14.4&collection=eptic3">
+<s id="2413:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2413.wmv&start=05:51.2&end=06:14.4">
 ...	EPAUSE	...-u	
 Na	Dt	na-d	
 žalost	Sozet	žalost-s	
@@ -16187,7 +16187,7 @@ unije	Sozer	unija-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="SL08" gender="F" native="Y">
-<s id="2414:1" video="https://media.dipintra.it/?id=2414&start=00:09.5&end=00:19.0&collection=eptic3">
+<s id="2414:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:09.5&end=00:19.0">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -16220,7 +16220,7 @@ senci	Sozem	senca-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:2" video="https://media.dipintra.it/?id=2414&start=00:19.9&end=00:39.7&collection=eptic3">
+<s id="2414:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:19.9&end=00:39.7">
 Ehm	FPAUSE	Ehm-g	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -16289,7 +16289,7 @@ prehrano	Sozet	prehrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:3" video="https://media.dipintra.it/?id=2414&start=00:40.3&end=00:47.2&collection=eptic3">
+<s id="2414:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:40.3&end=00:47.2">
 To	Zk-sei	ta-z	
 poročilo	Sosei	poročilo-s	
 je	Gp-ste-n	biti-g	
@@ -16314,7 +16314,7 @@ politike	Sozer	politika-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:4" video="https://media.dipintra.it/?id=2414&start=00:47.9&end=00:53.3&collection=eptic3">
+<s id="2414:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:47.9&end=00:53.3">
 Imam	Ggnspe-n	imeti-g	
 nekaj	Rsn	nekaj-r	
 pomislekov	Sommr	pomislek-s	
@@ -16335,7 +16335,7 @@ besedilu	Sosem	besedilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:5" video="https://media.dipintra.it/?id=2414&start=00:54.1&end=01:06.3&collection=eptic3">
+<s id="2414:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:54.1&end=01:06.3">
 Reforma	DYSF	reformaa
 proizvodnje	DYSF	prezvodnje	
 je	Gp-ste-n	biti-g	
@@ -16351,7 +16351,7 @@ kmetije	Sozmi	kmetija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:6" video="https://media.dipintra.it/?id=2414&start=00:54.1&end=01:06.3&collection=eptic3">
+<s id="2414:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:54.1&end=01:06.3">
 To	Zk-sei	ta-z	
 se	Zp------k	se-z	
 mi	Zop-ed--k	jaz-z	
@@ -16362,7 +16362,7 @@ argument	Sometn	argument-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:7" video="https://media.dipintra.it/?id=2414&start=00:54.1&end=01:06.3&collection=eptic3">
+<s id="2414:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=00:54.1&end=01:06.3">
 Vse	Zc-zmt	ves-z	
 oblike	DYSF	oblikee
 kmetij	Sozdr	kmetija-s	
@@ -16370,7 +16370,7 @@ potrebujemo	Ggnspm	potrebovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:8" video="https://media.dipintra.it/?id=2414&start=01:04.4&end=01:11.9&collection=eptic3">
+<s id="2414:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=01:04.4&end=01:11.9">
 Moramo	Ggnspm	morati-g	
 se	Zp------k	se-z	
 ukvarjati	Ggnn	ukvarjati-g	
@@ -16390,7 +16390,7 @@ trgu	Somem	trg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:9" video="https://media.dipintra.it/?id=2414&start=01:12.8&end=01:16.4&collection=eptic3">
+<s id="2414:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=01:12.8&end=01:16.4">
 Gre	Ggvste	iti-g	
 tudi	L	tudi-l	
 za	Dt	za-d	
@@ -16402,7 +16402,7 @@ kmetovalce	Sommt	kmetovalec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2414:10" video="https://media.dipintra.it/?id=2414&start=01:16.9&end=01:26.4&collection=eptic3">
+<s id="2414:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2414.wmv&start=01:16.9&end=01:26.4">
 Majhni	Ppnmmi	majhen-p	majhen
 ehm	FPAUSE	ehm-p	ehm
 mladi	Ppnmmi	mlad-p	mladi
@@ -16440,7 +16440,7 @@ varnost	Sozet	varnost-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="SL07" gender="F" native="Y">
-<s id="2415:1" video="https://media.dipintra.it/?id=2415&start=00:13.3&end=00:20.6&collection=eptic3">
+<s id="2415:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:13.3&end=00:20.6">
 Kakor	Vd	kakor-v	
 drugi	Kbzmmi	drug-k	
 govorniki	Sommi	govornik-s	
@@ -16462,7 +16462,7 @@ poročilom	Soseo	poročilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2415:2" video="https://media.dipintra.it/?id=2415&start=00:21.2&end=00:27.5&collection=eptic3">
+<s id="2415:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:21.2&end=00:27.5">
 Pokrila	Ggdd-ez	pokriti-g	
 je	DYSF	jee
 <g/>
@@ -16480,7 +16480,7 @@ predvsem	L	predvsem-l
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2415:3" video="https://media.dipintra.it/?id=2415&start=00:28.3&end=00:37.5&collection=eptic3">
+<s id="2415:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:28.3&end=00:37.5">
 Dobro	Rsn	dobro-r	
 SKP	Sozmr	SKP-s	
 <g/>
@@ -16511,7 +16511,7 @@ politika	Sozei	politika-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2415:4" video="https://media.dipintra.it/?id=2415&start=00:38.3&end=00:44.6&collection=eptic3">
+<s id="2415:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:38.3&end=00:44.6">
 In	Vp	in-v	
 drugič	Rsn	drugič-r	
 potem	Rsn	potem-r	
@@ -16530,7 +16530,7 @@ kmetovanje	Soset	kmetovanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2415:5" video="https://media.dipintra.it/?id=2415&start=00:46.1&end=00:47.2&collection=eptic3">
+<s id="2415:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:46.1&end=00:47.2">
 Pa	Vp	pa-v	
 še	L	še-l	
 nekaj	Zn-set	nekaj-z	
@@ -16540,7 +16540,7 @@ omenil	Ggdd-em	omeniti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2415:6" video="https://media.dipintra.it/?id=2415&start=00:48.0&end=01:11.3&collection=eptic3">
+<s id="2415:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2415.wmv&start=00:48.0&end=01:11.3">
 Glede	Rsn	glede-r	
 na	Dt	na-d	
 to	Zk-set	ta-z	
@@ -16605,7 +16605,7 @@ vsega	Zc-ser	ves-z
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="SL18" gender="M" native="Y">
-<s id="2416:1" video="https://media.dipintra.it/?id=2416&start=00:11.1&end=00:44.2&collection=eptic3">
+<s id="2416:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2416.wmv&start=00:11.1&end=00:44.2">
 Razpravljamo	DYSF	razpravljamoo
 o	DYSF	oo
 najrevnejših	DYSF	naj_revnejših
@@ -16641,7 +16641,7 @@ kmetijstvu	Sosem	kmetijstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2416:2" video="https://media.dipintra.it/?id=2416&start=00:23.5&end=00:44.2&collection=eptic3">
+<s id="2416:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2416.wmv&start=00:23.5&end=00:44.2">
 ...	EPAUSE	...-u	
 Kajti	Vp	kajti-v	
 ti	Zk-mmi	ta-z	
@@ -16677,7 +16677,7 @@ mizi	Sozem	miza-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2416:3" video="https://media.dipintra.it/?id=2416&start=00:46.3&end=01:05.1&collection=eptic3">
+<s id="2416:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2416.wmv&start=00:46.3&end=01:05.1">
 Kmetijski	Ppnmeid	kmetijski-p	kmetijski
 sektor	Somei	sektor-s	
 in	Vp	in-v	
@@ -16725,7 +16725,7 @@ generacij	Sozmr	generacija-s
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="433" duration="medium" durations="234.0" speed="slow" speedwm="111.0" delivery="read">
 <interpreter id="SL08" gender="F" native="Y">
-<s id="2417:1" video="https://media.dipintra.it/?id=2417&start=00:13.7&end=00:17.3&collection=eptic3">
+<s id="2417:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:13.7&end=00:17.3">
 Komisija	Sozei	komisija-s	
 pozdravlja	Ggnste	pozdravljati-g	
 to	DYSF	too	
@@ -16734,7 +16734,7 @@ poročilo	Sosei	poročilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:2" video="https://media.dipintra.it/?id=2417&start=00:17.9&end=00:29.1&collection=eptic3">
+<s id="2417:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:17.9&end=00:29.1">
 Cene	Sozmi	cena-s	
 živil	Sosmr	živilo-s	
 strmo	Rsn	strmo-r	
@@ -16766,7 +16766,7 @@ cene	Sozmt	cena-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:3" video="https://media.dipintra.it/?id=2417&start=00:29.9&end=00:38.0&collection=eptic3">
+<s id="2417:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:29.9&end=00:38.0">
 Zato	Rsn	zato-r	
 se	Zp------k	se-z	
 zahvaljujem	Ggnspe	zahvaljevati-g	
@@ -16784,7 +16784,7 @@ prizadevanja	Sosmt	prizadevanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:4" video="https://media.dipintra.it/?id=2417&start=00:38.7&end=00:46.5&collection=eptic3">
+<s id="2417:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:38.7&end=00:46.5">
 Prehranska	Ppnzei	prehranski-p	prehranska
 varnost	Sozei	varnost-s	
 je	Gp-ste-n	biti-g	
@@ -16805,7 +16805,7 @@ lakoto	Sozet	lakota-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:5" video="https://media.dipintra.it/?id=2417&start=00:48.6&end=00:53.1&collection=eptic3">
+<s id="2417:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:48.6&end=00:53.1">
 Je	Gp-ste-n	biti-g	
 pa	Vp	pa-v	
 to	Zk-sei	ta-z	
@@ -16820,7 +16820,7 @@ Evropi	Slzem	Evropa-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:6" video="https://media.dipintra.it/?id=2417&start=00:53.8&end=01:01.3&collection=eptic3">
+<s id="2417:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=00:53.8&end=01:01.3">
 Za	Dt	za-d	
 njih	Zotmmt	on-z	
 je	Gp-ste-n	biti-g	
@@ -16834,7 +16834,7 @@ pomena	Somer	pomen-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:7" video="https://media.dipintra.it/?id=2417&start=01:02.0&end=01:12.8&collection=eptic3">
+<s id="2417:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:02.0&end=01:12.8">
 Skupna	Ppnzei	skupen-p	skupna
 kmetijska	Ppnzei	kmetijski-p	kmetijska
 politika	Sozei	politika-s	
@@ -16861,7 +16861,7 @@ cenah	Sozmm	cena-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:8" video="https://media.dipintra.it/?id=2417&start=01:13.5&end=01:26.3&collection=eptic3">
+<s id="2417:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:13.5&end=01:26.3">
 Prehranska	Ppnzei	prehranski-p	prehranska
 varnost	Sozei	varnost-s	
 je	Gp-ste-n	biti-g	
@@ -16870,7 +16870,7 @@ pomena	Somer	pomen-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:9" video="https://media.dipintra.it/?id=2417&start=01:13.5&end=01:26.3&collection=eptic3">
+<s id="2417:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:13.5&end=01:26.3">
 Tako	Rsn	tako-r	
 ugotavlja	Ggnste	ugotavljati-g	
 sporočilo	Soset	sporočilo-s	
@@ -16893,14 +16893,14 @@ sprejeto	Pdnsei	sprejet-p	sprejeto
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:10" video="https://media.dipintra.it/?id=2417&start=01:13.5&end=01:26.3&collection=eptic3">
+<s id="2417:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:13.5&end=01:26.3">
 novembra	Somer	november-s	
 v	Dm	v-d	
 Komisiji	Sozem	komisija-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:11" video="https://media.dipintra.it/?id=2417&start=01:31.0&end=01:44.9&collection=eptic3">
+<s id="2417:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:31.0&end=01:44.9">
 ...	EPAUSE	...-u	
 Poročilo	Soset	poročilo-s	
 <g/>
@@ -16943,7 +16943,7 @@ potrošnike	Sommt	potrošnik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:12" video="https://media.dipintra.it/?id=2417&start=01:45.7&end=01:50.5&collection=eptic3">
+<s id="2417:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:45.7&end=01:50.5">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 strinja	Ggnste	strinjati-g	
@@ -16960,7 +16960,7 @@ cen	Sozmr	cena-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:13" video="https://media.dipintra.it/?id=2417&start=01:51.3&end=01:58.5&collection=eptic3">
+<s id="2417:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:51.3&end=01:58.5">
 Skupaj	Rsn	skupaj-r	
 si	Zp---d--k	se-z	
 moramo	Ggnspm	morati-g	
@@ -16984,7 +16984,7 @@ področju	Sosem	področje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:14" video="https://media.dipintra.it/?id=2417&start=01:59.1&end=02:05.5&collection=eptic3">
+<s id="2417:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=01:59.1&end=02:05.5">
 To	Zk-sei	ta-z	
 zagot-	DYSF	zagot-s	
 to	Zk-set	ta-z	
@@ -17004,7 +17004,7 @@ trgov	Sommr	trg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:15" video="https://media.dipintra.it/?id=2417&start=02:06.1&end=02:15.4&collection=eptic3">
+<s id="2417:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=02:06.1&end=02:15.4">
 Poročilo	Sosei	poročilo-s	
 priporoča	Ggnste	priporočati-g	
 <g/>
@@ -17018,7 +17018,7 @@ hrane	Sozer	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:16" video="https://media.dipintra.it/?id=2417&start=02:16.2&end=02:45.8&collection=eptic3">
+<s id="2417:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=02:16.2&end=02:45.8">
 In	Vp	in-v	
 to	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
@@ -17088,7 +17088,7 @@ letu	Sosem	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:17" video="https://media.dipintra.it/?id=2417&start=02:46.5&end=02:56.0&collection=eptic3">
+<s id="2417:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=02:46.5&end=02:56.0">
 Potrebno	Ppnsei	potreben-p	potrebno
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -17116,7 +17116,7 @@ cenam	Sozmd	cena-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:18" video="https://media.dipintra.it/?id=2417&start=02:56.9&end=03:13.2&collection=eptic3">
+<s id="2417:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=02:56.9&end=03:13.2">
 Vsa	Zc-smi	ves-z	
 ta	Zk-smi	ta-z	
 <g/>
@@ -17149,7 +17149,7 @@ aktivna	Ppnzei	aktiven-p	aktivna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:19" video="https://media.dipintra.it/?id=2417&start=03:17.5&end=03:42.9&collection=eptic3">
+<s id="2417:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=03:17.5&end=03:42.9">
 ...	EPAUSE	...-u	
 Ehm	FPAUSE	Ehm-s	
 številni	Ppnmmi	številen-p	številen
@@ -17200,7 +17200,7 @@ več	Rsr	več-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:20" video="https://media.dipintra.it/?id=2417&start=03:42.7&end=03:45.0&collection=eptic3">
+<s id="2417:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=03:42.7&end=03:45.0">
 Komisija	Sozei	komisija-s	
 se	Zp------k	se-z	
 s	Do	z-d	
@@ -17210,7 +17210,7 @@ strinja	Ggnste	strinjati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:21" video="https://media.dipintra.it/?id=2417&start=03:45.6&end=03:58.2&collection=eptic3">
+<s id="2417:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=03:45.6&end=03:58.2">
 Nobenega	Zl-mer	noben-z	
 drugega	Kbzmer	drug-k	
 inštrumenta	Somer	inštrument-s	
@@ -17242,7 +17242,7 @@ kmetijstva	Soser	kmetijstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2417:22" video="https://media.dipintra.it/?id=2417&start=03:59.2&end=04:07.6&collection=eptic3">
+<s id="2417:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2417.wmv&start=03:59.2&end=04:07.6">
 Na	Dt	na-d	
 ta-	DYSF	ta-s	
 zagotoviti	Ggdn	zagotoviti-g	
@@ -17273,7 +17273,7 @@ sektorju	Somem	sektor-s
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="SL20" gender="F" native="NA">
-<s id="2418:1" video="https://media.dipintra.it/?id=2418&start=00:13.4&end=00:45.5&collection=eptic3">
+<s id="2418:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2418.wmv&start=00:13.4&end=00:45.5">
 Gospa	DYSF	gospaa	
 ehm	FPAUSE	ehm-g	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
@@ -17336,7 +17336,7 @@ predsedovanja	Soser	predsedovanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2418:2" video="https://media.dipintra.it/?id=2418&start=00:46.2&end=00:52.4&collection=eptic3">
+<s id="2418:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2418.wmv&start=00:46.2&end=00:52.4">
 Dovolite	Ggdvdm	dovoliti-g	
 <g/>
 ,	U	,-u	
@@ -17362,7 +17362,7 @@ jeziku	Somem	jezik-s
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="SL09" gender="F" native="NA">
-<s id="2419:1" video="https://media.dipintra.it/?id=2419&start=00:10.0&end=00:12.2&collection=eptic3">
+<s id="2419:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=00:10.0&end=00:12.2">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospa	Sozei	gospa-s	
@@ -17370,7 +17370,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:2" video="https://media.dipintra.it/?id=2419&start=00:12.9&end=00:29.8&collection=eptic3">
+<s id="2419:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=00:12.9&end=00:29.8">
 Spoštovani	Pdnmeid	spoštovan-p	spoštovani
 poslanke	Sozmi	poslanka-s	
 in	Vp	in-v	
@@ -17404,7 +17404,7 @@ Srbijo	Slzeo	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:3" video="https://media.dipintra.it/?id=2419&start=00:30.4&end=00:41.1&collection=eptic3">
+<s id="2419:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=00:30.4&end=00:41.1">
 Ehm	FPAUSE	Ehm-g	
 izražam	Ggnspe	izražati-g	
 tudi	L	tudi-l	
@@ -17430,7 +17430,7 @@ Srbiji	Slzem	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:4" video="https://media.dipintra.it/?id=2419&start=00:41.7&end=00:50.2&collection=eptic3">
+<s id="2419:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=00:41.7&end=00:50.2">
 Stabilizacijski	Ppnmeid	stabilizacijski-p	stabilizacijski
 pridružitveni	Ppnmeid	pridružitven-p	pridružitveni
 sporazum	Somei	sporazum-s	
@@ -17450,7 +17450,7 @@ uniji	Sozed	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:5" video="https://media.dipintra.it/?id=2419&start=00:50.8&end=01:14.5&collection=eptic3">
+<s id="2419:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=00:50.8&end=01:14.5">
 Temeljni	Ppnmeid	temeljen-p	temeljni
 cilj	Somei	cilj-s	
 tega	Zk-mer	ta-z	
@@ -17498,7 +17498,7 @@ regiji	Sozem	regija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:6" video="https://media.dipintra.it/?id=2419&start=01:15.0&end=01:52.4&collection=eptic3">
+<s id="2419:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=01:15.0&end=01:52.4">
 Stabilizacijski	Ppnmetd	stabilizacijski-p	stabilizacijski
 in	Vp	in-v	
 pridružitveni	Ppnmetd	pridružitven-p	pridružitveni
@@ -17572,7 +17572,7 @@ Srbijo	Slzeo	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:7" video="https://media.dipintra.it/?id=2419&start=01:53.0&end=02:07.9&collection=eptic3">
+<s id="2419:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=01:53.0&end=02:07.9">
 Potem	Rsn	potem-r	
 vzpostavitev	Sozet	vzpostavitev-s	
 prosto	Rsn	prosto-r	
@@ -17604,7 +17604,7 @@ Srbiji	Slzed	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:8" video="https://media.dipintra.it/?id=2419&start=02:08.5&end=02:30.1&collection=eptic3">
+<s id="2419:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=02:08.5&end=02:30.1">
 Ehm	FPAUSE	Ehm-g	
 in	Vp	in-v	
 kot	Vd	kot-v	
@@ -17613,7 +17613,7 @@ v	Dm	v-d
 <g/>
 .	U	.-u	
 </s>
-<s id="2419:9" video="https://media.dipintra.it/?id=2419&start=02:08.5&end=02:30.1&collection=eptic3">
+<s id="2419:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=02:08.5&end=02:30.1">
 letih	Sommm	let-s	
 <g/>
 ,	U	,-u	
@@ -17658,7 +17658,7 @@ okviru	Somed	okvir-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:10" video="https://media.dipintra.it/?id=2419&start=02:30.6&end=02:45.8&collection=eptic3">
+<s id="2419:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=02:30.6&end=02:45.8">
 Prav	L	prav-l	
 tako	Rsn	tako-r	
 je	Gp-ste-n	biti-g	
@@ -17669,7 +17669,7 @@ pomembno	Ppnsei	pomemben-p	pomembno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:11" video="https://media.dipintra.it/?id=2419&start=02:46.4&end=03:01.7&collection=eptic3">
+<s id="2419:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=02:46.4&end=03:01.7">
 Srbski	Ppnmeid	srbski-p	srbski
 trg	Somei	trg-s	
 se	Zp------k	se-z	
@@ -17690,7 +17690,7 @@ gospodarstvenike	Sommt	gospodarstvenik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:12" video="https://media.dipintra.it/?id=2419&start=02:46.4&end=03:01.7&collection=eptic3">
+<s id="2419:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=02:46.4&end=03:01.7">
 Ehm	FPAUSE	Ehm-g	
 potem	Rsn	potem-r	
 je	Gp-ste-n	biti-g	
@@ -17729,7 +17729,7 @@ trgu	Somem	trg-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:13" video="https://media.dipintra.it/?id=2419&start=03:02.3&end=03:11.8&collection=eptic3">
+<s id="2419:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=03:02.3&end=03:11.8">
 Tu	Rsn	tu-r	
 so	Gp-stm-n	biti-g	
 pravila	Sosmi	pravilo-s	
@@ -17766,7 +17766,7 @@ standardom	Sommd	standard-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:14" video="https://media.dipintra.it/?id=2419&start=03:16.7&end=03:26.0&collection=eptic3">
+<s id="2419:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=03:16.7&end=03:26.0">
 Tu	DYSF	tuu
 je	Gp-ste-n	biti-g	
 tudi	L	tudi-l	
@@ -17786,7 +17786,7 @@ odprto	Pdnsei	odprt-p	odprto
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:15" video="https://media.dipintra.it/?id=2419&start=03:26.5&end=03:50.8&collection=eptic3">
+<s id="2419:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=03:26.5&end=03:50.8">
 To	Zk-sei	ta-z	
 ta	Zk-smi	ta-z	
 krepitev	Sozet	krepitev-s	
@@ -17842,7 +17842,7 @@ področij	Sosmr	področje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:16" video="https://media.dipintra.it/?id=2419&start=03:51.5&end=03:57.7&collection=eptic3">
+<s id="2419:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=03:51.5&end=03:57.7">
 Ehm	FPAUSE	Ehm-g	
 tako	Rsn	tako-r	
 lahko	Rsn	lahko-r	
@@ -17866,7 +17866,7 @@ kredibilna	Ppnzei	kredibilen-p	kredibilna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:17" video="https://media.dipintra.it/?id=2419&start=03:58.3&end=04:20.2&collection=eptic3">
+<s id="2419:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=03:58.3&end=04:20.2">
 Želim	Ggnspe	želeti-g	
 poudariti	Ggdn	poudariti-g	
 še	L	še-l	
@@ -17915,7 +17915,7 @@ izvajati	Ggnn	izvajati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:18" video="https://media.dipintra.it/?id=2419&start=04:20.8&end=04:31.3&collection=eptic3">
+<s id="2419:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=04:20.8&end=04:31.3">
 S	Do	z-d	
 tem	Zk-seo	ta-z	
 je	Gp-ste-n	biti-g	
@@ -17939,14 +17939,14 @@ rezultate	Sommt	rezultat-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:19" video="https://media.dipintra.it/?id=2419&start=04:31.9&end=04:53.9&collection=eptic3">
+<s id="2419:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=04:31.9&end=04:53.9">
 Svet	Somei	svet-s	
 je	Gp-ste-n	biti-g	
 14	Kag	[number]-k	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:20" video="https://media.dipintra.it/?id=2419&start=04:31.9&end=04:53.9&collection=eptic3">
+<s id="2419:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=04:31.9&end=04:53.9">
 junija	Somer	junij-s	
 2010	Kag	[number]-k	
 sklenil	Ggdd-em	skleniti-g	
@@ -17992,7 +17992,7 @@ procesu	Somed	proces-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:21" video="https://media.dipintra.it/?id=2419&start=04:54.6&end=05:06.4&collection=eptic3">
+<s id="2419:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=04:54.6&end=05:06.4">
 Zahvaljujoč	Rd	zahvaljujoč-r	
 ehm	FPAUSE	ehm-s	
 vsesplošni	DYSF	vse_splošni
@@ -18021,7 +18021,7 @@ prišlo	Ggdd-es	priti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:22" video="https://media.dipintra.it/?id=2419&start=05:07.2&end=05:18.8&collection=eptic3">
+<s id="2419:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=05:07.2&end=05:18.8">
 Spoštovane	Pdnzmi	spoštovan-p	spoštovana
 poslanke	Sozmi	poslanka-s	
 in	Vp	in-v	
@@ -18069,7 +18069,7 @@ Kacinu	Slmed	Kacin-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:23" video="https://media.dipintra.it/?id=2419&start=05:28.4&end=05:50.6&collection=eptic3">
+<s id="2419:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=05:28.4&end=05:50.6">
 V	Dm	v-d	
 tej	Zk-zem	ta-z	
 ehm	FPAUSE	ehm-s	
@@ -18108,7 +18108,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:24" video="https://media.dipintra.it/?id=2419&start=05:51.2&end=05:55.4&collection=eptic3">
+<s id="2419:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=05:51.2&end=05:55.4">
 Tu	Rsn	tu-r	
 je	Gp-ste-n	biti-g	
 potem	Rsn	potem-r	
@@ -18120,7 +18120,7 @@ Srbije	Slzer	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:25" video="https://media.dipintra.it/?id=2419&start=05:55.9&end=06:07.1&collection=eptic3">
+<s id="2419:25" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=05:55.9&end=06:07.1">
 Bil	Gp-d-em	biti-g	
 sem	Gp-spe-n	biti-g	
 v	Dm	v-d	
@@ -18138,7 +18138,7 @@ predsedniku	Somed	predsednik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:26" video="https://media.dipintra.it/?id=2419&start=06:07.6&end=06:20.4&collection=eptic3">
+<s id="2419:26" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=06:07.6&end=06:20.4">
 Srbske	Ppnzmi	srbski-p	srbska
 obla-	DYSF	obla-s	
 oblasti	Sozer	oblast-s	
@@ -18170,7 +18170,7 @@ meseca	Somer	mesec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:27" video="https://media.dipintra.it/?id=2419&start=06:21.0&end=06:29.9&collection=eptic3">
+<s id="2419:27" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=06:21.0&end=06:29.9">
 In	DYSF	inn
 potem	Rsn	potem-r	
 tudi	L	tudi-l	
@@ -18190,7 +18190,7 @@ poročila	Soser	poročilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:28" video="https://media.dipintra.it/?id=2419&start=06:30.5&end=06:39.7&collection=eptic3">
+<s id="2419:28" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=06:30.5&end=06:39.7">
 Odgovori	Sommi	odgovor-s	
 na	Dt	na-d	
 vprašalnik	Sometn	vprašalnik-s	
@@ -18230,7 +18230,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:29" video="https://media.dipintra.it/?id=2419&start=06:49.4&end=06:57.8&collection=eptic3">
+<s id="2419:29" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=06:49.4&end=06:57.8">
 In	Vp	in-v	
 kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
@@ -18265,7 +18265,7 @@ priložnosti	Sozmt	priložnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:30" video="https://media.dipintra.it/?id=2419&start=07:01.7&end=07:17.6&collection=eptic3">
+<s id="2419:30" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=07:01.7&end=07:17.6">
 In	DYSF	inn
 dobro	Rsn	dobro-r	
 poznamo	Ggnspm	poznati-g	
@@ -18308,7 +18308,7 @@ unijo	Sozeo	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:31" video="https://media.dipintra.it/?id=2419&start=07:18.5&end=07:30.4&collection=eptic3">
+<s id="2419:31" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=07:18.5&end=07:30.4">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 <g/>
@@ -18333,7 +18333,7 @@ vključevanja	Soser	vključevanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2419:32" video="https://media.dipintra.it/?id=2419&start=07:31.0&end=07:46.8&collection=eptic3">
+<s id="2419:32" video="http://amelia.sslmit.unibo.it/video/video.php?id=2419.wmv&start=07:31.0&end=07:46.8">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 pozitivni	Ppnmetd	pozitiven-p	pozitiven
@@ -18381,7 +18381,7 @@ Balkana	Slmer	Balkan-s
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="SL09" gender="F" native="NA">
-<s id="2420:1" video="https://media.dipintra.it/?id=2420&start=00:16.4&end=00:20.5&collection=eptic3">
+<s id="2420:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:16.4&end=00:20.5">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
@@ -18401,7 +18401,7 @@ Kacinu	Slmed	Kacin-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:2" video="https://media.dipintra.it/?id=2420&start=00:21.1&end=00:26.4&collection=eptic3">
+<s id="2420:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:21.1&end=00:26.4">
 Srbija	Slzei	Srbija-s	
 <g/>
 ,	U	,-u	
@@ -18425,7 +18425,7 @@ prihodnost	Sozet	prihodnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:3" video="https://media.dipintra.it/?id=2420&start=00:27.0&end=00:32.6&collection=eptic3">
+<s id="2420:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:27.0&end=00:32.6">
 Večina	Sozei	večina-s	
 političnih	Ppnmmr	političen-p	politični
 voditeljev	Sommr	voditelj-s	
@@ -18442,7 +18442,7 @@ Srbijo	Slzet	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:4" video="https://media.dipintra.it/?id=2420&start=00:33.4&end=00:39.8&collection=eptic3">
+<s id="2420:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:33.4&end=00:39.8">
 Na	Dt	na-d	
 to	Zk-zet	ta-z	
 odločnost	Sozet	odločnost-s	
@@ -18460,7 +18460,7 @@ desetletjih	Sosmm	desetletje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:5" video="https://media.dipintra.it/?id=2420&start=00:39.9&end=00:49.7&collection=eptic3">
+<s id="2420:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:39.9&end=00:49.7">
 Prišlo	Ggdd-es	priti-g	
 je	Gp-ste-n	biti-g	
 do	Dr	do-d	
@@ -18499,7 +18499,7 @@ naprej	Rsn	naprej-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:6" video="https://media.dipintra.it/?id=2420&start=00:55.7&end=01:05.7&collection=eptic3">
+<s id="2420:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=00:55.7&end=01:05.7">
 Odločitev	Sozei	odločitev-s	
 za	Dt	za-d	
 Evropo	Slzet	Evropa-s	
@@ -18523,7 +18523,7 @@ regiji	Sozem	regija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:7" video="https://media.dipintra.it/?id=2420&start=01:06.3&end=01:16.3&collection=eptic3">
+<s id="2420:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=01:06.3&end=01:16.3">
 Ostajajo	Ggnstm	ostajati-g	
 pa	Vp	pa-v	
 še	L	še-l	
@@ -18544,7 +18544,7 @@ Kosova	Slser	Kosovo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:8" video="https://media.dipintra.it/?id=2420&start=01:16.9&end=01:31.8&collection=eptic3">
+<s id="2420:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=01:16.9&end=01:31.8">
 Mladić	Slzei	Mladić-s	
 ehm	FPAUSE	ehm-s	
 ima	Ggnste-n	imeti-g	
@@ -18572,7 +18572,7 @@ boleča	Pdnzei	boleč-p	boleča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:9" video="https://media.dipintra.it/?id=2420&start=01:33.7&end=01:45.9&collection=eptic3">
+<s id="2420:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=01:33.7&end=01:45.9">
 Potrebno	Ppnsei	potreben-p	potrebno
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -18612,7 +18612,7 @@ dobri	Ppnmmi	dober-p	dober
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:10" video="https://media.dipintra.it/?id=2420&start=01:57.6&end=02:11.7&collection=eptic3">
+<s id="2420:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=01:57.6&end=02:11.7">
 ...	EPAUSE	...-u	
 Družba	Sozei	družba-s	
 in	Vp	in-v	
@@ -18658,7 +18658,7 @@ koraki	Sommi	korak-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2420:11" video="https://media.dipintra.it/?id=2420&start=02:13.1&end=02:16.0&collection=eptic3">
+<s id="2420:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2420.wmv&start=02:13.1&end=02:16.0">
 To	Zk-sei	ta-z	
 pa	Vp	pa-v	
 so	Gp-stm-n	biti-g	
@@ -18678,7 +18678,7 @@ Srbijo	Slzet	Srbija-s
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="SL09" gender="F" native="NA">
-<s id="2421:1" video="https://media.dipintra.it/?id=2421&start=00:08.2&end=00:09.8&collection=eptic3">
+<s id="2421:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:08.2&end=00:09.8">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -18688,7 +18688,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:2" video="https://media.dipintra.it/?id=2421&start=00:11.4&end=00:15.4&collection=eptic3">
+<s id="2421:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:11.4&end=00:15.4">
 >	U	>-u	
 Srbija	Slzei	Srbija-s	
 napreduje	Ggvste	napredovati-g	
@@ -18704,7 +18704,7 @@ tako	Rsn	tako-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:3" video="https://media.dipintra.it/?id=2421&start=00:15.7&end=00:35.3&collection=eptic3">
+<s id="2421:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:15.7&end=00:35.3">
 Lani	Rsn	lani-r	
 oktobra	Somer	oktober-s	
 sem	DYSF	seem	
@@ -18752,7 +18752,7 @@ kriminalu	Somed	kriminal-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:4" video="https://media.dipintra.it/?id=2421&start=00:35.5&end=00:43.3&collection=eptic3">
+<s id="2421:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:35.5&end=00:43.3">
 Seveda	L	seveda-l	
 upamo	Ggnspm	upati-g	
 tudi	L	tudi-l	
@@ -18784,7 +18784,7 @@ Srbiji	Slzem	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:5" video="https://media.dipintra.it/?id=2421&start=00:43.8&end=00:50.3&collection=eptic3">
+<s id="2421:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:43.8&end=00:50.3">
 Poleg	Dr	poleg-d	
 tega	DYSF	teega	
 mora	DYSF	moora	
@@ -18798,7 +18798,7 @@ unije	Sozer	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:6" video="https://media.dipintra.it/?id=2421&start=00:50.7&end=01:03.4&collection=eptic3">
+<s id="2421:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=00:50.7&end=01:03.4">
 Hrvaška	Slzei	Hrvaška-s	
 <g/>
 ,	U	,-u	
@@ -18834,7 +18834,7 @@ pridruževanja	Soser	pridruževanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2421:7" video="https://media.dipintra.it/?id=2421&start=01:03.9&end=01:23.0&collection=eptic3">
+<s id="2421:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2421.wmv&start=01:03.9&end=01:23.0">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 mora	DYSF	moora
@@ -18886,7 +18886,7 @@ naprej	Rsn	naprej-r
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="SL12" gender="F" native="NA">
-<s id="2422:1" video="https://media.dipintra.it/?id=2422&start=00:10.4&end=00:13.5&collection=eptic3">
+<s id="2422:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:10.4&end=00:13.5">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
@@ -18897,7 +18897,7 @@ gospodje	Sommi	gospod-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:2" video="https://media.dipintra.it/?id=2422&start=00:14.3&end=00:21.6&collection=eptic3">
+<s id="2422:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:14.3&end=00:21.6">
 Stabilizacijsko-pridružitveni	Ppnmeid	Stabilizacijsko-pridružitveni-p	stabilizacijsko-pridružitveni
 sporazum	DYSF	spórazum
 in	Vp	in-v	
@@ -18916,7 +18916,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:3" video="https://media.dipintra.it/?id=2422&start=00:22.4&end=00:23.5&collection=eptic3">
+<s id="2422:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:22.4&end=00:23.5">
 Rad	Rsn	rad-r	
 bi	Gp-g	biti-g	
 podal	Ggvd-em	podati-g	
@@ -18925,7 +18925,7 @@ pripombi	Sozdt	pripomba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:4" video="https://media.dipintra.it/?id=2422&start=00:24.3&end=00:37.6&collection=eptic3">
+<s id="2422:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:24.3&end=00:37.6">
 Potrebno	DYSF	potreebno
 je	DYSF	jee
 ustrezno	Ppnset	ustrezen-p	ustrezno
@@ -18955,7 +18955,7 @@ interese	Sommt	interes-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:5" video="https://media.dipintra.it/?id=2422&start=00:38.3&end=00:48.1&collection=eptic3">
+<s id="2422:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:38.3&end=00:48.1">
 Nerešen	Ppnmein	nerešen-p	nerešen
 je	Gp-ste-n	biti-g	
 namreč	Vp	namreč-v	
@@ -18981,7 +18981,7 @@ kriminalom	Someo	kriminal-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:6" video="https://media.dipintra.it/?id=2422&start=00:49.0&end=00:54.9&collection=eptic3">
+<s id="2422:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=00:49.0&end=00:54.9">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 nujno	Rsn	nujno-r	
@@ -19012,7 +19012,7 @@ Srbije	Slzer	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:7" video="https://media.dipintra.it/?id=2422&start=01:01.1&end=01:02.4&collection=eptic3">
+<s id="2422:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=01:01.1&end=01:02.4">
 In	Vp	in-v	
 še	L	še-l	
 druga	Kbzzei	drug-k	
@@ -19029,7 +19029,7 @@ državo	Sozet	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:8" video="https://media.dipintra.it/?id=2422&start=01:08.0&end=01:21.2&collection=eptic3">
+<s id="2422:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=01:08.0&end=01:21.2">
 Srbija	Slzei	Srbija-s	
 ehm	FPAUSE	ehm-s	
 si	Zp---d--k	se-z	
@@ -19060,7 +19060,7 @@ zločine	Sommt	zločin-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:9" video="https://media.dipintra.it/?id=2422&start=01:23.9&end=01:30.1&collection=eptic3">
+<s id="2422:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=01:23.9&end=01:30.1">
 Letošnje	Ppnsei	letošnji-p	letošnje
 leto	Sosei	leto-s	
 je	Gp-ste-n	biti-g	
@@ -19078,7 +19078,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:10" video="https://media.dipintra.it/?id=2422&start=01:30.9&end=01:37.8&collection=eptic3">
+<s id="2422:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=01:30.9&end=01:37.8">
 Teh	Zk-mmr	ta-z	
 ehm	FPAUSE	ehm-s	
 priložnosti	Sozmr	priložnost-s	
@@ -19100,7 +19100,7 @@ državo	Sozet	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2422:11" video="https://media.dipintra.it/?id=2422&start=01:38.3&end=01:51.4&collection=eptic3">
+<s id="2422:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2422.wmv&start=01:38.3&end=01:51.4">
 Le	L	le-l	
 na	Dt	na-d	
 ta	Zk-met	ta-z	
@@ -19149,7 +19149,7 @@ prispevek	Somei	prispevek-s
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="SL12" gender="F" native="NA">
-<s id="2423:1" video="https://media.dipintra.it/?id=2423&start=00:10.4&end=00:12.4&collection=eptic3">
+<s id="2423:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:10.4&end=00:12.4">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospa	Sozei	gospa-s	
@@ -19157,7 +19157,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:2" video="https://media.dipintra.it/?id=2423&start=00:13.8&end=00:27.1&collection=eptic3">
+<s id="2423:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:13.8&end=00:27.1">
 Tudi	L	tudi-l	
 sama	Ppnzei	sam-p	sama
 bi	Gp-g	biti-g	
@@ -19191,7 +19191,7 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:3" video="https://media.dipintra.it/?id=2423&start=00:27.9&end=00:34.4&collection=eptic3">
+<s id="2423:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:27.9&end=00:34.4">
 Srbija	Slzei	Srbija-s	
 bo	Gp-pte-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -19210,7 +19210,7 @@ Balkana	Slmer	Balkan-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:4" video="https://media.dipintra.it/?id=2423&start=00:36.9&end=00:45.2&collection=eptic3">
+<s id="2423:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:36.9&end=00:45.2">
 ...	EPAUSE	...-u	
 Od	Dr	od-d	
 nekdaj	Rsn	nekdaj-r	
@@ -19234,7 +19234,7 @@ desetletje	Soset	desetletje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:5" video="https://media.dipintra.it/?id=2423&start=00:45.8&end=00:57.5&collection=eptic3">
+<s id="2423:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:45.8&end=00:57.5">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 sem	Gp-spe-n	biti-g	
@@ -19257,7 +19257,7 @@ režima	Somer	režim-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:6" video="https://media.dipintra.it/?id=2423&start=00:45.8&end=00:57.5&collection=eptic3">
+<s id="2423:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:45.8&end=00:57.5">
 In	Vp	in-v	
 vesela	Ppnzei	vesel-p	vesela
 sem	Gp-spe-n	biti-g	
@@ -19273,7 +19273,7 @@ zgodilo	DYSF	zgo_dilo
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:7" video="https://media.dipintra.it/?id=2423&start=00:58.1&end=01:05.9&collection=eptic3">
+<s id="2423:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=00:58.1&end=01:05.9">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -19295,7 +19295,7 @@ Srbijo	Slzeo	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:8" video="https://media.dipintra.it/?id=2423&start=01:08.0&end=01:11.9&collection=eptic3">
+<s id="2423:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:08.0&end=01:11.9">
 ...	EPAUSE	...-u	
 Omenjeni	Pdnmmi	omenjen-p	omenjeni
 so	Gp-stm-n	biti-g	
@@ -19313,7 +19313,7 @@ Srbija	Slzei	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:9" video="https://media.dipintra.it/?id=2423&start=01:13.3&end=01:37.2&collection=eptic3">
+<s id="2423:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:13.3&end=01:37.2">
 Sama	Ppnmdi	sam-p	sam
 bi	Gp-g	biti-g	
 rada	Rsn	rad-r	
@@ -19359,7 +19359,7 @@ vpliva	Somer	vpliv-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:10" video="https://media.dipintra.it/?id=2423&start=01:38.0&end=01:41.5&collection=eptic3">
+<s id="2423:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:38.0&end=01:41.5">
 Vsekakor	L	vsekakor-l	
 je	Gp-ste-n	biti-g	
 potrebno	Ppnsei	potreben-p	potrebno
@@ -19370,7 +19370,7 @@ države	Sozer	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:11" video="https://media.dipintra.it/?id=2423&start=01:42.0&end=01:46.6&collection=eptic3">
+<s id="2423:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:42.0&end=01:46.6">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 pa	Vp	pa-v	
@@ -19384,7 +19384,7 @@ sodiščem	Soseo	sodišče-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:12" video="https://media.dipintra.it/?id=2423&start=01:47.2&end=02:09.7&collection=eptic3">
+<s id="2423:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:47.2&end=02:09.7">
 Včeraj	DYSF	včeeraj
 je	Gp-ste-n	biti-g	
 podpredsednik	Somei	podpredsednik-s	
@@ -19407,7 +19407,7 @@ sodišu	Sosed	sodišu-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:13" video="https://media.dipintra.it/?id=2423&start=01:47.2&end=02:09.7&collection=eptic3">
+<s id="2423:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=01:47.2&end=02:09.7">
 Gospod	Somei	gospod-s	
 Brammertz	Slmei	Brammertz-s	
 pa	Vp	pa-v	
@@ -19432,7 +19432,7 @@ prizadevanj	Sosmr	prizadevanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:14" video="https://media.dipintra.it/?id=2423&start=02:11.4&end=02:15.0&collection=eptic3">
+<s id="2423:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=02:11.4&end=02:15.0">
 Nobenih	Zl-mmr	noben-z	
 pravih	Ppnmmr	pravi-p	pravi
 rezultatov	Sommr	rezultat-s	
@@ -19448,7 +19448,7 @@ proaktivna	DYSF	pro_aktivna
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2423:15" video="https://media.dipintra.it/?id=2423&start=02:17.0&end=02:24.7&collection=eptic3">
+<s id="2423:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=2423.wmv&start=02:17.0&end=02:24.7">
 ...	EPAUSE	...-u	
 In	DYSF	inn	
 ehm	FPAUSE	ehm-g	
@@ -19482,7 +19482,7 @@ premostiti	Ggdn	premostiti-g
 <speaker name="Kukan Eduard" gender="M" country="Slovakia" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="221" duration="short" durations="100.0" speed="medium" speedwm="132.6" delivery="read">
 <interpreter id="SL09" gender="F" native="NA">
-<s id="2424:1" video="https://media.dipintra.it/?id=2424&start=00:11.3&end=00:20.2&collection=eptic3">
+<s id="2424:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:11.3&end=00:20.2">
 Vesel	Ppnmein	vesel-p	vesel
 sem	Gp-spe-n	biti-g	
 <g/>
@@ -19502,7 +19502,7 @@ procesu	Somem	proces-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:2" video="https://media.dipintra.it/?id=2424&start=00:21.2&end=00:27.7&collection=eptic3">
+<s id="2424:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:21.2&end=00:27.7">
 S	Do	z-d	
 sklenitvijo	Sozeo	sklenitev-s	
 stabilizacijsko-pridružitvenega	Ppnmer	stabilizacijsko-pridružitvenega-p	stabilizacijsko-pridružitvenega
@@ -19518,7 +19518,7 @@ poti	Sozem	pot-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:3" video="https://media.dipintra.it/?id=2424&start=00:28.4&end=00:32.5&collection=eptic3">
+<s id="2424:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:28.4&end=00:32.5">
 Srbsko	Ppnzet	srbski-p	srbska
 vlado	Sozet	vlada-s	
 bi	Gp-g	biti-g	
@@ -19538,7 +19538,7 @@ sedaj	Rsn	sedaj-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:4" video="https://media.dipintra.it/?id=2424&start=00:33.1&end=00:41.4&collection=eptic3">
+<s id="2424:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:33.1&end=00:41.4">
 Prepričan	Pdnmein	prepričan-p	prepričan
 sem	Gp-spe-n	biti-g	
 <g/>
@@ -19576,7 +19576,7 @@ naprej	Rsn	naprej-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:5" video="https://media.dipintra.it/?id=2424&start=00:42.0&end=00:58.8&collection=eptic3">
+<s id="2424:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:42.0&end=00:58.8">
 13	Kag	[number]-k	
 držav	Sozmr	država-s	
 je	Gp-ste-n	biti-g	
@@ -19612,7 +19612,7 @@ zaključi	Ggdste	zaključiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:6" video="https://media.dipintra.it/?id=2424&start=00:59.4&end=01:02.2&collection=eptic3">
+<s id="2424:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=00:59.4&end=01:02.2">
 Obstajajo	Ggnstm	obstajati-g	
 izzivi	Sommi	izziv-s	
 tako	Rsn	tako-r	
@@ -19625,7 +19625,7 @@ Srbijo	Slzet	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:7" video="https://media.dipintra.it/?id=2424&start=01:02.8&end=01:08.8&collection=eptic3">
+<s id="2424:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:02.8&end=01:08.8">
 Srbija	Slzei	Srbija-s	
 se	Zp------k	se-z	
 mora	Ggnste	morati-g	
@@ -19650,7 +19650,7 @@ pravice	Sozer	pravica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:8" video="https://media.dipintra.it/?id=2424&start=01:09.6&end=01:19.4&collection=eptic3">
+<s id="2424:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:09.6&end=01:19.4">
 Poleg	Dr	poleg-d	
 tega	Zk-ser	ta-z	
 pa	Vp	pa-v	
@@ -19679,7 +19679,7 @@ uprave	Sozer	uprava-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:9" video="https://media.dipintra.it/?id=2424&start=01:20.0&end=01:27.6&collection=eptic3">
+<s id="2424:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:20.0&end=01:27.6">
 Srbski	Ppnmeid	srbski-p	srbski
 parlament	Somei	parlament-s	
 <g/>
@@ -19695,7 +19695,7 @@ Parlamentu	Somem	parlament-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:10" video="https://media.dipintra.it/?id=2424&start=01:28.3&end=01:33.8&collection=eptic3">
+<s id="2424:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:28.3&end=01:33.8">
 Navsezadnje	Rsn	navsezadnje-r	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -19709,7 +19709,7 @@ Kosovom	Slseo	Kosovo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:11" video="https://media.dipintra.it/?id=2424&start=01:35.4&end=01:41.1&collection=eptic3">
+<s id="2424:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:35.4&end=01:41.1">
 Tak	Zk-mei	tak-z	
 dialog	Somei	dialog-s	
 bi	Gp-g	biti-g	
@@ -19727,7 +19727,7 @@ prihodnost	Sozet	prihodnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2424:12" video="https://media.dipintra.it/?id=2424&start=01:41.9&end=01:47.8&collection=eptic3">
+<s id="2424:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2424.wmv&start=01:41.9&end=01:47.8">
 Naj	L	naj-l	
 povem	Ggdspe	povedati-g	
 še	L	še-l	
@@ -19754,7 +19754,7 @@ Balkana	Slmer	Balkan-s
 <speaker name="Bostinaru Victor" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="157" duration="short" durations="66.0" speed="medium" speedwm="142.7" delivery="read">
 <interpreter id="SL12" gender="F" native="NA">
-<s id="2425:1" video="https://media.dipintra.it/?id=2425&start=00:10.0&end=00:12.4&collection=eptic3">
+<s id="2425:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2425.wmv&start=00:10.0&end=00:12.4">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -19768,7 +19768,7 @@ komisar	Somei	komisar-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2425:2" video="https://media.dipintra.it/?id=2425&start=00:13.3&end=00:24.9&collection=eptic3">
+<s id="2425:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2425.wmv&start=00:13.3&end=00:24.9">
 Stabilizacijsko-pridružitveni	DYSF	Stabilizacijsko-pridružitvenii
 sporazum	Somei	sporazum-s	
 s	Do	z-d	
@@ -19795,7 +19795,7 @@ Srbija	Slzei	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2425:3" video="https://media.dipintra.it/?id=2425&start=00:24.7&end=00:41.2&collection=eptic3">
+<s id="2425:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2425.wmv&start=00:24.7&end=00:41.2">
 Govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
 državi	Sozem	država-s	
@@ -19835,7 +19835,7 @@ proces	Sometn	proces-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2425:4" video="https://media.dipintra.it/?id=2425&start=00:42.3&end=01:00.3&collection=eptic3">
+<s id="2425:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2425.wmv&start=00:42.3&end=01:00.3">
 In	Vp	in-v	
 na-	DYSF	na-z	
 njena	Zstzeiez	njen-z	
@@ -19883,7 +19883,7 @@ Balkanu	Slmem	Balkan-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2425:5" video="https://media.dipintra.it/?id=2425&start=01:00.5&end=01:13.9&collection=eptic3">
+<s id="2425:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2425.wmv&start=01:00.5&end=01:13.9">
 Po	Dm	po-d	
 zeleni	Ppnzem	zelen-p	zelena
 luči	Sozem	luč-s	
@@ -19927,7 +19927,7 @@ gladko	Rsn	gladko-r
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="short" lengthw="260" duration="medium" durations="168.0" speed="slow" speedwm="92.9" delivery="mixed">
 <interpreter id="SL12" gender="F" native="NA">
-<s id="2426:1" video="https://media.dipintra.it/?id=2426&start=00:10.1&end=00:24.2&collection=eptic3">
+<s id="2426:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=00:10.1&end=00:24.2">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
@@ -19962,7 +19962,7 @@ Srbije	Slzer	Srbija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:2" video="https://media.dipintra.it/?id=2426&start=00:24.8&end=00:33.2&collection=eptic3">
+<s id="2426:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=00:24.8&end=00:33.2">
 Gre	Ggvste	iti-g	
 za	DYSF	zaa
 podporo	Sozet	podpora-s	
@@ -19977,7 +19977,7 @@ sporazuma	Somer	sporazum-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:3" video="https://media.dipintra.it/?id=2426&start=00:33.8&end=00:42.1&collection=eptic3">
+<s id="2426:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=00:33.8&end=00:42.1">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -20006,7 +20006,7 @@ unijo	Sozet	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:4" video="https://media.dipintra.it/?id=2426&start=00:42.7&end=00:54.0&collection=eptic3">
+<s id="2426:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=00:42.7&end=00:54.0">
 Naj	L	naj-l	
 ehm	FPAUSE	ehm-g	
 se	Zp------k	se-z	
@@ -20035,7 +20035,7 @@ Sandžakom	Someo	Sandžakom-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:5" video="https://media.dipintra.it/?id=2426&start=00:54.7&end=01:07.6&collection=eptic3">
+<s id="2426:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=00:54.7&end=01:07.6">
 Raje	Rsr	raje-r	
 bi	Gp-g	biti-g	
 sam	L	samo-l	
@@ -20072,7 +20072,7 @@ sveta	Somer	svet-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:6" video="https://media.dipintra.it/?id=2426&start=01:19.4&end=01:27.7&collection=eptic3">
+<s id="2426:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=01:19.4&end=01:27.7">
 To	Zk-sei	ta-z	
 mora	Ggnste	morati-g	
 potekati	Ggnn	potekati-g	
@@ -20090,7 +20090,7 @@ radikalizaciji	Sozem	radikalizacija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:7" video="https://media.dipintra.it/?id=2426&start=01:28.5&end=01:47.6&collection=eptic3">
+<s id="2426:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=01:28.5&end=01:47.6">
 Vprašanje	Sosei	vprašanje-s	
 razvojnega	Ppnmer	razvojen-p	razvojni
 sklada	Somer	sklad-s	
@@ -20133,7 +20133,7 @@ učinkovito	Rsn	učinkovito-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:8" video="https://media.dipintra.it/?id=2426&start=01:48.3&end=01:51.6&collection=eptic3">
+<s id="2426:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=01:48.3&end=01:51.6">
 Potrebna	Ppnzei	potreben-p	potrebna
 je	Gp-ste-n	biti-g	
 podpora	Sozei	podpora-s	
@@ -20142,7 +20142,7 @@ razvoju	Somed	razvoj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:9" video="https://media.dipintra.it/?id=2426&start=01:52.3&end=02:14.4&collection=eptic3">
+<s id="2426:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=01:52.3&end=02:14.4">
 Ko	Vd	ko-v	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -20199,7 +20199,7 @@ prispevku	Somem	prispevek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:10" video="https://media.dipintra.it/?id=2426&start=02:20.1&end=02:33.7&collection=eptic3">
+<s id="2426:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=02:20.1&end=02:33.7">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
@@ -20227,7 +20227,7 @@ opogumlja	Ggnste	opogumljati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:11" video="https://media.dipintra.it/?id=2426&start=02:35.2&end=02:49.0&collection=eptic3">
+<s id="2426:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=02:35.2&end=02:49.0">
 Ko	Vd	ko-v	
 sem	Gp-spe-n	biti-g	
 včeraj	Rsn	včeraj-r	
@@ -20267,7 +20267,7 @@ sodstva	Soser	sodstvo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2426:12" video="https://media.dipintra.it/?id=2426&start=02:49.9&end=02:56.3&collection=eptic3">
+<s id="2426:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=2426.wmv&start=02:49.9&end=02:56.3">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 dober	Ppnmein	dober-p	dober
@@ -20295,7 +20295,7 @@ potencial	Sometn	potencial-s
 <speaker name="Morvai Krisztina" gender="F" country="Hungary" politfunc="MEP" politgroup="NI">
 <st language="en" length="long" lengthw="66" duration="short" durations="30.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="SL12" gender="F" native="NA">
-<s id="2427:1" video="https://media.dipintra.it/?id=2427&start=00:11.7&end=00:19.4&collection=eptic3">
+<s id="2427:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2427.wmv&start=00:11.7&end=00:19.4">
 Rada	Rsn	rad-r	
 bi	Gp-g	biti-g	
 vas	Zod-mt	ti-z	
@@ -20327,7 +20327,7 @@ tem	Zk-sem	ta-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2427:2" video="https://media.dipintra.it/?id=2427&start=00:21.5&end=00:36.4&collection=eptic3">
+<s id="2427:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2427.wmv&start=00:21.5&end=00:36.4">
 Ne	L	ne-l	
 vem	Ggnspe	vedeti-g	
 <g/>
@@ -20369,7 +20369,7 @@ ljudi	Sommr	človek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2427:3" video="https://media.dipintra.it/?id=2427&start=00:37.2&end=00:38.6&collection=eptic3">
+<s id="2427:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2427.wmv&start=00:37.2&end=00:38.6">
 Raje	Rsr	raje-r	
 kritizirajte	Ggnvdm	kritizirati-g	
 njih	Zotmmm	on-z	
@@ -20384,7 +20384,7 @@ njih	Zotmmm	on-z
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="136" duration="short" durations="54.0" speed="medium" speedwm="151.1" delivery="mixed">
 <interpreter id="SL13" gender="M" native="NA">
-<s id="2428:1" video="https://media.dipintra.it/?id=2428&start=00:09.3&end=00:16.7&collection=eptic3">
+<s id="2428:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2428.wmv&start=00:09.3&end=00:16.7">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 <g/>
@@ -20405,7 +20405,7 @@ zakonov	Sommr	zakon-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2428:2" video="https://media.dipintra.it/?id=2428&start=00:17.3&end=00:22.6&collection=eptic3">
+<s id="2428:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2428.wmv&start=00:17.3&end=00:22.6">
 Tukaj	Rsn	tukaj-r	
 smo	Gp-spm-n	biti-g	
 govorili	Ggnd-mm	govoriti-g	
@@ -20421,7 +20421,7 @@ Komisijo	Sozet	komisija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2428:3" video="https://media.dipintra.it/?id=2428&start=00:22.8&end=00:41.5&collection=eptic3">
+<s id="2428:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2428.wmv&start=00:22.8&end=00:41.5">
 Belgijsko	Ppnsei	belgijski-p	belgijsko
 predsedstvo	Sosei	predsedstvo-s	
 je	Gp-ste-n	biti-g	
@@ -20463,7 +20463,7 @@ učinkovita	Ppnzei	učinkovit-p	učinkovita
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2428:4" video="https://media.dipintra.it/?id=2428&start=00:43.9&end=00:46.7&collection=eptic3">
+<s id="2428:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2428.wmv&start=00:43.9&end=00:46.7">
 Torej	Rsn	torej-r	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -20474,7 +20474,7 @@ premisleka	Somer	premislek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2428:5" video="https://media.dipintra.it/?id=2428&start=00:47.5&end=01:02.5&collection=eptic3">
+<s id="2428:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2428.wmv&start=00:47.5&end=01:02.5">
 V	Dm	v-d	
 vaši	Zsdzemm	vaš-z	
 uvodni	Ppnzem	uvoden-p	uvodna
@@ -20515,7 +20515,7 @@ področju	Sosem	področje-s
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="274" duration="medium" durations="120.0" speed="medium" speedwm="137.0" delivery="impromptu">
 <interpreter id="SL13" gender="M" native="NA">
-<s id="2429:1" video="https://media.dipintra.it/?id=2429&start=00:09.2&end=00:12.3&collection=eptic3">
+<s id="2429:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=00:09.2&end=00:12.3">
 Gospod	Somei	gospod-s	
 predsednik	Somei	predsednik-s	
 vlade	Sozer	vlada-s	
@@ -20538,7 +20538,7 @@ strani	Sozem	stran-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:2" video="https://media.dipintra.it/?id=2429&start=00:15.1&end=00:20.5&collection=eptic3">
+<s id="2429:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=00:15.1&end=00:20.5">
 Želim	Ggnspe	želeti-g	
 odkrit	Ppnmetn	odkrit-p	odkrit
 razgovor	Sometn	razgovor-s	
@@ -20547,7 +20547,7 @@ vami	Zod-mo	ti-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:3" video="https://media.dipintra.it/?id=2429&start=00:29.4&end=00:36.3&collection=eptic3">
+<s id="2429:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=00:29.4&end=00:36.3">
 Sicer	L	sicer-l	
 bom	Gp-ppe-n	biti-g	
 <g/>
@@ -20576,7 +20576,7 @@ angleščini	Sozem	angleščina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:4" video="https://media.dipintra.it/?id=2429&start=00:36.5&end=00:40.2&collection=eptic3">
+<s id="2429:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=00:36.5&end=00:40.2">
 Rekli	Ggdd-mm	reči-g	
 ste	Gp-sdm-n	biti-g	
 <g/>
@@ -20610,7 +20610,7 @@ prizadelo	DYSF	pri_zadelo
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:5" video="https://media.dipintra.it/?id=2429&start=00:48.9&end=01:01.5&collection=eptic3">
+<s id="2429:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=00:48.9&end=01:01.5">
 Jaz	Zop-ei	jaz-z	
 sem	Gp-spe-n	biti-g	
 namreč	Vp	namreč-v	
@@ -20647,7 +20647,7 @@ pomagalo	Ggvd-es	pomagati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:6" video="https://media.dipintra.it/?id=2429&start=01:02.7&end=01:13.7&collection=eptic3">
+<s id="2429:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=01:02.7&end=01:13.7">
 Ehm	FPAUSE	Ehm-g	
 Svet	Sometn	svet-s	
 bi	Gp-g	biti-g	
@@ -20670,7 +20670,7 @@ begunci	Sommo	begunec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:7" video="https://media.dipintra.it/?id=2429&start=01:14.4&end=01:35.2&collection=eptic3">
+<s id="2429:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=01:14.4&end=01:35.2">
 Torej	Rsn	torej-r	
 <g/>
 ,	U	,-u	
@@ -20725,7 +20725,7 @@ pogodbi	Sozem	pogodba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:8" video="https://media.dipintra.it/?id=2429&start=01:35.9&end=01:52.7&collection=eptic3">
+<s id="2429:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=01:35.9&end=01:52.7">
 Vi	Zodmmi	ti-z	
 ste	Gp-sdm-n	biti-g	
 rekli	Ggdd-mm	reči-g	
@@ -20775,7 +20775,7 @@ v	Dm	v-d
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:9" video="https://media.dipintra.it/?id=2429&start=01:35.9&end=01:52.7&collection=eptic3">
+<s id="2429:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=01:35.9&end=01:52.7">
 členu	Somed	člen-s	
 <g/>
 ,	U	,-u	
@@ -20789,7 +20789,7 @@ akti	Sommi	akt-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="2429:10" video="https://media.dipintra.it/?id=2429&start=01:53.4&end=02:00.9&collection=eptic3">
+<s id="2429:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=2429.wmv&start=01:53.4&end=02:00.9">
 Torej	Rsn	torej-r	
 mladi	Ppnmmi	mlad-p	mladi
 <g/>
@@ -20841,7 +20841,7 @@ predsedstvo	Soset	predsedstvo-s
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="152" duration="short" durations="66.0" speed="medium" speedwm="138.2" delivery="impromptu">
 <interpreter id="SL10" gender="F" native="NA">
-<s id="976:1" video="https://media.dipintra.it/?id=976&start=00.00&end=00.03&collection=eptic3">
+<s id="976:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.00.00&end=00.00.03">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospa	Sozei	gospa-s	
@@ -20849,7 +20849,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="976:2" video="https://media.dipintra.it/?id=976&start=00.03&end=00.18&collection=eptic3">
+<s id="976:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.00.03&end=00.00.18">
 Spomnmim	Ggdspe	Spomnmim-g	
 se	Zp------k	se-z	
 <g/>
@@ -20876,7 +20876,7 @@ elementi	Sommi	element-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="976:3" video="https://media.dipintra.it/?id=976&start=00.18&end=00.31&collection=eptic3">
+<s id="976:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.00.18&end=00.00.31">
 ...	EPAUSE	...-u	
 In	Vp	in-v	
 že	L	že-l	
@@ -20919,7 +20919,7 @@ potrošnikom	Sommd	potrošnik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="976:4" video="https://media.dipintra.it/?id=976&start=00.31&end=00.56&collection=eptic3">
+<s id="976:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.00.31&end=00.00.56">
 ...	EPAUSE	...-u	
 Osredotočiti	Ggdsdm	Osredotočiti-g	
 se	Zp------k	se-z	
@@ -20999,7 +20999,7 @@ storitve	Sozmt	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="976:5" video="https://media.dipintra.it/?id=976&start=00.56&end=01.06&collection=eptic3">
+<s id="976:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.00.56&end=00.01.06">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -21030,7 +21030,7 @@ države	Sozmt	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="976:6" video="https://media.dipintra.it/?id=976&start=01.06&end=01.13&collection=eptic3">
+<s id="976:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=976.mp4&start=00.01.06&end=00.01.13">
 Ampak	Vp	ampak-v	
 moramo	Ggnspm	morati-g	
 iti	Ggvn	iti-g	
@@ -21053,7 +21053,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="164" duration="short" durations="65.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="979:1" video="https://media.dipintra.it/?id=979&start=00.00&end=00.01&collection=eptic3">
+<s id="979:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.00&end=00.00.01">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospa	Sozei	gospa-s	
@@ -21061,7 +21061,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:2" video="https://media.dipintra.it/?id=979&start=00.01&end=00.07&collection=eptic3">
+<s id="979:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.01&end=00.00.07">
 Kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
 dejala	Ggdd-ez	dejati-g	
@@ -21079,7 +21079,7 @@ vetrovi	Sommi	veter-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:3" video="https://media.dipintra.it/?id=979&start=00.07&end=00.22&collection=eptic3">
+<s id="979:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.07&end=00.00.22">
 To	Zk-sei	ta-z	
 nas	Zop-mt	jaz-z	
 nekoliko	Rsn	nekoliko-r	
@@ -21123,7 +21123,7 @@ zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:4" video="https://media.dipintra.it/?id=979&start=00.22&end=00.28&collection=eptic3">
+<s id="979:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.22&end=00.00.28">
 Temna	Ppnzei	temen-p	temna
 plat	Sozei	plat-s	
 pa	Vp	pa-v	
@@ -21153,7 +21153,7 @@ Italiji	Slzem	Italija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:5" video="https://media.dipintra.it/?id=979&start=00.28&end=00.34&collection=eptic3">
+<s id="979:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.28&end=00.00.34">
 Glede	Rsn	glede-r	
 na	Dt	na-d	
 to	Zk-set	ta-z	
@@ -21181,7 +21181,7 @@ Evrope	Slzer	Evropa-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:6" video="https://media.dipintra.it/?id=979&start=00.34&end=00.38&collection=eptic3">
+<s id="979:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.34&end=00.00.38">
 In	Vp	in-v	
 zato	Rsn	zato-r	
 mora	Ggnste	morati-g	
@@ -21194,7 +21194,7 @@ evropska	Ppnzei	evropski-p	evropska
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:7" video="https://media.dipintra.it/?id=979&start=00.38&end=00.48&collection=eptic3">
+<s id="979:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.38&end=00.00.48">
 Ne	L	ne-l	
 moremo	Ggnspm	moči-g	
 zapreti	Ggdn	zapreti-g	
@@ -21227,7 +21227,7 @@ sveta	Somer	svet-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:8" video="https://media.dipintra.it/?id=979&start=00.48&end=01.07&collection=eptic3">
+<s id="979:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.00.48&end=00.01.07">
 Tako	Rsn	tako-r	
 da	Vd	da-v	
 <g/>
@@ -21290,7 +21290,7 @@ pripada	Ggnste	pripadati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="979:9" video="https://media.dipintra.it/?id=979&start=01.07&end=01.12&collection=eptic3">
+<s id="979:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=979.mp4&start=00.01.07&end=00.01.12">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -21311,7 +21311,7 @@ Italijo	Slzeo	Italija-s
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="156" duration="short" durations="60.0" speed="medium" speedwm="156.0" delivery="read">
 <interpreter id="SL06" gender="F" native="Y">
-<s id="2111:1" video="https://media.dipintra.it/?id=2111&start=00.11&end=00.23&collection=eptic3">
+<s id="2111:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=2111.mp4&start=00.00.11&end=00.00.23">
 Kot	Vd	kot-v	
 smo	Gp-spm-n	biti-g	
 slišali	Ggvd-mm	slišati-g	
@@ -21339,7 +21339,7 @@ bolj	Rsr	bolj-r
 nevarno	Ppnsei	nevaren-p	nevarno
 .	SENT	.-s	
 </s>
-<s id="2111:2" video="https://media.dipintra.it/?id=2111&start=00.24&end=00.36&collection=eptic3">
+<s id="2111:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=2111.mp4&start=00.00.24&end=00.00.36">
 V	Dm	v-d	
 Schleswig-Holsteinu	Slmem	Schleswig-Holsteinu-s	
 so	Gp-stm-n	biti-g	
@@ -21357,7 +21357,7 @@ določenih	Pdnsmm	določen-p	določeno
 živilih	Sosmm	živilo-s	
 .	SENT	.-s	
 </s>
-<s id="2111:3" video="https://media.dipintra.it/?id=2111&start=00.38&end=00.56&collection=eptic3">
+<s id="2111:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=2111.mp4&start=00.00.38&end=00.00.56">
 Vendar	Vp	vendar-v	
 ehm	FPAUSE	ehm-g	
 ko	Vd	ko-v	
@@ -21388,7 +21388,7 @@ z	Do	z-d
 dioksinom	Someo	dioksin-s	
 ;	U	;-u	
 </s>
-<s id="2111:4" video="https://media.dipintra.it/?id=2111&start=00.57&end=01.03&collection=eptic3">
+<s id="2111:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=2111.mp4&start=00.00.57&end=00.01.03">
 imeli	Ggnd-mm	imeti-g	
 smo	Gp-spm-n	biti-g	
 problemi	Sommi	problem-s	
@@ -21406,7 +21406,7 @@ ehm	FPAUSE	ehm-s
 Irske	Slzer	Irska-s	
 .	SENT	.-s	
 </s>
-<s id="2111:5" video="https://media.dipintra.it/?id=2111&start=01.03&end=01.10&collection=eptic3">
+<s id="2111:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=2111.mp4&start=00.01.03&end=00.01.10">
 Ehm	FPAUSE	Ehm-g	
 zakaj	Rsn	zakaj-r	
 ta	Zk-met	ta-z	
@@ -21435,7 +21435,7 @@ začel	Ggdd-em	začeti-g
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="105" duration="short" durations="35.0" speed="high" speedwm="180.0" delivery="impromptu">
 <interpreter id="SL04" gender="F" native="NA">
-<s id="981:1" video="https://media.dipintra.it/?id=981&start=00.00&end=00.10&collection=eptic3">
+<s id="981:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=981.mp4&start=00.00.00&end=00.00.10">
 No	L	no-l	
 <g/>
 ,	U	,-u	
@@ -21463,7 +21463,7 @@ Izraelu	Slmed	Izrael-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="981:2" video="https://media.dipintra.it/?id=981&start=00.10&end=00.27&collection=eptic3">
+<s id="981:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=981.mp4&start=00.00.10&end=00.00.27">
 Ni	Gp-ste-d	biti-g	
 sedaj	Rsn	sedaj-r	
 treba	Rsn	treba-r	
@@ -21521,7 +21521,7 @@ medijev	Sommr	medij-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="981:3" video="https://media.dipintra.it/?id=981&start=00.27&end=00.33&collection=eptic3">
+<s id="981:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=981.mp4&start=00.00.27&end=00.00.33">
 V	Dm	v-d	
 tem	Zk-mem	ta-z	
 trenutku	Somem	trenutek-s	
@@ -21548,7 +21548,7 @@ varnost	Sozet	varnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="981:4" video="https://media.dipintra.it/?id=981&start=00.33&end=00.41&collection=eptic3">
+<s id="981:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=981.mp4&start=00.00.33&end=00.00.41">
 Seveda	L	seveda-l	
 se	Zp------k	se-z	
 morate	Ggnsdm	morati-g	
@@ -21579,7 +21579,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Stevenson Struan" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="133" duration="short" durations="58.0" speed="medium" speedwm="137.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1017:1&collection=eptic3">
+<s id="1017:1">
 Gospod	Somei	gospod-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -21619,7 +21619,7 @@ preobrat	Sometn	preobrat-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1017:2&collection=eptic3">
+<s id="1017:2">
 Na	Dt	na-d	
 stotine	Sozmt	stotina-s	
 tisočev	Sommr	tisoči-s	
@@ -21651,7 +21651,7 @@ zatrli	Ggdd-mm	zatreti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1017:3&collection=eptic3">
+<s id="1017:3">
 Mladega	Ppnmet	mlad-p	mladi
 študenta	Sometd	študent-s	
 so	Gp-stm-n	biti-g	
@@ -21687,7 +21687,7 @@ režimu	Somed	režim-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1017:4&collection=eptic3">
+<s id="1017:4">
 Zakaj	Rsn	zakaj-r	
 ničesar	Zl-ser	nič-z	
 ne	L	ne-l	
@@ -21702,7 +21702,7 @@ njih	Zotmmt	on-z
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1017:5&collection=eptic3">
+<s id="1017:5">
 Zakaj	Rsn	zakaj-r	
 smo	Gp-spm-n	biti-g	
 ehm	FPAUSE	ehm-p	ehm
@@ -21723,7 +21723,7 @@ Teheranu	DYSF	Teheramu
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1017:6&collection=eptic3">
+<s id="1017:6">
 Zakaj	Rsn	zakaj-r	
 ničesar	Zl-ser	nič-z	
 ne	L	ne-l	
@@ -21754,7 +21754,7 @@ Iranu	Slmem	Iran-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1017:7&collection=eptic3">
+<s id="1017:7">
 Podpreti	Ggdn	podpreti-g	
 moramo	Ggnspm	morati-g	
 iransko	Ppnzet	iranski-p	iranska
@@ -21770,7 +21770,7 @@ opozicijo	Sozet	opozicija-s
 <speaker name="Sturdy Robert" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="303" duration="medium" durations="120.0" speed="medium" speedwm="151.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1018:1&collection=eptic3">
+<s id="1018:1">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospod	Somei	gospod-s	
@@ -21803,7 +21803,7 @@ postopkov	Sommr	postopek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1018:2&collection=eptic3">
+<s id="1018:2">
 Že	L	že-l	
 veliko	Rsn	veliko-r	
 <g/>
@@ -21868,7 +21868,7 @@ parlament	Somei	parlament-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1018:3&collection=eptic3">
+<s id="1018:3">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 gospod	Somei	gospod-s	
@@ -21883,7 +21883,7 @@ gospod	Somei	gospod-s
 <speaker name="Howitt Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="79" duration="short" durations="27.0" speed="high" speedwm="175.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1019:1&collection=eptic3">
+<s id="1019:1">
 Gospod	Somei	gospod-s	
 Zala	Slzei	Zala-s	
 <g/>
@@ -21947,7 +21947,7 @@ poseganje	Sosei	poseganje-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1019:2&collection=eptic3">
+<s id="1019:2">
 Zanima	Ggnste	zanimati-g	
 me	Zop-et--k	jaz-z	
 kakšno	Zv-sei	kakšen-z	
@@ -21967,7 +21967,7 @@ tem	Zk-sem	ta-z
 <speaker name="Cashman Michael" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="296" duration="medium" durations="121.0" speed="medium" speedwm="146.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1020:1&collection=eptic3">
+<s id="1020:1">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -22001,7 +22001,7 @@ napak	Rsn	napak-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:2&collection=eptic3">
+<s id="1020:2">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -22027,7 +22027,7 @@ pomisleke	Sommt	pomislek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:3&collection=eptic3">
+<s id="1020:3">
 Zagotoviti	Ggdn	zagotoviti-g	
 moramo	Ggnspm	morati-g	
 to	Zk-set	ta-z	
@@ -22071,7 +22071,7 @@ potrebujemo	Ggnspm	potrebovati-g
 <g/>
 ?	U	?-u	
 </s>
-<s id="1020:4&collection=eptic3">
+<s id="1020:4">
 Potrebujemo	Ggnspm	potrebovati-g	
 to	Zk-set	ta-z	
 <g/>
@@ -22103,7 +22103,7 @@ transparentnosti	Sozer	transparentnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:5&collection=eptic3">
+<s id="1020:5">
 In	Vp	in-v	
 kot	Vd	kot-v	
 rečeno	Pdnsei	rečen-p	rečeno
@@ -22143,7 +22143,7 @@ skupin	Sozmr	skupina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:6&collection=eptic3">
+<s id="1020:6">
 In	Vp	in-v	
 to	Zk-set	ta-z	
 pravim	Ggvspe	praviti-g	
@@ -22171,7 +22171,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:7&collection=eptic3">
+<s id="1020:7">
 Kot	Vd	kot-v	
 veste	Ggnsdm	vedeti-g	
 <g/>
@@ -22202,7 +22202,7 @@ pogodbe	Sozer	pogodba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:8&collection=eptic3">
+<s id="1020:8">
 To	Zk-set	ta-z	
 smo	Gp-spm-n	biti-g	
 potem	Rsn	potem-r	
@@ -22213,7 +22213,7 @@ Uredbo	Sozeo	uredba-s
 1049	DYSF	2001
 .	SENT	.-s	
 </s>
-<s id="1020:9&collection=eptic3">
+<s id="1020:9">
 Trenutno	Rsn	trenutno-r	
 poteka	Ggnste	potekati-g	
 revizija	Sozei	revizija-s	
@@ -22270,7 +22270,7 @@ sem	Rsn	sem-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:10&collection=eptic3">
+<s id="1020:10">
 Gospa	Sozei	gospa-s	
 Macovei	Slmei	Macovei-s	
 je	Gp-ste-n	biti-g	
@@ -22302,7 +22302,7 @@ pomen	Sometn	pomen-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:11&collection=eptic3">
+<s id="1020:11">
 Zato	Vp	zato-v	
 me	Zop-et--k	jaz-z	
 zanima	Ggnste	zanimati-g	
@@ -22362,7 +22362,7 @@ storili	Ggdd-mm	storiti-g
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1020:12&collection=eptic3">
+<s id="1020:12">
 In	Vp	in-v	
 kot	DYSF	kod	
 ehm	FPAUSE	ehm-g	
@@ -22404,7 +22404,7 @@ doseženo	Pdnsei	dosežen-p	doseženo
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1020:13&collection=eptic3">
+<s id="1020:13">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -22418,13 +22418,13 @@ lepa	Ppnzei	lep-p	lepa
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="70.0" speed="slow" speedwm="114.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1022:1&collection=eptic3">
+<s id="1022:1">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:2&collection=eptic3">
+<s id="1022:2">
 Nimam	Ggnspe-d	imeti-g	
 težav	Sozmr	težava-s	
 s	Do	z-d	
@@ -22443,7 +22443,7 @@ unije	Sozer	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:3&collection=eptic3">
+<s id="1022:3">
 Sploh	L	sploh-l	
 ko	Vd	ko-v	
 gre	Ggvste	iti-g	
@@ -22511,7 +22511,7 @@ krize	Sozer	kriza-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:4&collection=eptic3">
+<s id="1022:4">
 Tu	Rsn	tu-r	
 gre	Ggvste	iti-g	
 za	Dt	za-d	
@@ -22528,7 +22528,7 @@ milijard	Sozmr	milijarda-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:5&collection=eptic3">
+<s id="1022:5">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 vzdržno	Ppnsei	vzdržen-p	vzdržno
@@ -22549,7 +22549,7 @@ zakonito	Ppnsei	zakonit-p	zakonito
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:6&collection=eptic3">
+<s id="1022:6">
 ...	EPAUSE	...-u	
 Seveda	L	seveda-l	
 pa	Vp	pa-v	
@@ -22562,7 +22562,7 @@ razumeti	Ggvn	razumeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:7&collection=eptic3">
+<s id="1022:7">
 Ehm	FPAUSE	Ehm-g	
 težko	Rsn	težko-r	
 je	Gp-ste-n	biti-g	
@@ -22592,7 +22592,7 @@ nižje	Pppsei	nizek-p	nižje
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1022:8&collection=eptic3">
+<s id="1022:8">
 Zahtevali	Ggvd-mm	zahtevati-g	
 bomo	Gp-ppm-n	biti-g	
 ponovna	Ppnsmi	ponoven-p	ponovno
@@ -22625,7 +22625,7 @@ Paška	Psnsmd	Paška-p	paška
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="121" duration="short" durations="55.0" speed="medium" speedwm="132.0" delivery="impromptu">
 <interpreter id="SL11" gender="F" native="NA">
-<s id="1024:1" video="https://media.dipintra.it/?id=1024&start=00.00&end=00.05&collection=eptic3">
+<s id="1024:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.00&end=00.00.05">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 <g/>
@@ -22635,7 +22635,7 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1024:2" video="https://media.dipintra.it/?id=1024&start=00.05&end=00.14&collection=eptic3">
+<s id="1024:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.05&end=00.00.14">
 Na	Dt	na-d	
 žalost	Sozet	žalost-s	
 je	Gp-ste-n	biti-g	
@@ -22663,7 +22663,7 @@ mesecu	Somem	mesec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1024:3" video="https://media.dipintra.it/?id=1024&start=00.14&end=00.20&collection=eptic3">
+<s id="1024:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.14&end=00.00.20">
 Ljudje	Sommi	človek-s	
 imajo	Ggnstm-n	imeti-g	
 različne	Ppnmmt	različen-p	različen
@@ -22686,7 +22686,7 @@ zdaj	Rsn	zdaj-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1024:4" video="https://media.dipintra.it/?id=1024&start=00.20&end=00.29&collection=eptic3">
+<s id="1024:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.20&end=00.00.29">
 Nekateri	Zn-mmi	nekateri-z	
 pravijo	Ggvstm	praviti-g	
 <g/>
@@ -22712,7 +22712,7 @@ volitve	Sozmi	volitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1024:5" video="https://media.dipintra.it/?id=1024&start=00.29&end=00.59&collection=eptic3">
+<s id="1024:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.29&end=00.00.59">
 Če	Vd	če-v	
 to	Zk-sei	ta-z	
 drži	DYSF	držži
@@ -22801,7 +22801,7 @@ problema	Somer	problem-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1024:6" video="https://media.dipintra.it/?id=1024&start=00.59&end=01.01&collection=eptic3">
+<s id="1024:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1024.mp4&start=00.00.59&end=00.01.01">
 Hvala	Sozei	hvala-s	
 .	SENT	.-s	
 </s>
@@ -22813,7 +22813,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="72.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="SL11" gender="F" native="NA">
-<s id="1026:1" video="https://media.dipintra.it/?id=1026&start=00.00&end=00.06&collection=eptic3">
+<s id="1026:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1026.mp4&start=00.00.00&end=00.00.06">
 Najlepša	Ppszei	lep-p	najlepša
 hvala	Sozei	hvala-s	
 <g/>
@@ -22823,7 +22823,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1026:2" video="https://media.dipintra.it/?id=1026&start=00.06&end=00.14&collection=eptic3">
+<s id="1026:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1026.mp4&start=00.00.06&end=00.00.14">
 Vsak	Zc-mei	vsak-z	
 dPIPPPERO	Somei	dPIPPPERO-s	
 an	Nj	an-n	
@@ -22842,7 +22842,7 @@ morje	Soset	morje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1026:3" video="https://media.dipintra.it/?id=1026&start=00.14&end=00.24&collection=eptic3">
+<s id="1026:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1026.mp4&start=00.00.14&end=00.00.24">
 Ehm	FPAUSE	Ehm-g	
 te	Zk-zmt	ta-z	
 ribe	Sozmt	riba-s	
@@ -22864,7 +22864,7 @@ bogatega	Ppnser	bogat-p	bogato
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1026:4" video="https://media.dipintra.it/?id=1026&start=00.24&end=01.20&collection=eptic3">
+<s id="1026:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1026.mp4&start=00.00.24&end=00.01.20">
 In	Vp	in-v	
 ehm	FPAUSE	ehm-g	
 <g/>
@@ -23006,7 +23006,7 @@ dosežemo	Ggdspm	doseči-g
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="205" duration="short" durations="70.0" speed="high" speedwm="175.7" delivery="impromptu">
 <interpreter id="SL02" gender="F" native="NA">
-<s id="1028:1" video="https://media.dipintra.it/?id=1028&start=00.00&end=01.06&collection=eptic3">
+<s id="1028:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1028.mp4&start=00.00.00&end=00.01.06">
 V-	DYSF	V-s	
 Glede	Rsn	glede-r	
 na	Dt	na-d	
@@ -23086,7 +23086,7 @@ posledice	Sozmi	posledica-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1028:2" video="https://media.dipintra.it/?id=1028&start=01.06&end=01.24&collection=eptic3">
+<s id="1028:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1028.mp4&start=00.01.06&end=00.01.24">
 Razumeti	Ggvn	razumeti-g	
 moramo	Ggnspm	morati-g	
 posledice	Sozmt	posledica-s	
@@ -23119,7 +23119,7 @@ vrednost	Sozei	vrednost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1028:3" video="https://media.dipintra.it/?id=1028&start=01.24&end=01.43&collection=eptic3">
+<s id="1028:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1028.mp4&start=00.01.24&end=00.01.43">
 Ehm	FPAUSE	Ehm-p	ehm
 <g/>
 ...	EPAUSE	...-u	
@@ -23145,7 +23145,7 @@ doživeli	Ggdd-mm	doživeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1028:4" video="https://media.dipintra.it/?id=1028&start=01.43&end=02.02&collection=eptic3">
+<s id="1028:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1028.mp4&start=00.01.43&end=00.02.02">
 Ravno	L	ravno-l	
 tako	Rsn	tako-r	
 se	Zp------k	se-z	
@@ -23174,7 +23174,7 @@ obstajati	Ggnn	obstajati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1028:5" video="https://media.dipintra.it/?id=1028&start=02.02&end=02.26&collection=eptic3">
+<s id="1028:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1028.mp4&start=00.02.02&end=00.02.26">
 Če	Vd	če-v	
 ehm	FPAUSE	ehm-g	
 <g/>
@@ -23234,7 +23234,7 @@ krize	Sozer	kriza-s
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="173" duration="short" durations="65.0" speed="medium" speedwm="159.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1030:1&collection=eptic3">
+<s id="1030:1">
 Najlepša	Ppszei	lep-p	najlepša
 <g/>
 ,	U	,-u	
@@ -23244,7 +23244,7 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:2&collection=eptic3">
+<s id="1030:2">
 Eden	Kbzmei	eden-k	
 od	Dr	od-d	
 glavni	Ppnzdi	glaven-p	glavna
@@ -23278,7 +23278,7 @@ otoki	Sommi	otok-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:3&collection=eptic3">
+<s id="1030:3">
 Vse	Zc-sei	ves-z	
 kar	Zz-set	kar-z	
 so	Gp-stm-n	biti-g	
@@ -23306,7 +23306,7 @@ razvoja	Somer	razvoj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:4&collection=eptic3">
+<s id="1030:4">
 Že	L	že-l	
 leta	Soser	leto-s	
 pravimo	Ggvspm	praviti-g	
@@ -23350,7 +23350,7 @@ storitve	Sozmt	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:5&collection=eptic3">
+<s id="1030:5">
 Kajmanski	Ppnmmi	Kajmanski-p	kajmanski
 otoki	Sommi	otok-s	
 so	Gp-stm-n	biti-g	
@@ -23371,7 +23371,7 @@ storitve	Sozmt	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:6&collection=eptic3">
+<s id="1030:6">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 vprašanje	Soset	vprašanje-s	
@@ -23389,7 +23389,7 @@ utajo	Sozet	utaja-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1030:7&collection=eptic3">
+<s id="1030:7">
 Veliko	Rsn	veliko-r	
 ehm	FPAUSE	ehm-g	
 skladov	Sommr	sklad-s	
@@ -23418,7 +23418,7 @@ obdavčevanja	Soser	obdavčevanje-s
 <g/>
 ?	U	?-u	
 </s>
-<s id="1030:8&collection=eptic3">
+<s id="1030:8">
 Poskušajo	Ggnstm	Poskušajo-g	
 napasti	Ggdn	napasti-g	
 ehm	FPAUSE	ehm-s	
@@ -23447,7 +23447,7 @@ bodi	Ggnvde	bosti-g
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="160" duration="short" durations="64.0" speed="medium" speedwm="150.0" delivery="impromptu">
 <interpreter id="SL10" gender="F" native="NA">
-<s id="1032:1" video="https://media.dipintra.it/?id=1032&start=00.00&end=00.04&collection=eptic3">
+<s id="1032:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.00.00&end=00.00.04">
 Hvala	Sozei	hvala-s	
 <g/>
 ,	U	,-u	
@@ -23456,7 +23456,7 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1032:2" video="https://media.dipintra.it/?id=1032&start=00.04&end=00.15&collection=eptic3">
+<s id="1032:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.00.04&end=00.00.15">
 Če	Vd	če-v	
 si	Zp---d--k	se-z	
 pogledamo	Ggdspm	pogledati-g	
@@ -23489,7 +23489,7 @@ sistemov	Sommr	sistem-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1032:3" video="https://media.dipintra.it/?id=1032&start=00.15&end=00.39&collection=eptic3">
+<s id="1032:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.00.15&end=00.00.39">
 ...	EPAUSE	...-u	
 In	Slmei	In-s	
 <g/>
@@ -23555,7 +23555,7 @@ države	Sozer	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1032:4" video="https://media.dipintra.it/?id=1032&start=00.39&end=00.55&collection=eptic3">
+<s id="1032:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.00.39&end=00.00.55">
 ...	EPAUSE	...-u	
 Pomislek	Ggdvde	Pomislek-g	
 <g/>
@@ -23595,7 +23595,7 @@ državah	Sozmm	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1032:5" video="https://media.dipintra.it/?id=1032&start=00.55&end=01.08&collection=eptic3">
+<s id="1032:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.00.55&end=00.01.08">
 Če	Vd	če-v	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -23628,7 +23628,7 @@ upokojence	Sommt	upokojenec-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1032:6" video="https://media.dipintra.it/?id=1032&start=01.08&end=01.10&collection=eptic3">
+<s id="1032:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1032.mp4&start=00.01.08&end=00.01.10">
 Naš-	DYSF	Naš-z	
 Naše	Zspseim	naš-z	
 sporočilo	Sosei	sporočilo-s	
@@ -23646,7 +23646,7 @@ dosledno	Ppnsei	dosleden-p	dosledno
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="149" duration="short" durations="64.0" speed="medium" speedwm="139.7" delivery="impromptu">
 <interpreter id="SL10" gender="F" native="NA">
-<s id="1033:1" video="https://media.dipintra.it/?id=1033&start=00.00&end=00.05&collection=eptic3">
+<s id="1033:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.00&end=00.00.05">
 Hvala	Sozei	hvala-s	
 <g/>
 ,	U	,-u	
@@ -23655,7 +23655,7 @@ predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:2" video="https://media.dipintra.it/?id=1033&start=00.05&end=00.15&collection=eptic3">
+<s id="1033:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.05&end=00.00.15">
 Vsi	Zc-mmi	ves-z	
 vemo	Ggnspm	vedeti-g	
 kaj	Rsn	kaj-r	
@@ -23678,7 +23678,7 @@ voditelji	Sommi	voditelj-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:3" video="https://media.dipintra.it/?id=1033&start=00.15&end=00.20&collection=eptic3">
+<s id="1033:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.15&end=00.00.20">
 Polni	Ppnmmi	poln-p	poln
 so	Gp-stm-n	biti-g	
 ambicij	Sozmr	ambicija-s	
@@ -23690,13 +23690,13 @@ moči	Sozer	moč-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:4" video="https://media.dipintra.it/?id=1033&start=00.20&end=00.22&collection=eptic3">
+<s id="1033:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.20&end=00.00.22">
 Prav	L	prav-l	
 presenetljivo	Rsn	presenetljivo-r	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:5" video="https://media.dipintra.it/?id=1033&start=00.22&end=00.40&collection=eptic3">
+<s id="1033:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.22&end=00.00.40">
 In	Vp	in-v	
 ne	L	ne-l	
 samo	L	samo-l	
@@ -23742,7 +23742,7 @@ upravljanja	Soser	upravljanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:6" video="https://media.dipintra.it/?id=1033&start=00.40&end=00.43&collection=eptic3">
+<s id="1033:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.40&end=00.00.43">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -23755,7 +23755,7 @@ tukaj	Rsn	tukaj-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:7" video="https://media.dipintra.it/?id=1033&start=00.43&end=00.48&collection=eptic3">
+<s id="1033:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.43&end=00.00.48">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 vse	Zc-sei	ves-z	
@@ -23768,7 +23768,7 @@ unije	Sozer	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1033:8" video="https://media.dipintra.it/?id=1033&start=00.48&end=01.06&collection=eptic3">
+<s id="1033:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.00.48&end=00.01.06">
 Ta	Zk-zei	ta-z	
 ni	Gp-ste-d	biti-g	
 uspešna	Ppnzei	uspešen-p	uspešna
@@ -23808,7 +23808,7 @@ prizadevamo	Ggnspm	prizadevati-g
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1033:9" video="https://media.dipintra.it/?id=1033&start=01.06&end=01.12&collection=eptic3">
+<s id="1033:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1033.mp4&start=00.01.06&end=00.01.12">
 Prizadevamo	Ggnspm	prizadevati-g	
 si	Zp---d--k	se-z	
 <g/>
@@ -23837,7 +23837,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Bloom Godfrey" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="215" duration="short" durations="71.0" speed="high" speedwm="181.7" delivery="impromptu">
 <interpreter id="SL22" gender="M" native="NA">
-<s id="1034:1" video="https://media.dipintra.it/?id=1034&start=00.00&end=00.12&collection=eptic3">
+<s id="1034:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.00&end=00.00.12">
 No	DYSF	nno
 tukaj	Rsn	tukaj-r	
 se	Zp------k	se-z	
@@ -23851,7 +23851,7 @@ dnevu	Somem	dan-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:2" video="https://media.dipintra.it/?id=1034&start=00.12&end=00.31&collection=eptic3">
+<s id="1034:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.12&end=00.00.31">
 Govorite	Ggnvdm	govoriti-g	
 o	Dm	o-d	
 porodniški	Ppnzem	porodniški-p	porodniška
@@ -23912,7 +23912,7 @@ podjetje	Soset	podjetje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:3" video="https://media.dipintra.it/?id=1034&start=00.31&end=00.37&collection=eptic3">
+<s id="1034:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.31&end=00.00.37">
 Imamo	Ggnspm-n	imeti-g	
 enake	DYSF	eenaake	
 možnosti	Sozmt	možnost-s	
@@ -23929,7 +23929,7 @@ neumno	Ppnsei	neumen-p	neumno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:4" video="https://media.dipintra.it/?id=1034&start=00.37&end=00.46&collection=eptic3">
+<s id="1034:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.37&end=00.00.46">
 Torej	Rsn	torej-r	
 <g/>
 ,	U	,-u	
@@ -23964,7 +23964,7 @@ zanje	Zotzmt--z	zame-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:5" video="https://media.dipintra.it/?id=1034&start=00.46&end=00.50&collection=eptic3">
+<s id="1034:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.46&end=00.00.50">
 Če	Vd	če-v	
 govorimo	Ggnspm	govoriti-g	
 o	Dm	o-d	
@@ -23978,7 +23978,7 @@ to	Zk-sei	ta-z
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1034:6" video="https://media.dipintra.it/?id=1034&start=00.50&end=01.05&collection=eptic3">
+<s id="1034:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.00.50&end=00.01.05">
 Ženske	Sozmi	ženska-s	
 so	Gp-stm-n	biti-g	
 <g/>
@@ -24017,7 +24017,7 @@ kvote	Sozmt	kvota-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:7" video="https://media.dipintra.it/?id=1034&start=01.05&end=01.14&collection=eptic3">
+<s id="1034:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.01.05&end=00.01.14">
 Vprašanje	Sosei	vprašanje-s	
 je	Gp-ste-n	biti-g	
 <g/>
@@ -24048,7 +24048,7 @@ sposobnosti	Sozmt	sposobnost-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:8" video="https://media.dipintra.it/?id=1034&start=01.14&end=01.22&collection=eptic3">
+<s id="1034:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.01.14&end=00.01.22">
 ...	EPAUSE	...-u	
 Vsak	Zc-met	vsak-z	
 <g/>
@@ -24072,7 +24072,7 @@ diskriminacijo	Sozet	diskriminacija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1034:9" video="https://media.dipintra.it/?id=1034&start=01.22&end=01.23&collection=eptic3">
+<s id="1034:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1034.mp4&start=00.01.22&end=00.01.23">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 <g/>
@@ -24086,7 +24086,7 @@ lepa	Ppnzei	lep-p	lepa
 <speaker name="Farage Nigel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFDD">
 <st language="en" length="short" lengthw="343" duration="medium" durations="127.0" speed="high" speedwm="162.0" delivery="impromptu">
 <interpreter id="SL22" gender="M" native="NA">
-<s id="1036:1" video="https://media.dipintra.it/?id=1036&start=00.00&end=00.06&collection=eptic3">
+<s id="1036:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.00&end=00.00.06">
 Veseli	Ggnste	veseliti-g	
 me	Zop-et--k	jaz-z	
 kakšen	Zv-met	kakšen-z	
@@ -24100,7 +24100,7 @@ danes	Rsn	danes-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:2" video="https://media.dipintra.it/?id=1036&start=00.06&end=00.09&collection=eptic3">
+<s id="1036:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.06&end=00.00.09">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -24113,7 +24113,7 @@ mišljeno	Pdnsei	mišljen-p	mišljeno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:3" video="https://media.dipintra.it/?id=1036&start=00.09&end=00.10&collection=eptic3">
+<s id="1036:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.09&end=00.00.10">
 Govorili	Ggnd-mm	govoriti-g	
 ste	Gp-sdm-n	biti-g	
 o	Dm	o-d	
@@ -24123,7 +24123,7 @@ drugje	Rsn	drugje-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:4" video="https://media.dipintra.it/?id=1036&start=00.10&end=00.16&collection=eptic3">
+<s id="1036:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.10&end=00.00.16">
 A	Vp	a-v	
 ni	Gp-ste-d	biti-g	
 lepo	Ppnsei	lep-p	lepo
@@ -24142,7 +24142,7 @@ demokracijo	DYSF	demokracejo
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1036:5" video="https://media.dipintra.it/?id=1036&start=00.16&end=00.24&collection=eptic3">
+<s id="1036:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.16&end=00.00.24">
 Naj	Vd	naj-v	
 vas	Zod-mt	ti-z	
 spomnim	DYSF	spomni	
@@ -24167,7 +24167,7 @@ vladajo	Ggnstm	vladati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:6" video="https://media.dipintra.it/?id=1036&start=00.24&end=00.31&collection=eptic3">
+<s id="1036:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.24&end=00.00.31">
 Če	Vd	če-v	
 pa	Vp	pa-v	
 ne	DYSF	nne
@@ -24186,7 +24186,7 @@ drugega	Kbzmet	drug-k
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:7" video="https://media.dipintra.it/?id=1036&start=00.31&end=00.37&collection=eptic3">
+<s id="1036:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.31&end=00.00.37">
 ...	EPAUSE	...-u	
 In	Vp	in-v	
 zato	Rsn	zato-r	
@@ -24204,7 +24204,7 @@ metodo	Sozet	metoda-s
 <g/>
 .	U	.-u	
 </s>
-<s id="1036:8" video="https://media.dipintra.it/?id=1036&start=00.37&end=00.48&collection=eptic3">
+<s id="1036:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.37&end=00.00.48">
 Ko	Vd	ko-v	
 nas	Zop-mt	jaz-z	
 gleda	Ggnste	gledati-g	
@@ -24243,7 +24243,7 @@ vi	Zodmmi	ti-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:9" video="https://media.dipintra.it/?id=1036&start=00.48&end=00.53&collection=eptic3">
+<s id="1036:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.48&end=00.00.53">
 Ja	L	ja-l	
 <g/>
 ,	U	,-u	
@@ -24266,14 +24266,14 @@ kandidat	Somei	kandidat-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:10" video="https://media.dipintra.it/?id=1036&start=00.53&end=00.55&collection=eptic3">
+<s id="1036:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.53&end=00.00.55">
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 demokracija	Sozei	demokracija-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:11" video="https://media.dipintra.it/?id=1036&start=00.55&end=01.00&collection=eptic3">
+<s id="1036:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.00.55&end=00.01.00">
 Po	Dm	po-d	
 eni	Kbzzem	en-k	
 strani	Sozem	stran-s	
@@ -24299,7 +24299,7 @@ imeti	Ggnn	imeti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:12" video="https://media.dipintra.it/?id=1036&start=01.00&end=01.06&collection=eptic3">
+<s id="1036:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.00&end=00.01.06">
 Gospod	Somei	gospod-s	
 Verhofstadt	Slmei	Verhofstadt-s	
 je	Gp-ste-n	biti-g	
@@ -24327,7 +24327,7 @@ države	Sozmt	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:13" video="https://media.dipintra.it/?id=1036&start=01.06&end=01.08&collection=eptic3">
+<s id="1036:13" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.06&end=00.01.08">
 Njegova	Zstmdiem	njegov-z	
 prav	L	prav-l	
 gotovo	Rsn	gotovo-r	
@@ -24337,7 +24337,7 @@ kratkem	Ppnsem	kratek-p	kratko
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:14" video="https://media.dipintra.it/?id=1036&start=01.08&end=01.11&collection=eptic3">
+<s id="1036:14" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.08&end=00.01.11">
 V	Dt	v-d	
 dobro	Soset	dobro-s	
 Evropske	Ppnzer	evropski-p	evropska
@@ -24345,7 +24345,7 @@ unije	Sozer	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:15" video="https://media.dipintra.it/?id=1036&start=01.11&end=01.14&collection=eptic3">
+<s id="1036:15" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.11&end=00.01.14">
 Nihče	Zl-mei	nihče-z	
 ni	Gp-ste-d	biti-g	
 za	Dt	za-d	
@@ -24364,7 +24364,7 @@ si	Zp---d--k	se-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:16" video="https://media.dipintra.it/?id=1036&start=01.14&end=01.20&collection=eptic3">
+<s id="1036:16" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.14&end=00.01.20">
 Vi	Zodmmi	ti-z	
 lahko	Rsn	lahko-r	
 glasujete	Ggvsdm	glasovati-g	
@@ -24382,7 +24382,7 @@ glasovali	Ggvd-mm	glasovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:17" video="https://media.dipintra.it/?id=1036&start=01.20&end=01.22&collection=eptic3">
+<s id="1036:17" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.20&end=00.01.22">
 O-	DYSF	O-s	
 O	Dm	o-d	
 tem	Zk-sem	ta-z	
@@ -24392,7 +24392,7 @@ razpravljati	Ggnn	razpravljati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:18" video="https://media.dipintra.it/?id=1036&start=01.22&end=01.25&collection=eptic3">
+<s id="1036:18" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.22&end=00.01.25">
 O-	DYSF	O-s	
 na	Dm	na-d	
 vrhu	DYSF	vrhuu
@@ -24401,7 +24401,7 @@ Portugalska	Slzei	Portugalska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:19" video="https://media.dipintra.it/?id=1036&start=01.25&end=01.34&collection=eptic3">
+<s id="1036:19" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.25&end=00.01.34">
 Potem	Rsn	potem-r	
 ko	Vd	ko-v	
 smo	Gp-spm-n	biti-g	
@@ -24437,7 +24437,7 @@ tvoj	Zsdmeie	tvoj-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:20" video="https://media.dipintra.it/?id=1036&start=01.34&end=01.48&collection=eptic3">
+<s id="1036:20" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.34&end=00.01.48">
 Portugalska	Slzei	Portugalska-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -24461,7 +24461,7 @@ pomagati	Ggvn	pomagati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:21" video="https://media.dipintra.it/?id=1036&start=01.48&end=01.54&collection=eptic3">
+<s id="1036:21" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.48&end=00.01.54">
 ...	EPAUSE	...-u	
 To	Zk-sei	ta-z	
 se	Zp------k	se-z	
@@ -24488,7 +24488,7 @@ pokriti	Ggdn	pokriti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:22" video="https://media.dipintra.it/?id=1036&start=01.54&end=02.02&collection=eptic3">
+<s id="1036:22" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.01.54&end=00.02.02">
 V	Dm	v-d	
 zadnjih	Ppnmmm	zadnji-p	zadnji
 60-	DYSF	60-s	
@@ -24513,7 +24513,7 @@ banke	Sozer	banka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:23" video="https://media.dipintra.it/?id=1036&start=02.02&end=02.10&collection=eptic3">
+<s id="1036:23" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.02.02&end=00.02.10">
 Ne	L	ne-l	
 moremo	Ggnspm	moči-g	
 tako	Rsn	tako-r	
@@ -24534,7 +24534,7 @@ dolgove	DYSF	dolgoove
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1036:24" video="https://media.dipintra.it/?id=1036&start=02.10&end=02.20&collection=eptic3">
+<s id="1036:24" video="http://amelia.sslmit.unibo.it/video/video.php?id=1036.mp4&start=00.02.10&end=00.02.20">
 Če	Vd	če-v	
 bomo	Gp-ppm-n	biti-g	
 to	Zk-set	ta-z	
@@ -24574,7 +24574,7 @@ banko	Sozet	banka-s
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="143" duration="short" durations="68.0" speed="slow" speedwm="126.2" delivery="impromptu">
 <interpreter id="SL22" gender="M" native="NA">
-<s id="1038:1" video="https://media.dipintra.it/?id=1038&start=00.00&end=00.03&collection=eptic3">
+<s id="1038:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.00&end=00.00.03">
 Hvala	Sozei	hvala-s	
 <g/>
 ,	U	,-u	
@@ -24583,7 +24583,7 @@ predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:2" video="https://media.dipintra.it/?id=1038&start=00.03&end=00.16&collection=eptic3">
+<s id="1038:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.03&end=00.00.16">
 ...	EPAUSE	...-u	
 Ko	Vd	ko-v	
 se	Zp------k	se-z	
@@ -24602,7 +24602,7 @@ lakote	Sozer	lakota-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:3" video="https://media.dipintra.it/?id=1038&start=00.16&end=00.25&collection=eptic3">
+<s id="1038:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.16&end=00.00.25">
 ...	EPAUSE	...-u	
 36	Kag	[number]-k	
 tisoč	Kbg-mt	tisoč-k	
@@ -24626,7 +24626,7 @@ hrane	Sozer	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:4" video="https://media.dipintra.it/?id=1038&start=00.25&end=00.30&collection=eptic3">
+<s id="1038:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.25&end=00.00.30">
 ...	EPAUSE	...-u	
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
@@ -24645,7 +24645,7 @@ hrano	Sozeo	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:5" video="https://media.dipintra.it/?id=1038&start=00.30&end=00.40&collection=eptic3">
+<s id="1038:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.30&end=00.00.40">
 Sedaj	Rsn	sedaj-r	
 hrano	Sozet	hrana-s	
 ...	EPAUSE	...-u	
@@ -24662,7 +24662,7 @@ lačnim	Ppnmmd	lačen-p	lačen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:6" video="https://media.dipintra.it/?id=1038&start=00.40&end=00.50&collection=eptic3">
+<s id="1038:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.40&end=00.00.50">
 ...	EPAUSE	...-u	
 Približno	Rsn	približno-r	
 35	Kag	[number]-k	
@@ -24682,7 +24682,7 @@ zase	Zp---t--z	zase-z
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:7" video="https://media.dipintra.it/?id=1038&start=00.50&end=00.57&collection=eptic3">
+<s id="1038:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.50&end=00.00.57">
 Mi	Zopmmi	jaz-z	
 bi	Gp-g	biti-g	
 morali	Ggnd-mm	morati-g	
@@ -24706,7 +24706,7 @@ hrano	Sozet	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:8" video="https://media.dipintra.it/?id=1038&start=00.57&end=01.06&collection=eptic3">
+<s id="1038:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.00.57&end=00.01.06">
 V	Dm	v-d	
 Indiji	Slzem	Indija-s	
 je	Gp-ste-n	biti-g	
@@ -24735,7 +24735,7 @@ zgodilo	Ggdd-es	zgoditi-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1038:9" video="https://media.dipintra.it/?id=1038&start=01.06&end=01.16&collection=eptic3">
+<s id="1038:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1038.mp4&start=00.01.06&end=00.01.16">
 Če	Vd	če-v	
 si	Zp---d--k	se-z	
 pogledamo	Ggdspm	pogledati-g	
@@ -24774,13 +24774,13 @@ volja	Sozei	volja-s
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="67.0" speed="slow" speedwm="92.2" delivery="impromptu">
 <interpreter id="SL11" gender="F" native="NA">
-<s id="1039:1" video="https://media.dipintra.it/?id=1039&start=00.00&end=00.05&collection=eptic3">
+<s id="1039:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.00&end=00.00.05">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1039:2" video="https://media.dipintra.it/?id=1039&start=00.05&end=00.20&collection=eptic3">
+<s id="1039:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.05&end=00.00.20">
 Ehm	FPAUSE	Ehm-g	
 zelo	Rsn	zelo-r	
 <g/>
@@ -24802,7 +24802,7 @@ davkih	Sommm	davek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1039:3" video="https://media.dipintra.it/?id=1039&start=00.20&end=00.37&collection=eptic3">
+<s id="1039:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.20&end=00.00.37">
 880	Kag	[number]-k	
 milijard	Sozmr	milijarda-s	
 de-	DYSF	de-s	
@@ -24831,7 +24831,7 @@ banke	Sozmt	banka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1039:4" video="https://media.dipintra.it/?id=1039&start=00.37&end=00.50&collection=eptic3">
+<s id="1039:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.37&end=00.00.50">
 V	Dt	v-d	
 zameno	Sozet	zamena-s	
 za	Dt	za-d	
@@ -24859,7 +24859,7 @@ programom	Someo	program-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1039:5" video="https://media.dipintra.it/?id=1039&start=00.50&end=00.59&collection=eptic3">
+<s id="1039:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.50&end=00.00.59">
 Teh	Zk-mmr	ta-z	
 880	Kag	[number]-k	
 milijard	Sozmr	milijarda-s	
@@ -24881,7 +24881,7 @@ bankah	Sozmm	banka-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1039:6" video="https://media.dipintra.it/?id=1039&start=00.59&end=01.09&collection=eptic3">
+<s id="1039:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.00.59&end=00.01.09">
 Torej	Rsn	torej-r	
 <g/>
 ,	U	,-u	
@@ -24919,7 +24919,7 @@ rasle	Ggnd-mz	rasti-g
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1039:7" video="https://media.dipintra.it/?id=1039&start=01.09&end=01.20&collection=eptic3">
+<s id="1039:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1039.mp4&start=00.01.09&end=00.01.20">
 Imele	Ggnd-mz	imeti-g	
 bi	Gp-g	biti-g	
 ehm	FPAUSE	ehm-s	
@@ -24947,7 +24947,7 @@ Hvala	Sozei	hvala-s
 <speaker name="Deva Nirj" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="103" duration="short" durations="60.0" speed="slow" speedwm="103.0" delivery="impromptu">
 <interpreter id="SL05" gender="F" native="NA">
-<s id="1041:1" video="https://media.dipintra.it/?id=1041&start=00.00&end=00.11&collection=eptic3">
+<s id="1041:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.00&end=00.00.11">
 Običajno	Rsn	običajno-r	
 se	Zp------k	se-z	
 <g/>
@@ -24968,7 +24968,7 @@ ne	L	ne-l
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:2" video="https://media.dipintra.it/?id=1041&start=00.11&end=00.18&collection=eptic3">
+<s id="1041:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.11&end=00.00.18">
 Sam	Ppnmein	sam-p	sam
 sem	Gp-spe-n	biti-g	
 prišel	Ggdd-em	priti-g	
@@ -24990,7 +24990,7 @@ poglobljeno	Pdnsei	poglobljen-p	poglobljeno
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:3" video="https://media.dipintra.it/?id=1041&start=00.18&end=00.24&collection=eptic3">
+<s id="1041:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.18&end=00.00.24">
 Varna	Ppnzei	varen-p	varna
 hrana	Sozei	hrana-s	
 je	Gp-ste-n	biti-g	
@@ -25007,7 +25007,7 @@ svetu	Somem	svet-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:4" video="https://media.dipintra.it/?id=1041&start=00.24&end=00.30&collection=eptic3">
+<s id="1041:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.24&end=00.00.30">
 Evropska	Ppnzei	evropski-p	evropska
 unija	Sozei	unija-s	
 mora	Ggnste	morati-g	
@@ -25022,7 +25022,7 @@ hrano	Sozet	hrana-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:5" video="https://media.dipintra.it/?id=1041&start=00.30&end=00.43&collection=eptic3">
+<s id="1041:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.30&end=00.00.43">
 Torej	Rsn	torej-r	
 samozadostnost	Sozei	samozadostnost-s	
 <g/>
@@ -25059,7 +25059,7 @@ proizvodnje	Sozer	proizvodnja-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:6" video="https://media.dipintra.it/?id=1041&start=00.43&end=00.58&collection=eptic3">
+<s id="1041:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.43&end=00.00.58">
 Samozadostnost	Sozei	samozadostnost-s	
 v	Dm	v-d	
 Evropi	Slzem	Evropa-s	
@@ -25099,7 +25099,7 @@ trgovine	Sozer	trgovina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1041:7" video="https://media.dipintra.it/?id=1041&start=00.58&end=01.05&collection=eptic3">
+<s id="1041:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1041.mp4&start=00.00.58&end=00.01.05">
 S	Do	z-d	
 hrano	Sozeo	hrana-s	
 se	Zp------k	se-z	
@@ -25120,13 +25120,13 @@ Hvala	Sozei	hvala-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="196" duration="short" durations="62.0" speed="high" speedwm="189.7" delivery="impromptu">
 <interpreter id="SL02" gender="F" native="NA">
-<s id="1043:1" video="https://media.dipintra.it/?id=1043&start=00.00&end=00.01&collection=eptic3">
+<s id="1043:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.00&end=00.00.01">
 Samo	L	samo-l	
 pripomba	Sozei	pripomba-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:2" video="https://media.dipintra.it/?id=1043&start=00.01&end=00.10&collection=eptic3">
+<s id="1043:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.01&end=00.00.10">
 ...	EPAUSE	...-u	
 Veliko	DYSF	veeliko
 poslancev	Sommr	poslanec-s	
@@ -25143,7 +25143,7 @@ pripomba	Sozei	pripomba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:3" video="https://media.dipintra.it/?id=1043&start=00.10&end=00.12&collection=eptic3">
+<s id="1043:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.10&end=00.00.12">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 organizacijo	Sozet	organizacija-s	
@@ -25153,7 +25153,7 @@ vprašanja	Sosmt	vprašanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:4" video="https://media.dipintra.it/?id=1043&start=00.12&end=00.22&collection=eptic3">
+<s id="1043:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.12&end=00.00.22">
 ...	EPAUSE	...-u	
 Nihče	Zl-mei	nihče-z	
 ne	L	ne-l	
@@ -25188,7 +25188,7 @@ ne	L	ne-l
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:5" video="https://media.dipintra.it/?id=1043&start=00.22&end=00.35&collection=eptic3">
+<s id="1043:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.22&end=00.00.35">
 ...	EPAUSE	...-u	
 To	Zk-sei	ta-z	
 <g/>
@@ -25225,7 +25225,7 @@ vrsto	Sozet	vrsta-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:6" video="https://media.dipintra.it/?id=1043&start=00.35&end=00.40&collection=eptic3">
+<s id="1043:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.35&end=00.00.40">
 Tudi	L	tudi-l	
 sam	Ppnmein	sam-p	sam
 sem	Gp-spe-n	biti-g	
@@ -25241,7 +25241,7 @@ večerjo	Sozet	večerja-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:7" video="https://media.dipintra.it/?id=1043&start=00.40&end=00.46&collection=eptic3">
+<s id="1043:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.40&end=00.00.46">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -25269,7 +25269,7 @@ urnik	Sometn	urnik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:8" video="https://media.dipintra.it/?id=1043&start=00.46&end=00.58&collection=eptic3">
+<s id="1043:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.46&end=00.00.58">
 Vem	Ggnspe	vedeti-g	
 <g/>
 ,	U	,-u	
@@ -25313,14 +25313,14 @@ sporočilo	Soset	sporočilo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:9" video="https://media.dipintra.it/?id=1043&start=00.58&end=01.00&collection=eptic3">
+<s id="1043:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.00.58&end=00.01.00">
 To	Zk-set	ta-z	
 želim	Ggnspe	želeti-g	
 povedati	Ggdn	povedati-g	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1043:10" video="https://media.dipintra.it/?id=1043&start=01.00&end=01.09&collection=eptic3">
+<s id="1043:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1043.mp4&start=00.01.00&end=00.01.09">
 Nič	Zl-set	nič-z	
 osebno	Rsn	osebno-r	
 proti	Rsn	proti-r	
@@ -25347,7 +25347,7 @@ moti	Ggnste	motiti-g
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="90" duration="short" durations="39.0" speed="medium" speedwm="138.5" delivery="impromptu">
 <interpreter id="SL06" gender="F" native="Y">
-<s id="1009:1" video="https://media.dipintra.it/?id=1009&start=00.00&end=00.14&collection=eptic3">
+<s id="1009:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1009.mp4&start=00.00.00&end=00.00.14">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 <g/>
@@ -25378,7 +25378,7 @@ je	Gp-ste-n	biti-g
 neverjeten	Ppnmein	neverjeten-p	neverjeten
 in	Vp	in-v	
 </s>
-<s id="1009:2" video="https://media.dipintra.it/?id=1009&start=00.14&end=01.11&collection=eptic3">
+<s id="1009:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1009.mp4&start=00.00.14&end=00.01.11">
 primer	Somei	primer-s	
 ehm	FPAUSE	ehm-s	
 gospoda	Somer	gospod-s	
@@ -25468,7 +25468,7 @@ let	Sosmr	leto-s
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="144" duration="short" durations="60.0" speed="medium" speedwm="144.0" delivery="impromptu">
 <interpreter id="SL23" gender="M" native="NA">
-<s id="1008:1" video="https://media.dipintra.it/?id=1008&start=00.00&end=00.09&collection=eptic3">
+<s id="1008:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.00&end=00.00.09">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 <g/>
@@ -25489,14 +25489,14 @@ sedaj	Rsn	sedaj-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:2" video="https://media.dipintra.it/?id=1008&start=00.09&end=00.11&collection=eptic3">
+<s id="1008:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.09&end=00.00.11">
 Hvala	Sozei	hvala-s	
 lepa	Ppnzei	lep-p	lepa
 poročevalcu	Somed	poročevalec-s	
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:3" video="https://media.dipintra.it/?id=1008&start=00.11&end=00.18&collection=eptic3">
+<s id="1008:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.11&end=00.00.18">
 Irski	Ppnmmi	irski-p	irski
 kmetje	Sommi	kmet-s	
 ravno	L	ravno-l	
@@ -25511,7 +25511,7 @@ Dublinu	Slmem	Dublin-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:4" video="https://media.dipintra.it/?id=1008&start=00.18&end=00.19&collection=eptic3">
+<s id="1008:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.18&end=00.00.19">
 Gotovo	Rsn	gotovo-r	
 bodo	Gp-ptm-n	biti-g	
 to	Zk-set	ta-z	
@@ -25520,7 +25520,7 @@ počeli	Ggvd-mm	početi-g
 celo	Ppnzet	cel-p	cela
 noč	Sozet	noč-s	
 </s>
-<s id="1008:5" video="https://media.dipintra.it/?id=1008&start=00.19&end=00.21&collection=eptic3">
+<s id="1008:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.19&end=00.00.21">
 in	Vp	in-v	
 to	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
@@ -25530,7 +25530,7 @@ zadeva	Sozei	zadeva-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:6" video="https://media.dipintra.it/?id=1008&start=00.21&end=00.44&collection=eptic3">
+<s id="1008:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.21&end=00.00.44">
 V	Dm	v-d	
 tem	Zk-sem	ta-z	
 poročilu	Sosem	poročilo-s	
@@ -25605,7 +25605,7 @@ nakateri	Ggdd-mz	nakateri-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:7" video="https://media.dipintra.it/?id=1008&start=00.44&end=00.56&collection=eptic3">
+<s id="1008:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.44&end=00.00.56">
 Tudi	L	tudi-l	
 irski	Ppnmmi	irski-p	irski
 proizvajalci	Sommi	proizvajalec-s	
@@ -25637,7 +25637,7 @@ kmete	DYSF	kmet
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:8" video="https://media.dipintra.it/?id=1008&start=00.56&end=01.02&collection=eptic3">
+<s id="1008:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.00.56&end=00.01.02">
 Tudi	L	tudi-l	
 ogljični	Ppnmetd	ogljični-p	ogljični
 odtis	Sometn	odtis-s	
@@ -25654,7 +25654,7 @@ govedine	Sozer	govedina-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1008:9" video="https://media.dipintra.it/?id=1008&start=01.02&end=01.06&collection=eptic3">
+<s id="1008:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1008.mp4&start=00.01.02&end=00.01.06">
 Torej	Rsn	torej-r	
 <g/>
 ,	U	,-u	
@@ -25677,7 +25677,7 @@ poročilo	Soset	poročilo-s
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="147" duration="short" durations="59.0" speed="medium" speedwm="149.5" delivery="impromptu">
 <interpreter id="SL01" gender="F" native="NA">
-<s id="1007:1" video="https://media.dipintra.it/?id=1007&start=00.00&end=00.09&collection=eptic3">
+<s id="1007:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1007.mp4&start=00.00.00&end=00.00.09">
 Več	Rsr	več-r	
 aspektov	Sommr	aspekt-s	
 je	Gp-ste-n	biti-g	
@@ -25685,7 +25685,7 @@ tukaj	Rsn	tukaj-r
 <g/>
 ,	U	,-u	
 </s>
-<s id="1007:2" video="https://media.dipintra.it/?id=1007&start=00.09&end=00.35&collection=eptic3">
+<s id="1007:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1007.mp4&start=00.00.09&end=00.00.35">
 vendar	Vp	vendar-v	
 pa	Vp	pa-v	
 je	Gp-ste-n	biti-g	
@@ -25740,7 +25740,7 @@ leta	Soser	leto-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1007:3" video="https://media.dipintra.it/?id=1007&start=00.35&end=01.06&collection=eptic3">
+<s id="1007:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1007.mp4&start=00.00.35&end=00.01.06">
 Drugi	Kbzmeid	drug-k	
 aspekt	Somei	aspekt-s	
 je	Gp-ste-n	biti-g	
@@ -25817,7 +25817,7 @@ zadovoljni	Ppnmmi	zadovoljen-p	zadovoljen
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="117" duration="short" durations="51.0" speed="medium" speedwm="137.6" delivery="impromptu">
 <interpreter id="SL03" gender="M" native="NA">
-<s id="1006:1" video="https://media.dipintra.it/?id=1006&start=00.00&end=00.14&collection=eptic3">
+<s id="1006:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.00&end=00.00.14">
 Tudi	L	tudi-l	
 ehm	FPAUSE	ehm-g	
 sam	Ppnmein	sam-p	sam
@@ -25848,7 +25848,7 @@ storitev	Sozet	storitev-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1006:2" video="https://media.dipintra.it/?id=1006&start=00.14&end=00.17&collection=eptic3">
+<s id="1006:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.14&end=00.00.17">
 In	Vp	in-v	
 to	Zk-set	ta-z	
 moramo	Ggnspm	morati-g	
@@ -25856,7 +25856,7 @@ prenehati	Ggdn	prenehati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1006:3" video="https://media.dipintra.it/?id=1006&start=00.17&end=00.22&collection=eptic3">
+<s id="1006:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.17&end=00.00.22">
 Predlogi	Sommi	predlog-s	
 glede	Dr	glede-d	
 Mercosurja	Slmer	Mercosurja-s	
@@ -25876,7 +25876,7 @@ parlamentom	Someo	parlament-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1006:4" video="https://media.dipintra.it/?id=1006&start=00.22&end=00.27&collection=eptic3">
+<s id="1006:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.22&end=00.00.27">
 To	Zk-sei	ta-z	
 lahko	Rsn	lahko-r	
 ehm	FPAUSE	ehm-g	
@@ -25890,7 +25890,7 @@ industrije	Sozer	industrija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1006:5" video="https://media.dipintra.it/?id=1006&start=00.27&end=00.40&collection=eptic3">
+<s id="1006:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.27&end=00.00.40">
 Pr	N	pr-n	
 Pravijo	Ggvstm	praviti-g	
 <g/>
@@ -25933,7 +25933,7 @@ sektor	Sometn	sektor-s
 <g/>
 ,	U	,-u	
 </s>
-<s id="1006:6" video="https://media.dipintra.it/?id=1006&start=00.40&end=01.00&collection=eptic3">
+<s id="1006:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1006.mp4&start=00.00.40&end=00.01.00">
 zato	Rsn	zato-r	
 sem	Gp-spe-n	biti-g	
 zelo	Rsn	zelo-r	
@@ -25993,7 +25993,7 @@ Evropi	Slzem	Evropa-s
 <speaker name="De Rossa Proinsias " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="54" duration="short" durations="22.0" speed="medium" speedwm="147.3" delivery="impromptu">
 <interpreter id="SL22" gender="M" native="NA">
-<s id="1004:1" video="https://media.dipintra.it/?id=1004&start=00.00&end=00.07&collection=eptic3">
+<s id="1004:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1004.mp4&start=00.00.00&end=00.00.07">
 Upam	Ggnspe	upati-g	
 <g/>
 ,	U	,-u	
@@ -26015,7 +26015,7 @@ Irec	DYSF	Iirec/
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1004:2" video="https://media.dipintra.it/?id=1004&start=00.07&end=00.14&collection=eptic3">
+<s id="1004:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1004.mp4&start=00.00.07&end=00.00.14">
 Lahko	DYSF	lahko-r	
 /	U	/-u	
 <g/>
@@ -26034,7 +26034,7 @@ kraljestva	DYSF	kraljestvaa
 <g/>
 ?	U	?-u	
 </s>
-<s id="1004:3" video="https://media.dipintra.it/?id=1004&start=00.14&end=00.24&collection=eptic3">
+<s id="1004:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1004.mp4&start=00.00.14&end=00.00.24">
 Je	Gp-ste-n	biti-g	
 so	Gp-stm-n	biti-g	
 to	Zk-sei	ta-z	
@@ -26051,7 +26051,7 @@ Ircev	Slmmr	Irec-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1004:4" video="https://media.dipintra.it/?id=1004&start=00.24&end=00.28&collection=eptic3">
+<s id="1004:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1004.mp4&start=00.00.24&end=00.00.28">
 A	Vp	a-v	
 ni	Gp-ste-d	biti-g	
 to	Zk-sei	ta-z	
@@ -26062,7 +26062,7 @@ nacij	DYSF	naacij
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1004:5" video="https://media.dipintra.it/?id=1004&start=00.28&end=00.30&collection=eptic3">
+<s id="1004:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1004.mp4&start=00.00.28&end=00.00.30">
 ...	EPAUSE	...-u	
 Zelo	Rsn	zelo-r	
 ponosnih	Ppnzmr	ponosen-p	ponosna
@@ -26078,7 +26078,7 @@ nacij	Sozmr	nacija-s
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="191" duration="short" durations="69.0" speed="high" speedwm="166.1" delivery="impromptu">
 <interpreter id="SL05" gender="F" native="NA">
-<s id="1005:1" video="https://media.dipintra.it/?id=1005&start=00.00&end=00.28&collection=eptic3">
+<s id="1005:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.00&end=00.00.28">
 Ko	Vd	ko-v	
 se	Zp------k	se-z	
 pogovarjam	Ggnspe	pogovarjati-g	
@@ -26159,7 +26159,7 @@ unijo	Sozeo	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:2" video="https://media.dipintra.it/?id=1005&start=00.28&end=00.32&collection=eptic3">
+<s id="1005:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.28&end=00.00.32">
 Je	Gp-ste-n	biti-g	
 eden	Kbzmei	eden-k	
 od	Dr	od-d	
@@ -26172,7 +26172,7 @@ SKP	Sozmr	SKP-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:3" video="https://media.dipintra.it/?id=1005&start=00.32&end=00.50&collection=eptic3">
+<s id="1005:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.32&end=00.00.50">
 ZDA	Slzmi	ZDA-s	
 imajo	Ggnstm-n	imeti-g	
 vse	Rsn	vse-r	
@@ -26222,7 +26222,7 @@ standarde	Sommt	standard-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:4" video="https://media.dipintra.it/?id=1005&start=00.50&end=00.53&collection=eptic3">
+<s id="1005:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.50&end=00.00.53">
 Seveda	L	seveda-l	
 potrebujemo	Ggnspm	potrebovati-g	
 varno	Ppnzet	varen-p	varna
@@ -26234,7 +26234,7 @@ ampak	Vp	ampak-v
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:5" video="https://media.dipintra.it/?id=1005&start=00.53&end=00.58&collection=eptic3">
+<s id="1005:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.53&end=00.00.58">
 Te	Zk-mmt	ta-z	
 standarde	Sommt	standard-s	
 uporabljamo	Ggnspm	uporabljati-g	
@@ -26250,7 +26250,7 @@ DVR	Slmdr	DVR-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:6" video="https://media.dipintra.it/?id=1005&start=00.58&end=01.02&collection=eptic3">
+<s id="1005:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.00.58&end=00.01.02">
 Kajti	Vp	kajti-v	
 čas	Somei	čas-s	
 je	Gp-ste-n	biti-g	
@@ -26262,7 +26262,7 @@ potrošnikom	Sommd	potrošnik-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:7" video="https://media.dipintra.it/?id=1005&start=01.02&end=01.05&collection=eptic3">
+<s id="1005:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.01.02&end=00.01.05">
 Naj	L	naj-l	
 potrošnik	Somei	potrošnik-s	
 ehm	FPAUSE	ehm-s	
@@ -26278,7 +26278,7 @@ kupil	Ggdd-em	kupiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1005:8" video="https://media.dipintra.it/?id=1005&start=01.05&end=01.15&collection=eptic3">
+<s id="1005:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1005.mp4&start=00.01.05&end=00.01.15">
 Nehajmo	Ggdvpm	nehati-g	
 subvencionirati	Ggvn	subvencionirati-g	
 neprofitne	Ppnzmi	neprofiten-p	neprofitna
@@ -26298,7 +26298,7 @@ Evropi	Slzem	Evropa-s
 <speaker name="Hannan Daniel" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="184" duration="short" durations="68.0" speed="high" speedwm="162.4" delivery="impromptu">
 <interpreter id="SL05" gender="F" native="NA">
-<s id="1010:1" video="https://media.dipintra.it/?id=1010&start=00.00&end=00.14&collection=eptic3">
+<s id="1010:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.00.00&end=00.00.14">
 Gospod	Somei	gospod-s	
 predsedujoči	Pdnmeid	predsedujoč-p	predsedujoči
 <g/>
@@ -26327,7 +26327,7 @@ immoralnostjo	Sozeo	immoralnostjo-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1010:2" video="https://media.dipintra.it/?id=1010&start=00.14&end=00.37&collection=eptic3">
+<s id="1010:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.00.14&end=00.00.37">
 Ob	Dm	ob-d	
 koncu	Somem	konec-s	
 petdesetih	Kbvsmr	petdeseti-k	
@@ -26398,7 +26398,7 @@ naše	Zspmmtm	naš-z
 trge	Sommt	trg-s	
 in	Vp	in-v	
 </s>
-<s id="1010:3" video="https://media.dipintra.it/?id=1010&start=00.37&end=00.52&collection=eptic3">
+<s id="1010:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.00.37&end=00.00.52">
 v	Dm	v-d	
 zadnjem	DYSF	zad_njem
 krogu	Somem	krog-s	
@@ -26434,7 +26434,7 @@ sektorju	Somem	sektor-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1010:4" video="https://media.dipintra.it/?id=1010&start=00.52&end=00.54&collection=eptic3">
+<s id="1010:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.00.52&end=00.00.54">
 Ampak	Vp	ampak-v	
 poglejmo	Ggdvpm	pogledati-g	
 <g/>
@@ -26446,7 +26446,7 @@ zgodilo	Ggdd-es	zgoditi-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1010:5" video="https://media.dipintra.it/?id=1010&start=00.54&end=01.06&collection=eptic3">
+<s id="1010:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.00.54&end=00.01.06">
 SKP	Somei	SKP-s	
 obstaja	Ggnste	obstajati-g	
 že	L	že-l	
@@ -26478,7 +26478,7 @@ slabo	Rsn	slabo-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1010:6" video="https://media.dipintra.it/?id=1010&start=01.06&end=01.10&collection=eptic3">
+<s id="1010:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.01.06&end=00.01.10">
 Poglejte	Ggdvdm	pogledati-g	
 <g/>
 ,	U	,-u	
@@ -26494,7 +26494,7 @@ naprej	Rsn	naprej-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1010:7" video="https://media.dipintra.it/?id=1010&start=01.10&end=01.15&collection=eptic3">
+<s id="1010:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1010.mp4&start=00.01.10&end=00.01.15">
 Kaj	Zv-set	kaj-z	
 pa	Vp	pa-v	
 sploh	L	sploh-l	
@@ -26510,7 +26510,7 @@ mislimo	Ggnspm	misliti-g
 <speaker name="Mitchell Gay " gender="M" country="Ireland" politfunc="MEP" politgroup="S&D">
 <st language="en" length="long" lengthw="66" duration="short" durations="19.0" speed="high" speedwm="208.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1011:1&collection=eptic3">
+<s id="1011:1">
 Tukaj	Rsn	tukaj-r	
 sem	Gp-spe-n	biti-g	
 že	L	že-l	
@@ -26533,7 +26533,7 @@ ehm	FPAUSE	ehm-s
 <g/>
 .	U	.-u	
 </s>
-<s id="1011:2&collection=eptic3">
+<s id="1011:2">
 30	Kag	[number]-k	
 in	Vp	in-v	
 ehm	FPAUSE	ehm-g	
@@ -26590,7 +26590,7 @@ vprašanje	Sosei	vprašanje-s
 <speaker name="Crowley Brian" gender="M" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="108" duration="short" durations="49.0" speed="medium" speedwm="132.2" delivery="impromptu">
 <interpreter id="SL10" gender="F" native="NA">
-<s id="1012:1" video="https://media.dipintra.it/?id=1012&start=00.00&end=00.20&collection=eptic3">
+<s id="1012:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1012.mp4&start=00.00.00&end=00.00.20">
 Najprej	Rss	najprej-r	
 na	Dm	na-d	
 Kitajskem	Slsem	Kitajsko-s	
@@ -26614,7 +26614,7 @@ nanaša	Ggnste	nanašati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1012:2" video="https://media.dipintra.it/?id=1012&start=00.20&end=00.37&collection=eptic3">
+<s id="1012:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1012.mp4&start=00.00.20&end=00.00.37">
 In	Vp	in-v	
 kot	Vd	kot-v	
 drugo	Kbzzet	drug-k	
@@ -26663,7 +26663,7 @@ Kitajskem	Slsem	Kitajsko-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1012:3" video="https://media.dipintra.it/?id=1012&start=00.37&end=00.48&collection=eptic3">
+<s id="1012:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1012.mp4&start=00.00.37&end=00.00.48">
 In	Vp	in-v	
 tretjič	Rsn	tretjič-r	
 <g/>
@@ -26689,7 +26689,7 @@ Japonsko	Slzeo	Japonska-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1012:4" video="https://media.dipintra.it/?id=1012&start=00.48&end=00.49&collection=eptic3">
+<s id="1012:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1012.mp4&start=00.00.48&end=00.00.49">
 ...	EPAUSE	...-u	
 Tudi	L	tudi-l	
 kar	Rsn	kar-r	
@@ -26698,7 +26698,7 @@ naložbe	Sozmt	naložba-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1012:5" video="https://media.dipintra.it/?id=1012&start=00.49&end=00.55&collection=eptic3">
+<s id="1012:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1012.mp4&start=00.00.49&end=00.00.55">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -26719,7 +26719,7 @@ zgledu	Somed	zgled-s
 <speaker name="Harkin Marian" gender="F" country="Ireland" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="long" lengthw="88" duration="short" durations="35.0" speed="medium" speedwm="150.9" delivery="impromptu">
 <interpreter id="SL10" gender="F" native="NA">
-<s id="1013:1" video="https://media.dipintra.it/?id=1013&start=00.00&end=00.07&collection=eptic3">
+<s id="1013:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1013.mp4&start=00.00.00&end=00.00.07">
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -26732,7 +26732,7 @@ drugačno	DYSF	drugačne
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1013:2" video="https://media.dipintra.it/?id=1013&start=00.07&end=00.13&collection=eptic3">
+<s id="1013:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1013.mp4&start=00.00.07&end=00.00.13">
 Gre	Ggvste	iti-g	
 za	DYSF	zaa
 države	Sozer	država-s	
@@ -26744,7 +26744,7 @@ ukrepe	Sommt	ukrep-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1013:3" video="https://media.dipintra.it/?id=1013&start=00.13&end=00.24&collection=eptic3">
+<s id="1013:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1013.mp4&start=00.00.13&end=00.00.24">
 Ključnega	Somei	Ključnega-s	
 pomena	Somer	pomen-s	
 je	Gp-ste-n	biti-g	
@@ -26769,7 +26769,7 @@ dobivajo	Ggnstm	dobivati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1013:4" video="https://media.dipintra.it/?id=1013&start=00.24&end=00.28&collection=eptic3">
+<s id="1013:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1013.mp4&start=00.00.24&end=00.00.28">
 Včasih	Rsn	včasih-r	
 majhna	Ppnzei	majhen-p	majhna
 in	Vp	in-v	
@@ -26784,7 +26784,7 @@ tvegati	Ggvn	tvegati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1013:5" video="https://media.dipintra.it/?id=1013&start=00.28&end=00.43&collection=eptic3">
+<s id="1013:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1013.mp4&start=00.00.28&end=00.00.43">
 Moje	Zspseie	moj-z	
 vprašanje	Sosei	vprašanje-s	
 v	Dm	v-d	
@@ -26822,7 +26822,7 @@ podjetij	Sosmr	podjetje-s
 <speaker name="Moraes Claude" gender="M" country="United Kingdom" politfunc="MEP" politgroup="S&D">
 <st language="en" length="short" lengthw="314" duration="medium" durations="152.0" speed="slow" speedwm="123.9" delivery="mixed">
 <interpreter id="SL06" gender="F" native="Y">
-<s id="1014:1" video="https://media.dipintra.it/?id=1014&start=00.00&end=00.19&collection=eptic3">
+<s id="1014:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.00.00&end=00.00.19">
 Gospod	Somei	gospod-s	
 ehm	FPAUSE	ehm-s	
 predsedujoči	Pdnmmi	predsedujoč-p	predsedujoči
@@ -26854,7 +26854,7 @@ situacije	Sozer	situacija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:2" video="https://media.dipintra.it/?id=1014&start=00.19&end=00.35&collection=eptic3">
+<s id="1014:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.00.19&end=00.00.35">
 Tako	Rsn	tako-r	
 kot	Vd	kot-v	
 je	Gp-ste-n	biti-g	
@@ -26887,7 +26887,7 @@ mučili	Ggnd-mm	mučiti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:3" video="https://media.dipintra.it/?id=1014&start=00.35&end=00.47&collection=eptic3">
+<s id="1014:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.00.35&end=00.00.47">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 bilo	Gp-d-es	biti-g	
@@ -26922,7 +26922,7 @@ ehm	FPAUSE	ehm-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:4" video="https://media.dipintra.it/?id=1014&start=00.47&end=01.07&collection=eptic3">
+<s id="1014:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.00.47&end=00.01.07">
 Ker	Vd	ker-v	
 že	L	že-l	
 je	Gp-ste-n	biti-g	
@@ -26976,7 +26976,7 @@ izjemoma	Rsn	izjemoma-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:5" video="https://media.dipintra.it/?id=1014&start=01.07&end=01.31&collection=eptic3">
+<s id="1014:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.01.07&end=00.01.31">
 Nisem	Gp-spe-d	biti-g	
 tako	Rsn	tako-r	
 velik	Ppnmein	velik-p	velik
@@ -27043,7 +27043,7 @@ uniji	Sozem	unija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:6" video="https://media.dipintra.it/?id=1014&start=01.31&end=01.36&collection=eptic3">
+<s id="1014:6" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.01.31&end=00.01.36">
 Ampak	Vp	ampak-v	
 če	Vd	če-v	
 se	Zp------k	se-z	
@@ -27063,7 +27063,7 @@ državo	Sozet	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:7" video="https://media.dipintra.it/?id=1014&start=01.36&end=01.47&collection=eptic3">
+<s id="1014:7" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.01.36&end=00.01.47">
 Ehm	FPAUSE	Ehm-g	
 ni	Gp-ste-d	biti-g	
 pomembno	Ppnsei	pomemben-p	pomembno
@@ -27084,7 +27084,7 @@ inštrumenta	Somer	inštrument-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:8" video="https://media.dipintra.it/?id=1014&start=01.47&end=01.54&collection=eptic3">
+<s id="1014:8" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.01.47&end=00.01.54">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 resno	Ppnsei	resen-p	resno
@@ -27111,7 +27111,7 @@ državi	Sozem	država-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:9" video="https://media.dipintra.it/?id=1014&start=01.54&end=02.15&collection=eptic3">
+<s id="1014:9" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.01.54&end=00.02.15">
 Dejansko	Rsn	dejansko-r	
 me	Zop-er--k	jaz-z	
 ne	L	ne-l	
@@ -27154,7 +27154,7 @@ prisluškovanja	Soser	prisluškovanje-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:10" video="https://media.dipintra.it/?id=1014&start=02.15&end=02.19&collection=eptic3">
+<s id="1014:10" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.02.15&end=00.02.19">
 Ali	Vp	ali-v	
 kdorkoli	Zz-mei	kdorkoli-z	
 izpodbija	Ggnste	izpodbijati-g	
@@ -27163,7 +27163,7 @@ dejstvo	Sosei	dejstvo-s
 <g/>
 ?	SENT	?-s	
 </s>
-<s id="1014:11" video="https://media.dipintra.it/?id=1014&start=02.19&end=02.33&collection=eptic3">
+<s id="1014:11" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.02.19&end=00.02.33">
 Veliko	Rsn	veliko-r	
 sem	Gp-spe-n	biti-g	
 se	Zp------k	se-z	
@@ -27205,7 +27205,7 @@ bilo	Gp-d-es	biti-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1014:12" video="https://media.dipintra.it/?id=1014&start=02.33&end=02.41&collection=eptic3">
+<s id="1014:12" video="http://amelia.sslmit.unibo.it/video/video.php?id=1014.mp4&start=00.02.33&end=00.02.41">
 Zaradi	Dr	zaradi-d	
 tega	Zk-ser	ta-z	
 komisija	Sozei	komisija-s	
@@ -27223,7 +27223,7 @@ preučiti	Ggdn	preučiti-g
 <speaker name="Kamall Syed" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="141" duration="short" durations="53.0" speed="medium" speedwm="159.6" delivery="impromptu">
 <interpreter id="SL11" gender="F" native="NA">
-<s id="1015:1" video="https://media.dipintra.it/?id=1015&start=00.00&end=00.14&collection=eptic3">
+<s id="1015:1" video="http://amelia.sslmit.unibo.it/video/video.php?id=1015.mp4&start=00.00.00&end=00.00.14">
 Gospa	Sozei	gospa-s	
 predsedujoča	Pdnzei	predsedujoč-p	predsedujoča
 <g/>
@@ -27252,7 +27252,7 @@ jasen	Ppnmein	jasen-p	jasen
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1015:2" video="https://media.dipintra.it/?id=1015&start=00.14&end=00.24&collection=eptic3">
+<s id="1015:2" video="http://amelia.sslmit.unibo.it/video/video.php?id=1015.mp4&start=00.00.14&end=00.00.24">
 Na	Dm	na-d	
 nekaterih	Zn-smm	nekateri-z	
 področjih	Sosmm	področje-s	
@@ -27285,7 +27285,7 @@ zavržki	Sommo	zavržek-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1015:3" video="https://media.dipintra.it/?id=1015&start=00.24&end=00.26&collection=eptic3">
+<s id="1015:3" video="http://amelia.sslmit.unibo.it/video/video.php?id=1015.mp4&start=00.00.24&end=00.00.26">
 Torej	Rsn	torej-r	
 jasno	Ppnsei	jasen-p	jasno
 je	Gp-ste-n	biti-g	
@@ -27298,7 +27298,7 @@ deluje	Ggnste	delovati-g
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1015:4" video="https://media.dipintra.it/?id=1015&start=00.26&end=00.40&collection=eptic3">
+<s id="1015:4" video="http://amelia.sslmit.unibo.it/video/video.php?id=1015.mp4&start=00.00.26&end=00.00.40">
 Potrebno	Rsn	potrebno-r	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	
@@ -27338,7 +27338,7 @@ generacije	Sozmt	generacija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1015:5" video="https://media.dipintra.it/?id=1015&start=00.40&end=01.01&collection=eptic3">
+<s id="1015:5" video="http://amelia.sslmit.unibo.it/video/video.php?id=1015.mp4&start=00.00.40&end=00.01.01">
 Če	DYSF	čee
 bi	Gp-g	biti-g	
 ehm	FPAUSE	ehm-s	
@@ -27387,7 +27387,7 @@ sporazumov	Sommr	sporazum-s
 <speaker name="Higgins Jim" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="long" lengthw="98" duration="short" durations="43.0" speed="medium" speedwm="136.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1016:1&collection=eptic3">
+<s id="1016:1">
 To	Zk-sei	ta-z	
 je	Gp-ste-n	biti-g	
 popolna	Ppnzei	popoln-p	popolna
@@ -27395,7 +27395,7 @@ farsa	Sozei	farsa-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1016:2&collection=eptic3">
+<s id="1016:2">
 Gre	Ggvste	iti-g	
 za	Dt	za-d	
 postopkovno	Ppnzet	postopkoven-p	postopkovna
@@ -27403,7 +27403,7 @@ zadevo	Sozet	zadeva-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1016:3&collection=eptic3">
+<s id="1016:3">
 Čas	Somei	čas-s	
 ehm	FPAUSE	ehm-s	
 za	Dt	za-d	
@@ -27416,14 +27416,14 @@ od	Dr	od-d
 <g/>
 .	U	.-u	
 </s>
-<s id="1016:4&collection=eptic3">
+<s id="1016:4">
 30	Kag	[number]-k	
 do	Dr	do-d	
 20	Kag	[number]-k	
 <g/>
 .	U	.-u	
 </s>
-<s id="1016:5&collection=eptic3">
+<s id="1016:5">
 30	Kag	[number]-k	
 <g/>
 .	SENT	.-s	
@@ -27465,7 +27465,7 @@ komisij	Sozmr	komisija-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1016:6&collection=eptic3">
+<s id="1016:6">
 V	Dm	v-d	
 ehm	FPAUSE	ehm-s	
 krizi	Sozem	kriza-s	
@@ -27475,7 +27475,7 @@ Irskem	Slsem	Irsko-s
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1016:7&collection=eptic3">
+<s id="1016:7">
 Ehm	FPAUSE	Ehm-g	
 trije	Kbgmmi	trije-k	
 irski	Ppnmmi	irski-p	irski
@@ -27514,7 +27514,7 @@ pol	Rsn	pol-r
 <g/>
 .	SENT	.-s	
 </s>
-<s id="1016:8&collection=eptic3">
+<s id="1016:8">
 Kdo	Zv-mei	kdo-z	
 se	Zp------k	se-z	
 je	Gp-ste-n	biti-g	

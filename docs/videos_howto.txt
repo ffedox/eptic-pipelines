@@ -1,0 +1,22 @@
+To include a video in your corpus, you need to annotate the appropriate element adding an attribute called "video" or "media" (the name of the attribute is not important), the value must be in the following format:
+
+https://media.dipintra.it/?id=1004&start=00:08&end=00:13&collection=eptic3
+
+So, if you choose to annotate at the level of the <s> element, the annotation should look like this:
+
+<s video="https://media.dipintra.it/?id=1004&start=00:08&end=00:13&collection=eptic3">
+Portsmouth are a reminder of how football used to be before the corporate takeover
+</s>
+
+Here's a breakdown of the REQUIRED parameters (note that parameter order is not important, but they must be separated by an "&"):
+
+id 				the name of the video file (without extension, i.e. remove .mp4, if your file is called "video01.mp4", the id needs to be "video01")
+start			playback will start at position ’start’ which can be specified as HH:MM:SS or MM:SS, milliseconds are optional and can be specified by adding .XXX, e.g. 01:12.234
+end				playback will stop at ‘end’, parameters are in the same format as ‘start'
+collection		the name of the directory where videos will be stored on the server, typically the name of your corpus (e.g. "eptic")
+
+OPTIONAL parameters:
+
+type			always ‘video' (audio is not available at the time)
+mode			can be either ‘full’ (make the whole video file available, the video will start and stop automatically at the start and end times specified above) or ‘clip’ (cut the video file and only display the portion between start and end); if you set this to ‘full' and don’t specify ‘start' and ‘end' parameters, the whole video will be displayed, RECOMMENDED VALUE IS 'full' because clip can sometimes be imprecise
+display_name	the title that will appear on the page (spaces between words need to be replaced with ‘%20'); this parameter is optional, if you omit it, 'collection: id' will be used as name, if you don’t want a name to be displayed, set this parameter to ‘null’ (i.e. display_name=null)
