@@ -37,7 +37,7 @@ eptic_fr_wr_tt.vert
 eptic_sl_wr_tt.vert
 eptic_it_wr_st.vert
 
-LISTA DEI VERT DA RICOMPILARE
+>LISTA DEI VERT DA RICOMPILARE
 eptic_de_sp_tt.vert
 eptic_en_sp_tt_from_it.vert
 eptic_fr_sp_st.vert
@@ -58,7 +58,7 @@ eptic_de_wr_tt.vert
 
 VIDEO 
 
-Convertiti tutti i .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4
+Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4
 
 
 SITO DI EPTIC
@@ -68,5 +68,4 @@ File .htm aggiornati in /home/afedotova/EPTIC25/eptic.v3/website
 
 VARIE ED EVENTUALI
 
-Si può avere una GUI per WhisperX?
 Come fare col database di SkEPTIC?
