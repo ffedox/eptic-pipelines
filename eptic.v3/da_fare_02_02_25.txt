@@ -27,45 +27,24 @@ eptic_fi_sp_tt.vert
 eptic_it_sp_st.vert  
 eptic_sl_sp_tt.vert
 
-LISTA DEI VERT CHE NON HANNO SUBITO CAMBIAMENTI
-eptic_it_wr_tt.vert
-eptic_en_wr_tt_from_fr.vert
-eptic_fr_wr_st.vert
-eptic_pl_wr_st.vert
-eptic_en_wr_tt_from_pl.vert
-eptic_fr_wr_tt.vert
-eptic_sl_wr_tt.vert
-eptic_it_wr_st.vert
-
->LISTA DEI VERT DA RICOMPILARE
-eptic_de_sp_tt.vert
-eptic_en_sp_tt_from_it.vert
-eptic_fr_sp_st.vert
-eptic_it_sp_tt.vert
-eptic_en_sp_st.vert
-eptic_en_sp_tt_from_pl.vert
-eptic_fr_sp_tt.vert
-eptic_pl_sp_st.vert
-eptic_en_sp_tt_from_fr.vert
-eptic_fi_sp_tt.vert
-eptic_it_sp_st.vert
-eptic_sl_sp_tt.vert
-eptic_fi_wr_tt.vert
-eptic_en_wr_tt_from_it.vert
-eptic_en_wr_st.vert
-eptic_de_wr_tt.vert
-
+4. Da rivedere alcuni tag. 07.02.25 ho notato che ho perso events.speaker_is_native.
+Altri metadati mancanti? Controllare.
 
 VIDEO 
 
-Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4
+Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4. Poi caricare
 
 
 SITO DI EPTIC
 
-File .htm aggiornati in /home/afedotova/EPTIC25/eptic.v3/website
+File .htm aggiornati in /home/afedotova/EPTIC25/eptic.v3/website. Da caricare
 
 
 VARIE ED EVENTUALI
 
 Come fare col database di SkEPTIC?
+
+Some new fields for the database (unrelated) like:
+
+texts.source (default should be skeptic)
+texts.has_video (0 or 1 depending if its there)
