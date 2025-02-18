@@ -6,7 +6,7 @@ Workflow for future EPTIC updates.
 
 1. database_tables contains a file "texts_for_test.xlsx" simulating the texts table in the database after an user has added IT to an existing event. Let's assume this is what we would find in SkEPTIC's database.
 
-Text 1920 (written target) is the verbatim report; text 1855 (spoken target) has the metadata (including speaker and interpreter nativeness) but not the transcription; and we assume the spoken target video has been uploaded in /video and called "1855.mp4". **The video should be properly cut.** Texts like verb report and translation.
+Text 1920 (written target) is the verbatim report; text 1855 (spoken target) has the metadata (including speaker and interpreter nativeness) but not the transcription; and we assume the spoken target video has been uploaded in /video and called "1855.mp4". **The video should be properly cut and in mp4 format** Texts like verb report and translation.
 
 Therefore, the user did NOT add: transcription of oral part (in this case the interpretation), sentence splitting, alignments, interprer ID (this is done with diarization). Let's start with transcription.
 
