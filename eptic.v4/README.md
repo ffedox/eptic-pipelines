@@ -1,8 +1,8 @@
 # EPTIC.V4
 
-Workflow for future EPTIC updates.
+Workflow for future EPTIC updates. Example files
 
-## User part
+## Updates to EPTIC guidelines
 
 1. database_tables contains a file "texts_for_test.xlsx" simulating the texts table in the database after an user has added IT to an existing event. Let's assume this is what we would find in SkEPTIC's database.
 

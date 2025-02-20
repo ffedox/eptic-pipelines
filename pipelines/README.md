@@ -14,7 +14,7 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 
 ## On your machine
 
-1. Create a MariaDB instance locally and import the dump. Refer to MariaDB docs: https://mariadb.com/kb/en/
+1. Create a MariaDB instance locally and import the dump. Refer to MariaDB documentation: https://mariadb.com/kb/en/
 
 2. Setup database credentials in a config.json file, e.g.:
 
@@ -43,7 +43,7 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 
 4. Use pipelines/pyannote.py to diarize interpreters. Has to be done from scratch every time so will take some time (TO UPDATE). This will update the interpreters Excel file
 
-5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py (TO UPDATE, change generated video urls amongs other things). This will create them in folder eptic.v4/3. pre_pos_files
+5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py (TO UPDATE, change generated video urls amongs other things, make sure no missing things). This will create them in folder eptic.v4/3. pre_pos_files
 
 6. Tag all pre_pos_files on Sketch Engine and copy them from your PC to the eptic.v4/4. pos_tagged_files folder. When creating them name them using this format: eptic3_LANGUAGE_MODE_DIRECTION.vert, e.g. eptic3_de_sp_tt.vert (because this is the name that we use to refer to them in the registry files)
 
@@ -54,3 +54,5 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 9. Refer to docs/indexing_howto.txt and note_eptic_alice_indexing_2024_01_19.txt for details about indexing corpora on NoSketch Engine
 
 10. Update corpora info on website. Latest website files are in eptic.v4/website
+
+11. Update SkEPTIC's database. Convert Excel files into SQL database using https://sqlizer.io/

@@ -30,6 +30,7 @@ eptic_sl_sp_tt.vert
 4. Da rivedere alcuni tag. 07.02.25 ho notato che ho perso events.speaker_is_native.
 Altri metadati mancanti? Controllare.
 
+
 VIDEO 
 
 Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4. Poi caricare

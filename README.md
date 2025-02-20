@@ -15,6 +15,7 @@ conda activate eptic-pipeline
 
 Additionally, you may want to [install ffmpeg](https://ffmpeg.org/download.html) for manipulating video files and extracting audio tracks.
 
+# Updates to EPTIC guidelines
 
 # Contact
 
