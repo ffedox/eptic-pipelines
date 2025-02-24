@@ -39,9 +39,9 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 
 3. Copy all video files from your PC to the server, into the folder eptic.v4/video
 
-3. Use pipelines/align_texts_bertalign.py to check alignments.xlsx and align the texts that are not yet aligned and output the new .xml files with all alignments to 2. bertalign_alignments (TO UPDATE)
+3. Use pipelines/align_texts_bertalign.py to check alignments.xlsx and align the texts that are not yet aligned and output the new .xml files with all alignments to 2. bertalign_alignments 
 
-4. Use pipelines/pyannote.py to diarize interpreters. Has to be done from scratch every time so will take some time (TO UPDATE). This will update the interpreters Excel file
+4. Use pipelines/diarize_and_genderize.py to update the interpreters. Has to be done from scratch every time so it takes some time. This will update the interpreters Excel file
 
 5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py (TO UPDATE, change generated video urls amongs other things, make sure no missing things). This will create them in folder eptic.v4/3. pre_pos_files
 
