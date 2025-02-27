@@ -23,7 +23,7 @@ interpreters_df = pd.read_excel(interpreters_file_path)
 for df in [texts_df, events_df, speakers_df, interpreters_df]:
     df.columns = [col.replace(".", "_").lower().replace(" ", "_") for col in df.columns]
 
-# Define full names for languages
+# Define full names for languages (add more if new languages are added to EPTIC)
 language_full_names = {
     "DE": "German", "EN": "English", "FR": "French",
     "IT": "Italian", "PL": "Polish", "FI": "Finnish", "SL": "Slovenian"
@@ -140,19 +140,35 @@ def match_subtitles_with_timestamps(subtitled_text, s_tags, video_url, text_id):
                 timestamps.append(timestamps[-1])  # Repeat the last timestamp
             else:
                 # Create a placeholder timestamp if none exist
-                timestamps.append({"start": "00.00.00", "end": "00.00.00"})
+                timestamps.append({"start": "00:00:00", "end": "00:00:00"})
                 
         # If we have more timestamps than s_tags, truncate timestamps
         timestamps = timestamps[:len(s_tags)]
     
+    # Replace old URL format with new URL format if needed
+    if video_url and "amelia.sslmit.unibo.it/video/video.php" in video_url:
+        # Extract the ID from the old URL
+        id_match = re.search(r'id=(\d+)', video_url)
+        if id_match:
+            video_id = id_match.group(1)
+            video_url = f"https://media.dipintra.it/?id={video_id}"
+    
     # Match s_tags with timestamps based on order
     matched_s_tags = []
     for s_tag, timestamp in zip(s_tags, timestamps):
+        # Format timestamps as MM.SS (removing leading zeros and hour part)
+        start_parts = timestamp["start"].split(":")
+        end_parts = timestamp["end"].split(":")
+        
+        # Extract minutes and seconds only (skip hours)
+        start_time = f"{start_parts[1]}.{start_parts[2]}".replace(":",".")
+        end_time = f"{end_parts[1]}.{end_parts[2]}".replace(":",".")
+        
         matched_s_tags.append({
             "id": s_tag["id"],
             "text": s_tag["text"],
-            "start": timestamp["start"].replace(":", "."),
-            "end": timestamp["end"].replace(":", "."),
+            "start": start_time,
+            "end": end_time,
             "video_url": video_url
         })
 
@@ -228,7 +244,7 @@ def create_vert_structure(text_id, texts_df, events_df, speakers_df, interpreter
 
     if interpreter_present:
         # If interpreter_row is not empty, meaning there's an interpreter
-        interpreter_tag = f'<interpreter id="{na_if_nan(interpreter_row.iloc[0]["interpreters_nickname"])}" gender="{na_if_nan(interpreter_row.iloc[0]["interpreters_gender"])}" native="{na_if_nan(interpreter_row.iloc[0].get("interpreters_native", "NA"))}">\n'
+        interpreter_tag = f'<interpreter id="{na_if_nan(interpreter_row.iloc[0]["interpreters_nickname"])}" gender="{na_if_nan(interpreter_row.iloc[0]["interpreters_gender"])}">\n'
     else:
         # If there's no interpreter assigned, include a placeholder or simplified tag
         interpreter_tag = '<interpreter id="NA" gender="NA" native="NA">\n'
@@ -246,7 +262,24 @@ def create_vert_structure(text_id, texts_df, events_df, speakers_df, interpreter
             video_url = "ERR" 
 
     for s_tag in s_tags:
-        video_attr = f' video="{s_tag["video_url"]}&start={s_tag["start"]}&end={s_tag["end"]}"' if "video_url" in s_tag else ""
+        if "video_url" in s_tag:
+            # Make sure we're using the new URL format
+            video_url = s_tag["video_url"]
+            if "amelia.sslmit.unibo.it/video/video.php" in video_url:
+                # Extract the ID from the old URL
+                id_match = re.search(r'id=(\d+)', video_url)
+                if id_match:
+                    video_id = id_match.group(1)
+                    video_url = f"https://media.dipintra.it/?id={video_id}"
+            
+            # The start and end times should already be in MM.SS format from match_subtitles_with_timestamps
+            start_time = s_tag["start"]
+            end_time = s_tag["end"]
+                
+            # Add the collection parameter
+            video_attr = f' video="{video_url}&start={start_time}&end={end_time}&collection=eptic3"'
+        else:
+            video_attr = ""
         vert_string += f'<s id="{s_tag["id"]}"{video_attr}>\n{s_tag["text"]}\n</s>\n'
 
     # Ensure to append '</st>\n</speaker>\n</text>\n' after adding the interpreter tag
@@ -320,7 +353,7 @@ def generate_pretgd_files():
                     output_file_path = os.path.join(output_folder_path, output_filename)
                     with open(output_file_path, 'w', encoding='utf-8') as file:
                         file.write("\n".join(aggregated_content))
-                    print(f"Generated {output_filename} with {len(aggregated_content)} text entries")
+                    print(f"Generated {output_filename} with {len(aggregated_content)} texts")
         
         else:
             # Standard case - create one file for this combination
@@ -345,7 +378,7 @@ def generate_pretgd_files():
                 output_file_path = os.path.join(output_folder_path, output_filename)
                 with open(output_file_path, 'w', encoding='utf-8') as file:
                     file.write("\n".join(aggregated_content))
-                print(f"Generated {output_filename} with {len(aggregated_content)} texts")
+                print(f"Generated {output_filename} with {len(aggregated_content)} text entries")
 
 # Execute the refactored code
 if __name__ == "__main__":

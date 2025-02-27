@@ -43,16 +43,21 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 
 4. Use pipelines/diarize_and_genderize.py to update the interpreters. Has to be done from scratch every time so it takes some time. This will update the interpreters Excel file
 
-5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py (TO UPDATE, change generated video urls amongs other things, make sure no missing things). This will create them in folder eptic.v4/3. pre_pos_files
+5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py. This will create them in folder eptic.v4/3. pre_pos_files. If more languages are added to EPTIC, add them in the dictionary below "# Define full names for languages (add more if new languages are added to EPTIC)"
 
-6. Tag all pre_pos_files on Sketch Engine and copy them from your PC to the eptic.v4/4. pos_tagged_files folder. When creating them name them using this format: eptic3_LANGUAGE_MODE_DIRECTION.vert, e.g. eptic3_de_sp_tt.vert (because this is the name that we use to refer to them in the registry files)
+5.1 Use format_eptic_for_tagging.py to postprocess the .pretgd files before tagging on Sketch Engine (some words need to be adjusted so that the POS-tagger will recognize them correctly, such as truncated words)
+
+6. Tag all pre_pos_files on Sketch Engine ("remember to check all boxes in Expert settings before compiling") and copy them from your PC to the eptic.v4/4. pos_tagged_files folder. When creating the filename, name them using this format: eptic3_LANGUAGE_MODE_DIRECTION.vert, e.g. eptic3_de_sp_tt.vert (because this is the name that we use to refer to them in the registry files). Remove <doc id= tag added by Sketch Engine
+
+6.1 Use post_process_vert_files.py to add disfluency and pause tags to the POS-tagged .vert files. Adjust this code if new languages are added. Usage: python post_process_vert_files.py /home/afedotova/EPTIC25/eptic.v4/4.\ pos_tagged_files/fi_sp_tt.vert output_file.vert
 
 7. If new subcorpora were added as part of this update, add new registry files in 5. NoSkE_files, i.e. if there are .vert files for which we don't have a registry file with the same name already. Latest registry files are in eptic.v4/5. NoSkE_files/registry
 
-8. Copy vertical files, XML alignments and, if present, new registry files from current server to bellatrix server (NoSketch Engine server)
+8. Copy vertical files, XML alignments and, if present, new registry files from current server to bellatrix.sslmit.unibo.it server (NoSketch Engine server)
 
-9. Refer to docs/indexing_howto.txt and note_eptic_alice_indexing_2024_01_19.txt for details about indexing corpora on NoSketch Engine
+9. Refer to docs/indexing_howto.txt and note_eptic_alice_indexing_2024_01_19.txt for details about indexing corpora on NoSketch Engine (CHECK THEM AGAIN)
 
 10. Update corpora info on website. Latest website files are in eptic.v4/website
 
 11. Update SkEPTIC's database. Convert Excel files into SQL database using https://sqlizer.io/
+

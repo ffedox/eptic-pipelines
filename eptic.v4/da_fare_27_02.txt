@@ -1,0 +1,50 @@
+REGISTRY
+
+1. Registry files polacchi da aggiornare con LANGUAGE "Polish" 
+
+
+VERTICALI
+
+2. .vert in cui ho corretto gli errori di annotazione tipo PIPPERO
+eptic_sl_sp_tt.vert
+eptic_fi_wr_tt.vert
+eptic_en_wr_tt_from_it.vert
+eptic_en_wr_st.vert
+eptic_en_sp_st.vert
+eptic_de_wr_tt.vert
+
+3. URL dei video aggiornati in tutti i .vert 
+eptic_de_sp_tt.vert          
+eptic_en_sp_tt_from_it.vert  
+eptic_fr_sp_st.vert  
+eptic_it_sp_tt.vert
+eptic_en_sp_st.vert          
+eptic_en_sp_tt_from_pl.vert  
+eptic_fr_sp_tt.vert  
+eptic_pl_sp_st.vert
+eptic_en_sp_tt_from_fr.vert  
+eptic_fi_sp_tt.vert          
+eptic_it_sp_st.vert  
+eptic_sl_sp_tt.vert
+
+
+VIDEO 
+
+Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4. Poi caricare
+
+
+SITO DI EPTIC
+
+File .htm aggiornati in /home/afedotova/EPTIC25/eptic.v3/website. Da caricare
+
+
+VARIE ED EVENTUALI
+
+Come fare col database di SkEPTIC?
+
+Some new fields for the database (unrelated) like:
+
+texts.source (default should be skeptic)
+texts.has_video (0 or 1 depending if its there)
+
+Note: i removed nativeness from both speakers and interpreters (to update website info)
