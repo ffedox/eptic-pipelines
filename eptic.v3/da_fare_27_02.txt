@@ -1,6 +1,6 @@
 REGISTRY
 
-1. Registry files polacchi da aggiornare con LANGUAGE "Polish" 
+1. Registry files polacchi aggiornati con LANGUAGE "Polish" 
 
 
 VERTICALI
@@ -38,13 +38,20 @@ SITO DI EPTIC
 File .htm aggiornati in /home/afedotova/EPTIC25/eptic.v3/website. Da caricare
 
 
-VARIE ED EVENTUALI
+DA FARE (27/02):
 
-Come fare col database di SkEPTIC?
+Still to do:
 
+-Final code review e documentation review (pipelines/README.md), mettere in ordine codebase
+-Aggiornare file sito (tolti .native tags, numeri da ricontrollare, aggiungere paragrafo che tolsi perché non capivo la tabella)
+-Convertire .wmv in /home/afedotova/EPTIC25/eptic.v3/video in .mp4. Poi caricare
+-Risolvere database di Skeptic
 Some new fields for the database (unrelated) like:
 
 texts.source (default should be skeptic)
 texts.has_video (0 or 1 depending if its there)
 
-Note: i removed nativeness from both speakers and interpreters (to update website info)
+Alla fine
+
+-Avvertire di chiamarmi quando qualcuno deve girare questo codice così posso vedere se funziona anche in scenari che non riesco correntemente a riprodurre
+-Provare a reinstallare tutte le librerie
