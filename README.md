@@ -1,4 +1,4 @@
-# EPTIC Tools 2023-2024
+# EPTIC Pipelines
 
 Developer-side code and documentation for the construction of EPTIC.
 
