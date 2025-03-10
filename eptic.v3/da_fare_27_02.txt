@@ -1,21 +1,6 @@
 
-
-
-
-
-
-DA FARE (27/02):
-
-Still to do:
-
--Final code review e documentation review (pipelines/README.md), mettere in ordine codebase
--Risolvere database di Skeptic
-Some new fields for the database (unrelated) like:
-
-texts.source (default should be skeptic)
-texts.has_video (0 or 1 depending if its there)
-
 Alla fine
 
 -Avvertire di chiamarmi quando qualcuno deve girare questo codice così posso vedere se funziona anche in scenari che non riesco correntemente a riprodurre
 -Provare a reinstallare tutte le librerie
+-aggiornare codice con migliorie tipo niente path hardcodati e controllare che le operazioni siano compatibili con i column names che ho cambiato per renderli conformi al db originale
