@@ -54,9 +54,9 @@ SOURCE C:/Users/Aliska/Desktop/eptic_2025-03-06.sql;
 
 3. Use pipelines/align_texts_bertalign.py to check alignments.xlsx and align the texts that are not yet aligned and output the new .xml files with all alignments to your path, change line "xml_output_dir='/home/afedotova/EPTIC25/eptic.v5/2. bertalign_alignments'"
 
-4. Use pipelines/diarize_and_genderize.py to update the interpreters. Has to be done from scratch every time so it takes some time. This will update the interpreters Excel file
+4. Use pipelines/diarize_and_genderize.py to update the interpreters. Has to be done from scratch every time so it takes some time. This will update the interpreters Excel file  ->> metti la colonna "native" lo stesso anche se vuota
 
-5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py. This will create them in folder eptic.v4/3. pre_pos_files. If more languages are added to EPTIC, add them in the dictionary below "# Define full names for languages (add more if new languages are added to EPTIC)"
+5. Export from Excel to NoSketch Engine-compliant files for tagging using database_to_pretgd.py. This will create them in folder eptic.v4/3. pre_pos_files. If more languages are added to EPTIC, add them in the dictionary below "# Define full names for languages (add more if new languages are added to EPTIC)"   -----> FIX THE URLS, check empty lines
 
 5.1 Use format_eptic_for_tagging.py to postprocess the .pretgd files before tagging on Sketch Engine (some words need to be adjusted so that the POS-tagger will recognize them correctly, such as truncated words)
 

@@ -1,0 +1,6 @@
+1. Nell'html bisogna mettere il link al nuovo corpus qui:
+<a class="menuButton" href="https://bellatrix.sslmit.unibo.it/noske/eptic3/" target="_blank">Consult Corpus</a>
+invece di
+<a class="menuButton" href="https://bellatrix.sslmit.unibo.it/noske/eptic/" target="_blank">Consult Corpus</a>
+
+2. Da adattare dimensioni "eptic_diagram.jpg" in home.php (che andrebbe al posto dell'attuale src='images/eptic_structure_small.png')

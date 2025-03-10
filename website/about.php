@@ -1,19 +1,14 @@
 <h3>The EPTIC Team</h3>
 
-<div style='font-weight: bold; padding-top: 10px;'>University of Belgrade</div>
-
-<ul>
-    <li>Maja Miličević Petrović</li>
-</ul>
-
 <div style='font-weight: bold; padding-top: 10px;'>University of Bologna</div>
 
 <ul>
+    <li>Alice Fedotova</li>
     <li>Silvia Bernardini</li>
     <li>Adriano Ferraresi</li>
-    <li>Ilmari Ivaska</li>    
+    <li>Maja Miličević Petrović</li>   
     <li>Eros Zanchetta</li>
-    <li>Collaborators: Tiziana Calà, Viviana Caliolo, Antonina Kochetkova, Rita Micchi, Manuela Santandrea, Valentina Savelli, Erika Stragapede</li>
+    <li>Collaborators: Tiziana Calà, Viviana Caliolo, Antonina Kochetkova, Eeva Anneli Saikkonen, Rita Micchi, Manuela Santandrea, Valentina Savelli, Erika Stragapede</li>
 </ul>
 
 <div style='font-weight: bold; padding-top: 10px;'>Università degli Studi "G. d'Annunzio" Chieti - Pescara</div>

@@ -31,10 +31,8 @@
                 href='?section=about'>collaborative effort</a>
                 of a team of researchers led by the University of
                 Bologna. At present EPTIC includes texts in
-                <strong>English, French and Italian</strong>, but a
-                few other European languages will soon enrich the
-                collection (among them Finnish, Polish and
-                Slovene). The corpus can be accessed via NoSketch
+                <strong>English, French, Italian, German, Finnish, Polish and
+                Slovenian</strong>. The corpus can be accessed via NoSketch
                 Engine (Rychlý 2007), which is an open source corpus
                 management system allowing multiple alignments.</p>
  

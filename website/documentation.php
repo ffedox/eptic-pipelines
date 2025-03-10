@@ -9,7 +9,7 @@
     are currently on the way.</p>
 
     <p>The corpus is currently <a
-    href="https://corpora.dipintra.it/public/eptic.cgi/first_form">made
+    href="https://bellatrix.sslmit.unibo.it/noske/eptic3/">made
     available</a> through the NoSketch Engine platform (NoSke; Rychlý
     2007).</p>
 
@@ -39,7 +39,7 @@
     translation/interpreting directions. All language combinations
     feature English as one of the languages involved. The subcorpora
     completed so far are: English&gt;French, French&gt;English,
-    English&gt;Italian, Italian&gt;English, Polish&gt;English.</p>
+    English&gt;Italian, Italian&gt;English, Polish&gt;English, English&gt;Slovenian, English&gt;German, English&gt;Finnish.</p>
 
 <h4>Sizes of individual language components</h4>
 
@@ -48,7 +48,7 @@ visible in the following Tables (count of tokens obtained via the
 <i>Corpus info</i> function of NoSkE).</p>
 
 <table class="tg">
-  <tr>
+  <tbody><tr>
     <th class="tg-61lu"></th>
     <th class="tg-1odc" colspan="2">Sources</th>
     <th class="tg-1odc" colspan="2">Targets</th>
@@ -62,106 +62,52 @@ visible in the following Tables (count of tokens obtained via the
   </tr>
   <tr>
     <td class="tg-61lu">English</td>
-    <td class="tg-to0h">24,136</td>
-    <td class="tg-61lu">22,782</td>
-    <td class="tg-to0h">53,615</td>
-    <td class="tg-61lu">58,561</td>
+    <td class="tg-to0h">43,138</td>
+    <td class="tg-61lu">41,047</td>
+    <td class="tg-to0h">55,139</td>
+    <td class="tg-61lu">58,651</td>
   </tr>
   <tr>
     <td class="tg-61lu">French</td>
-    <td class="tg-to0h">27,713</td>
-    <td class="tg-61lu">26,674</td>
-    <td class="tg-to0h">23,185</td>
-    <td class="tg-61lu">25,855</td>
+    <td class="tg-to0h">35,648</td>
+    <td class="tg-61lu">34,063</td>
+    <td class="tg-to0h">31,935</td>
+    <td class="tg-61lu">35,566</td>
   </tr>
   <tr>
     <td class="tg-61lu">Italian</td>
-    <td class="tg-to0h">20,016</td>
-    <td class="tg-61lu">19,591</td>
-    <td class="tg-to0h">20,352</td>
-    <td class="tg-61lu">23,234</td>
+    <td class="tg-to0h">21,208</td>
+    <td class="tg-61lu">20,646</td>
+    <td class="tg-to0h">27,329</td>
+    <td class="tg-61lu">31,816</td>
+  </tr>
+  <tr>
+    <td class="tg-61lu">Finnish</td>
+    <td class="tg-to0h">TBA</td>
+    <td class="tg-61lu">TBA</td>
+    <td class="tg-to0h"><i>11,624</i></td>
+    <td class="tg-61lu"><i>12,045</i></td>
+  </tr>
+  <tr>
+    <td class="tg-61lu">German</td>
+    <td class="tg-to0h">TBA</td>
+    <td class="tg-61lu">TBA</td>
+    <td class="tg-to0h"><i>18,258</i></td>
+    <td class="tg-61lu"><i>19,822</i></td>
+  </tr>
+  <tr>
+    <td class="tg-61lu">Slovenian</td>
+    <td class="tg-to0h">TBA</td>
+    <td class="tg-61lu">TBA</td>
+    <td class="tg-to0h"><i>19,717</i></td>
+    <td class="tg-61lu"><i>22,476</i></td>
   </tr>
   <tr>
     <td class="tg-61lu">Polish</td>
-    <td class="tg-to0h">11,011</td>
-    <td class="tg-61lu">10,616</td>
+    <td class="tg-to0h">9,458</td>
+    <td class="tg-61lu">9,193</td>
     <td class="tg-to0h"><i>TBA</i></td>
     <td class="tg-61lu"><i>TBA</i></td>
-  </tr>
-<!--  <tr>
-    <td class="tg-61lu">Finnish</td>
-    <td class="tg-to0h"><i>TBA</i></td>
-    <td class="tg-61lu"><i>TBA</i></td>
-    <td class="tg-to0h"><i>TBA</i></td>
-    <td class="tg-61lu"><i>TBA</i></td>
-  </tr>
-  <tr>
-    <td class="tg-61lu">Slovene</td>
-    <td class="tg-to0h"><i>TBA</i></td>
-    <td class="tg-61lu"><i>TBA</i></td>
-    <td class="tg-to0h"><i>TBA</i></td>
-    <td class="tg-61lu"><i>TBA</i></td>
-  </tr>
--->
-</table>
-
-
-<p>The English subset of EPTIC has a slightly different structure from
-    the remaining ones. It comprises source texts originally delivered
-    by native and non-native speakers as well as translations and
-    interpretations from various languages. Since little information
-    is provided at the European Parliament website about the
-    translations into English, it is difficult to establish whether
-    they are produced by native English speakers or not. The
-    interpretations into English from various languages are carried
-    out either by native or non-native English speakers.</p>
-
-<table class="tg">
-  <tr>
-    <th class="tg-c3ow" colspan="11">English</th>
-  </tr>
-  <tr>
-    <td style='border-right: 1px solid black;' class="tg-c3ow" colspan="2">Spoken sources</td>
-    <td style='border-right: 1px solid black;' colspan="2">Written sources</td>
-    <td style='border-right: 1px solid black;' class="tg-c3ow" colspan="3">Interpretations</td>
-    <td class="tg-c3ow" colspan="4">Translations</td>
-  </tr>
-  <tr>
-    <td class="tg-8bgf" rowspan="2">Native</td>
-    <td class="tg-8bgf" style='border-right: 1px solid black;' rowspan="2">Non-native</td>
-    <td class="tg-8bgf" rowspan="2">Native</td>
-    <td class="tg-8bgf" style='border-right: 1px solid black;' rowspan="2">Non-native</td>
-    <td class="tg-8bgf" rowspan="2">From French</td>
-    <td class="tg-8bgf" rowspan="2">From Italian</td>
-    <!--<td class="tg-8bgf" rowspan="2">From Finnish</td>-->
-    <td class="tg-8bgf" style='border-right: 1px solid black;' rowspan="2">From Polish</td>
-    <!--<td class="tg-8bgf" style='border-right: 1px solid black;' rowspan="2">From Slovene</td>-->
-    <td class="tg-8bgf" rowspan="2">From French</td>
-    <td class="tg-8bgf" rowspan="2">From Italian</td>
-    <!--<td class="tg-8bgf" rowspan="2">From Finnish</td>-->
-    <td class="tg-8bgf" colspan="2">From Polish</td>
-    <!--<td class="tg-8bgf" rowspan="2">From Slovene</td>-->
-  </tr>
-   <tr>
-    <td class="tg-00jj">into A</td>
-    <td class="tg-00jj">into B</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow">10,840</td>
-    <td class="tg-c3ow" style='border-right: 1px solid black;'>13,296</td>
-    <td class="tg-c3ow">10,312</td>
-    <td class="tg-c3ow" style='border-right: 1px solid black;'>12,470</td>
-    <td class="tg-c3ow">23,670</td>
-    <td class="tg-c3ow">18,390</td>
-    <td class="tg-c3ow" style='border-right: 1px solid black;'>11,555</td>
-    <!--<td class="tg-c3ow">TBA</td>-->
-    <!-- <td class="tg-c3ow" style='border-right: 1px solid black;'></td> -->
-    <td class="tg-c3ow">25,046</td>
-    <td class="tg-c3ow">20,335</td>
-    <td class="tg-c3ow">13,180</td>
-    <td class="tg-c3ow">NA</td>
-    <!-- <td class="tg-c3ow">TBA</td> -->
-    <!-- <td class="tg-c3ow">TBA</td> -->
   </tr>
 </table>
 
@@ -176,7 +122,7 @@ visible in the following Tables (count of tokens obtained via the
  Table below). The composition of the individual subcorpora with respect
  to the topics covered in the debates can be inferred by clicking on
  the <strong>Corpus info</strong> link within the <a
- href='https://corpora.dipintra.it/public/eptic.cgi/first_form'>NoSke
+ href='https://bellatrix.sslmit.unibo.it/noske/eptic3/'>NoSke
  interface</a>: in the <i>Structures and attributes</i> section,
  simply click on <i>Topic</i>.
 
@@ -202,8 +148,8 @@ visible in the following Tables (count of tokens obtained via the
     the corresponding excerpt of a video of the source speech or the
     interpretation can be displayed.</p>
 
-<table class="tg">
-  <tr>
+    <table class="tg">
+  <tbody><tr>
     <th class="tg-jogk"><span style="font-weight:bold">Filter</span></th>
     <th class="tg-yw4l"><span style="font-weight:bold">Description</span></th>
   </tr>
@@ -272,10 +218,6 @@ visible in the following Tables (count of tokens obtained via the
     <td class="tg-yw4l">country the speaker represents</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">speaker.native</td>
-    <td class="tg-yw4l">the speaker is speaking the native tongue or a foreign language</td>
-  </tr>
-  <tr>
     <td class="tg-yw4l">speaker.politfunc</td>
     <td class="tg-yw4l">the speaker’s political function at the EP</td>
   </tr>
@@ -316,11 +258,11 @@ visible in the following Tables (count of tokens obtained via the
     <td class="tg-yw4l">mode of delivery of the source speech (read vs. impromptu)</td>
   </tr>
   <tr>
-    <td class="tg-jogk">interpreter.gender</td>
-    <td class="tg-yw4l">gender of the interpreter</td>
+    <td class="tg-jogk">interpreter.id</td>
+    <td class="tg-yw4l">unique identifier of the interpreter</td>
   </tr>
   <tr>
-    <td class="tg-jogk">interpreter.native</td>
-    <td class="tg-yw4l">the interpretation is delivered into the native tongue or the foreign language</td>
+    <td class="tg-jogk">interpreter.gender</td>
+    <td class="tg-yw4l">gender of the interpreter</td>
   </tr>
 </table>
