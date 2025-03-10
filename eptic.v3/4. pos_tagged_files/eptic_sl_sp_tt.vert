@@ -7245,9 +7245,9 @@ pri	Dm	pri-d
 doseganju	Sosem	doseganje-s	
 skupnih	Ppnmmr	skupen-p	skupni
 ciljev	Sommr	cilj-s	
-</s>
 ...	EPAUSE	...-u	
 .	SENT	.-s	
+</s>
 <s id="2118:3" video="https://media.dipintra.it/?id=2118&start=00.26&end=00.38&collection=eptic3">
 Ampak	Vp	ampak-v	
 ehm	FPAUSE	ehm-g	
@@ -7461,8 +7461,6 @@ o	Dm	o-d
 20	Kag	[number]-k	
 <g/>
 .	SENT	.-s	
-</s>
-
 Stoletja	Soser	stoletje-s	
 ,	U	,-u	
 ko	Vd	ko-v	
@@ -8944,9 +8942,7 @@ partnerstvu	Sosem	partnerstvo-s
 ,	U	,-u	
 kot	Vd	kot-v	
 <g/>
-.	SENT	.-s	
-</s>
-
+.	SENT	.-s
 Se	Zp------k	se-z	
 to	Zk-sei	ta-z	
 zahteva	Ggvste	zahtevati-g	
@@ -11086,8 +11082,6 @@ v	Dm	v-d
 regiji	Sozem	regija-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Pacifika	Slmer	Pacifik-s	
 ...	EPAUSE	...-u	
 .	SENT	.-s	
@@ -21041,8 +21035,6 @@ liberalizacije	Sozer	liberalizacija-s
 povsod	Rsn	povsod-r	
 <g/>
 .	SENT	.-s	
-</s>
-
 Hvala	Sozei	hvala-s	
 </s>
 </interpreter>
@@ -21567,8 +21559,6 @@ velik	Ppnmein	velik-p	velik
 akter	Somei	akter-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Hvala	Sozei	hvala-s	
 </s>
 </interpreter>
@@ -21834,8 +21824,6 @@ v	Dm	v-d
 senci	Sozem	senca-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Ki	Vd	ki-v	
 ste	Gp-sdm-n	biti-g	
 sodelovali	Ggnd-mm	sodelovati-g	
@@ -21913,8 +21901,6 @@ na	Dm	na-d
 terenu	Somem	teren-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Če	Vd	če-v	
 mi	Zop-ed--k	jaz-z	
 govorimo	Ggnspm	govoriti-g	
@@ -22086,8 +22072,6 @@ skupine	Sozer	skupina-s
 večje	Pppsei	velik-p	večje
 <g/>
 .	SENT	.-s	
-</s>
-
 In	Vp	in-v	
 zato	Rsn	zato-r	
 potrebujemo	Ggnspm	potrebovati-g	
@@ -22601,8 +22585,6 @@ o	Dm	o-d
 tem	Zk-sem	ta-z	
 <g/>
 .	SENT	.-s	
-</s>
-
 Predsednik	Somei	predsednik-s	
 <g/>
 ...	EPAUSE	...-u	
@@ -22735,8 +22717,6 @@ razdalje	Sozer	razdalja-s
 biti	DYSF	bbiti
 <g/>
 .	SENT	.-s	
-</s>
-
 Ehm	FPAUSE	Ehm-g	
 sploh	L	sploh-l	
 to	Zk-sei	ta-z	
@@ -23514,8 +23494,6 @@ prenosljivost	DYSF	prenosljivoss
 pokojnin	Sozmr	pokojnina-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Mislim	Ggnspe	misliti-g	
 <g/>
 ,	U	,-u	
@@ -23782,8 +23760,6 @@ davčno	Ppnzet	davčen-p	davčna
 unijo	Sozet	unija-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 To	Zk-sei	ta-z	
 ni	Gp-ste-d	biti-g	
 uspelo	Ggdd-es	uspeti-g	
@@ -23798,8 +23774,6 @@ več	Rsr	več-r
 integracije	Sozer	integracija-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Kaj	Zv-sei	kaj-z	
 s-	DYSF	s-s	
 zakaj	Rsn	zakaj-r	
@@ -23823,8 +23797,6 @@ v	Dm	v-d
 Evropi	Slzem	Evropa-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Hvala	Sozei	hvala-s	
 <g/>
 .	SENT	.-s	
@@ -24714,8 +24686,6 @@ potekala	Ggnd-ez	potekati-g
 revolucija	Sozei	revolucija-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Ljudje	Sommi	človek-s	
 so	Gp-stm-n	biti-g	
 rekli	Ggdd-mm	reči-g	
@@ -24935,8 +24905,6 @@ komercialne	Ppnzer	komercialen-p	komercialna
 prakse	Sozer	praksa-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Hvala	Sozei	hvala-s	
 </s>
 </interpreter>
@@ -25108,8 +25076,6 @@ smemo	Ggnspm	smeti-g
 igrati	Ggnn	igrati-g	
 <g/>
 .	SENT	.-s	
-</s>
-
 Hvala	Sozei	hvala-s	
 </s>
 </interpreter>
@@ -25388,8 +25354,6 @@ ravno	L	ravno-l
 tak	Zk-mei	tak-z	
 <g/>
 .	SENT	.-s	
-</s>
-
 Ehm	FPAUSE	Ehm-p	ehm
 zagovornik	Somei	zagovornik-s	
 človekovih	Psnzmr	človekov-p	človekova
@@ -25428,8 +25392,6 @@ preganjanju	Sosem	preganjanje-s
 homoseksualcev	Sommr	homoseksualec-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Ehm	FPAUSE	Ehm-g	
 ravno	L	ravno-l	
 tako	Rsn	tako-r	
@@ -25569,8 +25531,6 @@ trgovinsko	Ppnzeo	trgovinski-p	trgovinska
 politiko	Sozeo	politika-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Zato	Rsn	zato-r	
 so	Gp-stm-n	biti-g	
 te	Zk-zmi	ta-z	
@@ -25940,8 +25900,6 @@ zelo	Rsn	zelo-r
 zaskrbljen	Pdnmein	zaskrbljen-p	zaskrbljen
 <g/>
 .	SENT	.-s	
-</s>
-
 Vidik	Somei	vidik-s	
 standardov	Sommr	standard-s	
 ehm	FPAUSE	ehm-g	
@@ -25964,8 +25922,6 @@ Evropski	Ppnzem	evropski-p	evropska
 uniji	Sozem	unija-s	
 <g/>
 .	SENT	.-s	
-</s>
-
 Glavna	Ppnzei	glaven-p	glavna
 naloga	Sozei	naloga-s	
 EU	Slzer	EU-s	
@@ -27427,8 +27383,6 @@ do	Dr	do-d
 30	Kag	[number]-k	
 <g/>
 .	SENT	.-s	
-</s>
-
 Vi	Zodmmi	ti-z	
 ali	Vp	ali-v	
 pa	Vp	pa-v	

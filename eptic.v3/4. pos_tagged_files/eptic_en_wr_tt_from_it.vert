@@ -2,7 +2,7 @@
 <speaker name="Salatto Potito" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="long" lengthw="53" duration="short" durations="25.0" speed="slow" speedwm="127.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1471:1&collection=eptic3">
+<s id="1471:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -62,7 +62,7 @@ world's	NNZ	world-n
 Christians	NNS	Christian-n
 .	SENT	.-x
 </s>
-<s id="1471:2&collection=eptic3">
+<s id="1471:2">
 We	PP	we-d
 should	MD	should-x
 like	VV	like-v
@@ -94,7 +94,7 @@ detail	NN	detail-n
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="104" duration="short" durations="46.0" speed="medium" speedwm="135.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1472:1&collection=eptic3">
+<s id="1472:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -145,7 +145,7 @@ recent	JJ	recent-j
 days	NNS	day-n
 .	SENT	.-x
 </s>
-<s id="1472:2&collection=eptic3">
+<s id="1472:2">
 Hundreds	NNS	hundred-n
 of	IN	of-i
 people	NNS	people-n
@@ -163,7 +163,7 @@ sympathy	NN	sympathy-n
 felt	VVD	feel-v
 .	SENT	.-x
 </s>
-<s id="1472:3&collection=eptic3">
+<s id="1472:3">
 At	IN	at-i
 the	DT	the-x
 same	JJ	same-j
@@ -241,7 +241,7 @@ arena	NN	arena-n
 <speaker name="Panzeri Pier Antonio" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="medium" lengthw="537" duration="medium" durations="230.0" speed="medium" speedwm="140.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1473:1&collection=eptic3">
+<s id="1473:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -277,7 +277,7 @@ the	DT	the-x
 protests	NNS	protest-n
 .	SENT	.-x
 </s>
-<s id="1473:2&collection=eptic3">
+<s id="1473:2">
 The	DT	the-x
 new	JJ	new-j
 and	CC	and-c
@@ -355,7 +355,7 @@ in	IN	in-i
 government	NN	government-n
 .	SENT	.-x
 </s>
-<s id="1473:3&collection=eptic3">
+<s id="1473:3">
 Obviously	RB	obviously-a
 ,	,	,-x
 all	DT	all-x
@@ -394,7 +394,7 @@ window	NN	window-n
 dressing	NN	dressing-n
 .	SENT	.-x
 </s>
-<s id="1473:4&collection=eptic3">
+<s id="1473:4">
 What	WP	what-x
 is	VBZ	be-v
 happening	VVG	happen-v
@@ -423,7 +423,7 @@ and	CC	and-c
 mistakes	NNS	mistake-n
 .	SENT	.-x
 </s>
-<s id="1473:5&collection=eptic3">
+<s id="1473:5">
 In	IN	in-i
 1995	CD	[number]-m
 ,	,	,-x
@@ -441,7 +441,7 @@ in	IN	in-i
 Barcelona	NP	Barcelona-n
 .	SENT	.-x
 </s>
-<s id="1473:6&collection=eptic3">
+<s id="1473:6">
 This	DT	this-x
 was	VBD	be-v
 supposed	VVN	suppose-v
@@ -473,7 +473,7 @@ been	VBN	be-v
 achieved	VVN	achieve-v
 .	SENT	.-x
 </s>
-<s id="1473:7&collection=eptic3">
+<s id="1473:7">
 In	IN	in-i
 terms	NNS	term-n
 of	IN	of-i
@@ -509,7 +509,7 @@ in	IN	in-i
 standby	NN	standby-n
 .	SENT	.-x
 </s>
-<s id="1473:8&collection=eptic3">
+<s id="1473:8">
 The	DT	the-x
 promised	JJ	promised-j
 free	JJ	free-j
@@ -543,7 +543,7 @@ this	DT	this-x
 Commissioner	NP	Commissioner-n
 .	SENT	.-x
 </s>
-<s id="1473:9&collection=eptic3">
+<s id="1473:9">
 The	DT	the-x
 Union	NP	Union-n
 for	IN	for-i
@@ -560,7 +560,7 @@ a	DT	a-x
 façade	NN	façade-n
 .	SENT	.-x
 </s>
-<s id="1473:10&collection=eptic3">
+<s id="1473:10">
 The	DT	the-x
 summit	NN	summit-n
 that	WDT	that-x
@@ -578,7 +578,7 @@ postponed	VVN	postpone-v
 indefinitely	RB	indefinitely-a
 .	SENT	.-x
 </s>
-<s id="1473:11&collection=eptic3">
+<s id="1473:11">
 The	DT	the-x
 problem	NN	problem-n
 is	VBZ	be-v
@@ -601,7 +601,7 @@ real	JJ	real-j
 cooperation	NN	cooperation-n
 .	SENT	.-x
 </s>
-<s id="1473:12&collection=eptic3">
+<s id="1473:12">
 They	PP	they-d
 prefer	VVP	prefer-v
 to	TO	to-x
@@ -642,7 +642,7 @@ increasingly	RB	increasingly-a
 difficult	JJ	difficult-j
 .	SENT	.-x
 </s>
-<s id="1473:13&collection=eptic3">
+<s id="1473:13">
 It	PP	it-d
 is	VBZ	be-v
 no	DT	no-x
@@ -683,7 +683,7 @@ power	NN	power-n
 structure	NN	structure-n
 .	SENT	.-x
 </s>
-<s id="1473:14&collection=eptic3">
+<s id="1473:14">
 European	JJ	European-j
 political	JJ	political-j
 realism	NN	realism-n
@@ -729,7 +729,7 @@ African	JJ	African-j
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1473:15&collection=eptic3">
+<s id="1473:15">
 Indeed	RB	indeed-a
 ,	,	,-x
 taking	VVG	take-v
@@ -763,7 +763,7 @@ the	DT	the-x
 past	NN	past-n
 .	SENT	.-x
 </s>
-<s id="1473:16&collection=eptic3">
+<s id="1473:16">
 This	DT	this-x
 implies	VVZ	imply-v
 a	DT	a-x
@@ -795,7 +795,7 @@ this	DT	this-x
 Commissioner	NP	Commissioner-n
 .	SENT	.-x
 </s>
-<s id="1473:17&collection=eptic3">
+<s id="1473:17">
 We	PP	we-d
 can	MD	can-x
 not	RB	not-a
@@ -824,7 +824,7 @@ status	NN	status-n
 agreement	NN	agreement-n
 .	SENT	.-x
 </s>
-<s id="1473:18&collection=eptic3">
+<s id="1473:18">
 On	IN	on-i
 the	DT	the-x
 basis	NN	basis-n
@@ -846,7 +846,7 @@ be	VB	be-v
 explained	VVN	explain-v
 .	SENT	.-x
 </s>
-<s id="1473:19&collection=eptic3">
+<s id="1473:19">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -898,7 +898,7 @@ the	DT	the-x
 Mediterranean	NP	Mediterranean-n
 .	SENT	.-x
 </s>
-<s id="1473:20&collection=eptic3">
+<s id="1473:20">
 All	DT	all-x
 of	IN	of-i
 this	DT	this-x
@@ -924,7 +924,7 @@ of	IN	of-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1473:21&collection=eptic3">
+<s id="1473:21">
 Many	JJ	many-j
 of	IN	of-i
 the	DT	the-x
@@ -953,7 +953,7 @@ Maghreb	NP	Maghreb-n
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1473:22&collection=eptic3">
+<s id="1473:22">
 Supporting	VVG	support-v
 economic	JJ	economic-j
 and	CC	and-c
@@ -987,7 +987,7 @@ to	TO	to-x
 take	VV	take-v
 .	SENT	.-x
 </s>
-<s id="1473:23&collection=eptic3">
+<s id="1473:23">
 There	EX	there-x
 is	VBZ	be-v
 reason	NN	reason-n
@@ -1038,7 +1038,7 @@ actions	NNS	action-n
 <speaker name="Tajani Antonio" gender="M" country="Italy" politfunc="European Commission" politgroup="NA">
 <st language="it" length="medium" lengthw="749" duration="long" durations="423.0" speed="slow" speedwm="106.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1474:1&collection=eptic3">
+<s id="1474:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -1084,7 +1084,7 @@ internal	JJ	internal-j
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1474:2&collection=eptic3">
+<s id="1474:2">
 I	PP	I-d
 should	MD	should-x
 also	RB	also-a
@@ -1122,7 +1122,7 @@ second	JJ	second-j
 reading	NN	reading-n
 .	SENT	.-x
 </s>
-<s id="1474:3&collection=eptic3">
+<s id="1474:3">
 I	PP	I-d
 also	RB	also-a
 wish	VVP	wish-v
@@ -1154,7 +1154,7 @@ Mr	NP	Mr-n
 Harbour	NP	Harbour-n
 .	SENT	.-x
 </s>
-<s id="1474:4&collection=eptic3">
+<s id="1474:4">
 Your	PPZ	your-d
 collective	JJ	collective-j
 efforts	NNS	effort-n
@@ -1178,7 +1178,7 @@ technical	JJ	technical-j
 dossier	NN	dossier-n
 .	SENT	.-x
 </s>
-<s id="1474:5&collection=eptic3">
+<s id="1474:5">
 The	DT	the-x
 Commission	NP	Commission-n
 welcomes	VVZ	welcome-v
@@ -1207,7 +1207,7 @@ great	JJ	great-j
 importance	NN	importance-n
 .	SENT	.-x
 </s>
-<s id="1474:6&collection=eptic3">
+<s id="1474:6">
 The	DT	the-x
 adoption	NN	adoption-n
 of	IN	of-i
@@ -1230,7 +1230,7 @@ construction	NN	construction-n
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1474:7&collection=eptic3">
+<s id="1474:7">
 Construction	NN	construction-n
 products	NNS	product-n
 account	VVP	account-v
@@ -1270,7 +1270,7 @@ of	IN	of-i
 employment	NN	employment-n
 .	SENT	.-x
 </s>
-<s id="1474:8&collection=eptic3">
+<s id="1474:8">
 Altogether	RB	altogether-a
 ,	,	,-x
 this	DT	this-x
@@ -1297,7 +1297,7 @@ her	PPZ	her-d
 speech	NN	speech-n
 .	SENT	.-x
 </s>
-<s id="1474:9&collection=eptic3">
+<s id="1474:9">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 the	DT	the-x
@@ -1338,7 +1338,7 @@ construction	NN	construction-n
 products	NNS	product-n
 .	SENT	.-x
 </s>
-<s id="1474:10&collection=eptic3">
+<s id="1474:10">
 This	DT	this-x
 was	VBD	be-v
 also	RB	also-a
@@ -1357,7 +1357,7 @@ Business	NP	Business-n
 Act	NP	Act-n
 .	SENT	.-x
 </s>
-<s id="1474:11&collection=eptic3">
+<s id="1474:11">
 In	IN	in-i
 effect	NN	effect-n
 ,	,	,-x
@@ -1401,7 +1401,7 @@ extra	JJ	extra-j
 obligations	NNS	obligation-n
 .	SENT	.-x
 </s>
-<s id="1474:12&collection=eptic3">
+<s id="1474:12">
 I	PP	I-d
 can	MD	can-x
 not	RB	not-a
@@ -1437,7 +1437,7 @@ more	RBR	more-a
 complicated	JJ	complicated-j
 .	SENT	.-x
 </s>
-<s id="1474:13&collection=eptic3">
+<s id="1474:13">
 Firstly	RB	firstly-a
 ,	,	,-x
 with	IN	with-i
@@ -1475,7 +1475,7 @@ legislative	JJ	legislative-j
 proposals	NNS	proposal-n
 .	SENT	.-x
 </s>
-<s id="1474:14&collection=eptic3">
+<s id="1474:14">
 Secondly	RB	secondly-a
 ,	,	,-x
 there	EX	there-x
@@ -1506,7 +1506,7 @@ Business	NP	Business-n
 Act	NP	Act-n
 .	SENT	.-x
 </s>
-<s id="1474:15&collection=eptic3">
+<s id="1474:15">
 The	DT	the-x
 outcome	NN	outcome-n
 achieved	VVD	achieve-v
@@ -1525,7 +1525,7 @@ for	IN	for-i
 micro-enterprises	NNS	micro-enterprise-n
 .	SENT	.-x
 </s>
-<s id="1474:16&collection=eptic3">
+<s id="1474:16">
 Lastly	RB	lastly-a
 ,	,	,-x
 various	JJ	various-j
@@ -1568,7 +1568,7 @@ Assessments	NNS	assessment-n
 optional	JJ	optional-j
 .	SENT	.-x
 </s>
-<s id="1474:17&collection=eptic3">
+<s id="1474:17">
 In	IN	in-i
 any	DT	any-x
 case	NN	case-n
@@ -1611,7 +1611,7 @@ existing	VVG	exist-v
 needs	NNS	need-n
 .	SENT	.-x
 </s>
-<s id="1474:18&collection=eptic3">
+<s id="1474:18">
 In	IN	in-i
 particular	JJ	particular-j
 ,	,	,-x
@@ -1640,7 +1640,7 @@ administrative	JJ	administrative-j
 obligations	NNS	obligation-n
 .	SENT	.-x
 </s>
-<s id="1474:19&collection=eptic3">
+<s id="1474:19">
 We	PP	we-d
 intend	VVP	intend-v
 to	TO	to-x
@@ -1682,7 +1682,7 @@ this	DT	this-x
 regulation	NN	regulation-n
 .	SENT	.-x
 </s>
-<s id="1474:20&collection=eptic3">
+<s id="1474:20">
 I	PP	I-d
 should	MD	should-x
 also	RB	also-a
@@ -1718,7 +1718,7 @@ this	DT	this-x
 regulation	NN	regulation-n
 .	SENT	.-x
 </s>
-<s id="1474:21&collection=eptic3">
+<s id="1474:21">
 To	IN	to-i
 this	DT	this-x
 end	NN	end-n
@@ -1768,7 +1768,7 @@ as	RB	as-a
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1474:22&collection=eptic3">
+<s id="1474:22">
 This	DT	this-x
 looks	VVZ	look-v
 ,	,	,-x
@@ -1782,7 +1782,7 @@ comitology	NN	comitology-n
 aspects	NNS	aspect-n
 .	SENT	.-x
 </s>
-<s id="1474:23&collection=eptic3">
+<s id="1474:23">
 Parliament	NP	Parliament-n
 is	VBZ	be-v
 a	DT	a-x
@@ -1820,7 +1820,7 @@ adoption	NN	adoption-n
 process	NN	process-n
 .	SENT	.-x
 </s>
-<s id="1474:24&collection=eptic3">
+<s id="1474:24">
 Besides	RB	besides-a
 ,	,	,-x
 14	CD	[number]-m
@@ -1835,7 +1835,7 @@ in	IN	in-i
 vain	JJ	vain-j
 .	SENT	.-x
 </s>
-<s id="1474:25&collection=eptic3">
+<s id="1474:25">
 Finally	RB	finally-a
 ,	,	,-x
 the	DT	the-x
@@ -1871,7 +1871,7 @@ delegated	VVN	delegate-v
 acts	NNS	act-n
 .	SENT	.-x
 </s>
-<s id="1474:26&collection=eptic3">
+<s id="1474:26">
 The	DT	the-x
 Commission	NP	Commission-n
 is	VBZ	be-v
@@ -1908,7 +1908,7 @@ further	JJR	further-j
 months	NNS	month-n
 .	SENT	.-x
 </s>
-<s id="1474:27&collection=eptic3">
+<s id="1474:27">
 In	IN	in-i
 this	DT	this-x
 case	NN	case-n
@@ -1934,7 +1934,7 @@ this	DT	this-x
 principle	NN	principle-n
 .	SENT	.-x
 </s>
-<s id="1474:28&collection=eptic3">
+<s id="1474:28">
 The	DT	the-x
 Commission	NP	Commission-n
 regrets	VVZ	regret-v
@@ -1974,7 +1974,7 @@ a	DT	a-x
 precedent	NN	precedent-n
 .	SENT	.-x
 </s>
-<s id="1474:29&collection=eptic3">
+<s id="1474:29">
 I	PP	I-d
 should	MD	should-x
 like	VV	like-v
@@ -2010,7 +2010,7 @@ simplification	NN	simplification-n
 proposal	NN	proposal-n
 .	SENT	.-x
 </s>
-<s id="1474:30&collection=eptic3">
+<s id="1474:30">
 To	TO	to-x
 conclude	VV	conclude-v
 ,	,	,-x
@@ -2051,7 +2051,7 @@ national	JJ	national-j
 administrations	NNS	administration-n
 .	SENT	.-x
 </s>
-<s id="1474:31&collection=eptic3">
+<s id="1474:31">
 We	PP	we-d
 also	RB	also-a
 confirm	VVP	confirm-v
@@ -2085,7 +2085,7 @@ been	VBN	be-v
 requested	VVN	request-v
 .	SENT	.-x
 </s>
-<s id="1474:32&collection=eptic3">
+<s id="1474:32">
 Thank	VV	thank-v
 you	PP	you-d
 once	RB	once-a
@@ -2116,7 +2116,7 @@ shown	VVN	show-v
 <speaker name="Comi Lara" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="188" duration="short" durations="91.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1475:1&collection=eptic3">
+<s id="1475:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -2159,7 +2159,7 @@ legislative	JJ	legislative-j
 proposal	NN	proposal-n
 .	SENT	.-x
 </s>
-<s id="1475:2&collection=eptic3">
+<s id="1475:2">
 I	PP	I-d
 am	VBP	be-v
 referring	VVG	refer-v
@@ -2197,7 +2197,7 @@ medium-sized	JJ	medium-sized-j
 enterprises	NNS	enterprise-n
 .	SENT	.-x
 </s>
-<s id="1475:3&collection=eptic3">
+<s id="1475:3">
 Indeed	RB	indeed-a
 ,	,	,-x
 I	PP	I-d
@@ -2250,7 +2250,7 @@ is	VBZ	be-v
 based	VVN	base-v
 .	SENT	.-x
 </s>
-<s id="1475:4&collection=eptic3">
+<s id="1475:4">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 by	IN	by-i
@@ -2285,7 +2285,7 @@ favours	VVZ	favour-v
 innovation	NN	innovation-n
 .	SENT	.-x
 </s>
-<s id="1475:5&collection=eptic3">
+<s id="1475:5">
 At	IN	at-i
 the	DT	the-x
 same	JJ	same-j
@@ -2323,7 +2323,7 @@ CE	NP	CE-n
 marking	VVG	mark-v
 .	SENT	.-x
 </s>
-<s id="1475:6&collection=eptic3">
+<s id="1475:6">
 Therefore	RB	therefore-a
 ,	,	,-x
 in	IN	in-i
@@ -2384,7 +2384,7 @@ economy	NN	economy-n
 <speaker name="Tajani Antonio" gender="M" country="Italy" politfunc="European Commission" politgroup="NA">
 <st language="it" length="short" lengthw="360" duration="medium" durations="250.0" speed="slow" speedwm="86.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1476:1&collection=eptic3">
+<s id="1476:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -2424,7 +2424,7 @@ from	IN	from-i
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1476:2&collection=eptic3">
+<s id="1476:2">
 This	DT	this-x
 is	VBZ	be-v
 because	IN	because-i
@@ -2497,7 +2497,7 @@ and	CC	and-c
 grow	VV	grow-v
 .	SENT	.-x
 </s>
-<s id="1476:3&collection=eptic3">
+<s id="1476:3">
 This	DT	this-x
 is	VBZ	be-v
 the	DT	the-x
@@ -2536,7 +2536,7 @@ Business	NP	Business-n
 Act	NP	Act-n
 .	SENT	.-x
 </s>
-<s id="1476:4&collection=eptic3">
+<s id="1476:4">
 Small	JJ	small-j
 and	CC	and-c
 medium-sized	JJ	medium-sized-j
@@ -2554,7 +2554,7 @@ red	JJ	red-j
 tape	NN	tape-n
 .	SENT	.-x
 </s>
-<s id="1476:5&collection=eptic3">
+<s id="1476:5">
 However	RB	however-a
 ,	,	,-x
 as	IN	as-i
@@ -2597,7 +2597,7 @@ also	RB	also-a
 consumers	NNS	consumer-n
 .	SENT	.-x
 </s>
-<s id="1476:6&collection=eptic3">
+<s id="1476:6">
 I	PP	I-d
 believe	VVP	believe-v
 that	IN/that	that-i
@@ -2611,7 +2611,7 @@ right	JJ	right-j
 direction	NN	direction-n
 .	SENT	.-x
 </s>
-<s id="1476:7&collection=eptic3">
+<s id="1476:7">
 However	RB	however-a
 ,	,	,-x
 the	DT	the-x
@@ -2643,7 +2643,7 @@ and	CC	and-c
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1476:8&collection=eptic3">
+<s id="1476:8">
 We	PP	we-d
 want	VVP	want-v
 to	TO	to-x
@@ -2697,7 +2697,7 @@ as	RB	as-a
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1476:9&collection=eptic3">
+<s id="1476:9">
 During	IN	during-i
 this	DT	this-x
 debate	NN	debate-n
@@ -2723,7 +2723,7 @@ to	IN	to-i
 safety	NN	safety-n
 .	SENT	.-x
 </s>
-<s id="1476:10&collection=eptic3">
+<s id="1476:10">
 I	PP	I-d
 am	VBP	be-v
 fully	RB	fully-a
@@ -2761,7 +2761,7 @@ construction	NN	construction-n
 safety	NN	safety-n
 .	SENT	.-x
 </s>
-<s id="1476:11&collection=eptic3">
+<s id="1476:11">
 As	IN	as-i
 you	PP	you-d
 know	VVP	know-v
@@ -2794,7 +2794,7 @@ few	JJ	few-j
 weeks	NNS	week-n
 .	SENT	.-x
 </s>
-<s id="1476:12&collection=eptic3">
+<s id="1476:12">
 Therefore	RB	therefore-a
 ,	,	,-x
 madam	NN	madam-n
@@ -2819,7 +2819,7 @@ step	NN	step-n
 forward	RB	forward-a
 .	SENT	.-x
 </s>
-<s id="1476:13&collection=eptic3">
+<s id="1476:13">
 To	TO	to-x
 reiterate	VV	reiterate-v
 ,	,	,-x
@@ -2867,7 +2867,7 @@ political	JJ	political-j
 commitment	NN	commitment-n
 .	SENT	.-x
 </s>
-<s id="1476:14&collection=eptic3">
+<s id="1476:14">
 Behind	IN	behind-i
 the	DT	the-x
 technical	JJ	technical-j
@@ -2913,7 +2913,7 @@ citizens	NNS	citizen-n
 <speaker name="De Castro Paolo" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="162" duration="short" durations="72.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1477:1&collection=eptic3">
+<s id="1477:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -2959,7 +2959,7 @@ European	JJ	European-j
 consumers	NNS	consumer-n
 .	SENT	.-x
 </s>
-<s id="1477:2&collection=eptic3">
+<s id="1477:2">
 Next	JJ	next-j
 week	NN	week-n
 ,	,	,-x
@@ -2997,7 +2997,7 @@ serious	JJ	serious-j
 episode	NN	episode-n
 .	SENT	.-x
 </s>
-<s id="1477:3&collection=eptic3">
+<s id="1477:3">
 Despite	IN	despite-i
 the	DT	the-x
 fact	NN	fact-n
@@ -3032,7 +3032,7 @@ food	NN	food-n
 contamination	NN	contamination-n
 .	SENT	.-x
 </s>
-<s id="1477:4&collection=eptic3">
+<s id="1477:4">
 I	PP	I-d
 would	MD	would-x
 note	VV	note-v
@@ -3087,7 +3087,7 @@ on	IN	on-i
 labels	NNS	label-n
 .	SENT	.-x
 </s>
-<s id="1477:5&collection=eptic3">
+<s id="1477:5">
 Unfortunately	RB	unfortunately-a
 ,	,	,-x
 this	DT	this-x
@@ -3103,7 +3103,7 @@ health	NN	health-n
 council	NN	council-n
 .	SENT	.-x
 </s>
-<s id="1477:6&collection=eptic3">
+<s id="1477:6">
 We	PP	we-d
 shall	MD	shall-x
 try	VV	try-v
@@ -3131,7 +3131,7 @@ European	JJ	European-j
 consumers	NNS	consumer-n
 .	SENT	.-x
 </s>
-<s id="1477:7&collection=eptic3">
+<s id="1477:7">
 Parliament	NP	Parliament-n
 is	VBZ	be-v
 therefore	RB	therefore-a
@@ -3152,7 +3152,7 @@ of	IN	of-i
 consumers	NNS	consumer-n
 .	SENT	.-x
 </s>
-<s id="1477:8&collection=eptic3">
+<s id="1477:8">
 We	PP	we-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -3175,7 +3175,7 @@ attitude	NN	attitude-n
 <speaker name="Ronzulli Licia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="265" duration="medium" durations="122.0" speed="medium" speedwm="130.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1478:1&collection=eptic3">
+<s id="1478:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -3219,7 +3219,7 @@ food	NN	food-n
 safety	NN	safety-n
 .	SENT	.-x
 </s>
-<s id="1478:2&collection=eptic3">
+<s id="1478:2">
 To	IN	to-i
 what	WP	what-x
 extent	NN	extent-n
@@ -3238,7 +3238,7 @@ and	CC	and-c
 nutritious	JJ	nutritious-j
 ?	SENT	?-x
 </s>
-<s id="1478:3&collection=eptic3">
+<s id="1478:3">
 Are	VBP	be-v
 we	PP	we-d
 really	RB	really-a
@@ -3254,7 +3254,7 @@ are	VBP	be-v
 safe	JJ	safe-j
 ?	SENT	?-x
 </s>
-<s id="1478:4&collection=eptic3">
+<s id="1478:4">
 Quality	NN	quality-n
 of	IN	of-i
 raw	JJ	raw-j
@@ -3271,7 +3271,7 @@ final	JJ	final-j
 product	NN	product-n
 .	SENT	.-x
 </s>
-<s id="1478:5&collection=eptic3">
+<s id="1478:5">
 Constant	JJ	constant-j
 monitoring	NN	monitoring-n
 ,	,	,-x
@@ -3300,7 +3300,7 @@ potential	JJ	potential-j
 risks	NNS	risk-n
 .	SENT	.-x
 </s>
-<s id="1478:6&collection=eptic3">
+<s id="1478:6">
 This	DT	this-x
 latest	JJS	late-j
 incident	NN	incident-n
@@ -3333,7 +3333,7 @@ already	RB	already-a
 emphasised	VVN	emphasise-v
 .	SENT	.-x
 </s>
-<s id="1478:7&collection=eptic3">
+<s id="1478:7">
 We	PP	we-d
 must	MD	must-x
 protect	VV	protect-v
@@ -3367,7 +3367,7 @@ the	DT	the-x
 responsibility	NN	responsibility-n
 .	SENT	.-x
 </s>
-<s id="1478:8&collection=eptic3">
+<s id="1478:8">
 It	PP	it-d
 is	VBZ	be-v
 true	JJ	true-j
@@ -3427,7 +3427,7 @@ these	DT	these-x
 measures	NNS	measure-n
 .	SENT	.-x
 </s>
-<s id="1478:9&collection=eptic3">
+<s id="1478:9">
 I	PP	I-d
 am	VBP	be-v
 proud	JJ	proud-j
@@ -3461,7 +3461,7 @@ have	VHP	have-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1478:10&collection=eptic3">
+<s id="1478:10">
 Finally	RB	finally-a
 ,	,	,-x
 we	PP	we-d
@@ -3490,7 +3490,7 @@ as	IN	as-i
 orangeade	NN	orangeade-n
 .	SENT	.-x
 </s>
-<s id="1478:11&collection=eptic3">
+<s id="1478:11">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -3503,7 +3503,7 @@ this	DT	this-x
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1478:12&collection=eptic3">
+<s id="1478:12">
 I	PP	I-d
 will	MD	will-x
 make	VV	make-v
@@ -3545,7 +3545,7 @@ food	NN	food-n
 <speaker name="Angelilli Roberta" gender="F" country="Italy" politfunc="Vice President of the European Parliament" politgroup="PPE">
 <st language="it" length="short" lengthw="221" duration="medium" durations="128.0" speed="slow" speedwm="103.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1479:1&collection=eptic3">
+<s id="1479:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -3580,7 +3580,7 @@ street	NN	street-n
 children	NNS	child-n
 .	SENT	.-x
 </s>
-<s id="1479:2&collection=eptic3">
+<s id="1479:2">
 Amongst	IN	amongst-i
 the	DT	the-x
 associations	NNS	association-n
@@ -3595,7 +3595,7 @@ dell	NN	dell-n
 adozione	NN	adozione-n
 .	SENT	.-x
 </s>
-<s id="1479:3&collection=eptic3">
+<s id="1479:3">
 There	EX	there-x
 are	VBP	be-v
 many	JJ	many-j
@@ -3615,7 +3615,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1479:4&collection=eptic3">
+<s id="1479:4">
 These	DT	these-x
 are	VBP	be-v
 children	NNS	child-n
@@ -3659,7 +3659,7 @@ illegal	JJ	illegal-j
 adoptions	NNS	adoption-n
 .	SENT	.-x
 </s>
-<s id="1479:5&collection=eptic3">
+<s id="1479:5">
 Often	RB	often-a
 ,	,	,-x
 these	DT	these-x
@@ -3675,7 +3675,7 @@ and	CC	and-c
 orphanages	NNS	orphanage-n
 .	SENT	.-x
 </s>
-<s id="1479:6&collection=eptic3">
+<s id="1479:6">
 We	PP	we-d
 must	MD	must-x
 guarantee	VV	guarantee-v
@@ -3695,7 +3695,7 @@ a	DT	a-x
 family	NN	family-n
 .	SENT	.-x
 </s>
-<s id="1479:7&collection=eptic3">
+<s id="1479:7">
 A	DT	a-x
 child	NN	child-n
 should	MD	should-x
@@ -3710,7 +3710,7 @@ an	DT	a-x
 institution	NN	institution-n
 .	SENT	.-x
 </s>
-<s id="1479:8&collection=eptic3">
+<s id="1479:8">
 Obviously	RB	obviously-a
 ,	,	,-x
 the	DT	the-x
@@ -3746,7 +3746,7 @@ domestic	JJ	domestic-j
 authorities	NNS	authority-n
 .	SENT	.-x
 </s>
-<s id="1479:9&collection=eptic3">
+<s id="1479:9">
 However	RB	however-a
 ,	,	,-x
 where	WRB	where-x
@@ -3780,7 +3780,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1479:10&collection=eptic3">
+<s id="1479:10">
 I	PP	I-d
 know	VVP	know-v
 that	IN/that	that-i
@@ -3803,7 +3803,7 @@ national	JJ	national-j
 competence	NN	competence-n
 .	SENT	.-x
 </s>
-<s id="1479:11&collection=eptic3">
+<s id="1479:11">
 However	RB	however-a
 ,	,	,-x
 some	DT	some-x
@@ -3887,7 +3887,7 @@ institution	NN	institution-n
 <speaker name="Iacolino Salvatore" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="250" duration="medium" durations="145.0" speed="slow" speedwm="103.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1480:1&collection=eptic3">
+<s id="1480:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -3932,7 +3932,7 @@ this	DT	this-x
 sitting	NN	sitting-n
 .	SENT	.-x
 </s>
-<s id="1480:2&collection=eptic3">
+<s id="1480:2">
 We	PP	we-d
 need	VVP	need-v
 leaner	RBR	leaner-a
@@ -3941,7 +3941,7 @@ simplified	VVN	simplify-v
 procedures	NNS	procedure-n
 .	SENT	.-x
 </s>
-<s id="1480:3&collection=eptic3">
+<s id="1480:3">
 The	DT	the-x
 current	JJ	current-j
 costs	NNS	cost-n
@@ -3986,7 +3986,7 @@ just	RB	just-a
 that	RB	that-a
 .	SENT	.-x
 </s>
-<s id="1480:4&collection=eptic3">
+<s id="1480:4">
 We	PP	we-d
 are	VBP	be-v
 talking	VVG	talk-v
@@ -4003,7 +4003,7 @@ from	IN	from-i
 sight	NN	sight-n
 .	SENT	.-x
 </s>
-<s id="1480:5&collection=eptic3">
+<s id="1480:5">
 I	PP	I-d
 am	VBP	be-v
 referring	VVG	refer-v
@@ -4052,7 +4052,7 @@ caught	VVN	catch-v
 up	RP	up-x
 .	SENT	.-x
 </s>
-<s id="1480:6&collection=eptic3">
+<s id="1480:6">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -4061,7 +4061,7 @@ the	DT	the-x
 family	NN	family-n
 .	SENT	.-x
 </s>
-<s id="1480:7&collection=eptic3">
+<s id="1480:7">
 The	DT	the-x
 Italian	JJ	Italian-j
 model	NN	model-n
@@ -4077,7 +4077,7 @@ be	VB	be-v
 followed	VVN	follow-v
 .	SENT	.-x
 </s>
-<s id="1480:8&collection=eptic3">
+<s id="1480:8">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -4152,7 +4152,7 @@ ensure	VV	ensure-v
 transparency	NN	transparency-n
 .	SENT	.-x
 </s>
-<s id="1480:9&collection=eptic3">
+<s id="1480:9">
 What	WP	what-x
 is	VBZ	be-v
 more	JJR	more-j
@@ -4206,7 +4206,7 @@ of	IN	of-i
 guarantee	NN	guarantee-n
 .	SENT	.-x
 </s>
-<s id="1480:10&collection=eptic3">
+<s id="1480:10">
 I	PP	I-d
 would	MD	would-x
 conclude	VV	conclude-v
@@ -4282,7 +4282,7 @@ children	NNS	child-n
 <speaker name="Alfano Sonia" gender="F" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="150" duration="short" durations="57.0" speed="medium" speedwm="157.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1481:1&collection=eptic3">
+<s id="1481:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -4319,7 +4319,7 @@ international	JJ	international-j
 adoptions	NNS	adoption-n
 .	SENT	.-x
 </s>
-<s id="1481:2&collection=eptic3">
+<s id="1481:2">
 The	DT	the-x
 Hague	NP	Hague-n
 Convention	NP	Convention-n
@@ -4352,7 +4352,7 @@ to	IN	to-i
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1481:3&collection=eptic3">
+<s id="1481:3">
 If	IN	if-i
 Romania	NP	Romania-n
 believes	VVZ	believe-v
@@ -4411,7 +4411,7 @@ strict	JJ	strict-j
 regulations	NNS	regulation-n
 .	SENT	.-x
 </s>
-<s id="1481:4&collection=eptic3">
+<s id="1481:4">
 However	RB	however-a
 ,	,	,-x
 we	PP	we-d
@@ -4441,7 +4441,7 @@ happy	JJ	happy-j
 childhood	NN	childhood-n
 .	SENT	.-x
 </s>
-<s id="1481:5&collection=eptic3">
+<s id="1481:5">
 I	PP	I-d
 would	MD	would-x
 therefore	RB	therefore-a
@@ -4506,7 +4506,7 @@ out	RP	out-x
 <speaker name="Baldassarre Raffaele" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="221" duration="short" durations="109.0" speed="slow" speedwm="121.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1482:1&collection=eptic3">
+<s id="1482:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -4551,7 +4551,7 @@ their	PPZ	their-d
 needs	NNS	need-n
 .	SENT	.-x
 </s>
-<s id="1482:2&collection=eptic3">
+<s id="1482:2">
 This	DT	this-x
 contradiction	NN	contradiction-n
 reveals	VVZ	reveal-v
@@ -4573,7 +4573,7 @@ help	NN	help-n
 requested	VVD	request-v
 .	SENT	.-x
 </s>
-<s id="1482:3&collection=eptic3">
+<s id="1482:3">
 The	DT	the-x
 paradox	NN	paradox-n
 of	IN	of-i
@@ -4601,7 +4601,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1482:4&collection=eptic3">
+<s id="1482:4">
 The	DT	the-x
 numerous	JJ	numerous-j
 international	JJ	international-j
@@ -4622,7 +4622,7 @@ to	IN	to-i
 adoption	NN	adoption-n
 .	SENT	.-x
 </s>
-<s id="1482:5&collection=eptic3">
+<s id="1482:5">
 On	IN	on-i
 the	DT	the-x
 one	CD	one-m
@@ -4644,7 +4644,7 @@ exclusive	JJ	exclusive-j
 nature	NN	nature-n
 .	SENT	.-x
 </s>
-<s id="1482:6&collection=eptic3">
+<s id="1482:6">
 However	RB	however-a
 ,	,	,-x
 on	IN	on-i
@@ -4674,7 +4674,7 @@ and	CC	and-c
 processes	NNS	process-n
 .	SENT	.-x
 </s>
-<s id="1482:7&collection=eptic3">
+<s id="1482:7">
 The	DT	the-x
 Treaty	NP	Treaty-n
 of	IN	of-i
@@ -4701,7 +4701,7 @@ is	VBZ	be-v
 changing	VVG	change-v
 .	SENT	.-x
 </s>
-<s id="1482:8&collection=eptic3">
+<s id="1482:8">
 The	DT	the-x
 protection	NN	protection-n
 and	CC	and-c
@@ -4722,7 +4722,7 @@ the	DT	the-x
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1482:9&collection=eptic3">
+<s id="1482:9">
 This	DT	this-x
 is	VBZ	be-v
 the	DT	the-x
@@ -4778,7 +4778,7 @@ has	VHZ	have-v
 shown	VVN	show-v
 .	SENT	.-x
 </s>
-<s id="1482:10&collection=eptic3">
+<s id="1482:10">
 Allow	VV	allow-v
 me	PP	me-d
 to	TO	to-x
@@ -4791,7 +4791,7 @@ who	WP	who-x
 said	VVD	say-v
 :	:	:-x
 </s>
-<s id="1482:11&collection=eptic3">
+<s id="1482:11">
 '	''	'-x
 All	DT	all-x
 grown-ups	NNS	grown-up-n
@@ -4816,7 +4816,7 @@ it	PP	it-d
 <speaker name="Scurria Marco" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="220" duration="short" durations="103.0" speed="slow" speedwm="128.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1483:1&collection=eptic3">
+<s id="1483:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -4882,7 +4882,7 @@ oral	JJ	oral-j
 question	NN	question-n
 .	SENT	.-x
 </s>
-<s id="1483:2&collection=eptic3">
+<s id="1483:2">
 From	IN	from-i
 a	DT	a-x
 dialectical	JJ	dialectical-j
@@ -4907,7 +4907,7 @@ would	MD	would-x
 seem	VV	seem-v
 .	SENT	.-x
 </s>
-<s id="1483:3&collection=eptic3">
+<s id="1483:3">
 There	EX	there-x
 are	VBP	be-v
 many	JJ	many-j
@@ -4928,7 +4928,7 @@ adopt	VV	adopt-v
 children	NNS	child-n
 .	SENT	.-x
 </s>
-<s id="1483:4&collection=eptic3">
+<s id="1483:4">
 However	RB	however-a
 ,	,	,-x
 these	DT	these-x
@@ -4953,7 +4953,7 @@ remain	VVP	remain-v
 childless	JJ	childless-j
 .	SENT	.-x
 </s>
-<s id="1483:5&collection=eptic3">
+<s id="1483:5">
 Clearly	RB	clearly-a
 ,	,	,-x
 these	DT	these-x
@@ -4963,7 +4963,7 @@ our	PPZ	our-d
 priority	NN	priority-n
 .	SENT	.-x
 </s>
-<s id="1483:6&collection=eptic3">
+<s id="1483:6">
 They	PP	they-d
 have	VHP	have-v
 our	PPZ	our-d
@@ -4983,7 +4983,7 @@ situation	NN	situation-n
 requires	VVZ	require-v
 .	SENT	.-x
 </s>
-<s id="1483:7&collection=eptic3">
+<s id="1483:7">
 However	RB	however-a
 ,	,	,-x
 when	WRB	when-x
@@ -5014,7 +5014,7 @@ slave	NN	slave-n
 traders	NNS	trader-n
 .	SENT	.-x
 </s>
-<s id="1483:8&collection=eptic3">
+<s id="1483:8">
 All	PDT	all-x
 this	DT	this-x
 is	VBZ	be-v
@@ -5036,7 +5036,7 @@ these	DT	these-x
 children	NNS	child-n
 .	SENT	.-x
 </s>
-<s id="1483:9&collection=eptic3">
+<s id="1483:9">
 I	PP	I-d
 am	VBP	be-v
 therefore	RB	therefore-a
@@ -5057,7 +5057,7 @@ to	TO	to-x
 adopt	VV	adopt-v
 .	SENT	.-x
 </s>
-<s id="1483:10&collection=eptic3">
+<s id="1483:10">
 However	RB	however-a
 ,	,	,-x
 we	PP	we-d
@@ -5095,7 +5095,7 @@ children	NNS	child-n
 obviously	RB	obviously-a
 .	SENT	.-x
 </s>
-<s id="1483:11&collection=eptic3">
+<s id="1483:11">
 We	PP	we-d
 therefore	RB	therefore-a
 ask	VVP	ask-v
@@ -5156,7 +5156,7 @@ condition	NN	condition-n
 <speaker name="Mazzoni Erminia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="281" duration="short" durations="117.0" speed="medium" speedwm="144.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1484:1&collection=eptic3">
+<s id="1484:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -5206,7 +5206,7 @@ of	IN	of-i
 Lisbon	NP	Lisbon-n
 .	SENT	.-x
 </s>
-<s id="1484:2&collection=eptic3">
+<s id="1484:2">
 In	IN	in-i
 my	PPZ	my-d
 opinion	NN	opinion-n
@@ -5236,7 +5236,7 @@ boundaries	NNS	boundary-n
 upon	RP	upon-x
 .	SENT	.-x
 </s>
-<s id="1484:3&collection=eptic3">
+<s id="1484:3">
 In	IN	in-i
 the	DT	the-x
 best	JJS	good-j
@@ -5269,7 +5269,7 @@ and	CC	and-c
 violence	NN	violence-n
 .	SENT	.-x
 </s>
-<s id="1484:4&collection=eptic3">
+<s id="1484:4">
 Beyond	IN	beyond-i
 the	DT	the-x
 phenomenon	NN	phenomenon-n
@@ -5330,7 +5330,7 @@ cumbersome	JJ	cumbersome-j
 bureaucracy	NN	bureaucracy-n
 .	SENT	.-x
 </s>
-<s id="1484:5&collection=eptic3">
+<s id="1484:5">
 The	DT	the-x
 United	NP	United-n
 Nations	NPS	Nations-n
@@ -5354,7 +5354,7 @@ European	JJ	European-j
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1484:6&collection=eptic3">
+<s id="1484:6">
 As	IN	as-i
 Chair	NN	chair-n
 of	IN	of-i
@@ -5388,7 +5388,7 @@ children	NNS	child-n
 alone	RB	alone-a
 .	SENT	.-x
 </s>
-<s id="1484:7&collection=eptic3">
+<s id="1484:7">
 The	DT	the-x
 complex	JJ	complex-j
 procedures	NNS	procedure-n
@@ -5410,7 +5410,7 @@ the	DT	the-x
 child	NN	child-n
 .	SENT	.-x
 </s>
-<s id="1484:8&collection=eptic3">
+<s id="1484:8">
 The	DT	the-x
 long	JJ	long-j
 time	NN	time-n
@@ -5472,7 +5472,7 @@ demand	NN	demand-n
 unfortunately	RB	unfortunately-a
 .	SENT	.-x
 </s>
-<s id="1484:9&collection=eptic3">
+<s id="1484:9">
 In	IN	in-i
 the	DT	the-x
 light	NN	light-n
@@ -5540,7 +5540,7 @@ countries	NNS	country-n
 <speaker name="Pirillo Mario" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="150" duration="short" durations="92.0" speed="slow" speedwm="97.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1485:1&collection=eptic3">
+<s id="1485:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -5586,7 +5586,7 @@ to	TO	to-x
 protect	VV	protect-v
 .	SENT	.-x
 </s>
-<s id="1485:2&collection=eptic3">
+<s id="1485:2">
 Even	RB	even-a
 so	RB	so-a
 ,	,	,-x
@@ -5615,7 +5615,7 @@ in	IN	in-i
 orphanages	NNS	orphanage-n
 .	SENT	.-x
 </s>
-<s id="1485:3&collection=eptic3">
+<s id="1485:3">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -5629,7 +5629,7 @@ not	RB	not-a
 tolerate	VV	tolerate-v
 .	SENT	.-x
 </s>
-<s id="1485:4&collection=eptic3">
+<s id="1485:4">
 This	DT	this-x
 is	VBZ	be-v
 why	WRB	why-x
@@ -5674,7 +5674,7 @@ as	RB	as-a
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1485:5&collection=eptic3">
+<s id="1485:5">
 To	TO	to-x
 make	VV	make-v
 this	DT	this-x
@@ -5716,7 +5716,7 @@ children's	NNSZ	child-n
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1485:6&collection=eptic3">
+<s id="1485:6">
 In	IN	in-i
 addition	NN	addition-n
 ,	,	,-x
@@ -5764,7 +5764,7 @@ possible	JJ	possible-j
 <speaker name="Alfano Sonia" gender="F" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="171" duration="short" durations="65.0" speed="medium" speedwm="157.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1486:1&collection=eptic3">
+<s id="1486:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -5812,7 +5812,7 @@ in	IN	in-i
 Turin	NP	Turin-n
 .	SENT	.-x
 </s>
-<s id="1486:2&collection=eptic3">
+<s id="1486:2">
 The	DT	the-x
 plan	NN	plan-n
 is	VBZ	be-v
@@ -5849,7 +5849,7 @@ assembly	NN	assembly-n
 line	NN	line-n
 .	SENT	.-x
 </s>
-<s id="1486:3&collection=eptic3">
+<s id="1486:3">
 The	DT	the-x
 referendum	NN	referendum-n
 is	VBZ	be-v
@@ -5887,7 +5887,7 @@ move	VV	move-v
 elsewhere	RB	elsewhere-a
 .	SENT	.-x
 </s>
-<s id="1486:4&collection=eptic3">
+<s id="1486:4">
 This	DT	this-x
 strategy	NN	strategy-n
 of	IN	of-i
@@ -5931,7 +5931,7 @@ communist	JJ	communist-j
 party	NN	party-n
 .	SENT	.-x
 </s>
-<s id="1486:5&collection=eptic3">
+<s id="1486:5">
 The	DT	the-x
 only	JJ	only-j
 unions	NNS	union-n
@@ -5969,7 +5969,7 @@ union	NN	union-n
 representation	NN	representation-n
 .	SENT	.-x
 </s>
-<s id="1486:6&collection=eptic3">
+<s id="1486:6">
 In	IN	in-i
 any	DT	any-x
 case	NN	case-n
@@ -5986,7 +5986,7 @@ the	DT	the-x
 votes	NNS	vote-n
 .	SENT	.-x
 </s>
-<s id="1486:7&collection=eptic3">
+<s id="1486:7">
 As	IN	as-i
 a	DT	a-x
 result	NN	result-n
@@ -6005,7 +6005,7 @@ several	JJ	several-j
 decades	NNS	decade-n
 .	SENT	.-x
 </s>
-<s id="1486:8&collection=eptic3">
+<s id="1486:8">
 Europe	NP	Europe-n
 should	MD	should-x
 know	VV	know-v
@@ -6025,7 +6025,7 @@ mind	NN	mind-n
 <speaker name="Baldassarre Raffaele" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="143" duration="short" durations="74.0" speed="slow" speedwm="115.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1487:1&collection=eptic3">
+<s id="1487:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -6071,7 +6071,7 @@ difficult	JJ	difficult-j
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1487:2&collection=eptic3">
+<s id="1487:2">
 From	IN	from-i
 the	DT	the-x
 adoption	NN	adoption-n
@@ -6126,7 +6126,7 @@ and	CC	and-c
 dynamic	JJ	dynamic-j
 .	SENT	.-x
 </s>
-<s id="1487:3&collection=eptic3">
+<s id="1487:3">
 I	PP	I-d
 could	MD	could-x
 cite	VV	cite-v
@@ -6160,7 +6160,7 @@ positive	JJ	positive-j
 way	NN	way-n
 .	SENT	.-x
 </s>
-<s id="1487:4&collection=eptic3">
+<s id="1487:4">
 Firstly	RB	firstly-a
 ,	,	,-x
 one	PP	one-d
@@ -6173,7 +6173,7 @@ work	NN	work-n
 programme	NN	programme-n
 ;	:	;-x
 </s>
-<s id="1487:5&collection=eptic3">
+<s id="1487:5">
 secondly	RB	secondly-a
 ,	,	,-x
 one	PP	one-d
@@ -6189,7 +6189,7 @@ reach	VV	reach-v
 compromises	NNS	compromise-n
 ;	:	;-x
 </s>
-<s id="1487:6&collection=eptic3">
+<s id="1487:6">
 and	CC	and-c
 ,	,	,-x
 lastly	RB	lastly-a
@@ -6224,7 +6224,7 @@ national	JJ	national-j
 interests	NNS	interest-n
 .	SENT	.-x
 </s>
-<s id="1487:7&collection=eptic3">
+<s id="1487:7">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -6243,7 +6243,7 @@ follow	VVP	follow-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1487:8&collection=eptic3">
+<s id="1487:8">
 For	IN	for-i
 now	RB	now-a
 though	RB	though-a
@@ -6265,7 +6265,7 @@ congratulations	NNS	congratulation-n
 <speaker name="Rossi Oreste" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="160" duration="short" durations="69.0" speed="medium" speedwm="139.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1488:1&collection=eptic3">
+<s id="1488:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -6285,7 +6285,7 @@ important	JJ	important-j
 quotations	NNS	quotation-n
 ;	:	;-x
 </s>
-<s id="1488:2&collection=eptic3">
+<s id="1488:2">
 it	PP	it-d
 is	VBZ	be-v
 a	DT	a-x
@@ -6323,7 +6323,7 @@ a	DT	a-x
 government	NN	government-n
 .	SENT	.-x
 </s>
-<s id="1488:3&collection=eptic3">
+<s id="1488:3">
 You	PP	you-d
 see	VVP	see-v
 ,	,	,-x
@@ -6412,7 +6412,7 @@ judiciary	NN	judiciary-n
 itself	PP	itself-d
 .	SENT	.-x
 </s>
-<s id="1488:4&collection=eptic3">
+<s id="1488:4">
 You	PP	you-d
 did	VVD	do-v
 not	RB	not-a
@@ -6420,7 +6420,7 @@ answer	VV	answer-v
 me	PP	me-d
 .	SENT	.-x
 </s>
-<s id="1488:5&collection=eptic3">
+<s id="1488:5">
 I	PP	I-d
 did	VVD	do-v
 not	RB	not-a
@@ -6438,7 +6438,7 @@ represent	VV	represent-v
 everyone	NN	everyone-n
 .	SENT	.-x
 </s>
-<s id="1488:6&collection=eptic3">
+<s id="1488:6">
 If	IN	if-i
 asked	VVN	ask-v
 a	DT	a-x
@@ -6480,7 +6480,7 @@ explain	VV	explain-v
 why	WRB	why-x
 .	SENT	.-x
 </s>
-<s id="1488:7&collection=eptic3">
+<s id="1488:7">
 You	PP	you-d
 did	VVD	do-v
 not	RB	not-a
@@ -6488,7 +6488,7 @@ do	VV	do-v
 that	DT	that-x
 .	SENT	.-x
 </s>
-<s id="1488:8&collection=eptic3">
+<s id="1488:8">
 Today	NN	today-n
 ,	,	,-x
 I	PP	I-d
@@ -6506,7 +6506,7 @@ good	JJ	good-j
 job	NN	job-n
 .	SENT	.-x
 </s>
-<s id="1488:9&collection=eptic3">
+<s id="1488:9">
 Perhaps	RB	perhaps-a
 if	IN	if-i
 you	PP	you-d
@@ -6540,7 +6540,7 @@ relationship	NN	relationship-n
 <speaker name="Antoniozzi Alfredo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="175" duration="short" durations="89.0" speed="slow" speedwm="118.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1489:1&collection=eptic3">
+<s id="1489:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -6570,7 +6570,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1489:2&collection=eptic3">
+<s id="1489:2">
 We	PP	we-d
 simply	RB	simply-a
 had	VHD	have-v
@@ -6590,7 +6590,7 @@ this	DT	this-x
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1489:3&collection=eptic3">
+<s id="1489:3">
 The	DT	the-x
 Stihler	NP	Stihler-n
 report	NN	report-n
@@ -6631,7 +6631,7 @@ this	DT	this-x
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1489:4&collection=eptic3">
+<s id="1489:4">
 I	PP	I-d
 support	VVP	support-v
 the	DT	the-x
@@ -6679,7 +6679,7 @@ climate	NN	climate-n
 change	NN	change-n
 .	SENT	.-x
 </s>
-<s id="1489:5&collection=eptic3">
+<s id="1489:5">
 However	RB	however-a
 ,	,	,-x
 I	PP	I-d
@@ -6709,7 +6709,7 @@ construction	NN	construction-n
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1489:6&collection=eptic3">
+<s id="1489:6">
 The	DT	the-x
 guidelines	NNS	guideline-n
 that	IN/that	that-i
@@ -6732,7 +6732,7 @@ expanded	VVN	expand-v
 upon	RP	upon-x
 .	SENT	.-x
 </s>
-<s id="1489:7&collection=eptic3">
+<s id="1489:7">
 It	PP	it-d
 is	VBZ	be-v
 our	PPZ	our-d
@@ -6766,7 +6766,7 @@ of	IN	of-i
 protection	NN	protection-n
 .	SENT	.-x
 </s>
-<s id="1489:8&collection=eptic3">
+<s id="1489:8">
 The	DT	the-x
 tragedy	NN	tragedy-n
 of	IN	of-i
@@ -6783,7 +6783,7 @@ of	IN	of-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1489:9&collection=eptic3">
+<s id="1489:9">
 I	PP	I-d
 hope	VVP	hope-v
 that	IN/that	that-i
@@ -6812,7 +6812,7 @@ them	PP	them-d
 <speaker name="Mastella Clemente" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="160" duration="short" durations="67.0" speed="medium" speedwm="143.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1490:1&collection=eptic3">
+<s id="1490:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -6850,7 +6850,7 @@ humanitarian	JJ	humanitarian-j
 assistance	NN	assistance-n
 .	SENT	.-x
 </s>
-<s id="1490:2&collection=eptic3">
+<s id="1490:2">
 The	DT	the-x
 Union's	NPZ	Union-n
 humanitarian	JJ	humanitarian-j
@@ -6881,7 +6881,7 @@ most	RBS	most-a
 vulnerable	JJ	vulnerable-j
 .	SENT	.-x
 </s>
-<s id="1490:3&collection=eptic3">
+<s id="1490:3">
 The	DT	the-x
 European	JJ	European-j
 Consensus	NN	consensus-n
@@ -6918,7 +6918,7 @@ step	NN	step-n
 forward	RB	forward-a
 .	SENT	.-x
 </s>
-<s id="1490:4&collection=eptic3">
+<s id="1490:4">
 I	PP	I-d
 must	MD	must-x
 point	VV	point-v
@@ -6944,7 +6944,7 @@ European	JJ	European-j
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1490:5&collection=eptic3">
+<s id="1490:5">
 In	IN	in-i
 recent	JJ	recent-j
 years	NNS	year-n
@@ -6964,7 +6964,7 @@ humanitarian	JJ	humanitarian-j
 crises	NNS	crisis-n
 .	SENT	.-x
 </s>
-<s id="1490:6&collection=eptic3">
+<s id="1490:6">
 It	PP	it-d
 is	VBZ	be-v
 essential	JJ	essential-j
@@ -7009,7 +7009,7 @@ and	CC	and-c
 remits	NNS	remit-n
 .	SENT	.-x
 </s>
-<s id="1490:7&collection=eptic3">
+<s id="1490:7">
 Obviously	RB	obviously-a
 ,	,	,-x
 when	WRB	when-x
@@ -7045,7 +7045,7 @@ Consensus	NN	consensus-n
 <speaker name="Antinoro Antonello" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="166" duration="short" durations="82.0" speed="slow" speedwm="121.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1491:1&collection=eptic3">
+<s id="1491:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -7087,7 +7087,7 @@ humanitarian	JJ	humanitarian-j
 aid	NN	aid-n
 .	SENT	.-x
 </s>
-<s id="1491:2&collection=eptic3">
+<s id="1491:2">
 The	DT	the-x
 European	NP	European-n
 Parliament	NP	Parliament-n
@@ -7131,7 +7131,7 @@ humanitarian	JJ	humanitarian-j
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1491:3&collection=eptic3">
+<s id="1491:3">
 We	PP	we-d
 must	MD	must-x
 ensure	VV	ensure-v
@@ -7187,7 +7187,7 @@ bilateral	JJ	bilateral-j
 programmes	NNS	programme-n
 .	SENT	.-x
 </s>
-<s id="1491:4&collection=eptic3">
+<s id="1491:4">
 While	IN	while-i
 the	DT	the-x
 needs	NNS	need-n
@@ -7216,7 +7216,7 @@ international	JJ	international-j
 framework	NN	framework-n
 .	SENT	.-x
 </s>
-<s id="1491:5&collection=eptic3">
+<s id="1491:5">
 In	IN	in-i
 view	NN	view-n
 of	IN	of-i
@@ -7278,7 +7278,7 @@ need	NN	need-n
 <speaker name="Antoniozzi Alfredo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="160" duration="short" durations="76.0" speed="slow" speedwm="126.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1492:1&collection=eptic3">
+<s id="1492:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -7328,7 +7328,7 @@ space	NN	space-n
 '	''	'-x
 .	SENT	.-x
 </s>
-<s id="1492:2&collection=eptic3">
+<s id="1492:2">
 The	DT	the-x
 recent	JJ	recent-j
 tragedies	NNS	tragedy-n
@@ -7357,7 +7357,7 @@ be	VB	be-v
 improved	VVN	improve-v
 .	SENT	.-x
 </s>
-<s id="1492:3&collection=eptic3">
+<s id="1492:3">
 I	PP	I-d
 agree	VVP	agree-v
 with	IN	with-i
@@ -7386,7 +7386,7 @@ principles	NNS	principle-n
 unstintingly	RB	unstintingly-a
 .	SENT	.-x
 </s>
-<s id="1492:4&collection=eptic3">
+<s id="1492:4">
 The	DT	the-x
 external	JJ	external-j
 action	NN	action-n
@@ -7404,7 +7404,7 @@ of	IN	of-i
 Lisbon	NP	Lisbon-n
 ;	:	;-x
 </s>
-<s id="1492:5&collection=eptic3">
+<s id="1492:5">
 it	PP	it-d
 should	MD	should-x
 reflect	VV	reflect-v
@@ -7421,7 +7421,7 @@ international	JJ	international-j
 donor	NN	donor-n
 .	SENT	.-x
 </s>
-<s id="1492:6&collection=eptic3">
+<s id="1492:6">
 I	PP	I-d
 voted	VVD	vote-v
 in	IN	in-i
@@ -7493,7 +7493,7 @@ aid	NN	aid-n
 <speaker name="Mastella Clemente" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="141" duration="short" durations="66.0" speed="slow" speedwm="128.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1493:1&collection=eptic3">
+<s id="1493:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -7534,7 +7534,7 @@ sufficient	JJ	sufficient-j
 food	NN	food-n
 .	SENT	.-x
 </s>
-<s id="1493:2&collection=eptic3">
+<s id="1493:2">
 The	DT	the-x
 new	JJ	new-j
 EU	NP	EU-n
@@ -7579,7 +7579,7 @@ the	DT	the-x
 EU	NP	EU-n
 .	SENT	.-x
 </s>
-<s id="1493:3&collection=eptic3">
+<s id="1493:3">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -7607,7 +7607,7 @@ local	JJ	local-j
 distribution	NN	distribution-n
 .	SENT	.-x
 </s>
-<s id="1493:4&collection=eptic3">
+<s id="1493:4">
 These	DT	these-x
 models	NNS	model-n
 of	IN	of-i
@@ -7673,7 +7673,7 @@ time	NN	time-n
 <speaker name="Pirillo Mario" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="long" lengthw="92" duration="short" durations="60.0" speed="slow" speedwm="92.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1494:1&collection=eptic3">
+<s id="1494:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -7709,7 +7709,7 @@ also	RB	also-a
 worldwide	RB	worldwide-a
 .	SENT	.-x
 </s>
-<s id="1494:2&collection=eptic3">
+<s id="1494:2">
 I	PP	I-d
 am	VBP	be-v
 very	RB	very-a
@@ -7736,7 +7736,7 @@ human	JJ	human-j
 right	NN	right-n
 .	SENT	.-x
 </s>
-<s id="1494:3&collection=eptic3">
+<s id="1494:3">
 Food	NN	food-n
 security	NN	security-n
 as	IN	as-i
@@ -7766,7 +7766,7 @@ serious	JJ	serious-j
 consideration	NN	consideration-n
 .	SENT	.-x
 </s>
-<s id="1494:4&collection=eptic3">
+<s id="1494:4">
 Europe	NP	Europe-n
 has	VHZ	have-v
 to	TO	to-x
@@ -7811,7 +7811,7 @@ products	NNS	product-n
 <speaker name="Uggias Giommaria" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="154" duration="short" durations="78.0" speed="slow" speedwm="118.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1495:1&collection=eptic3">
+<s id="1495:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -7850,7 +7850,7 @@ post-2013	JJ	post-2013-j
 reform	NN	reform-n
 .	SENT	.-x
 </s>
-<s id="1495:2&collection=eptic3">
+<s id="1495:2">
 Clearly	RB	clearly-a
 ,	,	,-x
 food	NN	food-n
@@ -7865,7 +7865,7 @@ of	IN	of-i
 agriculture	NN	agriculture-n
 .	SENT	.-x
 </s>
-<s id="1495:3&collection=eptic3">
+<s id="1495:3">
 This	DT	this-x
 consideration	NN	consideration-n
 must	MD	must-x
@@ -7906,7 +7906,7 @@ possible	JJ	possible-j
 way	NN	way-n
 .	SENT	.-x
 </s>
-<s id="1495:4&collection=eptic3">
+<s id="1495:4">
 Such	JJ	such-j
 attention	NN	attention-n
 is	VBZ	be-v
@@ -7995,7 +7995,7 @@ respects	VVZ	respect-v
 consumers	NNS	consumer-n
 .	SENT	.-x
 </s>
-<s id="1495:5&collection=eptic3">
+<s id="1495:5">
 This	DT	this-x
 report	NN	report-n
 forms	VVZ	form-v
@@ -8033,7 +8033,7 @@ satisfied	VVN	satisfy-v
 <speaker name="Tatarella Salvatore" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="119" duration="short" durations="78.0" speed="slow" speedwm="91.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1496:1&collection=eptic3">
+<s id="1496:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -8144,7 +8144,7 @@ the	DT	the-x
 EFSA	NP	EFSA-n
 .	SENT	.-x
 </s>
-<s id="1496:2&collection=eptic3">
+<s id="1496:2">
 As	IN	as-i
 the	DT	the-x
 recent	JJ	recent-j
@@ -8171,7 +8171,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1496:3&collection=eptic3">
+<s id="1496:3">
 It	PP	it-d
 is	VBZ	be-v
 surprising	JJ	surprising-j
@@ -8194,7 +8194,7 @@ budgetary	JJ	budgetary-j
 reasons	NNS	reason-n
 .	SENT	.-x
 </s>
-<s id="1496:4&collection=eptic3">
+<s id="1496:4">
 In	IN	in-i
 my	PPZ	my-d
 view	NN	view-n
@@ -8221,7 +8221,7 @@ constraints	NNS	constraint-n
 <speaker name="Alfano Sonia" gender="F" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="178" duration="short" durations="80.0" speed="medium" speedwm="133.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1497:1&collection=eptic3">
+<s id="1497:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -8257,7 +8257,7 @@ be	VB	be-v
 provided	VVN	provide-v
 .	SENT	.-x
 </s>
-<s id="1497:2&collection=eptic3">
+<s id="1497:2">
 Renewable	JJ	renewable-j
 energy	NN	energy-n
 sources	NNS	source-n
@@ -8272,7 +8272,7 @@ of	IN	of-i
 waste	NN	waste-n
 .	SENT	.-x
 </s>
-<s id="1497:3&collection=eptic3">
+<s id="1497:3">
 Since	IN	since-i
 1992	CD	[number]-m
 ,	,	,-x
@@ -8365,7 +8365,7 @@ of	IN	of-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1497:4&collection=eptic3">
+<s id="1497:4">
 I	PP	I-d
 realise	VVP	realise-v
 that	IN/that	that-i
@@ -8398,7 +8398,7 @@ written	JJ	written-j
 question	NN	question-n
 .	SENT	.-x
 </s>
-<s id="1497:5&collection=eptic3">
+<s id="1497:5">
 However	RB	however-a
 ,	,	,-x
 I	PP	I-d
@@ -8437,7 +8437,7 @@ for	IN	for-i
 this	DT	this-x
 .	SENT	.-x
 </s>
-<s id="1497:6&collection=eptic3">
+<s id="1497:6">
 I	PP	I-d
 would	MD	would-x
 also	RB	also-a
@@ -8477,7 +8477,7 @@ renewable	JJ	renewable-j
 energy	NN	energy-n
 .	SENT	.-x
 </s>
-<s id="1497:7&collection=eptic3">
+<s id="1497:7">
 Does	VVZ	do-v
 the	DT	the-x
 Commission	NP	Commission-n
@@ -8496,7 +8496,7 @@ matter	NN	matter-n
 <speaker name="Rossi Oreste" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="181" duration="short" durations="89.0" speed="slow" speedwm="122.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1498:1&collection=eptic3">
+<s id="1498:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -8513,7 +8513,7 @@ difficult	JJ	difficult-j
 areas	NNS	area-n
 .	SENT	.-x
 </s>
-<s id="1498:2&collection=eptic3">
+<s id="1498:2">
 During	IN	during-i
 discussions	NNS	discussion-n
 in	IN	in-i
@@ -8571,7 +8571,7 @@ health	NN	health-n
 services	NNS	service-n
 .	SENT	.-x
 </s>
-<s id="1498:3&collection=eptic3">
+<s id="1498:3">
 We	PP	we-d
 set	VVD	set-v
 out	RP	out-x
@@ -8596,7 +8596,7 @@ medical	JJ	medical-j
 tourism	NN	tourism-n
 .	SENT	.-x
 </s>
-<s id="1498:4&collection=eptic3">
+<s id="1498:4">
 The	DT	the-x
 costs	NNS	cost-n
 that	WDT	that-x
@@ -8626,7 +8626,7 @@ of	IN	of-i
 origin	NN	origin-n
 .	SENT	.-x
 </s>
-<s id="1498:5&collection=eptic3">
+<s id="1498:5">
 We	PP	we-d
 also	RB	also-a
 wanted	VVD	want-v
@@ -8648,7 +8648,7 @@ not	RB	not-a
 possible	JJ	possible-j
 .	SENT	.-x
 </s>
-<s id="1498:6&collection=eptic3">
+<s id="1498:6">
 In	IN	in-i
 view	NN	view-n
 of	IN	of-i
@@ -8669,7 +8669,7 @@ in	IN	in-i
 favour	NN	favour-n
 .	SENT	.-x
 </s>
-<s id="1498:7&collection=eptic3">
+<s id="1498:7">
 This	DT	this-x
 also	RB	also-a
 applies	VVZ	apply-v
@@ -8711,7 +8711,7 @@ existing	JJ	existing-j
 policies	NNS	policy-n
 .	SENT	.-x
 </s>
-<s id="1498:8&collection=eptic3">
+<s id="1498:8">
 The	DT	the-x
 common	JJ	common-j
 objective	NN	objective-n
@@ -8745,7 +8745,7 @@ citizens	NNS	citizen-n
 <speaker name="Ronzulli Licia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="199" duration="short" durations="96.0" speed="slow" speedwm="124.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1499:1&collection=eptic3">
+<s id="1499:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -8797,7 +8797,7 @@ legal	JJ	legal-j
 footing	NN	footing-n
 .	SENT	.-x
 </s>
-<s id="1499:2&collection=eptic3">
+<s id="1499:2">
 This	DT	this-x
 will	MD	will-x
 allow	VV	allow-v
@@ -8838,7 +8838,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1499:3&collection=eptic3">
+<s id="1499:3">
 By	IN	by-i
 opening	VVG	open-v
 up	RP	up-x
@@ -8886,7 +8886,7 @@ financial	JJ	financial-j
 problems	NNS	problem-n
 .	SENT	.-x
 </s>
-<s id="1499:4&collection=eptic3">
+<s id="1499:4">
 With	IN	with-i
 regard	NN	regard-n
 to	IN	to-i
@@ -8925,7 +8925,7 @@ health	NN	health-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1499:5&collection=eptic3">
+<s id="1499:5">
 More	JJR	more-j
 could	MD	could-x
 perhaps	RB	perhaps-a
@@ -8968,7 +8968,7 @@ voluntary	JJ	voluntary-j
 basis	NN	basis-n
 .	SENT	.-x
 </s>
-<s id="1499:6&collection=eptic3">
+<s id="1499:6">
 Lastly	RB	lastly-a
 ,	,	,-x
 I	PP	I-d
@@ -9032,7 +9032,7 @@ arrived	VVN	arrive-v
 <speaker name="Iacolino Salvatore" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="118" duration="short" durations="62.0" speed="slow" speedwm="114.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1500:1&collection=eptic3">
+<s id="1500:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -9065,7 +9065,7 @@ heartfelt	JJ	heartfelt-j
 congratulations	NNS	congratulation-n
 .	SENT	.-x
 </s>
-<s id="1500:2&collection=eptic3">
+<s id="1500:2">
 Cross-border	JJ	cross-border-j
 healthcare	NN	healthcare-n
 means	VVZ	mean-v
@@ -9096,7 +9096,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1500:3&collection=eptic3">
+<s id="1500:3">
 This	DT	this-x
 health	NN	health-n
 mobility	NN	mobility-n
@@ -9117,7 +9117,7 @@ prompt	JJ	prompt-j
 responses	NNS	response-n
 .	SENT	.-x
 </s>
-<s id="1500:4&collection=eptic3">
+<s id="1500:4">
 The	DT	the-x
 timely	JJ	timely-j
 and	CC	and-c
@@ -9139,7 +9139,7 @@ to	IN	to-i
 health	NN	health-n
 .	SENT	.-x
 </s>
-<s id="1500:5&collection=eptic3">
+<s id="1500:5">
 Healthcare	NP	Healthcare-n
 provision	NN	provision-n
 is	VBZ	be-v
@@ -9156,7 +9156,7 @@ Union	NP	Union-n
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1500:6&collection=eptic3">
+<s id="1500:6">
 In	IN	in-i
 the	DT	the-x
 long	JJ	long-j
@@ -9191,7 +9191,7 @@ standards	NNS	standard-n
 <speaker name="Pirillo Mario" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="118" duration="short" durations="58.0" speed="slow" speedwm="122.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1501:1&collection=eptic3">
+<s id="1501:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -9240,7 +9240,7 @@ cross-border	JJ	cross-border-j
 healthcare	NN	healthcare-n
 .	SENT	.-x
 </s>
-<s id="1501:2&collection=eptic3">
+<s id="1501:2">
 The	DT	the-x
 Directive	NN	directive-n
 that	IN/that	that-i
@@ -9279,7 +9279,7 @@ safety	NN	safety-n
 standards	NNS	standard-n
 .	SENT	.-x
 </s>
-<s id="1501:3&collection=eptic3">
+<s id="1501:3">
 By	IN	by-i
 setting	VVG	set-v
 up	RP	up-x
@@ -9312,7 +9312,7 @@ and	CC	and-c
 appeals	NNS	appeal-n
 .	SENT	.-x
 </s>
-<s id="1501:4&collection=eptic3">
+<s id="1501:4">
 This	DT	this-x
 opportunity	NN	opportunity-n
 is	VBZ	be-v
@@ -9344,7 +9344,7 @@ choice	NN	choice-n
 <speaker name="Mazzoni Erminia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="medium" lengthw="673" duration="long" durations="362.0" speed="slow" speedwm="111.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1502:1&collection=eptic3">
+<s id="1502:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -9409,7 +9409,7 @@ on	IN	on-i
 Petitions	NNS	petition-n
 .	SENT	.-x
 </s>
-<s id="1502:2&collection=eptic3">
+<s id="1502:2">
 This	DT	this-x
 question	NN	question-n
 refers	VVZ	refer-v
@@ -9442,7 +9442,7 @@ until	IN	until-i
 now	RB	now-a
 .	SENT	.-x
 </s>
-<s id="1502:3&collection=eptic3">
+<s id="1502:3">
 This	DT	this-x
 finding	NN	finding-n
 is	VBZ	be-v
@@ -9470,7 +9470,7 @@ I	PP	I-d
 chair	VVP	chair-v
 .	SENT	.-x
 </s>
-<s id="1502:4&collection=eptic3">
+<s id="1502:4">
 The	DT	the-x
 issue	NN	issue-n
 concerns	VVZ	concern-v
@@ -9496,7 +9496,7 @@ the	DT	the-x
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1502:5&collection=eptic3">
+<s id="1502:5">
 This	DT	this-x
 product	NN	product-n
 is	VBZ	be-v
@@ -9538,7 +9538,7 @@ sample	NN	sample-n
 checks	NNS	check-n
 .	SENT	.-x
 </s>
-<s id="1502:6&collection=eptic3">
+<s id="1502:6">
 The	DT	the-x
 product	NN	product-n
 ,	,	,-x
@@ -9603,7 +9603,7 @@ the	DT	the-x
 company	NN	company-n
 .	SENT	.-x
 </s>
-<s id="1502:7&collection=eptic3">
+<s id="1502:7">
 In	IN	in-i
 December	NP	December-n
 of	IN	of-i
@@ -9642,7 +9642,7 @@ in	IN	in-i
 force	NN	force-n
 .	SENT	.-x
 </s>
-<s id="1502:8&collection=eptic3">
+<s id="1502:8">
 At	IN	at-i
 the	DT	the-x
 end	NN	end-n
@@ -9687,7 +9687,7 @@ have	VH	have-v
 doubts	NNS	doubt-n
 .	SENT	.-x
 </s>
-<s id="1502:9&collection=eptic3">
+<s id="1502:9">
 The	DT	the-x
 following	VVG	follow-v
 year	NN	year-n
@@ -9738,7 +9738,7 @@ the	DT	the-x
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1502:10&collection=eptic3">
+<s id="1502:10">
 The	DT	the-x
 Ministry	NP	Ministry-n
 initiated	VVD	initiate-v
@@ -9785,7 +9785,7 @@ not	RB	not-a
 initiated	VVN	initiate-v
 .	SENT	.-x
 </s>
-<s id="1502:11&collection=eptic3">
+<s id="1502:11">
 Amid	IN	amid-i
 the	DT	the-x
 general	JJ	general-j
@@ -9822,7 +9822,7 @@ the	DT	the-x
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1502:12&collection=eptic3">
+<s id="1502:12">
 Unfortunately	RB	unfortunately-a
 ,	,	,-x
 in	IN	in-i
@@ -9850,7 +9850,7 @@ once	RB	once-a
 more	RBR	more-a
 .	SENT	.-x
 </s>
-<s id="1502:13&collection=eptic3">
+<s id="1502:13">
 To	TO	to-x
 be	VB	be-v
 clear	JJ	clear-j
@@ -9875,7 +9875,7 @@ was	VBD	be-v
 withdrawn	VVN	withdraw-v
 .	SENT	.-x
 </s>
-<s id="1502:14&collection=eptic3">
+<s id="1502:14">
 Hence	RB	hence-a
 ,	,	,-x
 there	EX	there-x
@@ -9901,7 +9901,7 @@ party's	NNZ	party-n
 findings	NNS	finding-n
 .	SENT	.-x
 </s>
-<s id="1502:15&collection=eptic3">
+<s id="1502:15">
 This	DT	this-x
 has	VHZ	have-v
 had	VHN	have-v
@@ -9937,7 +9937,7 @@ the	DT	the-x
 market	NN	market-n
 .	SENT	.-x
 </s>
-<s id="1502:16&collection=eptic3">
+<s id="1502:16">
 I	PP	I-d
 would	MD	would-x
 also	RB	also-a
@@ -10003,7 +10003,7 @@ asthma	NN	asthma-n
 sufferers	NNS	sufferer-n
 .	SENT	.-x
 </s>
-<s id="1502:17&collection=eptic3">
+<s id="1502:17">
 In	IN	in-i
 2008	CD	[number]-m
 ,	,	,-x
@@ -10035,7 +10035,7 @@ on	IN	on-i
 Petitions	NNS	petition-n
 .	SENT	.-x
 </s>
-<s id="1502:18&collection=eptic3">
+<s id="1502:18">
 The	DT	the-x
 committee	NN	committee-n
 is	VBZ	be-v
@@ -10048,7 +10048,7 @@ legislative	JJ	legislative-j
 term	NN	term-n
 .	SENT	.-x
 </s>
-<s id="1502:19&collection=eptic3">
+<s id="1502:19">
 Moreover	RB	moreover-a
 ,	,	,-x
 in	IN	in-i
@@ -10136,7 +10136,7 @@ have	VH	have-v
 justice	NN	justice-n
 .	SENT	.-x
 </s>
-<s id="1502:20&collection=eptic3">
+<s id="1502:20">
 None	NN	none-n
 of	IN	of-i
 this	DT	this-x
@@ -10165,7 +10165,7 @@ once	RB	once-a
 again	RB	again-a
 .	SENT	.-x
 </s>
-<s id="1502:21&collection=eptic3">
+<s id="1502:21">
 Hence	RB	hence-a
 ,	,	,-x
 the	DT	the-x
@@ -10211,7 +10211,7 @@ Fundamental	NP	Fundamental-n
 Rights	NPS	Rights-n
 .	SENT	.-x
 </s>
-<s id="1502:22&collection=eptic3">
+<s id="1502:22">
 This	DT	this-x
 is	VBZ	be-v
 not	RB	not-a
@@ -10223,7 +10223,7 @@ Commission's	NPZ	Commission-n
 inertia	NN	inertia-n
 ;	:	;-x
 </s>
-<s id="1502:23&collection=eptic3">
+<s id="1502:23">
 it	PP	it-d
 is	VBZ	be-v
 also	RB	also-a
@@ -10245,7 +10245,7 @@ legal	JJ	legal-j
 action	NN	action-n
 .	SENT	.-x
 </s>
-<s id="1502:24&collection=eptic3">
+<s id="1502:24">
 The	DT	the-x
 affair	NN	affair-n
 raises	VVZ	raise-v
@@ -10297,7 +10297,7 @@ question	NN	question-n
 <speaker name="Bartolozzi Paolo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="125" duration="short" durations="64.0" speed="slow" speedwm="117.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1503:1&collection=eptic3">
+<s id="1503:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -10321,7 +10321,7 @@ health	NN	health-n
 priority	NN	priority-n
 .	SENT	.-x
 </s>
-<s id="1503:2&collection=eptic3">
+<s id="1503:2">
 The	DT	the-x
 disease	NN	disease-n
 in	IN	in-i
@@ -10340,7 +10340,7 @@ health	NN	health-n
 terms	NNS	term-n
 .	SENT	.-x
 </s>
-<s id="1503:3&collection=eptic3">
+<s id="1503:3">
 The	DT	the-x
 costs	NNS	cost-n
 incurred	VVN	incur-v
@@ -10357,7 +10357,7 @@ fact	NN	fact-n
 high	JJ	high-j
 .	SENT	.-x
 </s>
-<s id="1503:4&collection=eptic3">
+<s id="1503:4">
 Indeed	RB	indeed-a
 ,	,	,-x
 Alzheimer's	NPZ	Alzheimer-n
@@ -10379,7 +10379,7 @@ them	PP	them-d
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1503:5&collection=eptic3">
+<s id="1503:5">
 Therefore	RB	therefore-a
 ,	,	,-x
 we	PP	we-d
@@ -10473,7 +10473,7 @@ disease	NN	disease-n
 <speaker name="Tajani Antonio" gender="M" country="Italy" politfunc="European Commission" politgroup="NA">
 <st language="it" length="medium" lengthw="609" duration="medium" durations="346.0" speed="slow" speedwm="105.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1504:1&collection=eptic3">
+<s id="1504:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -10503,7 +10503,7 @@ of	IN	of-i
 globalisation	NN	globalisation-n
 .	SENT	.-x
 </s>
-<s id="1504:2&collection=eptic3">
+<s id="1504:2">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -10537,7 +10537,7 @@ era	NN	era-n
 '	''	'-x
 .	SENT	.-x
 </s>
-<s id="1504:3&collection=eptic3">
+<s id="1504:3">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 on	IN	on-i
@@ -10602,7 +10602,7 @@ responsible	JJ	responsible-j
 industry	NN	industry-n
 .	SENT	.-x
 </s>
-<s id="1504:4&collection=eptic3">
+<s id="1504:4">
 The	DT	the-x
 creation	NN	creation-n
 of	IN	of-i
@@ -10637,7 +10637,7 @@ is	VBZ	be-v
 based	VVN	base-v
 .	SENT	.-x
 </s>
-<s id="1504:5&collection=eptic3">
+<s id="1504:5">
 To	TO	to-x
 achieve	VV	achieve-v
 this	DT	this-x
@@ -10662,7 +10662,7 @@ tourism	NN	tourism-n
 sector	NN	sector-n
 ;	:	;-x
 </s>
-<s id="1504:6&collection=eptic3">
+<s id="1504:6">
 secondly	RB	secondly-a
 ,	,	,-x
 at	IN	at-i
@@ -10679,7 +10679,7 @@ quality	NN	quality-n
 tourism	NN	tourism-n
 ;	:	;-x
 </s>
-<s id="1504:7&collection=eptic3">
+<s id="1504:7">
 and	CC	and-c
 thirdly	RB	thirdly-a
 ,	,	,-x
@@ -10720,7 +10720,7 @@ developing	VVG	develop-v
 tourism	NN	tourism-n
 .	SENT	.-x
 </s>
-<s id="1504:8&collection=eptic3">
+<s id="1504:8">
 The	DT	the-x
 initiatives	NNS	initiative-n
 promoted	VVN	promote-v
@@ -10755,7 +10755,7 @@ of	IN	of-i
 competitiveness	NN	competitiveness-n
 .	SENT	.-x
 </s>
-<s id="1504:9&collection=eptic3">
+<s id="1504:9">
 Of	IN	of-i
 course	NN	course-n
 ,	,	,-x
@@ -10804,7 +10804,7 @@ family	NN	family-n
 businesses	NNS	business-n
 ;	:	;-x
 </s>
-<s id="1504:10&collection=eptic3">
+<s id="1504:10">
 we	PP	we-d
 must	MD	must-x
 also	RB	also-a
@@ -10821,7 +10821,7 @@ more	RBR	more-a
 competitive	JJ	competitive-j
 .	SENT	.-x
 </s>
-<s id="1504:11&collection=eptic3">
+<s id="1504:11">
 I	PP	I-d
 will	MD	will-x
 give	VV	give-v
@@ -10869,7 +10869,7 @@ their	PPZ	their-d
 competitiveness	NN	competitiveness-n
 .	SENT	.-x
 </s>
-<s id="1504:12&collection=eptic3">
+<s id="1504:12">
 All	DT	all-x
 of	IN	of-i
 these	DT	these-x
@@ -10907,7 +10907,7 @@ the	DT	the-x
 Chamber	NP	Chamber-n
 .	SENT	.-x
 </s>
-<s id="1504:13&collection=eptic3">
+<s id="1504:13">
 The	DT	the-x
 industry's	NNZ	industry-n
 operators	NNS	operator-n
@@ -10949,7 +10949,7 @@ other	JJ	other-j
 programmes	NNS	programme-n
 .	SENT	.-x
 </s>
-<s id="1504:14&collection=eptic3">
+<s id="1504:14">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 a	DT	a-x
@@ -10986,7 +10986,7 @@ sector's	NNZ	sector-n
 operators	NNS	operator-n
 .	SENT	.-x
 </s>
-<s id="1504:15&collection=eptic3">
+<s id="1504:15">
 In	IN	in-i
 addition	NN	addition-n
 ,	,	,-x
@@ -11010,7 +11010,7 @@ access	VV	access-v
 funding	NN	funding-n
 .	SENT	.-x
 </s>
-<s id="1504:16&collection=eptic3">
+<s id="1504:16">
 I	PP	I-d
 would	MD	would-x
 mention	VV	mention-v
@@ -11072,7 +11072,7 @@ repayable	JJ	repayable-j
 aid	NN	aid-n
 .	SENT	.-x
 </s>
-<s id="1504:17&collection=eptic3">
+<s id="1504:17">
 Lastly	RB	lastly-a
 ,	,	,-x
 I	PP	I-d
@@ -11119,7 +11119,7 @@ same	JJ	same-j
 enterprises	NNS	enterprise-n
 .	SENT	.-x
 </s>
-<s id="1504:18&collection=eptic3">
+<s id="1504:18">
 Parliament	NP	Parliament-n
 will	MD	will-x
 receive	VV	receive-v
@@ -11133,7 +11133,7 @@ weeks'	NNSZ	week-n
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1504:19&collection=eptic3">
+<s id="1504:19">
 Hence	RB	hence-a
 ,	,	,-x
 the	DT	the-x
@@ -11216,7 +11216,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1504:20&collection=eptic3">
+<s id="1504:20">
 I	PP	I-d
 therefore	RB	therefore-a
 feel	VVP	feel-v
@@ -11290,7 +11290,7 @@ sectors	NNS	sector-n
 <speaker name="Fidanza Carlo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="148" duration="short" durations="63.0" speed="medium" speedwm="141.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1505:1&collection=eptic3">
+<s id="1505:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -11344,7 +11344,7 @@ am	VBP	be-v
 responsible	JJ	responsible-j
 .	SENT	.-x
 </s>
-<s id="1505:2&collection=eptic3">
+<s id="1505:2">
 First	JJ	first-j
 and	CC	and-c
 foremost	RB	foremost-a
@@ -11394,7 +11394,7 @@ weeks	NNS	week-n
 ago	RB	ago-a
 .	SENT	.-x
 </s>
-<s id="1505:3&collection=eptic3">
+<s id="1505:3">
 These	DT	these-x
 2	CD	[number]-m
 acts	NNS	act-n
@@ -11423,7 +11423,7 @@ training-related	JJ	training-related-j
 issues	NNS	issue-n
 .	SENT	.-x
 </s>
-<s id="1505:4&collection=eptic3">
+<s id="1505:4">
 With	IN	with-i
 regard	NN	regard-n
 to	IN	to-i
@@ -11501,7 +11501,7 @@ perspective	NN	perspective-n
 <speaker name="Tajani Antonio" gender="M" country="Italy" politfunc="European Commission" politgroup="NA">
 <st language="it" length="medium" lengthw="619" duration="medium" durations="303.0" speed="slow" speedwm="122.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1506:1&collection=eptic3">
+<s id="1506:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -11577,7 +11577,7 @@ a	DT	a-x
 priority	NN	priority-n
 .	SENT	.-x
 </s>
-<s id="1506:2&collection=eptic3">
+<s id="1506:2">
 To	TO	to-x
 give	VV	give-v
 a	DT	a-x
@@ -11659,7 +11659,7 @@ tourism	NN	tourism-n
 effort	NN	effort-n
 .	SENT	.-x
 </s>
-<s id="1506:3&collection=eptic3">
+<s id="1506:3">
 We	PP	we-d
 have	VHP	have-v
 interesting	JJ	interesting-j
@@ -11691,7 +11691,7 @@ regional	JJ	regional-j
 initiatives	NNS	initiative-n
 .	SENT	.-x
 </s>
-<s id="1506:4&collection=eptic3">
+<s id="1506:4">
 However	RB	however-a
 ,	,	,-x
 while	IN	while-i
@@ -11736,7 +11736,7 @@ financial	JJ	financial-j
 perspective	NN	perspective-n
 .	SENT	.-x
 </s>
-<s id="1506:5&collection=eptic3">
+<s id="1506:5">
 They	PP	they-d
 may	MD	may-x
 be	VB	be-v
@@ -11758,7 +11758,7 @@ budget	NN	budget-n
 lines	NNS	line-n
 .	SENT	.-x
 </s>
-<s id="1506:6&collection=eptic3">
+<s id="1506:6">
 The	DT	the-x
 important	JJ	important-j
 thing	NN	thing-n
@@ -11792,7 +11792,7 @@ in	IN	in-i
 place	NN	place-n
 .	SENT	.-x
 </s>
-<s id="1506:7&collection=eptic3">
+<s id="1506:7">
 Nevertheless	RB	nevertheless-a
 ,	,	,-x
 that	WDT	that-x
@@ -11809,7 +11809,7 @@ great	JJ	great-j
 determination	NN	determination-n
 .	SENT	.-x
 </s>
-<s id="1506:8&collection=eptic3">
+<s id="1506:8">
 As	IN	as-i
 you	PP	you-d
 know	VVP	know-v
@@ -11869,7 +11869,7 @@ days	NNS	day-n
 ago	RB	ago-a
 .	SENT	.-x
 </s>
-<s id="1506:9&collection=eptic3">
+<s id="1506:9">
 I	PP	I-d
 am	VBP	be-v
 glad	JJ	glad-j
@@ -11911,7 +11911,7 @@ and	CC	and-c
 Malta	NP	Malta-n
 .	SENT	.-x
 </s>
-<s id="1506:10&collection=eptic3">
+<s id="1506:10">
 It	PP	it-d
 is	VBZ	be-v
 an	DT	a-x
@@ -11949,7 +11949,7 @@ be	VB	be-v
 developed	VVN	develop-v
 .	SENT	.-x
 </s>
-<s id="1506:11&collection=eptic3">
+<s id="1506:11">
 On	IN	on-i
 the	DT	the-x
 subject	NN	subject-n
@@ -12002,7 +12002,7 @@ in	IN	in-i
 Russia	NP	Russia-n
 .	SENT	.-x
 </s>
-<s id="1506:12&collection=eptic3">
+<s id="1506:12">
 Millions	NNS	million-n
 upon	IN	upon-i
 millions	NNS	million-n
@@ -12026,7 +12026,7 @@ their	PPZ	their-d
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1506:13&collection=eptic3">
+<s id="1506:13">
 We	PP	we-d
 have	VHP	have-v
 a	DT	a-x
@@ -12037,7 +12037,7 @@ to	IN	to-i
 visas	NNS	visa-n
 .	SENT	.-x
 </s>
-<s id="1506:14&collection=eptic3">
+<s id="1506:14">
 The	DT	the-x
 same	JJ	same-j
 problem	NN	problem-n
@@ -12051,7 +12051,7 @@ I	PP	I-d
 believe	VVP	believe-v
 .	SENT	.-x
 </s>
-<s id="1506:15&collection=eptic3">
+<s id="1506:15">
 The	DT	the-x
 European	NP	European-n
 Commission	NP	Commission-n
@@ -12077,7 +12077,7 @@ and	CC	and-c
 China	NP	China-n
 .	SENT	.-x
 </s>
-<s id="1506:16&collection=eptic3">
+<s id="1506:16">
 We	PP	we-d
 want	VVP	want-v
 to	TO	to-x
@@ -12098,7 +12098,7 @@ our	PPZ	our-d
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1506:17&collection=eptic3">
+<s id="1506:17">
 Moreover	RB	moreover-a
 ,	,	,-x
 the	DT	the-x
@@ -12128,7 +12128,7 @@ class	NN	class-n
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1506:18&collection=eptic3">
+<s id="1506:18">
 This	DT	this-x
 is	VBZ	be-v
 at	IN	at-i
@@ -12192,7 +12192,7 @@ tourism	NN	tourism-n
 policy	NN	policy-n
 .	SENT	.-x
 </s>
-<s id="1506:19&collection=eptic3">
+<s id="1506:19">
 It	PP	it-d
 is	VBZ	be-v
 important	JJ	important-j
@@ -12211,7 +12211,7 @@ added	JJ	added-j
 value	NN	value-n
 .	SENT	.-x
 </s>
-<s id="1506:20&collection=eptic3">
+<s id="1506:20">
 I	PP	I-d
 am	VBP	be-v
 delighted	VVN	delight-v
@@ -12258,7 +12258,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1506:21&collection=eptic3">
+<s id="1506:21">
 In	IN	in-i
 short	JJ	short-j
 ,	,	,-x
@@ -12300,7 +12300,7 @@ have	VHP	have-v
 finished	VVN	finish-v
 .	SENT	.-x
 </s>
-<s id="1506:22&collection=eptic3">
+<s id="1506:22">
 This	DT	this-x
 is	VBZ	be-v
 the	DT	the-x
@@ -12325,7 +12325,7 @@ am	VBP	be-v
 concerned	VVN	concern-v
 .	SENT	.-x
 </s>
-<s id="1506:23&collection=eptic3">
+<s id="1506:23">
 May	MD	may-x
 I	PP	I-d
 thank	VV	thank-v
@@ -12365,7 +12365,7 @@ activities	NNS	activity-n
 <speaker name="Rinaldi Niccolò" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="169" duration="short" durations="77.0" speed="medium" speedwm="131.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1507:1&collection=eptic3">
+<s id="1507:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -12435,7 +12435,7 @@ happened	VVN	happen-v
 yet	RB	yet-a
 .	SENT	.-x
 </s>
-<s id="1507:2&collection=eptic3">
+<s id="1507:2">
 Instead	RB	instead-a
 of	IN	of-i
 saying	VVG	say-v
@@ -12531,7 +12531,7 @@ multi-millionaire	NN	multi-millionaire-n
 tourist	NN	tourist-n
 .	SENT	.-x
 </s>
-<s id="1507:3&collection=eptic3">
+<s id="1507:3">
 The	DT	the-x
 Commission	NP	Commission-n
 is	VBZ	be-v
@@ -12547,7 +12547,7 @@ in	IN	in-i
 fact	NN	fact-n
 .	SENT	.-x
 </s>
-<s id="1507:4&collection=eptic3">
+<s id="1507:4">
 I	PP	I-d
 visited	VVD	visit-v
 Haiti	NP	Haiti-n
@@ -12575,7 +12575,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1507:5&collection=eptic3">
+<s id="1507:5">
 However	RB	however-a
 ,	,	,-x
 there	EX	there-x
@@ -12610,7 +12610,7 @@ the	DT	the-x
 reconstruction	NN	reconstruction-n
 .	SENT	.-x
 </s>
-<s id="1507:6&collection=eptic3">
+<s id="1507:6">
 This	DT	this-x
 must	MD	must-x
 be	VB	be-v
@@ -12634,7 +12634,7 @@ out	RP	out-x
 instead	RB	instead-a
 .	SENT	.-x
 </s>
-<s id="1507:7&collection=eptic3">
+<s id="1507:7">
 A	DT	a-x
 lesser	JJR	lesser-j
 role	NN	role-n
@@ -12678,7 +12678,7 @@ community	NN	community-n
 <speaker name="Bizzotto Mara" gender="F" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="371" duration="medium" durations="154.0" speed="medium" speedwm="144.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1508:1&collection=eptic3">
+<s id="1508:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -12726,7 +12726,7 @@ many	JJ	many-j
 times	NNS	time-n
 .	SENT	.-x
 </s>
-<s id="1508:2&collection=eptic3">
+<s id="1508:2">
 In	IN	in-i
 the	DT	the-x
 face	NN	face-n
@@ -12780,7 +12780,7 @@ resolved	VVN	resolve-v
 soon	RB	soon-a
 .	SENT	.-x
 </s>
-<s id="1508:3&collection=eptic3">
+<s id="1508:3">
 I	PP	I-d
 would	MD	would-x
 also	RB	also-a
@@ -12820,7 +12820,7 @@ disposal	NN	disposal-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1508:4&collection=eptic3">
+<s id="1508:4">
 You	PP	you-d
 see	VVP	see-v
 ,	,	,-x
@@ -12854,7 +12854,7 @@ time	NN	time-n
 frame	NN	frame-n
 .	SENT	.-x
 </s>
-<s id="1508:5&collection=eptic3">
+<s id="1508:5">
 When	WRB	when-x
 a	DT	a-x
 so-called	NN	so-called-n
@@ -12874,7 +12874,7 @@ going	VVG	go-v
 wrong	JJ	wrong-j
 .	SENT	.-x
 </s>
-<s id="1508:6&collection=eptic3">
+<s id="1508:6">
 In	IN	in-i
 recent	JJ	recent-j
 years	NNS	year-n
@@ -12900,7 +12900,7 @@ disposal	NN	disposal-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1508:7&collection=eptic3">
+<s id="1508:7">
 However	RB	however-a
 ,	,	,-x
 the	DT	the-x
@@ -12949,7 +12949,7 @@ a	DT	a-x
 solution	NN	solution-n
 .	SENT	.-x
 </s>
-<s id="1508:8&collection=eptic3">
+<s id="1508:8">
 It	PP	it-d
 is	VBZ	be-v
 clear	JJ	clear-j
@@ -12994,7 +12994,7 @@ is	VBZ	be-v
 concerned	VVN	concern-v
 .	SENT	.-x
 </s>
-<s id="1508:9&collection=eptic3">
+<s id="1508:9">
 Central	JJ	central-j
 government	NN	government-n
 can	MD	can-x
@@ -13025,7 +13025,7 @@ been	VBN	be-v
 imposed	VVN	impose-v
 .	SENT	.-x
 </s>
-<s id="1508:10&collection=eptic3">
+<s id="1508:10">
 Central	JJ	central-j
 government	NN	government-n
 clearly	RB	clearly-a
@@ -13071,7 +13071,7 @@ same	JJ	same-j
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1508:11&collection=eptic3">
+<s id="1508:11">
 The	DT	the-x
 fact	NN	fact-n
 that	IN/that	that-i
@@ -13184,7 +13184,7 @@ government	NN	government-n
 <speaker name="Mazzoni Erminia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="medium" lengthw="462" duration="medium" durations="213.0" speed="medium" speedwm="130.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1509:1&collection=eptic3">
+<s id="1509:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -13269,7 +13269,7 @@ of	IN	of-i
 responsibility	NN	responsibility-n
 .	SENT	.-x
 </s>
-<s id="1509:2&collection=eptic3">
+<s id="1509:2">
 As	RB	as-a
 has	VHZ	have-v
 already	RB	already-a
@@ -13324,7 +13324,7 @@ previous	JJ	previous-j
 years	NNS	year-n
 .	SENT	.-x
 </s>
-<s id="1509:3&collection=eptic3">
+<s id="1509:3">
 There	EX	there-x
 have	VHP	have-v
 been	VBN	be-v
@@ -13334,7 +13334,7 @@ miracles	NNS	miracle-n
 however	RB	however-a
 ;	:	;-x
 </s>
-<s id="1509:4&collection=eptic3">
+<s id="1509:4">
 responsibility	NN	responsibility-n
 has	VHZ	have-v
 simply	RB	simply-a
@@ -13358,7 +13358,7 @@ non-existent	JJ	non-existent-j
 action	NN	action-n
 .	SENT	.-x
 </s>
-<s id="1509:5&collection=eptic3">
+<s id="1509:5">
 I	PP	I-d
 would	MD	would-x
 remind	VV	remind-v
@@ -13387,7 +13387,7 @@ in	IN	in-i
 2007	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1509:6&collection=eptic3">
+<s id="1509:6">
 Since	IN	since-i
 then	RB	then-a
 ,	,	,-x
@@ -13397,7 +13397,7 @@ has	VHZ	have-v
 changed	VVN	change-v
 .	SENT	.-x
 </s>
-<s id="1509:7&collection=eptic3">
+<s id="1509:7">
 The	DT	the-x
 alderman	NN	alderman-n
 for	IN	for-i
@@ -13438,7 +13438,7 @@ in	IN	in-i
 July	NP	July-n
 .	SENT	.-x
 </s>
-<s id="1509:8&collection=eptic3">
+<s id="1509:8">
 I	PP	I-d
 shall	MD	shall-x
 quickly	RB	quickly-a
@@ -13456,7 +13456,7 @@ waste	NN	waste-n
 plan	NN	plan-n
 ;	:	;-x
 </s>
-<s id="1509:9&collection=eptic3">
+<s id="1509:9">
 he	PP	he-d
 has	VHZ	have-v
 finalised	VVN	finalise-v
@@ -13467,7 +13467,7 @@ waste	NN	waste-n
 plan	NN	plan-n
 ;	:	;-x
 </s>
-<s id="1509:10&collection=eptic3">
+<s id="1509:10">
 and	CC	and-c
 ,	,	,-x
 on	IN	on-i
@@ -13500,7 +13500,7 @@ already	RB	already-a
 announced	VVN	announce-v
 .	SENT	.-x
 </s>
-<s id="1509:11&collection=eptic3">
+<s id="1509:11">
 The	DT	the-x
 plan	NN	plan-n
 has	VHZ	have-v
@@ -13522,7 +13522,7 @@ and	CC	and-c
 running	VVG	run-v
 ;	:	;-x
 </s>
-<s id="1509:12&collection=eptic3">
+<s id="1509:12">
 the	DT	the-x
 tender	NN	tender-n
 procedures	NNS	procedure-n
@@ -13535,7 +13535,7 @@ been	VBN	be-v
 completed	VVN	complete-v
 ;	:	;-x
 </s>
-<s id="1509:13&collection=eptic3">
+<s id="1509:13">
 the	DT	the-x
 contract	NN	contract-n
 for	IN	for-i
@@ -13548,7 +13548,7 @@ been	VBN	be-v
 announced	VVN	announce-v
 ;	:	;-x
 </s>
-<s id="1509:14&collection=eptic3">
+<s id="1509:14">
 and	CC	and-c
 182	CD	[number]-m
 waste	NN	waste-n
@@ -13609,7 +13609,7 @@ the	DT	the-x
 Commission	NP	Commission-n
 .	SENT	.-x
 </s>
-<s id="1509:15&collection=eptic3">
+<s id="1509:15">
 An	DT	an-x
 agreement	NN	agreement-n
 has	VHZ	have-v
@@ -13656,7 +13656,7 @@ definitively	RB	definitively-a
 implemented	VVN	implement-v
 .	SENT	.-x
 </s>
-<s id="1509:16&collection=eptic3">
+<s id="1509:16">
 The	DT	the-x
 extraordinary	JJ	extraordinary-j
 management	NN	management-n
@@ -13677,7 +13677,7 @@ regional	JJ	regional-j
 budget	NN	budget-n
 .	SENT	.-x
 </s>
-<s id="1509:17&collection=eptic3">
+<s id="1509:17">
 As	IN	as-i
 Mrs	NN	Mrs-n
 Bucella	NP	Bucella-n
@@ -13722,7 +13722,7 @@ on	IN	on-i
 schedule	NN	schedule-n
 .	SENT	.-x
 </s>
-<s id="1509:18&collection=eptic3">
+<s id="1509:18">
 However	RB	however-a
 ,	,	,-x
 the	DT	the-x
@@ -13754,7 +13754,7 @@ the	DT	the-x
 works	NNS	work-n
 .	SENT	.-x
 </s>
-<s id="1509:19&collection=eptic3">
+<s id="1509:19">
 I	PP	I-d
 believe	VVP	believe-v
 that	IN/that	that-i
@@ -13791,7 +13791,7 @@ financial	JJ	financial-j
 penalties	NNS	penalty-n
 .	SENT	.-x
 </s>
-<s id="1509:20&collection=eptic3">
+<s id="1509:20">
 The	DT	the-x
 Commission	NP	Commission-n
 is	VBZ	be-v
@@ -13821,7 +13821,7 @@ political	JJ	political-j
 parties	NNS	party-n
 .	SENT	.-x
 </s>
-<s id="1509:21&collection=eptic3">
+<s id="1509:21">
 If	IN	if-i
 this	DT	this-x
 is	VBZ	be-v
@@ -13864,7 +13864,7 @@ common	JJ	common-j
 resolution	NN	resolution-n
 .	SENT	.-x
 </s>
-<s id="1509:22&collection=eptic3">
+<s id="1509:22">
 If	IN	if-i
 not	RB	not-a
 ,	,	,-x
@@ -13892,7 +13892,7 @@ damage	NN	damage-n
 <speaker name="Pirillo Mario" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="272" duration="medium" durations="148.0" speed="slow" speedwm="110.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1510:1&collection=eptic3">
+<s id="1510:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -13940,7 +13940,7 @@ of	IN	of-i
 life	NN	life-n
 .	SENT	.-x
 </s>
-<s id="1510:2&collection=eptic3">
+<s id="1510:2">
 As	IN	as-i
 a	DT	a-x
 European	JJ	European-j
@@ -13965,7 +13965,7 @@ too	RB	too-a
 long	JJ	long-j
 .	SENT	.-x
 </s>
-<s id="1510:3&collection=eptic3">
+<s id="1510:3">
 We	PP	we-d
 must	MD	must-x
 be	VB	be-v
@@ -14000,7 +14000,7 @@ serious	JJ	serious-j
 crisis	NN	crisis-n
 .	SENT	.-x
 </s>
-<s id="1510:4&collection=eptic3">
+<s id="1510:4">
 The	DT	the-x
 truth	NN	truth-n
 is	VBZ	be-v
@@ -14023,7 +14023,7 @@ really	RB	really-a
 stand	VVP	stand-v
 .	SENT	.-x
 </s>
-<s id="1510:5&collection=eptic3">
+<s id="1510:5">
 The	DT	the-x
 Campania	NP	Campania-n
 region	NN	region-n
@@ -14049,7 +14049,7 @@ March	NP	March-n
 2011	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1510:6&collection=eptic3">
+<s id="1510:6">
 The	DT	the-x
 situation	NN	situation-n
 will	MD	will-x
@@ -14081,7 +14081,7 @@ the	DT	the-x
 crises	NNS	crisis-n
 .	SENT	.-x
 </s>
-<s id="1510:7&collection=eptic3">
+<s id="1510:7">
 Under	IN	under-i
 Decree-Law	NN	Decree-Law-n
 No	NP	No-n
@@ -14107,7 +14107,7 @@ the	DT	the-x
 provinces	NNS	province-n
 .	SENT	.-x
 </s>
-<s id="1510:8&collection=eptic3">
+<s id="1510:8">
 We	PP	we-d
 do	VVP	do-v
 not	RB	not-a
@@ -14116,7 +14116,7 @@ that	DT	that-x
 decision	NN	decision-n
 ;	:	;-x
 </s>
-<s id="1510:9&collection=eptic3">
+<s id="1510:9">
 it	PP	it-d
 will	MD	will-x
 be	VB	be-v
@@ -14141,7 +14141,7 @@ population	NN	population-n
 live	VVP	live-v
 .	SENT	.-x
 </s>
-<s id="1510:10&collection=eptic3">
+<s id="1510:10">
 The	DT	the-x
 municipalities	NNS	municipality-n
 must	MD	must-x
@@ -14166,7 +14166,7 @@ effective	JJ	effective-j
 solutions	NNS	solution-n
 .	SENT	.-x
 </s>
-<s id="1510:11&collection=eptic3">
+<s id="1510:11">
 Various	JJ	various-j
 Campanian	JJ	Campanian-j
 trade	NN	trade-n
@@ -14185,7 +14185,7 @@ significant	JJ	significant-j
 results	NNS	result-n
 .	SENT	.-x
 </s>
-<s id="1510:12&collection=eptic3">
+<s id="1510:12">
 They	PP	they-d
 should	MD	should-x
 be	VB	be-v
@@ -14202,7 +14202,7 @@ the	DT	the-x
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1510:13&collection=eptic3">
+<s id="1510:13">
 Listening	VVG	listen-v
 to	IN	to-i
 the	DT	the-x
@@ -14233,7 +14233,7 @@ own	JJ	own-j
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1510:14&collection=eptic3">
+<s id="1510:14">
 They	PP	they-d
 are	VBP	be-v
 the	DT	the-x
@@ -14247,7 +14247,7 @@ full	JJ	full-j
 landfills	NNS	landfill-n
 .	SENT	.-x
 </s>
-<s id="1510:15&collection=eptic3">
+<s id="1510:15">
 In	IN	in-i
 the	DT	the-x
 years	NNS	year-n
@@ -14274,7 +14274,7 @@ be	VB	be-v
 identified	VVN	identify-v
 .	SENT	.-x
 </s>
-<s id="1510:16&collection=eptic3">
+<s id="1510:16">
 This	DT	this-x
 is	VBZ	be-v
 partly	RB	partly-a
@@ -14316,7 +14316,7 @@ a	DT	a-x
 halt	NN	halt-n
 .	SENT	.-x
 </s>
-<s id="1510:17&collection=eptic3">
+<s id="1510:17">
 We	PP	we-d
 await	VVP	await-v
 the	DT	the-x
@@ -14340,7 +14340,7 @@ region	NN	region-n
 <speaker name="Alfano Sonia" gender="F" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="250" duration="short" durations="117.0" speed="slow" speedwm="128.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1511:1&collection=eptic3">
+<s id="1511:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -14380,7 +14380,7 @@ but	CC	but-c
 resolved	VVN	resolve-v
 .	SENT	.-x
 </s>
-<s id="1511:2&collection=eptic3">
+<s id="1511:2">
 Questionable	JJ	questionable-j
 lists	NNS	list-n
 aside	RB	aside-a
@@ -14408,7 +14408,7 @@ by	IN	by-i
 waste	NN	waste-n
 .	SENT	.-x
 </s>
-<s id="1511:3&collection=eptic3">
+<s id="1511:3">
 The	DT	the-x
 local	JJ	local-j
 ,	,	,-x
@@ -14431,7 +14431,7 @@ enormous	JJ	enormous-j
 responsibility	NN	responsibility-n
 .	SENT	.-x
 </s>
-<s id="1511:4&collection=eptic3">
+<s id="1511:4">
 The	DT	the-x
 task	NN	task-n
 of	IN	of-i
@@ -14458,7 +14458,7 @@ living	NN	living-n
 conditions	NNS	condition-n
 .	SENT	.-x
 </s>
-<s id="1511:5&collection=eptic3">
+<s id="1511:5">
 The	DT	the-x
 European	NP	European-n
 Union	NP	Union-n
@@ -14482,7 +14482,7 @@ in	RB	in-a
 vain	JJ	vain-j
 .	SENT	.-x
 </s>
-<s id="1511:6&collection=eptic3">
+<s id="1511:6">
 The	DT	the-x
 construction	NN	construction-n
 of	IN	of-i
@@ -14514,7 +14514,7 @@ the	DT	the-x
 issue	NN	issue-n
 .	SENT	.-x
 </s>
-<s id="1511:7&collection=eptic3">
+<s id="1511:7">
 The	DT	the-x
 waste	NN	waste-n
 would	MD	would-x
@@ -14530,7 +14530,7 @@ deadly	JJ	deadly-j
 emissions	NNS	emission-n
 .	SENT	.-x
 </s>
-<s id="1511:8&collection=eptic3">
+<s id="1511:8">
 Pursuant	JJ	pursuant-j
 to	IN	to-i
 the	DT	the-x
@@ -14568,7 +14568,7 @@ create	VV	create-v
 employment	NN	employment-n
 .	SENT	.-x
 </s>
-<s id="1511:9&collection=eptic3">
+<s id="1511:9">
 As	RB	as-a
 far	RB	far-a
 as	IN	as-i
@@ -14610,7 +14610,7 @@ the	DT	the-x
 North	NP	North-n
 .	SENT	.-x
 </s>
-<s id="1511:10&collection=eptic3">
+<s id="1511:10">
 This	DT	this-x
 has	VHZ	have-v
 been	VBN	be-v
@@ -14623,7 +14623,7 @@ few	JJ	few-j
 years	NNS	year-n
 .	SENT	.-x
 </s>
-<s id="1511:11&collection=eptic3">
+<s id="1511:11">
 I	PP	I-d
 therefore	RB	therefore-a
 have	VHP	have-v
@@ -14676,7 +14676,7 @@ becoming	VVG	become-v
 militarised	VVN	militarise-v
 ?	SENT	?-x
 </s>
-<s id="1511:12&collection=eptic3">
+<s id="1511:12">
 Does	VVZ	do-v
 it	PP	it-d
 think	VVP	think-v
@@ -14705,7 +14705,7 @@ infringement	NN	infringement-n
 procedure	NN	procedure-n
 ?	SENT	?-x
 </s>
-<s id="1511:13&collection=eptic3">
+<s id="1511:13">
 What	WP	what-x
 is	VBZ	be-v
 the	DT	the-x
@@ -14753,7 +14753,7 @@ infringed	VVN	infringe-v
 <speaker name="Rossi Oreste" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="172" duration="short" durations="68.0" speed="medium" speedwm="151.8" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1512:1&collection=eptic3">
+<s id="1512:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -14793,7 +14793,7 @@ instance	NN	instance-n
 incineration	NN	incineration-n
 .	SENT	.-x
 </s>
-<s id="1512:2&collection=eptic3">
+<s id="1512:2">
 It	PP	it-d
 would	MD	would-x
 be	VB	be-v
@@ -14805,7 +14805,7 @@ further	JJR	further-j
 penalties	NNS	penalty-n
 .	SENT	.-x
 </s>
-<s id="1512:3&collection=eptic3">
+<s id="1512:3">
 Moreover	RB	moreover-a
 ,	,	,-x
 I	PP	I-d
@@ -14827,7 +14827,7 @@ political	JJ	political-j
 groups	NNS	group-n
 ;	:	;-x
 </s>
-<s id="1512:4&collection=eptic3">
+<s id="1512:4">
 one	CD	one-m
 of	IN	of-i
 the	DT	the-x
@@ -14863,7 +14863,7 @@ are	VBP	be-v
 saying	VVG	say-v
 .	SENT	.-x
 </s>
-<s id="1512:5&collection=eptic3">
+<s id="1512:5">
 For	IN	for-i
 decades	NNS	decade-n
 ,	,	,-x
@@ -14883,7 +14883,7 @@ Campania	NP	Campania-n
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1512:6&collection=eptic3">
+<s id="1512:6">
 Although	IN	although-i
 substantial	JJ	substantial-j
 funds	NNS	fund-n
@@ -14904,7 +14904,7 @@ crisis	NN	crisis-n
 situation	NN	situation-n
 .	SENT	.-x
 </s>
-<s id="1512:7&collection=eptic3">
+<s id="1512:7">
 There	EX	there-x
 are	VBP	be-v
 no	DT	no-x
@@ -14913,7 +14913,7 @@ excuses	NNS	excuse-n
 however	RB	however-a
 .	SENT	.-x
 </s>
-<s id="1512:8&collection=eptic3">
+<s id="1512:8">
 To	TO	to-x
 say	VV	say-v
 that	DT	that-x
@@ -14950,7 +14950,7 @@ simply	RB	simply-a
 untrue	JJ	untrue-j
 .	SENT	.-x
 </s>
-<s id="1512:9&collection=eptic3">
+<s id="1512:9">
 The	DT	the-x
 responsibility	NN	responsibility-n
 clearly	RB	clearly-a
@@ -14993,7 +14993,7 @@ the	DT	the-x
 other	JJ	other-j
 .	SENT	.-x
 </s>
-<s id="1512:10&collection=eptic3">
+<s id="1512:10">
 What	WP	what-x
 we	PP	we-d
 need	VVP	need-v
@@ -15033,7 +15033,7 @@ level	NN	level-n
 <speaker name="Rivellini Crescenzio" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="230" duration="short" durations="114.0" speed="slow" speedwm="121.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1513:1&collection=eptic3">
+<s id="1513:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -15084,7 +15084,7 @@ in	IN	in-i
 Campania	NP	Campania-n
 .	SENT	.-x
 </s>
-<s id="1513:2&collection=eptic3">
+<s id="1513:2">
 I	PP	I-d
 believe	VVP	believe-v
 ,	,	,-x
@@ -15115,7 +15115,7 @@ the	DT	the-x
 situation	NN	situation-n
 .	SENT	.-x
 </s>
-<s id="1513:3&collection=eptic3">
+<s id="1513:3">
 The	DT	the-x
 regional	JJ	regional-j
 council	NN	council-n
@@ -15149,7 +15149,7 @@ waste	NN	waste-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1513:4&collection=eptic3">
+<s id="1513:4">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 a	DT	a-x
@@ -15173,7 +15173,7 @@ been	VBN	be-v
 adopted	VVN	adopt-v
 .	SENT	.-x
 </s>
-<s id="1513:5&collection=eptic3">
+<s id="1513:5">
 Bidding	NN	bidding-n
 is	VBZ	be-v
 under	IN	under-i
@@ -15210,7 +15210,7 @@ advanced	JJ	advanced-j
 stage	NN	stage-n
 .	SENT	.-x
 </s>
-<s id="1513:6&collection=eptic3">
+<s id="1513:6">
 Finally	RB	finally-a
 ,	,	,-x
 the	DT	the-x
@@ -15275,7 +15275,7 @@ landfill	NN	landfill-n
 sites	NNS	site-n
 .	SENT	.-x
 </s>
-<s id="1513:7&collection=eptic3">
+<s id="1513:7">
 The	DT	the-x
 people	NNS	people-n
 who	WP	who-x
@@ -15294,7 +15294,7 @@ be	VB	be-v
 punished	VVN	punish-v
 .	SENT	.-x
 </s>
-<s id="1513:8&collection=eptic3">
+<s id="1513:8">
 They	PP	they-d
 certainly	RB	certainly-a
 include	VVP	include-v
@@ -15337,7 +15337,7 @@ they	PP	they-d
 produced	VVD	produce-v
 .	SENT	.-x
 </s>
-<s id="1513:9&collection=eptic3">
+<s id="1513:9">
 The	DT	the-x
 European	NP	European-n
 Union	NP	Union-n
@@ -15380,7 +15380,7 @@ your	PPZ	your-d
 ideology	NN	ideology-n
 .	SENT	.-x
 </s>
-<s id="1513:10&collection=eptic3">
+<s id="1513:10">
 Do	VV	do-v
 you	PP	you-d
 genuinely	RB	genuinely-a
@@ -15405,7 +15405,7 @@ crisis	NN	crisis-n
 <speaker name="De Magistris Luigi" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="155" duration="short" durations="74.0" speed="slow" speedwm="125.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1514:1&collection=eptic3">
+<s id="1514:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -15469,7 +15469,7 @@ been	VBN	be-v
 presented	VVN	present-v
 .	SENT	.-x
 </s>
-<s id="1514:2&collection=eptic3">
+<s id="1514:2">
 That	DT	that-x
 system	NN	system-n
 is	VBZ	be-v
@@ -15528,7 +15528,7 @@ health	NN	health-n
 crises	NNS	crisis-n
 .	SENT	.-x
 </s>
-<s id="1514:3&collection=eptic3">
+<s id="1514:3">
 In	IN	in-i
 the	DT	the-x
 13	CD	[number]-m
@@ -15569,7 +15569,7 @@ the	DT	the-x
 Camorra	NP	Camorra-n
 .	SENT	.-x
 </s>
-<s id="1514:4&collection=eptic3">
+<s id="1514:4">
 Furthermore	RB	furthermore-a
 ,	,	,-x
 environmental	JJ	environmental-j
@@ -15620,7 +15620,7 @@ land	NN	land-n
 <speaker name="Speroni Francesco Enrico" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="long" lengthw="67" duration="short" durations="54.0" speed="slow" speedwm="74.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1515:1&collection=eptic3">
+<s id="1515:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -15654,7 +15654,7 @@ Member	NP	Member-n
 States	NPS	States-n
 .	SENT	.-x
 </s>
-<s id="1515:2&collection=eptic3">
+<s id="1515:2">
 The	DT	the-x
 responsibility	NN	responsibility-n
 for	IN	for-i
@@ -15718,7 +15718,7 @@ subsequent	JJ	subsequent-j
 polls	NNS	poll-n
 .	SENT	.-x
 </s>
-<s id="1515:3&collection=eptic3">
+<s id="1515:3">
 Padania	NP	Padania-n
 is	VBZ	be-v
 willing	JJ	willing-j
@@ -15749,7 +15749,7 @@ it	PP	it-d
 <speaker name="Baldassarre Raffaele" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="231" duration="medium" durations="142.0" speed="slow" speedwm="97.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1516:1&collection=eptic3">
+<s id="1516:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -15808,7 +15808,7 @@ in	IN	in-i
 waste	NN	waste-n
 .	SENT	.-x
 </s>
-<s id="1516:2&collection=eptic3">
+<s id="1516:2">
 Mr	NP	Mr-n
 Søndergaard	NP	Søndergaard-n
 and	CC	and-c
@@ -15870,7 +15870,7 @@ disposal	NN	disposal-n
 system	NN	system-n
 .	SENT	.-x
 </s>
-<s id="1516:3&collection=eptic3">
+<s id="1516:3">
 Irresponsibility	NN	irresponsibility-n
 ,	,	,-x
 indecision	NN	indecision-n
@@ -15895,7 +15895,7 @@ definitively	RB	definitively-a
 over	RP	over-x
 .	SENT	.-x
 </s>
-<s id="1516:4&collection=eptic3">
+<s id="1516:4">
 I	PP	I-d
 want	VVP	want-v
 to	TO	to-x
@@ -15925,7 +15925,7 @@ completely	RB	completely-a
 changed	VVN	change-v
 .	SENT	.-x
 </s>
-<s id="1516:5&collection=eptic3">
+<s id="1516:5">
 The	DT	the-x
 national	JJ	national-j
 government	NN	government-n
@@ -15949,7 +15949,7 @@ the	DT	the-x
 crisis	NN	crisis-n
 .	SENT	.-x
 </s>
-<s id="1516:6&collection=eptic3">
+<s id="1516:6">
 Through	IN	through-i
 a	DT	a-x
 dialogue	NN	dialogue-n
@@ -15992,7 +15992,7 @@ their	PPZ	their-d
 backyard	NN	backyard-n
 .	SENT	.-x
 </s>
-<s id="1516:7&collection=eptic3">
+<s id="1516:7">
 As	IN	as-i
 a	DT	a-x
 result	NN	result-n
@@ -16025,7 +16025,7 @@ necessary	JJ	necessary-j
 facilities	NNS	facility-n
 .	SENT	.-x
 </s>
-<s id="1516:8&collection=eptic3">
+<s id="1516:8">
 It	PP	it-d
 would	MD	would-x
 therefore	RB	therefore-a
@@ -16097,7 +16097,7 @@ resources	NNS	resource-n
 <speaker name="Comi Lara" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="220" duration="short" durations="107.0" speed="slow" speedwm="123.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1517:1&collection=eptic3">
+<s id="1517:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -16139,7 +16139,7 @@ being	VBG	be-v
 resolved	VVN	resolve-v
 .	SENT	.-x
 </s>
-<s id="1517:2&collection=eptic3">
+<s id="1517:2">
 The	DT	the-x
 issue	NN	issue-n
 is	VBZ	be-v
@@ -16149,7 +16149,7 @@ complex	JJ	complex-j
 one	CD	one-m
 ;	:	;-x
 </s>
-<s id="1517:3&collection=eptic3">
+<s id="1517:3">
 it	PP	it-d
 presents	VVZ	present-v
 various	JJ	various-j
@@ -16171,7 +16171,7 @@ take	VV	take-v
 time	NN	time-n
 .	SENT	.-x
 </s>
-<s id="1517:4&collection=eptic3">
+<s id="1517:4">
 The	DT	the-x
 oral	JJ	oral-j
 questions	NNS	question-n
@@ -16208,7 +16208,7 @@ in	IN	in-i
 Campania	NP	Campania-n
 .	SENT	.-x
 </s>
-<s id="1517:5&collection=eptic3">
+<s id="1517:5">
 By	IN	by-i
 proceeding	VVG	proceed-v
 in	IN	in-i
@@ -16257,7 +16257,7 @@ European	JJ	European-j
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1517:6&collection=eptic3">
+<s id="1517:6">
 The	DT	the-x
 subjective	JJ	subjective-j
 behaviour	NN	behaviour-n
@@ -16273,7 +16273,7 @@ account	NN	account-n
 too	RB	too-a
 .	SENT	.-x
 </s>
-<s id="1517:7&collection=eptic3">
+<s id="1517:7">
 It	PP	it-d
 certainly	RB	certainly-a
 can	MD	can-x
@@ -16324,7 +16324,7 @@ the	DT	the-x
 situation	NN	situation-n
 .	SENT	.-x
 </s>
-<s id="1517:8&collection=eptic3">
+<s id="1517:8">
 There	EX	there-x
 can	MD	can-x
 be	VB	be-v
@@ -16339,7 +16339,7 @@ by	IN	by-i
 Italy	NP	Italy-n
 .	SENT	.-x
 </s>
-<s id="1517:9&collection=eptic3">
+<s id="1517:9">
 It	PP	it-d
 is	VBZ	be-v
 important	JJ	important-j
@@ -16375,7 +16375,7 @@ the	DT	the-x
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1517:10&collection=eptic3">
+<s id="1517:10">
 Europe	NP	Europe-n
 must	MD	must-x
 show	VV	show-v
@@ -16392,7 +16392,7 @@ perfect	JJ	perfect-j
 synergy	NN	synergy-n
 .	SENT	.-x
 </s>
-<s id="1517:11&collection=eptic3">
+<s id="1517:11">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -16451,7 +16451,7 @@ do	VV	do-v
 <speaker name="Matera Barbara" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="257" duration="medium" durations="137.0" speed="slow" speedwm="112.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1518:1&collection=eptic3">
+<s id="1518:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -16474,7 +16474,7 @@ my	PPZ	my-d
 region	NN	region-n
 .	SENT	.-x
 </s>
-<s id="1518:2&collection=eptic3">
+<s id="1518:2">
 Rather	RB	rather-a
 ,	,	,-x
 I	PP	I-d
@@ -16511,7 +16511,7 @@ our	PPZ	our-d
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1518:3&collection=eptic3">
+<s id="1518:3">
 The	DT	the-x
 Campania	NP	Campania-n
 region	NN	region-n
@@ -16543,7 +16543,7 @@ European	JJ	European-j
 law	NN	law-n
 .	SENT	.-x
 </s>
-<s id="1518:4&collection=eptic3">
+<s id="1518:4">
 I	PP	I-d
 wish	VVP	wish-v
 to	TO	to-x
@@ -16587,7 +16587,7 @@ ROP	NP	ROP-n
 2013	CD	[number]-m
 .	SENT	.-x
 </s>
-<s id="1518:5&collection=eptic3">
+<s id="1518:5">
 With	IN	with-i
 regard	NN	regard-n
 to	IN	to-i
@@ -16612,7 +16612,7 @@ made	VVD	make-v
 available	JJ	available-j
 ;	:	;-x
 </s>
-<s id="1518:6&collection=eptic3">
+<s id="1518:6">
 the	DT	the-x
 money	NN	money-n
 has	VHZ	have-v
@@ -16661,7 +16661,7 @@ separate-collection	NN	separate-collection-n
 measures	NNS	measure-n
 .	SENT	.-x
 </s>
-<s id="1518:7&collection=eptic3">
+<s id="1518:7">
 As	RB	as-a
 for	IN	for-i
 ROP	NP	ROP-n
@@ -16696,7 +16696,7 @@ separate-collection	NN	separate-collection-n
 facilities	NNS	facility-n
 .	SENT	.-x
 </s>
-<s id="1518:8&collection=eptic3">
+<s id="1518:8">
 The	DT	the-x
 activities	NNS	activity-n
 carried	VVD	carry-v
@@ -16746,7 +16746,7 @@ in	IN	in-i
 Campania	NP	Campania-n
 .	SENT	.-x
 </s>
-<s id="1518:9&collection=eptic3">
+<s id="1518:9">
 Consequently	RB	consequently-a
 ,	,	,-x
 a	DT	a-x
@@ -16786,7 +16786,7 @@ ROP	JJ	ROP-j
 funds	NNS	fund-n
 .	SENT	.-x
 </s>
-<s id="1518:10&collection=eptic3">
+<s id="1518:10">
 To	TO	to-x
 conclude	VV	conclude-v
 ,	,	,-x
@@ -16829,7 +16829,7 @@ ruling	NN	ruling-n
 <speaker name="Rivellini Crescenzio" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="long" lengthw="65" duration="short" durations="36.0" speed="slow" speedwm="108.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1519:1&collection=eptic3">
+<s id="1519:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -16856,7 +16856,7 @@ land	NN	land-n
 improvement	NN	improvement-n
 .	SENT	.-x
 </s>
-<s id="1519:2&collection=eptic3">
+<s id="1519:2">
 I	PP	I-d
 wonder	VVP	wonder-v
 how	WRB	how-x
@@ -16905,7 +16905,7 @@ fellow	JJ	fellow-j
 citizens	NNS	citizen-n
 .	SENT	.-x
 </s>
-<s id="1519:3&collection=eptic3">
+<s id="1519:3">
 I	PP	I-d
 urge	VVP	urge-v
 them	PP	them-d
@@ -16930,7 +16930,7 @@ themselves	PP	themselves-d
 <speaker name="Borghezio Mario" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="157" duration="short" durations="81.0" speed="slow" speedwm="116.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1520:1&collection=eptic3">
+<s id="1520:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -16969,7 +16969,7 @@ which	WDT	which-x
 banks	NNS	bank-n
 .	SENT	.-x
 </s>
-<s id="1520:2&collection=eptic3">
+<s id="1520:2">
 I	PP	I-d
 wonder	VVP	wonder-v
 whether	IN	whether-i
@@ -16997,7 +16997,7 @@ blocks	VVZ	block-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1520:3&collection=eptic3">
+<s id="1520:3">
 Let	VV	let-v
 us	PP	us-d
 consider	VV	consider-v
@@ -17030,7 +17030,7 @@ weaker	JJR	weak-j
 ones	NNS	one-n
 ?	SENT	?-x
 </s>
-<s id="1520:4&collection=eptic3">
+<s id="1520:4">
 Technically	RB	technically-a
 ,	,	,-x
 do	VVP	do-v
@@ -17052,7 +17052,7 @@ bankrupt	JJ	bankrupt-j
 currency	NN	currency-n
 ?	SENT	?-x
 </s>
-<s id="1520:5&collection=eptic3">
+<s id="1520:5">
 How	WRB	how-x
 can	MD	can-x
 we	PP	we-d
@@ -17069,7 +17069,7 @@ use	VV	use-v
 it	PP	it-d
 ?	SENT	?-x
 </s>
-<s id="1520:6&collection=eptic3">
+<s id="1520:6">
 Is	VBZ	be-v
 a	DT	a-x
 centralised	VVN	centralise-v
@@ -17087,7 +17087,7 @@ interest	NN	interest-n
 rates	NNS	rate-n
 ?	SENT	?-x
 </s>
-<s id="1520:7&collection=eptic3">
+<s id="1520:7">
 Mr	NP	Mr-n
 Trichet	NP	Trichet-n
 himself	PP	himself-d
@@ -17140,7 +17140,7 @@ bonds	NNS	bond-n
 purchased	VVD	purchase-v
 .	SENT	.-x
 </s>
-<s id="1520:8&collection=eptic3">
+<s id="1520:8">
 It	PP	it-d
 is	VBZ	be-v
 also	RB	also-a
@@ -17181,7 +17181,7 @@ requested	VVN	request-v
 <speaker name="Gualtieri Roberto" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="141" duration="short" durations="70.0" speed="slow" speedwm="120.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1521:1&collection=eptic3">
+<s id="1521:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -17216,7 +17216,7 @@ other	JJ	other-j
 political	JJ	political-j
 .	SENT	.-x
 </s>
-<s id="1521:2&collection=eptic3">
+<s id="1521:2">
 The	DT	the-x
 institutional	JJ	institutional-j
 one	CD	one-m
@@ -17275,7 +17275,7 @@ the	DT	the-x
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1521:3&collection=eptic3">
+<s id="1521:3">
 It	PP	it-d
 is	VBZ	be-v
 difficult	JJ	difficult-j
@@ -17301,7 +17301,7 @@ the	DT	the-x
 Treaty	NP	Treaty-n
 .	SENT	.-x
 </s>
-<s id="1521:4&collection=eptic3">
+<s id="1521:4">
 Then	RB	then-a
 there	EX	there-x
 is	VBZ	be-v
@@ -17350,7 +17350,7 @@ ratification	NN	ratification-n
 processes	NNS	process-n
 .	SENT	.-x
 </s>
-<s id="1521:5&collection=eptic3">
+<s id="1521:5">
 Do	VVP	do-v
 people	NNS	people-n
 realise	VVP	realise-v
@@ -17381,7 +17381,7 @@ the	DT	the-x
 euro	NN	euro-n
 ?	SENT	?-x
 </s>
-<s id="1521:6&collection=eptic3">
+<s id="1521:6">
 Does	VVZ	do-v
 the	DT	the-x
 European	JJ	European-j
@@ -17410,7 +17410,7 @@ risk	NN	risk-n
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="167" duration="short" durations="83.0" speed="slow" speedwm="120.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1522:1&collection=eptic3">
+<s id="1522:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -17426,7 +17426,7 @@ Mr	NP	Mr-n
 Orbán	NP	Orbán-n
 .	SENT	.-x
 </s>
-<s id="1522:2&collection=eptic3">
+<s id="1522:2">
 As	IN	as-i
 Mr	NP	Mr-n
 Cohn-Bendit	NP	Cohn-Bendit-n
@@ -17453,7 +17453,7 @@ have	VH	have-v
 realised	VVN	realise-v
 .	SENT	.-x
 </s>
-<s id="1522:3&collection=eptic3">
+<s id="1522:3">
 We	PP	we-d
 ,	,	,-x
 on	IN	on-i
@@ -17484,7 +17484,7 @@ party	NN	party-n
 on	RP	on-x
 .	SENT	.-x
 </s>
-<s id="1522:4&collection=eptic3">
+<s id="1522:4">
 Why	WRB	why-x
 are	VBP	be-v
 we	PP	we-d
@@ -17495,7 +17495,7 @@ Fidesz	NP	Fidesz-n
 party	NN	party-n
 ?	SENT	?-x
 </s>
-<s id="1522:5&collection=eptic3">
+<s id="1522:5">
 Because	IN	because-i
 that	DT	that-x
 party	NN	party-n
@@ -17519,7 +17519,7 @@ terrible	JJ	terrible-j
 dictatorship	NN	dictatorship-n
 .	SENT	.-x
 </s>
-<s id="1522:6&collection=eptic3">
+<s id="1522:6">
 We	PP	we-d
 are	VBP	be-v
 cheering	VVG	cheer-v
@@ -17554,7 +17554,7 @@ in	IN	in-i
 opposition	NN	opposition-n
 .	SENT	.-x
 </s>
-<s id="1522:7&collection=eptic3">
+<s id="1522:7">
 We	PP	we-d
 are	VBP	be-v
 cheering	VVG	cheer-v
@@ -17588,7 +17588,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1522:8&collection=eptic3">
+<s id="1522:8">
 We	PP	we-d
 are	VBP	be-v
 also	RB	also-a
@@ -17624,7 +17624,7 @@ yet	RB	yet-a
 over	RP	over-x
 .	SENT	.-x
 </s>
-<s id="1522:9&collection=eptic3">
+<s id="1522:9">
 We	PP	we-d
 are	VBP	be-v
 backing	VVG	back-v
@@ -17663,7 +17663,7 @@ whole	NN	whole-n
 <speaker name="Mastella Clemente" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="129" duration="short" durations="60.0" speed="slow" speedwm="129.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1523:1&collection=eptic3">
+<s id="1523:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -17694,7 +17694,7 @@ cross-border	JJ	cross-border-j
 healthcare	NN	healthcare-n
 .	SENT	.-x
 </s>
-<s id="1523:2&collection=eptic3">
+<s id="1523:2">
 The	DT	the-x
 Directive	NN	directive-n
 we	PP	we-d
@@ -17719,7 +17719,7 @@ throughout	IN	throughout-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1523:3&collection=eptic3">
+<s id="1523:3">
 The	DT	the-x
 aim	NN	aim-n
 is	VBZ	be-v
@@ -17750,7 +17750,7 @@ or	CC	or-c
 necessary	JJ	necessary-j
 .	SENT	.-x
 </s>
-<s id="1523:4&collection=eptic3">
+<s id="1523:4">
 We	PP	we-d
 need	VVP	need-v
 better	JJR	good-j
@@ -17779,7 +17779,7 @@ of	IN	of-i
 affiliation	NN	affiliation-n
 .	SENT	.-x
 </s>
-<s id="1523:5&collection=eptic3">
+<s id="1523:5">
 The	DT	the-x
 current	JJ	current-j
 situation	NN	situation-n
@@ -17787,7 +17787,7 @@ is	VBZ	be-v
 unsatisfactory	JJ	unsatisfactory-j
 .	SENT	.-x
 </s>
-<s id="1523:6&collection=eptic3">
+<s id="1523:6">
 The	DT	the-x
 Directive	NN	directive-n
 will	MD	will-x
@@ -17826,7 +17826,7 @@ duress	NN	duress-n
 <speaker name="Matera Barbara" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="155" duration="short" durations="82.0" speed="slow" speedwm="113.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1524:1&collection=eptic3">
+<s id="1524:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -17853,7 +17853,7 @@ European	NP	European-n
 Union	NP	Union-n
 .	SENT	.-x
 </s>
-<s id="1524:2&collection=eptic3">
+<s id="1524:2">
 International	JJ	international-j
 adoption	NN	adoption-n
 has	VHZ	have-v
@@ -17891,7 +17891,7 @@ of	IN	of-i
 origin	NN	origin-n
 .	SENT	.-x
 </s>
-<s id="1524:3&collection=eptic3">
+<s id="1524:3">
 Cooperation	NN	cooperation-n
 among	IN	among-i
 the	DT	the-x
@@ -17940,7 +17940,7 @@ of	IN	of-i
 children	NNS	child-n
 .	SENT	.-x
 </s>
-<s id="1524:4&collection=eptic3">
+<s id="1524:4">
 The	DT	the-x
 international	JJ	international-j
 adoption	NN	adoption-n
@@ -17971,7 +17971,7 @@ to	TO	to-x
 adopt	VV	adopt-v
 .	SENT	.-x
 </s>
-<s id="1524:5&collection=eptic3">
+<s id="1524:5">
 Lastly	RB	lastly-a
 ,	,	,-x
 Romania	NP	Romania-n
@@ -17999,7 +17999,7 @@ international	JJ	international-j
 adoptions	NNS	adoption-n
 .	SENT	.-x
 </s>
-<s id="1524:6&collection=eptic3">
+<s id="1524:6">
 There	EX	there-x
 are	VBP	be-v
 currently	RB	currently-a
@@ -18023,7 +18023,7 @@ foster	JJ	foster-j
 care	NN	care-n
 .	SENT	.-x
 </s>
-<s id="1524:7&collection=eptic3">
+<s id="1524:7">
 The	DT	the-x
 Commission	NP	Commission-n
 should	MD	should-x
@@ -18059,7 +18059,7 @@ adoption	NN	adoption-n
 <speaker name="Ronzulli Licia" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="137" duration="short" durations="60.0" speed="medium" speedwm="137.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1525:1&collection=eptic3">
+<s id="1525:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -18095,7 +18095,7 @@ a	DT	a-x
 child	NN	child-n
 .	SENT	.-x
 </s>
-<s id="1525:2&collection=eptic3">
+<s id="1525:2">
 Adoption	NN	adoption-n
 is	VBZ	be-v
 a	DT	a-x
@@ -18135,7 +18135,7 @@ dear	JJ	dear-j
 ones	NNS	one-n
 .	SENT	.-x
 </s>
-<s id="1525:3&collection=eptic3">
+<s id="1525:3">
 Those	DT	those-x
 who	WP	who-x
 carry	VVP	carry-v
@@ -18167,7 +18167,7 @@ new	JJ	new-j
 life	NN	life-n
 .	SENT	.-x
 </s>
-<s id="1525:4&collection=eptic3">
+<s id="1525:4">
 It	PP	it-d
 is	VBZ	be-v
 therefore	RB	therefore-a
@@ -18191,7 +18191,7 @@ for	IN	for-i
 them	PP	them-d
 .	SENT	.-x
 </s>
-<s id="1525:5&collection=eptic3">
+<s id="1525:5">
 The	DT	the-x
 adoption	NN	adoption-n
 of	IN	of-i
@@ -18209,7 +18209,7 @@ urgent	JJ	urgent-j
 message	NN	message-n
 .	SENT	.-x
 </s>
-<s id="1525:6&collection=eptic3">
+<s id="1525:6">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -18224,7 +18224,7 @@ family	NN	family-n
 situations	NNS	situation-n
 .	SENT	.-x
 </s>
-<s id="1525:7&collection=eptic3">
+<s id="1525:7">
 Bureaucratic	JJ	bureaucratic-j
 lethargy	NN	lethargy-n
 and	CC	and-c
@@ -18259,7 +18259,7 @@ future	NN	future-n
 <speaker name="Muscardini Cristiana" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="116" duration="short" durations="67.0" speed="slow" speedwm="103.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1526:1&collection=eptic3">
+<s id="1526:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -18305,7 +18305,7 @@ and	CC	and-c
 difficult	JJ	difficult-j
 .	SENT	.-x
 </s>
-<s id="1526:2&collection=eptic3">
+<s id="1526:2">
 Instead	RB	instead-a
 of	IN	of-i
 stimulating	VVG	stimulate-v
@@ -18351,7 +18351,7 @@ own	JJ	own-j
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1526:3&collection=eptic3">
+<s id="1526:3">
 While	IN	while-i
 growing	VVG	grow-v
 bureaucracy	NN	bureaucracy-n
@@ -18381,7 +18381,7 @@ the	DT	the-x
 other	JJ	other-j
 .	SENT	.-x
 </s>
-<s id="1526:4&collection=eptic3">
+<s id="1526:4">
 That	DT	that-x
 is	VBZ	be-v
 why	WRB	why-x
@@ -18397,7 +18397,7 @@ a	DT	a-x
 resolution	NN	resolution-n
 .	SENT	.-x
 </s>
-<s id="1526:5&collection=eptic3">
+<s id="1526:5">
 We	PP	we-d
 believe	VVP	believe-v
 international	JJ	international-j
@@ -18439,7 +18439,7 @@ future	NN	future-n
 <speaker name="Mastella Clemente" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="209" duration="short" durations="83.0" speed="medium" speedwm="151.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1527:1&collection=eptic3">
+<s id="1527:1">
 Madam	NN	madam-n
 President	NP	President-n
 ,	,	,-x
@@ -18494,7 +18494,7 @@ of	IN	of-i
 disease	NN	disease-n
 .	SENT	.-x
 </s>
-<s id="1527:2&collection=eptic3">
+<s id="1527:2">
 I	PP	I-d
 speak	VVP	speak-v
 from	IN	from-i
@@ -18522,7 +18522,7 @@ genetic	JJ	genetic-j
 line	NN	line-n
 .	SENT	.-x
 </s>
-<s id="1527:3&collection=eptic3">
+<s id="1527:3">
 We	PP	we-d
 therefore	RB	therefore-a
 intend	VVP	intend-v
@@ -18557,7 +18557,7 @@ the	DT	the-x
 disease	NN	disease-n
 .	SENT	.-x
 </s>
-<s id="1527:4&collection=eptic3">
+<s id="1527:4">
 We	PP	we-d
 intend	VVP	intend-v
 instead	RB	instead-a
@@ -18594,7 +18594,7 @@ best	JJS	good-j
 practices	NNS	practice-n
 .	SENT	.-x
 </s>
-<s id="1527:5&collection=eptic3">
+<s id="1527:5">
 In	IN	in-i
 this	DT	this-x
 report	NN	report-n
@@ -18650,7 +18650,7 @@ or	CC	or-c
 relatives	NNS	relative-n
 .	SENT	.-x
 </s>
-<s id="1527:6&collection=eptic3">
+<s id="1527:6">
 For	IN	for-i
 any	DT	any-x
 European	JJ	European-j
@@ -18691,7 +18691,7 @@ plans	NNS	plan-n
 <speaker name="Provera Fiorello" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="165" duration="short" durations="87.0" speed="slow" speedwm="113.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1528:1&collection=eptic3">
+<s id="1528:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -18738,7 +18738,7 @@ Middle	NP	Middle-n
 East	NP	East-n
 .	SENT	.-x
 </s>
-<s id="1528:2&collection=eptic3">
+<s id="1528:2">
 The	DT	the-x
 most	RBS	most-a
 worrying	JJ	worrying-j
@@ -18790,7 +18790,7 @@ other	JJ	other-j
 things	NNS	thing-n
 .	SENT	.-x
 </s>
-<s id="1528:3&collection=eptic3">
+<s id="1528:3">
 The	DT	the-x
 2	CD	[number]-m
 things	NNS	thing-n
@@ -18812,7 +18812,7 @@ these	DT	these-x
 countries	NNS	country-n
 .	SENT	.-x
 </s>
-<s id="1528:4&collection=eptic3">
+<s id="1528:4">
 In	IN	in-i
 Iraq	NP	Iraq-n
 ,	,	,-x
@@ -18840,7 +18840,7 @@ some	DT	some-x
 people	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1528:5&collection=eptic3">
+<s id="1528:5">
 This	DT	this-x
 House	NP	House-n
 fights	NNS	fight-n
@@ -18853,7 +18853,7 @@ to	TO	to-x
 emigrate	VV	emigrate-v
 .	SENT	.-x
 </s>
-<s id="1528:6&collection=eptic3">
+<s id="1528:6">
 In	IN	in-i
 this	DT	this-x
 case	NN	case-n
@@ -18875,7 +18875,7 @@ own	JJ	own-j
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1528:7&collection=eptic3">
+<s id="1528:7">
 The	DT	the-x
 aim	NN	aim-n
 of	IN	of-i
@@ -18892,7 +18892,7 @@ mass	JJ	mass-j
 murder	NN	murder-n
 .	SENT	.-x
 </s>
-<s id="1528:8&collection=eptic3">
+<s id="1528:8">
 Action	NN	action-n
 ,	,	,-x
 including	VVG	include-v
@@ -18908,7 +18908,7 @@ prevent	VV	prevent-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1528:9&collection=eptic3">
+<s id="1528:9">
 Europe	NP	Europe-n
 ,	,	,-x
 which	WDT	which-x
@@ -18954,7 +18954,7 @@ citizens	NNS	citizen-n
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="240" duration="medium" durations="125.0" speed="slow" speedwm="115.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1529:1&collection=eptic3">
+<s id="1529:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -19001,7 +19001,7 @@ everyone's	NNZ	everyone-n
 interest	NN	interest-n
 .	SENT	.-x
 </s>
-<s id="1529:2&collection=eptic3">
+<s id="1529:2">
 However	RB	however-a
 ,	,	,-x
 baroness	NN	baroness-n
@@ -19064,7 +19064,7 @@ Christian	NP	Christian-n
 '	''	'-x
 .	SENT	.-x
 </s>
-<s id="1529:3&collection=eptic3">
+<s id="1529:3">
 That	DT	that-x
 is	VBZ	be-v
 something	NN	something-n
@@ -19123,7 +19123,7 @@ and	CC	and-c
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1529:4&collection=eptic3">
+<s id="1529:4">
 My	PPZ	my-d
 Iraqi	JJ	Iraqi-j
 Christian	JJ	Christian-j
@@ -19155,7 +19155,7 @@ and	CC	and-c
 culture	NN	culture-n
 .	SENT	.-x
 </s>
-<s id="1529:5&collection=eptic3">
+<s id="1529:5">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -19209,7 +19209,7 @@ a	DT	a-x
 spade	NN	spade-n
 .	SENT	.-x
 </s>
-<s id="1529:6&collection=eptic3">
+<s id="1529:6">
 That	DT	that-x
 is	VBZ	be-v
 what	WP	what-x
@@ -19262,7 +19262,7 @@ and	CC	and-c
 freedom	NN	freedom-n
 .	SENT	.-x
 </s>
-<s id="1529:7&collection=eptic3">
+<s id="1529:7">
 That	DT	that-x
 is	VBZ	be-v
 my	PPZ	my-d
@@ -19283,7 +19283,7 @@ your	PPZ	your-d
 answer	NN	answer-n
 .	SENT	.-x
 </s>
-<s id="1529:8&collection=eptic3">
+<s id="1529:8">
 We	PP	we-d
 are	VBP	be-v
 now	RB	now-a
@@ -19296,7 +19296,7 @@ on	IN	on-i
 Iraq	NP	Iraq-n
 .	SENT	.-x
 </s>
-<s id="1529:9&collection=eptic3">
+<s id="1529:9">
 Let	VV	let-v
 us	PP	us-d
 include	VV	include-v
@@ -19323,7 +19323,7 @@ for	IN	for-i
 rights	NNS	right-n
 .	SENT	.-x
 </s>
-<s id="1529:10&collection=eptic3">
+<s id="1529:10">
 Let	VV	let-v
 us	PP	us-d
 do	VV	do-v
@@ -19363,7 +19363,7 @@ Europe	NP	Europe-n
 <speaker name="Milana Guido" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="330" duration="medium" durations="137.0" speed="medium" speedwm="144.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1530:1&collection=eptic3">
+<s id="1530:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -19418,7 +19418,7 @@ and	CC	and-c
 thought	NN	thought-n
 .	SENT	.-x
 </s>
-<s id="1530:2&collection=eptic3">
+<s id="1530:2">
 There	EX	there-x
 is	VBZ	be-v
 no	DT	no-x
@@ -19469,7 +19469,7 @@ a	DT	a-x
 religion	NN	religion-n
 .	SENT	.-x
 </s>
-<s id="1530:3&collection=eptic3">
+<s id="1530:3">
 The	DT	the-x
 right	NN	right-n
 to	IN	to-i
@@ -19487,7 +19487,7 @@ international	JJ	international-j
 conventions	NNS	convention-n
 .	SENT	.-x
 </s>
-<s id="1530:4&collection=eptic3">
+<s id="1530:4">
 In	IN	in-i
 contrast	NN	contrast-n
 ,	,	,-x
@@ -19513,7 +19513,7 @@ extinguish	VV	extinguish-v
 them	PP	them-d
 .	SENT	.-x
 </s>
-<s id="1530:5&collection=eptic3">
+<s id="1530:5">
 Only	RB	only-a
 an	DT	a-x
 attitude	NN	attitude-n
@@ -19537,7 +19537,7 @@ and	CC	and-c
 values	NNS	value-n
 .	SENT	.-x
 </s>
-<s id="1530:6&collection=eptic3">
+<s id="1530:6">
 A	DT	a-x
 lack	NN	lack-n
 of	IN	of-i
@@ -19559,7 +19559,7 @@ historical	JJ	historical-j
 homelands	NNS	homeland-n
 .	SENT	.-x
 </s>
-<s id="1530:7&collection=eptic3">
+<s id="1530:7">
 There	EX	there-x
 is	VBZ	be-v
 a	DT	a-x
@@ -19591,7 +19591,7 @@ social	JJ	social-j
 spheres	NNS	sphere-n
 .	SENT	.-x
 </s>
-<s id="1530:8&collection=eptic3">
+<s id="1530:8">
 Today	NN	today-n
 ,	,	,-x
 we	PP	we-d
@@ -19633,7 +19633,7 @@ Action	NP	Action-n
 Service	NP	Service-n
 .	SENT	.-x
 </s>
-<s id="1530:9&collection=eptic3">
+<s id="1530:9">
 Bilateral	JJ	bilateral-j
 agreements	NNS	agreement-n
 ,	,	,-x
@@ -19668,7 +19668,7 @@ these	DT	these-x
 agreements	NNS	agreement-n
 .	SENT	.-x
 </s>
-<s id="1530:10&collection=eptic3">
+<s id="1530:10">
 I	PP	I-d
 am	VBP	be-v
 also	RB	also-a
@@ -19687,7 +19687,7 @@ between	IN	between-i
 religions	NNS	religion-n
 .	SENT	.-x
 </s>
-<s id="1530:11&collection=eptic3">
+<s id="1530:11">
 A	DT	a-x
 lack	NN	lack-n
 of	IN	of-i
@@ -19717,7 +19717,7 @@ for	IN	for-i
 conflict	NN	conflict-n
 .	SENT	.-x
 </s>
-<s id="1530:12&collection=eptic3">
+<s id="1530:12">
 Lastly	RB	lastly-a
 ,	,	,-x
 we	PP	we-d
@@ -19740,7 +19740,7 @@ in	IN	in-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1530:13&collection=eptic3">
+<s id="1530:13">
 Our	PPZ	our-d
 cities	NNS	city-n
 are	VBP	be-v
@@ -19771,7 +19771,7 @@ of	IN	of-i
 expression	NN	expression-n
 .	SENT	.-x
 </s>
-<s id="1530:14&collection=eptic3">
+<s id="1530:14">
 There	EX	there-x
 is	VBZ	be-v
 ,	,	,-x
@@ -19786,7 +19786,7 @@ mutual	JJ	mutual-j
 respect	NN	respect-n
 .	SENT	.-x
 </s>
-<s id="1530:15&collection=eptic3">
+<s id="1530:15">
 It	PP	it-d
 is	VBZ	be-v
 important	JJ	important-j
@@ -19808,7 +19808,7 @@ communities	NNS	community-n
 <speaker name="Rinaldi Niccolò" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="183" duration="short" durations="93.0" speed="slow" speedwm="118.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1531:1&collection=eptic3">
+<s id="1531:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -19864,7 +19864,7 @@ been	VBN	be-v
 suffering	VVG	suffer-v
 .	SENT	.-x
 </s>
-<s id="1531:2&collection=eptic3">
+<s id="1531:2">
 However	RB	however-a
 ,	,	,-x
 the	DT	the-x
@@ -19891,7 +19891,7 @@ of	IN	of-i
 civilisations	NNS	civilisation-n
 .	SENT	.-x
 </s>
-<s id="1531:3&collection=eptic3">
+<s id="1531:3">
 I	PP	I-d
 would	MD	would-x
 like	VV	like-v
@@ -19906,7 +19906,7 @@ find	VVP	find-v
 significant	JJ	significant-j
 .	SENT	.-x
 </s>
-<s id="1531:4&collection=eptic3">
+<s id="1531:4">
 Years	NNS	year-n
 ago	RB	ago-a
 in	IN	in-i
@@ -19935,7 +19935,7 @@ door	NN	door-n
 crying	VVG	cry-v
 .	SENT	.-x
 </s>
-<s id="1531:5&collection=eptic3">
+<s id="1531:5">
 We	PP	we-d
 could	MD	could-x
 not	RB	not-a
@@ -19972,7 +19972,7 @@ old	JJ	old-j
 man	NN	man-n
 .	SENT	.-x
 </s>
-<s id="1531:6&collection=eptic3">
+<s id="1531:6">
 We	PP	we-d
 eventually	RB	eventually-a
 realised	VVD	realise-v
@@ -19999,7 +19999,7 @@ passed	VVN	pass-v
 away	RB	away-a
 .	SENT	.-x
 </s>
-<s id="1531:7&collection=eptic3">
+<s id="1531:7">
 This	DT	this-x
 was	VBD	be-v
 a	DT	a-x
@@ -20024,7 +20024,7 @@ Mediterranean	JJ	Mediterranean-j
 peoples	NNS	people-n
 .	SENT	.-x
 </s>
-<s id="1531:8&collection=eptic3">
+<s id="1531:8">
 This	DT	this-x
 short	JJ	short-j
 but	CC	but-c
@@ -20053,7 +20053,7 @@ at	IN	at-i
 Christmas	NP	Christmas-n
 .	SENT	.-x
 </s>
-<s id="1531:9&collection=eptic3">
+<s id="1531:9">
 Today	NN	today-n
 ,	,	,-x
 however	RB	however-a
@@ -20065,7 +20065,7 @@ need	VVP	need-v
 protection	NN	protection-n
 .	SENT	.-x
 </s>
-<s id="1531:10&collection=eptic3">
+<s id="1531:10">
 They	PP	they-d
 are	VBP	be-v
 sometimes	RB	sometimes-a
@@ -20084,7 +20084,7 @@ authoritarian	JJ	authoritarian-j
 powers	NNS	power-n
 .	SENT	.-x
 </s>
-<s id="1531:11&collection=eptic3">
+<s id="1531:11">
 European	JJ	European-j
 foreign	JJ	foreign-j
 policy	NN	policy-n
@@ -20098,7 +20098,7 @@ world	NN	world-n
 changes	NNS	change-n
 .	SENT	.-x
 </s>
-<s id="1531:12&collection=eptic3">
+<s id="1531:12">
 It	PP	it-d
 should	MD	should-x
 not	RB	not-a
@@ -20119,7 +20119,7 @@ word	NN	word-n
 <speaker name="Borghezio Mario" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="140" duration="short" durations="66.0" speed="slow" speedwm="127.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1532:1&collection=eptic3">
+<s id="1532:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -20147,11 +20147,11 @@ is	VBZ	be-v
 taboo	JJ	taboo-j
 :	:	:-x
 </s>
-<s id="1532:2&collection=eptic3">
+<s id="1532:2">
 Christianophobia	NN	Christianophobia-n
 .	SENT	.-x
 </s>
-<s id="1532:3&collection=eptic3">
+<s id="1532:3">
 For	IN	for-i
 many	JJ	many-j
 years	NNS	year-n
@@ -20182,7 +20182,7 @@ several	JJ	several-j
 continents	NNS	continent-n
 .	SENT	.-x
 </s>
-<s id="1532:4&collection=eptic3">
+<s id="1532:4">
 Europe	NP	Europe-n
 needs	VVZ	need-v
 to	TO	to-x
@@ -20198,7 +20198,7 @@ concrete	JJ	concrete-j
 action	NN	action-n
 .	SENT	.-x
 </s>
-<s id="1532:5&collection=eptic3">
+<s id="1532:5">
 It	PP	it-d
 needs	VVZ	need-v
 to	TO	to-x
@@ -20219,7 +20219,7 @@ baroness	NN	baroness-n
 Ashton	NP	Ashton-n
 .	SENT	.-x
 </s>
-<s id="1532:6&collection=eptic3">
+<s id="1532:6">
 She	PP	she-d
 could	MD	could-x
 ,	,	,-x
@@ -20273,14 +20273,14 @@ and	CC	and-c
 peace	NN	peace-n
 .	SENT	.-x
 </s>
-<s id="1532:7&collection=eptic3">
+<s id="1532:7">
 Concrete	JJ	concrete-j
 action	NN	action-n
 is	VBZ	be-v
 needed	VVN	need-v
 .	SENT	.-x
 </s>
-<s id="1532:8&collection=eptic3">
+<s id="1532:8">
 What	WP	what-x
 are	VBP	be-v
 we	PP	we-d
@@ -20336,7 +20336,7 @@ civil	JJ	civil-j
 service	NN	service-n
 ?	SENT	?-x
 </s>
-<s id="1532:9&collection=eptic3">
+<s id="1532:9">
 Wake	NN	wake-n
 up	RB	up-a
 ,	,	,-x
@@ -20358,7 +20358,7 @@ roots	NNS	root-n
 <speaker name="Casini Carlo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="204" duration="short" durations="99.0" speed="slow" speedwm="123.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1533:1&collection=eptic3">
+<s id="1533:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -20378,7 +20378,7 @@ practically	RB	practically-a
 everything	NN	everything-n
 .	SENT	.-x
 </s>
-<s id="1533:2&collection=eptic3">
+<s id="1533:2">
 They	PP	they-d
 have	VHP	have-v
 recalled	VVN	recall-v
@@ -20393,7 +20393,7 @@ specific	JJ	specific-j
 requests	NNS	request-n
 .	SENT	.-x
 </s>
-<s id="1533:3&collection=eptic3">
+<s id="1533:3">
 Therefore	RB	therefore-a
 ,	,	,-x
 as	IN	as-i
@@ -20449,7 +20449,7 @@ Berlin	NP	Berlin-n
 Wall	NP	Wall-n
 .	SENT	.-x
 </s>
-<s id="1533:4&collection=eptic3">
+<s id="1533:4">
 In	IN	in-i
 his	PPZ	his-d
 spiritual	JJ	spiritual-j
@@ -20488,7 +20488,7 @@ religious	JJ	religious-j
 freedom	NN	freedom-n
 .	SENT	.-x
 </s>
-<s id="1533:5&collection=eptic3">
+<s id="1533:5">
 Then	RB	then-a
 I	PP	I-d
 think	VVP	think-v
@@ -20525,7 +20525,7 @@ cold	JJ	cold-j
 war	NN	war-n
 .	SENT	.-x
 </s>
-<s id="1533:6&collection=eptic3">
+<s id="1533:6">
 In	IN	in-i
 his	PPZ	his-d
 book	NN	book-n
@@ -20556,7 +20556,7 @@ underlying	VVG	underlie-v
 it	PP	it-d
 .	SENT	.-x
 </s>
-<s id="1533:7&collection=eptic3">
+<s id="1533:7">
 For	IN	for-i
 Christian	NP	Christian-n
 Europe	NP	Europe-n
@@ -20596,7 +20596,7 @@ to	IN	to-i
 God	NP	God-n
 .	SENT	.-x
 </s>
-<s id="1533:8&collection=eptic3">
+<s id="1533:8">
 Taking	VVG	take-v
 away	RP	away-x
 a	DT	a-x
@@ -20627,7 +20627,7 @@ man	NN	man-n
 himself	PP	himself-d
 .	SENT	.-x
 </s>
-<s id="1533:9&collection=eptic3">
+<s id="1533:9">
 I	PP	I-d
 leave	VVP	leave-v
 these	DT	these-x
@@ -20689,7 +20689,7 @@ rights	NNS	right-n
 <speaker name="Allam Magdi Cristiano" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="long" lengthw="77" duration="short" durations="64.0" speed="slow" speedwm="72.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1534:1&collection=eptic3">
+<s id="1534:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -20752,7 +20752,7 @@ obtain	VV	obtain-v
 work	NN	work-n
 .	SENT	.-x
 </s>
-<s id="1534:2&collection=eptic3">
+<s id="1534:2">
 Christians	NNS	Christian-n
 are	VBP	be-v
 discriminated	VVN	discriminate-v
@@ -20772,7 +20772,7 @@ their	PPZ	their-d
 documents	NNS	document-n
 .	SENT	.-x
 </s>
-<s id="1534:3&collection=eptic3">
+<s id="1534:3">
 Islamic	JJ	Islamic-j
 terrorism	NN	terrorism-n
 has	VHZ	have-v
@@ -20792,7 +20792,7 @@ against	IN	against-i
 Christians	NNS	Christian-n
 .	SENT	.-x
 </s>
-<s id="1534:4&collection=eptic3">
+<s id="1534:4">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -20822,7 +20822,7 @@ discrimination	NN	discrimination-n
 <speaker name="Gualtieri Roberto" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="214" duration="short" durations="114.0" speed="slow" speedwm="112.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1535:1&collection=eptic3">
+<s id="1535:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -20873,7 +20873,7 @@ is	VBZ	be-v
 critical	JJ	critical-j
 .	SENT	.-x
 </s>
-<s id="1535:2&collection=eptic3">
+<s id="1535:2">
 We	PP	we-d
 are	VBP	be-v
 talking	VVG	talk-v
@@ -20909,7 +20909,7 @@ than	IN	than-i
 ever	RB	ever-a
 .	SENT	.-x
 </s>
-<s id="1535:3&collection=eptic3">
+<s id="1535:3">
 It	PP	it-d
 is	VBZ	be-v
 also	RB	also-a
@@ -20930,7 +20930,7 @@ worrying	JJ	worrying-j
 extent	NN	extent-n
 .	SENT	.-x
 </s>
-<s id="1535:4&collection=eptic3">
+<s id="1535:4">
 All	DT	all-x
 that	WDT	that-x
 makes	VVZ	make-v
@@ -20945,7 +20945,7 @@ to	IN	to-i
 Europe	NP	Europe-n
 .	SENT	.-x
 </s>
-<s id="1535:5&collection=eptic3">
+<s id="1535:5">
 We	PP	we-d
 therefore	RB	therefore-a
 need	VVP	need-v
@@ -20959,7 +20959,7 @@ Europe's	NPZ	Europe-n
 initiative	NN	initiative-n
 .	SENT	.-x
 </s>
-<s id="1535:6&collection=eptic3">
+<s id="1535:6">
 The	DT	the-x
 2009	CD	[number]-m
 initiative	NN	initiative-n
@@ -20977,7 +20977,7 @@ proved	VVN	prove-v
 ineffective	JJ	ineffective-j
 .	SENT	.-x
 </s>
-<s id="1535:7&collection=eptic3">
+<s id="1535:7">
 What	WP	what-x
 is	VBZ	be-v
 needed	VVN	need-v
@@ -21007,7 +21007,7 @@ are	VBP	be-v
 awaiting	VVG	await-v
 .	SENT	.-x
 </s>
-<s id="1535:8&collection=eptic3">
+<s id="1535:8">
 I	PP	I-d
 believe	VVP	believe-v
 there	EX	there-x
@@ -21027,7 +21027,7 @@ regional	JJ	regional-j
 approach	NN	approach-n
 ;	:	;-x
 </s>
-<s id="1535:9&collection=eptic3">
+<s id="1535:9">
 and	CC	and-c
 secondly	RB	secondly-a
 ,	,	,-x
@@ -21061,7 +21061,7 @@ coordinated	VVN	coordinate-v
 way	NN	way-n
 .	SENT	.-x
 </s>
-<s id="1535:10&collection=eptic3">
+<s id="1535:10">
 We	PP	we-d
 must	MD	must-x
 realise	VV	realise-v
@@ -21108,7 +21108,7 @@ political	JJ	political-j
 strategy	NN	strategy-n
 .	SENT	.-x
 </s>
-<s id="1535:11&collection=eptic3">
+<s id="1535:11">
 Our	PPZ	our-d
 group	NN	group-n
 therefore	RB	therefore-a
@@ -21150,7 +21150,7 @@ implementation	NN	implementation-n
 <speaker name="Panzeri Pier Antonio" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="207" duration="short" durations="96.0" speed="slow" speedwm="129.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1536:1&collection=eptic3">
+<s id="1536:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -21200,7 +21200,7 @@ greater	JJR	great-j
 security	NN	security-n
 .	SENT	.-x
 </s>
-<s id="1536:2&collection=eptic3">
+<s id="1536:2">
 As	IN	as-i
 we	PP	we-d
 know	VVP	know-v
@@ -21241,7 +21241,7 @@ Islamic	NP	Islamic-n
 Maghreb	NP	Maghreb-n
 .	SENT	.-x
 </s>
-<s id="1536:3&collection=eptic3">
+<s id="1536:3">
 The	DT	the-x
 weakness	NN	weakness-n
 and	CC	and-c
@@ -21284,7 +21284,7 @@ and	CC	and-c
 Niger	NP	Niger-n
 .	SENT	.-x
 </s>
-<s id="1536:4&collection=eptic3">
+<s id="1536:4">
 The	DT	the-x
 main	JJ	main-j
 task	NN	task-n
@@ -21332,7 +21332,7 @@ training	NN	training-n
 policies	NNS	policy-n
 .	SENT	.-x
 </s>
-<s id="1536:5&collection=eptic3">
+<s id="1536:5">
 Hence	RB	hence-a
 ,	,	,-x
 the	DT	the-x
@@ -21382,7 +21382,7 @@ the	DT	the-x
 ground	NN	ground-n
 .	SENT	.-x
 </s>
-<s id="1536:6&collection=eptic3">
+<s id="1536:6">
 To	TO	to-x
 conclude	VV	conclude-v
 ,	,	,-x
@@ -21423,7 +21423,7 @@ caught	VVN	catch-v
 unprepared	JJ	unprepared-j
 .	SENT	.-x
 </s>
-<s id="1536:7&collection=eptic3">
+<s id="1536:7">
 It	PP	it-d
 could	MD	could-x
 only	RB	only-a
@@ -21445,7 +21445,7 @@ far-sighted	JJ	far-sighted-j
 <speaker name="Panzeri Pier Antonio" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="317" duration="medium" durations="144.0" speed="medium" speedwm="132.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1537:1&collection=eptic3">
+<s id="1537:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -21479,7 +21479,7 @@ framework	NN	framework-n
 agreement	NN	agreement-n
 .	SENT	.-x
 </s>
-<s id="1537:2&collection=eptic3">
+<s id="1537:2">
 Libya	NP	Libya-n
 undoubtedly	RB	undoubtedly-a
 plays	VVZ	play-v
@@ -21516,7 +21516,7 @@ energy	NN	energy-n
 sector	NN	sector-n
 .	SENT	.-x
 </s>
-<s id="1537:3&collection=eptic3">
+<s id="1537:3">
 Our	PPZ	our-d
 aim	NN	aim-n
 in	IN	in-i
@@ -21547,7 +21547,7 @@ shared	JJ	shared-j
 rules	NNS	rule-n
 .	SENT	.-x
 </s>
-<s id="1537:4&collection=eptic3">
+<s id="1537:4">
 To	TO	to-x
 achieve	VV	achieve-v
 that	IN/that	that-i
@@ -21574,7 +21574,7 @@ calling	VVG	call-v
 for	IN	for-i
 .	SENT	.-x
 </s>
-<s id="1537:5&collection=eptic3">
+<s id="1537:5">
 First	JJ	first-j
 of	IN	of-i
 all	DT	all-x
@@ -21593,7 +21593,7 @@ transit	NN	transit-n
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1537:6&collection=eptic3">
+<s id="1537:6">
 This	DT	this-x
 is	VBZ	be-v
 an	DT	a-x
@@ -21619,7 +21619,7 @@ and	CC	and-c
 refoulement	NN	refoulement-n
 .	SENT	.-x
 </s>
-<s id="1537:7&collection=eptic3">
+<s id="1537:7">
 The	DT	the-x
 subject	NN	subject-n
 involves	VVZ	involve-v
@@ -21684,7 +21684,7 @@ living	VVG	live-v
 conditions	NNS	condition-n
 .	SENT	.-x
 </s>
-<s id="1537:8&collection=eptic3">
+<s id="1537:8">
 Then	RB	then-a
 there	EX	there-x
 is	VBZ	be-v
@@ -21709,7 +21709,7 @@ important	JJ	important-j
 country	NN	country-n
 .	SENT	.-x
 </s>
-<s id="1537:9&collection=eptic3">
+<s id="1537:9">
 We	PP	we-d
 shall	MD	shall-x
 have	VH	have-v
@@ -21732,7 +21732,7 @@ are	VBP	be-v
 showing	VVG	show-v
 .	SENT	.-x
 </s>
-<s id="1537:10&collection=eptic3">
+<s id="1537:10">
 Lastly	RB	lastly-a
 ,	,	,-x
 this	DT	this-x
@@ -21748,7 +21748,7 @@ bilateral	JJ	bilateral-j
 agreements	NNS	agreement-n
 .	SENT	.-x
 </s>
-<s id="1537:11&collection=eptic3">
+<s id="1537:11">
 Such	JJ	such-j
 agreements	NNS	agreement-n
 can	MD	can-x
@@ -21772,7 +21772,7 @@ final	JJ	final-j
 answer	NN	answer-n
 .	SENT	.-x
 </s>
-<s id="1537:12&collection=eptic3">
+<s id="1537:12">
 For	IN	for-i
 example	NN	example-n
 ,	,	,-x
@@ -21797,7 +21797,7 @@ these	DT	these-x
 problems	NNS	problem-n
 .	SENT	.-x
 </s>
-<s id="1537:13&collection=eptic3">
+<s id="1537:13">
 Now	RB	now-a
 ,	,	,-x
 however	RB	however-a
@@ -21830,7 +21830,7 @@ including	VVG	include-v
 Parliament	NP	Parliament-n
 .	SENT	.-x
 </s>
-<s id="1537:14&collection=eptic3">
+<s id="1537:14">
 Many	JJ	many-j
 of	IN	of-i
 us	PP	us-d
@@ -21850,7 +21850,7 @@ made	VVN	make-v
 known	VVN	know-v
 .	SENT	.-x
 </s>
-<s id="1537:15&collection=eptic3">
+<s id="1537:15">
 In	IN	in-i
 this	DT	this-x
 respect	NN	respect-n
@@ -21895,7 +21895,7 @@ Europe	NP	Europe-n
 <speaker name="Provera Fiorello" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="166" duration="short" durations="75.0" speed="medium" speedwm="132.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1538:1&collection=eptic3">
+<s id="1538:1">
 Mr	NP	Mr-n
 President	NP	President-n
 ,	,	,-x
@@ -21959,7 +21959,7 @@ energy	NN	energy-n
 programme	NN	programme-n
 .	SENT	.-x
 </s>
-<s id="1538:2&collection=eptic3">
+<s id="1538:2">
 Another	DT	another-x
 important	JJ	important-j
 subject	NN	subject-n
@@ -21986,7 +21986,7 @@ southern	JJ	southern-j
 borders	NNS	border-n
 .	SENT	.-x
 </s>
-<s id="1538:3&collection=eptic3">
+<s id="1538:3">
 Progress	NN	progress-n
 has	VHZ	have-v
 been	VBN	be-v
@@ -22021,7 +22021,7 @@ on	IN	on-i
 Refugees	NNS	refugee-n
 .	SENT	.-x
 </s>
-<s id="1538:4&collection=eptic3">
+<s id="1538:4">
 Much	RB	much-a
 remains	VVZ	remain-v
 to	TO	to-x
@@ -22062,7 +22062,7 @@ been	VBN	be-v
 achieved	VVN	achieve-v
 .	SENT	.-x
 </s>
-<s id="1538:5&collection=eptic3">
+<s id="1538:5">
 I	PP	I-d
 hope	VVP	hope-v
 the	DT	the-x
@@ -22108,7 +22108,7 @@ colonial	JJ	colonial-j
 past	NN	past-n
 .	SENT	.-x
 </s>
-<s id="1538:6&collection=eptic3">
+<s id="1538:6">
 If	IN	if-i
 one	PP	one-d
 has	VHZ	have-v
@@ -22140,7 +22140,7 @@ to	IN	to-i
 <speaker name="Gardini Elisabetta" gender="F" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="156" duration="short" durations="101.0" speed="slow" speedwm="92.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2357:1&collection=eptic3">
+<s id="2357:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -22162,7 +22162,7 @@ ambitious	JJ	ambitious-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:2&collection=eptic3">
+<s id="2357:2">
 I	PP	I-d
 should	MD	should-x
 like	VV	like-v
@@ -22185,7 +22185,7 @@ kilometre	NN	kilometre-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:3&collection=eptic3">
+<s id="2357:3">
 Reducing	VVG	reduce-v
 this	DT	this-x
 to	IN	to-i
@@ -22204,7 +22204,7 @@ than	IN	than-i
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:4&collection=eptic3">
+<s id="2357:4">
 Furthermore	RB	furthermore-a
 <g/>
 ,	,	,-x
@@ -22228,7 +22228,7 @@ careful	JJ	careful-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:5&collection=eptic3">
+<s id="2357:5">
 I	PP	I-d
 also	RB	also-a
 think	VVP	think-v
@@ -22260,7 +22260,7 @@ House	NP	House-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:6&collection=eptic3">
+<s id="2357:6">
 The	DT	the-x
 cycles	NNS	cycle-n
 of	IN	of-i
@@ -22289,7 +22289,7 @@ sector	NN	sector-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:7&collection=eptic3">
+<s id="2357:7">
 If	IN	if-i
 we	PP	we-d
 do	VVP	do-v
@@ -22375,7 +22375,7 @@ Europe	NP	Europe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:8&collection=eptic3">
+<s id="2357:8">
 We	PP	we-d
 must	MD	must-x
 therefore	RB	therefore-a
@@ -22385,7 +22385,7 @@ careful	JJ	careful-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="2357:9&collection=eptic3">
+<s id="2357:9">
 I	PP	I-d
 applaud	VVP	applaud-v
 the	DT	the-x
@@ -22415,7 +22415,7 @@ supervision	NN	supervision-n
 <speaker name="De Magistris Luigi" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="124" duration="short" durations="95.0" speed="slow" speedwm="78.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2361:1&collection=eptic3">
+<s id="2361:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -22439,7 +22439,7 @@ Day	NP	Day-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2361:2&collection=eptic3">
+<s id="2361:2">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -22462,7 +22462,7 @@ Italians	NNS	Italian-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2361:3&collection=eptic3">
+<s id="2361:3">
 It	PP	it-d
 is	VBZ	be-v
 therefore	RB	therefore-a
@@ -22522,7 +22522,7 @@ period	NN	period-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2361:4&collection=eptic3">
+<s id="2361:4">
 Some	DT	some-x
 steps	NNS	step-n
 forward	RB	forward-a
@@ -22589,7 +22589,7 @@ hours	NNS	hour-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2361:5&collection=eptic3">
+<s id="2361:5">
 I	PP	I-d
 therefore	RB	therefore-a
 consider	VVP	consider-v
@@ -22618,7 +22618,7 @@ important	JJ	important-j
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="204" duration="medium" durations="132.0" speed="slow" speedwm="92.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2365:1&collection=eptic3">
+<s id="2365:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -22678,7 +22678,7 @@ help	VV	help-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:2&collection=eptic3">
+<s id="2365:2">
 The	DT	the-x
 first	JJ	first-j
 thing	NN	thing-n
@@ -22709,7 +22709,7 @@ lives	NNS	life-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:3&collection=eptic3">
+<s id="2365:3">
 When	WRB	when-x
 a	DT	a-x
 government	NN	government-n
@@ -22734,7 +22734,7 @@ regime	NN	regime-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:4&collection=eptic3">
+<s id="2365:4">
 This	DT	this-x
 is	VBZ	be-v
 what	WP	what-x
@@ -22767,7 +22767,7 @@ years	NNS	year-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:5&collection=eptic3">
+<s id="2365:5">
 Our	PPZ	our-d
 task	NN	task-n
 is	VBZ	be-v
@@ -22793,7 +22793,7 @@ streets	NNS	street-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:6&collection=eptic3">
+<s id="2365:6">
 The	DT	the-x
 second	JJ	second-j
 subject	NN	subject-n
@@ -22811,7 +22811,7 @@ Union	NP	Union-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:7&collection=eptic3">
+<s id="2365:7">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -22848,7 +22848,7 @@ failed	VVN	fail-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:8&collection=eptic3">
+<s id="2365:8">
 It	PP	it-d
 is	VBZ	be-v
 a	DT	a-x
@@ -22871,7 +22871,7 @@ nothing	NN	nothing-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:9&collection=eptic3">
+<s id="2365:9">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -22882,7 +22882,7 @@ this	DT	this-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:10&collection=eptic3">
+<s id="2365:10">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -22933,7 +22933,7 @@ it	PP	it-d
 <g/>
 .	SENT	.-x
 </s>
-<s id="2365:11&collection=eptic3">
+<s id="2365:11">
 If	IN	if-i
 we	PP	we-d
 do	VVP	do-v
@@ -22975,7 +22975,7 @@ meaningless	JJ	meaningless-j
 <speaker name="Pallone Alfredo" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="198" duration="medium" durations="134.0" speed="slow" speedwm="88.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2369:1&collection=eptic3">
+<s id="2369:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -23053,7 +23053,7 @@ correlation	NN	correlation-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:2&collection=eptic3">
+<s id="2369:2">
 Let	VV	let-v
 me	PP	me-d
 explain	VV	explain-v
@@ -23093,7 +23093,7 @@ costs	NNS	cost-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:3&collection=eptic3">
+<s id="2369:3">
 The	DT	the-x
 real	JJ	real-j
 issue	NN	issue-n
@@ -23116,7 +23116,7 @@ one	CD	one-m
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:4&collection=eptic3">
+<s id="2369:4">
 Unfortunately	RB	unfortunately-a
 <g/>
 ,	,	,-x
@@ -23140,7 +23140,7 @@ ones	NNS	one-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:5&collection=eptic3">
+<s id="2369:5">
 That	DT	that-x
 is	VBZ	be-v
 what	WP	what-x
@@ -23150,7 +23150,7 @@ address	VV	address-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:6&collection=eptic3">
+<s id="2369:6">
 The	DT	the-x
 most	RBS	most-a
 exposed	JJ	exposed-j
@@ -23186,7 +23186,7 @@ issue	NN	issue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:7&collection=eptic3">
+<s id="2369:7">
 While	IN	while-i
 spending	NN	spending-n
 on	IN	on-i
@@ -23216,7 +23216,7 @@ it	PP	it-d
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:8&collection=eptic3">
+<s id="2369:8">
 I	PP	I-d
 do	VVP	do-v
 not	RB	not-a
@@ -23225,7 +23225,7 @@ that	DT	that-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:9&collection=eptic3">
+<s id="2369:9">
 We	PP	we-d
 also	RB	also-a
 have	VH	have-v
@@ -23295,7 +23295,7 @@ received	VVN	receive-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:10&collection=eptic3">
+<s id="2369:10">
 I	PP	I-d
 have	VHP	have-v
 not	RB	not-a
@@ -23314,7 +23314,7 @@ receive	VV	receive-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2369:11&collection=eptic3">
+<s id="2369:11">
 I	PP	I-d
 shall	MD	shall-x
 finish	VV	finish-v
@@ -23336,7 +23336,7 @@ of	IN	of-i
 rights	NNS	right-n
 ..	:	...-x
 </s>
-<s id="2369:12&collection=eptic3">
+<s id="2369:12">
 .	SENT	.-x
 </s>
 </interpreter>
@@ -23347,7 +23347,7 @@ rights	NNS	right-n
 <speaker name="Milana Guido" gender="M" country="Italy" politfunc="MEP" politgroup="SD">
 <st language="it" length="short" lengthw="186" duration="short" durations="110.0" speed="slow" speedwm="101.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2373:1&collection=eptic3">
+<s id="2373:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -23370,7 +23370,7 @@ atmosphere	NN	atmosphere-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:2&collection=eptic3">
+<s id="2373:2">
 It	PP	it-d
 is	VBZ	be-v
 true	JJ	true-j
@@ -23406,7 +23406,7 @@ way	NN	way-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:3&collection=eptic3">
+<s id="2373:3">
 However	RB	however-a
 <g/>
 ,	,	,-x
@@ -23419,7 +23419,7 @@ problems	NNS	problem-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:4&collection=eptic3">
+<s id="2373:4">
 This	DT	this-x
 is	VBZ	be-v
 a	DT	a-x
@@ -23439,7 +23439,7 @@ place	NN	place-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:5&collection=eptic3">
+<s id="2373:5">
 It	PP	it-d
 is	VBZ	be-v
 a	DT	a-x
@@ -23499,7 +23499,7 @@ system	NN	system-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:6&collection=eptic3">
+<s id="2373:6">
 I	PP	I-d
 would	MD	would-x
 therefore	RB	therefore-a
@@ -23516,7 +23516,7 @@ Commissioner	NP	Commissioner-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:7&collection=eptic3">
+<s id="2373:7">
 There	EX	there-x
 are	VBP	be-v
 two	CD	two-m
@@ -23531,7 +23531,7 @@ do	VV	do-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:8&collection=eptic3">
+<s id="2373:8">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -23570,7 +23570,7 @@ official	NN	official-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:9&collection=eptic3">
+<s id="2373:9">
 We	PP	we-d
 also	RB	also-a
 need	VVP	need-v
@@ -23594,7 +23594,7 @@ Sudan	NP	Sudan-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:10&collection=eptic3">
+<s id="2373:10">
 This	DT	this-x
 is	VBZ	be-v
 the	DT	the-x
@@ -23629,7 +23629,7 @@ democracy	NN	democracy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2373:11&collection=eptic3">
+<s id="2373:11">
 I	PP	I-d
 would	MD	would-x
 note	VV	note-v
@@ -23671,7 +23671,7 @@ this	DT	this-x
 <speaker name="Balzani Francesca" gender="F" country="Italy" politfunc="MEP" politgroup="S&D">
 <st language="it" length="medium" lengthw="504" duration="medium" durations="314.0" speed="slow" speedwm="96.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2377:1&collection=eptic3">
+<s id="2377:1">
 Madam	NN	madam-n
 President	NP	President-n
 <g/>
@@ -23714,7 +23714,7 @@ Trade	NP	Trade-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:2&collection=eptic3">
+<s id="2377:2">
 I	PP	I-d
 should	MD	should-x
 like	VV	like-v
@@ -23737,7 +23737,7 @@ then	RB	then-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:3&collection=eptic3">
+<s id="2377:3">
 These	DT	these-x
 agreements	NNS	agreement-n
 represent	VVP	represent-v
@@ -23773,7 +23773,7 @@ WTO	NP	WTO-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:4&collection=eptic3">
+<s id="2377:4">
 We	PP	we-d
 must	MD	must-x
 not	RB	not-a
@@ -23782,7 +23782,7 @@ this	DT	this-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:5&collection=eptic3">
+<s id="2377:5">
 Through	IN	through-i
 these	DT	these-x
 agreements	NNS	agreement-n
@@ -23820,7 +23820,7 @@ non-discrimination	NN	non-discrimination-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:6&collection=eptic3">
+<s id="2377:6">
 These	DT	these-x
 are	VBP	be-v
 therefore	RB	therefore-a
@@ -23840,7 +23840,7 @@ WTO	NP	WTO-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:7&collection=eptic3">
+<s id="2377:7">
 This	DT	this-x
 agreement	NN	agreement-n
 follows	VVZ	follow-v
@@ -23870,7 +23870,7 @@ relationships	NNS	relationship-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:8&collection=eptic3">
+<s id="2377:8">
 As	IN	as-i
 a	DT	a-x
 definitive	JJ	definitive-j
@@ -23916,7 +23916,7 @@ development	NN	development-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:9&collection=eptic3">
+<s id="2377:9">
 The	DT	the-x
 accompanying	JJ	accompanying-j
 measures	NNS	measure-n
@@ -23940,7 +23940,7 @@ point	NN	point-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:10&collection=eptic3">
+<s id="2377:10">
 It	PP	it-d
 is	VBZ	be-v
 important	JJ	important-j
@@ -24019,7 +24019,7 @@ necessary	JJ	necessary-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:11&collection=eptic3">
+<s id="2377:11">
 POSEI	NP	POSEI-n
 (	(	(-x
 <g/>
@@ -24072,7 +24072,7 @@ regions	NNS	region-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:12&collection=eptic3">
+<s id="2377:12">
 Therefore	RB	therefore-a
 the	DT	the-x
 impact	NN	impact-n
@@ -24098,7 +24098,7 @@ carefully	RB	carefully-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:13&collection=eptic3">
+<s id="2377:13">
 The	DT	the-x
 Council	NP	Council-n
 also	RB	also-a
@@ -24131,7 +24131,7 @@ point	NN	point-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:14&collection=eptic3">
+<s id="2377:14">
 We	PP	we-d
 have	VHP	have-v
 been	VBN	be-v
@@ -24159,7 +24159,7 @@ EU	NP	EU-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:15&collection=eptic3">
+<s id="2377:15">
 There	EX	there-x
 are	VBP	be-v
 many	JJ	many-j
@@ -24176,7 +24176,7 @@ therefore	RB	therefore-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:16&collection=eptic3">
+<s id="2377:16">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -24206,7 +24206,7 @@ producers	NNS	producer-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:17&collection=eptic3">
+<s id="2377:17">
 We	PP	we-d
 also	RB	also-a
 need	VVP	need-v
@@ -24253,7 +24253,7 @@ fruit	NN	fruit-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:18&collection=eptic3">
+<s id="2377:18">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -24284,7 +24284,7 @@ business	NN	business-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:19&collection=eptic3">
+<s id="2377:19">
 However	RB	however-a
 <g/>
 ,	,	,-x
@@ -24333,7 +24333,7 @@ countries	NNS	country-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:20&collection=eptic3">
+<s id="2377:20">
 I	PP	I-d
 hope	VVP	hope-v
 therefore	RB	therefore-a
@@ -24398,7 +24398,7 @@ chain	NN	chain-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2377:21&collection=eptic3">
+<s id="2377:21">
 These	DT	these-x
 will	MD	will-x
 in	RB	in-a
@@ -24453,7 +24453,7 @@ belongs	VVZ	belong-v
 <speaker name="De Magistris Luigi" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="126" duration="short" durations="88.0" speed="slow" speedwm="85.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2381:1&collection=eptic3">
+<s id="2381:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -24490,7 +24490,7 @@ sign	NN	sign-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2381:2&collection=eptic3">
+<s id="2381:2">
 The	DT	the-x
 emergency	NN	emergency-n
 in	IN	in-i
@@ -24517,7 +24517,7 @@ Campania	NP	Campania-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2381:3&collection=eptic3">
+<s id="2381:3">
 We	PP	we-d
 are	VBP	be-v
 saying	VVG	say-v
@@ -24608,7 +24608,7 @@ methods	NNS	method-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2381:4&collection=eptic3">
+<s id="2381:4">
 We	PP	we-d
 are	VBP	be-v
 also	RB	also-a
@@ -24640,7 +24640,7 @@ legality	NN	legality-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2381:5&collection=eptic3">
+<s id="2381:5">
 It	PP	it-d
 is	VBZ	be-v
 an	DT	a-x
@@ -24692,7 +24692,7 @@ establishment	NN	establishment-n
 <speaker name="Uggias Giommaria" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="144" duration="short" durations="100.0" speed="slow" speedwm="86.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2385:1&collection=eptic3">
+<s id="2385:1">
 Madam	NN	madam-n
 President	NP	President-n
 <g/>
@@ -24718,7 +24718,7 @@ conclusion	NN	conclusion-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:2&collection=eptic3">
+<s id="2385:2">
 Mr	NP	Mr-n
 Mastella	NP	Mastella-n
 will	MD	will-x
@@ -24744,7 +24744,7 @@ citizens	NNS	citizen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:3&collection=eptic3">
+<s id="2385:3">
 One	PP	one-d
 can	MD	can-x
 <g/>
@@ -24770,7 +24770,7 @@ bus	NN	bus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:4&collection=eptic3">
+<s id="2385:4">
 Where	WRB	where-x
 is	VBZ	be-v
 the	DT	the-x
@@ -24808,8 +24808,6 @@ this	DT	this-x
 protection	NN	protection-n
 <g/>
 ?	SENT	?-x
-</s>
-
 These	DT	these-x
 are	VBP	be-v
 the	DT	the-x
@@ -24824,7 +24822,7 @@ vote	NN	vote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:5&collection=eptic3">
+<s id="2385:5">
 We	PP	we-d
 did	VVD	do-v
 not	RB	not-a
@@ -24853,7 +24851,7 @@ mobility	NN	mobility-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:6&collection=eptic3">
+<s id="2385:6">
 That	DT	that-x
 is	VBZ	be-v
 why	WRB	why-x
@@ -24862,7 +24860,7 @@ abstained	VVD	abstain-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2385:7&collection=eptic3">
+<s id="2385:7">
 As	RB	as-a
 for	IN	for-i
 the	DT	the-x
@@ -24901,7 +24899,7 @@ citizens	NNS	citizen-n
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="195" duration="medium" durations="129.0" speed="slow" speedwm="90.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2389:1&collection=eptic3">
+<s id="2389:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -24944,7 +24942,7 @@ emergency	NN	emergency-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:2&collection=eptic3">
+<s id="2389:2">
 However	RB	however-a
 <g/>
 ,	,	,-x
@@ -25030,7 +25028,7 @@ failed	VVN	fail-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:3&collection=eptic3">
+<s id="2389:3">
 The	DT	the-x
 Lisbon	NP	Lisbon-n
 Process	NP	Process-n
@@ -25048,7 +25046,7 @@ miserably	RB	miserably-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:4&collection=eptic3">
+<s id="2389:4">
 We	PP	we-d
 do	VVP	do-v
 not	RB	not-a
@@ -25066,7 +25064,7 @@ here	RB	here-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:5&collection=eptic3">
+<s id="2389:5">
 We	PP	we-d
 need	VVP	need-v
 to	TO	to-x
@@ -25085,7 +25083,7 @@ here	RB	here-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:6&collection=eptic3">
+<s id="2389:6">
 We	PP	we-d
 asked	VVD	ask-v
 the	DT	the-x
@@ -25131,7 +25129,7 @@ area	NN	area-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:7&collection=eptic3">
+<s id="2389:7">
 When	WRB	when-x
 the	DT	the-x
 Soviet	NP	Soviet-n
@@ -25186,7 +25184,7 @@ Europe	NP	Europe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:8&collection=eptic3">
+<s id="2389:8">
 Regarding	VVG	regard-v
 the	DT	the-x
 Mediterranean	NP	Mediterranean-n
@@ -25201,7 +25199,7 @@ say	VV	say-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:9&collection=eptic3">
+<s id="2389:9">
 Instead	RB	instead-a
 <g/>
 ,	,	,-x
@@ -25228,7 +25226,7 @@ answers	NNS	answer-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2389:10&collection=eptic3">
+<s id="2389:10">
 We	PP	we-d
 shall	MD	shall-x
 appreciate	VV	appreciate-v
@@ -25249,7 +25247,7 @@ there	RB	there-a
 <speaker name="Borghezio Mario" gender="M" country="Italy" politfunc="MEP" politgroup="EFD">
 <st language="it" length="short" lengthw="176" duration="short" durations="118.0" speed="slow" speedwm="89.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2393:1&collection=eptic3">
+<s id="2393:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -25309,7 +25307,7 @@ sooner	RBR	sooner-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:2&collection=eptic3">
+<s id="2393:2">
 In	IN	in-i
 fact	NN	fact-n
 <g/>
@@ -25356,7 +25354,7 @@ this	DT	this-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:3&collection=eptic3">
+<s id="2393:3">
 We	PP	we-d
 want	VVP	want-v
 to	TO	to-x
@@ -25385,7 +25383,7 @@ countries	NNS	country-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:4&collection=eptic3">
+<s id="2393:4">
 It	PP	it-d
 is	VBZ	be-v
 not	RB	not-a
@@ -25424,7 +25422,7 @@ countries	NNS	country-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:5&collection=eptic3">
+<s id="2393:5">
 That	DT	that-x
 is	VBZ	be-v
 a	DT	a-x
@@ -25459,7 +25457,7 @@ sent	VVN	send-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:6&collection=eptic3">
+<s id="2393:6">
 There	EX	there-x
 is	VBZ	be-v
 a	DT	a-x
@@ -25505,7 +25503,7 @@ past	NN	past-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2393:7&collection=eptic3">
+<s id="2393:7">
 The	DT	the-x
 situation	NN	situation-n
 is	VBZ	be-v
@@ -25548,7 +25546,7 @@ Lampedusa	NP	Lampedusa-n
 <speaker name="Crocetta Rosario" gender="M" country="Italy" politfunc="MEP" politgroup="S&D">
 <st language="it" length="short" lengthw="148" duration="short" durations="98.0" speed="slow" speedwm="90.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2397:1&collection=eptic3">
+<s id="2397:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -25578,7 +25576,7 @@ Tunisia	NP	Tunisia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2397:2&collection=eptic3">
+<s id="2397:2">
 To	TO	to-x
 be	VB	be-v
 sincere	JJ	sincere-j
@@ -25621,7 +25619,7 @@ rights	NNS	right-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2397:3&collection=eptic3">
+<s id="2397:3">
 Instead	RB	instead-a
 <g/>
 ,	,	,-x
@@ -25662,7 +25660,7 @@ people	NNS	people-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2397:4&collection=eptic3">
+<s id="2397:4">
 Of	IN	of-i
 course	NN	course-n
 <g/>
@@ -25705,7 +25703,7 @@ away	RB	away-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2397:5&collection=eptic3">
+<s id="2397:5">
 We	PP	we-d
 have	VHP	have-v
 to	TO	to-x
@@ -25772,7 +25770,7 @@ them	PP	them-d
 <g/>
 .	SENT	.-x
 </s>
-<s id="2397:6&collection=eptic3">
+<s id="2397:6">
 Granting	VVG	grant-v
 more	JJR	more-j
 visas	NNS	visa-n
@@ -25800,7 +25798,7 @@ countries	NNS	country-n
 <speaker name="Rinaldi Niccolò" gender="M" country="Italy" politfunc="MEP" politgroup="ALDE">
 <st language="it" length="short" lengthw="140" duration="short" durations="105.0" speed="slow" speedwm="80.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2401:1&collection=eptic3">
+<s id="2401:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -25824,7 +25822,7 @@ Italy	NP	Italy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:2&collection=eptic3">
+<s id="2401:2">
 Sometimes	RB	sometimes-a
 <g/>
 ,	,	,-x
@@ -25854,7 +25852,7 @@ government	NN	government-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:3&collection=eptic3">
+<s id="2401:3">
 It	PP	it-d
 seems	VVZ	seem-v
 that	IN/that	that-i
@@ -25892,7 +25890,7 @@ country	NN	country-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:4&collection=eptic3">
+<s id="2401:4">
 We	PP	we-d
 disapprove	VVP	disapprove-v
 of	IN	of-i
@@ -25920,7 +25918,7 @@ one	CD	one-m
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:5&collection=eptic3">
+<s id="2401:5">
 Behaviour	NN	behaviour-n
 of	IN	of-i
 this	DT	this-x
@@ -25935,7 +25933,7 @@ end	NN	end-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:6&collection=eptic3">
+<s id="2401:6">
 In	IN	in-i
 addition	NN	addition-n
 <g/>
@@ -25984,7 +25982,7 @@ modernisation	NN	modernisation-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2401:7&collection=eptic3">
+<s id="2401:7">
 If	IN	if-i
 our	PPZ	our-d
 representatives	NNS	representative-n
@@ -26026,7 +26024,7 @@ watch	NN	watch-n
 <speaker name="Scurria Marco" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="216" duration="medium" durations="149.0" speed="slow" speedwm="87.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2405:1&collection=eptic3">
+<s id="2405:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -26075,7 +26073,7 @@ about	RB	about-a
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:2&collection=eptic3">
+<s id="2405:2">
 We	PP	we-d
 would	MD	would-x
 not	RB	not-a
@@ -26170,7 +26168,7 @@ Union	NP	Union-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:3&collection=eptic3">
+<s id="2405:3">
 Yet	CC	yet-c
 they	PP	they-d
 resolved	VVD	resolve-v
@@ -26205,7 +26203,7 @@ place	NN	place-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:4&collection=eptic3">
+<s id="2405:4">
 Resolutions	NNS	resolution-n
 have	VHP	have-v
 been	VBN	be-v
@@ -26223,7 +26221,7 @@ tomorrow	NN	tomorrow-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:5&collection=eptic3">
+<s id="2405:5">
 More	JJR	more-j
 caution	NN	caution-n
 probably	RB	probably-a
@@ -26283,7 +26281,7 @@ consensus	NN	consensus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:6&collection=eptic3">
+<s id="2405:6">
 Personally	RB	personally-a
 I	PP	I-d
 think	VVP	think-v
@@ -26343,7 +26341,7 @@ citizens	NNS	citizen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2405:7&collection=eptic3">
+<s id="2405:7">
 I	PP	I-d
 am	VBP	be-v
 of	IN	of-i
@@ -26366,7 +26364,7 @@ work	NN	work-n
 <speaker name="Mauro Mario" gender="M" country="Italy" politfunc="MEP" politgroup="PPE">
 <st language="it" length="short" lengthw="124" duration="short" durations="85.0" speed="slow" speedwm="87.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2409:1&collection=eptic3">
+<s id="2409:1">
 Mr	NP	Mr-n
 President	NP	President-n
 <g/>
@@ -26424,7 +26422,7 @@ Parliament	NP	Parliament-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="2409:2&collection=eptic3">
+<s id="2409:2">
 In	IN	in-i
 other	JJ	other-j
 words	NNS	word-n
@@ -26480,7 +26478,7 @@ showed	VVD	show-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="2409:3&collection=eptic3">
+<s id="2409:3">
 I	PP	I-d
 therefore	RB	therefore-a
 call	VVP	call-v

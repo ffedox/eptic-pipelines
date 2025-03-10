@@ -178,8 +178,6 @@ habe	VFIN.Aux.1.Sg.Pres.Ind	haben-v
 keine	PRO.Indef.Attr.Acc.Sg.Fem	keine-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Sympathie	N.Reg.Nom.Sg.Fem	Sympathie-n
 für	APPR	für-i
 politische	ADJA.Pos.Acc.Sg.Fem	politisch-j
@@ -1972,8 +1970,6 @@ falls	CONJ.SubFin	falls-c
 die	PRO.Dem.Subst.Nom.Sg.Fem	die-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Ziele	N.Reg.Nom.Pl.Neut	Ziel-n
 der	ART.Def.Gen.Sg.Fem	die-x
 Europäische	ADJA.Pos.Nom.Sg.Fem	europäisch-j
@@ -2454,8 +2450,6 @@ Anwendung	N.Reg.Acc.Sg.Fem	Anwendung-n
 finden	VINF.Full	finden-v
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
@@ -2741,8 +2735,6 @@ der	ART.Def.Dat.Sg.Fem	die-x
 EU	N.Name.Dat.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sollten	VFIN.Mod.1.Pl.Past.Subj	sollen-v
 nie	ADV	nie-a
@@ -3100,8 +3092,6 @@ für	APPR	für-i
 die	ART.Def.Acc.Sg.Fem	die-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Wanderarbeitnehmer	FPAUSE	ehm
 unter	APPR	unter-i
 die	ART.Def.Acc.Sg.Fem	die-x
@@ -3200,7 +3190,6 @@ zu	PART.Zu	zu-x
 schaffen	VINF.Full	schaffen-v
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
 </interpreter>
 </st>
 </speaker>
@@ -3331,8 +3320,6 @@ der	ART.Def.Dat.Sg.Fem	die-x
 EU	N.Name.Dat.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Rechtsetzung	N.Reg.Nom.Sg.Fem	Rechtsetzung-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -4817,8 +4804,6 @@ der	ART.Def.Gen.Sg.Fem	die-x
 EU	N.Name.Gen.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Im	APPRART.Dat.Sg.Masc	in-i
 Klartext	N.Reg.Dat.Sg.Masc	Klartext-n
 die	ART.Def.Nom.Pl.Fem	die-x
@@ -5390,8 +5375,6 @@ s	PRO.Pers.Subst.3.Nom.Sg.Neut	s-p
 gesagt	VPP.Full.Psp	sagen-v
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Zusatzverdienst	N.Reg.Nom.Sg.Neut	Zusatzverdienst-n
 <g/>
 ?	SYM.Pun.Sent	?-x
@@ -5663,8 +5646,6 @@ die	ART.Def.Acc.Sg.Fem	die-x
 EU	N.Name.Acc.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Das	PRO.Dem.Subst.Acc.Sg.Neut	die-p
 werden	VFIN.Aux.1.Pl.Pres.Ind	werden-v
 wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
@@ -5744,8 +5725,6 @@ nicht	PART.Neg	nicht-x
 unbedingt	ADJD.Pos	unbedingt-j
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Fälle	N.Reg.Nom.Pl.Masc	Fall-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -5804,8 +5783,6 @@ Präsidentin	N.Reg.Nom.Sg.Fem	Präsidentin-n
 Fra-	DYSF	Fra-
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Kommissar	N.Reg.Nom.Sg.Masc	Kommissar-n
 <g/>
 ,	SYM.Pun.Comma	,-x
@@ -5851,8 +5828,6 @@ in	APPR	in-i
 unserem	PRO.Poss.Attr.Dat.Sg.Neut	unsre-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Rechtsetzungssystem	N.Reg.Nom.Sg.Neut	Rechtsetzungssystem-n
 festgestellt	VPP.Full.Psp	feststellen-v
 <g/>
@@ -6822,8 +6797,6 @@ geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Holz	N.Reg.Nom.Sg.Neut	Holz-n
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 nicht	PART.Neg	nicht-x
@@ -7103,8 +7076,6 @@ der	ART.Def.Gen.Sg.Fem	die-x
 W-	DYSF	W-
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Afrikas	N.Name.Gen.Sg.Neut	Afrika-n
 jetzt	ADV	jetzt-a
 durch	APPR	durch-i
@@ -7522,8 +7493,6 @@ der	ART.Def.Gen.Sg.Fem	die-x
 dortigen	ADJA.Pos.Gen.Sg.Fem	dortig-j
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Holzhändler	N.Reg.Acc.Pl.Masc	Holzhändler-n
 zu	PART.Zu	zu-x
 ermöglichen	VINF.Full	ermöglichen-v
@@ -9902,8 +9871,6 @@ Also	PART.Ans	Also-x
 die	PRO.Rel.Subst.Nom.Sg.Fem	die-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Risiken	N.Reg.Nom.Pl.Neut	Risiko-n
 mit	APPR	mit-i
 diesem	PRO.Dem.Attr.Dat.Sg.Neut	diese-p
@@ -13026,8 +12993,6 @@ Abkommen	N.Reg.Dat.Sg.Neut	Abkommen-n
 zuzustimmen	VINF.Full.zu	zustimmen-v
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
@@ -13106,8 +13071,6 @@ können	VFIN.Mod.3.Pl.Pres.Ind	können-v
 und	CONJ.Coord	und-c
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Martin	N.Name.Nom.Sg.Masc	Martin-n
 Dihm	N.Name.Dat.Sg.Masc	Dihm-n
 möchten	VFIN.Mod.1.Pl.Past.Subj	mögen-v
@@ -13164,8 +13127,6 @@ EU-Pazifik	N.Name.Nom.Sg.Neut	EU-Pazifik-n
 Die	PRO.Dem.Subst.Nom.Pl.*	die-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Position	N.Reg.Nom.Sg.Fem	Position-n
 des	ART.Def.Gen.Sg.Neut	die-x
 Parlamentes	N.Reg.Gen.Sg.Neut	Parlament-n
@@ -13194,13 +13155,8 @@ hinterfragen	VINF.Full	hinterfragen-v
 Herr	N.Reg.Nom.Sg.Masc	Herr-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Pribaz	N.Name.Nom.Sg.Neut	Pribaz-n
-<g/>
 ...	EPAUSE	...-x
-</s>
-
 Frau	N.Reg.Nom.Sg.Fem	Frau-n
 Pribaz	N.Name.Nom.Sg.Neut	Pribaz-n
 war	VFIN.Aux.3.Sg.Past.Ind	sein-v
@@ -13677,8 +13633,6 @@ for	N.Name.*.*.*	for-n
 H-	DYSF	H-
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Trade	N.Name.*.*.*	Trade-n
 Strategie	N.Reg.Nom.Sg.Fem	Strategie-n
 hier	ADV	hier-a
@@ -16645,8 +16599,6 @@ ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Wir	PRO.Pers.Subst.1.Nom.Pl.*	sie-p
 sind	VFIN.Aux.1.Pl.Pres.Ind	sein-v
 davon	PROADV.Dem	davon-x
@@ -17024,8 +16976,6 @@ Kindes	N.Reg.Gen.Sg.Neut	Kind-n
 zum	APPRART.Dat.Sg.Masc	zu-i
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
 geht	VFIN.Full.3.Sg.Pres.Ind	gehen-v
 um	APPR	um-i
@@ -18614,8 +18564,6 @@ tätig	ADJD.Pos	tätig-j
 wird	VFIN.Aux.3.Sg.Pres.Ind	werden-v
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
@@ -21510,8 +21458,6 @@ der	ART.Def.Dat.Sg.Fem	die-x
 EU	N.Name.Dat.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 ist	VFIN.Aux.3.Sg.Pres.Ind	sein-v
 ein	ART.Indef.Nom.Sg.Masc	eine-x
@@ -21629,8 +21575,6 @@ der	ART.Def.Gen.Sg.Fem	die-x
 EU	N.Name.Gen.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Das	PRO.Dem.Subst.Nom.Sg.Neut	die-p
 heißt	VFIN.Full.3.Sg.Pres.Ind	heißen-v
 <g/>
@@ -21738,8 +21682,6 @@ der	ART.Def.Dat.Sg.Fem	die-x
 EU	N.Name.Dat.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Früher	ADJD.Comp	früh-j
 gab	VFIN.Full.3.Sg.Past.Ind	geben-v
 es	PRO.Pers.Subst.3.Nom.Sg.Neut	sie-p
@@ -22525,8 +22467,6 @@ westlichen	ADJA.Pos.Dat.Sg.Masc	westlich-j
 Balkan	N.Name.Dat.Sg.Masc	Balkan-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
@@ -22990,8 +22930,6 @@ nach	APPR	nach-i
 Den	N.Name.*.*.*	Den-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Den	N.Name.*.*.*	Den-n
 Haag	N.Name.Nom.Sg.Neut	Haag-n
 gebracht	VPP.Full.Psp	bringen-v
@@ -23165,8 +23103,6 @@ und	CONJ.Coord	und-c
 UN	N.Name.Dat.Sg.Fem	UN-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Vielen	PRO.Indef.Attr.Acc.Sg.Masc	viele-p
 Dank	N.Reg.Acc.Sg.Masc	Dank-n
 <g/>
@@ -23214,8 +23150,6 @@ die	ART.Def.Acc.Sg.Fem	die-x
 EU	N.Name.Acc.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Zwei	CARD	zwei-m
 Bemerkungen	N.Reg.Nom.Pl.Fem	Bemerkung-n
 von	APPR	von-i
@@ -23856,8 +23790,6 @@ werden	VINF.Aux	werden-v
 Danke	PART.Ans	Danke-x
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Ich	PRO.Pers.Subst.1.Nom.Sg.*	sie-p
 freue	VFIN.Full.1.Sg.Pres.Ind	freuen-v
 mich	PRO.Refl.Subst.1.Acc.Sg.*	sie-p
@@ -24002,8 +23934,6 @@ die	ART.Def.Acc.Sg.Fem	die-x
 EU	N.Name.Acc.Sg.Fem	EU-n
 <g/>
 .	SYM.Pun.Sent	.-x
-</s>
-
 Serbien	N.Name.Nom.Sg.Neut	Serbien-n
 muss	VFIN.Mod.3.Sg.Pres.Ind	müssen-v
 eine	ART.Indef.Acc.Sg.Fem	eine-x

@@ -30313,7 +30313,6 @@ the	DT	the-x
 EU	NP	EU-n
 <g/>
 .	SENT	.-x
-</s>
 
 Shame	NN	shame-n
 on	IN	on-i
@@ -30654,13 +30653,9 @@ for	IN	for-i
 power	NN	power-n
 <g/>
 .	SENT	.-x
-</s>
-
 Awesome	JJ	awesome-j
 <g/>
 .	SENT	.-x
-</s>
-
 Inexorable	JJ	inexorable-j
 <g/>
 .	SENT	.-x
@@ -31912,8 +31907,6 @@ the	DT	the-x
 EU	NP	EU-n
 <g/>
 .	SENT	.-x
-</s>
-
 We	PP	we-d
 should	MD	should-x
 be	VB	be-v
@@ -36065,8 +36058,6 @@ European-wide	JJ	European-wide-j
 way	NN	way-n
 <g/>
 .	SENT	.-x
-</s>
-
 Why	WRB	why-x
 <g/>
 ?	SENT	?-x
@@ -50858,8 +50849,6 @@ friend	NN	friend-n
 .	SENT	.-x
 <g/>
 "	''	"-x
-</s>
-
 Today	NN	today-n
 he	PP	he-d
 calls	VVZ	call-v

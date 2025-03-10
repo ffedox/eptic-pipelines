@@ -471,8 +471,6 @@ energy	NN	energy-n
 efficiency	NN	efficiency-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 If	IN	if-i
 we	PP	we-d
 could	MD	could-x
@@ -562,8 +560,6 @@ pointed	VVD	point-v
 out	RP	out-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 If	IN	if-i
 there	EX	there-x
 are	VBP	be-v
@@ -1163,8 +1159,6 @@ into	IN	into-i
 hiding	NN	hiding-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 So	RB	so-a
 this	DT	this-x
 ehm	FPAUSE	ehm
@@ -1746,8 +1740,6 @@ it	PP	it-d
 were	VBD	be-v
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 And	CC	and-c
 of	IN	of-i
 course	NN	course-n
@@ -1840,8 +1832,6 @@ out	RP	out-x
 of	IN	of-i
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 We	PP	we-d
 do	VVP	do-v
 <g/>
@@ -1908,8 +1898,6 @@ growing	VVG	grow-v
 inequality	NN	inequality-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 And	CC	and-c
 there	EX	there-x
 is	VBZ	be-v
@@ -2594,8 +2582,6 @@ more	JJR	more-j
 funding	NN	funding-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 For	IN	for-i
 the	DT	the-x
 Member	NP	Member-n
@@ -2614,8 +2600,6 @@ migratory	JJ	migratory-j
 flows	NNS	flow-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 And	CC	and-c
 that	WDT	that-x
 will	MD	will-x
@@ -3192,8 +3176,6 @@ these	DT	these-x
 peoples	NNS	people-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 But	CC	but-c
 ehm	FPAUSE	ehm
 we	PP	we-d
@@ -3318,13 +3300,9 @@ ehm	FPAUSE	ehm
 process	NN	process-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Now	RB	now-a
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 You	PP	you-d
 know	VVP	know-v
 you	PP	you-d
@@ -3471,8 +3449,6 @@ But	CC	but-c
 I	PP	I-d
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 I	PP	I-d
 <g/>
 'm	VBP	be-v
@@ -3625,8 +3601,6 @@ and	CC	and-c
 racism	NN	racism-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 And	CC	and-c
 as	RB	as-a
 you	PP	you-d
@@ -4724,8 +4698,6 @@ yes	UH	yes-x
 maybe	RB	maybe-a
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 '	''	'-x
 </s>
 <s id="1184:35" video="https://media.dipintra.it/?id=1184&start=03.59&end=04.08&collection=eptic3">

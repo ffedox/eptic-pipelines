@@ -20643,8 +20643,6 @@ question	NN	question-n
 that	WDT	that-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 '	''	'-x
 <g/>
 cause	VV	cause-v

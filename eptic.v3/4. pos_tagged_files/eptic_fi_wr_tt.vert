@@ -2,7 +2,7 @@
 <speaker name="Tavares Rui" gender="M" country="Portugal" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="199" duration="short" durations="78.0" speed="medium" speedwm="153.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1046:1&collection=eptic3">
+<s id="1046:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -28,7 +28,7 @@ Italiaan	N_Prop_Ill_Sg	Italia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:2&collection=eptic3">
+<s id="1046:2">
 Ymmärrän	V_Prs_Act_Sg1	ymmärtää-v
 heidän	Pron_Pers_Gen_Pl	he-p
 vaikuttimensa	N_Gen_Sg	vaikuttimensa-n
@@ -48,7 +48,7 @@ ihmisoikeustapauksesta	N_Ela_Sg	ihmisoikeustapauksesta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:3&collection=eptic3">
+<s id="1046:3">
 Kyse	N_Nom_Sg	kyse-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -63,7 +63,7 @@ tapauksesta	N_Ela_Sg	tapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:4&collection=eptic3">
+<s id="1046:4">
 Lisäksi	Adv	lisäksi-r
 tämä	Pron_Dem_Nom_Sg	tämä-p
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -81,7 +81,7 @@ luonnonkatastrofi	N_Nom_Sg	luontokatastrofi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:5&collection=eptic3">
+<s id="1046:5">
 Cesare	NON-TWOL	Cesare-x
 Battisti	NON-TWOL	Battisti-x
 on	V_Prs_Act_Sg3	olla-v
@@ -89,7 +89,7 @@ vankilassa	N_Ine_Sg	vankila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:6&collection=eptic3">
+<s id="1046:6">
 Hän	Pron_Pers_Nom_Sg	hän-p
 odottaa	V_Prs_Act_Sg3	odottaa-v
 Brasilian	N_Prop_Gen_Sg	Brasilia-n
@@ -113,7 +113,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:7&collection=eptic3">
+<s id="1046:7">
 Ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
 syytä	N_Par_Sg	syy-n
@@ -127,7 +127,7 @@ riippumattomasti	Adv	riippumattomasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:8&collection=eptic3">
+<s id="1046:8">
 Ilmaisin	N_Nom_Sg	Ilmainen-n
 myötätuntoni	N_Gen_Sg	myötätunto-n
 uhrien	N_Gen_Pl	uhri-n
@@ -174,7 +174,7 @@ vuoteeseensa	N_Ill_Sg	vuoteeseensa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1046:9&collection=eptic3">
+<s id="1046:9">
 Aikooko	V_Prs_Act_Sg3	aikoa-v
 parlamentti	N_Nom_Sg	parlamentti-n
 palkita	V_Inf1_Lat	palkita-v
@@ -206,7 +206,7 @@ varten	Adp_Po	varten-x
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1046:10&collection=eptic3">
+<s id="1046:10">
 Pyydän	V_Prs_Act_Sg1	pyytää-v
 teitä	Pron_Pers_Par_Pl	te-p
 poistamaan	V_Inf3_Ill	poistaa-v
@@ -226,7 +226,7 @@ asioista	N_Ela_Pl	asia-n
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="663" duration="long" durations="398.0" speed="slow" speedwm="99.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="931:1&collection=eptic3">
+<s id="931:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -241,7 +241,7 @@ nykyhistoriassa	N_Ine_Sg	nykyhistoria-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:2&collection=eptic3">
+<s id="931:2">
 Yliopistotutkinnon	N_Gen_Sg	yliopistotutkinto-n
 suorittanut	PrfPrc_Act_Nom_Sg	suorittaa-x
 nuori	N_Nom_Sg	nuori-n
@@ -274,7 +274,7 @@ itsensä	Pron_Refl_Gen_Sg	itse-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:3&collection=eptic3">
+<s id="931:3">
 Alle	Adv	alle-r
 kuukautta	N_Par_Sg	kuukausi-n
 myöhemmin	Adv	myöhemmin-r
@@ -292,7 +292,7 @@ lähtöön	N_Ill_Sg	lähtö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:4&collection=eptic3">
+<s id="931:4">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unioni	N_Nom_Sg	unioni-n
 on	V_Prs_Act_Sg3	olla-v
@@ -305,7 +305,7 @@ päivinä	N_Ess_Pl	päivä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:5&collection=eptic3">
+<s id="931:5">
 Myös	Adv	myös-r
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -316,7 +316,7 @@ epävarma	A_Nom_Sg	epävarma-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:6&collection=eptic3">
+<s id="931:6">
 Ryöstelystä	N_Ela_Sg	ryöstely-n
 ja	CC	ja-x
 väkivallasta	N_Ela_Sg	väkivalta-n
@@ -326,7 +326,7 @@ ilmoituksia	N_Par_Pl	ilmoitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:7&collection=eptic3">
+<s id="931:7">
 Tunisia	N_Prop_Nom_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
 edelleen	Adv	edelleen-r
@@ -348,7 +348,7 @@ muodostamisesta	N_Ela_Sg	muodostaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:8&collection=eptic3">
+<s id="931:8">
 Vaikka	CS	vaikka-x
 epävarmuuttakin	N_Nom_Sg	epävarmuuttakin-n
 on	V_Prs_Act_Sg3	olla-v
@@ -379,7 +379,7 @@ vapauksia	N_Par_Pl	vapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:9&collection=eptic3">
+<s id="931:9">
 Se	Pron_Dem_Nom_Sg	se-p
 tahtoo	V_Prs_Act_Sg3	tahtoa-v
 olla	V_Inf1_Lat	olla-v
@@ -394,7 +394,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:10&collection=eptic3">
+<s id="931:10">
 Ihmiset	N_Nom_Pl	ihminen-n
 haluavat	V_Prs_Act_Pl3	haluta-v
 kääntää	V_Inf1_Lat	kääntää-v
@@ -410,7 +410,7 @@ pyrkimyksessä	N_Ine_Sg	pyrkimys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:11&collection=eptic3">
+<s id="931:11">
 Perustuslain	N_Gen_Sg	perustuslaki-n
 kunnioittaminen	N_Nom_Sg	kunnioittaminen-n
 ja	CC	ja-x
@@ -427,7 +427,7 @@ suuntaan	N_Ill_Sg	suunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:12&collection=eptic3">
+<s id="931:12">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 tietysti	Adv	tietysti-r
@@ -436,7 +436,7 @@ alkua	N_Par_Sg	alku-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:13&collection=eptic3">
+<s id="931:13">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unioni	N_Nom_Sg	unioni-n
 on	V_Prs_Act_Sg3	olla-v
@@ -453,7 +453,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:14&collection=eptic3">
+<s id="931:14">
 Siitä	Pron_Dem_Ela_Sg	se-p
 lähtien	V_Inf2_Act_Ins	lähteä-v
 kun	CS	kun-x
@@ -496,7 +496,7 @@ luettuina	PrfPrc_Pass_Ess_Pl	lukea-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:15&collection=eptic3">
+<s id="931:15">
 Olen	V_Prs_Act_Sg1	Ole-v
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 komission	N_Gen_Sg	komissio-n
@@ -521,7 +521,7 @@ mukaisesti	Adp_Po	mukaisesti-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:16&collection=eptic3">
+<s id="931:16">
 Aivan	Adv	aivan-r
 ensimmäisissä	Num_Ord_Ine_Pl	ensimmäinen-m
 statut	N_Gen_Sg	statut-n
@@ -554,7 +554,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:17&collection=eptic3">
+<s id="931:17">
 Ja	CC	ja-x
 vaikka	CS	vaikka-x
 puolin	N_Ins_Pl	puola-n
@@ -592,7 +592,7 @@ kaduilta	N_Abl_Pl	katu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:18&collection=eptic3">
+<s id="931:18">
 Mistä	Pron_Rel_Ela	Mi-p
 muusta	Pron_Qnt_Ela_Sg	muu-p
 on	V_Prs_Act_Sg3	olla-v
@@ -609,7 +609,7 @@ kaipuusta	N_Ela_Sg	kaipuu-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="931:19&collection=eptic3">
+<s id="931:19">
 Kuten	Adv	kuten-r
 kerroin	N_Nom_Sg	kerroin-n
 Catherine	N_Prop_Nom_Sg	Catherine-n
@@ -634,7 +634,7 @@ takeineen	N_Com	tae-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:20&collection=eptic3">
+<s id="931:20">
 Toivomme	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -660,7 +660,7 @@ työnsä	N_Gen_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:21&collection=eptic3">
+<s id="931:21">
 Olemme	V_Prs_Act_Pl1	Ole-v
 valmiita	A_Par_Pl	valmis-j
 antamaan	V_Inf3_Ill	antaa-v
@@ -679,7 +679,7 @@ demokratiaan	N_Ill_Sg	demokratia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:22&collection=eptic3">
+<s id="931:22">
 Lisäksi	Adv	lisäksi-r
 pyrimme	V_Prs_Act_Pl1	pyrkiä-v
 saamaan	AgPcp_Ill_Sg	saada-x
@@ -719,7 +719,7 @@ lujittamista	N_Par_Sg	lujittaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:23&collection=eptic3">
+<s id="931:23">
 Kuulemme	V_Prs_Act_Pl1	kuulla-v
 tietysti	Adv	tietysti-r
 jatkossakin	N_Ine_Sg	jatko-n
@@ -733,7 +733,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:24&collection=eptic3">
+<s id="931:24">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 naapuruuspolitiikka	N_Nom_Sg	naapuruuspolitiikka-n
 perustuu	V_Prs_Act_Sg3	perustua-v
@@ -768,7 +768,7 @@ alue	N_Nom_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:25&collection=eptic3">
+<s id="931:25">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 aina	Adv	aina-r
@@ -788,7 +788,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:26&collection=eptic3">
+<s id="931:26">
 Tunisialla	N_A_Propde_Sg	Tunisia-n
 <g/>
 ,	Punct	,-x
@@ -861,7 +861,7 @@ mukaista	A_Par_Sg	mukainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:27&collection=eptic3">
+<s id="931:27">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
@@ -880,7 +880,7 @@ välillä	Adp_Po	välillä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:28&collection=eptic3">
+<s id="931:28">
 Sekä	CC	sekä-x
 minun	Pron_Pers_Gen_Sg	minä-p
 että	CS	että-x
@@ -922,7 +922,7 @@ pohjalta	Adp_Po	pohjalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="931:29&collection=eptic3">
+<s id="931:29">
 Teemme	V_Prs_Act_Pl1	tehdä-v
 kaikkemme	Pron_Qnt_Gen_Sg	kaikki-p
 auttaaksemme	V_Inf1_Tra_PxPl1	auttaa-v
@@ -941,7 +941,7 @@ totta	A_Par_Sg	tosi-j
 <speaker name="Schaake Marietje" gender="F" country="Netherlands" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="359" duration="medium" durations="159.0" speed="medium" speedwm="135.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1053:1&collection=eptic3">
+<s id="1053:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -984,7 +984,7 @@ vaalit	N_Nom_Pl	vaali-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:2&collection=eptic3">
+<s id="1053:2">
 Kansalaiset	N_Nom_Pl	kansalainen-n
 ovat	V_Prs_Act_Pl3	olla-v
 nousseet	PrfPrc_Act_Nom_Pl	nousta-x
@@ -1002,7 +1002,7 @@ nuoria	N_Par_Pl	nuora-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:3&collection=eptic3">
+<s id="1053:3">
 Ainoastaan	Adv	Ainoa-r
 heikot	A_Nom_Pl	heikko-j
 hallitukset	N_Nom_Pl	hallitus-n
@@ -1019,7 +1019,7 @@ vaurauden	N_Gen_Sg	vauraus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:4&collection=eptic3">
+<s id="1053:4">
 Hallintojärjestelmät	N_Nom_Pl	hallintojärjestelmä-n
 saavat	V_Prs_Act_Pl3	saada-v
 oikeutuksensa	N_Gen_Sg	oikeutus-n
@@ -1045,7 +1045,7 @@ estämisestä	N_Ela_Sg	estäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:5&collection=eptic3">
+<s id="1053:5">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 tiedonsaantiin	N_Ill_Sg	tietosaanti-n
@@ -1071,7 +1071,7 @@ maailmassa	N_Ine_Sg	maailma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:6&collection=eptic3">
+<s id="1053:6">
 Sain	V_PrfPrc_Act_Sg1	Saa-v
 itse	Pron_Refl_Nom_Sg	itse-p
 tietää	V_Inf1_Lat	tietää-v
@@ -1108,7 +1108,7 @@ kadulla	N_Ade_Sg	katu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:7&collection=eptic3">
+<s id="1053:7">
 Samalla	Pron_Qnt_Ade_Sg	sama-p
 viikolla	N_Ade_Sg	viikko-n
 –	Punct	–-x
@@ -1128,7 +1128,7 @@ muodossa	N_Ine_Sg	muoto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:8&collection=eptic3">
+<s id="1053:8">
 Miten	Adv	miten-r
 komissio	N_Nom_Sg	komissio-n
 suhtautuu	V_Prs_Act_Sg3	suhtautua-v
@@ -1147,7 +1147,7 @@ tukemiseksi	N_Tra_Sg	tukeminen-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1053:9&collection=eptic3">
+<s id="1053:9">
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 hallituksen	N_Gen_Sg	hallitus-n
 ja	CC	ja-x
@@ -1164,7 +1164,7 @@ kaduillakin	N_Ade_Pl	katu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:10&collection=eptic3">
+<s id="1053:10">
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 hallituksen	N_Gen_Sg	hallitus-n
 tiedettiin	V_PrfPrc_Pass_Pe4	tietää-v
@@ -1199,7 +1199,7 @@ avulla	N_Ade_Sg	avu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:11&collection=eptic3">
+<s id="1053:11">
 Sortohallinnot	N_Nom_Pl	sortohallinto-n
 kaikkialla	Adv	kaikkialla-r
 maailmassa	N_Ine_Sg	maailma-n
@@ -1213,7 +1213,7 @@ vapaasti	Adv	vapaasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:12&collection=eptic3">
+<s id="1053:12">
 Tänään	Adv	tänään-r
 on	V_Prs_Act_Sg3	olla-v
 Martin	N_Prop_Gen_Sg	Mart-n
@@ -1241,7 +1241,7 @@ petos	N_Nom_Sg	petos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:13&collection=eptic3">
+<s id="1053:13">
 Komission	N_Gen_Sg	komissio-n
 jäsen	N_Nom_Sg	jäsen-n
 Füle	N_Prop_Nom_Sg	Füle-n
@@ -1255,7 +1255,7 @@ tullut	PrfPrc_Act_Nom_Sg	tulla-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:14&collection=eptic3">
+<s id="1053:14">
 Yhdysvallat	N_Prop_Nom_Pl	Yhdysvalta-n
 on	V_Prs_Act_Sg3	olla-v
 menettänyt	PrfPrc_Act_Nom_Sg	menettää-x
@@ -1268,7 +1268,7 @@ puolustajana	N_Ess_Sg	puolustaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:15&collection=eptic3">
+<s id="1053:15">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -1291,7 +1291,7 @@ yhteydessä	N_Ine_Sg	yhteys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1053:16&collection=eptic3">
+<s id="1053:16">
 Nuori	A_Nom_Sg	nuori-j
 ja	CC	ja-x
 vapaudenhakuinen	A_Nom_Sg	vapaudenhakuinen-j
@@ -1345,7 +1345,7 @@ Internetissä	N_Prop_Ine_Sg	Internet-n
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="293" duration="medium" durations="123.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1059:1&collection=eptic3">
+<s id="1059:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -1368,7 +1368,7 @@ pysähtyneisyyteen	N_Ill_Sg	pysähtyneisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:2&collection=eptic3">
+<s id="1059:2">
 Hallitsevan	PrsPrc_Act_Gen_Sg	hallita-x
 eliitin	N_Gen_Sg	eliitti-n
 räikeä	A_Nom_Sg	räikeä-j
@@ -1389,7 +1389,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:3&collection=eptic3">
+<s id="1059:3">
 Entinen	A_Nom_Sg	entinen-j
 presidentti	N_Nom_Sg	presidentti-n
 Ben	N_Prop_Nom_Sg	Ben-n
@@ -1437,7 +1437,7 @@ sortohallituksista	N_Ela_Pl	sortohallitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:4&collection=eptic3">
+<s id="1059:4">
 Tunisia	N_Prop_Nom_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
 joiltakin	N_Abl_Pl	joki-n
@@ -1454,7 +1454,7 @@ arabivaltiosta	N_Ela_Sg	arabivaltiosta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:5&collection=eptic3">
+<s id="1059:5">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 moniavioisuus	N_Nom_Sg	moniavioisuus-n
 ja	CC	ja-x
@@ -1471,7 +1471,7 @@ tuettiin	V_PrfPrc_Pass_Pe4	tukea-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:6&collection=eptic3">
+<s id="1059:6">
 Tunisia	N_Prop_Nom_Sg	Tunisia-n
 on	V_Prs_Act_Sg3	olla-v
 onnistunut	PrfPrc_Act_Nom_Sg	onnistua-x
@@ -1486,7 +1486,7 @@ yhteiskuntaa	N_Par_Sg	yhteiskunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:7&collection=eptic3">
+<s id="1059:7">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 vuoksi	Adp_Po	vuoksi-x
 on	V_Prs_Act_Sg3	olla-v
@@ -1543,7 +1543,7 @@ luettuina	PrfPrc_Pass_Ess_Pl	lukea-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:8&collection=eptic3">
+<s id="1059:8">
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 uuden	A_Gen_Sg	uusi-j
 poliittisen	A_Gen_Sg	poliittinen-j
@@ -1568,7 +1568,7 @@ nousemiselle	N_All_Sg	nousemiselle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:9&collection=eptic3">
+<s id="1059:9">
 On	V_Prs_Act_Sg3	olla-v
 rohkaisevaa	PrsPrc_Act_Par_Sg	rohkaista-x
 <g/>
@@ -1595,7 +1595,7 @@ unioniin	N_Ill_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:10&collection=eptic3">
+<s id="1059:10">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 välin	N_Gen_Sg	väli-n
 ryhmäni	N_Nom_Sg	ryhmä-n
@@ -1635,7 +1635,7 @@ epävakautta	N_Par_Sg	epävakaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:11&collection=eptic3">
+<s id="1059:11">
 Onnittelen	V_Prs_Act_Sg1	onnitella-v
 armeijaa	N_Par_Sg	armeija-n
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -1650,7 +1650,7 @@ instituutioita	N_Par_Pl	instituutio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1059:12&collection=eptic3">
+<s id="1059:12">
 Meidän	Pron_Pers_Gen_Pl	me-p
 EU	N_Nom_Sg	EU-n
 <g/>
@@ -1699,7 +1699,7 @@ luettuina	PrfPrc_Pass_Ess_Pl	lukea-x
 <speaker name="Batten Gerard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="211" duration="short" durations="95.0" speed="medium" speedwm="133.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1060:1&collection=eptic3">
+<s id="1060:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -1725,7 +1725,7 @@ kansaa	N_Par_Sg	kansa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:2&collection=eptic3">
+<s id="1060:2">
 Kukaan	Pron_Qnt_Nom_Sg	kukaan-p
 demokraatti	N_Nom_Sg	demokraatti-n
 ei	V_Neg_Sg3	ei-v
@@ -1736,7 +1736,7 @@ mieltä	N_Par_Sg	mieli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:3&collection=eptic3">
+<s id="1060:3">
 Ihmiset	N_Nom_Pl	ihminen-n
 sietävät	V_Prs_Act_Pl3	sietää-v
 paljon	Adv	paljon-r
@@ -1759,7 +1759,7 @@ kapinoivat	V_Prs_Act_Pl3	kapinoida-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:4&collection=eptic3">
+<s id="1060:4">
 Sisäisten	A_Gen_Pl	sisäinen-j
 turvallisuuspalveluiden	N_Gen_Pl	turvallisuuspalvelu-n
 oppi	N_Nom_Sg	oppi-n
@@ -1786,7 +1786,7 @@ loppuvat	V_Prs_Act_Pl3	loppua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:5&collection=eptic3">
+<s id="1060:5">
 Voidaanko	V_Prs_Pass_Pe4	voida-v
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 tapahtumien	N_Gen_Pl	tapahtuma-n
@@ -1800,7 +1800,7 @@ yhtäläisyyksiä	N_Par_Pl	yhtäläisyys-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1060:6&collection=eptic3">
+<s id="1060:6">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -1813,7 +1813,7 @@ epäpätevästi	PrsPrc_Act_Adv	epäpätevästi-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:7&collection=eptic3">
+<s id="1060:7">
 Sillä	Pron_Dem_Ade_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 poliittinen	A_Nom_Sg	poliittinen-j
@@ -1832,7 +1832,7 @@ toiveista	N_Ela_Pl	toive-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:8&collection=eptic3">
+<s id="1060:8">
 Monissa	Pron_Qnt_Ine_Pl	Mona-p
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 valtioissa	N_Ine_Pl	valtio-n
@@ -1854,7 +1854,7 @@ politiikoista	N_Ela_Pl	politiikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:9&collection=eptic3">
+<s id="1060:9">
 Kreikassa	N_Prop_Ine_Sg	Kreikka-n
 on	V_Prs_Act_Sg3	olla-v
 jo	Adv	jo-r
@@ -1876,7 +1876,7 @@ yhtenäisvaluuttaan	N_Ill_Sg	yhtenäisvaluutta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:10&collection=eptic3">
+<s id="1060:10">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 Espanja	N_Prop_Nom_Sg	Espanja-n
 <g/>
@@ -1900,7 +1900,7 @@ puristuksessa	N_Ine_Sg	puristus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:11&collection=eptic3">
+<s id="1060:11">
 Älkää	V_Neg_Imprt_Act_Pl2	ei-v
 uskoko	N_Nom_Sg	usko-n
 <g/>
@@ -1914,7 +1914,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:12&collection=eptic3">
+<s id="1060:12">
 Kun	CS	Kun-x
 hallituksista	N_Ela_Pl	hallitus-n
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -1931,7 +1931,7 @@ kapinaan	N_Ill_Sg	kapina-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1060:13&collection=eptic3">
+<s id="1060:13">
 Yhdyn	V_Prs_Act_Sg1	yhtyä-v
 siihen	Pron_Dem_Ill_Sg	se-p
 <g/>
@@ -1963,7 +1963,7 @@ valtioissa	N_Ine_Pl	valtio-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="703" duration="medium" durations="304.0" speed="medium" speedwm="138.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1048:1&collection=eptic3">
+<s id="1048:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -1990,7 +1990,7 @@ mietinnöstä	N_Ela_Sg	mietintö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:2&collection=eptic3">
+<s id="1048:2">
 Haluan	V_Prs_Act_Sg1	haluta-v
 aluksi	N_Tra_Sg	alku-n
 kiittää	V_Inf1_Lat	kiittää-v
@@ -2025,7 +2025,7 @@ totta	A_Par_Sg	tosi-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:3&collection=eptic3">
+<s id="1048:3">
 Haluan	V_Prs_Act_Sg1	haluta-v
 myös	Adv	myös-r
 esittää	V_Inf1_Lat	esittää-v
@@ -2054,7 +2054,7 @@ työstään	N_Ela_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:4&collection=eptic3">
+<s id="1048:4">
 Kuten	Adv	kuten-r
 sanoin	N_Ins_Pl	sana-n
 mietinnössäni	N_Ine_Sg	mietintö-n
@@ -2093,7 +2093,7 @@ kysymyksenä	N_Ess_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:5&collection=eptic3">
+<s id="1048:5">
 On	V_Prs_Act_Sg3	olla-v
 tärkeää	A_Par_Sg	tärkeä-j
 <g/>
@@ -2112,7 +2112,7 @@ esteitä	N_Par_Pl	este-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:6&collection=eptic3">
+<s id="1048:6">
 Kuten	Adv	kuten-r
 Mario	N_Prop_Nom_Sg	Mario-n
 Monti	N_Prop_Nom_Sg	monti-n
@@ -2151,7 +2151,7 @@ voittamista	N_Par_Sg	voittaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:7&collection=eptic3">
+<s id="1048:7">
 Olemme	V_Prs_Act_Pl1	Ole-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
 ehdotuksen	N_Gen_Sg	ehdotus-n
@@ -2189,7 +2189,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:8&collection=eptic3">
+<s id="1048:8">
 Rakennusteollisuus	N_Nom_Sg	rakennusteollisuus-n
 on	V_Prs_Act_Sg3	olla-v
 tätä	Pron_Dem_Par_Sg	tämä-p
@@ -2219,7 +2219,7 @@ elpyminen	N_Nom_Sg	elpyminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:9&collection=eptic3">
+<s id="1048:9">
 Meidän	Pron_Pers_Gen_Pl	me-p
 ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
@@ -2262,7 +2262,7 @@ varassa	N_Ine_Sg	vara-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:10&collection=eptic3">
+<s id="1048:10">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 talouskasvuun	N_Ill_Sg	talouskasvu-n
@@ -2278,7 +2278,7 @@ kannalta	N_Abl_Sg	kanta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:11&collection=eptic3">
+<s id="1048:11">
 Kyse	N_Nom_Sg	kyse-n
 on	V_Prs_Act_Sg3	olla-v
 myös	Adv	myös-r
@@ -2295,7 +2295,7 @@ joukossa	N_Ine_Sg	joukko-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:12&collection=eptic3">
+<s id="1048:12">
 Esimerkiksi	N_Tra_Sg	esimerkki-n
 Saksassa	N_Ine_Sg	Saksa-n
 <g/>
@@ -2318,7 +2318,7 @@ työtapaturmassa	N_Ine_Sg	työtapaturma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:13&collection=eptic3">
+<s id="1048:13">
 Rakennustyömaalla	N_Ade_Sg	rakennustyömaa-n
 työskentelevien	PrsPrc_Act_Gen_Pl	työskennellä-x
 terveys	N_Nom_Sg	terveys-n
@@ -2340,7 +2340,7 @@ esiin	Adv	esiin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:14&collection=eptic3">
+<s id="1048:14">
 Onnistuimmekin	V_PrfPrc_Act_Pl1	onnistua-v
 molemmin	Pron_Qnt_Ins_Pl	molemmat-p
 puolin	N_Ins_Pl	puola-n
@@ -2406,7 +2406,7 @@ keuhkosairauteen	N_Ill_Sg	keuhkosairaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:15&collection=eptic3">
+<s id="1048:15">
 Vaarallisten	A_Gen_Pl	vaarallinen-j
 aineiden	N_Gen_Pl	aine-n
 asianmukainen	A_Nom_Sg	asiamukainen-j
@@ -2437,7 +2437,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:16&collection=eptic3">
+<s id="1048:16">
 Olen	V_Prs_Act_Sg1	Ole-v
 ylpeä	A_Nom_Sg	ylpeä-j
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -2457,7 +2457,7 @@ kuluessa	Adp_Po	kuluessa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:17&collection=eptic3">
+<s id="1048:17">
 Keuhkojen	N_Gen_Pl	keuhko-n
 terveys	N_Nom_Sg	terveys-n
 lyödään	V_Prs_Pass_Pe4	lyödä-v
@@ -2481,7 +2481,7 @@ tärkeyden	N_Gen_Sg	tärkeys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:18&collection=eptic3">
+<s id="1048:18">
 Haluan	V_Prs_Act_Sg1	haluta-v
 myös	Adv	myös-r
 lyhyesti	Adv	lyhyesti-r
@@ -2490,7 +2490,7 @@ pk-yrityksiä	N_Par_Pl	pk-yrityksiä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:19&collection=eptic3">
+<s id="1048:19">
 Parlamentissa	N_Ine_Sg	parlamentti-n
 meitä	Pron_Pers_Par_Pl	me-p
 rohkaistaan	V_Prs_Pass_Pe4	rohkaista-v
@@ -2514,7 +2514,7 @@ työhömme	N_Ill_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:20&collection=eptic3">
+<s id="1048:20">
 Niinpä	Adv	ne-r
 olemme	V_Prs_Act_Pl1	olla-v
 onnistuneet	PrfPrc_Act_Nom_Pl	onnistua-x
@@ -2551,7 +2551,7 @@ kasvaa	V_Inf1_Lat	kasvaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:21&collection=eptic3">
+<s id="1048:21">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 erilliseen	A_Ill_Sg	erillinen-j
@@ -2595,7 +2595,7 @@ tarkoitus	N_Nom_Sg	tarkoitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:22&collection=eptic3">
+<s id="1048:22">
 Prosessien	N_Gen_Pl	prosessi-n
 läpinäkyvyys	PrsPrc_Act_Nom_Sg	läpinäkyvyys-x
 ja	CC	ja-x
@@ -2617,7 +2617,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:23&collection=eptic3">
+<s id="1048:23">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 auttaa	V_Inf1_Lat	auttaa-v
@@ -2644,7 +2644,7 @@ vallitessa	V_Inf2_Act_Ine	vallita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:24&collection=eptic3">
+<s id="1048:24">
 Meidän	Pron_Pers_Gen_Pl	me-p
 olisi	V_Cond_Act_Sg3	olla-v
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
@@ -2657,7 +2657,7 @@ sääntelyä	N_Par_Sg	sääntely-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:25&collection=eptic3">
+<s id="1048:25">
 Olen	V_Prs_Act_Sg1	Ole-v
 muuttanut	PrfPrc_Act_Nom_Sg	muuttaa-x
 yhdessä	Adv	yhdessä-r
@@ -2692,7 +2692,7 @@ soveltamista	N_Par_Sg	soveltaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:26&collection=eptic3">
+<s id="1048:26">
 Rakennusalan	N_Gen_Sg	rakennusala-n
 kaltaisella	A_Ade_Sg	kaltainen-j
 alalla	N_Ade_Sg	ala-n
@@ -2721,7 +2721,7 @@ aikaan	N_Ill_Sg	aika-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1048:27&collection=eptic3">
+<s id="1048:27">
 Kysymys	N_Nom_Sg	kysymys-n
 on	V_Prs_Act_Sg3	olla-v
 isosta	A_Ela_Sg	iso-j
@@ -2770,7 +2770,7 @@ työpaikkoja	N_Par_Pl	työpaikka-n
 <speaker name="McClarkin Emma" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="181" duration="short" durations="76.0" speed="medium" speedwm="142.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1050:1&collection=eptic3">
+<s id="1050:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -2785,7 +2785,7 @@ työstä	N_Ela_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:2&collection=eptic3">
+<s id="1050:2">
 Tie	N_Nom_Sg	Tie-n
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -2794,7 +2794,7 @@ pitkä	A_Nom_Sg	pitkä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:3&collection=eptic3">
+<s id="1050:3">
 Rakennusala	N_Nom_Sg	rakennusala-n
 työllistää	V_Prs_Act_Sg3	työllistää-v
 tänä	Pron_Dem_Ess_Sg	tämä-p
@@ -2812,7 +2812,7 @@ kansalaista	N_Par_Sg	kansalainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:4&collection=eptic3">
+<s id="1050:4">
 Lisäksi	Adv	lisäksi-r
 noin	Adv	noin-r
 92	Num_Nom_Sg	@card@-m
@@ -2832,7 +2832,7 @@ yritystä	N_Par_Sg	yritys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:5&collection=eptic3">
+<s id="1050:5">
 On	V_Prs_Act_Sg3	olla-v
 selvää	A_Par_Sg	selvä-j
 <g/>
@@ -2864,7 +2864,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:6&collection=eptic3">
+<s id="1050:6">
 Mietinnössä	N_Ine_Sg	mietintö-n
 on	V_Prs_Act_Sg3	olla-v
 monia	Pron_Qnt_Par_Pl	moni-p
@@ -2892,7 +2892,7 @@ luonne	N_Nom_Sg	luo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:7&collection=eptic3">
+<s id="1050:7">
 Mietintö	N_Nom_Sg	mietintö-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -2905,7 +2905,7 @@ kompromissi	N_Nom_Sg	kompromissi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:8&collection=eptic3">
+<s id="1050:8">
 Keskeisten	A_Gen_Pl	keskeinen-j
 kysymysten	N_Gen_Pl	kysymys-n
 joukossa	N_Ine_Sg	joukko-n
@@ -2916,7 +2916,7 @@ CE-merkintä	N_Nom_Sg	CE-merkintä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:9&collection=eptic3">
+<s id="1050:9">
 Näissä	Pron_Dem_Ine_Pl	nämä-p
 asioissa	N_Ine_Pl	asia-n
 päästiin	V_PrfPrc_Pass_Pe4	päästä-v
@@ -2937,7 +2937,7 @@ yrityksiin	N_Ill_Pl	yritys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:10&collection=eptic3">
+<s id="1050:10">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 vaarallisten	A_Gen_Pl	vaarallinen-j
@@ -2968,7 +2968,7 @@ ristiriitaan	N_Ill_Sg	ristiriita-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1050:11&collection=eptic3">
+<s id="1050:11">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -3032,7 +3032,7 @@ hämmentyvät	V_Prs_Act_Pl3	hämmentyä-v
 <speaker name="Harbour Malcolm" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="240" duration="short" durations="99.0" speed="medium" speedwm="145.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1055:1&collection=eptic3">
+<s id="1055:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -3066,7 +3066,7 @@ esitetty	PrfPrc_Pass_Nom_Sg	esittää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:2&collection=eptic3">
+<s id="1055:2">
 Mielestäni	N_Ela_Sg	mieli-n
 monimutkaisen	A_Gen_Sg	monimutkainen-j
 asiakokonaisuuden	N_Gen_Sg	asiakokonaisuus-n
@@ -3094,7 +3094,7 @@ hyvin	Adv	hyvin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:3&collection=eptic3">
+<s id="1055:3">
 Haluan	V_Prs_Act_Sg1	haluta-v
 huomauttaa	V_Inf1_Lat	huomauttaa-v
 <g/>
@@ -3122,7 +3122,7 @@ tekstiin	N_Ill_Sg	teksti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:4&collection=eptic3">
+<s id="1055:4">
 Kuten	Adv	kuten-r
 Heide	N_Prop_Nom_Sg	Heide-n
 Rühle	N_Prop_Nom_Sg	Rühle-n
@@ -3140,7 +3140,7 @@ mieltä	N_Par_Sg	mieli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:5&collection=eptic3">
+<s id="1055:5">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 puheenjohtajavaltio	N_Nom_Sg	puheenjohtajavaltio-n
@@ -3158,7 +3158,7 @@ yhteydessä	N_Ine_Sg	yhteys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:6&collection=eptic3">
+<s id="1055:6">
 Haluan	V_Prs_Act_Sg1	haluta-v
 vain	Adv	vain-r
 esittää	V_Inf1_Lat	esittää-v
@@ -3171,7 +3171,7 @@ sopimuksen	N_Gen_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:7&collection=eptic3">
+<s id="1055:7">
 Ensimmäiseksi	Num_Ord_Tra_Sg	ensimmäinen-m
 <g/>
 ,	Punct	,-x
@@ -3203,7 +3203,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:8&collection=eptic3">
+<s id="1055:8">
 Kuten	Adv	kuten-r
 sanoitte	V_PrfPrc_Act_Pl2	sanoa-v
 <g/>
@@ -3235,7 +3235,7 @@ tarkasti	Adv	tarkasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1055:9&collection=eptic3">
+<s id="1055:9">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 <g/>
 ,	Punct	,-x
@@ -3297,7 +3297,7 @@ taloudelle	N_All_Sg	talous-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="218" duration="short" durations="91.0" speed="medium" speedwm="143.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1063:1&collection=eptic3">
+<s id="1063:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -3319,7 +3319,7 @@ iltana	N_Ess_Sg	ilta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:2&collection=eptic3">
+<s id="1063:2">
 Mielestäni	N_Ela_Sg	mieli-n
 komission	N_Gen_Sg	komissio-n
 jäsen	N_Nom_Sg	jäsen-n
@@ -3374,7 +3374,7 @@ tehneet	PrfPrc_Act_Nom_Pl	tehdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:3&collection=eptic3">
+<s id="1063:3">
 Se	Pron_Dem_Nom_Sg	se-p
 mitä	Pron_Rel_Par	mikä-p
 olemme	V_Prs_Act_Pl1	olla-v
@@ -3407,7 +3407,7 @@ sisällyttämään	V_Inf3_Ill	sisällyttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:4&collection=eptic3">
+<s id="1063:4">
 Parlamentti	N_Nom_Sg	parlamentti-n
 kuitenkin	Adv	kuitenkin-r
 onnistui	V_PrfPrc_Act_Sg3	onnistua-v
@@ -3434,7 +3434,7 @@ saavutus	N_Nom_Sg	saavutus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:5&collection=eptic3">
+<s id="1063:5">
 Yksi	Num_Nom_Sg	yksi-m
 asia	N_Nom_Sg	asia-n
 kiinnitti	V_PrfPrc_Act_Sg3	kiinnittää-v
@@ -3445,7 +3445,7 @@ keskustelun	N_Gen_Sg	keskustelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:6&collection=eptic3">
+<s id="1063:6">
 Rakennusala	N_Nom_Sg	rakennusala-n
 on	V_Prs_Act_Sg3	olla-v
 niin	Adv	niin-r
@@ -3528,7 +3528,7 @@ rakennusalaan	N_Ill_Sg	rakennusala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1063:7&collection=eptic3">
+<s id="1063:7">
 Joten	A_Reldv	joten-j
 kiitos	N_Nom_Sg	kiitos-n
 <g/>
@@ -3580,7 +3580,7 @@ sitä	Pron_Dem_Par_Sg	se-p
 <speaker name="Dalli John" gender="M" country="Malta" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="904" duration="long" durations="474.0" speed="slow" speedwm="114.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1057:1&collection=eptic3">
+<s id="1057:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -3606,7 +3606,7 @@ Saksassa	N_Ine_Sg	Saksa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:2&collection=eptic3">
+<s id="1057:2">
 Komission	N_Gen_Sg	komissio-n
 yksiköt	N_Nom_Pl	yksikkö-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -3624,7 +3624,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:3&collection=eptic3">
+<s id="1057:3">
 Olen	V_Prs_Act_Sg1	Ole-v
 jo	Adv	jo-r
 alkanut	PrfPrc_Act_Nom_Sg	alkaa-x
@@ -3650,7 +3650,7 @@ tehokkaampi	A_Nom_Sg	tehokas-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:4&collection=eptic3">
+<s id="1057:4">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 kuitenkin	Adv	kuitenkin-r
 kertoa	V_Inf1_Lat	kertoa-v
@@ -3660,7 +3660,7 @@ yksityiskohdista	N_Ela_Pl	yksityiskohta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:5&collection=eptic3">
+<s id="1057:5">
 Tapaus	N_Nom_Sg	tapaus-n
 tuli	V_PrfPrc_Act_Sg3	tulla-v
 ilmi	Adv	ilmi-r
@@ -3702,7 +3702,7 @@ vaatimuksia	N_Par_Pl	vaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:6&collection=eptic3">
+<s id="1057:6">
 Viime	A	viime-j
 vuoden	N_Gen_Sg	vuosi-n
 marraskuun	N_Gen_Sg	marraskuu-n
@@ -3736,7 +3736,7 @@ rasvoja	N_Par_Pl	rasva-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:7&collection=eptic3">
+<s id="1057:7">
 Viimeksi	Adv	viimeksi-r
 mainittu	PrfPrc_Pass_Nom_Sg	mainita-x
 yritys	N_Nom_Sg	yritys-n
@@ -3748,7 +3748,7 @@ valmistaja	N_Nom_Sg	valmistaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:8&collection=eptic3">
+<s id="1057:8">
 Ilmeisesti	Adv	ilmeisesti-r
 siis	Adv	siis-r
 rehurasva	N_Nom_Sg	rehurasva-n
@@ -3762,7 +3762,7 @@ keskenään	Adv	keskenään-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:9&collection=eptic3">
+<s id="1057:9">
 Marraskuun	N_Gen_Sg	marraskuu-n
 jälkimmäisellä	A_Ade_Sg	jälkimmäinen-j
 puoliskolla	N_Ade_Sg	puolisko-n
@@ -3775,7 +3775,7 @@ dioksiinia	N_Par_Sg	dioksiini-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:10&collection=eptic3">
+<s id="1057:10">
 Kolme	Num_Nom_Sg	kolme-m
 muuta	Pron_Qnt_Par_Sg	muu-p
 erää	N_Par_Sg	erä-n
@@ -3797,7 +3797,7 @@ saastuneita	PrfPrc_Act_Par_Pl	saastua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:11&collection=eptic3">
+<s id="1057:11">
 Ennen	Adv	ennen-r
 kuin	CS	kuin-x
 asiasta	N_Ela_Sg	asia-n
@@ -3817,7 +3817,7 @@ saastuneina	PrfPrc_Act_Ess_Pl	saastua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:12&collection=eptic3">
+<s id="1057:12">
 Mahdollisesti	Adv	mahdollisesti-r
 saastunutta	PrfPrc_Act_Par_Sg	saastua-x
 rehurasvaa	N_Par_Sg	rehurasvaa-n
@@ -3834,7 +3834,7 @@ valmistajalle	N_All_Sg	valmistaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:13&collection=eptic3">
+<s id="1057:13">
 Rehurasvaa	N_Par_Sg	Rehurasvaa-n
 ei	V_Neg_Sg3	ei-v
 toimitettu	V_PrfPrc_Pass_ConNeg	toimittaa-v
@@ -3843,7 +3843,7 @@ ulkopuolelle	Adp_Po	ulkopuoli-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:14&collection=eptic3">
+<s id="1057:14">
 Yhteensä	Adv	yhteensä-r
 noin	Adv	noin-r
 4	Num_Nom_Sg	4-m
@@ -3877,7 +3877,7 @@ rasvaa	N_Par_Sg	rasva-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:15&collection=eptic3">
+<s id="1057:15">
 Puhtaasti	Adv	puhtaasti-r
 varotoimenpiteenä	N_Ess_Sg	varotoimenpide-n
 kaikki	Pron_Qnt_Nom	kaikki-p
@@ -3891,7 +3891,7 @@ keskeytettiin	V_PrfPrc_Pass_Pe4	keskeyttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:16&collection=eptic3">
+<s id="1057:16">
 Toimenpide	N_Nom_Sg	toimipide-n
 koski	V_PrfPrc_Act_Sg3	koskea-v
 kananmunatiloja	N_Par_Pl	kananmunatiloja-n
@@ -3915,7 +3915,7 @@ kanitiloja	N_Par_Pl	kanitiloja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:17&collection=eptic3">
+<s id="1057:17">
 Mahdollisesti	Adv	mahdollisesti-r
 saastunutta	PrfPrc_Act_Par_Sg	saastua-x
 siitoskanan	N_Gen_Sg	siitoskanan-n
@@ -3930,7 +3930,7 @@ Tanskaan	N_Prop_Ill_Sg	Tanska-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:18&collection=eptic3">
+<s id="1057:18">
 Suljetuilla	PrfPrc_Pass_Ade_Pl	sulkea-x
 tiloilla	N_Ade_Pl	tila-n
 tuotettua	PrfPrc_Pass_Par_Sg	tuottaa-x
@@ -3952,7 +3952,7 @@ uudelleen	Adv	uudelleen-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:19&collection=eptic3">
+<s id="1057:19">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 taas	Adv	taas-r
 voidaan	V_Prs_Pass_Pe4	voida-v
@@ -3988,7 +3988,7 @@ tasoa	N_Par_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:20&collection=eptic3">
+<s id="1057:20">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 alkujaan	Adv	alkujaan-r
@@ -4013,7 +4013,7 @@ sikatiloja	N_Par_Pl	sikatila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:21&collection=eptic3">
+<s id="1057:21">
 Vaikuttaa	V_Prs_Act_Sg3	vaikuttaa-v
 siltä	Pron_Dem_Abl_Sg	se-p
 <g/>
@@ -4037,7 +4037,7 @@ ottamatta	V_Inf3_Abe	ottaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:22&collection=eptic3">
+<s id="1057:22">
 Analyyttiset	A_Nom_Pl	analyyttinen-j
 testit	N_Nom_Pl	testi-n
 myös	Adv	myös-r
@@ -4060,7 +4060,7 @@ vaatimukset	N_Nom_Pl	vaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:23&collection=eptic3">
+<s id="1057:23">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 osoittaa	V_Prs_Act_Sg3	osoittaa-v
 EU	N_Nom_Sg	EU-n
@@ -4073,7 +4073,7 @@ tehokkuuden	N_Gen_Sg	tehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:24&collection=eptic3">
+<s id="1057:24">
 Tarkkailemme	V_Prs_Act_Pl1	tarkkailla-v
 jatkossakin	N_Ine_Sg	jatko-n
 valppaina	A_Ess_Pl	valpas-j
@@ -4082,7 +4082,7 @@ asioita	N_Par_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:25&collection=eptic3">
+<s id="1057:25">
 Tapauksessa	N_Ine_Sg	tapaus-n
 oli	V_PrfPrc_Act_Sg3	olla-v
 onnekasta	A_Par_Sg	onnekas-j
@@ -4113,7 +4113,7 @@ yläpuolella	N_Ade_Sg	yläpuoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:26&collection=eptic3">
+<s id="1057:26">
 Näin	Adv	näin-r
 ollen	V_Inf2_Act	olla-v
 kuluttajille	N_All_Pl	kuluttaja-n
@@ -4136,7 +4136,7 @@ olemassa	V_Inf3_Ine	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:27&collection=eptic3">
+<s id="1057:27">
 Miten	Adv	miten-r
 sitten	Adp_Pr	sitten-x
 komissio	N_Nom_Sg	komissio-n
@@ -4147,7 +4147,7 @@ hallinnassa	N_Ine_Sg	hallinta-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1057:28&collection=eptic3">
+<s id="1057:28">
 Yksikköni	N_Nom_Pl	yksikkö-n
 ovat	V_Prs_Act_Pl3	olla-v
 olleet	PrfPrc_Act_Nom_Pl	olla-x
@@ -4158,7 +4158,7 @@ viranomaisiin	N_Ill_Pl	virkaomainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:29&collection=eptic3">
+<s id="1057:29">
 Ne	Pron_Dem_Nom_Pl	ne-p
 ovat	V_Prs_Act_Pl3	olla-v
 myös	Adv	myös-r
@@ -4178,7 +4178,7 @@ kautta	Adp_Po	kautta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:30&collection=eptic3">
+<s id="1057:30">
 Yksikköni	N_Nom_Pl	yksikkö-n
 ovat	V_Prs_Act_Pl3	olla-v
 olleet	PrfPrc_Act_Nom_Pl	olla-x
@@ -4199,7 +4199,7 @@ tapauksesta	N_Ela_Sg	tapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:31&collection=eptic3">
+<s id="1057:31">
 Lisäksi	Adv	lisäksi-r
 komission	N_Gen_Sg	komissio-n
 virkamiehet	N_Nom_Pl	virkamies-n
@@ -4223,7 +4223,7 @@ paremmin	Adv	paremmin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:32&collection=eptic3">
+<s id="1057:32">
 Itse	Pron_Refl_Nom_Sg	itse-p
 otin	V_PrfPrc_Act_Sg1	ottaa-v
 henkilökohtaisesti	Adv	henkilökohtaisesti-r
@@ -4244,7 +4244,7 @@ tammikuuta	N_Par_Sg	tammikuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:33&collection=eptic3">
+<s id="1057:33">
 Keskustelimme	V_PrfPrc_Act_Pl1	keskustella-v
 tuolloin	Adv	tuolloin-r
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -4264,7 +4264,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:34&collection=eptic3">
+<s id="1057:34">
 Tänään	Adv	tänään-r
 otin	V_PrfPrc_Act_Sg1	ottaa-v
 uudelleen	Adv	uudelleen-r
@@ -4283,7 +4283,7 @@ uutisesta	N_Ela_Sg	uutinen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:35&collection=eptic3">
+<s id="1057:35">
 Uutisen	N_Gen_Sg	Uutinen-n
 mukaan	Adp_Po	mukaan-x
 rehun	N_Gen_Sg	rehu-n
@@ -4307,7 +4307,7 @@ toimitettu	PrfPrc_Pass_Nom_Sg	toimittaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:36&collection=eptic3">
+<s id="1057:36">
 Lisäksi	Adv	lisäksi-r
 valmistaja	N_Nom_Sg	valmistaja-n
 olisi	V_Cond_Act_Sg3	olla-v
@@ -4321,7 +4321,7 @@ rehuseoksessa	N_Ine_Sg	rehuseos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:37&collection=eptic3">
+<s id="1057:37">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 seurauksena	N_Ess_Sg	seuraus-n
 suljettiin	V_PrfPrc_Pass_Pe4	sulkea-v
@@ -4332,7 +4332,7 @@ tiloja	N_Par_Pl	tila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:38&collection=eptic3">
+<s id="1057:38">
 Tapauksessa	N_Ine_Sg	tapaus-n
 on	V_Prs_Act_Sg3	olla-v
 rikottu	PrfPrc_Pass_Nom_Sg	rikkoa-x
@@ -4349,7 +4349,7 @@ säädöksiä	N_Par_Pl	säädös-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:39&collection=eptic3">
+<s id="1057:39">
 Haluan	V_Prs_Act_Sg1	haluta-v
 tehdä	V_Inf1_Lat	tehdä-v
 seuraavan	A_Gen_Sg	seuraava-j
@@ -4379,7 +4379,7 @@ lopullisesti	Adv	lopullisesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:40&collection=eptic3">
+<s id="1057:40">
 Saamani	AgPcp_Gen_Sg	saada-x
 tiedon	N_Gen_Sg	tieto-n
 mukaan	Adp_Po	mukaan-x
@@ -4401,7 +4401,7 @@ ajassa	N_Ine_Sg	aika-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:41&collection=eptic3">
+<s id="1057:41">
 On	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
 tärkeää	A_Par_Sg	tärkeä-j
@@ -4428,7 +4428,7 @@ tasolla	N_Ade_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:42&collection=eptic3">
+<s id="1057:42">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 syystä	N_Ela_Sg	syy-n
 elintarvike-	N_Nom_Sg	elintarvike-n
@@ -4465,7 +4465,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:43&collection=eptic3">
+<s id="1057:43">
 Vierailusta	N_Ela_Sg	vierailu-n
 on	V_Prs_Act_Sg3	olla-v
 ilmoitettu	PrfPrc_Pass_Nom_Sg	ilmoittaa-x
@@ -4482,7 +4482,7 @@ sen	Pron_Dem_Gen_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:44&collection=eptic3">
+<s id="1057:44">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 <g/>
 ,	Punct	,-x
@@ -4497,7 +4497,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:45&collection=eptic3">
+<s id="1057:45">
 Tapauksesta	N_Ela_Sg	tapaus-n
 keskustellaan	V_Prs_Pass_Pe4	keskustella-v
 myös	Adv	myös-r
@@ -4515,7 +4515,7 @@ Brysselissä	N_Prop_Ine_Sg	Bryssel-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:46&collection=eptic3">
+<s id="1057:46">
 Kuten	Adv	kuten-r
 jo	Adv	jo-r
 mainitsin	V_PrfPrc_Act_Sg1	mainita-v
@@ -4534,7 +4534,7 @@ toimia	N_Par_Pl	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:47&collection=eptic3">
+<s id="1057:47">
 Tapaus	N_Nom_Sg	tapaus-n
 on	V_Prs_Act_Sg3	olla-v
 osoittanut	PrfPrc_Act_Nom_Sg	osoittaa-x
@@ -4548,7 +4548,7 @@ tehokkuus	N_Nom_Sg	tehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:48&collection=eptic3">
+<s id="1057:48">
 Ne	Pron_Dem_Nom_Pl	ne-p
 lisäävät	V_Prs_Act_Pl3	lisätä-v
 sekä	CC	sekä-x
@@ -4570,7 +4570,7 @@ turvatoimenpiteisiin	N_Ill_Pl	turvatoimenpide-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:49&collection=eptic3">
+<s id="1057:49">
 Ongelman	N_Gen_Sg	ongelma-n
 ratkaisemiseksi	N_Tra_Sg	ratkaiseminen-n
 tutkin	V_Prs_Act_Sg1	tutkia-v
@@ -4600,7 +4600,7 @@ tuotannosta	N_Ela_Sg	tuotanto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:50&collection=eptic3">
+<s id="1057:50">
 Lisäksi	Adv	lisäksi-r
 tarkastelen	V_Prs_Act_Sg1	tarkastella-v
 mahdollisuutta	N_Par_Sg	mahdollisuus-n
@@ -4617,7 +4617,7 @@ kohdissa	N_Ine_Pl	kohta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1057:51&collection=eptic3">
+<s id="1057:51">
 Olen	V_Prs_Act_Sg1	Ole-v
 vakuuttunut	PrfPrc_Act_Nom_Sg	vakuuttua-x
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -4657,7 +4657,7 @@ järjestelmiimme	N_Ill_Pl	järjestelmä-n
 <speaker name="Nicholson James" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="197" duration="short" durations="82.0" speed="medium" speedwm="144.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1064:1&collection=eptic3">
+<s id="1064:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -4677,7 +4677,7 @@ hetkellä	N_Ade_Sg	hetki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:2&collection=eptic3">
+<s id="1064:2">
 Koin	V_PrfPrc_Act_Sg1	Koo-v
 vastaavan	A_Gen_Sg	vastaava-j
 tilanteen	N_Gen_Sg	tilanne-n
@@ -4695,7 +4695,7 @@ tapaus	N_Nom_Sg	tapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:3&collection=eptic3">
+<s id="1064:3">
 Tilanteesta	N_Ela_Sg	tilanne-n
 kärsivät	V_Prs_Act_Pl3	kärsiä-v
 todella	Adv	todella-r
@@ -4713,7 +4713,7 @@ asiaan	N_Ill_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:4&collection=eptic3">
+<s id="1064:4">
 Luullakseni	V_Inf1_Tra_PxSg1	luulla-v
 sana	N_Nom_Sg	sana-n
 "	Punct	"-x
@@ -4740,7 +4740,7 @@ pyrkimyksiä	N_Par_Pl	pyrkimys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:5&collection=eptic3">
+<s id="1064:5">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 kysyä	V_Inf1_Lat	kysyä-v
@@ -4767,7 +4767,7 @@ väittää	V_Prs_Act_Sg3	väittää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:6&collection=eptic3">
+<s id="1064:6">
 Jos	CS	Jos-x
 saavat	V_Prs_Act_Pl3	saada-v
 <g/>
@@ -4782,7 +4782,7 @@ takia	Adp_Po	takia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:7&collection=eptic3">
+<s id="1064:7">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 kuitenkin	Adv	kuitenkin-r
@@ -4801,7 +4801,7 @@ vastuussa	N_Ine_Sg	vastuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:8&collection=eptic3">
+<s id="1064:8">
 Vastuussa	N_Ine_Sg	vastuu-n
 ovat	V_Prs_Act_Pl3	olla-v
 ne	Pron_Dem_Nom_Pl	ne-p
@@ -4815,7 +4815,7 @@ tuottajille	N_All_Pl	tuottaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:9&collection=eptic3">
+<s id="1064:9">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 kohdistaa	V_Inf1_Lat	kohdistaa-v
@@ -4838,7 +4838,7 @@ luottamuksen	N_Gen_Sg	luottamus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:10&collection=eptic3">
+<s id="1064:10">
 Ymmärrän	V_Prs_Act_Sg1	ymmärtää-v
 hyvin	Adv	hyvin-r
 <g/>
@@ -4852,7 +4852,7 @@ hetkellä	N_Ade_Sg	hetki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:11&collection=eptic3">
+<s id="1064:11">
 Kuten	Adv	kuten-r
 joku	Pron_Qnt_Nom_Sg	joku-p
 totesi	V_PrfPrc_Act_Sg3	todeta-v
@@ -4871,7 +4871,7 @@ enää	Adv	enää-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:12&collection=eptic3">
+<s id="1064:12">
 Meidän	Pron_Pers_Gen_Pl	me-p
 ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
@@ -4884,7 +4884,7 @@ lakeja	N_Par_Pl	laki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1064:13&collection=eptic3">
+<s id="1064:13">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 panna	V_Inf1_Lat	panna-v
@@ -4907,7 +4907,7 @@ on	V_Prs_Act_Sg3	olla-v
 <speaker name="Agnew John Stuart" gender="M" country="United Kingdom" politfunc="MEP" politgroup="EFD">
 <st language="en" length="short" lengthw="144" duration="short" durations="58.0" speed="medium" speedwm="149.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1070:1&collection=eptic3">
+<s id="1070:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -4923,7 +4923,7 @@ munantuottaja	N_Nom_Sg	munantuottaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:2&collection=eptic3">
+<s id="1070:2">
 Dioksiinitapaus	N_Nom_Sg	dioksiinitapaus-n
 näyttää	V_Prs_Act_Sg3	näyttää-v
 olevan	PrsPrc_Act_Gen_Sg	olla-x
@@ -4943,7 +4943,7 @@ standardeja	N_Par_Pl	standardi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:3&collection=eptic3">
+<s id="1070:3">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 johtuu	V_Prs_Act_Sg3	johtua-v
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -4964,7 +4964,7 @@ biopolttoaineiksi	N_Tra_Pl	biopolttoaine-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:4&collection=eptic3">
+<s id="1070:4">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -4981,7 +4981,7 @@ seurauksia	N_Par_Pl	seuraus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:5&collection=eptic3">
+<s id="1070:5">
 Minun	Pron_Pers_Gen_Sg	minä-p
 mielestäni	N_Ela_Sg	mieli-n
 tämä	Pron_Dem_Nom_Sg	tämä-p
@@ -4997,7 +4997,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:6&collection=eptic3">
+<s id="1070:6">
 Ongelmaa	N_Par_Sg	ongelma-n
 ei	V_Neg_Sg3	ei-v
 ratkaista	V_Prs_Pass_ConNeg	ratkaista-v
@@ -5011,7 +5011,7 @@ tarvita	V_Prs_Pass_ConNeg	tarvita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:7&collection=eptic3">
+<s id="1070:7">
 Saksalaiset	A_Prop_Nom_Pl	saksalainen-j
 havaitsivat	V_PrfPrc_Act_Pl3	havaita-v
 ongelman	N_Gen_Sg	ongelma-n
@@ -5028,7 +5028,7 @@ toimenpiteisiin	N_Ill_Pl	toimipide-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:8&collection=eptic3">
+<s id="1070:8">
 Yhdistyneessä	A_Ine_Sg	yhdistynyt-j
 kuningaskunnassa	N_Ine_Sg	kuningaskunta-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5056,7 +5056,7 @@ leijonakoodi	N_Nom_Sg	leijonakoodi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:9&collection=eptic3">
+<s id="1070:9">
 Järjestelmä	N_Nom_Sg	järjestelmä-n
 kattaa	V_Prs_Act_Sg3	kattaa-v
 sekä	CC	sekä-x
@@ -5070,7 +5070,7 @@ maatilalla	N_Ade_Sg	maatila-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:10&collection=eptic3">
+<s id="1070:10">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 ansiosta	N_Ela_Sg	ansio-n
 tällaiset	A_Nom_Pl	tällainen-j
@@ -5081,7 +5081,7 @@ epätodennäköisiä	A_Par_Pl	epätodennäköinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1070:11&collection=eptic3">
+<s id="1070:11">
 Jos	CS	Jos-x
 siis	Adv	siis-r
 joku	Pron_Qnt_Nom_Sg	joku-p
@@ -5115,7 +5115,7 @@ kananmunia	N_Par_Pl	kananmuna-n
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="177" duration="short" durations="78.0" speed="medium" speedwm="136.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1071:1&collection=eptic3">
+<s id="1071:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -5128,7 +5128,7 @@ saastumistapauksesta	N_Ela_Sg	saastumistapauksesta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1071:2&collection=eptic3">
+<s id="1071:2">
 Se	Pron_Dem_Nom_Sg	se-p
 ja	CC	ja-x
 elintarvikeketjussamme	N_Ine_Sg	elintarvikeketjussamme-n
@@ -5151,7 +5151,7 @@ heikkoudet	N_Nom_Pl	heikkous-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1071:3&collection=eptic3">
+<s id="1071:3">
 On	V_Prs_Act_Sg3	olla-v
 enemmän	Adv	enemmän-r
 kuin	CS	kuin-x
@@ -5185,7 +5185,7 @@ ainesosina	N_Ess_Pl	ainesosa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1071:4&collection=eptic3">
+<s id="1071:4">
 Jäljitettävyys	PrsPrc_Pass_Nom_Sg	jäljitettävyys-x
 koetaan	V_Prs_Pass_Pe4	kokea-v
 usein	Adv	usein-r
@@ -5209,7 +5209,7 @@ keskustelemme	V_Prs_Act_Pl1	keskustella-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1071:5&collection=eptic3">
+<s id="1071:5">
 Jäljitettävyys	PrsPrc_Pass_Nom_Sg	jäljitettävyys-x
 pitäisikin	V_Cond_Act_Sg3	pitää-v
 nähdä	V_Inf1_Lat	nähdä-v
@@ -5222,7 +5222,7 @@ suojelemiseksi	N_Tra_Sg	suojella-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1071:6&collection=eptic3">
+<s id="1071:6">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 näin	Adv	näin-r
 ollen	V_Inf2_Act	olla-v
@@ -5233,7 +5233,7 @@ komissiolle	N_All_Sg	komissio-n
 <g/>
 :	Punct	:-x
 </s>
-<s id="1071:7&collection=eptic3">
+<s id="1071:7">
 Voiko	V_Prs_Act_Sg3	voida-v
 komissio	N_Nom_Sg	komissio-n
 ensinnäkin	Adv	ensinnäkin-r
@@ -5258,7 +5258,7 @@ elintarvikkeissa	N_Ine_Pl	elintarvike-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1071:8&collection=eptic3">
+<s id="1071:8">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 aikooko	V_Prs_Act_Sg3	aikoa-v
 komissio	N_Nom_Sg	komissio-n
@@ -5291,7 +5291,7 @@ terveyteen	N_Ill_Sg	terveys-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="151" duration="short" durations="69.0" speed="medium" speedwm="131.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1072:1&collection=eptic3">
+<s id="1072:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -5312,7 +5312,7 @@ ongelma	N_Nom_Sg	ongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:2&collection=eptic3">
+<s id="1072:2">
 Mietin	V_Prs_Act_Sg1	Mietti-v
 <g/>
 ,	Punct	,-x
@@ -5329,7 +5329,7 @@ kriisin	N_Gen_Sg	kriisi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:3&collection=eptic3">
+<s id="1072:3">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 erityinen	A_Nom_Sg	erityinen-j
@@ -5348,7 +5348,7 @@ pääosastolta	N_Abl_Sg	pääosasto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:4&collection=eptic3">
+<s id="1072:4">
 He	Pron_Pers_Nom_Pl	He-p
 haluavat	A_Nom_Pl	haluava-j
 neuvontaa	N_Par_Sg	neuvonta-n
@@ -5361,7 +5361,7 @@ säädöksistä	N_Ela_Pl	säädös-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:5&collection=eptic3">
+<s id="1072:5">
 Voitteko	V_Prs_Act_Pl2	voida-v
 ystävällisesti	Adv	ystävällisesti-r
 tänä	Pron_Dem_Ess_Sg	tämä-p
@@ -5376,7 +5376,7 @@ toiveensa	N_Gen_Sg	toive-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1072:6&collection=eptic3">
+<s id="1072:6">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 on	V_Prs_Act_Sg3	olla-v
 vielä	Adv	vielä-r
@@ -5385,7 +5385,7 @@ huomiota	N_Par_Sg	huomio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:7&collection=eptic3">
+<s id="1072:7">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 määritettävä	PrsPrc_Pass_Nom_Sg	määrittää-x
@@ -5409,7 +5409,7 @@ nimet	N_Nom_Pl	nimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:8&collection=eptic3">
+<s id="1072:8">
 Lisäksi	Adv	lisäksi-r
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -5425,7 +5425,7 @@ tuotteet	N_Nom_Pl	tuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:9&collection=eptic3">
+<s id="1072:9">
 Ei	V_Neg_Sg3	ei-v
 tämä	Pron_Dem_Nom_Sg	tämä-p
 ole	V_Prs_Act_ConNeg	olla-v
@@ -5434,7 +5434,7 @@ rakettitiedettä	N_Par_Sg	rakettitiedettä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:10&collection=eptic3">
+<s id="1072:10">
 Kuten	Adv	kuten-r
 muutkin	Pron_Qnt_Nom_Pl	muu-p
 ovat	V_Prs_Act_Pl3	olla-v
@@ -5464,7 +5464,7 @@ rahaa	N_Par_Sg	raha-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:11&collection=eptic3">
+<s id="1072:11">
 Kustannusten	N_Gen_Pl	kustannus-n
 alentamisessa	N_Ine_Sg	alentaminen-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5474,7 +5474,7 @@ oikomisesta	N_Ela_Sg	oikomisesta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1072:12&collection=eptic3">
+<s id="1072:12">
 Ongelmana	N_Ess_Sg	ongelma-n
 on	V_Prs_Act_Sg3	olla-v
 <g/>
@@ -5501,7 +5501,7 @@ sekä	CC	sekä-x
 <speaker name="Ashworth Richard" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="156" duration="short" durations="64.0" speed="medium" speedwm="146.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1073:1&collection=eptic3">
+<s id="1073:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -5516,7 +5516,7 @@ tapauksia	N_Par_Pl	tapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:2&collection=eptic3">
+<s id="1073:2">
 Luulin	V_PrfPrc_Act_Sg1	luulla-v
 <g/>
 ,	Punct	,-x
@@ -5543,7 +5543,7 @@ estämiseksi	N_Tra_Sg	estäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:3&collection=eptic3">
+<s id="1073:3">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 nostaa	V_Prs_Act_Sg3	nostaa-v
 esiin	Adv	esiin-r
@@ -5553,7 +5553,7 @@ huolenaiheita	N_Par_Pl	huoliaihe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:4&collection=eptic3">
+<s id="1073:4">
 Ensinnäkin	Adv	Ensinnäkin-r
 tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -5573,7 +5573,7 @@ tapahtumiin	N_Ill_Pl	tapahtuma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:5&collection=eptic3">
+<s id="1073:5">
 Maanviljelijät	N_Nom_Pl	maaviljelijä-n
 kärsivät	V_Prs_Act_Pl3	kärsiä-v
 aina	Adv	aina-r
@@ -5586,7 +5586,7 @@ seurauksiin	N_Ill_Pl	seuraus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:6&collection=eptic3">
+<s id="1073:6">
 Olen	V_Prs_Act_Sg1	Ole-v
 melko	Adv	melko-r
 tyytyväinen	A_Nom_Sg	tyytyväinen-j
@@ -5619,7 +5619,7 @@ ongelmasta	N_Ela_Sg	ongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:7&collection=eptic3">
+<s id="1073:7">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 herää	V_Prs_Act_Sg3	herätä-v
 kuitenkin	Adv	kuitenkin-r
@@ -5639,7 +5639,7 @@ aloilla	N_Ade_Pl	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1073:8&collection=eptic3">
+<s id="1073:8">
 Ennaltaehkäiseviä	A_Par_Pl	ennaltaehkäisevä-j
 toimia	N_Par_Pl	toimi-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5668,7 +5668,7 @@ seuraukset	N_Nom_Pl	seuraus-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="medium" lengthw="462" duration="medium" durations="189.0" speed="medium" speedwm="146.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1052:1&collection=eptic3">
+<s id="1052:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -5702,7 +5702,7 @@ kestävyyttä	PrsPrc_Act_Par_Sg	kestävyys-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:2&collection=eptic3">
+<s id="1052:2">
 Metsät	N_Nom_Pl	Metsä-n
 kuuluvat	V_Prs_Act_Pl3	kuulua-v
 kyseisten	A_Gen_Pl	kyseinen-j
@@ -5729,7 +5729,7 @@ hiiltä	N_Abl_Pl	hiki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:3&collection=eptic3">
+<s id="1052:3">
 Metsäkadon	N_Gen_Sg	metsäkato-n
 pysäyttäminen	N_Nom_Sg	pysäyttäminen-n
 on	V_Prs_Act_Sg3	olla-v
@@ -5757,7 +5757,7 @@ ajan	Adp_Po	ajaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:4&collection=eptic3">
+<s id="1052:4">
 Kyseistä	A_Par_Sg	kyseinen-j
 kahta	Num_Par_Sg	kaksi-m
 valtiota	N_Par_Sg	valtio-n
@@ -5785,7 +5785,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:5&collection=eptic3">
+<s id="1052:5">
 Sopimusten	N_Gen_Pl	sopimus-n
 sääntelystä	N_Ela_Sg	sääntely-n
 ja	CC	ja-x
@@ -5796,7 +5796,7 @@ haastavaa	PrsPrc_Act_Par_Sg	haastaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:6&collection=eptic3">
+<s id="1052:6">
 Taivas	N_Nom_Sg	Taivas-n
 yksin	Adv	yksin-r
 tietää	V_Prs_Act_Sg3	tietää-v
@@ -5814,7 +5814,7 @@ kovaa	A_Par_Sg	kova-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:7&collection=eptic3">
+<s id="1052:7">
 Tahto	N_Nom_Sg	tahto-n
 on	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
@@ -5831,7 +5831,7 @@ tyytyväisiä	A_Par_Pl	tyytyväinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:8&collection=eptic3">
+<s id="1052:8">
 Huolellinen	A_Nom_Sg	huolellinen-j
 hoito	N_Nom_Sg	hoito-n
 voi	V_Prs_Act_Sg3	voida-v
@@ -5844,7 +5844,7 @@ puutavaraa	N_Par_Sg	puutavara-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:9&collection=eptic3">
+<s id="1052:9">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 laittomasti	Adv	laittomasti-r
@@ -5878,7 +5878,7 @@ sitä	Pron_Dem_Par_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:10&collection=eptic3">
+<s id="1052:10">
 Valvonnasta	N_Ela_Sg	valvonta-n
 tulee	V_Prs_Act_Sg3	tulla-v
 helpompaa	A_Par_Sg	helppo-j
@@ -5915,7 +5915,7 @@ kuunnellaan	V_Prs_Pass_Pe4	kuunnella-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:11&collection=eptic3">
+<s id="1052:11">
 Loppujen	N_Gen_Pl	loppu-n
 lopuksi	N_Tra_Sg	loppu-n
 he	Pron_Pers_Nom_Pl	he-p
@@ -5929,7 +5929,7 @@ kaadetaan	V_Prs_Pass_Pe4	kaataa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:12&collection=eptic3">
+<s id="1052:12">
 Trooppisen	A_Gen_Sg	trooppinen-j
 puun	N_Gen_Sg	puu-n
 laajamittainen	A_Nom_Sg	laajamittainen-j
@@ -5947,7 +5947,7 @@ kotejamme	N_Par_Pl	koti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:13&collection=eptic3">
+<s id="1052:13">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 arvostaa	V_Inf1_Lat	arvostaa-v
@@ -5982,7 +5982,7 @@ hakkuukypsyys	N_Nom_Sg	hakkuukypsyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:14&collection=eptic3">
+<s id="1052:14">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 huolehtia	V_Inf1_Lat	huolehtia-v
@@ -6013,7 +6013,7 @@ puutuotteille	N_All_Pl	puutuote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:15&collection=eptic3">
+<s id="1052:15">
 Kyseisten	A_Gen_Pl	kyseinen-j
 sopimusten	N_Gen_Pl	sopimus-n
 tulos	N_Nom_Sg	tulos-n
@@ -6040,7 +6040,7 @@ vastustaa	V_Inf1_Lat	vastustaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:16&collection=eptic3">
+<s id="1052:16">
 Se	Pron_Dem_Nom_Sg	se-p
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -6059,7 +6059,7 @@ myydä	V_Inf1_Lat	myydä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:17&collection=eptic3">
+<s id="1052:17">
 He	Pron_Pers_Nom_Pl	He-p
 tuntevat	A_Nom_Pl	tunteva-j
 resurssinsa	N_Nom_Pl	resurssi-n
@@ -6076,7 +6076,7 @@ myös	Adv	myös-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:18&collection=eptic3">
+<s id="1052:18">
 Kyseiset	A_Nom_Pl	kyseinen-j
 ihmiset	N_Nom_Pl	ihminen-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -6096,7 +6096,7 @@ valvonnassa	N_Ine_Sg	valvonta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:19&collection=eptic3">
+<s id="1052:19">
 He	Pron_Pers_Nom_Pl	He-p
 tarvitsevat	V_Prs_Act_Pl3	tarvita-v
 meitä	Pron_Pers_Par_Pl	me-p
@@ -6107,7 +6107,7 @@ huolensa	N_Gen_Sg	huoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:20&collection=eptic3">
+<s id="1052:20">
 Kyseiset	A_Nom_Pl	kyseinen-j
 sopimukset	N_Nom_Pl	sopimus-n
 muodostavat	V_Prs_Act_Pl3	muodostaa-v
@@ -6135,7 +6135,7 @@ niitä	Pron_Dem_Par_Pl	ne-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:21&collection=eptic3">
+<s id="1052:21">
 Vapaaehtoiset	A_Nom_Pl	vapaaehtoinen-j
 kumppanuussopimukset	N_Nom_Pl	kumppanuussopimus-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -6154,7 +6154,7 @@ lle	N_Nom_Sg	lle-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:22&collection=eptic3">
+<s id="1052:22">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 varmistettava	PrsPrc_Pass_Nom_Sg	varmistaa-x
@@ -6172,7 +6172,7 @@ käsitellään	V_Prs_Pass_Pe4	käsitellä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1052:23&collection=eptic3">
+<s id="1052:23">
 Sitten	Adp_Pr	sitten-x
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -6218,7 +6218,7 @@ saavuttamiseksi	N_Tra_Sg	saavuttaminen-n
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="534" duration="medium" durations="231.0" speed="medium" speedwm="138.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1083:1&collection=eptic3">
+<s id="1083:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -6234,7 +6234,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:2&collection=eptic3">
+<s id="1083:2">
 Teimme	V_PrfPrc_Act_Pl1	tehdä-v
 kaikki	Pron_Qnt_Nom	kaikki-p
 erittäin	Adv	erittäin-r
@@ -6261,7 +6261,7 @@ konsensuksen	N_Gen_Sg	konsensus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:3&collection=eptic3">
+<s id="1083:3">
 Sopimukset	N_Nom_Pl	sopimus-n
 Kongon	N_Prop_Gen_Sg	Konko-n
 ja	CC	ja-x
@@ -6286,7 +6286,7 @@ piiriin	N_Ill_Sg	piiri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:4&collection=eptic3">
+<s id="1083:4">
 Kyseisten	A_Gen_Pl	kyseinen-j
 sopimusten	N_Gen_Pl	sopimus-n
 olemassaolo	N_Nom_Sg	olemassaolo-n
@@ -6306,7 +6306,7 @@ myönteistä	A_Par_Sg	myönteinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:5&collection=eptic3">
+<s id="1083:5">
 Ne	Pron_Dem_Nom_Pl	ne-p
 tarjoavat	V_Prs_Act_Pl3	tarjota-v
 mekanismin	N_Gen_Sg	mekanismi-n
@@ -6317,7 +6317,7 @@ torjumiseksi	N_Tra_Sg	torjuminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:6&collection=eptic3">
+<s id="1083:6">
 Ne	Pron_Dem_Nom_Pl	ne-p
 tarjoavat	V_Prs_Act_Pl3	tarjota-v
 mahdollisuuden	N_Gen_Sg	mahdollisuus-n
@@ -6354,7 +6354,7 @@ hetkellä	N_Ade_Sg	hetki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:7&collection=eptic3">
+<s id="1083:7">
 Vaikka	CS	vaikka-x
 olenkin	V_Prs_Act_Sg1	olla-v
 tyytyväinen	A_Nom_Sg	tyytyväinen-j
@@ -6370,7 +6370,7 @@ asioissa	N_Ine_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:8&collection=eptic3">
+<s id="1083:8">
 Tänä	Pron_Dem_Ess_Sg	tämä-p
 iltana	N_Ess_Sg	ilta-n
 käsittelen	V_Prs_Act_Sg1	käsitellä-v
@@ -6379,7 +6379,7 @@ niistä	Pron_Dem_Ela_Pl	ne-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:9&collection=eptic3">
+<s id="1083:9">
 Ennen	Adp_Pr	ennen-x
 kaikkea	Pron_Qnt_Par_Sg	kaikki-p
 vaarana	N_Ess_Sg	vaara-n
@@ -6436,7 +6436,7 @@ välttämään	V_Inf3_Ill	välttää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:10&collection=eptic3">
+<s id="1083:10">
 Haluamme	V_Prs_Act_Pl1	haluta-v
 sopimuksen	N_Gen_Sg	sopimus-n
 <g/>
@@ -6454,7 +6454,7 @@ hoitoa	N_Par_Sg	hoito-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:11&collection=eptic3">
+<s id="1083:11">
 Esittelijän	N_Gen_Sg	esittelijä-n
 tavoin	N_Ins_Pl	tapa-n
 katson	V_Prs_Act_Sg1	katsoa-v
@@ -6479,7 +6479,7 @@ edistyy	V_Prs_Act_Sg3	edistyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:12&collection=eptic3">
+<s id="1083:12">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 alkuperäiskansojen	N_Gen_Pl	alkuperäiskansa-n
 <g/>
@@ -6499,7 +6499,7 @@ sopimuksesta	N_Ela_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:13&collection=eptic3">
+<s id="1083:13">
 On	V_Prs_Act_Sg3	olla-v
 noudatettava	PrsPrc_Pass_Nom_Sg	noudattaa-x
 Kongon	N_Prop_Gen_Sg	Konko-n
@@ -6525,7 +6525,7 @@ kunnioitetaan	V_Prs_Pass_Pe4	kunnioittaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:14&collection=eptic3">
+<s id="1083:14">
 Kehotan	V_Prs_Act_Sg1	kehottaa-v
 jälleen	Adv	jälleen-r
 komissiota	N_Par_Sg	komissio-n
@@ -6553,7 +6553,7 @@ säädöskokoelmassa	N_Ine_Sg	säädöskokoelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:15&collection=eptic3">
+<s id="1083:15">
 Kolmanneksi	Num_Ord_Tra_Sg	kolmas-m
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -6582,7 +6582,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:16&collection=eptic3">
+<s id="1083:16">
 Riippumatta	V_Inf3_Abe	riippua-v
 siitä	Pron_Dem_Ela_Sg	se-p
 <g/>
@@ -6606,7 +6606,7 @@ paperinpala	N_Nom_Sg	paperinpala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:17&collection=eptic3">
+<s id="1083:17">
 Kuten	Adv	kuten-r
 on	V_Prs_Act_Sg3	olla-v
 ilmoitettu	PrfPrc_Pass_Nom_Sg	ilmoittaa-x
@@ -6620,7 +6620,7 @@ rahoituspakettia	N_Par_Sg	rahoituspaketti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:18&collection=eptic3">
+<s id="1083:18">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 saatava	PrsPrc_Pass_Nom_Sg	saada-x
@@ -6643,7 +6643,7 @@ rahoitus	N_Nom_Sg	rahoitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:19&collection=eptic3">
+<s id="1083:19">
 Se	Pron_Dem_Nom_Sg	se-p
 tarkoittaa	V_Prs_Act_Sg3	tarkoittaa-v
 sitä	Pron_Dem_Par_Sg	se-p
@@ -6691,7 +6691,7 @@ toteuttamiseen	N_Ill_Sg	toteuttaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:20&collection=eptic3">
+<s id="1083:20">
 Niinpä	Adv	ne-r
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -6708,7 +6708,7 @@ onnistumiselle	N_All_Sg	onnistuminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:21&collection=eptic3">
+<s id="1083:21">
 Toistan	V_Prs_Act_Sg1	toistaa-v
 sen	Pron_Dem_Gen_Sg	se-p
 <g/>
@@ -6753,7 +6753,7 @@ käytännössä	N_Ine_Sg	käytäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:22&collection=eptic3">
+<s id="1083:22">
 Niiden	Pron_Dem_Gen_Pl	ne-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 johtaa	V_Inf1_Lat	johtaa-v
@@ -6783,7 +6783,7 @@ suuntaan	N_Ill_Sg	suunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1083:23&collection=eptic3">
+<s id="1083:23">
 Odotamme	V_Prs_Act_Pl1	odottaa-v
 <g/>
 ,	Punct	,-x
@@ -6803,7 +6803,7 @@ edistystä	N_Par_Sg	edistys-n
 <speaker name="Higgins Joe" gender="M" country="Ireland" politfunc="MEP" politgroup="GUE-NGL">
 <st language="en" length="short" lengthw="302" duration="medium" durations="122.0" speed="medium" speedwm="148.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1074:1&collection=eptic3">
+<s id="1074:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -6819,7 +6819,7 @@ lähestymistavasta	N_Ela_Sg	lähestyätapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:2&collection=eptic3">
+<s id="1074:2">
 Suhtaudun	V_Prs_Act_Sg1	suhtautua-v
 myönteisesti	Adv	myönteisesti-r
 sopimuksiin	N_Ill_Pl	sopimus-n
@@ -6849,7 +6849,7 @@ elämää	N_Par_Sg	elämä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:3&collection=eptic3">
+<s id="1074:3">
 Aluksi	N_Tra_Sg	Alku-n
 on	V_Prs_Act_Sg3	olla-v
 todettava	PrsPrc_Pass_Nom_Sg	todeta-x
@@ -6868,7 +6868,7 @@ hallitukset	N_Nom_Pl	hallitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:4&collection=eptic3">
+<s id="1074:4">
 Kamerun	N_Prop_Nom_Sg	Kamerun-n
 on	V_Prs_Act_Sg3	olla-v
 erittäin	Adv	erittäin-r
@@ -6914,7 +6914,7 @@ alkuperäinkansoja	N_Par_Pl	alkuperäinkansoja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:5&collection=eptic3">
+<s id="1074:5">
 Kyseisissä	A_Ine_Pl	kyseinen-j
 valtioissa	N_Ine_Pl	valtio-n
 puunkorjuuala	N_Nom_Sg	puunkorjuuala-n
@@ -6937,7 +6937,7 @@ toimeentulolle	N_All_Sg	toimeentulo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:6&collection=eptic3">
+<s id="1074:6">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 takia	Adp_Po	takia-x
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
@@ -6965,7 +6965,7 @@ kuulemista	N_Par_Sg	kuuleminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:7&collection=eptic3">
+<s id="1074:7">
 Vasemmiston	N_Gen_Sg	vasemmisto-n
 päätöslauselmassa	N_Ine_Sg	päätöslauselma-n
 huomautetaan	V_Prs_Pass_Pe4	huomauttaa-v
@@ -6983,7 +6983,7 @@ köyhyystasoon	N_Ill_Sg	köyhyystasoon-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:8&collection=eptic3">
+<s id="1074:8">
 Se	Pron_Dem_Nom_Sg	se-p
 voi	V_Prs_Act_Sg3	voida-v
 tarjota	V_Inf1_Lat	tarjota-v
@@ -7017,7 +7017,7 @@ yhteisöissä	N_Ine_Pl	yhteisö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:9&collection=eptic3">
+<s id="1074:9">
 Sitä	Pron_Dem_Par_Sg	se-p
 eivät	V_Neg_Pl3	ei-v
 voi	V_Prs_Act_ConNeg	voida-v
@@ -7053,7 +7053,7 @@ omistukseen	N_Ill_Sg	omistus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1074:10&collection=eptic3">
+<s id="1074:10">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 suhteessa	N_Ine_Sg	suhde-n
 Saharan	N_Prop_Gen_Sg	Sahara-n
@@ -7089,7 +7089,7 @@ vastaan	Adp_Po	vastaan-x
 <speaker name="Davies Chris" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="227" duration="short" durations="100.0" speed="medium" speedwm="136.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1081:1&collection=eptic3">
+<s id="1081:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -7100,7 +7100,7 @@ kumppanuussopimuksista	N_Ela_Pl	kumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:2&collection=eptic3">
+<s id="1081:2">
 Ne	Pron_Dem_Nom_Pl	ne-p
 ovat	V_Prs_Act_Pl3	olla-v
 kauniita	A_Par_Pl	kaunis-j
@@ -7132,7 +7132,7 @@ saavuttamiseksi	N_Tra_Sg	saavuttaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:3&collection=eptic3">
+<s id="1081:3">
 Kuitenkin	Adv	kuitenkin-r
 Kongon	N_Prop_Gen_Sg	Konko-n
 kokoisen	A_Gen_Sg	kokoinen-j
@@ -7149,7 +7149,7 @@ ongelmia	N_Par_Pl	ongelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:4&collection=eptic3">
+<s id="1081:4">
 Valtio	N_Nom_Sg	valtio-n
 on	V_Prs_Act_Sg3	olla-v
 lähes	Adv	lähes-r
@@ -7185,7 +7185,7 @@ pohjalle	N_All_Sg	pohja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:5&collection=eptic3">
+<s id="1081:5">
 Sitten	Adp_Pr	sitten-x
 henkilöstö	N_Nom_Sg	henkilöstö-n
 <g/>
@@ -7250,7 +7250,7 @@ pitäisi	V_Cond_Act_Sg3	pitää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:6&collection=eptic3">
+<s id="1081:6">
 Kaikki	Pron_Qnt_Nom	kaikki-p
 nämä	Pron_Dem_Nom_Pl	nämä-p
 ongelmat	N_Nom_Pl	ongelma-n
@@ -7275,7 +7275,7 @@ tahansa	Adv	tahansa-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1081:7&collection=eptic3">
+<s id="1081:7">
 Mitä	Pron_Rel_Par	Mi-p
 takeita	N_Par_Pl	tae-n
 komissio	N_Nom_Sg	komissio-n
@@ -7329,7 +7329,7 @@ tavoitteet	N_Nom_Pl	tavoite-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="467" duration="medium" durations="195.0" speed="medium" speedwm="143.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1079:1&collection=eptic3">
+<s id="1079:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -7343,7 +7343,7 @@ kumppanuussopimuksen	N_Gen_Sg	kumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:2&collection=eptic3">
+<s id="1079:2">
 Kauppa	N_Nom_Sg	kauppa-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -7370,7 +7370,7 @@ siihen	Pron_Dem_Ill_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:3&collection=eptic3">
+<s id="1079:3">
 Korostaisin	V_Cond_Act_Sg1	korostaa-v
 vielä	Adv	vielä-r
 kerran	N_Gen_Sg	kerta-n
@@ -7392,7 +7392,7 @@ huolenaihetta	N_Par_Sg	huoliaihe-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:4&collection=eptic3">
+<s id="1079:4">
 Teidän	Pron_Pers_Gen_Pl	te-p
 <g/>
 ,	Punct	,-x
@@ -7411,7 +7411,7 @@ jostakin	Pron_Qnt_Ela_Sg	joka-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:5&collection=eptic3">
+<s id="1079:5">
 En	V_Neg_Sg1	ei-v
 haluaisi	V_Cond_Act_ConNeg	haluta-v
 myöskään	Adv	myöskään-r
@@ -7425,7 +7425,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:6&collection=eptic3">
+<s id="1079:6">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 <g/>
 ,	Punct	,-x
@@ -7452,7 +7452,7 @@ historia	N_Nom_Sg	historia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:7&collection=eptic3">
+<s id="1079:7">
 Ne	Pron_Dem_Nom_Pl	ne-p
 itsenäistyivät	V_PrfPrc_Act_Pl3	itsenäistyä-v
 50	Num_Nom_Sg	@card@-m
@@ -7477,7 +7477,7 @@ aikansa	N_Gen_Sg	aika-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:8&collection=eptic3">
+<s id="1079:8">
 Vaatii	V_Prs_Act_Sg3	vaatia-v
 aikaa	N_Par_Sg	aika-n
 perustaa	V_Inf1_Lat	perustaa-v
@@ -7505,7 +7505,7 @@ tiellä	N_Ade_Sg	tie-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:9&collection=eptic3">
+<s id="1079:9">
 Erityisesti	Adv	erityisesti-r
 Afrikassa	N_Prop_Ine_Sg	Afrikka-n
 ne	Pron_Dem_Nom_Pl	ne-p
@@ -7530,7 +7530,7 @@ paranevat	V_Prs_Act_Pl3	parata-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:10&collection=eptic3">
+<s id="1079:10">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 <g/>
 ,	Punct	,-x
@@ -7568,7 +7568,7 @@ yhteistyötä	N_Par_Sg	yhteistyö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:11&collection=eptic3">
+<s id="1079:11">
 Me	Pron_Pers_Nom_Pl	me-p
 autamme	V_Prs_Act_Pl1	auttaa-v
 niitä	Pron_Dem_Par_Pl	ne-p
@@ -7603,7 +7603,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:12&collection=eptic3">
+<s id="1079:12">
 Neuvottelut	N_Nom_Pl	neuvottelu-n
 ovat	V_Prs_Act_Pl3	olla-v
 vielä	Adv	vielä-r
@@ -7620,7 +7620,7 @@ suhteen	Adp_Po	suhteen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:13&collection=eptic3">
+<s id="1079:13">
 Sanoisinkin	V_Cond_Act_Sg1	sanoa-v
 <g/>
 ,	Punct	,-x
@@ -7632,7 +7632,7 @@ minimaaliset	A_Nom_Pl	minimaalinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:14&collection=eptic3">
+<s id="1079:14">
 Sitoutuminen	N_Nom_Sg	sitoutuminen-n
 on	V_Prs_Act_Sg3	olla-v
 lähtökohta	N_Nom_Sg	lähtökohta-n
@@ -7647,7 +7647,7 @@ myönteisenä	A_Ess_Sg	myönteinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:15&collection=eptic3">
+<s id="1079:15">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitäisi	V_Cond_Act_Sg3	pitää-v
 ottaa	V_Inf1_Lat	ottaa-v
@@ -7660,7 +7660,7 @@ hillitsemiseen	N_Ill_Sg	hillitseminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:16&collection=eptic3">
+<s id="1079:16">
 Cancúnin	N_Prop_Gen_Sg	Cancún-n
 kokous	N_Nom_Sg	kokous-n
 antoi	V_PrfPrc_Act_Sg3	antaa-v
@@ -7679,7 +7679,7 @@ vakavasti	Adv	vakavasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:17&collection=eptic3">
+<s id="1079:17">
 Emme	V_Neg_Pl1	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
 ainoita	Pron_Qnt_Par_Pl	ainoa-p
@@ -7703,14 +7703,14 @@ meiltä	Pron_Pers_Abl_Pl	me-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:18&collection=eptic3">
+<s id="1079:18">
 Katsotaan	V_Prs_Pass_Pe4	katsoa-v
 esimerkiksi	N_Tra_Sg	esimerkki-n
 energiatehokkuutta	N_Par_Sg	energiatehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:19&collection=eptic3">
+<s id="1079:19">
 Me	Pron_Pers_Nom_Pl	me-p
 teimme	V_PrfPrc_Act_Pl1	tehdä-v
 aloitteen	N_Gen_Sg	aloite-n
@@ -7724,7 +7724,7 @@ meitä	Pron_Pers_Par_Pl	me-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:20&collection=eptic3">
+<s id="1079:20">
 Sama	Pron_Qnt_Nom_Sg	sama-p
 pätee	V_Prs_Act_Sg3	päteä-v
 resurssien	N_Gen_Pl	resurssi-n
@@ -7732,7 +7732,7 @@ tehokkuuteen	N_Ill_Sg	tehokkuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:21&collection=eptic3">
+<s id="1079:21">
 Jos	CS	Jos-x
 käytämme	V_Prs_Act_Pl1	käyttää-v
 vähemmän	Adv	vähemmän-r
@@ -7747,7 +7747,7 @@ esimerkkiämme	N_Par_Sg	esimerkki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:22&collection=eptic3">
+<s id="1079:22">
 Uskon	V_Prs_Act_Sg1	uskoa-v
 <g/>
 ,	Punct	,-x
@@ -7764,7 +7764,7 @@ muita	Pron_Qnt_Par_Pl	muu-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:23&collection=eptic3">
+<s id="1079:23">
 Lopuksi	N_Tra_Sg	loppu-n
 vakuutan	V_Prs_Act_Sg1	vakuuttaa-v
 teille	Pron_Pers_All_Pl	te-p
@@ -7777,7 +7777,7 @@ valvontaa	N_Par_Sg	valvonta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:24&collection=eptic3">
+<s id="1079:24">
 Siihen	Pron_Dem_Ill_Sg	se-p
 osallistuvat	V_Prs_Act_Pl3	osallistua-v
 oma	A_Nom_Sg	oma-j
@@ -7801,7 +7801,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:25&collection=eptic3">
+<s id="1079:25">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 yksi	Num_Nom_Sg	yksi-m
@@ -7816,7 +7816,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:26&collection=eptic3">
+<s id="1079:26">
 Komissio	N_Nom_Sg	komissio-n
 ei	V_Neg_Sg3	ei-v
 toimi	V_Prs_Act_ConNeg	toimia-v
@@ -7836,7 +7836,7 @@ tekemisessä	N_Ine_Sg	tekeminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1079:27&collection=eptic3">
+<s id="1079:27">
 Pyydän	V_Prs_Act_Sg1	pyytää-v
 todellakin	Adv	todella-r
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
@@ -7880,7 +7880,7 @@ tänään	Adv	tänään-r
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="470" duration="medium" durations="191.0" speed="medium" speedwm="147.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1080:1&collection=eptic3">
+<s id="1080:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -7891,7 +7891,7 @@ lyhyesti	Adv	lyhyesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:2&collection=eptic3">
+<s id="1080:2">
 Huomaan	V_Prs_Act_Sg1	huomata-v
 olevani	PrsPrc_Act_Gen_Sg	olla-x
 melkein	Adv	melkein-r
@@ -7910,7 +7910,7 @@ asiasta	N_Ela_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:3&collection=eptic3">
+<s id="1080:3">
 Ensiksi	Adv	Ensi-r
 haluaisin	V_Cond_Act_Sg1	haluta-v
 toistaa	V_Inf1_Lat	toistaa-v
@@ -7946,7 +7946,7 @@ nojalla	N_Ade_Sg	noja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:4&collection=eptic3">
+<s id="1080:4">
 Väliaikainen	A_Nom_Sg	väliaikainen-j
 talouskumppanuussopimus	N_Nom_Sg	talouskumppanuussopimus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -8002,7 +8002,7 @@ yhdentymistä	N_Par_Sg	yhdentyminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:5&collection=eptic3">
+<s id="1080:5">
 Mutta	CC	Mutta-x
 tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
@@ -8022,13 +8022,13 @@ jatkumisen	N_Gen_Sg	jatkuminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:6&collection=eptic3">
+<s id="1080:6">
 Sitten	Adp_Pr	sitten-x
 kalastuksesta	N_Ela_Sg	kalastus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:7&collection=eptic3">
+<s id="1080:7">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 tehnyt	PrfPrc_Act_Nom_Sg	tehdä-x
@@ -8045,7 +8045,7 @@ poikkeus	N_Nom_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:8&collection=eptic3">
+<s id="1080:8">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 jää	V_Prs_Act_Sg3	jäädä-v
 ainoaksi	Pron_Qnt_Tra_Sg	ainoa-p
@@ -8053,7 +8053,7 @@ poikkeukseksi	N_Tra_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:9&collection=eptic3">
+<s id="1080:9">
 Maailmassa	N_Ine_Sg	maailma-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -8069,7 +8069,7 @@ poikkeusta	N_Par_Sg	poikkeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:10&collection=eptic3">
+<s id="1080:10">
 Miksi	Pron_Rel_Tra	Mi-p
 sitten	Adp_Pr	sitten-x
 suomme	V_Prs_Act_Pl1	suoda-v
@@ -8078,7 +8078,7 @@ Papua-Uudelle-Guinealle	N_All_Sg	Papua-Uudelle-Guinealle-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1080:11&collection=eptic3">
+<s id="1080:11">
 Kerron	V_Prs_Act_Sg1	Kerto-v
 teille	Pron_Pers_All_Pl	te-p
 <g/>
@@ -8120,7 +8120,7 @@ tehdä	V_Inf1_Lat	tehdä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:12&collection=eptic3">
+<s id="1080:12">
 Mikään	Pron_Qnt_Nom_Sg	Mi-p
 ei	V_Neg_Sg3	ei-v
 estä	V_Prs_Act_ConNeg	estää-v
@@ -8166,7 +8166,7 @@ sitä	Pron_Dem_Par_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:13&collection=eptic3">
+<s id="1080:13">
 Nykytilanne	N_Nom_Sg	nykytilanne-n
 on	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
@@ -8199,7 +8199,7 @@ maihinsa	N_Ill_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:14&collection=eptic3">
+<s id="1080:14">
 Näin	Adv	näin-r
 ne	Pron_Dem_Nom_Pl	ne-p
 eivät	V_Neg_Pl3	ei-v
@@ -8211,7 +8211,7 @@ Papua-Uudessa-Guineassa	N_Prop_Ine_Sg	Papua-Uudessa-Guineassa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:15&collection=eptic3">
+<s id="1080:15">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 nyt	Adv	nyt-r
@@ -8226,7 +8226,7 @@ naisille	N_All_Pl	nainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:16&collection=eptic3">
+<s id="1080:16">
 Valitamme	V_Prs_Act_Pl1	valittaa-v
 usein	Adv	usein-r
 <g/>
@@ -8242,7 +8242,7 @@ toimintaa	N_Par_Sg	toiminta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:17&collection=eptic3">
+<s id="1080:17">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 me	Pron_Pers_Nom_Pl	me-p
 itse	Pron_Refl_Nom_Sg	itse-p
@@ -8257,7 +8257,7 @@ hyväksi	A_Tra_Sg	hyvä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:18&collection=eptic3">
+<s id="1080:18">
 Kuten	Adv	kuten-r
 komission	N_Gen_Sg	komissio-n
 jäsen	N_Nom_Sg	jäsen-n
@@ -8288,7 +8288,7 @@ vaatimukset	N_Nom_Pl	vaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:19&collection=eptic3">
+<s id="1080:19">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 on	V_Prs_Act_Sg3	olla-v
 täytettävä	PrsPrc_Pass_Nom_Sg	täyttää-x
@@ -8299,7 +8299,7 @@ kasvinsuojeluvaatimuksemme	N_Gen_Sg	kasvinsuojeluvaatimuksemme-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:20&collection=eptic3">
+<s id="1080:20">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 ehdottoman	A_Gen_Sg	ehdoton-j
@@ -8307,7 +8307,7 @@ tärkeää	A_Par_Sg	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:21&collection=eptic3">
+<s id="1080:21">
 Papua-Uudessa-Guineassa	N_Ine_Sg	Papua-Uudessa-Guineassa-n
 olevat	PrsPrc_Act_Nom_Pl	olla-x
 kolme	Num_Nom_Sg	kolme-m
@@ -8322,7 +8322,7 @@ työpaikkoja	N_Par_Pl	työpaikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:22&collection=eptic3">
+<s id="1080:22">
 Mikäli	CS	mikäli-x
 tehtaiden	N_Gen_Pl	tehdas-n
 lukumäärä	N_Nom_Sg	lukumäärä-n
@@ -8352,7 +8352,7 @@ toimiin	N_Ill_Pl	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:23&collection=eptic3">
+<s id="1080:23">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 kuitenkin	Adv	kuitenkin-r
@@ -8362,7 +8362,7 @@ puolestaan	N_Ela_Sg	puoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:24&collection=eptic3">
+<s id="1080:24">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 sopimus	N_Nom_Sg	sopimus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -8374,7 +8374,7 @@ alkaen	V_Inf2_Act_Ins	alkaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:25&collection=eptic3">
+<s id="1080:25">
 Mitään	Pron_Qnt_Par_Sg	Mi-p
 äkillistä	A_Par_Sg	äkillinen-j
 nousua	N_Par_Sg	nousu-n
@@ -8384,7 +8384,7 @@ ollut	PrfPrc_Act_Nom_Sg	olla-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:26&collection=eptic3">
+<s id="1080:26">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 tonnikalateollisuudelle	N_All_Sg	tonnikalateollisuudelle-n
 ei	V_Neg_Sg3	ei-v
@@ -8393,7 +8393,7 @@ uhkaa	N_Par_Sg	uhka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:27&collection=eptic3">
+<s id="1080:27">
 Olen	V_Prs_Act_Sg1	Ole-v
 valmistelijana	N_Ess_Sg	valmistelija-n
 tavannut	PrfPrc_Act_Nom_Sg	tavata-x
@@ -8419,7 +8419,7 @@ ole	V_Prs_Act_ConNeg	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:28&collection=eptic3">
+<s id="1080:28">
 Tulevaisuudesta	N_Ela_Sg	tulevaisuus-n
 he	Pron_Pers_Nom_Pl	he-p
 sen	Pron_Dem_Gen_Sg	se-p
@@ -8429,7 +8429,7 @@ huolissaan	N_Ine_Pl	huoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:29&collection=eptic3">
+<s id="1080:29">
 He	Pron_Pers_Nom_Pl	He-p
 hyväksyvät	V_Prs_Act_Pl3	hyväksyä-v
 sen	Pron_Dem_Gen_Sg	se-p
@@ -8450,7 +8450,7 @@ uhkaa	N_Par_Sg	uhka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:30&collection=eptic3">
+<s id="1080:30">
 Älkäämme	V_Neg_Imprt_Act_Pl1	ei-v
 siis	Adv	siis-r
 liioitelko	V_Imprt_Act_ConNeg	liioitella-v
@@ -8458,7 +8458,7 @@ tilannetta	N_Par_Sg	tilanne-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1080:31&collection=eptic3">
+<s id="1080:31">
 Älkäämme	V_Neg_Imprt_Act_Pl1	ei-v
 panko	V_Imprt_Act_ConNeg	panna-v
 köyhää	A_Par_Sg	köyhä-j
@@ -8483,7 +8483,7 @@ etumme	N_Nom_Sg	etu-n
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="691" duration="long" durations="370.0" speed="slow" speedwm="112.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1084:1&collection=eptic3">
+<s id="1084:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -8512,7 +8512,7 @@ kohtaan	V_Prs_Act_Sg1	kohdata-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:2&collection=eptic3">
+<s id="1084:2">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -8524,7 +8524,7 @@ neuvoaan	N_Par_Sg	neuvo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:3&collection=eptic3">
+<s id="1084:3">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 suostumuksella	N_Ade_Sg	suostumus-n
@@ -8560,7 +8560,7 @@ tavoite	N_Nom_Sg	tavoite-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:4&collection=eptic3">
+<s id="1084:4">
 Lisäksi	Adv	lisäksi-r
 se	Pron_Dem_Nom_Sg	se-p
 antaa	V_Prs_Act_Sg3	antaa-v
@@ -8576,7 +8576,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:5&collection=eptic3">
+<s id="1084:5">
 Vuonna	N_Ess_Sg	vuosi-n
 2007	Num_Nom_Sg	@card@-m
 <g/>
@@ -8616,7 +8616,7 @@ riippuvaisia	A_Par_Pl	riippuvainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:6&collection=eptic3">
+<s id="1084:6">
 Komission	N_Gen_Sg	komissio-n
 sitoumus	N_Nom_Sg	sitoumus-n
 saattaa	V_Prs_Act_Sg3	saattaa-v
@@ -8643,7 +8643,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:7&collection=eptic3">
+<s id="1084:7">
 Me	Pron_Pers_Nom_Pl	me-p
 voimme	V_Prs_Act_Pl1	voida-v
 edetä	V_Inf1_Lat	edetä-v
@@ -8663,7 +8663,7 @@ mukaisesti	Adp_Po	mukaisesti-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:8&collection=eptic3">
+<s id="1084:8">
 Kyseessä	N_Ine_Sg	kyse-n
 ovat	V_Prs_Act_Pl3	olla-v
 pienet	A_Nom_Pl	pieni-j
@@ -8691,7 +8691,7 @@ hun	NON-TWOL	Hun-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:9&collection=eptic3">
+<s id="1084:9">
 Joillakin	Pron_Qnt_Ade_Pl	Joki-p
 mailla	N_Ade_Pl	maa-n
 on	V_Prs_Act_Sg3	olla-v
@@ -8730,7 +8730,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:10&collection=eptic3">
+<s id="1084:10">
 Siksi	Adv	siksi-r
 olemme	V_Prs_Act_Pl1	olla-v
 avoimia	A_Par_Pl	avoin-j
@@ -8758,7 +8758,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:11&collection=eptic3">
+<s id="1084:11">
 Minkä	Pron_Rel_Gen	mikä-p
 lähestymistavan	N_Gen_Sg	lähestyminentapa-n
 sitten	Adp_Pr	sitten-x
@@ -8782,7 +8782,7 @@ kehitystä	N_Par_Sg	kehitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:12&collection=eptic3">
+<s id="1084:12">
 Siitä	Pron_Dem_Ela_Sg	se-p
 syystä	N_Ela_Sg	syy-n
 on	V_Prs_Act_Sg3	olla-v
@@ -8795,7 +8795,7 @@ rahoitustukea	N_Par_Sg	rahoitustuki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:13&collection=eptic3">
+<s id="1084:13">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 syystä	N_Ela_Sg	syy-n
 sallimme	V_Prs_Act_Pl1	sallia-v
@@ -8819,7 +8819,7 @@ maille	N_All_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:14&collection=eptic3">
+<s id="1084:14">
 Olen	V_Prs_Act_Sg1	Ole-v
 tässä	Pron_Dem_Ine_Sg	tämä-p
 yhteydessä	N_Ine_Sg	yhteys-n
@@ -8843,7 +8843,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:15&collection=eptic3">
+<s id="1084:15">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 poikkeusluvan	N_Gen_Sg	poikkeuslupa-n
 myönsimme	V_PrfPrc_Act_Pl1	myöntää-v
@@ -8853,7 +8853,7 @@ syistä	N_Ela_Pl	syy-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:16&collection=eptic3">
+<s id="1084:16">
 Näin	Adv	näin-r
 toimimme	V_Prs_Act_Pl1	toimia-v
 sen	Pron_Dem_Gen_Sg	se-p
@@ -8887,7 +8887,7 @@ etuja	N_Par_Pl	etu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:17&collection=eptic3">
+<s id="1084:17">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 unioni	N_Nom_Sg	unioni-n
 ja	CC	ja-x
@@ -8918,7 +8918,7 @@ havaittu	PrfPrc_Pass_Nom_Sg	havaita-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:18&collection=eptic3">
+<s id="1084:18">
 Voin	V_Prs_Act_Sg1	Vuo-v
 myös	Adv	myös-r
 vakuuttaa	V_Inf1_Lat	vakuuttaa-v
@@ -8938,7 +8938,7 @@ alueelle	N_All_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:19&collection=eptic3">
+<s id="1084:19">
 Komissio	N_Nom_Sg	komissio-n
 aikoo	V_Prs_Act_Sg3	aikoa-v
 joka	Pron_Rel_Nom_Sg	joka-p
@@ -8961,7 +8961,7 @@ parlamentille	N_All_Sg	parlamentti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:20&collection=eptic3">
+<s id="1084:20">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 teistä	Pron_Pers_Ela_Pl	te-p
 olivat	V_PrfPrc_Act_Pl3	olla-v
@@ -8983,7 +8983,7 @@ valiokunnassa	N_Ine_Sg	valiokunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:21&collection=eptic3">
+<s id="1084:21">
 Hän	Pron_Pers_Nom_Sg	hän-p
 ilmaisi	V_PrfPrc_Act_Sg3	ilmaista-v
 hallituksensa	N_Gen_Sg	hallitus-n
@@ -9003,7 +9003,7 @@ vesille	N_All_Pl	vesi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:22&collection=eptic3">
+<s id="1084:22">
 Me	Pron_Pers_Nom_Pl	me-p
 otamme	V_Prs_Act_Pl1	ottaa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
@@ -9025,7 +9025,7 @@ toteutuu	V_Prs_Act_Sg3	toteutua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:23&collection=eptic3">
+<s id="1084:23">
 Parlamentin	N_Gen_Sg	parlamentti-n
 suostumus	N_Nom_Sg	suostumus-n
 sallii	V_Prs_Act_Sg3	sallia-v
@@ -9065,7 +9065,7 @@ kysymykset	N_Nom_Pl	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:24&collection=eptic3">
+<s id="1084:24">
 Teidän	Pron_Pers_Gen_Pl	te-p
 äänestyksenne	N_Gen_Sg	äänestys-n
 on	V_Prs_Act_Sg3	olla-v
@@ -9075,7 +9075,7 @@ tärkeä	A_Nom_Sg	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:25&collection=eptic3">
+<s id="1084:25">
 Se	Pron_Dem_Nom_Sg	se-p
 auttaa	V_Prs_Act_Sg3	auttaa-v
 meitä	Pron_Pers_Par_Pl	me-p
@@ -9089,7 +9089,7 @@ asioissa	N_Ine_Pl	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:26&collection=eptic3">
+<s id="1084:26">
 Fidžistä	NON-TWOL	Fidžistä-x
 toteaisin	N_Nom_Sg	toteaisin-n
 <g/>
@@ -9111,7 +9111,7 @@ sitä	Pron_Dem_Par_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:27&collection=eptic3">
+<s id="1084:27">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tekee	V_Prs_Act_Sg3	tehdä-v
 Papua-Uudesta-Guineasta	N_Ela_Sg	Papua-Uudesta-Guineasta-n
@@ -9139,7 +9139,7 @@ talouskumppanuussopimusta	N_Par_Sg	talouskumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:28&collection=eptic3">
+<s id="1084:28">
 Fidžillä	NON-TWOL	Fidži-x
 on	V_Prs_Act_Sg3	olla-v
 edelleen	Adv	edelleen-r
@@ -9165,7 +9165,7 @@ kauppapakotteita	N_Par_Pl	kauppapakote-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:29&collection=eptic3">
+<s id="1084:29">
 Kuten	Adv	kuten-r
 tiedätte	V_Prs_Act_Pl2	tietää-v
 <g/>
@@ -9184,7 +9184,7 @@ vuoksi	Adp_Po	vuoksi-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:30&collection=eptic3">
+<s id="1084:30">
 Avun	N_Gen_Sg	avu-n
 jatkaminen	N_Nom_Sg	jatkaminen-n
 edellyttäisi	V_Cond_Act_Sg3	edellyttää-v
@@ -9208,7 +9208,7 @@ edistystä	N_Par_Sg	edistys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:31&collection=eptic3">
+<s id="1084:31">
 Tänään	Adv	tänään-r
 keskusteltavanamme	PrsPrc_Pass_Ess_Sg	keskustella-x
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -9236,7 +9236,7 @@ menetetä	V_Prs_Pass_ConNeg	menettää-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1084:32&collection=eptic3">
+<s id="1084:32">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 täysin	Adv	täysin-r
@@ -9259,7 +9259,7 @@ kanssa	Adp_Po	kanssa-x
 <speaker name="Andrikiené Laima Liucija" gender="F" country="Lithuania" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="228" duration="short" durations="107.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1090:1&collection=eptic3">
+<s id="1090:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -9294,7 +9294,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1090:2&collection=eptic3">
+<s id="1090:2">
 Sopimus	N_Nom_Sg	sopimus-n
 nykyisellään	A_Ade_Sg	nykyinen-j
 ei	V_Neg_Sg3	ei-v
@@ -9319,7 +9319,7 @@ sopimus	N_Nom_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1090:3&collection=eptic3">
+<s id="1090:3">
 Me	Pron_Pers_Nom_Pl	me-p
 toivomme	V_Prs_Act_Pl1	toivoa-v
 <g/>
@@ -9344,7 +9344,7 @@ maita	N_Par_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1090:4&collection=eptic3">
+<s id="1090:4">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 nykyinen	A_Nom_Sg	nykyinen-j
 sopimus	N_Nom_Sg	sopimus-n
@@ -9393,7 +9393,7 @@ kysymyksessä	N_Ine_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1090:5&collection=eptic3">
+<s id="1090:5">
 Päätöslauselmassamme	N_Ine_Sg	päätöslauselma-n
 nostamme	V_Prs_Act_Pl1	nostaa-v
 esiin	Adv	esiin-r
@@ -9452,7 +9452,7 @@ etuja	N_Par_Pl	etu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1090:6&collection=eptic3">
+<s id="1090:6">
 Siksi	Adv	siksi-r
 kehotamme	V_Prs_Act_Pl1	kehottaa-v
 komissiota	N_Par_Sg	komissio-n
@@ -9509,7 +9509,7 @@ keskeyttämiseen	N_Ill_Sg	keskeyttäminen-n
 <speaker name="Lövin Isabella" gender="F" country="Sweden" politfunc="MEP" politgroup="Verts-ALE">
 <st language="en" length="short" lengthw="177" duration="short" durations="74.0" speed="medium" speedwm="143.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1091:1&collection=eptic3">
+<s id="1091:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -9524,7 +9524,7 @@ edistäminen	N_Nom_Sg	edistäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:2&collection=eptic3">
+<s id="1091:2">
 Tähänastinen	A_Nom_Sg	tähänastinen-j
 kokemus	N_Nom_Sg	kokemus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -9539,7 +9539,7 @@ tapahtunut	PrfPrc_Act_Nom_Sg	tapahtua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:3&collection=eptic3">
+<s id="1091:3">
 Päinvastoin	Adv	päinvastoin-r
 <g/>
 ,	Punct	,-x
@@ -9560,7 +9560,7 @@ AKT-maille	N_All_Pl	AKT-maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:4&collection=eptic3">
+<s id="1091:4">
 Papua-Uudessa-Guineassa	N_Prop_Ine_Sg	Papua-Uudessa-Guineassa-n
 ja	CC	ja-x
 Fidžissä	NON-TWOL	Fidžissä-x
@@ -9574,7 +9574,7 @@ tästä	Pron_Dem_Ela_Sg	tämä-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:5&collection=eptic3">
+<s id="1091:5">
 Olen	V_Prs_Act_Sg1	Ole-v
 sitä	Pron_Dem_Par_Sg	se-p
 mieltä	N_Par_Sg	mieli-n
@@ -9601,7 +9601,7 @@ sovittu	PrfPrc_Pass_Nom_Sg	sopia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:6&collection=eptic3">
+<s id="1091:6">
 Sanon	V_Prs_Act_Sg1	sanoa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
 <g/>
@@ -9617,7 +9617,7 @@ keskusteltaessa	V_Inf2_Pass_Ine	keskustella-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1091:7&collection=eptic3">
+<s id="1091:7">
 Mitkä	Pron_Rel_Nom_Pl	mikä-p
 ovat	V_Prs_Act_Pl3	olla-v
 vaikutukset	N_Nom_Pl	vaikutus-n
@@ -9632,7 +9632,7 @@ ympäristöön	N_Ill_Sg	ympäristö-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1091:8&collection=eptic3">
+<s id="1091:8">
 Millaiset	A_Interr_Nom_Pl	millainen-j
 ovat	V_Prs_Act_Pl3	olla-v
 työntekijöiden	N_Gen_Pl	työntekijä-n
@@ -9641,7 +9641,7 @@ olot	N_Nom_Pl	olo-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1091:9&collection=eptic3">
+<s id="1091:9">
 Kaikkea	Pron_Qnt_Par_Sg	kaikki-p
 tätä	Pron_Dem_Par_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -9705,7 +9705,7 @@ markkinoille	N_All_Pl	markkinat-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="44.0" speed="high" speedwm="181.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1092:1&collection=eptic3">
+<s id="1092:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -9738,7 +9738,7 @@ ajatuksesta	N_Ela_Sg	ajatus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1092:2&collection=eptic3">
+<s id="1092:2">
 Viime	A	viime-j
 viikolla	N_Ade_Sg	viikko-n
 Yhdistyneen	A_Gen_Sg	yhdistynyt-j
@@ -9777,7 +9777,7 @@ kansalaisilta	N_Abl_Pl	kansalainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1092:3&collection=eptic3">
+<s id="1092:3">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 asia	N_Nom_Sg	asia-n
 ei	V_Neg_Sg3	ei-v
@@ -9846,7 +9846,7 @@ auttaa	V_Inf1_Lat	auttaa-v
 <speaker name="Piebalgs Andris" gender="M" country="Latvia" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="549" duration="medium" durations="282.0" speed="slow" speedwm="116.8" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1093:1&collection=eptic3">
+<s id="1093:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -9860,14 +9860,14 @@ keskustelu	N_Nom_Sg	keskustelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:2&collection=eptic3">
+<s id="1093:2">
 Maailmassa	N_Ine_Sg	maailma-n
 on	V_Prs_Act_Sg3	olla-v
 köyhyyttä	N_Par_Sg	köyhyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:3&collection=eptic3">
+<s id="1093:3">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 toimittava	PrsPrc_Act_Nom_Sg	toimia-x
@@ -9876,7 +9876,7 @@ suhteen	Adp_Po	suhteen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:4&collection=eptic3">
+<s id="1093:4">
 Yksi	Num_Nom_Sg	yksi-m
 tapa	N_Nom_Sg	tapa-n
 olisi	V_Cond_Act_Sg3	olla-v
@@ -9886,7 +9886,7 @@ siirto	N_Nom_Sg	siirto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:5&collection=eptic3">
+<s id="1093:5">
 On	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
 paljon	Adv	paljon-r
@@ -9902,7 +9902,7 @@ työllään	N_Ade_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:6&collection=eptic3">
+<s id="1093:6">
 Papua-Uudessa-Guineassa	N_Ine_Sg	Papua-Uudessa-Guineassa-n
 olevat	PrsPrc_Act_Nom_Pl	olla-x
 kolme	Num_Nom_Sg	kolme-m
@@ -9934,7 +9934,7 @@ naisia	N_Par_Pl	nainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:7&collection=eptic3">
+<s id="1093:7">
 Papua-Uudessa-Guineassa	N_Ine_Sg	Papua-Uudessa-Guineassa-n
 <g/>
 ,	Punct	,-x
@@ -9953,7 +9953,7 @@ työpaikoista	N_Ela_Pl	työpaikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:8&collection=eptic3">
+<s id="1093:8">
 Kun	CS	Kun-x
 komissio	N_Nom_Sg	komissio-n
 ehdottaa	V_Prs_Act_Sg3	ehdottaa-v
@@ -9979,7 +9979,7 @@ suojamekanismeja	N_Par_Pl	suojamekanismi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:9&collection=eptic3">
+<s id="1093:9">
 Komissio	N_Nom_Sg	komissio-n
 katsoo	V_Prs_Act_Sg3	katsoa-v
 <g/>
@@ -10041,7 +10041,7 @@ tonnikalamarkkinoista	N_Ela_Pl	tonnikalamarkkinat-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:10&collection=eptic3">
+<s id="1093:10">
 Väliaikainen	A_Nom_Sg	väliaikainen-j
 soveltaminen	N_Nom_Sg	soveltaminen-n
 on	V_Prs_Act_Sg3	olla-v
@@ -10059,7 +10059,7 @@ luvuista	N_Ela_Pl	luku-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:11&collection=eptic3">
+<s id="1093:11">
 Se	Pron_Dem_Nom_Sg	se-p
 ei	V_Neg_Sg3	ei-v
 aiheuta	V_Prs_Act_ConNeg	aiheuttaa-v
@@ -10071,7 +10071,7 @@ säilyketeollisuudelle	N_All_Sg	säilyketeollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:12&collection=eptic3">
+<s id="1093:12">
 Kauppavirtojen	N_Gen_Pl	kauppavirta-n
 kehitystä	N_Par_Sg	kehitys-n
 analysoidaan	V_Prs_Pass_Pe4	analysoida-v
@@ -10092,7 +10092,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:13&collection=eptic3">
+<s id="1093:13">
 Lisäksi	Adv	lisäksi-r
 komissio	N_Nom_Sg	komissio-n
 aikoo	V_Prs_Act_Sg3	aikoa-v
@@ -10121,7 +10121,7 @@ häiriöitä	N_Par_Pl	häiriö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:14&collection=eptic3">
+<s id="1093:14">
 Väliaikaisen	A_Gen_Sg	väliaikainen-j
 sopimuksen	N_Gen_Sg	sopimus-n
 kaupan	N_Gen_Sg	kauppa-n
@@ -10137,7 +10137,7 @@ käyttäminen	N_Nom_Sg	käyttäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:15&collection=eptic3">
+<s id="1093:15">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 ei	V_Neg_Sg3	ei-v
@@ -10163,7 +10163,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:16&collection=eptic3">
+<s id="1093:16">
 Myös	Adv	myös-r
 tätä	Pron_Dem_Par_Sg	tämä-p
 näkökohtaa	N_Par_Sg	näkökohta-n
@@ -10174,7 +10174,7 @@ tutkimuksessa	N_Ine_Sg	tutkimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:17&collection=eptic3">
+<s id="1093:17">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 lisätä	V_Inf1_Lat	lisätä-v
 <g/>
@@ -10222,7 +10222,7 @@ elintarviketurvallisuusvaatimuksia	N_Par_Pl	elintarviketurvallisuusvaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:18&collection=eptic3">
+<s id="1093:18">
 Mielestäni	N_Ela_Sg	mieli-n
 komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
@@ -10237,7 +10237,7 @@ esittämistä	N_Par_Sg	esittäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:19&collection=eptic3">
+<s id="1093:19">
 Siirryn	V_Prs_Act_Sg1	siirtyä-v
 nyt	Adv	nyt-r
 käsittelemään	V_Inf3_Ill	käsitellä-v
@@ -10250,7 +10250,7 @@ yleensä	Adv	yleensä-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:20&collection=eptic3">
+<s id="1093:20">
 Kaupankäynti	N_Nom_Sg	kaupankäynti-n
 on	V_Prs_Act_Sg3	olla-v
 kaikkea	Pron_Qnt_Par_Sg	kaikki-p
@@ -10260,7 +10260,7 @@ yksinkertaista	V_Imprt_Act_Sg2	yksinkertaistaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:21&collection=eptic3">
+<s id="1093:21">
 Kuten	Adv	kuten-r
 sanoin	N_Ins_Pl	sana-n
 <g/>
@@ -10276,7 +10276,7 @@ kehitysmaissa	N_Ine_Pl	kehitysmaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:22&collection=eptic3">
+<s id="1093:22">
 On	V_Prs_Act_Sg3	olla-v
 totta	A_Par_Sg	tosi-j
 <g/>
@@ -10291,7 +10291,7 @@ vaikeaa	A_Par_Sg	vaikea-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:23&collection=eptic3">
+<s id="1093:23">
 Alueellista	A_Par_Sg	alueellinen-j
 kehitystä	N_Par_Sg	kehitys-n
 ei	V_Neg_Sg3	ei-v
@@ -10302,7 +10302,7 @@ kauppasopimuksin	N_Ins_Pl	kauppasopimuksin-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:24&collection=eptic3">
+<s id="1093:24">
 Siksi	Adv	siksi-r
 olemme	V_Prs_Act_Pl1	olla-v
 varanneet	PrfPrc_Act_Nom_Pl	varata-x
@@ -10317,7 +10317,7 @@ apuun	N_Ill_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:25&collection=eptic3">
+<s id="1093:25">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 kolme	Num_Nom_Sg	kolme-m
@@ -10339,7 +10339,7 @@ nojalla	N_Ade_Sg	noja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:26&collection=eptic3">
+<s id="1093:26">
 Alueellista	A_Par_Sg	alueellinen-j
 kaupankäyntiä	N_Par_Sg	kaupankäynti-n
 voi	V_Prs_Act_Sg3	voida-v
@@ -10351,7 +10351,7 @@ helpottamalla	V_Inf3_Ade	helpottaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:27&collection=eptic3">
+<s id="1093:27">
 Jos	CS	Jos-x
 tarkastelemme	V_Prs_Act_Pl1	tarkastella-v
 kaikkia	Pron_Qnt_Par_Pl	kaikki-p
@@ -10376,7 +10376,7 @@ vaihtelua	N_Par_Sg	vaihtelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:28&collection=eptic3">
+<s id="1093:28">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 hyvin	Adv	hyvin-r
@@ -10387,7 +10387,7 @@ maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:29&collection=eptic3">
+<s id="1093:29">
 Kun	CS	Kun-x
 me	Pron_Pers_Nom_Pl	me-p
 puhumme	V_Prs_Act_Pl1	puhua-v
@@ -10412,7 +10412,7 @@ siitä	Pron_Dem_Ela_Sg	se-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:30&collection=eptic3">
+<s id="1093:30">
 Meidän	Pron_Pers_Gen_Pl	me-p
 pitää	V_Prs_Act_Sg3	pitää-v
 välittää	V_Inf1_Lat	välittää-v
@@ -10428,7 +10428,7 @@ tutkimuksen	N_Gen_Sg	tutkimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:31&collection=eptic3">
+<s id="1093:31">
 Ehdotamme	V_Prs_Act_Pl1	ehdottaa-v
 varsin	N_Ins_Pl	varsi-n
 asianmukaisia	A_Par_Pl	asianmukainen-j
@@ -10446,7 +10446,7 @@ mukaisia	A_Par_Pl	mukainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:32&collection=eptic3">
+<s id="1093:32">
 Katson	V_Prs_Act_Sg1	katsoa-v
 <g/>
 ,	Punct	,-x
@@ -10471,7 +10471,7 @@ vikaan	N_Ill_Sg	vika-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1093:33&collection=eptic3">
+<s id="1093:33">
 Mielestäni	N_Ela_Sg	mieli-n
 olemme	V_Prs_Act_Pl1	olla-v
 arvioineet	PrfPrc_Act_Nom_Pl	arvioida-x
@@ -10496,7 +10496,7 @@ sopimukselle	N_All_Sg	sopimus-n
 <speaker name="Martin David" gender="M" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="medium" lengthw="972" duration="long" durations="440.0" speed="medium" speedwm="132.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1069:1&collection=eptic3">
+<s id="1069:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -10525,7 +10525,7 @@ iltana	N_Ess_Sg	ilta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:2&collection=eptic3">
+<s id="1069:2">
 Haluan	V_Prs_Act_Sg1	haluta-v
 kiittää	V_Inf1_Lat	kiittää-v
 häntä	Pron_Pers_Par_Sg	häntä-p
@@ -10571,7 +10571,7 @@ avustaan	N_Ela_Sg	apu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:3&collection=eptic3">
+<s id="1069:3">
 Olen	V_Prs_Act_Sg1	Ole-v
 esittelijänä	N_Ess_Sg	esittelijä-n
 pyrkinyt	PrfPrc_Act_Nom_Sg	pyrkiä-x
@@ -10589,7 +10589,7 @@ työtä	N_Par_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:4&collection=eptic3">
+<s id="1069:4">
 Olen	V_Prs_Act_Sg1	Ole-v
 onnekas	A_Nom_Sg	onnekas-j
 siinä	Pron_Dem_Ine_Sg	se-p
@@ -10626,7 +10626,7 @@ talouskumppanuussopimukseen	N_Ill_Sg	talouskumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:5&collection=eptic3">
+<s id="1069:5">
 Parlamentin	N_Gen_Sg	parlamentti-n
 virallinen	A_Nom_Sg	virallinen-j
 kanta	N_Nom_Sg	kanta-n
@@ -10646,7 +10646,7 @@ tänään	Adv	tänään-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:6&collection=eptic3">
+<s id="1069:6">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 kiittää	V_Inf1_Lat	kiittää-v
 tästä	Pron_Dem_Ela_Sg	tämä-p
@@ -10659,7 +10659,7 @@ Pribazia	NON-TWOL	Pribazia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:7&collection=eptic3">
+<s id="1069:7">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 osoittautui	V_PrfPrc_Act_Sg3	osoittautua-v
 hänen	Pron_Pers_Gen_Sg	hän-p
@@ -10690,7 +10690,7 @@ täällä	Adv	täällä-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:8&collection=eptic3">
+<s id="1069:8">
 Lopuksi	N_Tra_Sg	loppu-n
 haluaisin	V_Cond_Act_Sg1	haluta-v
 toivottaa	V_Inf1_Lat	toivottaa-v
@@ -10710,7 +10710,7 @@ yhteistyöstään	N_Ela_Sg	yhteistyö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:9&collection=eptic3">
+<s id="1069:9">
 Heidän	Pron_Pers_Gen_Pl	he-p
 näkemyksensä	N_Gen_Sg	näkemys-n
 antoivat	V_PrfPrc_Act_Pl3	antaa-v
@@ -10719,7 +10719,7 @@ mietintööni	N_Ill_Sg	mietintö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:10&collection=eptic3">
+<s id="1069:10">
 Aluksi	N_Tra_Sg	Alku-n
 haluaisin	V_Cond_Act_Sg1	haluta-v
 esittää	V_Inf1_Lat	esittää-v
@@ -10733,7 +10733,7 @@ olosuhteista	N_Ela_Pl	olosuhde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:11&collection=eptic3">
+<s id="1069:11">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 aion	V_Prs_Act_Sg1	aikoa-v
 käsitellä	V_Inf1_Lat	käsitellä-v
@@ -10763,7 +10763,7 @@ kalastusta	N_Par_Sg	kalastus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:12&collection=eptic3">
+<s id="1069:12">
 Kolmanneksi	Num_Ord_Tra_Sg	kolmas-m
 kommentoin	V_Prs_Act_Sg1	kommentoida-v
 EY	N_Nom_Sg	EY-n
@@ -10779,7 +10779,7 @@ kauppasuhteita	N_Par_Pl	kauppasuhde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:13&collection=eptic3">
+<s id="1069:13">
 Ensinnäkin	N_Gen_Sg	Ensinnäkin-n
 taustasta	N_Ela_Sg	tausta-n
 ja	CC	ja-x
@@ -10788,7 +10788,7 @@ yhdentymisestä	N_Ela_Sg	yhdentyminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:14&collection=eptic3">
+<s id="1069:14">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 väliaikainen	A_Nom_Sg	väliaikainen-j
 eli	CC	eli-x
@@ -10811,7 +10811,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:15&collection=eptic3">
+<s id="1069:15">
 Näillä	Pron_Dem_Ade_Pl	nämä-p
 kahdella	Num_Ade_Sg	kaksi-m
 Tyynenmeren	A_Ade_Sg	Tyynenmeren-j
@@ -10846,7 +10846,7 @@ sokeria	N_Par_Sg	sokeri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:16&collection=eptic3">
+<s id="1069:16">
 Talouskumppanuussopimus	N_Nom_Sg	talouskumppanuussopimus-n
 antaa	V_Prs_Act_Sg3	antaa-v
 Papua-Uudelle-Guinealle	NON-TWOL	Papua-Uudelle-Guinealle-x
@@ -10874,7 +10874,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:17&collection=eptic3">
+<s id="1069:17">
 Papua-Uusi-Guinea	N_Prop_Nom_Sg	Papua-Uusi-Guinea-n
 on	V_Prs_Act_Sg3	olla-v
 sitoutunut	PrfPrc_Act_Nom_Sg	sitoutua-x
@@ -10905,7 +10905,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:18&collection=eptic3">
+<s id="1069:18">
 Lopuilla	N_Ade_Pl	loppu-n
 12:lla	Num_Ade_Sg	12-m
 Tyynenmeren	A_Ade_Sg	Tyynenmeren-j
@@ -10944,7 +10944,7 @@ talouskumppanuussopimukseen	N_Ill_Sg	talouskumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:19&collection=eptic3">
+<s id="1069:19">
 Katson	V_Prs_Act_Sg1	katsoa-v
 kuitenkin	Adv	kuitenkin-r
 <g/>
@@ -10976,7 +10976,7 @@ talouskumppanuussopimusta	N_Par_Sg	talouskumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:20&collection=eptic3">
+<s id="1069:20">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 päätöslauselman	N_Gen_Sg	päätöslauselma-n
@@ -10996,7 +10996,7 @@ ratifioida	V_Inf1_Lat	ratifioida-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:21&collection=eptic3">
+<s id="1069:21">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -11028,7 +11028,7 @@ päätöslauselmaesityksestä	N_Ela_Sg	päätöslauselmaesitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:22&collection=eptic3">
+<s id="1069:22">
 Päätöslauselmaesitykseen	N_Ill_Sg	päätöslauselmaesitys-n
 sisältyy	V_Prs_Act_Sg3	sisältyä-v
 muitakin	Pron_Qnt_Par_Pl	muu-p
@@ -11048,7 +11048,7 @@ seikkaa	N_Par_Sg	seikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:23&collection=eptic3">
+<s id="1069:23">
 Ensimmäinen	Num_Ord_Nom_Sg	ensimmäinen-m
 niistä	Pron_Dem_Ela_Pl	ne-p
 on	V_Prs_Act_Sg3	olla-v
@@ -11077,7 +11077,7 @@ lievittämiseksi	N_Tra_Sg	lievittää-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:24&collection=eptic3">
+<s id="1069:24">
 On	V_Prs_Act_Sg3	olla-v
 tärkeää	A_Par_Sg	tärkeä-j
 <g/>
@@ -11110,7 +11110,7 @@ alueelle	N_All_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:25&collection=eptic3">
+<s id="1069:25">
 On	V_Prs_Act_Sg3	olla-v
 myös	Adv	myös-r
 tärkeää	A_Par_Sg	tärkeä-j
@@ -11138,7 +11138,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:26&collection=eptic3">
+<s id="1069:26">
 Kun	CS	Kun-x
 tuo	Pron_Dem_Nom_Sg	tuoda-p
 pidetään	V_Prs_Pass_Pe4	pitää-v
@@ -11162,7 +11162,7 @@ järjestelmän	N_Gen_Sg	järjestelmä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:27&collection=eptic3">
+<s id="1069:27">
 Kehottaisin	V_Cond_Act_Sg1	kehottaa-v
 Fidžin	NON-TWOL	Fidži-x
 hallitusta	N_Par_Sg	hallitus-n
@@ -11173,7 +11173,7 @@ demokratiaan	N_Ill_Sg	demokratia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:28&collection=eptic3">
+<s id="1069:28">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -11194,7 +11194,7 @@ mahdolliseksi	A_Tra_Sg	mahdollinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:29&collection=eptic3">
+<s id="1069:29">
 Kalastuksesta	N_Ela_Sg	kalastus-n
 todettakoon	V_Imprt_Pass_Pe4	todeta-v
 <g/>
@@ -11219,7 +11219,7 @@ tulonlähde	N_Nom_Sg	tulolähde-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:30&collection=eptic3">
+<s id="1069:30">
 Niissä	Pron_Dem_Ine_Pl	ne-p
 kolmessa	Num_Ine_Sg	kolme-m
 tonnikalan	N_Gen_Sg	tonnikala-n
@@ -11249,7 +11249,7 @@ naisia	N_Par_Pl	nainen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:31&collection=eptic3">
+<s id="1069:31">
 Tässä	Pron_Dem_Ine_Sg	tämä-p
 maassa	N_Ine_Sg	maa-n
 naisille	N_All_Pl	nainen-n
@@ -11262,7 +11262,7 @@ työtä	N_Par_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:32&collection=eptic3">
+<s id="1069:32">
 Kannatan	V_Prs_Act_Sg1	kannattaa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
 sopimuksen	N_Gen_Sg	sopimus-n
@@ -11287,7 +11287,7 @@ tavalla	N_Ade_Sg	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:33&collection=eptic3">
+<s id="1069:33">
 Ympäristönäkökohtien	N_Gen_Pl	ympäristönäkökohta-n
 huomioon	N_Ill_Sg	huomio-n
 ottaminen	N_Nom_Sg	ottaminen-n
@@ -11322,7 +11322,7 @@ säännöstöä	N_Par_Sg	säännöstö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:34&collection=eptic3">
+<s id="1069:34">
 Arvostan	V_Prs_Act_Sg1	arvostaa-v
 sitä	Pron_Dem_Par_Sg	se-p
 <g/>
@@ -11349,7 +11349,7 @@ teollisuuteen	N_Ill_Sg	teollisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:35&collection=eptic3">
+<s id="1069:35">
 Kuitenkin	Adv	kuitenkin-r
 kun	CS	kun-x
 tarkastelemme	V_Prs_Act_Pl1	tarkastella-v
@@ -11384,7 +11384,7 @@ tuonnista	N_Ela_Sg	tuonti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:36&collection=eptic3">
+<s id="1069:36">
 En	V_Neg_Sg1	ei-v
 usko	N_Nom_Sg	usko-n
 <g/>
@@ -11421,7 +11421,7 @@ jalostuskapasiteetti	N_Nom_Sg	jalostuskapasiteetti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:37&collection=eptic3">
+<s id="1069:37">
 Siitä	Pron_Dem_Ela_Sg	se-p
 huolimatta	V_Inf3_Abe	huolia-v
 on	V_Prs_Act_Sg3	olla-v
@@ -11454,7 +11454,7 @@ toimiin	N_Ill_Pl	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:38&collection=eptic3">
+<s id="1069:38">
 Kuten	Adv	kuten-r
 jo	Adv	jo-r
 mainitsin	V_PrfPrc_Act_Sg1	mainita-v
@@ -11474,7 +11474,7 @@ talouskumppanuussopimuksesta	N_Ela_Sg	talouskumppanuussopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:39&collection=eptic3">
+<s id="1069:39">
 Olen	V_Prs_Act_Sg1	Ole-v
 mietinnössäni	N_Ine_Sg	mietintö-n
 suosittanut	PrfPrc_Act_Nom_Sg	suosittaa-x
@@ -11497,7 +11497,7 @@ huomioon	N_Ill_Sg	huomio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:40&collection=eptic3">
+<s id="1069:40">
 Niihin	Pron_Dem_Ill_Pl	ne-p
 kuuluvat	V_Prs_Act_Pl3	kuulua-v
 teollis-	N_Nom_Sg	teollis-n
@@ -11506,7 +11506,7 @@ tekijänoikeudet	N_Nom_Pl	tekijäoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:41&collection=eptic3">
+<s id="1069:41">
 Puhumme	V_Prs_Act_Pl1	puhua-v
 liian	Adv	liian-r
 usein	Adv	usein-r
@@ -11534,7 +11534,7 @@ näkökulmasta	N_Ela_Sg	näkökulma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:42&collection=eptic3">
+<s id="1069:42">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 myös	Adv	myös-r
 <g/>
@@ -11556,7 +11556,7 @@ viisumeja	N_Par_Pl	viisumi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:43&collection=eptic3">
+<s id="1069:43">
 Kun	CS	Kun-x
 siirrymme	V_Prs_Act_Pl1	siirtyä-v
 kohti	Adp_Pr	kohti-x
@@ -11577,7 +11577,7 @@ valtiot	N_Nom_Pl	valtio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1069:44&collection=eptic3">
+<s id="1069:44">
 Jatkakaamme	V_Imprt_Act_Pl1	jatkaa-v
 kuitenkin	Adv	kuitenkin-r
 sitä	Pron_Dem_Par_Sg	se-p
@@ -11612,7 +11612,7 @@ tulevaisuudessa	N_Ine_Sg	tulevaisuus-n
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="405" duration="medium" durations="265.0" speed="slow" speedwm="91.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1094:1&collection=eptic3">
+<s id="1094:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -11626,7 +11626,7 @@ esittämisestä	N_Ela_Sg	esittäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:2&collection=eptic3">
+<s id="1094:2">
 Lasten	N_Gen_Pl	lapsi-n
 oikeuksien	N_Gen_Pl	oikeus-n
 edistäminen	N_Nom_Sg	edistäminen-n
@@ -11665,7 +11665,7 @@ strategia	N_Nom_Sg	strategia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:3&collection=eptic3">
+<s id="1094:3">
 Lasten	N_Gen_Pl	lapsi-n
 oikeuksia	N_Par_Pl	oikeus-n
 koskeva	PrsPrc_Act_Nom_Sg	koskea-x
@@ -11692,7 +11692,7 @@ perusperiaate	N_Nom_Sg	perusperiaate-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:4&collection=eptic3">
+<s id="1094:4">
 Komissio	N_Nom_Sg	komissio-n
 aikoo	V_Prs_Act_Sg3	aikoa-v
 määrätietoisesti	Adv	määrätietoisesti-r
@@ -11723,7 +11723,7 @@ toimissa	N_Ine_Pl	toimi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:5&collection=eptic3">
+<s id="1094:5">
 Tätä	Pron_Dem_Par_Sg	tämä-p
 käytäntöä	N_Par_Sg	käytäntö-n
 ylläpidetään	V_Prs_Pass_Pe4	ylläpitää-v
@@ -11746,7 +11746,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:6&collection=eptic3">
+<s id="1094:6">
 Tästä	Pron_Dem_Ela_Sg	tämä-p
 vuodesta	N_Ela_Sg	vuosi-n
 2011	Num_Nom_Sg	@card@-m
@@ -11770,7 +11770,7 @@ soveltamisessa	N_Ine_Sg	soveltaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:7&collection=eptic3">
+<s id="1094:7">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 muistettava	PrsPrc_Pass_Nom_Sg	muistaa-x
@@ -11800,7 +11800,7 @@ oikeutta	N_Par_Sg	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:8&collection=eptic3">
+<s id="1094:8">
 Siksi	Adv	siksi-r
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -11822,7 +11822,7 @@ ole	V_Prs_Act_ConNeg	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:9&collection=eptic3">
+<s id="1094:9">
 Asiaa	N_Par_Sg	asia-n
 säännellään	V_Prs_Pass_Pe4	säännellä-v
 29.	Abbr	@ord@-x
@@ -11843,7 +11843,7 @@ laeilla	N_Ade_Pl	laki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:10&collection=eptic3">
+<s id="1094:10">
 Kaikki	Pron_Qnt_Nom	kaikki-p
 jäsenvaltiot	N_Nom_Pl	jäsenvaltio-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -11859,7 +11859,7 @@ ole	V_Prs_Act_ConNeg	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:11&collection=eptic3">
+<s id="1094:11">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 tavoitteena	N_Ess_Sg	tavoite-n
 on	V_Prs_Act_Sg3	olla-v
@@ -11895,7 +11895,7 @@ kunnioitetaan	V_Prs_Pass_Pe4	kunnioittaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:12&collection=eptic3">
+<s id="1094:12">
 Kansainvälisesti	Adv	kansainvälisesti-r
 komissio	N_Nom_Sg	komissio-n
 tukee	V_Prs_Act_Sg3	tukea-v
@@ -11920,7 +11920,7 @@ kokouksiin	N_Ill_Pl	kokous-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:13&collection=eptic3">
+<s id="1094:13">
 Komissio	N_Nom_Sg	komissio-n
 ei	V_Neg_Sg3	ei-v
 pidä	V_Prs_Act_ConNeg	pitää-v
@@ -11954,7 +11954,7 @@ sopimusosapuolia	N_Par_Pl	sopimusosapuoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:14&collection=eptic3">
+<s id="1094:14">
 Näin	Adv	näin-r
 ollen	V_Inf2_Act	olla-v
 komissio	N_Nom_Sg	komissio-n
@@ -11980,7 +11980,7 @@ toisiinsa	Pron_Qnt_Ill_Pl	toinen-p
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:15&collection=eptic3">
+<s id="1094:15">
 Komissio	N_Nom_Sg	komissio-n
 myös	Adv	myös-r
 seuraa	V_Prs_Act_Sg3	seurata-v
@@ -12007,7 +12007,7 @@ varten	Adp_Po	varten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:16&collection=eptic3">
+<s id="1094:16">
 Komission	N_Gen_Sg	komissio-n
 14.	Abbr	@ord@-x
 joulukuuta	N_Par_Sg	joulukuu-n
@@ -12040,7 +12040,7 @@ liikkuvuuteen	PrsPrc_Act_Ill_Sg	liikkuvuus-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1094:17&collection=eptic3">
+<s id="1094:17">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 erityistoimenpide	N_Nom_Sg	erityistoimenpide-n
@@ -12063,7 +12063,7 @@ kysymykseen	N_Ill_Sg	kysymys-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="199" duration="short" durations="76.0" speed="medium" speedwm="157.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1095:1&collection=eptic3">
+<s id="1095:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -12084,7 +12084,7 @@ tavoin	N_Ins_Pl	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:2&collection=eptic3">
+<s id="1095:2">
 Tämäniltainen	A_Nom_Sg	tämäniltainen-j
 keskustelu	N_Nom_Sg	keskustelu-n
 kuvastaa	V_Prs_Act_Sg3	kuvastaa-v
@@ -12100,7 +12100,7 @@ olemassa	V_Inf3_Ine	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:3&collection=eptic3">
+<s id="1095:3">
 Kyseisessä	A_Ine_Sg	kyseinen-j
 seurassa	N_Ine_Sg	seura-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12111,7 +12111,7 @@ jäsentä	N_Par_Sg	jäsen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:4&collection=eptic3">
+<s id="1095:4">
 Monet	Pron_Qnt_Nom_Pl	Monet-p
 heistä	Pron_Pers_Ela_Pl	he-p
 ovat	V_Prs_Act_Pl3	olla-v
@@ -12126,7 +12126,7 @@ adoptoida	V_Inf1_Lat	adoptoida-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:5&collection=eptic3">
+<s id="1095:5">
 Meidän	Pron_Pers_Gen_Pl	me-p
 asenteemme	N_Gen_Sg	asenne-n
 adoptiota	N_Par_Sg	adoptio-n
@@ -12137,7 +12137,7 @@ täysin	Adv	täysin-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:6&collection=eptic3">
+<s id="1095:6">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 Irlannissa	N_Prop_Ine_Sg	Irlanti-n
 oli	V_PrfPrc_Act_Sg3	olla-v
@@ -12163,7 +12163,7 @@ adoptoitavaksi	PrsPrc_Pass_Tra_Sg	adoptoida-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:7&collection=eptic3">
+<s id="1095:7">
 Tuo	Pron_Dem_Nom_Sg	tuoda-p
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -12188,7 +12188,7 @@ adoptiosta	N_Ela_Sg	adoptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:8&collection=eptic3">
+<s id="1095:8">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 keskiössä	N_Ine_Sg	keskiö-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12197,7 +12197,7 @@ lapsen	N_Gen_Sg	lapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:9&collection=eptic3">
+<s id="1095:9">
 Kaikessa	Pron_Qnt_Ine_Sg	kaikki-p
 tässä	Pron_Dem_Ine_Sg	tämä-p
 biologiset	A_Nom_Pl	biologinen-j
@@ -12208,7 +12208,7 @@ tärkeitä	A_Par_Pl	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:10&collection=eptic3">
+<s id="1095:10">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 samalla	Pron_Qnt_Ade_Sg	sama-p
@@ -12223,7 +12223,7 @@ lapsille	N_All_Pl	lapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:11&collection=eptic3">
+<s id="1095:11">
 Jokaisen	Pron_Qnt_Gen_Sg	jokainen-p
 jäsenvaltion	N_Gen_Sg	jäsenvaltio-n
 –	Punct	–-x
@@ -12247,7 +12247,7 @@ sisällä	Adp_Po	sisältää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:12&collection=eptic3">
+<s id="1095:12">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -12260,7 +12260,7 @@ tehtävä	N_Nom_Sg	tehtävä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:13&collection=eptic3">
+<s id="1095:13">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -12274,7 +12274,7 @@ oikeuksista	N_Ela_Pl	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:14&collection=eptic3">
+<s id="1095:14">
 Me	Pron_Pers_Nom_Pl	me-p
 puhumme	V_Prs_Act_Pl1	puhua-v
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -12292,7 +12292,7 @@ tehokkaasti	Adv	tehokkaasti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:15&collection=eptic3">
+<s id="1095:15">
 Olen	V_Prs_Act_Sg1	Ole-v
 toiveikas	A_Nom_Sg	toiveikas-j
 <g/>
@@ -12303,7 +12303,7 @@ toteutuu	V_Prs_Act_Sg3	toteutua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:16&collection=eptic3">
+<s id="1095:16">
 Silloin	Adv	Silta-r
 tilanne	N_Nom_Sg	tila-n
 epäilemättä	V_Inf3_Abe	epäillä-v
@@ -12311,7 +12311,7 @@ paranee	V_Prs_Act_Sg3	parata-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1095:17&collection=eptic3">
+<s id="1095:17">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -12335,7 +12335,7 @@ siitä	Pron_Dem_Ela_Sg	se-p
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="125" duration="short" durations="57.0" speed="medium" speedwm="131.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1099:1&collection=eptic3">
+<s id="1099:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -12356,7 +12356,7 @@ koti	N_Nom_Sg	koti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:2&collection=eptic3">
+<s id="1099:2">
 Useimmille	A_All_Pl	usea-j
 lapsille	N_All_Pl	lapsi-n
 se	Pron_Dem_Nom_Sg	se-p
@@ -12370,7 +12370,7 @@ vanhempansa	N_Nom_Pl	vanhempi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:3&collection=eptic3">
+<s id="1099:3">
 Silti	Adv	silti-r
 monet	Pron_Qnt_Nom_Pl	moni-p
 saavat	V_Prs_Act_Pl3	saada-v
@@ -12380,7 +12380,7 @@ myötä	Adp_Po	myötä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:4&collection=eptic3">
+<s id="1099:4">
 Kumpi	Pron_Interr_Nom_Sg	kumpi-p
 tahansa	Adv	tahansa-r
 on	V_Prs_Act_Sg3	olla-v
@@ -12403,7 +12403,7 @@ hyväksikäyttöä	N_Par_Sg	hyväksikäyttö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:5&collection=eptic3">
+<s id="1099:5">
 Tasapainon	N_Gen_Sg	tasapaino-n
 löytäminen	N_Nom_Sg	löytäminen-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12412,7 +12412,7 @@ vaikeaa	A_Par_Sg	vaikea-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:6&collection=eptic3">
+<s id="1099:6">
 Mielestäni	N_Ela_Sg	mieli-n
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -12470,7 +12470,7 @@ prosesseilla	N_Ade_Pl	prosessi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:7&collection=eptic3">
+<s id="1099:7">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 saatava	PrsPrc_Pass_Nom_Sg	saada-x
@@ -12479,7 +12479,7 @@ tasapaino	N_Nom_Sg	tasapaino-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1099:8&collection=eptic3">
+<s id="1099:8">
 Olen	V_Prs_Act_Sg1	Ole-v
 opettajana	N_Ess_Sg	opettaja-n
 ollut	PrfPrc_Act_Nom_Sg	olla-x
@@ -12507,7 +12507,7 @@ kodeissa	N_Ine_Pl	koti-n
 <speaker name="Bearder Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="180" duration="short" durations="80.0" speed="medium" speedwm="135.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1100:1&collection=eptic3">
+<s id="1100:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -12542,7 +12542,7 @@ oikeudet	N_Nom_Pl	oikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1100:2&collection=eptic3">
+<s id="1100:2">
 Komission	N_Gen_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 keskityttävä	PrsPrc_Act_Nom_Sg	keskittyä-x
@@ -12583,7 +12583,7 @@ kulttuuriin	N_Ill_Sg	kulttuuri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1100:3&collection=eptic3">
+<s id="1100:3">
 Erityisen	A_Gen_Sg	erityinen-j
 kiireellisiin	A_Ill_Pl	kiireellinen-j
 toimiin	N_Ill_Pl	toimi-n
@@ -12620,7 +12620,7 @@ ulkopuolella	N_Ade_Sg	ulkopuoli-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1100:4&collection=eptic3">
+<s id="1100:4">
 Lapsikauppa	N_Nom_Sg	lapsikauppa-n
 ja	CC	ja-x
 lapsenpesu	N_Nom_Sg	lapsenpesu-n
@@ -12651,7 +12651,7 @@ huomiota	N_Par_Sg	huomio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1100:5&collection=eptic3">
+<s id="1100:5">
 Vaatisin	V_Cond_Act_Sg1	vaatia-v
 komissiota	N_Par_Sg	komissio-n
 omaksumaan	V_Inf3_Ill	omaksua-v
@@ -12703,7 +12703,7 @@ nuoria	N_Par_Pl	nuora-n
 <speaker name="Parvanova Antonyia" gender="F" country="Bulgaria" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="109" duration="short" durations="47.0" speed="medium" speedwm="139.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1101:1&collection=eptic3">
+<s id="1101:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -12718,7 +12718,7 @@ käytäntöön	N_Ill_Sg	käytäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:2&collection=eptic3">
+<s id="1101:2">
 Euroopassa	N_Prop_Ine_Sg	Eurooppa-n
 <g/>
 ,	Punct	,-x
@@ -12740,7 +12740,7 @@ kauppaa	N_Par_Sg	kauppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:3&collection=eptic3">
+<s id="1101:3">
 Jatkuvasti	PrsPrc_Act_Adv	jatkuvasti-x
 adoptoidaan	V_Prs_Pass_Pe4	adoptoida-v
 laittomasti	Adv	laittomasti-r
@@ -12751,7 +12751,7 @@ lapsia	N_Par_Pl	lapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:4&collection=eptic3">
+<s id="1101:4">
 Kaiken	Pron_Qnt_Gen_Sg	kaikki-p
 sen	Pron_Dem_Gen_Sg	se-p
 jälkeen	Adp_Po	jälkeen-x
@@ -12780,7 +12780,7 @@ ihmiskauppadirektiivissä	N_Ine_Pl	ihmiskauppadirektiivissä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:5&collection=eptic3">
+<s id="1101:5">
 Kehotan	V_Prs_Act_Sg1	kehottaa-v
 komissiota	N_Par_Sg	komissio-n
 ryhtymään	V_Inf3_Ill	ryhtyä-v
@@ -12796,7 +12796,7 @@ rikoksentekijöitä	N_Par_Pl	rikostekijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:6&collection=eptic3">
+<s id="1101:6">
 Emme	V_Neg_Pl1	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
 pystyneet	PrfPrc_Act_Nom_Pl	pystyä-x
@@ -12815,7 +12815,7 @@ käytäntöön	N_Ill_Sg	käytäntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1101:7&collection=eptic3">
+<s id="1101:7">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 järjestäytynyttä	PrfPrc_Act_Par_Sg	järjestäytyä-x
@@ -12848,7 +12848,7 @@ tasolla	N_Ade_Sg	taso-n
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="151" duration="short" durations="54.0" speed="high" speedwm="167.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1109:1&collection=eptic3">
+<s id="1109:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -12864,7 +12864,7 @@ sukulaishoivaajille	N_All_Pl	sukulaishoivaajille-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:2&collection=eptic3">
+<s id="1109:2">
 Useimmat	A_Nom_Pl	usea-j
 sukulaishoivaajat	N_Nom_Pl	sukulaishoivaajat-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -12881,7 +12881,7 @@ hoivaajiksi	N_Tra_Pl	hoivaajiksi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:3&collection=eptic3">
+<s id="1109:3">
 Tavallisesti	Adv	tavallisesti-r
 syynä	N_Ess_Sg	syy-n
 on	V_Prs_Act_Sg3	olla-v
@@ -12895,7 +12895,7 @@ kuolema	N_Nom_Sg	kuolema-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:4&collection=eptic3">
+<s id="1109:4">
 Asia	N_Nom_Sg	As-n
 <g/>
 ,	Punct	,-x
@@ -12926,7 +12926,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:5&collection=eptic3">
+<s id="1109:5">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 sukulaishoivaajat	N_Nom_Pl	sukulaishoivaajat-n
 adoptoivat	V_Prs_Act_Pl3	adoptoida-v
@@ -12934,7 +12934,7 @@ lapsenlapsensa	N_Gen_Sg	lapsenlapsi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:6&collection=eptic3">
+<s id="1109:6">
 Toiset	Pron_Qnt_Nom_Pl	toinen-p
 eivät	V_Neg_Pl3	ei-v
 <g/>
@@ -12956,7 +12956,7 @@ kodin	N_Gen_Sg	koti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:7&collection=eptic3">
+<s id="1109:7">
 Sukulaisten	N_Gen_Pl	sukulainen-n
 hoivissa	N_Ine_Pl	hoiva-n
 olevien	A_Gen_Pl	oleva-j
@@ -12979,7 +12979,7 @@ hoidossa	N_Ine_Sg	hoito-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1109:8&collection=eptic3">
+<s id="1109:8">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 asia	N_Nom_Sg	asia-n
@@ -13032,7 +13032,7 @@ annetaan	V_Prs_Pass_Pe4	antaa-v
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="472" duration="medium" durations="276.0" speed="slow" speedwm="102.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1111:1&collection=eptic3">
+<s id="1111:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13055,7 +13055,7 @@ käynnistämisestä	N_Ela_Sg	käynnistäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:2&collection=eptic3">
+<s id="1111:2">
 Kommentoisin	V_Cond_Act_Sg1	kommentoida-v
 käytyä	V_PrfPrc_Sg	käydä-v
 keskustelua	N_Par_Sg	keskustelu-n
@@ -13065,7 +13065,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:3&collection=eptic3">
+<s id="1111:3">
 Ensimmäinen	Num_Ord_Nom_Sg	ensimmäinen-m
 niistä	Pron_Dem_Ela_Pl	ne-p
 on	V_Prs_Act_Sg3	olla-v
@@ -13092,7 +13092,7 @@ adoptioissa	N_Ine_Pl	adoptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:4&collection=eptic3">
+<s id="1111:4">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 komission	N_Gen_Sg	komissio-n
@@ -13118,7 +13118,7 @@ Euroopassa	N_Prop_Ine_Sg	Eurooppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:5&collection=eptic3">
+<s id="1111:5">
 Tähän	Pron_Dem_Ill_Sg	tämä-p
 liittyen	V_Inf2_Act_Ins	liittyä-v
 korostaisin	V_Cond_Act_Sg1	korostaa-v
@@ -13145,7 +13145,7 @@ kaudella	N_Ade_Sg	kausi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:6&collection=eptic3">
+<s id="1111:6">
 Niihin	Pron_Dem_Ill_Pl	ne-p
 kuuluvat	V_Prs_Act_Pl3	kuulua-v
 toimet	N_Nom_Pl	toimi-n
@@ -13171,7 +13171,7 @@ täytäntöönpanossa	N_Ine_Sg	täytäntöönpano-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:7&collection=eptic3">
+<s id="1111:7">
 Kuten	Adv	kuten-r
 vihreään	A_Ill_Sg	vihreä-j
 kirjaan	N_Ill_Sg	kirja-n
@@ -13203,7 +13203,7 @@ sisällä	Adp_Po	sisältää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:8&collection=eptic3">
+<s id="1111:8">
 Mitä	Pron_Rel_Par	Mi-p
 tulee	V_Prs_Act_Sg3	tulla-v
 parlamentin	N_Gen_Sg	parlamentti-n
@@ -13247,7 +13247,7 @@ hallitus	N_Nom_Sg	hallitus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:9&collection=eptic3">
+<s id="1111:9">
 Toteutettu	PrfPrc_Pass_Nom_Sg	toteuttaa-x
 toimenpide	N_Nom_Sg	toimipide-n
 on	V_Prs_Act_Sg3	olla-v
@@ -13261,7 +13261,7 @@ hyväksikäyttötapauksiin	N_Ill_Pl	hyväksikäyttötapaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:10&collection=eptic3">
+<s id="1111:10">
 Komissio	N_Nom_Sg	komissio-n
 seuraa	V_Prs_Act_Sg3	seurata-v
 tiiviisti	Adv	tiiviisti-r
@@ -13286,7 +13286,7 @@ kehittämisestä	N_Ela_Sg	kehittäminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:11&collection=eptic3">
+<s id="1111:11">
 Mitä	Pron_Rel_Par	Mi-p
 valvontaan	N_Ill_Sg	valvonta-n
 tulee	V_Prs_Act_Sg3	tulla-v
@@ -13315,7 +13315,7 @@ erityiskomissio	N_Nom_Sg	erityiskomissio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:12&collection=eptic3">
+<s id="1111:12">
 Komissio	N_Nom_Sg	komissio-n
 osallistuu	V_Prs_Act_Sg3	osallistua-v
 kyseiseen	A_Ill_Sg	kyseinen-j
@@ -13323,7 +13323,7 @@ valvontaelimeen	N_Ill_Sg	valvontaelin-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:13&collection=eptic3">
+<s id="1111:13">
 Otamme	V_Prs_Act_Pl1	Ota-v
 tänä	Pron_Dem_Ess_Sg	tämä-p
 iltana	N_Ess_Sg	ilta-n
@@ -13344,7 +13344,7 @@ työhön	N_Ill_Sg	työ-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:14&collection=eptic3">
+<s id="1111:14">
 Komissio	N_Nom_Sg	komissio-n
 pitää	V_Prs_Act_Sg3	pitää-v
 akkreditointia	N_Par_Sg	akkreditointi-n
@@ -13355,7 +13355,7 @@ asiana	N_Ess_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:15&collection=eptic3">
+<s id="1111:15">
 Se	Pron_Dem_Nom_Sg	se-p
 koskee	V_Prs_Act_Sg3	koskea-v
 jäsenvaltioiden	N_Gen_Pl	jäsenvaltio-n
@@ -13376,7 +13376,7 @@ tasolla	N_Ade_Sg	taso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:16&collection=eptic3">
+<s id="1111:16">
 Lopuksi	N_Tra_Sg	loppu-n
 totean	V_Prs_Act_Sg1	todeta-v
 <g/>
@@ -13406,7 +13406,7 @@ vastausta	N_Par_Sg	vastaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:17&collection=eptic3">
+<s id="1111:17">
 Adoptiopojan	N_Gen_Sg	Adoptiopojan-n
 kummitätinä	N_Ess_Sg	kummitätinä-n
 olen	V_Prs_Act_Sg1	olla-v
@@ -13431,7 +13431,7 @@ liittyy	V_Prs_Act_Sg3	liittyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:18&collection=eptic3">
+<s id="1111:18">
 Olen	V_Prs_Act_Sg1	Ole-v
 kuunnellut	PrfPrc_Act_Nom_Sg	kuunnella-x
 tämäniltaista	A_Par_Sg	tämäniltainen-j
@@ -13462,7 +13462,7 @@ asia	N_Nom_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1111:19&collection=eptic3">
+<s id="1111:19">
 Toivokaamme	V_Imprt_Act_Pl1	toivoa-v
 siksi	Pron_Dem_Tra_Sg	se-p
 <g/>
@@ -13497,7 +13497,7 @@ maissa	N_Ine_Pl	maa-n
 <speaker name="Watson Graham" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="165" duration="short" durations="73.0" speed="medium" speedwm="135.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1121:1&collection=eptic3">
+<s id="1121:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13524,7 +13524,7 @@ määränpähän	N_Ill_Sg	määränpähän-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1121:2&collection=eptic3">
+<s id="1121:2">
 Se	Pron_Dem_Nom_Sg	se-p
 <g/>
 ,	Punct	,-x
@@ -13552,7 +13552,7 @@ matkustajille	N_All_Pl	matkustaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1121:3&collection=eptic3">
+<s id="1121:3">
 Kehotan	V_Prs_Act_Sg1	kehottaa-v
 parlamentin	N_Gen_Sg	parlamentti-n
 liikenne-	N_Nom_Sg	liikenne-n
@@ -13606,7 +13606,7 @@ kesken	Adp_Po	kesken-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1121:4&collection=eptic3">
+<s id="1121:4">
 Epätavalliset	A_Nom_Pl	epätavallinen-j
 lumisateet	N_Nom_Pl	lumisade-n
 ja	CC	ja-x
@@ -13629,7 +13629,7 @@ sulamisesta	N_Ela_Sg	sulaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1121:5&collection=eptic3">
+<s id="1121:5">
 Niitä	Pron_Dem_Par_Pl	ne-p
 esiintyy	V_Prs_Act_Sg3	esiintyä-v
 entistä	A_Par_Sg	entinen-j
@@ -13637,7 +13637,7 @@ useammin	Adv	useampi-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1121:6&collection=eptic3">
+<s id="1121:6">
 Emme	V_Neg_Pl1	ei-v
 voi	V_Prs_Act_ConNeg	voida-v
 ehkäistä	V_Inf1_Lat	ehkäistä-v
@@ -13673,7 +13673,7 @@ niihin	Pron_Dem_Ill_Pl	ne-p
 <speaker name="Werthmann Angelika" gender="F" country="Austria" politfunc="MEP" politgroup="NI">
 <st language="en" length="short" lengthw="112" duration="short" durations="46.0" speed="medium" speedwm="146.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1122:1&collection=eptic3">
+<s id="1122:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13694,7 +13694,7 @@ artiklaa	N_Par_Sg	artikla-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1122:2&collection=eptic3">
+<s id="1122:2">
 Olen	V_Prs_Act_Sg1	Ole-v
 saanut	PrfPrc_Act_Nom_Sg	saada-x
 tietää	V_Inf1_Lat	tietää-v
@@ -13715,7 +13715,7 @@ loukkaus	N_Nom_Sg	loukkaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1122:3&collection=eptic3">
+<s id="1122:3">
 Niin	Adv	niin-r
 kutsutut	PrfPrc_Pass_Nom_Pl	kutsua-x
 viranomaiset	N_Nom_Pl	virkaomainen-n
@@ -13758,7 +13758,7 @@ ajan	Adp_Po	ajaa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1122:4&collection=eptic3">
+<s id="1122:4">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13789,7 +13789,7 @@ alueella	N_Ade_Sg	alue-n
 <speaker name="Kasoulides Ioannis" gender="M" country="Cyprus" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="126" duration="short" durations="68.0" speed="slow" speedwm="111.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1131:1&collection=eptic3">
+<s id="1131:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13823,7 +13823,7 @@ kristityt	N_Nom_Pl	kristitty-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:2&collection=eptic3">
+<s id="1131:2">
 Joukot	N_Nom_Pl	Jouko-n
 häätivät	V_PrfPrc_Act_Pl3	häätää-v
 papin	N_Gen_Sg	pappi-n
@@ -13835,7 +13835,7 @@ poistua	V_Inf1_Lat	poistua-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:3&collection=eptic3">
+<s id="1131:3">
 Verukkeena	N_Ess_Sg	veruke-n
 oli	V_PrfPrc_Act_Sg3	olla-v
 se	Pron_Dem_Nom_Sg	se-p
@@ -13858,7 +13858,7 @@ lauantaina	N_Ess_Sg	lauantai-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:4&collection=eptic3">
+<s id="1131:4">
 Kirjallisen	A_Gen_Sg	kirjallinen-j
 luvan	N_Gen_Sg	lupa-n
 vaatiminen	N_Nom_Sg	vaatiminen-n
@@ -13895,7 +13895,7 @@ unioniin	N_Ill_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:5&collection=eptic3">
+<s id="1131:5">
 Wienin	N_Prop_Gen_Sg	Wien-n
 sopimuksen	N_Gen_Sg	sopimus-n
 perusteella	Adp_Po	perusteella-x
@@ -13920,7 +13920,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:6&collection=eptic3">
+<s id="1131:6">
 Nykyään	Adv	nykyään-r
 heitä	Pron_Pers_Par_Pl	he-p
 on	V_Prs_Act_Sg3	olla-v
@@ -13928,7 +13928,7 @@ on	V_Prs_Act_Sg3	olla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1131:7&collection=eptic3">
+<s id="1131:7">
 Nyt	Adv	nyt-r
 ymmärrätte	V_Prs_Act_Pl2	ymmärtää-v
 miksi	Pron_Rel_Tra	mikä-p
@@ -13943,7 +13943,7 @@ miksi	Pron_Rel_Tra	mikä-p
 <speaker name="Tremosa i Balcells Ramon" gender="M" country="Spain" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="124" duration="short" durations="60.0" speed="slow" speedwm="124.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1132:1&collection=eptic3">
+<s id="1132:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -13962,7 +13962,7 @@ sopimuksesta	N_Ela_Sg	sopimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:2&collection=eptic3">
+<s id="1132:2">
 Sopimus	N_Nom_Sg	sopimus-n
 vaikuttaa	V_Prs_Act_Sg3	vaikuttaa-v
 merkittävästi	PrsPrc_Act_Adv	merkittävästi-x
@@ -13984,7 +13984,7 @@ muotoon	N_Ill_Sg	muoto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:3&collection=eptic3">
+<s id="1132:3">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 avattava	PrsPrc_Pass_Nom_Sg	avata-x
@@ -14009,7 +14009,7 @@ takana	Adv	takana-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:4&collection=eptic3">
+<s id="1132:4">
 Komissio	N_Nom_Sg	komissio-n
 on	V_Prs_Act_Sg3	olla-v
 tehnyt	PrfPrc_Act_Nom_Sg	tehdä-x
@@ -14041,7 +14041,7 @@ valtioihin	N_Ill_Pl	valtio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:5&collection=eptic3">
+<s id="1132:5">
 En	V_Neg_Sg1	ei-v
 ratifioisi	V_Cond_Act_ConNeg	ratifioida-v
 kyseistä	A_Par_Sg	kyseinen-j
@@ -14061,7 +14061,7 @@ ympäristöstä	N_Ela_Sg	ympäristö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:6&collection=eptic3">
+<s id="1132:6">
 Jos	CS	Jos-x
 emme	V_Neg_Pl1	ei-v
 tee	V_Prs_Act_ConNeg	tehdä-v
@@ -14090,7 +14090,7 @@ valtioissa	N_Ine_Pl	valtio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1132:7&collection=eptic3">
+<s id="1132:7">
 Halusin	V_PrfPrc_Act_Sg1	Halunen-v
 jakaa	V_Inf1_Lat	jakaa-v
 tämän	Pron_Dem_Gen_Sg	tämä-p
@@ -14107,7 +14107,7 @@ kanssanne	Adp_Po	kanssa-x
 <speaker name="Stihler Catherine" gender="F" country="United Kingdom" politfunc="MEP" politgroup="SD">
 <st language="en" length="long" lengthw="87" duration="short" durations="43.0" speed="slow" speedwm="121.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1133:1&collection=eptic3">
+<s id="1133:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -14125,7 +14125,7 @@ elämää	N_Par_Sg	elämä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1133:2&collection=eptic3">
+<s id="1133:2">
 Kuten	Adv	kuten-r
 monet	Pron_Qnt_Nom_Pl	moni-p
 teistä	Pron_Pers_Ela_Pl	te-p
@@ -14141,7 +14141,7 @@ haggis	N_Nom_Sg	haggis-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1133:3&collection=eptic3">
+<s id="1133:3">
 Tällä	Pron_Dem_Ade_Sg	tämä-p
 hetkellä	N_Ade_Sg	hetki-n
 Yhdysvallat	N_Prop_Nom_Pl	Yhdysvalta-n
@@ -14169,7 +14169,7 @@ haggisia	N_Par_Sg	haggisia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1133:4&collection=eptic3">
+<s id="1133:4">
 Mitä	Pron_Rel_Par	Mi-p
 toimia	N_Par_Pl	toimi-n
 komissio	N_Nom_Sg	komissio-n
@@ -14200,7 +14200,7 @@ päivällisillä	N_Ade_Pl	päivällinen-n
 <speaker name="Papadopoulou Antigoni" gender="F" country="Cyprus" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="148" duration="short" durations="73.0" speed="slow" speedwm="121.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1134:1&collection=eptic3">
+<s id="1134:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -14222,7 +14222,7 @@ perusihmisoikeus	N_Nom_Sg	perusihminenoikeus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1134:2&collection=eptic3">
+<s id="1134:2">
 Kyseistä	A_Par_Sg	kyseinen-j
 ihmisoikeutta	N_Par_Sg	ihmisoikeus-n
 rikottiin	V_PrfPrc_Pass_Pe4	rikkoa-v
@@ -14243,7 +14243,7 @@ kylässä	N_Ine_Sg	kylä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1134:3&collection=eptic3">
+<s id="1134:3">
 Turkkilaisen	A_Prop_Gen_Sg	turkkilainen-j
 miehityshallinnon	N_Gen_Sg	miehityshallinto-n
 niin	Adv	niin-r
@@ -14269,7 +14269,7 @@ kirkosta	N_Ela_Sg	kirkko-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1134:4&collection=eptic3">
+<s id="1134:4">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 on	V_Prs_Act_Sg3	olla-v
@@ -14309,7 +14309,7 @@ vuodelta	N_Abl_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1134:5&collection=eptic3">
+<s id="1134:5">
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -14347,7 +14347,7 @@ puhdistus	N_Nom_Sg	puhdistus-n
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="152" duration="short" durations="65.0" speed="medium" speedwm="140.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1135:1&collection=eptic3">
+<s id="1135:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -14373,7 +14373,7 @@ täytäntöön	Adv	täytäntöön-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:2&collection=eptic3">
+<s id="1135:2">
 Komissio	N_Nom_Sg	komissio-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -14395,7 +14395,7 @@ vaaditaan	V_Prs_Pass_Pe4	vaatia-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:3&collection=eptic3">
+<s id="1135:3">
 Se	Pron_Dem_Nom_Sg	se-p
 merkitsee	V_Prs_Act_Sg3	merkitä-v
 sitä	Pron_Dem_Par_Sg	se-p
@@ -14414,7 +14414,7 @@ lakeja	N_Par_Pl	laki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:4&collection=eptic3">
+<s id="1135:4">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 epäoikeudenmukaista	A_Par_Sg	epäoikeusmukainen-j
@@ -14433,7 +14433,7 @@ käytettävissä	PrsPrc_Pass_Ine_Pl	käyttää-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:5&collection=eptic3">
+<s id="1135:5">
 Komissio	N_Nom_Sg	komissio-n
 itse	Pron_Refl_Nom_Sg	itse-p
 totesi	V_PrfPrc_Act_Sg3	todeta-v
@@ -14444,7 +14444,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:6&collection=eptic3">
+<s id="1135:6">
 Miksi	Pron_Rel_Tra	Mi-p
 ehdotusta	N_Par_Sg	ehdotus-n
 ei	V_Neg_Sg3	ei-v
@@ -14454,7 +14454,7 @@ annettu	V_PrfPrc_Pass_ConNeg	antaa-v
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1135:7&collection=eptic3">
+<s id="1135:7">
 Kenties	Adv	kenties-r
 lainatakseni	V_Inf1_Tra_PxSg1	lainata-v
 Robbie	NON-TWOL	Robbie-x
@@ -14485,7 +14485,7 @@ menevät	V_Prs_Act_Pl3	mennä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:8&collection=eptic3">
+<s id="1135:8">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 on	V_Prs_Act_Sg3	olla-v
 tapahduttava	PrsPrc_Pass_Nom_Sg	tapahtua-x
@@ -14511,7 +14511,7 @@ vaatimuksia	N_Par_Pl	vaatimus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:9&collection=eptic3">
+<s id="1135:9">
 Mitä	Pron_Rel_Par	Mi-p
 nopeammin	Adv	nopea-r
 se	Pron_Dem_Nom_Sg	se-p
@@ -14523,7 +14523,7 @@ parempi	A_Nom_Sg	parempi-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1135:10&collection=eptic3">
+<s id="1135:10">
 Kehotan	V_Prs_Act_Sg1	kehottaa-v
 komissiota	N_Par_Sg	komissio-n
 pitämään	V_Inf3_Ill	pitää-v
@@ -14539,7 +14539,7 @@ kiirettä	N_Par_Sg	kiire-n
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="130" duration="short" durations="51.0" speed="medium" speedwm="152.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1112:1&collection=eptic3">
+<s id="1112:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -14551,7 +14551,7 @@ kysymyksen	N_Gen_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1112:2&collection=eptic3">
+<s id="1112:2">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 <g/>
 ,	Punct	,-x
@@ -14576,7 +14576,7 @@ kautta	Adp_Po	kautta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1112:3&collection=eptic3">
+<s id="1112:3">
 Onko	V_Prs_Act_Sg3	olla-v
 olemassa	V_Inf3_Ine	olla-v
 kansalaisjärjestöjä	N_Par_Pl	kansalaisjärjestö-n
@@ -14612,7 +14612,7 @@ kohtaan	N_Ill_Sg	kohta-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1112:4&collection=eptic3">
+<s id="1112:4">
 Toisin	Pron_Qnt_Ins_Pl	toinen-p
 sanoen	V_Inf2_Act_Ins	sanoa-v
 annammeko	V_Prs_Act_Pl1	antaa-v
@@ -14630,14 +14630,14 @@ vuosittain	Adv	vuosittain-r
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1112:5&collection=eptic3">
+<s id="1112:5">
 Missä	Pron_Rel_Ine	Mi-p
 on	V_Prs_Act_Sg3	olla-v
 vastuuvelvollisuus	N_Nom_Sg	vastuuvelvollisuus-n
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1112:6&collection=eptic3">
+<s id="1112:6">
 Joissakin	Pron_Qnt_Ine_Pl	Joki-p
 ohjelmissa	N_Ine_Pl	ohjelma-n
 <g/>
@@ -14670,7 +14670,7 @@ puute	N_Nom_Sg	puute-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1112:7&collection=eptic3">
+<s id="1112:7">
 Tiedän	V_Prs_Act_Sg1	tietää-v
 <g/>
 ,	Punct	,-x
@@ -14697,7 +14697,7 @@ tavoitteet	N_Nom_Pl	tavoite-n
 <speaker name="Georgieva Kristalina" gender="F" country="Bulgaria" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="631" duration="long" durations="361.0" speed="slow" speedwm="104.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1113:1&collection=eptic3">
+<s id="1113:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -14729,7 +14729,7 @@ tukeen	N_Ill_Sg	tuki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:2&collection=eptic3">
+<s id="1113:2">
 Konsensus	N_Nom_Sg	konsensus-n
 hyväksyttiin	V_PrfPrc_Pass_Pe4	hyväksyä-v
 vuonna	N_Ess_Sg	vuosi-n
@@ -14737,7 +14737,7 @@ vuonna	N_Ess_Sg	vuosi-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:3&collection=eptic3">
+<s id="1113:3">
 Se	Pron_Dem_Nom_Sg	se-p
 tarjoaa	V_Prs_Act_Sg3	tarjota-v
 tärkeät	A_Nom_Pl	tärkeä-j
@@ -14760,7 +14760,7 @@ toimintasuunnitelma	N_Nom_Sg	toimintasuunnitelma-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:4&collection=eptic3">
+<s id="1113:4">
 Jäsenvaltioilla	N_Ade_Pl	jäsenvaltio-n
 ja	CC	ja-x
 komissiolle	N_All_Sg	komissio-n
@@ -14779,7 +14779,7 @@ täytäntöön	Adv	täytäntöön-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:5&collection=eptic3">
+<s id="1113:5">
 Haluan	V_Prs_Act_Sg1	haluta-v
 korostaa	V_Inf1_Lat	korostaa-v
 mietinnössä	N_Ine_Sg	mietintö-n
@@ -14809,7 +14809,7 @@ keskiössä	N_Ine_Sg	keskiö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:6&collection=eptic3">
+<s id="1113:6">
 Neljä	Num_Nom_Sg	neljä-m
 viidesosaa	N_Par_Sg	viidesosa-n
 humanitaarisesta	A_Ela_Sg	humanitaarinen-j
@@ -14828,7 +14828,7 @@ hätätilanteissa	N_Ine_Pl	hätätilanne-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:7&collection=eptic3">
+<s id="1113:7">
 Jotta	CS	jotta-x
 voimme	V_Prs_Act_Pl1	voida-v
 viedä	V_Inf1_Lat	viedä-v
@@ -14856,7 +14856,7 @@ sellaiseksi	A_Tra_Sg	sellainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:8&collection=eptic3">
+<s id="1113:8">
 Annan	V_Prs_Act_Sg1	antaa-v
 teille	Pron_Pers_All_Pl	te-p
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -14865,7 +14865,7 @@ esimerkin	N_Gen_Sg	esimerkki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:9&collection=eptic3">
+<s id="1113:9">
 Palasin	N_Ins_Pl	Palanen-n
 juuri	Adv	juuri-r
 Jemenistä	N_Prop_Ela_Sg	Jemen-n
@@ -14898,7 +14898,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:10&collection=eptic3">
+<s id="1113:10">
 Saimme	V_PrfPrc_Act_Pl1	saada-v
 ensimmäistä	Num_Ord_Par_Sg	ensimmäinen-m
 kertaa	N_Par_Sg	kerta-n
@@ -14928,7 +14928,7 @@ mukaisesti	Adp_Po	mukaisesti-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:11&collection=eptic3">
+<s id="1113:11">
 Vietettyäni	PrfPrc_Pass_Par_Sg	viettää-x
 tunteja	N_Par_Pl	tunti-n
 Kalašnikovilla	N_Ill_Sg	Kalašnikovilla-n
@@ -14959,7 +14959,7 @@ luokse	Adp_Pr	luokse-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:12&collection=eptic3">
+<s id="1113:12">
 Jemenissä	N_Prop_Ine_Sg	Jemen-n
 300	Num_Nom_Sg	@card@-m
 000	Num_Nom_Sg	@card@-m
@@ -14988,7 +14988,7 @@ elämään	N_Ill_Sg	elämä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:13&collection=eptic3">
+<s id="1113:13">
 Humanitaarinen	A_Nom_Sg	humanitaarinen-j
 apu	N_Nom_Sg	apu-n
 ei	V_Neg_Sg3	ei-v
@@ -15001,7 +15001,7 @@ väline	N_Nom_Sg	väline-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:14&collection=eptic3">
+<s id="1113:14">
 Se	Pron_Dem_Nom_Sg	se-p
 on	V_Prs_Act_Sg3	olla-v
 kehitystä	N_Par_Sg	kehitys-n
@@ -15016,7 +15016,7 @@ rauhalle	N_All_Sg	rauha-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:15&collection=eptic3">
+<s id="1113:15">
 Me	Pron_Pers_Nom_Pl	me-p
 komissiossa	N_Ine_Sg	komissio-n
 olemme	V_Prs_Act_Pl1	olla-v
@@ -15038,7 +15038,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:16&collection=eptic3">
+<s id="1113:16">
 Komissio	N_Nom_Sg	komissio-n
 hyväksyi	V_PrfPrc_Act_Sg3	hyväksyä-v
 8.	Abbr	@ord@-x
@@ -15049,7 +15049,7 @@ tiedonannon	N_Gen_Sg	tietoanto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:17&collection=eptic3">
+<s id="1113:17">
 Arviointi	N_Nom_Sg	arviointi-n
 osoittaa	V_Prs_Act_Sg3	osoittaa-v
 <g/>
@@ -15082,7 +15082,7 @@ väestönsuojelun	N_Gen_Sg	väestösuojelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:18&collection=eptic3">
+<s id="1113:18">
 Päättelimme	V_PrfPrc_Act_Pl1	päätellä-v
 myös	Adv	myös-r
 <g/>
@@ -15097,7 +15097,7 @@ edelleen	Adv	edelleen-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:19&collection=eptic3">
+<s id="1113:19">
 Ensinnäkin	Adv	Ensinnäkin-r
 me	Pron_Pers_Nom_Pl	me-p
 haluamme	V_Prs_Act_Pl1	haluta-v
@@ -15123,7 +15123,7 @@ valmiuksiin	N_Ill_Pl	valmius-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:20&collection=eptic3">
+<s id="1113:20">
 Aikana	N_Ess_Sg	aika-n
 <g/>
 ,	Punct	,-x
@@ -15142,7 +15142,7 @@ tärkeää	A_Par_Sg	tärkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:21&collection=eptic3">
+<s id="1113:21">
 Vastaan	V_Prs_Act_Sg1	vastata-v
 nyt	Adv	nyt-r
 vastuuvelvollisuutta	N_Par_Sg	vastuuvelvollisuus-n
@@ -15151,7 +15151,7 @@ kysymykseen	N_Ill_Sg	kysymys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:22&collection=eptic3">
+<s id="1113:22">
 On	V_Prs_Act_Sg3	olla-v
 selvää	A_Par_Sg	selvä-j
 <g/>
@@ -15178,7 +15178,7 @@ mahdollista	V_Imprt_Act_Sg2	mahdollistaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:23&collection=eptic3">
+<s id="1113:23">
 Varmistuaksemme	V_Inf1_Tra_PxPl1	varmistua-v
 <g/>
 ,	Punct	,-x
@@ -15214,7 +15214,7 @@ vuosi	N_Nom_Sg	vuo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:24&collection=eptic3">
+<s id="1113:24">
 Meillä	Pron_Pers_Ade_Pl	Mei-p
 on	V_Prs_Act_Sg3	olla-v
 kaikilla	Pron_Qnt_Ade_Pl	kaikki-p
@@ -15244,7 +15244,7 @@ kasvavat	V_Prs_Act_Pl3	kasvaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:25&collection=eptic3">
+<s id="1113:25">
 Vihin	V_Prs_Act_Sg1	Vihi-v
 äskettäin	Adv	äskettäin-r
 käyttöön	N_Ill_Sg	käyttö-n
@@ -15256,7 +15256,7 @@ toimiston	N_Gen_Sg	toimisto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:26&collection=eptic3">
+<s id="1113:26">
 Toinen	Pron_Qnt_Nom_Sg	toinen-p
 asia	N_Nom_Sg	asia-n
 <g/>
@@ -15274,7 +15274,7 @@ vahvistaminen	N_Nom_Sg	vahvistaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:27&collection=eptic3">
+<s id="1113:27">
 Me	Pron_Pers_Nom_Pl	me-p
 olemme	V_Prs_Act_Pl1	olla-v
 suurin	A_Nom_Sg	suuri-j
@@ -15293,7 +15293,7 @@ yhdellä	Num_Ade_Sg	yksi-m
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:28&collection=eptic3">
+<s id="1113:28">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 myös	Adv	myös-r
@@ -15319,7 +15319,7 @@ avunantajia	N_Par_Pl	avunantaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:29&collection=eptic3">
+<s id="1113:29">
 Kolmanneksi	Num_Ord_Tra_Sg	kolmas-m
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -15358,7 +15358,7 @@ ssa	N_Nom_Sg	ssa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:30&collection=eptic3">
+<s id="1113:30">
 Lopetan	V_Prs_Act_Sg1	lopettaa-v
 kiittämällä	V_Inf3_Ade	kiittää-v
 Michèle	N_Prop_Nom_Sg	Michèle-n
@@ -15379,14 +15379,14 @@ asiasta	N_Ela_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:31&collection=eptic3">
+<s id="1113:31">
 Maailma	N_Nom_Sg	maailma-n
 on	V_Prs_Act_Sg3	olla-v
 muuttunut	PrfPrc_Act_Nom_Sg	muuttua-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:32&collection=eptic3">
+<s id="1113:32">
 Valitettavasti	PrsPrc_Pass_Adv	valitettavasti-x
 luonnonkatastrofit	N_Nom_Pl	luontokatastrofi-n
 ja	CC	ja-x
@@ -15397,7 +15397,7 @@ lisääntyvät	V_Prs_Act_Pl3	lisääntyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1113:33&collection=eptic3">
+<s id="1113:33">
 Se	Pron_Dem_Nom_Sg	se-p
 <g/>
 ,	Punct	,-x
@@ -15432,7 +15432,7 @@ maailmaa	N_Par_Sg	maailma-n
 <speaker name="McGuinness Mairead" gender="F" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="203" duration="short" durations="74.0" speed="high" speedwm="164.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1114:1&collection=eptic3">
+<s id="1114:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -15462,7 +15462,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:2&collection=eptic3">
+<s id="1114:2">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 seurausta	N_Par_Sg	seuraus-n
@@ -15483,7 +15483,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:3&collection=eptic3">
+<s id="1114:3">
 Olen	V_Prs_Act_Sg1	Ole-v
 pahoillani	A_Ade_Pl	paha-j
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -15499,7 +15499,7 @@ puoltayötä	N_Par_Sg	puoliyö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:4&collection=eptic3">
+<s id="1114:4">
 Ehkäpä	Adv	ehkäpä-r
 EU	N_Nom_Sg	EU-n
 ja	CC	ja-x
@@ -15523,7 +15523,7 @@ alalla	N_Ade_Sg	ala-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:5&collection=eptic3">
+<s id="1114:5">
 Mietintö	N_Nom_Sg	mietintö-n
 on	V_Prs_Act_Sg3	olla-v
 todella	Adv	todella-r
@@ -15540,7 +15540,7 @@ uudistuksesta	N_Ela_Sg	uudistus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:6&collection=eptic3">
+<s id="1114:6">
 Minulla	Pron_Pers_Ade_Sg	minä-p
 oli	V_PrfPrc_Act_Sg3	olla-v
 joitakin	Pron_Qnt_Par_Pl	joka-p
@@ -15559,7 +15559,7 @@ tekstissä	N_Ine_Sg	teksti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:7&collection=eptic3">
+<s id="1114:7">
 Ajatus	N_Nom_Sg	ajatus-n
 siitä	Pron_Dem_Ela_Sg	se-p
 <g/>
@@ -15588,7 +15588,7 @@ ajatus	N_Nom_Sg	ajatus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:8&collection=eptic3">
+<s id="1114:8">
 Tarvitsemme	V_Prs_Act_Pl1	tarvita-v
 kaikkia	Pron_Qnt_Par_Pl	kaikki-p
 tuotantojärjestelmiä	N_Par_Pl	tuotantojärjestelmä-n
@@ -15597,7 +15597,7 @@ tukemiseksi	N_Tra_Sg	tukeminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:9&collection=eptic3">
+<s id="1114:9">
 Meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
 käsiteltävä	PrsPrc_Pass_Nom_Sg	käsitellä-x
@@ -15619,7 +15619,7 @@ vastauksia	N_Par_Pl	vastaus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:10&collection=eptic3">
+<s id="1114:10">
 Keskeinen	A_Nom_Sg	keskeinen-j
 ongelma	N_Nom_Sg	ongelma-n
 maataloudessa	N_Ine_Sg	maatalous-n
@@ -15630,7 +15630,7 @@ tulotaso	N_Nom_Sg	tulotaso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1114:11&collection=eptic3">
+<s id="1114:11">
 Nuoret	A_Nom_Pl	nuori-j
 maanviljelijät	N_Nom_Pl	maaviljelijä-n
 eivät	V_Neg_Pl3	ei-v
@@ -15664,7 +15664,7 @@ tarjonnan	N_Gen_Sg	tarjonta-n
 <speaker name="Kelly Seán" gender="M" country="Ireland" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="133" duration="short" durations="48.0" speed="high" speedwm="166.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1115:1&collection=eptic3">
+<s id="1115:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -15685,7 +15685,7 @@ parissa	N_Ine_Sg	par-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:2&collection=eptic3">
+<s id="1115:2">
 –	Punct	–-x
 (	Punct	(-x
 <g/>
@@ -15703,7 +15703,7 @@ asiaa	N_Par_Sg	asia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:3&collection=eptic3">
+<s id="1115:3">
 En	V_Neg_Sg1	ei-v
 käsittele	V_Prs_Act_ConNeg	käsitellä-v
 kaikkia	Pron_Qnt_Par_Pl	kaikki-p
@@ -15719,7 +15719,7 @@ seikkaa	N_Par_Sg	seikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:4&collection=eptic3">
+<s id="1115:4">
 Ensinnäkin	Adv	Ensinnäkin-r
 tarvitaan	V_Prs_Pass_Pe4	tarvita-v
 hyvin	Adv	hyvin-r
@@ -15729,7 +15729,7 @@ maatalouspolitiikkaa	N_Par_Sg	maatalouspolitiikka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:5&collection=eptic3">
+<s id="1115:5">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -15756,7 +15756,7 @@ tavoin	N_Ins_Pl	tapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:6&collection=eptic3">
+<s id="1115:6">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 meidän	Pron_Pers_Gen_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -15771,7 +15771,7 @@ maanviljelijöiksi	N_Tra_Pl	maaviljelijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:7&collection=eptic3">
+<s id="1115:7">
 Lisäksi	Adv	lisäksi-r
 meillä	Pron_Pers_Ade_Pl	me-p
 on	V_Prs_Act_Sg3	olla-v
@@ -15786,7 +15786,7 @@ maatalousmaalla	N_Ade_Sg	maatalousmaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1115:8&collection=eptic3">
+<s id="1115:8">
 Ottaen	V_Inf2_Act_Ins	ottaa-v
 huomioon	N_Ill_Sg	huomio-n
 että	CS	että-x
@@ -15813,7 +15813,7 @@ uudelleen	Adv	uudelleen-r
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1115:9&collection=eptic3">
+<s id="1115:9">
 Siirrämmekö	V_Prs_Act_Pl1	siirtää-v
 rahoja	N_Par_Pl	raha-n
 taskusta	N_Ela_Sg	tasku-n
@@ -15834,7 +15834,7 @@ mitään	Pron_Qnt_Par_Sg	mikään-p
 <g/>
 ?	SENT	?-x
 </s>
-<s id="1115:10&collection=eptic3">
+<s id="1115:10">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 kysymyksen	N_Gen_Sg	kysymys-n
 halusin	V_PrfPrc_Act_Sg1	haluta-v
@@ -15850,7 +15850,7 @@ esittää	V_Inf1_Lat	esittää-v
 <speaker name="Járóka Lívia" gender="F" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="116" duration="short" durations="53.0" speed="medium" speedwm="131.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1116:1&collection=eptic3">
+<s id="1116:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -15879,7 +15879,7 @@ romanistrategiaa	N_Par_Sg	romanistrategia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1116:2&collection=eptic3">
+<s id="1116:2">
 Monialaisissa	A_Ine_Pl	monialainen-j
 kysymyksissä	N_Ine_Pl	kysymys-n
 <g/>
@@ -15912,7 +15912,7 @@ ssa	N_Nom_Sg	ssa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1116:3&collection=eptic3">
+<s id="1116:3">
 Siten	Adv	siten-r
 me	Pron_Pers_Nom_Pl	me-p
 emme	V_Neg_Pl1	ei-v
@@ -15929,7 +15929,7 @@ ruokaa	N_Par_Sg	ruoka-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1116:4&collection=eptic3">
+<s id="1116:4">
 Kuten	Adv	kuten-r
 kollegani	N_Nom_Pl	kollega-n
 ovat	V_Prs_Act_Pl3	olla-v
@@ -15950,7 +15950,7 @@ hetkellä	N_Ade_Sg	hetki-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1116:5&collection=eptic3">
+<s id="1116:5">
 Uskon	V_Prs_Act_Sg1	uskoa-v
 <g/>
 ,	Punct	,-x
@@ -16005,7 +16005,7 @@ pöydässä	N_Ine_Sg	pöytä-n
 <speaker name="Gyori Eniko" gender="F" country="Hungary" politfunc="European Council" politgroup="NA">
 <st language="en" length="long" lengthw="83" duration="short" durations="36.0" speed="medium" speedwm="138.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1118:1&collection=eptic3">
+<s id="1118:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -16032,7 +16032,7 @@ edustajana	N_Ess_Sg	edustaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1118:2&collection=eptic3">
+<s id="1118:2">
 Hyvät	A_Nom_Pl	hyvä-j
 parlamentin	N_Gen_Sg	parlamentti-n
 jäsenet	N_Nom_Pl	jäsen-n
@@ -16062,7 +16062,7 @@ myötämielisesti	Adv	myötämielisesti-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1118:3&collection=eptic3">
+<s id="1118:3">
 Odotan	V_Prs_Act_Sg1	odottaa-v
 erittäin	Adv	erittäin-r
 kiinnostuneena	PrfPrc_Act_Ess_Sg	kiinnostua-x
@@ -16080,7 +16080,7 @@ aikana	Adp_Po	aikana-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1118:4&collection=eptic3">
+<s id="1118:4">
 Jatkan	V_Prs_Act_Sg1	jatkaa-v
 nyt	Adv	nyt-r
 omalla	A_Ade_Sg	oma-j
@@ -16096,7 +16096,7 @@ omalla	A_Ade_Sg	oma-j
 <speaker name="Füle Stefan" gender="M" country="Czech Republic" politfunc="European Commission" politgroup="NA">
 <st language="en" length="medium" lengthw="773" duration="long" durations="455.0" speed="slow" speedwm="101.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1119:1&collection=eptic3">
+<s id="1119:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -16123,7 +16123,7 @@ puolesta	Adp_Po	puolesta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:2&collection=eptic3">
+<s id="1119:2">
 Haluan	V_Prs_Act_Sg1	haluta-v
 myös	Adv	myös-r
 esittää	V_Inf1_Lat	esittää-v
@@ -16144,7 +16144,7 @@ mietinnöstä	N_Ela_Sg	mietintö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:3&collection=eptic3">
+<s id="1119:3">
 Vakautus-	N_Nom_Sg	Vakautus-n
 ja	CC	ja-x
 assosiaatiosopimus	N_Nom_Sg	assosiaatiosopimus-n
@@ -16161,7 +16161,7 @@ jäsenyyttä	N_Par_Sg	jäsenyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:4&collection=eptic3">
+<s id="1119:4">
 Sopimuksen	N_Gen_Sg	sopimus-n
 keskeisenä	A_Ess_Sg	keskeinen-j
 tavoitteena	N_Ess_Sg	tavoite-n
@@ -16182,7 +16182,7 @@ jäsenyyteen	N_Ill_Sg	jäsenyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:5&collection=eptic3">
+<s id="1119:5">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 tärkeä	A_Nom_Sg	tärkeä-j
 virstanpylväs	N_Nom_Sg	virstapylväs-n
@@ -16203,7 +16203,7 @@ alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:6&collection=eptic3">
+<s id="1119:6">
 Vakautus-	N_Nom_Sg	Vakautus-n
 ja	CC	ja-x
 assosiaatiosopimuksella	N_Ade_Sg	assosiaatiosopimus-n
@@ -16239,7 +16239,7 @@ kautta	Adp_Po	kautta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:7&collection=eptic3">
+<s id="1119:7">
 Lisäksi	Adv	lisäksi-r
 siinä	Pron_Dem_Ine_Sg	se-p
 perustetaan	V_Prs_Pass_Pe4	perustaa-v
@@ -16258,7 +16258,7 @@ sekavaliokunta	N_Nom_Sg	sekavaliokunta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:8&collection=eptic3">
+<s id="1119:8">
 Taloudelliselta	A_Abl_Sg	taloudellinen-j
 näkökannalta	N_Abl_Sg	näkökanna-n
 vakautus-	N_Nom_Sg	vakautus-n
@@ -16289,7 +16289,7 @@ Serbialle	N_A_Propll_Sg	Serbia-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:9&collection=eptic3">
+<s id="1119:9">
 Sopimus	N_Nom_Sg	sopimus-n
 lisää	V_Prs_Act_Sg3	lisätä-v
 investointeja	N_Par_Pl	investointi-n
@@ -16306,7 +16306,7 @@ Keski-Euroopassa	N_Prop_Ine_Sg	Keski-Eurooppa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:10&collection=eptic3">
+<s id="1119:10">
 Se	Pron_Dem_Nom_Sg	se-p
 edistää	V_Prs_Act_Sg3	edistää-v
 ratkaisevasti	PrsPrc_Act_Adv	ratkaisevasti-x
@@ -16322,7 +16322,7 @@ markkinataloutta	N_Par_Sg	markkinatalous-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:11&collection=eptic3">
+<s id="1119:11">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 sopimuksen	N_Gen_Sg	sopimus-n
 hyödyt	N_Nom_Pl	hyöty-n
@@ -16334,7 +16334,7 @@ merkittävät	PrsPrc_Act_Nom_Pl	merkitä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:12&collection=eptic3">
+<s id="1119:12">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 markkinat	N_Nom_Pl	markkina-n
 on	V_Prs_Act_Sg3	olla-v
@@ -16347,7 +16347,7 @@ viennille	N_All_Sg	vienti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:13&collection=eptic3">
+<s id="1119:13">
 Aikaisemmin	Adv	aikaisemmin-r
 suhteellisen	A_Gen_Sg	suhteellinen-j
 korkeat	A_Nom_Pl	korkea-j
@@ -16366,7 +16366,7 @@ ottamatta	V_Inf3_Abe	ottaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:14&collection=eptic3">
+<s id="1119:14">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 asteittainen	A_Nom_Sg	asteittainen-j
 liittäminen	N_Nom_Sg	liittäminen-n
@@ -16380,7 +16380,7 @@ ennakoitavuutta	N_Par_Sg	ennakoitavuutta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:15&collection=eptic3">
+<s id="1119:15">
 Kilpailu-	N_Nom_Sg	Kilpailu-n
 ja	CC	ja-x
 valtiontukisäännöt	N_Nom_Pl	valtiontukisääntö-n
@@ -16392,7 +16392,7 @@ sääntöihin	N_Ill_Pl	sääntö-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:16&collection=eptic3">
+<s id="1119:16">
 Immateriaalioikeuksien	N_Gen_Pl	immateriaalioikeus-n
 suoja	N_Nom_Sg	suoja-n
 nostetaan	V_Prs_Pass_Pe4	nostaa-v
@@ -16405,7 +16405,7 @@ vaatimustasoa	N_Par_Sg	vaatimustaso-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:17&collection=eptic3">
+<s id="1119:17">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 laajat	A_Nom_Pl	laaja-j
 julkisten	A_Gen_Pl	julkinen-j
@@ -16419,7 +16419,7 @@ tarjouksentekijöille	N_All_Pl	tarjouksentekijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:18&collection=eptic3">
+<s id="1119:18">
 Tiiviimpien	A_Gen_Pl	tiivis-j
 suhteiden	N_Gen_Pl	suhde-n
 luominen	N_Nom_Sg	luominen-n
@@ -16458,7 +16458,7 @@ mainitakseni	V_Inf1_Tra_PxSg1	mainita-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:19&collection=eptic3">
+<s id="1119:19">
 Siksi	Adv	siksi-r
 se	Pron_Dem_Nom_Sg	se-p
 auttaa	V_Prs_Act_Sg3	auttaa-v
@@ -16473,7 +16473,7 @@ Kaakkois-Euroopassa	N_Prop_Ine_Sg	Kaakkois-Euroopassa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:20&collection=eptic3">
+<s id="1119:20">
 Lopuksi	N_Tra_Sg	loppu-n
 totean	V_Prs_Act_Sg1	todeta-v
 <g/>
@@ -16493,7 +16493,7 @@ täytäntöönpanoa	N_Par_Sg	täytäntöönpano-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:21&collection=eptic3">
+<s id="1119:21">
 Se	Pron_Dem_Nom_Sg	se-p
 tuli	V_PrfPrc_Act_Sg3	tulla-v
 virallisesti	Adv	virallisesti-r
@@ -16518,7 +16518,7 @@ huhtikuussa	N_Ine_Sg	huhtikuu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:22&collection=eptic3">
+<s id="1119:22">
 Serbia	N_Prop_Nom_Sg	Serbia-n
 on	V_Prs_Act_Sg3	olla-v
 siten	Adv	siten-r
@@ -16539,7 +16539,7 @@ tuloksia	N_Par_Pl	tulos-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:23&collection=eptic3">
+<s id="1119:23">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 jälkeen	Adp_Po	jälkeen-x
 kun	CS	kun-x
@@ -16571,7 +16571,7 @@ parlamenteissaan	N_Ine_Pl	parlamentti-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:24&collection=eptic3">
+<s id="1119:24">
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 parlamentin	N_Gen_Sg	parlamentti-n
 tämänpäiväisen	A_Gen_Sg	tämänpäiväinen-j
@@ -16592,7 +16592,7 @@ ansiosta	N_Ela_Sg	ansio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:25&collection=eptic3">
+<s id="1119:25">
 Toivon	N_Prop_Gen_Sg	Toivo-n
 <g/>
 ,	Punct	,-x
@@ -16605,7 +16605,7 @@ pian	Adv	pian-r
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:26&collection=eptic3">
+<s id="1119:26">
 Lopuksi	N_Tra_Sg	loppu-n
 kiinnitän	V_Prs_Act_Sg1	kiinnittää-v
 vielä	Adv	vielä-r
@@ -16629,7 +16629,7 @@ keskustelussa	N_Ine_Sg	keskustelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:27&collection=eptic3">
+<s id="1119:27">
 Siksi	Adv	siksi-r
 olen	V_Prs_Act_Sg1	olla-v
 kiitollinen	A_Nom_Sg	kiitollinen-j
@@ -16639,7 +16639,7 @@ Kacinille	NON-TWOL	Kacinille-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:28&collection=eptic3">
+<s id="1119:28">
 Päätöslauselmalla	N_Ade_Sg	päätöslauselma-n
 lähetetään	V_Prs_Pass_Pe4	lähettää-v
 Serbialle	N_A_Propll_Sg	Serbia-n
@@ -16674,7 +16674,7 @@ jäsenyyttä	N_Par_Sg	jäsenyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:29&collection=eptic3">
+<s id="1119:29">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 erityisen	A_Gen_Sg	erityinen-j
@@ -16688,7 +16688,7 @@ takia	Adp_Po	takia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:30&collection=eptic3">
+<s id="1119:30">
 Vierailin	V_PrfPrc_Act_Sg1	vierailla-v
 Belgradissa	N_Prop_Ine_Sg	Belgrad-n
 viime	A	viime-j
@@ -16704,7 +16704,7 @@ varapääministerille	N_All_Sg	varapääministeri-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:31&collection=eptic3">
+<s id="1119:31">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 viranomaiset	N_Nom_Pl	virkaomainen-n
 työstävät	V_Prs_Act_Pl3	työstää-v
@@ -16721,7 +16721,7 @@ mennessä	Adp_Po	mennä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:32&collection=eptic3">
+<s id="1119:32">
 Minua	Pron_Pers_Par_Sg	minä-p
 rohkaisee	V_Prs_Act_Sg3	rohkaista-v
 Serbian	N_Prop_Gen_Sg	Serbia-n
@@ -16740,7 +16740,7 @@ edistymiskertomukselle	N_All_Sg	edistyminenkertomus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:33&collection=eptic3">
+<s id="1119:33">
 Komissio	N_Nom_Sg	komissio-n
 aikoo	V_Prs_Act_Sg3	aikoa-v
 analysoida	V_Inf1_Lat	analysoida-v
@@ -16772,7 +16772,7 @@ puoliskolla	N_Ade_Sg	puolisko-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:34&collection=eptic3">
+<s id="1119:34">
 Kuten	Adv	kuten-r
 unkarilaiskollegani	N_Nom_Sg	unkarilaiskollegani-n
 totesi	V_PrfPrc_Act_Sg3	todeta-v
@@ -16795,7 +16795,7 @@ vuosi	N_Nom_Sg	vuo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:35&collection=eptic3">
+<s id="1119:35">
 Tie	N_Nom_Sg	Tie-n
 on	V_Prs_Act_Sg3	olla-v
 valittu	PrfPrc_Pass_Nom_Sg	valita-x
@@ -16835,7 +16835,7 @@ kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:36&collection=eptic3">
+<s id="1119:36">
 Olen	V_Prs_Act_Sg1	Ole-v
 vakuuttunut	PrfPrc_Act_Nom_Sg	vakuuttua-x
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -16856,7 +16856,7 @@ yhdentymispyrkimyksissään	N_Ine_Pl	yhdentyminenpyrkimys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1119:37&collection=eptic3">
+<s id="1119:37">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 välittää	V_Prs_Act_Sg3	välittää-v
 myönteisen	A_Gen_Sg	myönteinen-j
@@ -16890,7 +16890,7 @@ Länsi-Balkanilla	N_A_Propde_Sg	LänsiBalkan-n
 <speaker name="Schöpflin György" gender="M" country="Hungary" politfunc="MEP" politgroup="PPE">
 <st language="en" length="short" lengthw="250" duration="medium" durations="124.0" speed="slow" speedwm="121.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1120:1&collection=eptic3">
+<s id="1120:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -16904,7 +16904,7 @@ erinomainen	A_Nom_Sg	erinomainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:2&collection=eptic3">
+<s id="1120:2">
 Kiitän	V_Prs_Act_Sg1	kiittää-v
 esittelijä	N_Nom_Sg	esittelijä-n
 Jelko	NON-TWOL	Jelko-x
@@ -16912,7 +16912,7 @@ Kacinia	NON-TWOL	Kacinia-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:3&collection=eptic3">
+<s id="1120:3">
 Minusta	Pron_Pers_Ela_Sg	minä-p
 vaikuttaa	V_Prs_Act_Sg3	vaikuttaa-v
 siltä	Pron_Dem_Abl_Sg	se-p
@@ -16933,7 +16933,7 @@ tulevaisuuden	N_Gen_Sg	tulevaisuus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:4&collection=eptic3">
+<s id="1120:4">
 Poliittisen	A_Gen_Sg	poliittinen-j
 eliitin	N_Gen_Sg	eliitti-n
 enemmistön	N_Gen_Sg	enemmistö-n
@@ -16946,7 +16946,7 @@ vaihtoehto	N_Nom_Sg	vaihtoehto-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:5&collection=eptic3">
+<s id="1120:5">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 määrätietoisuus	N_Nom_Sg	määrätietoisuus-n
 on	V_Prs_Act_Sg3	olla-v
@@ -16959,7 +16959,7 @@ valossa	N_Ine_Sg	valo-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:6&collection=eptic3">
+<s id="1120:6">
 Serbia	N_Prop_Nom_Sg	Serbia-n
 kävi	V_PrfPrc_Act_Sg3	käydä-v
 läpi	N_Nom_Sg	läpi-n
@@ -17004,7 +17004,7 @@ menneisyyden	N_Gen_Sg	menneisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:7&collection=eptic3">
+<s id="1120:7">
 Päätös	N_Nom_Sg	päätös-n
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
 valitsemisesta	N_Ela_Sg	valitseminen-n
@@ -17027,7 +17027,7 @@ tekijä	N_Nom_Sg	tekijä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:8&collection=eptic3">
+<s id="1120:8">
 Jäljellä	Adv	jäljellä-r
 on	V_Prs_Act_Sg3	olla-v
 kaksi	Num_Nom_Sg	kaksi-m
@@ -17050,7 +17050,7 @@ itsenäisyydestä	N_Ela_Sg	itsenäisyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:9&collection=eptic3">
+<s id="1120:9">
 Molemmat	Pron_Qnt_Nom_Pl	molempi-p
 ongelmat	N_Nom_Pl	ongelma-n
 viittaavat	V_Prs_Act_Pl3	viitata-v
@@ -17059,7 +17059,7 @@ esteisiin	N_Ill_Pl	este-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:10&collection=eptic3">
+<s id="1120:10">
 Ratko	V_Imprt_Act_Sg2	ratkoa-v
 Mladićilla	NON-TWOL	Mladićilla-x
 on	V_Prs_Act_Sg3	olla-v
@@ -17084,7 +17084,7 @@ tuskallinen	A_Nom_Sg	tuskallinen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:11&collection=eptic3">
+<s id="1120:11">
 Näiden	Pron_Dem_Gen_Pl	nämä-p
 asioiden	N_Gen_Pl	asia-n
 lisäksi	Adp_Po	lisäksi-x
@@ -17124,7 +17124,7 @@ avaamista	N_Par_Sg	avaaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:12&collection=eptic3">
+<s id="1120:12">
 Ennuste	N_Nom_Sg	ennuste-n
 Serbian	N_Prop_Gen_Sg	Serbia-n
 Euroopan	N_Prop_Gen_Sg	Eurooppa-n
@@ -17136,7 +17136,7 @@ hyvä	A_Nom_Sg	hyvä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:13&collection=eptic3">
+<s id="1120:13">
 Tämän	Pron_Dem_Gen_Sg	tämä-p
 suuntaiset	A_Nom_Pl	suuntainen-j
 sitoumukset	N_Nom_Pl	sitoumus-n
@@ -17145,7 +17145,7 @@ selkeitä	A_Par_Pl	selkeä-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:14&collection=eptic3">
+<s id="1120:14">
 Eliitille	N_All_Sg	eliitti-n
 ja	CC	ja-x
 yhteiskunnalle	N_All_Sg	yhteiskunta-n
@@ -17160,7 +17160,7 @@ edistyvät	V_Prs_Act_Pl3	edistyä-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:15&collection=eptic3">
+<s id="1120:15">
 Jos	CS	Jos-x
 kaikki	Pron_Qnt_Nom	kaikki-p
 menee	V_Prs_Act_Sg3	mennä-v
@@ -17181,7 +17181,7 @@ jälkeen	Adp_Po	jälkeen-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1120:16&collection=eptic3">
+<s id="1120:16">
 Tie	N_Nom_Sg	Tie-n
 Eurooppaan	N_Prop_Ill_Sg	Eurooppa-n
 ei	V_Neg_Sg3	ei-v
@@ -17209,7 +17209,7 @@ Serbiasta	N_Prop_Ela_Sg	Serbia-n
 <speaker name="Tannock Charles" gender="M" country="United Kingdom" politfunc="MEP" politgroup="ECR">
 <st language="en" length="short" lengthw="189" duration="short" durations="72.0" speed="medium" speedwm="157.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1136:1&collection=eptic3">
+<s id="1136:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -17243,7 +17243,7 @@ osoittaa	V_Prs_Act_Sg3	osoittaa-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:2&collection=eptic3">
+<s id="1136:2">
 Vieraillessani	V_Inf2_Act_Ine_PxSg1	vierailla-v
 Serbiassa	N_Prop_Ine_Sg	Serbia-n
 viime	A	viime-j
@@ -17264,7 +17264,7 @@ ponnisteluista	N_Ela_Pl	ponnistelu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:3&collection=eptic3">
+<s id="1136:3">
 Serbialla	N_A_Propde_Sg	Serbia-n
 on	V_Prs_Act_Sg3	olla-v
 todellakin	Adv	todella-r
@@ -17281,7 +17281,7 @@ osalta	Adp_Po	osalta-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:4&collection=eptic3">
+<s id="1136:4">
 Me	Pron_Pers_Nom_Pl	me-p
 ECR-ryhmän	N_Gen_Sg	ECR-ryhmän-n
 jäsenet	N_Nom_Pl	jäsen-n
@@ -17311,7 +17311,7 @@ varmaa	A_Par_Sg	varma-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:5&collection=eptic3">
+<s id="1136:5">
 On	V_Prs_Act_Sg3	olla-v
 kuitenkin	Adv	kuitenkin-r
 välttämätöntä	A_Par_Sg	välttämätön-j
@@ -17366,7 +17366,7 @@ jäsenyyttä	N_Par_Sg	jäsenyys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:6&collection=eptic3">
+<s id="1136:6">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 suhteet	N_Nom_Pl	suhde-n
 Kosovoon	N_Prop_Ill_Sg	Kosovo-n
@@ -17380,7 +17380,7 @@ ratkaisemattomat	A_Nom_Pl	ratkaisematon-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:7&collection=eptic3">
+<s id="1136:7">
 Henkilökohtaisesti	Adv	henkilökohtaisesti-r
 olen	V_Prs_Act_Sg1	olla-v
 sitä	Pron_Dem_Par_Sg	se-p
@@ -17417,7 +17417,7 @@ etenemistapa	N_Nom_Sg	eteneminentapa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:8&collection=eptic3">
+<s id="1136:8">
 Nähdäkseni	Adv	nähdä-r
 EU	N_Nom_Sg	EU-n
 <g/>
@@ -17441,7 +17441,7 @@ edustaja	N_Nom_Sg	edustaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1136:9&collection=eptic3">
+<s id="1136:9">
 Sen	Pron_Dem_Gen_Sg	Sen-p
 hylkääminen	N_Nom_Sg	hylkääminen-n
 suoralta	N_Abl_Sg	suora-n
@@ -17482,7 +17482,7 @@ ssa	N_Nom_Sg	ssa-n
 <speaker name="Severin Adrian" gender="M" country="Romania" politfunc="MEP" politgroup="SD">
 <st language="en" length="short" lengthw="207" duration="short" durations="102.0" speed="slow" speedwm="121.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1147:1&collection=eptic3">
+<s id="1147:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -17505,14 +17505,14 @@ unionille	N_All_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:2&collection=eptic3">
+<s id="1147:2">
 Esittäisin	V_Cond_Act_Sg1	esittää-v
 kaksi	Num_Nom_Sg	kaksi-m
 huomautusta	N_Par_Sg	huomautus-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:3&collection=eptic3">
+<s id="1147:3">
 Jotta	CS	jotta-x
 sopimuksesta	N_Ela_Sg	sopimus-n
 voidaan	V_Prs_Pass_Pe4	voida-v
@@ -17536,7 +17536,7 @@ etunsa	N_Nom_Pl	etu-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:4&collection=eptic3">
+<s id="1147:4">
 Euroopalla	N_A_Propde_Sg	Eurooppa-n
 on	V_Prs_Act_Sg3	olla-v
 ratkaisematon	A_Nom_Sg	ratkaisematon-j
@@ -17562,7 +17562,7 @@ korruptiota	N_Par_Sg	korruptio-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:5&collection=eptic3">
+<s id="1147:5">
 Näin	Adv	näin-r
 ollen	V_Inf2_Act	olla-v
 unionin	N_Gen_Sg	unioni-n
@@ -17581,7 +17581,7 @@ liikennekäytäviä	N_Par_Pl	liikennekäytävä-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:6&collection=eptic3">
+<s id="1147:6">
 Mitään	Pron_Qnt_Par_Sg	Mi-p
 näistä	Pron_Dem_Ela_Pl	nämä-p
 ongelmista	N_Ela_Pl	ongelma-n
@@ -17594,7 +17594,7 @@ panosta	N_Ela_Sg	pano-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:7&collection=eptic3">
+<s id="1147:7">
 Toiseksi	Pron_Qnt_Tra_Sg	toinen-p
 emme	V_Neg_Pl1	ei-v
 saa	V_Prs_Act_ConNeg	saada-v
@@ -17612,7 +17612,7 @@ tullen	V_Inf2_Act_Ins	tulla-v
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:8&collection=eptic3">
+<s id="1147:8">
 Serbia	N_Prop_Nom_Sg	Serbia-n
 on	V_Prs_Act_Sg3	olla-v
 todellakin	Adv	todella-r
@@ -17632,7 +17632,7 @@ merkittävää	PrsPrc_Act_Par_Sg	merkitä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:9&collection=eptic3">
+<s id="1147:9">
 Vuosi	N_Nom_Sg	Vuo-n
 2011	Num_Nom_Sg	@card@-m
 on	V_Prs_Act_Sg3	olla-v
@@ -17648,7 +17648,7 @@ unionille	N_All_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:10&collection=eptic3">
+<s id="1147:10">
 Emme	V_Neg_Pl1	ei-v
 pysty	V_Prs_Act_ConNeg	pystyä-v
 tarttumaan	V_Inf3_Ill	tarttua-v
@@ -17665,7 +17665,7 @@ vertaisenamme	A_Ess_Sg	vertainen-j
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:11&collection=eptic3">
+<s id="1147:11">
 Vain	Adv	vain-r
 kunnioitusta	N_Par_Sg	kunnioitus-n
 herättävä	PrsPrc_Act_Nom_Sg	herätä-x
@@ -17686,7 +17686,7 @@ unioniin	N_Ill_Sg	unioni-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1147:12&collection=eptic3">
+<s id="1147:12">
 Jelko	N_Nom_Sg	Jelko-n
 Kacinin	N_Prop_Gen_Sg	Kacinin-n
 mietintö	N_Nom_Sg	mietintö-n
@@ -17706,7 +17706,7 @@ suuntaan	N_Ill_Sg	suunta-n
 <speaker name="Ludford Sarah" gender="F" country="United Kingdom" politfunc="MEP" politgroup="ALDE">
 <st language="en" length="short" lengthw="293" duration="medium" durations="128.0" speed="medium" speedwm="137.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="1149:1&collection=eptic3">
+<s id="1149:1">
 Arvoisa	A_Nom_Sg	arvoisa-j
 puhemies	N_Nom_Sg	puhemies-n
 <g/>
@@ -17761,7 +17761,7 @@ varmistamisessa	N_Ine_Sg	varmistaa-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:2&collection=eptic3">
+<s id="1149:2">
 Olen	V_Prs_Act_Sg1	Ole-v
 tukenut	PrfPrc_Act_Nom_Sg	tukea-x
 Länsi-Balkanin	N_Prop_Gen_Sg	LänsiBalkan-n
@@ -17785,7 +17785,7 @@ varapuheenjohtajana	N_Ess_Sg	varapuhejohtaja-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:3&collection=eptic3">
+<s id="1149:3">
 Tein	V_PrfPrc_Act_Sg1	tehdä-v
 esittelijämme	N_Gen_Sg	esittelijä-n
 kanssa	Adp_Po	kanssa-x
@@ -17812,7 +17812,7 @@ sitten	Adp_Pr	sitten-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:4&collection=eptic3">
+<s id="1149:4">
 Mielestäni	N_Ela_Sg	mieli-n
 tällä	Pron_Dem_Ade_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
@@ -17835,7 +17835,7 @@ merkityksessä	N_Ine_Sg	merkitys-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:5&collection=eptic3">
+<s id="1149:5">
 Jotkut	Pron_Qnt_Nom_Pl	joku-p
 Serbian	N_Prop_Gen_Sg	Serbia-n
 kohtaamista	AgPcp_Ela_Pl	kohdata-x
@@ -17846,7 +17846,7 @@ mainittu	PrfPrc_Pass_Nom_Sg	mainita-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:6&collection=eptic3">
+<s id="1149:6">
 Haluaisin	V_Cond_Act_Sg1	haluta-v
 esittää	V_Inf1_Lat	esittää-v
 lisähuomautuksen	N_Gen_Sg	lisähuomautus-n
@@ -17855,7 +17855,7 @@ uudistamisesta	N_Ela_Sg	uudistaminen-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:7&collection=eptic3">
+<s id="1149:7">
 Komissio	N_Nom_Sg	komissio-n
 toi	V_PrfPrc_Act_Sg3	tuoda-v
 viimesyksyisessä	A_Ine_Sg	viimesyksyisessä-j
@@ -17885,7 +17885,7 @@ riskin	N_Gen_Sg	riski-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:8&collection=eptic3">
+<s id="1149:8">
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 selkeästi	Adv	selkeästi-r
@@ -17895,7 +17895,7 @@ kannalta	N_Abl_Sg	kanta-n
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:9&collection=eptic3">
+<s id="1149:9">
 Haagissa	N_Prop_Ine_Sg	Haag-n
 toimivan	PrsPrc_Act_Gen_Sg	toimia-x
 entisen	A_Gen_Sg	entinen-j
@@ -17966,7 +17966,7 @@ välillä	Adp_Po	välillä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:10&collection=eptic3">
+<s id="1149:10">
 Tuloksia	N_Par_Pl	tulos-n
 ei	V_Neg_Sg3	ei-v
 ole	V_Prs_Act_ConNeg	olla-v
@@ -17974,7 +17974,7 @@ nähtävissä	PrsPrc_Pass_Ine_Pl	nähdä-x
 <g/>
 .	SENT	.-x
 </s>
-<s id="1149:11&collection=eptic3">
+<s id="1149:11">
 Serbian	N_Prop_Gen_Sg	Serbia-n
 on	V_Prs_Act_Sg3	olla-v
 toteutettava	PrsPrc_Pass_Nom_Sg	toteuttaa-x

@@ -3,7 +3,6 @@
 <st language="fr" length="short" lengthw="152" duration="short" durations="75.0" speed="slow" speedwm="121.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="355:1" video="https://media.dipintra.it/?id=355&start=00.00&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -39,9 +38,7 @@ Cancún	NPFS000	Cancún-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:2" video="https://media.dipintra.it/?id=355&start=00.12&end=00.22&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 aujourd'hui	RG	aujourd'hui-r
 ehm	FPAUSE	ehm
@@ -85,9 +82,7 @@ pas	RN	pas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:3" video="https://media.dipintra.it/?id=355&start=00.22&end=00.31&collection=eptic3">
-
 Le	DA0MS0	le-x
 côté	NCMS000	côté-n
 positif	AQ0MS00	positif-j
@@ -123,9 +118,7 @@ régionaux	AQ0MP00	régional-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:4" video="https://media.dipintra.it/?id=355&start=00.31&end=00.39&collection=eptic3">
-
 Là	RG	là-r
 <g/>
 ,	Fc	,-x
@@ -164,9 +157,7 @@ serre	NCFS000	serre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:5" video="https://media.dipintra.it/?id=355&start=00.39&end=00.51&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 <g/>
@@ -223,9 +214,7 @@ transition	NCFS000	transition-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:6" video="https://media.dipintra.it/?id=355&start=00.51&end=01.00&collection=eptic3">
-
 Enfin	RG	enfin-r
 <g/>
 ,	Fc	,-x
@@ -276,9 +265,7 @@ Sud	NPMS000	Sud-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:7" video="https://media.dipintra.it/?id=355&start=01.00&end=01.06&collection=eptic3">
-
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
 quels	PT0MP00	quel-p
@@ -306,9 +293,7 @@ européenne	AQ0FS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:8" video="https://media.dipintra.it/?id=355&start=01.06&end=01.11&collection=eptic3">
-
 Donc	CC	donc-c
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -331,9 +316,7 @@ quo	NCMS000	quo-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="355:9" video="https://media.dipintra.it/?id=355&start=01.11&end=01.23&collection=eptic3">
-
 La	DA0FS0	le-x
 réussite	NCFS000	réussite-n
 de	SP	de-i
@@ -354,13 +337,10 @@ plus	RG	plus-r
 constructive	AQ0FS00	constructif-j
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -370,7 +350,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="106" duration="short" durations="55.0" speed="slow" speedwm="115.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="357:1" video="https://media.dipintra.it/?id=357&start=00.00&end=00.27&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 <g/>
 ,	Fc	,-x
@@ -475,9 +454,7 @@ gagner	VMN0000	gagner-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="357:2" video="https://media.dipintra.it/?id=357&start=00.27&end=00.42&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -538,9 +515,7 @@ gagner	VMN0000	gagner-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="357:3" video="https://media.dipintra.it/?id=357&start=00.42&end=00.45&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -557,9 +532,7 @@ madame	NCFS000	monsieur-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="357:4" video="https://media.dipintra.it/?id=357&start=00.45&end=00.52&collection=eptic3">
-
 La	DA0FS0	le-x
 leçon	NCFS000	leçon-n
 de	SP	de-i
@@ -591,9 +564,7 @@ battu	VMP00SM	battre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="357:5" video="https://media.dipintra.it/?id=357&start=00.52&end=01.05&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 demande	VMIP1S0	demander-v
@@ -623,7 +594,6 @@ tard	RG	tard-r
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -633,7 +603,6 @@ tard	RG	tard-r
 <st language="fr" length="short" lengthw="191" duration="short" durations="71.0" speed="high" speedwm="161.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="359:1" video="https://media.dipintra.it/?id=359&start=00.00&end=00.24&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 Présidente	NPFS000	Présidente-n
@@ -711,9 +680,7 @@ besoin	NCMS000	besoin-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:2" video="https://media.dipintra.it/?id=359&start=00.24&end=00.27&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 vous	PP2CP00	vous-p
 payez	VMIP2P0	payer-v
@@ -722,9 +689,7 @@ mots	NCMP000	mot-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:3" video="https://media.dipintra.it/?id=359&start=00.27&end=00.40&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 pensez	VMIP2P0	penser-v
 que	CS	que-c
@@ -778,9 +743,7 @@ trompez	VMIP2P0	tromper-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:4" video="https://media.dipintra.it/?id=359&start=00.40&end=00.49&collection=eptic3">
-
 Et	CC	et-c
 si	CS	si-c
 vous	PP2CP00	vous-p
@@ -822,9 +785,7 @@ croissance	NCFS000	croissance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:5" video="https://media.dipintra.it/?id=359&start=00.49&end=00.57&collection=eptic3">
-
 Donc	CC	donc-c
 <g/>
 ,	Fc	,-x
@@ -861,9 +822,7 @@ chose	NCFS000	chose-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:6" video="https://media.dipintra.it/?id=359&start=00.57&end=01.00&collection=eptic3">
-
 Dans	SP	dans-i
 notre	DP1CSP	notre-x
 travail	NCMS000	travail-n
@@ -876,9 +835,7 @@ fermes	AQ0CP00	ferme-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:7" video="https://media.dipintra.it/?id=359&start=01.00&end=01.06&collection=eptic3">
-
 Ne	RN	ne-r
 croyez	VMM02P0	croire-v
 pas	RN	pas-r
@@ -911,9 +868,7 @@ juin	NCMS000	juin-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:8" video="https://media.dipintra.it/?id=359&start=01.06&end=01.11&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 aurons	VMIF1P0	avoir-v
 un	DI0MS0	un-x
@@ -933,9 +888,7 @@ aura	VAIF3S0	avoir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="359:9" video="https://media.dipintra.it/?id=359&start=01.11&end=01.25&collection=eptic3">
-
 Et	CC	et-c
 <g/>
 ,	Fc	,-x
@@ -974,13 +927,10 @@ ce	DD0MS0	ce-x
 paquet	NCMS000	paquet-n
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -990,7 +940,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="252" duration="short" durations="117.0" speed="slow" speedwm="129.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="366:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -1066,9 +1015,7 @@ Mercosur	NPMS000	Mercosur-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:2&collection=eptic3">
-
 Y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
 pas	RN	pas-r
@@ -1099,9 +1046,7 @@ libre-échange	NCMS000	libre-échange-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:3&collection=eptic3">
-
 Alors	RG	alors-r
 avec	SP	avec-i
 cet	DD0MS0	ce-x
@@ -1144,9 +1089,7 @@ agriculture	NCFS000	agriculture-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:4&collection=eptic3">
-
 Pour	SP	pour-i
 être	VSN0000	être-v
 élu	VMP00SM	élire-v
@@ -1217,9 +1160,7 @@ paysans	NCMP000	paysan-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:5&collection=eptic3">
-
 Mais	CC	mais-c
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -1255,9 +1196,7 @@ de	SP	de-i
 libre-échange	NCMS000	libre-échange-n
 ?	Fit	?-x
 </s>
-
 <s id="366:6&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 n'	RN	ne-r
 <g/>
@@ -1295,9 +1234,7 @@ libre-échange	NCMS000	libre-échange-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:7&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 <g/>
@@ -1347,9 +1284,7 @@ est	VMIP3S0	être-v
 faux	AQ0MN00	faux-j
 !	Fat	!-x
 </s>
-
 <s id="366:8&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 allons	VMIP1P0	aller-v
 pouvoir	VMN0000	pouvoir-v
@@ -1381,9 +1316,7 @@ accord	NCMS000	accord-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:9&collection=eptic3">
-
 Pour	SP	pour-i
 la	DA0FS0	le-x
 première	AQ0FS00	premier-j
@@ -1410,9 +1343,7 @@ commerciaux	AQ0MP00	commercial-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:10&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 la	DA0FS0	le-x
@@ -1440,9 +1371,7 @@ des	SP+D	de+les-i
 carburants	NCMP000	carburant-n
 ?	Fit	?-x
 </s>
-
 <s id="366:11&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 pensons	VMIP1P0	penser-v
 que	CS	que-c
@@ -1477,9 +1406,7 @@ commerce	NCMS000	commerce-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="366:12&collection=eptic3">
-
 Pour	SP	pour-i
 cela	PD0CS00	cela-p
 <g/>
@@ -1492,13 +1419,10 @@ cet	DD0MS0	ce-x
 accord	NCMS000	accord-n
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -1508,7 +1432,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="315" duration="medium" durations="121.0" speed="medium" speedwm="156.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="370:1" video="https://media.dipintra.it/?id=370&start=00.00&end=00.05&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 Présidente	NPFS000	Présidente-n
@@ -1535,9 +1458,7 @@ soir	NCMS000	soir-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:2" video="https://media.dipintra.it/?id=370&start=00.05&end=00.11&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
 bien	RG	bien-r
@@ -1568,9 +1489,7 @@ répondre	VMN0000	répondre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:3" video="https://media.dipintra.it/?id=370&start=00.11&end=00.17&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 qu'	CS	que-c
@@ -1598,9 +1517,7 @@ motive	VMIP3S0	motiver-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:4" video="https://media.dipintra.it/?id=370&start=00.17&end=00.26&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 qui	PR00000	qui-p
 nous	PP1CP00	nous-p
@@ -1638,9 +1555,7 @@ crise	NCFS000	crise-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:5" video="https://media.dipintra.it/?id=370&start=00.26&end=00.45&collection=eptic3">
-
 Pour	SP	pour-i
 que	PT0CN00	que-p
 dans	SP	dans-i
@@ -1706,9 +1621,7 @@ commune	AQ0FS00	commun-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:6" video="https://media.dipintra.it/?id=370&start=00.45&end=00.56&collection=eptic3">
-
 Et	CC	et-c
 ...	EPAUSE	...-x
 très	RG	très-r
@@ -1748,9 +1661,7 @@ rond	NCMS000	rond-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:7" video="https://media.dipintra.it/?id=370&start=00.56&end=01.06&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 bien	RG	bien-r
@@ -1788,9 +1699,7 @@ affaires	NCFP000	affaire-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:8" video="https://media.dipintra.it/?id=370&start=01.06&end=01.22&collection=eptic3">
-
 Alors	RG	alors-r
 vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
@@ -1860,9 +1769,7 @@ plan	NCMS000	plan-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:9" video="https://media.dipintra.it/?id=370&start=01.22&end=01.29&collection=eptic3">
-
 Donc	CC	donc-c
 ce	DD0MS0	ce-x
 Parlement	NPMS000	Parlement-n
@@ -1907,9 +1814,7 @@ avancer	VMN0000	avancer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:10" video="https://media.dipintra.it/?id=370&start=01.29&end=01.32&collection=eptic3">
-
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
 <g/>
@@ -1923,9 +1828,7 @@ responsabilités	NCFP000	responsabilité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:11" video="https://media.dipintra.it/?id=370&start=01.32&end=01.38&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
 les	DA0CP0	le-x
@@ -1950,9 +1853,7 @@ naissance	NCFS000	naissance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:12" video="https://media.dipintra.it/?id=370&start=01.38&end=01.43&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 n'	RN	ne-r
 <g/>
@@ -1984,9 +1885,7 @@ importants	AQ0MP00	important-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:13" video="https://media.dipintra.it/?id=370&start=01.43&end=01.55&collection=eptic3">
-
 Mais	CC	mais-c
 simplement	RG	simplement-r
 <g/>
@@ -2040,9 +1939,7 @@ conscience	NCFS000	conscience-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:14" video="https://media.dipintra.it/?id=370&start=01.55&end=02.02&collection=eptic3">
-
 Et	CC	et-c
 ehm	FPAUSE	ehm
 j-	DYSF	j-
@@ -2081,9 +1978,7 @@ naïveté	NCFS000	naïveté-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="370:15" video="https://media.dipintra.it/?id=370&start=02.02&end=02.11&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -2095,13 +1990,10 @@ enjeux	NCMP000	enjeu-n
 considérables	AQ0CP00	considérable-j
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -2111,7 +2003,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="medium" lengthw="414" duration="medium" durations="191.0" speed="medium" speedwm="130.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="372:1" video="https://media.dipintra.it/?id=372&start=00.00&end=00.23&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -2174,9 +2065,7 @@ demain	RG	demain-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:2" video="https://media.dipintra.it/?id=372&start=00.23&end=00.30&collection=eptic3">
-
 Maintenant	RG	maintenant-r
 ehm	FPAUSE	ehm
 ça	PD0MS00	cela-p
@@ -2198,9 +2087,7 @@ d'	SP	de-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:3" video="https://media.dipintra.it/?id=372&start=00.30&end=00.53&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 c'	PP0CNN0	ce-p
 <g/>
@@ -2268,9 +2155,7 @@ extérieure	AQ0FS00	extérieur-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:4" video="https://media.dipintra.it/?id=372&start=00.53&end=01.05&collection=eptic3">
-
 20	Z	20-m
 pour	SP	pour-i
 cent	NCMP000	cent-n
@@ -2320,9 +2205,7 @@ rater	VMN0000	rater-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:5" video="https://media.dipintra.it/?id=372&start=01.05&end=01.09&collection=eptic3">
-
 Fiona	NP00000	Fiona-n
 Hall	NPMS000	Hall-n
 l'	PP3CSA0	le-p
@@ -2355,9 +2238,7 @@ calculer	VMN0000	calculer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:6" video="https://media.dipintra.it/?id=372&start=01.09&end=01.21&collection=eptic3">
-
 Si	CS	si-c
 il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -2402,9 +2283,7 @@ année	NCFS000	année-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:7" video="https://media.dipintra.it/?id=372&start=01.21&end=01.33&collection=eptic3">
-
 Et	CC	et-c
 on	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
@@ -2449,9 +2328,7 @@ recherchons	VMIP1P0	rechercher-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:8" video="https://media.dipintra.it/?id=372&start=01.33&end=01.35&collection=eptic3">
-
 Alors	RG	alors-r
 moi	PP1CS00	moi-p
 je	PP1CSN0	je-p
@@ -2468,9 +2345,7 @@ ici	RG	ici-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:9" video="https://media.dipintra.it/?id=372&start=01.35&end=01.51&collection=eptic3">
-
 Excusez-moi	VMM02P0	excuser-v
 <g/>
 ,	Fc	,-x
@@ -2544,9 +2419,7 @@ line	NCFS000	line-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:10" video="https://media.dipintra.it/?id=372&start=01.51&end=02.00&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 n'	RN	ne-r
 <g/>
@@ -2587,9 +2460,7 @@ climat-énergie	NCFS000	climat-énergie-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:11" video="https://media.dipintra.it/?id=372&start=02.00&end=02.03&collection=eptic3">
-
 On	PP3CSN0	on-p
 nous	PP1CP00	nous-p
 dit	VMIP3S0	dire-v
@@ -2604,9 +2475,7 @@ contraignant	AQ0MS00	contraignant-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:12" video="https://media.dipintra.it/?id=372&start=02.03&end=02.06&collection=eptic3">
-
 Alors	RG	alors-r
 <g/>
 ,	Fc	,-x
@@ -2619,9 +2488,7 @@ renouvelables	AQ0CP00	renouvelable-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:13" video="https://media.dipintra.it/?id=372&start=02.06&end=02.28&collection=eptic3">
-
 On	PP3CSN0	on-p
 est	VMIP3S0	être-v
 la	DA0FS0	le-x
@@ -2700,9 +2567,7 @@ contraignant	VMG0000	contraindre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:14" video="https://media.dipintra.it/?id=372&start=02.28&end=02.46&collection=eptic3">
-
 Par	SP	par-i
 rapport	NCMS000	rapport-n
 au	SP+DA	à+le-i
@@ -2773,9 +2638,7 @@ rénovation	NCFS000	rénovation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:15" video="https://media.dipintra.it/?id=372&start=02.46&end=02.53&collection=eptic3">
-
 Enfin	RG	enfin-r
 <g/>
 ,	Fc	,-x
@@ -2801,9 +2664,7 @@ d'	SP	de-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:16" video="https://media.dipintra.it/?id=372&start=02.53&end=02.58&collection=eptic3">
-
 Si	CS	si-c
 l'	DA0CS0	le-x
 <g/>
@@ -2828,9 +2689,7 @@ international	AQ0MS00	international-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:17" video="https://media.dipintra.it/?id=372&start=02.58&end=03.02&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 seront	VMIF3P0	être-v
 deux	NCMN000	deux-n
@@ -2846,9 +2705,7 @@ facture	NCFS000	facture-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:18" video="https://media.dipintra.it/?id=372&start=03.02&end=03.13&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 aller	VMN0000	aller-v
@@ -2904,9 +2761,7 @@ d'	SP	de-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="372:19" video="https://media.dipintra.it/?id=372&start=03.13&end=03.23&collection=eptic3">
-
 La	DA0FS0	le-x
 feuille	NCFS000	feuille-n
 de	SP	de-i
@@ -2930,13 +2785,10 @@ là	RG	là-r
 indécente	AQ0FS00	indécent-j
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -2946,7 +2798,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="175" duration="short" durations="73.0" speed="medium" speedwm="143.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="374:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -2972,9 +2823,7 @@ Moubarak	NPMS000	Moubarak-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:2&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 les	PP3CPA0	les-p
@@ -3000,9 +2849,7 @@ Sarkozy	NPMS000	Sarkozy-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:3&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 recevais	VMII1S0	recevoir-v
@@ -3067,9 +2914,7 @@ socialiste	AQ0CS00	socialiste-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:4&collection=eptic3">
-
 Je	PP1CSN0	je-p
 n'	RN	ne-r
 <g/>
@@ -3131,9 +2976,7 @@ pays	NCMN000	pays-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:5&collection=eptic3">
-
 Je	PP1CSN0	je-p
 respecte	VMIP3S0	respecter-v
 trop	RG	trop-r
@@ -3146,9 +2989,7 @@ non-ingérence	NCFS000	non-ingérence-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:6&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 n'	RN	ne-r
 <g/>
@@ -3167,9 +3008,7 @@ européen	AQ0MS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:7&collection=eptic3">
-
 Si	CS	si-c
 vous	PP2CP00	vous-p
 aviez	VMII2P0	avoir-v
@@ -3193,9 +3032,7 @@ moment-là	RG	moment-là-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:8&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -3215,9 +3052,7 @@ terre	NCFS000	terre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="374:9&collection=eptic3">
-
 Dans	SP	dans-i
 tout	DI0MS0	tout-x
 le	DA0MS0	le-x
@@ -3261,7 +3096,6 @@ domaine	NCMS000	domaine-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -3271,7 +3105,6 @@ domaine	NCMS000	domaine-n
 <st language="fr" length="short" lengthw="237" duration="short" durations="108.0" speed="medium" speedwm="131.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="376:1" video="https://media.dipintra.it/?id=376&start=00.00&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
 ehm	FPAUSE	ehm
@@ -3308,9 +3141,7 @@ message	NCMS000	message-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:2" video="https://media.dipintra.it/?id=376&start=00.12&end=00.17&collection=eptic3">
-
 Mais	CC	mais-c
 entretemps	RG	entretemps-r
 ehm	FPAUSE	ehm
@@ -3331,9 +3162,7 @@ ailleurs	RG	ailleurs-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:3" video="https://media.dipintra.it/?id=376&start=00.17&end=00.30&collection=eptic3">
-
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
 évidemment	RG	évidemment-r
@@ -3375,9 +3204,7 @@ ans	NCMP000	an-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:4" video="https://media.dipintra.it/?id=376&start=00.30&end=00.39&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 voyons	VMIP1P0	voir-v
 bien	RG	bien-r
@@ -3424,9 +3251,7 @@ voulons	VMIP1P0	vouloir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:5" video="https://media.dipintra.it/?id=376&start=00.39&end=01.01&collection=eptic3">
-
 Dans	SP	dans-i
 le	DA0MS0	le-x
 rapport	NCMS000	rapport-n
@@ -3516,9 +3341,7 @@ compte	NCMS000	compte-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:6" video="https://media.dipintra.it/?id=376&start=01.01&end=01.08&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 évoquons	VMIP1P0	évoquer-v
 aussi	RG	aussi-r
@@ -3547,9 +3370,7 @@ emploi	NCMS000	emploi-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:7" video="https://media.dipintra.it/?id=376&start=01.08&end=01.15&collection=eptic3">
-
 Et	CC	et-c
 que	CS	que-c
 plutôt	RG	plutôt-r
@@ -3583,9 +3404,7 @@ réel	AQ0MS00	réel-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:8" video="https://media.dipintra.it/?id=376&start=01.15&end=01.26&collection=eptic3">
-
 Mais	CC	mais-c
 le	DA0MS0	le-x
 rapport	NCMS000	rapport-n
@@ -3622,9 +3441,7 @@ accord	NCMS000	accord-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:9" video="https://media.dipintra.it/?id=376&start=01.26&end=01.41&collection=eptic3">
-
 L'	DA0CS0	le-x
 <g/>
 idée	NCFS000	idée-n
@@ -3687,9 +3504,7 @@ soutenir	VMN0000	soutenir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="376:10" video="https://media.dipintra.it/?id=376&start=01.41&end=01.57&collection=eptic3">
-
 Enfin	RG	enfin-r
 <g/>
 ,	Fc	,-x
@@ -3731,7 +3546,6 @@ mur	NCMS000	mur-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -3741,7 +3555,6 @@ mur	NCMS000	mur-n
 <st language="fr" length="short" lengthw="210" duration="short" durations="112.0" speed="slow" speedwm="112.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="379:1" video="https://media.dipintra.it/?id=379&start=00.00&end=00.14&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -3793,9 +3606,7 @@ Ouganda	NP00000	Ouganda-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:2" video="https://media.dipintra.it/?id=379&start=00.14&end=00.19&collection=eptic3">
-
 Alors	RG	alors-r
 pourquoi	PT00000	pourquoi-p
 revenir	VMN0000	revenir-v
@@ -3812,9 +3623,7 @@ résolution	NCFS000	résolution-n
 quasi-identique	AQ0CS00	quasi-identique-j
 ?	Fit	?-x
 </s>
-
 <s id="379:3" video="https://media.dipintra.it/?id=379&start=00.19&end=00.21&collection=eptic3">
-
 Eh	I	eh-x
 bien	RG	bien-r
 parce	NCFS000	parce-n
@@ -3830,9 +3639,7 @@ clos	VMP00NM	clore-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:4" video="https://media.dipintra.it/?id=379&start=00.21&end=00.34&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 abord	NCMS000	abord-n
@@ -3874,9 +3681,7 @@ Ouganda	NP00000	Ouganda-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:5" video="https://media.dipintra.it/?id=379&start=00.34&end=00.58&collection=eptic3">
-
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
 raison	NCFS000	raison-n
@@ -3944,9 +3749,7 @@ réprouvés	VMP00PM	réprouver-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:6" video="https://media.dipintra.it/?id=379&start=00.58&end=01.05&collection=eptic3">
-
 Alors	RG	alors-r
 <g/>
 ,	Fc	,-x
@@ -3976,9 +3779,7 @@ lancée	VMP00SF	lancer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:7" video="https://media.dipintra.it/?id=379&start=01.05&end=01.07&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -3991,9 +3792,7 @@ homme	NCMS000	homme-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:8" video="https://media.dipintra.it/?id=379&start=01.07&end=01.13&collection=eptic3">
-
 Ensuite	RG	ensuite-r
 <g/>
 ,	Fc	,-x
@@ -4010,9 +3809,7 @@ homosexuels	NCMP000	homosexuel-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:9" video="https://media.dipintra.it/?id=379&start=01.13&end=01.23&collection=eptic3">
-
 Le	DA0MS0	le-x
 reste	NCMS000	reste-n
 des	SP+D	de+les-i
@@ -4058,9 +3855,7 @@ homosexuels	NCMP000	homosexuel-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:10" video="https://media.dipintra.it/?id=379&start=01.23&end=01.41&collection=eptic3">
-
 Alors	RG	alors-r
 <g/>
 ,	Fc	,-x
@@ -4129,9 +3924,7 @@ culturels	AQ0MP00	culturel-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:11" video="https://media.dipintra.it/?id=379&start=01.41&end=01.57&collection=eptic3">
-
 Non	RG	non-r
 <g/>
 ,	Fc	,-x
@@ -4178,16 +3971,13 @@ européenne	AQ0FS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="379:12" video="https://media.dipintra.it/?id=379&start=01.57&end=01.59&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -4197,7 +3987,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="medium" lengthw="466" duration="medium" durations="235.0" speed="slow" speedwm="119.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="380:1" video="https://media.dipintra.it/?id=380&start=00.00&end=00.18&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
 la	DA0FS0	le-x
@@ -4251,9 +4040,7 @@ gouvernance	NCFS000	gouvernance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:2" video="https://media.dipintra.it/?id=380&start=00.18&end=00.45&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
 ehm	FPAUSE	ehm
@@ -4361,9 +4148,7 @@ humaine	AQ0FS00	humain-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:3" video="https://media.dipintra.it/?id=380&start=00.45&end=00.50&collection=eptic3">
-
 Cet	DD0MS0	ce-x
 article	NCMS000	article-n
 s'	PP3CN00	se-p
@@ -4385,9 +4170,7 @@ politiques	NCFP000	politique-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:4" video="https://media.dipintra.it/?id=380&start=00.50&end=00.59&collection=eptic3">
-
 Or	CC	or-c
 <g/>
 ,	Fc	,-x
@@ -4423,9 +4206,7 @@ délibérer	VMN0000	délibérer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:5" video="https://media.dipintra.it/?id=380&start=00.59&end=01.10&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 études	NCFP000	étude-n
 d'	SP	de-i
@@ -4463,9 +4244,7 @@ ehm	FPAUSE	ehm
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:6" video="https://media.dipintra.it/?id=380&start=01.10&end=01.16&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 nous	PP1CP00	nous-p
 en	PP3CN00	en-p
@@ -4488,18 +4267,14 @@ gouvernance	NCFS000	gouvernance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:7" video="https://media.dipintra.it/?id=380&start=01.16&end=01.18&collection=eptic3">
-
 Car	CC	car-c
 sinon	CS	sinon-c
 que	CS	que-c
 voit-on	VMIP3S0	voir-v
 ?	Fit	?-x
 </s>
-
 <s id="380:8" video="https://media.dipintra.it/?id=380&start=01.18&end=01.30&collection=eptic3">
-
 On	PP3CSN0	on-p
 voit	VMIP3S0	voir-v
 le	DA0MS0	le-x
@@ -4552,9 +4327,7 @@ financiers	AQ0MP00	financier-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:9" video="https://media.dipintra.it/?id=380&start=01.30&end=01.45&collection=eptic3">
-
 Mais	CC	mais-c
 si	CS	si-c
 le	DA0MS0	le-x
@@ -4615,9 +4388,7 @@ k-	DYSF	k-
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:10" video="https://media.dipintra.it/?id=380&start=01.45&end=02.01&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 vous	PP2CP00	vous-p
 demandons	VMIP1P0	demander-v
@@ -4677,9 +4448,7 @@ prendre	VMN0000	prendre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:11" video="https://media.dipintra.it/?id=380&start=02.01&end=02.22&collection=eptic3">
-
 Quel	PT0MS00	quel-p
 sera	VMIF3S0	être-v
 l'	DA0CS0	le-x
@@ -4743,9 +4512,7 @@ année	NCFS000	année-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:12" video="https://media.dipintra.it/?id=380&start=02.22&end=02.58&collection=eptic3">
-
 La	DA0FS0	le-x
 réalité	NCFS000	réalité-n
 c'	PP0CNN0	ce-p
@@ -4827,9 +4594,7 @@ stratégie	NCFS000	stratégie-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:13" video="https://media.dipintra.it/?id=380&start=02.58&end=03.12&collection=eptic3">
-
 Or	CC	or-c
 <g/>
 ,	Fc	,-x
@@ -4885,9 +4650,7 @@ s'	PP3CN00	se-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:14" video="https://media.dipintra.it/?id=380&start=03.12&end=03.43&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
 sommes	VMIP2S0	sommer-v
@@ -4966,9 +4729,7 @@ engagée	VMP00SF	engager-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="380:15" video="https://media.dipintra.it/?id=380&start=03.43&end=04.17&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 ne	RN	ne-r
 peut	VMIP3S0	pouvoir-v
@@ -5015,7 +4776,6 @@ Commissaire	NPCS000	Commissaire-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -5025,7 +4785,6 @@ Commissaire	NPCS000	Commissaire-n
 <st language="fr" length="short" lengthw="258" duration="short" durations="114.0" speed="medium" speedwm="135.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="496:1" video="https://media.dipintra.it/?id=496&start=00.00&end=00.09&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -5049,9 +4808,7 @@ forme	NCFS000	forme-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:2" video="https://media.dipintra.it/?id=496&start=00.09&end=00.21&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 rapporteure	NCFS000	rapporteure-n
@@ -5099,9 +4856,7 @@ fictif	AQ0MS00	fictif-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:3" video="https://media.dipintra.it/?id=496&start=00.21&end=00.33&collection=eptic3">
-
 Cependant	RG	cependant-r
 j'	PP1CSN0	je-p
 <g/>
@@ -5144,9 +4899,7 @@ concertation	NCFS000	concertation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:4" video="https://media.dipintra.it/?id=496&start=00.33&end=00.44&collection=eptic3">
-
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
 la	DA0FS0	le-x
@@ -5186,9 +4939,7 @@ financières	AQ0FP00	financier-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:5" video="https://media.dipintra.it/?id=496&start=00.44&end=01.06&collection=eptic3">
-
 La	DA0FS0	le-x
 position	NCFS000	position-n
 de	SP	de-i
@@ -5277,9 +5028,7 @@ altérée	VMP00SF	altérer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:6" video="https://media.dipintra.it/?id=496&start=01.06&end=01.16&collection=eptic3">
-
 Et	CC	et-c
 à	SP	à-i
 cet	DD0MS0	ce-x
@@ -5315,9 +5064,7 @@ attente	NCFS000	attente-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:7" video="https://media.dipintra.it/?id=496&start=01.16&end=01.30&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 demandons	VMIP1P0	demander-v
 instamment	RG	instamment-r
@@ -5368,9 +5115,7 @@ décision	NCFS000	décision-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="496:8" video="https://media.dipintra.it/?id=496&start=01.30&end=01.54&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 qu'	CS	que-c
@@ -5436,7 +5181,6 @@ merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -5446,7 +5190,6 @@ merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="210" duration="short" durations="105.0" speed="slow" speedwm="120.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="499:1" video="https://media.dipintra.it/?id=499&start=00.00&end=00.19&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
 la	DA0FS0	le-x
@@ -5516,9 +5259,7 @@ société	NCFS000	société-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:2" video="https://media.dipintra.it/?id=499&start=00.19&end=00.31&collection=eptic3">
-
 Quelle	DT0FS0	quel-x
 société	NCFS000	société-n
 aujourd'hui	RG	aujourd'hui-r
@@ -5553,9 +5294,7 @@ professionnelle	AQ0FS00	professionnel-j
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="499:3" video="https://media.dipintra.it/?id=499&start=00.31&end=00.35&collection=eptic3">
-
 Ceci	PD0CS00	ceci-p
 ne	RN	ne-r
 doit	VMIP3S0	devoir-v
@@ -5570,9 +5309,7 @@ vivons	VMIP1P0	vivre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:4" video="https://media.dipintra.it/?id=499&start=00.35&end=00.53&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 demande	VMIP1S0	demander-v
@@ -5620,9 +5357,7 @@ intelligence	NCFS000	intelligence-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:5" video="https://media.dipintra.it/?id=499&start=00.53&end=01.00&collection=eptic3">
-
 Le	DA0MS0	le-x
 deuxième	AO0CS00	2-j
 point	NCMS000	point-n
@@ -5645,9 +5380,7 @@ Commissaire	NPCS000	Commissaire-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:6" video="https://media.dipintra.it/?id=499&start=01.00&end=01.05&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 je	PP1CSN0	je-p
@@ -5663,9 +5396,7 @@ quotas	NCMP000	quota-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:7" video="https://media.dipintra.it/?id=499&start=01.05&end=01.09&collection=eptic3">
-
 Mais	CC	mais-c
 au	SP+DA	à+le-i
 bout	NCMS000	bout-n
@@ -5688,9 +5419,7 @@ pas	RN	pas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:8" video="https://media.dipintra.it/?id=499&start=01.09&end=01.15&collection=eptic3">
-
 Sans	SP	sans-i
 quota	NCMS000	quota-n
 nous	PP1CP00	nous-p
@@ -5713,9 +5442,7 @@ responsabilités	NCFP000	responsabilité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:9" video="https://media.dipintra.it/?id=499&start=01.15&end=01.22&collection=eptic3">
-
 Et	CC	et-c
 j'	PP1CSN0	je-p
 <g/>
@@ -5737,9 +5464,7 @@ aussi	RG	aussi-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:10" video="https://media.dipintra.it/?id=499&start=01.22&end=01.27&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -5756,9 +5481,7 @@ chemin	NCMS000	chemin-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:11" video="https://media.dipintra.it/?id=499&start=01.27&end=01.36&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
@@ -5796,9 +5519,7 @@ arriver	VMN0000	arriver-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:12" video="https://media.dipintra.it/?id=499&start=01.36&end=01.40&collection=eptic3">
-
 Mais	CC	mais-c
 aujourd'hui	RG	aujourd'hui-r
 nous	PP1CP00	nous-p
@@ -5811,9 +5532,7 @@ là	RG	là-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:13" video="https://media.dipintra.it/?id=499&start=01.40&end=01.47&collection=eptic3">
-
 Enfin	RG	enfin-r
 le	DA0MS0	le-x
 troisième	AO0CS00	3-j
@@ -5839,9 +5558,7 @@ femmes	NCFP000	femme-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="499:14" video="https://media.dipintra.it/?id=499&start=01.47&end=01.54&collection=eptic3">
-
 Merci	NCMS000	merci-n
 d'	SP	de-i
 <g/>
@@ -5850,7 +5567,6 @@ contribuer	VMN0000	contribuer-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -5860,7 +5576,6 @@ contribuer	VMN0000	contribuer-v
 <st language="fr" length="short" lengthw="172" duration="short" durations="72.0" speed="medium" speedwm="143.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="502:1" video="https://media.dipintra.it/?id=502&start=00.00&end=00.08&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 Haute	AQ0FS00	haut-j
@@ -5891,9 +5606,7 @@ libyenne	AQ0FS00	libyen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:2" video="https://media.dipintra.it/?id=502&start=00.08&end=00.17&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 justement	RG	justement-r
@@ -5927,9 +5640,7 @@ européens	AQ0MP00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:3" video="https://media.dipintra.it/?id=502&start=00.17&end=00.31&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 d'	SP	de-i
@@ -5987,9 +5698,7 @@ fonctionné	VMP00SM	fonctionner-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:4" video="https://media.dipintra.it/?id=502&start=00.31&end=00.43&collection=eptic3">
-
 Sur	SP	sur-i
 le	DA0MS0	le-x
 plan	NCMS000	plan-n
@@ -6025,9 +5734,7 @@ nécessaire	AQ0CS00	nécessaire-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:5" video="https://media.dipintra.it/?id=502&start=00.43&end=00.55&collection=eptic3">
-
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
 ne	RN	ne-r
@@ -6077,9 +5784,7 @@ aérien	AQ0MS00	aérien-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:6" video="https://media.dipintra.it/?id=502&start=00.55&end=01.10&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
 en	SP	en-i
@@ -6139,9 +5844,7 @@ humanitaire	AQ0CS00	humanitaire-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="502:7" video="https://media.dipintra.it/?id=502&start=01.10&end=01.19&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 que	CS	que-c
@@ -6165,7 +5868,6 @@ merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -6175,7 +5877,6 @@ merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="149" duration="short" durations="71.0" speed="slow" speedwm="125.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="504:1" video="https://media.dipintra.it/?id=504&start=00.00&end=00.09&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -6216,9 +5917,7 @@ traité	NCMS000	traité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:2" video="https://media.dipintra.it/?id=504&start=00.09&end=00.12&collection=eptic3">
-
 Le	DA0MS0	le-x
 réalisme	NCMS000	réalisme-n
 nous	PP1CP00	nous-p
@@ -6230,9 +5929,7 @@ faire	VMN0000	faire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:3" video="https://media.dipintra.it/?id=504&start=00.12&end=00.18&collection=eptic3">
-
 Or	CC	or-c
 le	DA0MS0	le-x
 traité	NCMS000	traité-n
@@ -6258,9 +5955,7 @@ traités	NCMP000	traité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:4" video="https://media.dipintra.it/?id=504&start=00.18&end=00.34&collection=eptic3">
-
 Ici	RG	ici-r
 nous	PP1CP00	nous-p
 sommes	VSIP1P0	être-v
@@ -6299,9 +5994,7 @@ intergouvernemental	AQ0MS00	intergouvernemental-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:5" video="https://media.dipintra.it/?id=504&start=00.34&end=00.50&collection=eptic3">
-
 Alors	RG	alors-r
 j'	PP1CSN0	je-p
 <g/>
@@ -6351,9 +6044,7 @@ mécanisme	NCMS000	mécanisme-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:6" video="https://media.dipintra.it/?id=504&start=00.50&end=00.59&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 je	PP1CSN0	je-p
@@ -6379,9 +6070,7 @@ européen	AQ0MS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="504:7" video="https://media.dipintra.it/?id=504&start=00.59&end=01.18&collection=eptic3">
-
 Ce	DD0MS0	ce-x
 Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
@@ -6423,7 +6112,6 @@ le	DA0MS0	le-x
 Pré-	DYSF	Pré-
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -6433,7 +6121,6 @@ Pré-	DYSF	Pré-
 <st language="fr" length="short" lengthw="290" duration="medium" durations="135.0" speed="slow" speedwm="128.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="505:1&collection=eptic3">
-
 Oui	RG	oui-r
 ehm	FPAUSE	ehm
 merci	NCMS000	merci-n
@@ -6472,9 +6159,7 @@ précédemment	RG	précédemment-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:2&collection=eptic3">
-
 Mais	CC	mais-c
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -6527,9 +6212,7 @@ seul	AQ0MS00	seul-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:3&collection=eptic3">
-
 Aucun	DI0MS0	aucun-x
 État	NPMS000	État-n
 membre	NCMS000	membre-n
@@ -6569,9 +6252,7 @@ européenne	AQ0FS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:4&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -6607,9 +6288,7 @@ appelle	VMIP1S0	appeler-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:5&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -6641,9 +6320,7 @@ asile	NCMS000	asile-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:6&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VAIP3S0	avoir-v
@@ -6678,9 +6355,7 @@ adopté	VMP00SM	adopter-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:7&collection=eptic3">
-
 Le	DA0MS0	le-x
 temps	NCMN000	temps-n
 est	VSIP3S0	être-v
@@ -6698,9 +6373,7 @@ concrète	AQ0FS00	concret-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:8&collection=eptic3">
-
 Alors	RG	alors-r
 nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
@@ -6726,9 +6399,7 @@ faisait	VMII3S0	faire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:9&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
 revenir	VMN0000	revenir-v
@@ -6745,9 +6416,7 @@ propositions	NCFP000	proposition-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:10&collection=eptic3">
-
 Oui	RG	oui-r
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -6767,9 +6436,7 @@ Frontex	NPMN000	Frontex-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:11&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 renforcer	VMN0000	renforcer-v
@@ -6806,9 +6473,7 @@ Poséidon	NPMS000	Poséidon-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:12&collection=eptic3">
-
 Oui	RG	oui-r
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -6848,9 +6513,7 @@ aujourd'hui	RG	aujourd'hui-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:13&collection=eptic3">
-
 Et	CC	et-c
 ce	PP0CNN0	ce-p
 sera	VMIF3S0	être-v
@@ -6864,9 +6527,7 @@ solidarité	NCFS000	solidarité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:14&collection=eptic3">
-
 Oui	RG	oui-r
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -6901,9 +6562,7 @@ instruments	NCMP000	instrument-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:15&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 commissaire	NCCS000	commissaire-n
@@ -6929,9 +6588,7 @@ mobilité	NCFS000	mobilité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="505:16&collection=eptic3">
-
 Oui	RG	oui-r
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -6960,7 +6617,6 @@ merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -6970,7 +6626,6 @@ merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="220" duration="short" durations="91.0" speed="medium" speedwm="145.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="507:1" video="https://media.dipintra.it/?id=507&start=00.00&end=00.28&collection=eptic3">
-
 Merci	NCMS000	merci-n
 ehm	FPAUSE	ehm
 Monsieur	NPMS000	Monsieur-n
@@ -7067,9 +6722,7 @@ existent	VMIP3P0	exister-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:2" video="https://media.dipintra.it/?id=507&start=00.28&end=00.31&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 en	SP	en-i
@@ -7079,9 +6732,7 @@ conscient	AQ0MS00	conscient-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:3" video="https://media.dipintra.it/?id=507&start=00.31&end=00.40&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -7114,9 +6765,7 @@ Europe	NPCS000	Europe-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:4" video="https://media.dipintra.it/?id=507&start=00.40&end=00.50&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -7138,9 +6787,7 @@ conscient	AQ0MS00	conscient-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:5" video="https://media.dipintra.it/?id=507&start=00.50&end=01.08&collection=eptic3">
-
 Donc	CC	donc-c
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -7200,18 +6847,14 @@ cela	PD0CS00	cela-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:6" video="https://media.dipintra.it/?id=507&start=01.08&end=01.09&collection=eptic3">
-
 Comment	PT00000	comment-p
 le	PP3MSA0	le-p
 faire	VMN0000	faire-v
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="507:7" video="https://media.dipintra.it/?id=507&start=01.09&end=01.12&collection=eptic3">
-
 Eh	I	eh-x
 bien	RG	bien-r
 avec	SP	avec-i
@@ -7231,9 +6874,7 @@ nucléaire	NCMS000	nucléaire-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:8" video="https://media.dipintra.it/?id=507&start=01.12&end=01.18&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 Claude	NPFS000	Claude-n
 a	VAIP3S0	avoir-v
@@ -7243,9 +6884,7 @@ ans	NCMP000	an-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:9" video="https://media.dipintra.it/?id=507&start=01.18&end=01.21&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -7265,9 +6904,7 @@ plus	RG	plus-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:10" video="https://media.dipintra.it/?id=507&start=01.21&end=01.36&collection=eptic3">
-
 Mais	CC	mais-c
 ehm	FPAUSE	ehm
 voilà	I	voilà-x
@@ -7324,9 +6961,7 @@ contrôle	NCMS000	contrôle-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="507:11" video="https://media.dipintra.it/?id=507&start=01.36&end=01.38&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 en	SP	en-i
@@ -7335,7 +6970,6 @@ conscient	AQ0MS00	conscient-j
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -7345,7 +6979,6 @@ conscient	AQ0MS00	conscient-j
 <st language="fr" length="short" lengthw="145" duration="short" durations="55.0" speed="medium" speedwm="158.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="509:1&collection=eptic3">
-
 Oui	RG	oui-r
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -7367,9 +7000,7 @@ unique	AQ0CS00	unique-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="509:2&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 que	CS	que-c
@@ -7443,9 +7074,7 @@ environnementales	AQ0FP00	environnemental-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="509:3&collection=eptic3">
-
 Simplement	RG	simplement-r
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -7507,9 +7136,7 @@ libéralisations	NCFP000	libéralisation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="509:4&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 nous	PP1CP00	nous-p
 nous	PP1CP00	nous-p
@@ -7557,7 +7184,6 @@ territorial	AQ0MS00	territorial-j
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -7567,7 +7193,6 @@ territorial	AQ0MS00	territorial-j
 <st language="fr" length="short" lengthw="294" duration="medium" durations="128.0" speed="medium" speedwm="137.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="512:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 c'	PP0CNN0	ce-p
 <g/>
@@ -7622,9 +7247,7 @@ européen	AQ0MS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:2&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 ne	RN	ne-r
 peut	VMIP3S0	pouvoir-v
@@ -7639,9 +7262,7 @@ soutien	NCMS000	soutien-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:3&collection=eptic3">
-
 Mais	CC	mais-c
 la	DA0FS0	le-x
 très	RG	très-r
@@ -7689,9 +7310,7 @@ insupportable	AQ0CS00	insupportable-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:4&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est-à-dire	VMN0000	est-à-dire-v
@@ -7738,9 +7357,7 @@ pays	NCMN000	pays-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:5&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -7769,9 +7386,7 @@ actes	NCMP000	acte-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:6&collection=eptic3">
-
 Dans	SP	dans-i
 ces	DD0CP0	ce-x
 actes	NCMP000	acte-n
@@ -7804,9 +7419,7 @@ impunis	AQ0MP00	impuni-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:7&collection=eptic3">
-
 Et	CC	et-c
 pour	SP	pour-i
 cela	PD0CS00	cela-p
@@ -7864,9 +7477,7 @@ impunies	AQ0FP00	impuni-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:8&collection=eptic3">
-
 Enfin	RG	enfin-r
 je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -7909,9 +7520,7 @@ situation	NCFS000	situation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:9&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
 faire	VMN0000	faire-v
@@ -7933,9 +7542,7 @@ route	NCFS000	route-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:10&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 quand	CS	quand-c
@@ -7959,9 +7566,7 @@ utiliser	VMN0000	utiliser-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="512:11&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 l'	DA0CS0	le-x
 <g/>
@@ -8037,7 +7642,6 @@ pays	NCMN000	pays-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -8047,7 +7651,6 @@ pays	NCMN000	pays-n
 <st language="fr" length="short" lengthw="176" duration="short" durations="84.0" speed="slow" speedwm="125.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="514:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -8091,9 +7694,7 @@ fusion	NCFS000	fusion-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="514:2&collection=eptic3">
-
 Alors	RG	alors-r
 moi	PP1CS00	moi-p
 j'	PP1CSN0	je-p
@@ -8110,9 +7711,7 @@ Oettinger	NP00000	Oettinger-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="514:3&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -8128,9 +7727,7 @@ résistance	NCFS000	résistance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="514:4&collection=eptic3">
-
 Comme	CS	comme-c
 vient	VMIP3S0	venir-v
 de	SP	de-i
@@ -8181,9 +7778,7 @@ nucléaires	NCMP000	nucléaire-n
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="514:5&collection=eptic3">
-
 Comment	PT00000	comment-p
 vous	PP2CP00	vous-p
 allez	VMIP2P0	aller-v
@@ -8205,9 +7800,7 @@ centrales	NCFP000	centrale-n
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="514:6&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 que	CS	que-c
 entre	SP	entre-i
@@ -8236,9 +7829,7 @@ résistance	NCFS000	résistance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="514:7&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 absolument	RG	absolument-r
@@ -8259,9 +7850,7 @@ membre	NCMS000	membre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="514:8&collection=eptic3">
-
 Et	CC	et-c
 comment	PT00000	comment-p
 on	PP3CSN0	on-p
@@ -8296,9 +7885,7 @@ acceptent	VMIP3P0	accepter-v
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="514:9&collection=eptic3">
-
 Quel	PT0MS00	quel-p
 alors	RG	alors-r
 il	PP3MSN0	il-p
@@ -8319,9 +7906,7 @@ faire	VMN0000	faire-v
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="514:10&collection=eptic3">
-
 Ensuite	RG	ensuite-r
 sur	SP	sur-i
 la	DA0FS0	le-x
@@ -8372,7 +7957,6 @@ accident	NCMS000	accident-n
 mer-	DYSF	mer-
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -8382,7 +7966,6 @@ mer-	DYSF	mer-
 <st language="fr" length="short" lengthw="181" duration="short" durations="95.0" speed="slow" speedwm="114.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="515:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -8411,9 +7994,7 @@ nommé	VMP00SM	nommer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:2&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 depuis	SP	depuis-i
@@ -8447,9 +8028,7 @@ bilatéraux	AQ0MP00	bilatéral-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:3&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -8464,9 +8043,7 @@ Maroc	NPMS000	Maroc-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:4&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
@@ -8505,9 +8082,7 @@ demain	RG	demain-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:5&collection=eptic3">
-
 Mais	CC	mais-c
 lorsque	CS	lorsque-c
 la	DA0FS0	le-x
@@ -8553,9 +8128,7 @@ réelle	AQ0FS00	réel-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:6&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 en	SP	en-i
@@ -8570,9 +8143,7 @@ point	NCMS000	point-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:7&collection=eptic3">
-
 On	PP3CSN0	on-p
 nous	PP1CP00	nous-p
 dit	VMIP3S0	dire-v
@@ -8590,9 +8161,7 @@ marocains	AQ0MP00	marocain-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:8&collection=eptic3">
-
 Mais	CC	mais-c
 de	SP	de-i
 quels	DT0MP0	quel-x
@@ -8625,9 +8194,7 @@ exploitations	NCFP000	exploitation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:9&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 ne	RN	ne-r
 sont	VMIP3P0	être-v
@@ -8664,9 +8231,7 @@ européen	AQ0MS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="515:10&collection=eptic3">
-
 Ne	RN	ne-r
 nous	PP1CP00	nous-p
 trompons	VMM01P0	tromper-v
@@ -8695,7 +8260,6 @@ Commission	NPFS000	Commission-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -8705,7 +8269,6 @@ Commission	NPFS000	Commission-n
 <st language="fr" length="short" lengthw="147" duration="short" durations="84.0" speed="slow" speedwm="105.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="477:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -8717,9 +8280,7 @@ but	NCMS000	but-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:2&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 l'	DA0CS0	le-x
 <g/>
@@ -8770,9 +8331,7 @@ de	SP	de-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:3&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -8807,9 +8366,7 @@ direct	AQ0MS00	direct-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:4&collection=eptic3">
-
 Je	PP1CSN0	je-p
 regrette	VMIP1S0	regretter-v
 <g/>
@@ -8859,9 +8416,7 @@ article	NCMS000	article-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:5&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n'	RN	ne-r
 <g/>
@@ -8881,9 +8436,7 @@ l'	DA0CS0	le-x
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:6&collection=eptic3">
-
 Si	CS	si-c
 les	DA0CP0	le-x
 États	NPMP000	États-n
@@ -8943,9 +8496,7 @@ attribués	VMP00PM	attribuer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:7&collection=eptic3">
-
 Toute	DI0FS0	tout-x
 autre	AQ0CS00	autre-j
 solution	NCFS000	solution-n
@@ -8981,9 +8532,7 @@ proportionnelle	NCFS000	proportionnelle-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="477:8&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 serait	VSIC3S0	être-v
 en	PP3CN00	en-p
@@ -9003,7 +8552,6 @@ traités	NCMP000	traité-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -9013,7 +8561,6 @@ traités	NCMP000	traité-n
 <st language="fr" length="short" lengthw="111" duration="short" durations="61.0" speed="slow" speedwm="109.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="479:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -9039,9 +8586,7 @@ dit	VMP00SM	dire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:2&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 dit	VMP00SM	dire-v
@@ -9064,9 +8609,7 @@ qualifiée	VMP00SF	qualifier-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:3&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -9092,9 +8635,7 @@ traduit	VMP00SM	traduire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:4&collection=eptic3">
-
 Ça	PD0MS00	cela-p
 me	PP1CS00	me-p
 paraît	VMIP3S0	paraître-v
@@ -9138,9 +8679,7 @@ pour	SP	pour-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:5&collection=eptic3">
-
 Sans	SP	sans-i
 auc-	DYSF	auc-
 alors	RG	alors-r
@@ -9159,9 +8698,7 @@ obtenue	VMP00SF	obtenir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:6&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -9169,9 +8706,7 @@ est	VMIP3S0	être-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:7&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -9202,9 +8737,7 @@ qualifiée	VMP00SF	qualifier-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="479:8&collection=eptic3">
-
 Donc	CC	donc-c
 j'	PP1CSN0	je-p
 <g/>
@@ -9266,7 +8799,6 @@ vice-président	NCMS000	vice-président-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -9276,7 +8808,6 @@ vice-président	NCMS000	vice-président-n
 <st language="fr" length="short" lengthw="179" duration="short" durations="85.0" speed="slow" speedwm="126.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="481:1" video="https://media.dipintra.it/?id=481&start=00.00&end=00.02&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 défends	VMIP2S0	défendre-v
@@ -9287,9 +8818,7 @@ français	AQ0MN00	français-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="481:2" video="https://media.dipintra.it/?id=481&start=00.02&end=00.08&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 Sarkozy	NPMS000	Sarkozy-n
 et	CC	et-c
@@ -9306,9 +8835,7 @@ européen	AQ0MS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="481:3" video="https://media.dipintra.it/?id=481&start=00.08&end=00.29&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 auraient	VAIC3P0	avoir-v
 dû	VMP00SM	devoir-v
@@ -9376,9 +8903,7 @@ installer	VMN0000	installer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="481:4" video="https://media.dipintra.it/?id=481&start=00.29&end=00.45&collection=eptic3">
-
 Mais	CC	mais-c
 je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
@@ -9436,9 +8961,7 @@ territoire	NCMS000	territoire-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="481:5" video="https://media.dipintra.it/?id=481&start=00.45&end=00.48&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 ne	RN	ne-r
 l'	PP3CSA0	le-p
@@ -9451,9 +8974,7 @@ en	SP	en-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="481:6" video="https://media.dipintra.it/?id=481&start=00.48&end=01.13&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 <g/>
@@ -9562,9 +9083,7 @@ les	PP3CPA0	les-p
 persécutent	VMIP3P0	persécuter-v
 ?	Fit	?-x
 </s>
-
 <s id="481:7" video="https://media.dipintra.it/?id=481&start=01.13&end=01.38&collection=eptic3">
-
 Votre	DP2CSP	votre-x
 angélisme	NCMS000	angélisme-n
 en	SP	en-i
@@ -9645,7 +9164,6 @@ Europe-là	NP00000	Europe-là-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -9655,7 +9173,6 @@ Europe-là	NP00000	Europe-là-n
 <st language="fr" length="medium" lengthw="430" duration="medium" durations="222.0" speed="slow" speedwm="116.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="483:1" video="https://media.dipintra.it/?id=483&start=00.00&end=00.05&collection=eptic3">
-
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 ehm	FPAUSE	ehm
@@ -9679,9 +9196,7 @@ pas	RN	pas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:2" video="https://media.dipintra.it/?id=483&start=00.05&end=00.13&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -9708,16 +9223,12 @@ insécurité	NCFS000	insécurité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:3" video="https://media.dipintra.it/?id=483&start=00.13&end=00.14&collection=eptic3">
-
 Quelle	DT0FS0	quel-x
 insécurité	NCFS000	insécurité-n
 ?	Fit	?-x
 </s>
-
 <s id="483:4" video="https://media.dipintra.it/?id=483&start=00.14&end=00.20&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -9752,9 +9263,7 @@ guerre	NCFS000	guerre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:5" video="https://media.dipintra.it/?id=483&start=00.20&end=00.27&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 rappelle	VMIP1S0	rappeler-v
@@ -9788,9 +9297,7 @@ guerre	NCFS000	guerre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:6" video="https://media.dipintra.it/?id=483&start=00.27&end=00.30&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
 mis	VMP00NM	mettre-v
@@ -9808,9 +9315,7 @@ milliers	NCMP000	millier-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:7" video="https://media.dipintra.it/?id=483&start=00.30&end=00.33&collection=eptic3">
-
 Et	CC	et-c
 ça	PD0MS00	cela-p
 a	VAIP3S0	avoir-v
@@ -9825,9 +9330,7 @@ toujours	RG	toujours-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:8" video="https://media.dipintra.it/?id=483&start=00.33&end=00.35&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 n'	RN	ne-r
 <g/>
@@ -9838,9 +9341,7 @@ coulé	VMP00SM	couler-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:9" video="https://media.dipintra.it/?id=483&start=00.35&end=00.46&collection=eptic3">
-
 Toute	DI0FS0	tout-x
 cette	DD0FS0	ce-x
 histoire	NCFS000	histoire-n
@@ -9859,9 +9360,7 @@ propagande	NCFS000	propagande-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:10" video="https://media.dipintra.it/?id=483&start=00.46&end=00.51&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 on	PP3CSN0	on-p
@@ -9876,9 +9375,7 @@ la	DA0FS0	le-x
 mafia	NCFS000	mafia-n
 !	Fat	!-x
 </s>
-
 <s id="483:11" video="https://media.dipintra.it/?id=483&start=00.51&end=00.53&collection=eptic3">
-
 Comme	CS	comme-c
 si	CS	si-c
 la	DA0FS0	le-x
@@ -9894,9 +9391,7 @@ arrivaient	VMII3P0	arriver-v
 Lampedusa	NP00000	Lampedusa-n
 !	Fat	!-x
 </s>
-
 <s id="483:12" video="https://media.dipintra.it/?id=483&start=00.53&end=00.57&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 ont	VAIP3P0	avoir-v
 pas	RN	pas-r
@@ -9910,9 +9405,7 @@ criminels	NCMP000	criminel-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:13" video="https://media.dipintra.it/?id=483&start=00.57&end=01.02&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 rentrent	VMIP3P0	rentrer-v
 normalement	RG	normalement-r
@@ -9931,9 +9424,7 @@ pays	NCMN000	pays-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:14" video="https://media.dipintra.it/?id=483&start=01.02&end=01.05&collection=eptic3">
-
 Donc	CC	donc-c
 arrêtez	VMIP2P0	arrêter-v
 de	SP	de-i
@@ -9944,9 +9435,7 @@ histoires	NCFP000	histoire-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:15" video="https://media.dipintra.it/?id=483&start=01.05&end=01.07&collection=eptic3">
-
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
 il	PP3MSN0	il-p
@@ -9955,9 +9444,7 @@ simple	AQ0CS00	simple-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:16" video="https://media.dipintra.it/?id=483&start=01.07&end=01.10&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -9974,9 +9461,7 @@ réfugient	VMIP3P0	réfugier-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:17" video="https://media.dipintra.it/?id=483&start=01.10&end=01.14&collection=eptic3">
-
 Eh	I	eh-x
 bien	RG	bien-r
 <g/>
@@ -9998,9 +9483,7 @@ Europe	NPCS000	Europe-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:18" video="https://media.dipintra.it/?id=483&start=01.14&end=01.20&collection=eptic3">
-
 25000	Z	25000-m
 divisés	VMP00PM	diviser-v
 par	SP	par-i
@@ -10024,9 +9507,7 @@ grand	AQ0MS00	grand-j
 problème	NCMS000	problème-n
 !	Fat	!-x
 </s>
-
 <s id="483:19" video="https://media.dipintra.it/?id=483&start=01.20&end=01.21&collection=eptic3">
-
 Et	CC	et-c
 moi	PP1CS00	moi-p
 je	PP1CSN0	je-p
@@ -10037,9 +9518,7 @@ chose	NCFS000	chose-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:20" video="https://media.dipintra.it/?id=483&start=01.21&end=01.25&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 ça	PD0MS00	cela-p
 me	PP1CS00	me-p
@@ -10055,9 +9534,7 @@ a	VAIP3S0	avoir-v
 refusés	VMP00PM	refuser-v
 ?	Fit	?-x
 </s>
-
 <s id="483:21" video="https://media.dipintra.it/?id=483&start=01.25&end=01.29&collection=eptic3">
-
 Les	DA0CP0	le-x
 Anglais	NPMN000	Anglais-n
 <g/>
@@ -10088,9 +9565,7 @@ de	SP	de-i
 Juifs	NPMP000	Juifs-n
 !	Fat	!-x
 </s>
-
 <s id="483:22" video="https://media.dipintra.it/?id=483&start=01.29&end=01.31&collection=eptic3">
-
 Ça	PD0MS00	cela-p
 <g/>
 ,	Fc	,-x
@@ -10102,9 +9577,7 @@ en	SP	en-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:23" video="https://media.dipintra.it/?id=483&start=01.31&end=01.34&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -10118,9 +9591,7 @@ comme	CS	comme-c
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:24" video="https://media.dipintra.it/?id=483&start=01.34&end=01.36&collection=eptic3">
-
 L'	DA0CS0	le-x
 <g/>
 Angleterre	NPFS000	Angleterre-n
@@ -10136,9 +9607,7 @@ Juifs	NPMP000	Juifs-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:25" video="https://media.dipintra.it/?id=483&start=01.36&end=01.38&collection=eptic3">
-
 Les	DA0CP0	le-x
 États-Unis	NP00000	États-Unis-n
 ont	VAIP3P0	avoir-v
@@ -10148,9 +9617,7 @@ Juifs	NPMP000	Juifs-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:26" video="https://media.dipintra.it/?id=483&start=01.38&end=01.39&collection=eptic3">
-
 Le	DA0MS0	le-x
 bateau	NCMS000	bateau-n
 s'	PP3CN00	se-p
@@ -10161,9 +9628,7 @@ Saint-Louis	NPMN000	Saint-Louis-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:27" video="https://media.dipintra.it/?id=483&start=01.39&end=01.43&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 en	PP3CN00	en-p
@@ -10195,9 +9660,7 @@ problème	NCMS000	problème-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:28" video="https://media.dipintra.it/?id=483&start=01.43&end=01.48&collection=eptic3">
-
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
 c'	PP0CNN0	ce-p
@@ -10225,9 +9688,7 @@ solidaires	AQ0CP00	solidaire-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:29" video="https://media.dipintra.it/?id=483&start=01.48&end=01.50&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -10239,32 +9700,24 @@ ouvrir	VMN0000	ouvrir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:30" video="https://media.dipintra.it/?id=483&start=01.50&end=01.51&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 ta	DP2FSS	ton-x
 gueule	NCCS000	gueule-n
 !	Fat	!-x
 </s>
-
 <s id="483:31" video="https://media.dipintra.it/?id=483&start=01.51&end=01.52&collection=eptic3">
-
 Hein	I	hein-x
 vraiment	RG	vraiment-r
 !	Fat	!-x
 </s>
-
 <s id="483:32" video="https://media.dipintra.it/?id=483&start=01.52&end=01.52&collection=eptic3">
-
 Hein	I	hein-x
 voilà	I	voilà-x
 !	Fat	!-x
 </s>
-
 <s id="483:33" video="https://media.dipintra.it/?id=483&start=01.52&end=02.10&collection=eptic3">
-
 Et	CC	et-c
 moi	PP1CS00	moi-p
 je	PP1CSN0	je-p
@@ -10294,9 +9747,7 @@ chose	NCFS000	chose-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:34" video="https://media.dipintra.it/?id=483&start=02.10&end=02.13&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 ce	PP0CNN0	ce-p
@@ -10309,9 +9760,7 @@ passé	VMP00SM	passer-v
 Paris	NPMP000	Paris-n
 ?	Fit	?-x
 </s>
-
 <s id="483:35" video="https://media.dipintra.it/?id=483&start=02.13&end=02.17&collection=eptic3">
-
 À	SP	à-i
 Paris	NPMP000	Paris-n
 <g/>
@@ -10332,9 +9781,7 @@ italien	AQ0MS00	italien-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:36" video="https://media.dipintra.it/?id=483&start=02.17&end=02.21&collection=eptic3">
-
 La	DA0FS0	le-x
 police	NCFS000	police-n
 française	AQ0FS00	français-j
@@ -10358,14 +9805,10 @@ votre	DP2CSP	votre-x
 permis	NCMN000	permis-n
 ?	Fit	?-x
 </s>
-
 <s id="483:37" video="https://media.dipintra.it/?id=483&start=02.21&end=02.23&collection=eptic3">
-
 "	Fe	"-x
 <g/>
 .	Fp	.-x
-</s>
-
 Ils	PP3MPN0	ils-p
 l'	PP3CSA0	le-p
 <g/>
@@ -10376,9 +9819,7 @@ eux	PP3MP00	eux-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:38" video="https://media.dipintra.it/?id=483&start=02.23&end=02.26&collection=eptic3">
-
 Ça	PD0MS00	cela-p
 <g/>
 ,	Fc	,-x
@@ -10392,9 +9833,7 @@ aujourd'hui	RG	aujourd'hui-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:39" video="https://media.dipintra.it/?id=483&start=02.26&end=02.34&collection=eptic3">
-
 Une	DI0FS0	un-x
 police	NCFS000	police-n
 nationale	AQ0FS00	national-j
@@ -10436,9 +9875,7 @@ pas	RN	pas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:40" video="https://media.dipintra.it/?id=483&start=02.34&end=02.37&collection=eptic3">
-
 Si	CS	si-c
 c'	PP0CNN0	ce-p
 <g/>
@@ -10462,9 +9899,7 @@ trompé	VMP00SM	tromper-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:41" video="https://media.dipintra.it/?id=483&start=02.37&end=02.45&collection=eptic3">
-
 On	PP3CSN0	on-p
 s'	PP3CN00	se-p
 <g/>
@@ -10510,9 +9945,7 @@ sécurité	NCFS000	sécurité-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:42" video="https://media.dipintra.it/?id=483&start=02.45&end=02.52&collection=eptic3">
-
 Le	DA0MS0	le-x
 problème	NCMS000	problème-n
 en	SP	en-i
@@ -10547,9 +9980,7 @@ là-bas	RG	là-bas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:43" video="https://media.dipintra.it/?id=483&start=02.52&end=03.05&collection=eptic3">
-
 Donc	RG	donc-r
 <g/>
 ,	Fc	,-x
@@ -10591,9 +10022,7 @@ Europe	NPCS000	Europe-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:44" video="https://media.dipintra.it/?id=483&start=03.05&end=03.06&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n'	RN	ne-r
 <g/>
@@ -10605,9 +10034,7 @@ problème	NCMS000	problème-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:45" video="https://media.dipintra.it/?id=483&start=03.06&end=03.21&collection=eptic3">
-
 Donc	RG	donc-r
 <g/>
 ,	Fc	,-x
@@ -10651,9 +10078,7 @@ de	SP	de-i
 frontières	NCFP000	frontière-n
 ?	Fit	?-x
 </s>
-
 <s id="483:46" video="https://media.dipintra.it/?id=483&start=03.21&end=03.24&collection=eptic3">
-
 Si	CS	si-c
 on	PP3CSN0	on-p
 le	PP3MSA0	le-p
@@ -10668,9 +10093,7 @@ facial	AQ0MS00	facial-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:47" video="https://media.dipintra.it/?id=483&start=03.24&end=03.29&collection=eptic3">
-
 Non	RG	non-r
 <g/>
 ,	Fc	,-x
@@ -10685,9 +10108,7 @@ a	VAIP3S0	avoir-v
 arrêté	VMP00SM	arrêter-v
 !	Fat	!-x
 </s>
-
 <s id="483:48" video="https://media.dipintra.it/?id=483&start=03.29&end=03.32&collection=eptic3">
-
 Non	RG	non-r
 <g/>
 ,	Fc	,-x
@@ -10705,9 +10126,7 @@ non	RG	non-r
 plus	RG	plus-r
 !	Fat	!-x
 </s>
-
 <s id="483:49" video="https://media.dipintra.it/?id=483&start=03.32&end=03.40&collection=eptic3">
-
 Mais	CC	mais-c
 tous	DI0MP0	tout-x
 ceux	PD0MP00	celui-p
@@ -10732,9 +10151,7 @@ contrôler	VMN0000	contrôler-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:50" video="https://media.dipintra.it/?id=483&start=03.40&end=03.42&collection=eptic3">
-
 Et	CC	et-c
 on	PP3CSN0	on-p
 va	VMIP3S0	aller-v
@@ -10747,9 +10164,7 @@ carte	NCFS000	carte-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="483:51" video="https://media.dipintra.it/?id=483&start=03.42&end=03.46&collection=eptic3">
-
 Les	DA0CP0	le-x
 Blancs	AQ0MP00	blanc-j
 <g/>
@@ -10767,9 +10182,7 @@ rentre	VMIP1S0	rentrer-v
 pas	RN	pas-r
 !	Fat	!-x
 </s>
-
 <s id="483:52" video="https://media.dipintra.it/?id=483&start=03.46&end=03.51&collection=eptic3">
-
 Eh	I	eh-x
 bien	RG	bien-r
 <g/>
@@ -10787,13 +10200,10 @@ nous	PP1CP00	nous-p
 battre	VMN0000	battre-v
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -10803,7 +10213,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="140" duration="short" durations="49.0" speed="high" speedwm="171.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="485:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
@@ -10836,9 +10245,7 @@ animaux	NCMP000	animal-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:2&collection=eptic3">
-
 Mais	CC	mais-c
 la	DA0FS0	le-x
 réalité	NCFS000	réalité-n
@@ -10899,9 +10306,7 @@ cruciale	AQ0FS00	crucial-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:3&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -10931,9 +10336,7 @@ Conseil	NPMS000	Conseil-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:4&collection=eptic3">
-
 L'	DA0CS0	le-x
 <g/>
 accord	NCMS000	accord-n
@@ -10980,9 +10383,7 @@ monde	NCMS000	monde-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:5&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 vous	PP2CP00	vous-p
@@ -11011,9 +10412,7 @@ expérimentation	NCFS000	expérimentation-n
 animale	AQ0FS00	animal-j
 ?	Fit	?-x
 </s>
-
 <s id="485:6&collection=eptic3">
-
 Alors	RG	alors-r
 on	PP3CSN0	on-p
 ne	RN	ne-r
@@ -11049,9 +10448,7 @@ animaux	NCMP000	animal-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:7&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
 protège	VMIP3S0	protéger-v
@@ -11060,16 +10457,13 @@ avenir	NCMS000	avenir-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="485:8&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -11079,7 +10473,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="long" lengthw="88" duration="short" durations="30.0" speed="high" speedwm="176.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="486:1&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 retiens	VMIP1S0	retenir-v
@@ -11100,9 +10493,7 @@ compliquée	VMP00SF	compliquer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="486:2&collection=eptic3">
-
 Mais	CC	mais-c
 le	DA0MS0	le-x
 signal	NCMS000	signal-n
@@ -11145,9 +10536,7 @@ européenne	AQ0FS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="486:3&collection=eptic3">
-
 On	PP3CSN0	on-p
 peut	VMIP3S0	pouvoir-v
 toujours	RG	toujours-r
@@ -11176,9 +10565,7 @@ pas	NCMN000	pas-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="486:4&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -11220,9 +10607,7 @@ adhésion	NCFS000	adhésion-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="486:5&collection=eptic3">
-
 Alors	RG	alors-r
 essayons	VMIP1P0	essayer-v
 de	SP	de-i
@@ -11232,7 +10617,6 @@ accompagner	VMN0000	accompagner-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -11242,7 +10626,6 @@ accompagner	VMN0000	accompagner-v
 <st language="fr" length="long" lengthw="92" duration="short" durations="53.0" speed="slow" speedwm="104.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="488:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -11268,9 +10651,7 @@ franco-allemandes	AQ0FP00	franco-allemand-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="488:2&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 que	CS	que-c
@@ -11285,9 +10666,7 @@ ehm	FPAUSE	ehm
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="488:3&collection=eptic3">
-
 Souvent	RG	souvent-r
 nous	PP1CP00	nous-p
 le	PP3MSA0	le-p
@@ -11371,9 +10750,7 @@ difficile	AQ0CS00	difficile-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="488:4&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 ehm	FPAUSE	ehm
@@ -11426,7 +10803,6 @@ européenne	AQ0FS00	européen-j
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -11436,7 +10812,6 @@ européenne	AQ0FS00	européen-j
 <st language="fr" length="long" lengthw="57" duration="short" durations="28.0" speed="slow" speedwm="122.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="489:1&collection=eptic3">
-
 Je	PP1CSN0	je-p
 demande	VMIP1S0	demander-v
 je	PP1CSN0	je-p
@@ -11474,9 +10849,7 @@ sache	VMSP1S0	savoir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="489:2&collection=eptic3">
-
 2	Z	2-m
 ou	CC	ou-c
 3	Z	3-m
@@ -11503,9 +10876,7 @@ cela	PD0CS00	cela-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="489:3&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 il	PP3MSN0	il-p
@@ -11552,7 +10923,6 @@ l'	DA0CS0	le-x
 hémicycle	NCMS000	hémicycle-n
 ?	Fit	?-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -11562,7 +10932,6 @@ hémicycle	NCMS000	hémicycle-n
 <st language="fr" length="long" lengthw="84" duration="short" durations="36.0" speed="medium" speedwm="140.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="491:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Madame	NPFS000	Madame-n
 ehm	FPAUSE	ehm
@@ -11596,9 +10965,7 @@ codécision	NCFS000	codécision-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="491:2&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -11654,9 +11021,7 @@ accord	NCMS000	accord-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="491:3&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Commissaire	NPCS000	Commissaire-n
@@ -11674,9 +11039,7 @@ institution	NCFS000	institution-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="491:4&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 nous	PP1CP00	nous-p
 donne	VMIP1S0	donner-v
@@ -11699,7 +11062,6 @@ appartenez	VMIP2P0	appartenir-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -11709,7 +11071,6 @@ appartenez	VMIP2P0	appartenir-v
 <st language="fr" length="short" lengthw="302" duration="medium" durations="124.0" speed="medium" speedwm="146.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="493:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -11731,9 +11092,7 @@ méthodologie	NCFS000	méthodologie-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:2&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 répondu	VMP00SM	répondre-v
@@ -11742,9 +11101,7 @@ détail	NCMS000	détail-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:3&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -11808,9 +11165,7 @@ respectées	VMP00PF	respecter-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:4&collection=eptic3">
-
 Et	CC	et-c
 pour	SP	pour-i
 ma	DP1FSS	mon-x
@@ -11831,9 +11186,7 @@ gouvernance	NCFS000	gouvernance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:5&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 pouvons	VMIP1P0	pouvoir-v
 faire	VMN0000	faire-v
@@ -11868,9 +11221,7 @@ pas	RN	pas-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:6&collection=eptic3">
-
 Donc	CC	donc-c
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -11919,9 +11270,7 @@ agir	VMN0000	agir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:7&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -11962,9 +11311,7 @@ résolue	VMP00SF	résoudre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:8&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 étaient	VSII3P0	être-v
 venus	VMP00PM	venir-v
@@ -12063,9 +11410,7 @@ recapitalisation	NCFS000	recapitalisation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:9&collection=eptic3">
-
 Donc	CC	donc-c
 je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
@@ -12080,9 +11425,7 @@ connaissance	NCFS000	connaissance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:10&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 un	DI0MS0	un-x
@@ -12175,9 +11518,7 @@ avant	NCMS000	avant-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:11&collection=eptic3">
-
 Donc	RG	donc-r
 <g/>
 ,	Fc	,-x
@@ -12222,9 +11563,7 @@ petits	AQ0MP00	petit-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:12&collection=eptic3">
-
 L'	DA0CS0	le-x
 <g/>
 Espagne	NPFS000	Espagne-n
@@ -12248,9 +11587,7 @@ suivront	VMIF3P0	suivre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="493:13&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -12258,7 +11595,6 @@ Commissaire	NPCS000	Commissaire-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -12268,7 +11604,6 @@ Commissaire	NPCS000	Commissaire-n
 <st language="fr" length="short" lengthw="154" duration="short" durations="74.0" speed="slow" speedwm="124.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="582:1&collection=eptic3">
-
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 <g/>
@@ -12298,9 +11633,7 @@ en	SP	en-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:2&collection=eptic3">
-
 Seulement	RG	seulement-r
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -12309,9 +11642,7 @@ raisonnable	AQ0CS00	raisonnable-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:3&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
 6	Z	6-m
@@ -12326,9 +11657,7 @@ Ashton	NPMS000	Ashton-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:4&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VMIP2P0	avoir-v
 la	DA0FS0	le-x
@@ -12369,9 +11698,7 @@ Nations	NPFP000	Nations-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:5&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -12390,9 +11717,7 @@ sens	NCMN000	sens-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:6&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 je	PP1CSN0	je-p
 trouve	VMIP1S0	trouver-v
@@ -12473,9 +11798,7 @@ en	SP	en-i
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:7&collection=eptic3">
-
 Si	CS	si-c
 vous	PP2CP00	vous-p
 rajoutez	VMIP2P0	rajouter-v
@@ -12527,9 +11850,7 @@ l'	DA0CS0	le-x
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="582:8&collection=eptic3">
-
 Donc	CC	donc-c
 je	PP1CSN0	je-p
 trouve	VMIP1S0	trouver-v
@@ -12565,13 +11886,10 @@ mercredi	RG	mercredi-r
 matin	NCMS000	matin-n
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -12581,7 +11899,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="116" duration="short" durations="55.0" speed="slow" speedwm="126.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="584:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 merci	NCMS000	merci-n
 beaucoup	RG	beaucoup-r
@@ -12621,9 +11938,7 @@ parlementaire	AQ0CS00	parlementaire-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="584:2&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 veux	VMIP1S0	vouloir-v
@@ -12786,7 +12101,6 @@ termes	NCMP000	terme-n
 très	RG	très-r
 clairs	AQ0MP00	clair-j
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -12796,7 +12110,6 @@ clairs	AQ0MP00	clair-j
 <st language="fr" length="short" lengthw="122" duration="short" durations="62.0" speed="slow" speedwm="118.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="586:1&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -12856,9 +12169,7 @@ heures	NCFP000	heure-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="586:2&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 que	PR00000	que-p
 je	PP1CSN0	je-p
@@ -12893,9 +12204,7 @@ Barroso	NPMS000	Barroso-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="586:3&collection=eptic3">
-
 Pourquoi	PT00000	pourquoi-p
 pour	SP	pour-i
 nous	PP1CP00	nous-p
@@ -12906,9 +12215,7 @@ très	RG	très-r
 important	AQ0MS00	important-j
 ?	Fit	?-x
 </s>
-
 <s id="586:4&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 que	CS	que-c
 la	DA0FS0	le-x
@@ -12959,9 +12266,7 @@ différente	AQ0FS00	différent-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="586:5&collection=eptic3">
-
 Étant	VSG0000	être-v
 donné	VMP00SM	donner-v
 que	CS	que-c
@@ -13006,9 +12311,7 @@ heures	NCFP000	heure-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="586:6&collection=eptic3">
-
 Je	PP1CSN0	je-p
 m'	PP1CS00	me-p
 <g/>
@@ -13025,7 +12328,6 @@ mercredi	NCMS000	mercredi-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -13035,7 +12337,6 @@ mercredi	NCMS000	mercredi-n
 <st language="fr" length="long" lengthw="57" duration="short" durations="26.0" speed="medium" speedwm="131.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="588:1&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 ai	VAIP1S0	avoir-v
@@ -13083,9 +12384,7 @@ Strasbourg	NPMS000	Strasbourg-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="588:2&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 nous	PP1CP00	nous-p
 travaillons	VMIP1P0	travailler-v
@@ -13094,9 +12393,7 @@ Bruxelles	NPFP000	Bruxelles-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="588:3&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 y	PP3CN00	y-p
@@ -13131,9 +12428,7 @@ beaucoup	RG	beaucoup-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="588:4&collection=eptic3">
-
 Mais	CC	mais-c
 le	DA0MS0	le-x
 siège	NCMS000	siège-n
@@ -13161,7 +12456,6 @@ Strasbourg	NPMS000	Strasbourg-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -13171,7 +12465,6 @@ Strasbourg	NPMS000	Strasbourg-n
 <st language="fr" length="short" lengthw="162" duration="short" durations="66.0" speed="medium" speedwm="147.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="590:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -13218,9 +12511,7 @@ vivre	VMN0000	vivre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:2&collection=eptic3">
-
 Mais	CC	mais-c
 c'	PP0CNN0	ce-p
 <g/>
@@ -13236,9 +12527,7 @@ faire	VMN0000	faire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:3&collection=eptic3">
-
 Les	DA0CP0	le-x
 pêcheurs	NCMP000	pêcheur-n
 ne	RN	ne-r
@@ -13267,9 +12556,7 @@ travail	NCMS000	travail-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:4&collection=eptic3">
-
 Alors	RG	alors-r
 si	CS	si-c
 le	DA0MS0	le-x
@@ -13289,9 +12576,7 @@ avenir	NCMS000	avenir-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:5&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 investir	VMN0000	investir-v
@@ -13311,9 +12596,7 @@ voraces	AQ0CP00	vorace-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:6&collection=eptic3">
-
 Par	SP	par-i
 contre	SP	contre-i
 <g/>
@@ -13355,9 +12638,7 @@ riches	AQ0CP00	riche-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:7&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -13423,9 +12704,7 @@ payer	VMN0000	payer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="590:8&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 qui	PR00000	qui-p
 importe	VMIP1S0	importer-v
@@ -13477,7 +12756,6 @@ plus	RG	plus-r
 <g/>
 !	Fat	!-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -13487,7 +12765,6 @@ plus	RG	plus-r
 <st language="fr" length="short" lengthw="126" duration="short" durations="64.0" speed="slow" speedwm="118.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="592:1&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 Présidente	NPFS000	Présidente-n
@@ -13529,9 +12806,7 @@ Parlement	NPMS000	Parlement-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:2&collection=eptic3">
-
 On	PP3CSN0	on-p
 n'	RN	ne-r
 <g/>
@@ -13571,9 +12846,7 @@ cause	NCFS000	cause-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:3&collection=eptic3">
-
 Au-delà	RG	au-delà-r
 de	SP	de-i
 ma	DP1FSS	mon-x
@@ -13590,9 +12863,7 @@ institution	NCFS000	institution-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:4&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 est	VSIP3S0	être-v
 engluée	VMP00SF	engluer-v
@@ -13603,9 +12874,7 @@ correct	AQ0MS00	correct-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:5&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n'	RN	ne-r
 <g/>
@@ -13618,9 +12887,7 @@ idées	NCFP000	idée-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:6&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n'	RN	ne-r
 <g/>
@@ -13635,9 +12902,7 @@ expression	NCFS000	expression-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:7&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -13646,9 +12911,7 @@ conformisme	NCMS000	conformisme-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:8&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 passons	VMIP1P0	passer-v
 notre	DP1CSP	notre-x
@@ -13696,9 +12959,7 @@ unies	VMP00PF	unir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:9&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 défendez	VMIP2P0	défendre-v
 les	DA0CP0	le-x
@@ -13732,9 +12993,7 @@ compétence	NCFS000	compétence-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:10&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 n'	RN	ne-r
 <g/>
@@ -13754,9 +13013,7 @@ membres	NCMP000	membre-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="592:11&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 ai	VMIP1S0	avoir-v
@@ -13780,7 +13037,6 @@ minables	AQ0CP00	minable-j
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -13790,7 +13046,6 @@ minables	AQ0CP00	minable-j
 <st language="fr" length="short" lengthw="113" duration="short" durations="59.0" speed="slow" speedwm="114.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="594:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -13812,9 +13067,7 @@ procès-verbal	NCMS000	procès-verbal-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="594:2&collection=eptic3">
-
 Le	DA0MS0	le-x
 point	NCMS000	point-n
 16	Z	16-m
@@ -13862,9 +13115,7 @@ refusé	VMP00SM	refuser-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="594:3&collection=eptic3">
-
 Ceci	PD0CS00	ceci-p
 ehm	FPAUSE	ehm
 donc	CC	donc-c
@@ -13918,9 +13169,7 @@ faux	AQ0MN00	faux-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="594:4&collection=eptic3">
-
 Ce	DD0MS0	ce-x
 Parlement	NPMS000	Parlement-n
 a	VAIP3S0	avoir-v
@@ -13990,9 +13239,7 @@ soit	VMSP3S0	être-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="594:5&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voulais	VMII1S0	vouloir-v
 simplement	RG	simplement-r
@@ -14013,7 +13260,6 @@ remercie	VMIP1S0	remercier-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -14023,7 +13269,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="119" duration="short" durations="64.0" speed="slow" speedwm="111.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="606:1&collection=eptic3">
-
 Présidente	NCFS000	président-n
 <g/>
 ,	Fc	,-x
@@ -14068,9 +13313,7 @@ intérieures	AQ0FP00	intérieur-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:2&collection=eptic3">
-
 Y'a	NP00000	Y'a-n
 plus	RG	plus-r
 d	VMIP3S0	d-v
@@ -14093,9 +13336,7 @@ pays	NCMN000	pays-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:3&collection=eptic3">
-
 Y'a	NP00000	Y'a-n
 150000	Z	150000-m
 frontaliers	NCFP000	frontalier-n
@@ -14108,9 +13349,7 @@ Luxembourg	NPMS000	Luxembourg-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:4&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
 les	PP3CPA0	les-p
@@ -14118,9 +13357,7 @@ contrôler	VMN0000	contrôler-v
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="606:5&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -14140,9 +13377,7 @@ cet	DD0MS0	ce-x
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:6&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 Berlusconi	NPMS000	Berlusconi-n
@@ -14156,9 +13391,7 @@ frontières	NCFP000	frontière-n
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="606:7&collection=eptic3">
-
 Barroso	NP00000	Barroso-n
 l'	PP3CSA0	le-p
 <g/>
@@ -14194,9 +13427,7 @@ mouvements	NCMP000	mouvement-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:8&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
 les	DA0CP0	le-x
@@ -14208,9 +13439,7 @@ contrôler	VMN0000	contrôler-v
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="606:9&collection=eptic3">
-
 Donc	CC	donc-c
 madame	NCFS000	monsieur-n
 Malmström	NPMS000	Malmström-n
@@ -14224,9 +13453,7 @@ Schengen	NPMS000	Schengen-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:10&collection=eptic3">
-
 Relisez	VMM02P0	relire-v
 les	DA0CP0	le-x
 traités	NCMP000	traité-n
@@ -14241,18 +13468,14 @@ et	CC	et-c
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:11&collection=eptic3">
-
 Tout	RG	tout-r
 y	PP3CN00	y-p
 est	VMIP3S0	être-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="606:12&collection=eptic3">
-
 Pas	RN	pas-r
 besoin	NCMS000	besoin-n
 d'	SP	de-i
@@ -14289,7 +13512,6 @@ citoyenne	AQ0FS00	citoyen-j
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -14299,7 +13521,6 @@ citoyenne	AQ0FS00	citoyen-j
 <st language="fr" length="short" lengthw="239" duration="short" durations="65.0" speed="high" speedwm="220.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="604:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -14325,9 +13546,7 @@ demain	RG	demain-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:2&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -14359,9 +13578,7 @@ autre	PI0CS00	autre-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:3&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -14378,9 +13595,7 @@ récents	AQ0MP00	récent-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:4&collection=eptic3">
-
 Le	DA0MS0	le-x
 travail	NCMS000	travail-n
 que	PR00000	que-p
@@ -14414,9 +13629,7 @@ travail	NCMS000	travail-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:5&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 sont	VMIP3P0	être-v
 <g/>
@@ -14431,9 +13644,7 @@ isolés	VMP00PM	isoler-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:6&collection=eptic3">
-
 Par	SP	par-i
 contre	SP	contre-i
 <g/>
@@ -14489,9 +13700,7 @@ sens	NCMN000	sens-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:7&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 ai	VAIP1S0	avoir-v
@@ -14515,9 +13724,7 @@ fait	VMP00SM	faire-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:8&collection=eptic3">
-
 Par	SP	par-i
 contre	SP	contre-i
 <g/>
@@ -14531,9 +13738,7 @@ franchies	VMP00PF	franchir-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:9&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 que	CS	que-c
@@ -14555,9 +13760,7 @@ année	NCFS000	année-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:10&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -14567,9 +13770,7 @@ figé	VMP00SM	figer-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:11&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -14701,9 +13902,7 @@ qui	PR00000	qui-p
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:12&collection=eptic3">
-
 Enfin	RG	enfin-r
 <g/>
 ,	Fc	,-x
@@ -14724,9 +13923,7 @@ autre	AQ0CS00	autre-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:13&collection=eptic3">
-
 Les	DA0CP0	le-x
 citoyens	NCMP000	citoyen-n
 ont	VAIP3P0	avoir-v
@@ -14760,9 +13957,7 @@ décidons	VMIP1P0	décider-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="604:14&collection=eptic3">
-
 Voilà	I	voilà-x
 donc	RG	donc-r
 pourquoi	PT00000	pourquoi-p
@@ -14777,7 +13972,6 @@ texte	NCMS000	texte-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -14787,7 +13981,6 @@ texte	NCMS000	texte-n
 <st language="fr" length="short" lengthw="218" duration="short" durations="118.0" speed="slow" speedwm="110.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="602:1&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -14820,9 +14013,7 @@ tendances	NCFP000	tendance-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:2&collection=eptic3">
-
 Je	PP1CSN0	je-p
 dirais	VMIC1S0	dire-v
 que	CS	que-c
@@ -14863,9 +14054,7 @@ réconciliation	NCFS000	réconciliation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:3&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
 ne	RN	ne-r
@@ -14922,9 +14111,7 @@ rendue	VMP00SF	rendre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:4&collection=eptic3">
-
 Or	CC	or-c
 <g/>
 ,	Fc	,-x
@@ -14945,9 +14132,7 @@ Orden	NP00000	Orden-n
 <g/>
 ?	Fit	?-x
 </s>
-
 <s id="602:5&collection=eptic3">
-
 Bah	I	bah-x
 i-	DYSF	i-
 simplement	RG	simplement-r
@@ -14983,9 +14168,7 @@ gouvernement	NCMS000	gouvernement-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:6&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -14993,9 +14176,7 @@ le	DA0MS0	le-x
 minimum	NCMS000	minimum-n
 !	Fat	!-x
 </s>
-
 <s id="602:7&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -15005,9 +14186,7 @@ minimum	AQ0CS00	minimum-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:8&collection=eptic3">
-
 Comment	PT00000	comment-p
 voulez-vous	VMIP2P0	vouloir-v
 qu'	CS	que-c
@@ -15101,9 +14280,7 @@ rendue	VMP00SF	rendre-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:9&collection=eptic3">
-
 Alors	RG	alors-r
 le	DA0MS0	le-x
 rapport	NCMS000	rapport-n
@@ -15163,9 +14340,7 @@ standards	NCMP000	standard-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:10&collection=eptic3">
-
 Alors	RG	alors-r
 je	PP1CSN0	je-p
 crains	VMIP1S0	craindre-v
@@ -15187,9 +14362,7 @@ faits	NCMP000	fait-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:11&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -15236,9 +14409,7 @@ justice	NCFS000	justice-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:12&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -15254,9 +14425,7 @@ aujourd'hui	RG	aujourd'hui-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="602:13&collection=eptic3">
-
 J'	PP1CSN0	je-p
 <g/>
 aurai	VMIF1S0	avoir-v
@@ -15285,13 +14454,10 @@ cette	DD0FS0	ce-x
 assemblée	NCFS000	assemblée-n
 <g/>
 .	Fp	.-x
-</s>
-
 Merci	NCMS000	merci-n
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -15301,7 +14467,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="156" duration="short" durations="66.0" speed="medium" speedwm="141.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="623:1&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -15309,9 +14474,7 @@ Président	NPMS000	Président-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:2&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Commissaire	NPCS000	Commissaire-n
@@ -15343,9 +14506,7 @@ localisé	VMP00SM	localiser-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:3&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
@@ -15384,9 +14545,7 @@ questions	NCFP000	question-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:4&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 que	CS	que-c
@@ -15447,9 +14606,7 @@ affectés	VMP00PM	affecter-v
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:5&collection=eptic3">
-
 Et	CC	et-c
 donc	CC	donc-c
 entre	SP	entre-i
@@ -15512,9 +14669,7 @@ rapidement	RG	rapidement-r
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:6&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 donc	RG	donc-r
@@ -15555,9 +14710,7 @@ indemnisation	NCFS000	indemnisation-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:7&collection=eptic3">
-
 C'	PP0CNN0	ce-p
 <g/>
 est	VMIP3S0	être-v
@@ -15600,9 +14753,7 @@ victimes	NCFP000	victime-n
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:8&collection=eptic3">
-
 Néanmoins	RG	néanmoins-r
 <g/>
 ,	Fc	,-x
@@ -15620,9 +14771,7 @@ juste	AQ0CS00	juste-j
 <g/>
 .	Fp	.-x
 </s>
-
 <s id="623:9&collection=eptic3">
-
 Pour	SP	pour-i
 le	DA0MS0	le-x
 reste	NCMS000	reste-n
@@ -15652,7 +14801,6 @@ travailler	VMN0000	travailler-v
 <g/>
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -15662,7 +14810,6 @@ travailler	VMN0000	travailler-v
 <st language="fr" length="short" lengthw="113" duration="short" durations="55.0" speed="slow" speedwm="123.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1597:1" video="https://media.dipintra.it/?id=1597&start=00.07&end=00.14&collection=eptic3">
-
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 je	PP1CSN0	je-p
@@ -15699,9 +14846,7 @@ le	DA0MS0	le-x
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1597:2" video="https://media.dipintra.it/?id=1597&start=00.18&end=00.24&collection=eptic3">
-
 Et	CC	et-c
 donc	CC	donc-c
 maintenant	RG	maintenant-r
@@ -15718,9 +14863,7 @@ en	SP	en-i
 Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
-
 <s id="1597:3" video="https://media.dipintra.it/?id=1597&start=00.24&end=00.33&collection=eptic3">
-
 Je	PP1CSN0	je-p
 trouve	VMIP1S0	trouver-v
 que	CS	que-c
@@ -15749,9 +14892,7 @@ la	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
-
 <s id="1597:4" video="https://media.dipintra.it/?id=1597&start=00.33&end=00.41&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 qu	RG	qu-r
@@ -15790,9 +14931,7 @@ attendre	VMN0000	attendre-v
 février	NCMS000	février-n
 .	Fp	.-x
 </s>
-
 <s id="1597:5" video="https://media.dipintra.it/?id=1597&start=00.41&end=00.51&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 que	RN	que-r
@@ -15835,9 +14974,7 @@ jeudi	RG	jeudi-r
 midi	NCMS000	midi-n
 .	Fp	.-x
 </s>
-
 <s id="1597:6" video="https://media.dipintra.it/?id=1597&start=00.52&end=01.02&collection=eptic3">
-
 Merci	NCMS000	merci-n
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -15869,13 +15006,10 @@ la	DA0FS0	le-x
 Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
-
 <s id="1597:7" video="https://media.dipintra.it/?id=1597&start=01.02&end=01.02&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -15885,7 +15019,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="medium" lengthw="476" duration="medium" durations="266.0" speed="slow" speedwm="107.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1598:1" video="https://media.dipintra.it/?id=1598&start=00.07&end=00.21&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -15922,9 +15055,7 @@ Ben	I	ben-x
 Ali	NP00000	Ali-n
 .	Fp	.-x
 </s>
-
 <s id="1598:2" video="https://media.dipintra.it/?id=1598&start=00.22&end=00.29&collection=eptic3">
-
 Chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 ,	Fc	,-x
@@ -15948,9 +15079,7 @@ en	SP	en-i
 Tunisie	NPFS000	Tunisie-n
 .	Fp	.-x
 </s>
-
 <s id="1598:3" video="https://media.dipintra.it/?id=1598&start=00.30&end=00.33&collection=eptic3">
-
 Et	CC	et-c
 aujourd	AQ0MS0	aujourd-j
 '	Fe	'-x
@@ -15963,9 +15092,7 @@ très	RG	très-r
 attention	NCFS000	attention-n
 .	Fp	.-x
 </s>
-
 <s id="1598:4" video="https://media.dipintra.it/?id=1598&start=00.34&end=00.45&collection=eptic3">
-
 Des	SP+D	de+les-i
 gouvernements	NCMP000	gouvernement-n
 européens	AQ0MP00	européen-j
@@ -15994,9 +15121,7 @@ dictature	NCFS000	dictature-n
 tunisien	AQ0MS00	tunisien-j
 .	Fp	.-x
 </s>
-
 <s id="1598:5" video="https://media.dipintra.it/?id=1598&start=00.45&end=00.55&collection=eptic3">
-
 Encore	RG	encore-r
 la	DA0FS0	le-x
 semaine	NCFS000	semaine-n
@@ -16021,9 +15146,7 @@ Ben	I	ben-x
 Ali	NP00000	Ali-n
 .	Fp	.-x
 </s>
-
 <s id="1598:6" video="https://media.dipintra.it/?id=1598&start=00.55&end=01.05&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 qu	NCMS000	qu-n
 <g/>
@@ -16063,16 +15186,12 @@ l	NCMS000	l-n
 Occident	NPMS000	Occident-n
 .	Fp	.-x
 </s>
-
 <s id="1598:7" video="https://media.dipintra.it/?id=1598&start=01.05&end=01.06&collection=eptic3">
-
 Et	CC	et-c
 pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
-
 <s id="1598:8" video="https://media.dipintra.it/?id=1598&start=01.06&end=01.10&collection=eptic3">
-
 Pour	SP	pour-i
 la	DA0FS0	le-x
 peur	NCFS000	peur-n
@@ -16089,9 +15208,7 @@ l	NCMS000	l-n
 islamisme	NCMS000	islamisme-n
 .	Fp	.-x
 </s>
-
 <s id="1598:9" video="https://media.dipintra.it/?id=1598&start=01.10&end=01.22&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
 raison	NCFS000	raison-n
@@ -16143,9 +15260,7 @@ la	DA0FS0	le-x
 liberté	NCFS000	liberté-n
 ?	Fit	?-x
 </s>
-
 <s id="1598:10" video="https://media.dipintra.it/?id=1598&start=01.22&end=01.33&collection=eptic3">
-
 Et	CC	et-c
 monsieur	NCMS000	monsieur-n
 Sidi	NPMS000	Sidi-n
@@ -16185,9 +15300,7 @@ derrière	SP	derrière-i
 lui	PP3CS00	lui-p
 .	Fp	.-x
 </s>
-
 <s id="1598:11" video="https://media.dipintra.it/?id=1598&start=01.33&end=01.39&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
 sommes	VMIP2S0	sommer-v
@@ -16210,9 +15323,7 @@ ce	DD0MS0	ce-x
 Parlement	NPMS000	Parlement-n
 .	Fp	.-x
 </s>
-
 <s id="1598:12" video="https://media.dipintra.it/?id=1598&start=01.40&end=01.43&collection=eptic3">
-
 Alors	RG	alors-r
 maintenant	RG	maintenant-r
 il	PP3MSN0	il-p
@@ -16229,9 +15340,7 @@ la	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
-
 <s id="1598:13" video="https://media.dipintra.it/?id=1598&start=01.44&end=01.55&collection=eptic3">
-
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
 <g/>
@@ -16270,9 +15379,7 @@ en	SP	en-i
 mois	NCMP000	moi-n
 .	Fp	.-x
 </s>
-
 <s id="1598:14" video="https://media.dipintra.it/?id=1598&start=01.55&end=01.57&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
 <g/>
@@ -16286,9 +15393,7 @@ de	SP	de-i
 démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
-
 <s id="1598:15" video="https://media.dipintra.it/?id=1598&start=01.58&end=02.03&collection=eptic3">
-
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
 d	AQ0MS0	d-j
@@ -16311,9 +15416,7 @@ existent	VMIP3P0	exister-v
 pas	RN	pas-r
 .	Fp	.-x
 </s>
-
 <s id="1598:16" video="https://media.dipintra.it/?id=1598&start=02.03&end=02.06&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
 <g/>
@@ -16330,9 +15433,7 @@ d	AQ0MS0	d-j
 État	NPMS000	État-n
 .	Fp	.-x
 </s>
-
 <s id="1598:17" video="https://media.dipintra.it/?id=1598&start=02.06&end=02.21&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -16395,9 +15496,7 @@ gouvernementales	AQ0FP00	gouvernemental-j
 tunisiennes	NCFP000	tunisien-n
 .	Fp	.-x
 </s>
-
 <s id="1598:18" video="https://media.dipintra.it/?id=1598&start=02.21&end=02.28&collection=eptic3">
-
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
 le	DA0MS0	le-x
@@ -16419,15 +15518,11 @@ unité	NCFS000	unité-n
 nationale	AQ0FS00	national-j
 .	Fp	.-x
 </s>
-
 <s id="1598:19" video="https://media.dipintra.it/?id=1598&start=02.28&end=02.28&collection=eptic3">
-
 Pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
-
 <s id="1598:20" video="https://media.dipintra.it/?id=1598&start=02.29&end=02.50&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 que	CS	que-c
 la	DA0FS0	le-x
@@ -16490,9 +15585,7 @@ se	PP3CN00	se-p
 développer	VMN0000	développer-v
 .	Fp	.-x
 </s>
-
 <s id="1598:21" video="https://media.dipintra.it/?id=1598&start=02.50&end=03.04&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -16543,9 +15636,7 @@ pays	NCMN000	pays-n
 arabes	AQ0CP00	arabe-j
 .	Fp	.-x
 </s>
-
 <s id="1598:22" video="https://media.dipintra.it/?id=1598&start=03.04&end=03.22&collection=eptic3">
-
 Démocratie	NCFS000	démocratie-n
 et	CC	et-c
 Islam	NPMS000	Islam-n
@@ -16602,9 +15693,7 @@ leurs	DP3CPP	leur-x
 dictateurs	NCMP000	dictateur-n
 .	Fp	.-x
 </s>
-
 <s id="1598:23" video="https://media.dipintra.it/?id=1598&start=03.22&end=03.48&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
 une	DI0FS0	un-x
@@ -16689,9 +15778,7 @@ en	SP	en-i
 Jordanie	NPFS000	Jordanie-n
 .	Fp	.-x
 </s>
-
 <s id="1598:24" video="https://media.dipintra.it/?id=1598&start=03.48&end=03.54&collection=eptic3">
-
 Donc	CC	donc-c
 c	RG	c-r
 <g/>
@@ -16716,9 +15803,7 @@ et	CC	et-c
 dit	VMP00SM	dire-v
 :	Fd	:-x
 </s>
-
 <s id="1598:25" video="https://media.dipintra.it/?id=1598&start=03.54&end=03.56&collection=eptic3">
-
 "	Fe	"-x
 Ah	I	ah-x
 oui	RG	oui-r
@@ -16731,9 +15816,7 @@ pas	RN	pas-r
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1598:26" video="https://media.dipintra.it/?id=1598&start=03.56&end=04.00&collection=eptic3">
-
 On	PP3CSN0	on-p
 ne	RN	ne-r
 savait	VMII3S0	savoir-v
@@ -16753,9 +15836,7 @@ la	DA0FS0	le-x
 Pologne	NPFS000	Pologne-n
 .	Fp	.-x
 </s>
-
 <s id="1598:27" video="https://media.dipintra.it/?id=1598&start=04.00&end=04.04&collection=eptic3">
-
 On	PP3CSN0	on-p
 ne	RN	ne-r
 savait	VMII3S0	savoir-v
@@ -16772,9 +15853,7 @@ la	DA0FS0	le-x
 Russie	NPMS000	Russie-n
 .	Fp	.-x
 </s>
-
 <s id="1598:28" video="https://media.dipintra.it/?id=1598&start=04.04&end=04.20&collection=eptic3">
-
 Si	RG	si-r
 à	SP	à-i
 chaque	DI0CS0	chaque-x
@@ -16839,9 +15918,7 @@ la	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 :	Fd	:-x
 </s>
-
 <s id="1598:29" video="https://media.dipintra.it/?id=1598&start=04.20&end=04.33&collection=eptic3">
-
 "	Fe	"-x
 Bougez	VMM02P0	bouger-v
 ,	Fc	,-x
@@ -16878,13 +15955,10 @@ dictature	NCFS000	dictature-n
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1598:30" video="https://media.dipintra.it/?id=1598&start=04.33&end=04.34&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -16894,7 +15968,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="medium" lengthw="452" duration="medium" durations="214.0" speed="slow" speedwm="126.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1599:1" video="https://media.dipintra.it/?id=1599&start=00.05&end=00.16&collection=eptic3">
-
 Président	NCMS000	président-n
 ,	Fc	,-x
 chers	AQ0MP00	cher-j
@@ -16942,9 +16015,7 @@ verte	AQ0FS00	vert-j
 nordique	AQ0CS00	nordique-j
 .	Fp	.-x
 </s>
-
 <s id="1599:2" video="https://media.dipintra.it/?id=1599&start=00.16&end=00.37&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 ,	Fc	,-x
@@ -17016,9 +16087,7 @@ l	NCMS000	l-n
 homme	NCMS000	homme-n
 .	Fp	.-x
 </s>
-
 <s id="1599:3" video="https://media.dipintra.it/?id=1599&start=00.38&end=00.48&collection=eptic3">
-
 Il	PP3MSN0	il-p
 a	VAIP3S0	avoir-v
 fallu	VMP00NC	falloir-v
@@ -17065,9 +16134,7 @@ bien	RG	bien-r
 seul	AQ0MS00	seul-j
 .	Fp	.-x
 </s>
-
 <s id="1599:4" video="https://media.dipintra.it/?id=1599&start=00.48&end=00.51&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -17079,9 +16146,7 @@ est	VSIP3S0	être-v
 né	VMP00SM	naître-v
 .	Fp	.-x
 </s>
-
 <s id="1599:5" video="https://media.dipintra.it/?id=1599&start=00.51&end=01.13&collection=eptic3">
-
 Il	PP3MSN0	il-p
 a	VAIP3S0	avoir-v
 fallu	VMP00NC	falloir-v
@@ -17153,9 +16218,7 @@ jusqu	VMP00SM	jusqu-v
 samedi	NCMS000	samedi-n
 .	Fp	.-x
 </s>
-
 <s id="1599:6" video="https://media.dipintra.it/?id=1599&start=01.14&end=01.20&collection=eptic3">
-
 Et	CC	et-c
 que	CS	que-c
 ehm	FPAUSE	ehm
@@ -17187,9 +16250,7 @@ votre	DP2CSP	votre-x
 nomination	NCFS000	nomination-n
 .	Fp	.-x
 </s>
-
 <s id="1599:7" video="https://media.dipintra.it/?id=1599&start=01.21&end=01.26&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 mots	NCMP000	mot-n
 de	SP	de-i
@@ -17214,9 +16275,7 @@ la	DA0FS0	le-x
 gorge	NCFS000	gorge-n
 .	Fp	.-x
 </s>
-
 <s id="1599:8" video="https://media.dipintra.it/?id=1599&start=01.26&end=01.32&collection=eptic3">
-
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
@@ -17235,9 +16294,7 @@ délégation	NCFS000	délégation-n
 Maghreb	NPMS000	Maghreb-n
 .	Fp	.-x
 </s>
-
 <s id="1599:9" video="https://media.dipintra.it/?id=1599&start=01.33&end=01.42&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
 <g/>
@@ -17271,9 +16328,7 @@ résolution	NCFS000	résolution-n
 écrite	VMP00SF	écrire-v
 .	Fp	.-x
 </s>
-
 <s id="1599:10" video="https://media.dipintra.it/?id=1599&start=01.42&end=01.46&collection=eptic3">
-
 Les	DA0CP0	le-x
 instances	NCFP000	instance-n
 européennes	AQ0FP00	européen-j
@@ -17290,9 +16345,7 @@ autres	AQ0CP00	autre-j
 régimes	NCMP000	régime-n
 .	Fp	.-x
 </s>
-
 <s id="1599:11" video="https://media.dipintra.it/?id=1599&start=01.46&end=01.55&collection=eptic3">
-
 La	DA0FS0	le-x
 Française	AQ0FS00	français-j
 que	CS	que-c
@@ -17322,9 +16375,7 @@ affaires	NCFP000	affaire-n
 étrangères	AQ0FP00	étranger-j
 .	Fp	.-x
 </s>
-
 <s id="1599:12" video="https://media.dipintra.it/?id=1599&start=01.56&end=02.03&collection=eptic3">
-
 Visiblement	RG	visiblement-r
 ,	Fc	,-x
 pour	SP	pour-i
@@ -17352,9 +16403,7 @@ du	SP+D	de+le-i
 passé	NCMS000	passé-n
 .	Fp	.-x
 </s>
-
 <s id="1599:13" video="https://media.dipintra.it/?id=1599&start=02.04&end=02.14&collection=eptic3">
-
 Grâce	NCFS000	grâce-n
 au	SP+DA	à+le-i
 courage	NCMS000	courage-n
@@ -17388,9 +16437,7 @@ vrai	AQ0MS00	vrai-j
 visage	NCMS000	visage-n
 .	Fp	.-x
 </s>
-
 <s id="1599:14" video="https://media.dipintra.it/?id=1599&start=02.15&end=02.25&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -17419,9 +16466,7 @@ transition	NCFS000	transition-n
 démocratique	AQ0CS00	démocratique-j
 .	Fp	.-x
 </s>
-
 <s id="1599:15" video="https://media.dipintra.it/?id=1599&start=02.26&end=02.37&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -17467,9 +16512,7 @@ la	DA0FS0	le-x
 corruption	NCFS000	corruption-n
 .	Fp	.-x
 </s>
-
 <s id="1599:16" video="https://media.dipintra.it/?id=1599&start=02.37&end=02.47&collection=eptic3">
-
 Le	DA0MS0	le-x
 toi-	DYSF	toi-
 peuple	NCMS000	peuple-n
@@ -17501,9 +16544,7 @@ mais	CC	mais-c
 gelés	VMP00PM	geler-v
 .	Fp	.-x
 </s>
-
 <s id="1599:17" video="https://media.dipintra.it/?id=1599&start=02.47&end=02.49&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -17513,9 +16554,7 @@ a	VAIP3S0	avoir-v
 failli	VMP00SM	faillir-v
 .	Fp	.-x
 </s>
-
 <s id="1599:18" video="https://media.dipintra.it/?id=1599&start=02.49&end=02.54&collection=eptic3">
-
 Un	DI0MS0	un-x
 long	AQ0MS00	long-j
 chemin	NCMS000	chemin-n
@@ -17530,9 +16569,7 @@ reprennent	VMIP3P0	reprendre-v
 confiance	NCFS000	confiance-n
 .	Fp	.-x
 </s>
-
 <s id="1599:19" video="https://media.dipintra.it/?id=1599&start=02.54&end=03.02&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -17565,9 +16602,7 @@ passe	VMIP1S0	passer-v
 là-bas	RG	là-bas-r
 .	Fp	.-x
 </s>
-
 <s id="1599:20" video="https://media.dipintra.it/?id=1599&start=03.02&end=03.12&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
 que	CS	que-c
@@ -17598,9 +16633,7 @@ peuples	NCMP000	peuple-n
 concernés	VMP00PM	concerner-v
 .	Fp	.-x
 </s>
-
 <s id="1599:21" video="https://media.dipintra.it/?id=1599&start=03.13&end=03.17&collection=eptic3">
-
 Des	SP+D	de+les-i
 hommes	NCMP000	homme-n
 se	PP3CN00	se-p
@@ -17617,9 +16650,7 @@ en	SP	en-i
 Mauritanie	NPFS000	Mauritanie-n
 .	Fp	.-x
 </s>
-
 <s id="1599:22" video="https://media.dipintra.it/?id=1599&start=03.17&end=03.22&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 temps	NCMN000	temps-n
@@ -17645,9 +16676,7 @@ l	NCMS000	l-n
 homme	NCMS000	homme-n
 .	Fp	.-x
 </s>
-
 <s id="1599:23" video="https://media.dipintra.it/?id=1599&start=03.23&end=03.40&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 temps	NCMN000	temps-n
@@ -17707,7 +16736,6 @@ des	SP+D	de+les-i
 intégristes	NCCP000	intégriste-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -17717,7 +16745,6 @@ intégristes	NCCP000	intégriste-n
 <st language="fr" length="short" lengthw="226" duration="short" durations="108.0" speed="slow" speedwm="125.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1600:1" video="https://media.dipintra.it/?id=1600&start=00.06&end=00.23&collection=eptic3">
-
 Présidente	NCFS000	président-n
 ehm	FPAUSE	ehm
 merci	NCMS000	merci-n
@@ -17775,9 +16802,7 @@ absolument	RG	absolument-r
 inacceptable	AQ0CS00	inacceptable-j
 .	Fp	.-x
 </s>
-
 <s id="1600:2" video="https://media.dipintra.it/?id=1600&start=00.23&end=00.36&collection=eptic3">
-
 La	DA0FS0	le-x
 santé	NCFS000	santé-n
 des	SP+D	de+les-i
@@ -17828,9 +16853,7 @@ le	PP3MSA0	le-p
 sont	VMIP3P0	être-v
 .	Fp	.-x
 </s>
-
 <s id="1600:3" video="https://media.dipintra.it/?id=1600&start=00.37&end=00.42&collection=eptic3">
-
 Et	CC	et-c
 pourtant	RG	pourtant-r
 ,	Fc	,-x
@@ -17862,9 +16885,7 @@ nos	DP1CPP	notre-x
 concitoyens	NCMP000	concitoyen-n
 .	Fp	.-x
 </s>
-
 <s id="1600:4" video="https://media.dipintra.it/?id=1600&start=00.43&end=00.45&collection=eptic3">
-
 Dès	SP	dès-i
 lors	RG	lors-r
 ,	Fc	,-x
@@ -17873,9 +16894,7 @@ actions	NCFP000	action-n
 envisagez-vous	VMIP2P0	envisager-v
 ?	Fit	?-x
 </s>
-
 <s id="1600:5" video="https://media.dipintra.it/?id=1600&start=00.45&end=00.58&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 parlé	VMP00SM	parler-v
@@ -17925,9 +16944,7 @@ l	NCMS000	l-n
 alimentation	NCFS000	alimentation-n
 .	Fp	.-x
 </s>
-
 <s id="1600:6" video="https://media.dipintra.it/?id=1600&start=00.58&end=01.09&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 doit	VMIP3S0	devoir-v
 être	VMN0000	être-v
@@ -17964,9 +16981,7 @@ ehm	FPAUSE	ehm
 certitudes	NCFP000	certitude-n
 .	Fp	.-x
 </s>
-
 <s id="1600:7" video="https://media.dipintra.it/?id=1600&start=01.09&end=01.16&collection=eptic3">
-
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -17987,9 +17002,7 @@ ehm	FPAUSE	ehm
 organisée	VMP00SF	organiser-v
 .	Fp	.-x
 </s>
-
 <s id="1600:8" video="https://media.dipintra.it/?id=1600&start=01.16&end=01.27&collection=eptic3">
-
 Quelles	DT0FP0	quel-x
 actions	NCFP000	action-n
 peut-on	VMIP3S0	pouvoir-v
@@ -18028,9 +17041,7 @@ la	DA0FS0	le-x
 sécurité	NCFS000	sécurité-n
 ?	Fit	?-x
 </s>
-
 <s id="1600:9" video="https://media.dipintra.it/?id=1600&start=01.27&end=01.36&collection=eptic3">
-
 Et	CC	et-c
 ,	Fc	,-x
 enfin	RG	enfin-r
@@ -18061,9 +17072,7 @@ les	DA0CP0	le-x
 États	NPMP000	États-n
 ?	Fit	?-x
 </s>
-
 <s id="1600:10" video="https://media.dipintra.it/?id=1600&start=01.36&end=01.42&collection=eptic3">
-
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
 <g/>
@@ -18098,9 +17107,7 @@ a	VAIP3S0	avoir-v
 donnée	VMP00SF	donner-v
 .	Fp	.-x
 </s>
-
 <s id="1600:11" video="https://media.dipintra.it/?id=1600&start=01.42&end=01.49&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -18134,9 +17141,7 @@ consommateurs	AQ0MP00	consommateur-j
 entretemps	NCMN000	entretemps-n
 .	Fp	.-x
 </s>
-
 <s id="1600:12" video="https://media.dipintra.it/?id=1600&start=01.49&end=01.53&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 vous	PP2CP00	vous-p
@@ -18156,15 +17161,12 @@ le	DA0MS0	le-x
 Commissaire	NPCS000	Commissaire-n
 ?	Fit	?-x
 </s>
-
 <s id="1600:13" video="https://media.dipintra.it/?id=1600&start=01.53&end=01.54&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -18174,7 +17176,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="212" duration="short" durations="95.0" speed="medium" speedwm="133.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1601:1" video="https://media.dipintra.it/?id=1601&start=00.05&end=00.10&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -18198,9 +17199,7 @@ nous	PP1CP00	nous-p
 réjouir	VMN0000	réjouir-v
 .	Fp	.-x
 </s>
-
 <s id="1601:2" video="https://media.dipintra.it/?id=1601&start=00.11&end=00.16&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 parlons	VMIP1P0	parler-v
@@ -18227,9 +17226,7 @@ même	RG	même-r
 fonctionné	VMP00SM	fonctionner-v
 .	Fp	.-x
 </s>
-
 <s id="1601:3" video="https://media.dipintra.it/?id=1601&start=00.16&end=00.22&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
 le	DA0MS0	le-x
@@ -18248,9 +17245,7 @@ au	SP+DA	à+le-i
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 <s id="1601:4" video="https://media.dipintra.it/?id=1601&start=00.22&end=00.27&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 que	CS	que-c
@@ -18268,9 +17263,7 @@ l	NCMS000	l-n
 esprit	NCMS000	esprit-n
 .	Fp	.-x
 </s>
-
 <s id="1601:5" video="https://media.dipintra.it/?id=1601&start=00.27&end=00.43&collection=eptic3">
-
 Mais	CC	mais-c
 le	DA0MS0	le-x
 système	NCMS000	système-n
@@ -18332,9 +17325,7 @@ ce	DD0MS0	ce-x
 retard	NCMS000	retard-n
 .	Fp	.-x
 </s>
-
 <s id="1601:6" video="https://media.dipintra.it/?id=1601&start=00.43&end=01.07&collection=eptic3">
-
 Mais	CC	mais-c
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -18417,9 +17408,7 @@ pas	RN	pas-r
 qualifiables	AQ0CP00	qualifiable-j
 .	Fp	.-x
 </s>
-
 <s id="1601:7" video="https://media.dipintra.it/?id=1601&start=01.07&end=01.14&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 monsieur	NCMS000	monsieur-n
@@ -18441,9 +17430,7 @@ tels	AQ0MP00	tel-j
 actes	NCMP000	acte-n
 ?	Fit	?-x
 </s>
-
 <s id="1601:8" video="https://media.dipintra.it/?id=1601&start=01.15&end=01.23&collection=eptic3">
-
 Et	CC	et-c
 ma	DP1FSS	mon-x
 deuxième	AO0CS00	2-j
@@ -18465,9 +17452,7 @@ aux	SP+DA	à+les-i
 concernés	VMP00PM	concerner-v
 ?	Fit	?-x
 </s>
-
 <s id="1601:9" video="https://media.dipintra.it/?id=1601&start=01.23&end=01.41&collection=eptic3">
-
 Car	CC	car-c
 les	DA0CP0	le-x
 marges	NCFP000	marge-n
@@ -18528,7 +17513,6 @@ de	SP	de-i
 normale	NCFS000	normale-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -18538,7 +17522,6 @@ normale	NCFS000	normale-n
 <st language="fr" length="long" lengthw="61" duration="short" durations="26.0" speed="medium" speedwm="140.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1602:1" video="https://media.dipintra.it/?id=1602&start=00.04&end=00.11&collection=eptic3">
-
 Oui	RG	oui-r
 je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -18574,9 +17557,7 @@ une	DI0FS0	un-x
 question	NCFS000	question-n
 .	Fp	.-x
 </s>
-
 <s id="1602:2" video="https://media.dipintra.it/?id=1602&start=00.11&end=00.18&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 ,	Fc	,-x
 que	CS	que-c
@@ -18593,9 +17574,7 @@ a	VAIP3S0	avoir-v
 dérapé	VMP00SM	déraper-v
 .	Fp	.-x
 </s>
-
 <s id="1602:3" video="https://media.dipintra.it/?id=1602&start=00.18&end=00.24&collection=eptic3">
-
 Mais	CC	mais-c
 je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -18615,9 +17594,7 @@ de	SP	de-i
 protection	NCFS000	protection-n
 .	Fp	.-x
 </s>
-
 <s id="1602:4" video="https://media.dipintra.it/?id=1602&start=00.24&end=00.30&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
 pouvons	VMIP1P0	pouvoir-v
@@ -18647,7 +17624,6 @@ au	SP+DA	à+le-i
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -18657,7 +17633,6 @@ monde	NCMS000	monde-n
 <st language="fr" length="short" lengthw="140" duration="short" durations="60.0" speed="medium" speedwm="140.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1603:1" video="https://media.dipintra.it/?id=1603&start=00.05&end=00.16&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -18704,9 +17679,7 @@ grand	AQ0MS00	grand-j
 échelle	NCFS000	échelle-n
 .	Fp	.-x
 </s>
-
 <s id="1603:2" video="https://media.dipintra.it/?id=1603&start=00.17&end=00.23&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 très	RG	très-r
@@ -18736,9 +17709,7 @@ les	PP3CPA0	les-p
 alourdir	VMN0000	alourdir-v
 .	Fp	.-x
 </s>
-
 <s id="1603:3" video="https://media.dipintra.it/?id=1603&start=00.23&end=00.25&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 simplement	RG	simplement-r
@@ -18748,9 +17719,7 @@ mieux	RG	mieux-r
 fonctionner	VMN0000	fonctionner-v
 .	Fp	.-x
 </s>
-
 <s id="1603:4" video="https://media.dipintra.it/?id=1603&start=00.25&end=00.39&collection=eptic3">
-
 Et	CC	et-c
 ,	Fc	,-x
 probablement	RG	probablement-r
@@ -18817,9 +17786,7 @@ leur	DP3CSP	leur-x
 profit	NCMS000	profit-n
 .	Fp	.-x
 </s>
-
 <s id="1603:5" video="https://media.dipintra.it/?id=1603&start=00.40&end=01.03&collection=eptic3">
-
 Deux	NCMN000	deux-n
 ,	Fc	,-x
 semble-t-il	VMIP1S0	sembler-v
@@ -18891,9 +17858,7 @@ ce	PP0CNN0	ce-p
 égard-là	RG	égard-là-r
 .	Fp	.-x
 </s>
-
 <s id="1603:6" video="https://media.dipintra.it/?id=1603&start=01.03&end=01.05&collection=eptic3">
-
 J	NPFS000	J-n
 <g/>
 '	Fe	'-x
@@ -18910,13 +17875,10 @@ le	DA0MS0	le-x
 Commissaire	NPCS000	Commissaire-n
 .	Fp	.-x
 </s>
-
 <s id="1603:7" video="https://media.dipintra.it/?id=1603&start=01.06&end=01.06&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -18926,7 +17888,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="medium" lengthw="753" duration="long" durations="369.0" speed="slow" speedwm="122.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1604:1" video="https://media.dipintra.it/?id=1604&start=00.07&end=00.39&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -19015,9 +17976,7 @@ d	AQ0MS0	d-j
 importance	NCFS000	importance-n
 .	Fp	.-x
 </s>
-
 <s id="1604:2" video="https://media.dipintra.it/?id=1604&start=00.40&end=00.43&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 le	PP3MSA0	le-p
 savez	VMIP2P0	savoir-v
@@ -19028,9 +17987,7 @@ forêt	NCFS000	forêt-n
 recule	VMIP3S0	reculer-v
 .	Fp	.-x
 </s>
-
 <s id="1604:3" video="https://media.dipintra.it/?id=1604&start=00.43&end=00.56&collection=eptic3">
-
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
 2	Z	2-m
@@ -19086,9 +18043,7 @@ est	VMIP3S0	être-v
 dramatique	AQ0CS00	dramatique-j
 .	Fp	.-x
 </s>
-
 <s id="1604:4" video="https://media.dipintra.it/?id=1604&start=00.56&end=01.12&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -19140,9 +18095,7 @@ biodiversité	NCFS000	biodiversité-n
 terrestre	AQ0CS00	terrestre-j
 .	Fp	.-x
 </s>
-
 <s id="1604:5" video="https://media.dipintra.it/?id=1604&start=01.12&end=01.22&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -19177,9 +18130,7 @@ de	SP	de-i
 serre	NCFS000	serre-n
 .	Fp	.-x
 </s>
-
 <s id="1604:6" video="https://media.dipintra.it/?id=1604&start=01.22&end=01.33&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -19208,9 +18159,7 @@ la	DA0FS0	le-x
 forêt	NCFS000	forêt-n
 .	Fp	.-x
 </s>
-
 <s id="1604:7" video="https://media.dipintra.it/?id=1604&start=01.34&end=01.46&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -19254,9 +18203,7 @@ du	SP+D	de+le-i
 Congo	NPMS000	Congo-n
 .	Fp	.-x
 </s>
-
 <s id="1604:8" video="https://media.dipintra.it/?id=1604&start=01.46&end=01.58&collection=eptic3">
-
 On	PP3CSN0	on-p
 estime	VMIP1S0	estimer-v
 que	CS	que-c
@@ -19296,9 +18243,7 @@ est	VMIP3S0	être-v
 essentiel	AQ0MS00	essentiel-j
 .	Fp	.-x
 </s>
-
 <s id="1604:9" video="https://media.dipintra.it/?id=1604&start=02.00&end=02.28&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 ces	DD0CP0	ce-x
 accords	NCMP000	accord-n
@@ -19377,9 +18322,7 @@ ou	CC	ou-c
 non	RG	non-r
 .	Fp	.-x
 </s>
-
 <s id="1604:10" video="https://media.dipintra.it/?id=1604&start=02.29&end=02.41&collection=eptic3">
-
 Et	CC	et-c
 donc	RG	donc-r
 c	RG	c-r
@@ -19430,9 +18373,7 @@ la	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
-
 <s id="1604:11" video="https://media.dipintra.it/?id=1604&start=02.42&end=02.48&collection=eptic3">
-
 Alors	RG	alors-r
 cette	DD0FS0	ce-x
 ces	DD0CP0	ce-x
@@ -19456,9 +18397,7 @@ du	SP+D	de+le-i
 bois	NCMN000	bois-n
 .	Fp	.-x
 </s>
-
 <s id="1604:12" video="https://media.dipintra.it/?id=1604&start=02.48&end=02.59&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 mettent	VMIP3P0	mettre-v
 en	SP	en-i
@@ -19488,9 +18427,7 @@ pays	NCMN000	pays-n
 concernés	VMP00PM	concerner-v
 .	Fp	.-x
 </s>
-
 <s id="1604:13" video="https://media.dipintra.it/?id=1604&start=02.59&end=03.03&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -19505,9 +18442,7 @@ du	SP+D	de+le-i
 Cameroun	NPMS000	Cameroun-n
 .	Fp	.-x
 </s>
-
 <s id="1604:14" video="https://media.dipintra.it/?id=1604&start=03.04&end=03.16&collection=eptic3">
-
 Mais	CC	mais-c
 déjà	RG	déjà-r
 un	DI0MS0	un-x
@@ -19546,9 +18481,7 @@ bois	NCMN000	bois-n
 durable	AQ0CS00	durable-j
 .	Fp	.-x
 </s>
-
 <s id="1604:15" video="https://media.dipintra.it/?id=1604&start=03.17&end=03.27&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 ,	Fc	,-x
 nous	PP1CP00	nous-p
@@ -19578,9 +18511,7 @@ exploitation	NCFS000	exploitation-n
 forestière	AQ0FS00	forestier-j
 .	Fp	.-x
 </s>
-
 <s id="1604:16" video="https://media.dipintra.it/?id=1604&start=03.27&end=04.03&collection=eptic3">
-
 Donc	RG	donc-r
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -19689,9 +18620,7 @@ la	DA0FS0	le-x
 déforestation	NCFS000	déforestation-n
 .	Fp	.-x
 </s>
-
 <s id="1604:17" video="https://media.dipintra.it/?id=1604&start=04.03&end=04.12&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 aussi	RG	aussi-r
@@ -19728,9 +18657,7 @@ des	SP+D	de+les-i
 sols	NCMP000	sol-n
 .	Fp	.-x
 </s>
-
 <s id="1604:18" video="https://media.dipintra.it/?id=1604&start=04.12&end=04.22&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 que	CS	que-c
@@ -19762,9 +18689,7 @@ des	SP+D	de+les-i
 agrocarburants	NCMP000	agrocarburants-n
 .	Fp	.-x
 </s>
-
 <s id="1604:19" video="https://media.dipintra.it/?id=1604&start=04.22&end=04.42&collection=eptic3">
-
 Alors	RG	alors-r
 concernant	VMG0000	concerner-v
 plus	RG	plus-r
@@ -19820,9 +18745,7 @@ du	SP+D	de+le-i
 Congo	NPMS000	Congo-n
 ;	Fx	;-x
 </s>
-
 <s id="1604:20" video="https://media.dipintra.it/?id=1604&start=04.42&end=04.48&collection=eptic3">
-
 on	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
 que	CS	que-c
@@ -19854,9 +18777,7 @@ un	DI0MS0	un-x
 succès	NCMN000	succès-n
 .	Fp	.-x
 </s>
-
 <s id="1604:21" video="https://media.dipintra.it/?id=1604&start=04.49&end=05.07&collection=eptic3">
-
 Mais	CC	mais-c
 ,	Fc	,-x
 comme	CS	comme-c
@@ -19935,9 +18856,7 @@ l	NCMS000	l-n
 accord	NCMS000	accord-n
 ?	Fit	?-x
 </s>
-
 <s id="1604:22" video="https://media.dipintra.it/?id=1604&start=05.07&end=05.41&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 qu	VMP00SM	qu-v
 <g/>
@@ -20083,9 +19002,7 @@ plus	RG	plus-r
 écoutée	VMP00SF	écouter-v
 .	Fp	.-x
 </s>
-
 <s id="1604:23" video="https://media.dipintra.it/?id=1604&start=05.42&end=06.02&collection=eptic3">
-
 De	SP	de-i
 la	DA0FS0	le-x
 même	AQ0CS00	même-j
@@ -20162,9 +19079,7 @@ en	PP3CN00	en-p
 est	VMIP3S0	être-v
 .	Fp	.-x
 </s>
-
 <s id="1604:24" video="https://media.dipintra.it/?id=1604&start=06.02&end=06.15&collection=eptic3">
-
 Enfin	RG	enfin-r
 un	DI0MS0	un-x
 dernier	AQ0MS00	dernier-j
@@ -20218,13 +19133,10 @@ partenariat	NCMS000	partenariat-n
 volontaire	AQ0CS00	volontaire-j
 ?	Fit	?-x
 </s>
-
 <s id="1604:25" video="https://media.dipintra.it/?id=1604&start=06.15&end=06.16&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -20234,7 +19146,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="142" duration="short" durations="81.0" speed="slow" speedwm="105.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1605:1" video="https://media.dipintra.it/?id=1605&start=00.05&end=00.08&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -20247,9 +19158,7 @@ chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
-
 <s id="1605:2" video="https://media.dipintra.it/?id=1605&start=00.09&end=00.21&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 accords	NCMP000	accord-n
 de	SP	de-i
@@ -20285,9 +19194,7 @@ la	DA0FS0	le-x
 biodiversité	NCFS000	biodiversité-n
 .	Fp	.-x
 </s>
-
 <s id="1605:3" video="https://media.dipintra.it/?id=1605&start=00.21&end=00.28&collection=eptic3">
-
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
 n	NCFS000	n-n
@@ -20314,9 +19221,7 @@ avec	SP	avec-i
 vigilance	NCFS000	vigilance-n
 .	Fp	.-x
 </s>
-
 <s id="1605:4" video="https://media.dipintra.it/?id=1605&start=00.29&end=00.58&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 voulons	VMIP1P0	vouloir-v
@@ -20391,9 +19296,7 @@ consultations	NCFP000	consultation-n
 effective	AQ0FS00	effectif-j
 .	Fp	.-x
 </s>
-
 <s id="1605:5" video="https://media.dipintra.it/?id=1605&start=00.59&end=01.10&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 doit	VMIP3S0	devoir-v
 aider	VMN0000	aider-v
@@ -20425,9 +19328,7 @@ gouvernance	NCFS000	gouvernance-n
 forestière	AQ0FS00	forestier-j
 .	Fp	.-x
 </s>
-
 <s id="1605:6" video="https://media.dipintra.it/?id=1605&start=01.10&end=01.25&collection=eptic3">
-
 Cet	DD0MS0	ce-x
 accord	NCMS000	accord-n
 ne	RN	ne-r
@@ -20466,13 +19367,10 @@ ces	DD0CP0	ce-x
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1605:7" video="https://media.dipintra.it/?id=1605&start=01.25&end=01.26&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -20482,7 +19380,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="260" duration="medium" durations="124.0" speed="slow" speedwm="125.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1606:1" video="https://media.dipintra.it/?id=1606&start=00.07&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -20500,9 +19397,7 @@ sont	VSIP3P0	être-v
 intervenus	VMP00PM	intervenir-v
 .	Fp	.-x
 </s>
-
 <s id="1606:2" video="https://media.dipintra.it/?id=1606&start=00.12&end=00.28&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -20554,9 +19449,7 @@ société	NCFS000	société-n
 civile	AQ0FS00	civil-j
 .	Fp	.-x
 </s>
-
 <s id="1606:3" video="https://media.dipintra.it/?id=1606&start=00.28&end=00.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 qu	RG	qu-r
@@ -20604,9 +19497,7 @@ société	NCFS000	société-n
 civile	AQ0FS00	civil-j
 .	Fp	.-x
 </s>
-
 <s id="1606:4" video="https://media.dipintra.it/?id=1606&start=00.39&end=00.52&collection=eptic3">
-
 Tant	RG	tant-r
 que	CS	que-c
 ,	Fc	,-x
@@ -20660,9 +19551,7 @@ pas	RN	pas-r
 suffisamment	RG	suffisamment-r
 .	Fp	.-x
 </s>
-
 <s id="1606:5" video="https://media.dipintra.it/?id=1606&start=00.52&end=01.11&collection=eptic3">
-
 Donc	RG	donc-r
 ,	Fc	,-x
 le	DA0MS0	le-x
@@ -20730,9 +19619,7 @@ est	VMIP3S0	être-v
 essentiel	AQ0MS00	essentiel-j
 .	Fp	.-x
 </s>
-
 <s id="1606:6" video="https://media.dipintra.it/?id=1606&start=01.11&end=01.20&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -20775,9 +19662,7 @@ la	DA0FS0	le-x
 Chine	NPCS000	Chine-n
 .	Fp	.-x
 </s>
-
 <s id="1606:7" video="https://media.dipintra.it/?id=1606&start=01.20&end=01.36&collection=eptic3">
-
 Pourquoi	PT00000	pourquoi-p
 est-ce	VMIP3S0	être-v
 que	RN	que-r
@@ -20837,9 +19722,7 @@ de	SP	de-i
 pillage	NCMS000	pillage-n
 ?	Fit	?-x
 </s>
-
 <s id="1606:8" video="https://media.dipintra.it/?id=1606&start=01.36&end=01.46&collection=eptic3">
-
 Eh	I	eh-x
 ben	I	ben-x
 le	DA0MS0	le-x
@@ -20878,9 +19761,7 @@ du	SP+D	de+le-i
 Sud	NPMS000	Sud-n
 .	Fp	.-x
 </s>
-
 <s id="1606:9" video="https://media.dipintra.it/?id=1606&start=01.47&end=02.04&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 ,	Fc	,-x
@@ -20960,9 +19841,7 @@ ces	DD0CP0	ce-x
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1606:10" video="https://media.dipintra.it/?id=1606&start=02.04&end=02.08&collection=eptic3">
-
 Merci	NCMS000	merci-n
 de	SP	de-i
 votre	DP2CSP	votre-x
@@ -20975,9 +19854,7 @@ Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1606:11" video="https://media.dipintra.it/?id=1606&start=02.08&end=02.11&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
 très	RG	très-r
@@ -20989,7 +19866,6 @@ collaboration	NCFS000	collaboration-n
 venir	VMN0000	venir-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -20999,7 +19875,6 @@ venir	VMN0000	venir-v
 <st language="fr" length="short" lengthw="188" duration="short" durations="104.0" speed="slow" speedwm="108.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1607:1" video="https://media.dipintra.it/?id=1607&start=00.06&end=00.23&collection=eptic3">
-
 Oui	RG	oui-r
 merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -21059,9 +19934,7 @@ sont	VMIP3P0	être-v
 signataires	NCCP000	signataire-n
 .	Fp	.-x
 </s>
-
 <s id="1607:2" video="https://media.dipintra.it/?id=1607&start=00.23&end=00.38&collection=eptic3">
-
 À	SP	à-i
 l	NCMS000	l-n
 <g/>
@@ -21107,9 +19980,7 @@ intégration	NCFS000	intégration-n
 régionale	AQ0FS00	régional-j
 .	Fp	.-x
 </s>
-
 <s id="1607:3" video="https://media.dipintra.it/?id=1607&start=00.39&end=01.04&collection=eptic3">
-
 Comment	PT00000	comment-p
 ne	RN	ne-r
 pas	RN	pas-r
@@ -21187,9 +20058,7 @@ de	SP	de-i
 développement	NCMS000	développement-n
 ?	Fit	?-x
 </s>
-
 <s id="1607:4" video="https://media.dipintra.it/?id=1607&start=01.04&end=01.25&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 fortes	AQ0FP00	fort-j
 pressions	NCFP000	pression-n
@@ -21246,9 +20115,7 @@ novembre	NCMS000	novembre-n
 2010	Z	2010-m
 .	Fp	.-x
 </s>
-
 <s id="1607:5" video="https://media.dipintra.it/?id=1607&start=01.25&end=01.36&collection=eptic3">
-
 La	DA0FS0	le-x
 réalité	NCFS000	réalité-n
 tragique	AQ0CS00	tragique-j
@@ -21281,9 +20148,7 @@ en	SP	en-i
 vigueur	NCFS000	vigueur-n
 .	Fp	.-x
 </s>
-
 <s id="1607:6" video="https://media.dipintra.it/?id=1607&start=01.36&end=01.50&collection=eptic3">
-
 Un	DI0MS0	un-x
 échec	NCMS000	échec-n
 tel	AQ0MS00	tel-j
@@ -21327,7 +20192,6 @@ juin	NCMS000	juin-n
 2002	Z	2002-m
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -21337,7 +20201,6 @@ juin	NCMS000	juin-n
 <st language="fr" length="short" lengthw="241" duration="short" durations="95.0" speed="medium" speedwm="152.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1608:1" video="https://media.dipintra.it/?id=1608&start=00.05&end=00.19&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -21395,9 +20258,7 @@ extrêmement	RG	extrêmement-r
 dangereuse	AQ0FS00	dangereux-j
 .	Fp	.-x
 </s>
-
 <s id="1608:2" video="https://media.dipintra.it/?id=1608&start=00.19&end=00.29&collection=eptic3">
-
 Ce	DD0MS0	ce-x
 pays	NCMN000	pays-n
 ACP	NP00000	ACP-n
@@ -21440,9 +20301,7 @@ notre	DP1CSP	notre-x
 marché	NCMS000	marché-n
 .	Fp	.-x
 </s>
-
 <s id="1608:3" video="https://media.dipintra.it/?id=1608&start=00.29&end=00.32&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 mets	VMIP1S0	mettre-v
@@ -21463,9 +20322,7 @@ en	SP	en-i
 oeuvre	NCCS000	œuvre-n
 .	Fp	.-x
 </s>
-
 <s id="1608:4" video="https://media.dipintra.it/?id=1608&start=00.32&end=00.38&collection=eptic3">
-
 En	SP	en-i
 revanche	NCFS000	revanche-n
 ,	Fc	,-x
@@ -21487,9 +20344,7 @@ totalement	RG	totalement-r
 inacceptable	AQ0CS00	inacceptable-j
 .	Fp	.-x
 </s>
-
 <s id="1608:5" video="https://media.dipintra.it/?id=1608&start=00.38&end=00.46&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 dérogation	NCFS000	dérogation-n
 permet	VMIP3S0	permettre-v
@@ -21527,9 +20382,7 @@ population	NCFS000	population-n
 locale	AQ0FS00	local-j
 .	Fp	.-x
 </s>
-
 <s id="1608:6" video="https://media.dipintra.it/?id=1608&start=00.46&end=00.51&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 permettre	VMN0000	permettre-v
@@ -21554,9 +20407,7 @@ régions	NCFP000	région-n
 concernées	VMP00PF	concerner-v
 .	Fp	.-x
 </s>
-
 <s id="1608:7" video="https://media.dipintra.it/?id=1608&start=00.52&end=00.58&collection=eptic3">
-
 Les	DA0CP0	le-x
 importations	NCFP000	importation-n
 communautaires	AQ0CP00	communautaire-j
@@ -21575,9 +20426,7 @@ de	SP	de-i
 2009	Z	2009-m
 .	Fp	.-x
 </s>
-
 <s id="1608:8" video="https://media.dipintra.it/?id=1608&start=00.58&end=01.00&collection=eptic3">
-
 Elles	PP3FP00	elles-p
 ont	VAIP3P0	avoir-v
 doublé	VMP00SM	doubler-v
@@ -21587,9 +20436,7 @@ an	NCMS000	an-n
 seulement	RG	seulement-r
 .	Fp	.-x
 </s>
-
 <s id="1608:9" video="https://media.dipintra.it/?id=1608&start=01.00&end=01.03&collection=eptic3">
-
 Ce	DD0MS0	ce-x
 phénomène	NCMS000	phénomène-n
 ne	RN	ne-r
@@ -21606,9 +20453,7 @@ est	VSIP3S0	être-v
 maintenue	VMP00SF	maintenir-v
 .	Fp	.-x
 </s>
-
 <s id="1608:10" video="https://media.dipintra.it/?id=1608&start=01.04&end=01.11&collection=eptic3">
-
 De	SP	de-i
 plus	RG	plus-r
 ,	Fc	,-x
@@ -21640,9 +20485,7 @@ produits	NCMP000	produit-n
 européens	AQ0MP00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1608:11" video="https://media.dipintra.it/?id=1608&start=01.12&end=01.15&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 notamment	RG	notamment-r
@@ -21657,9 +20500,7 @@ des	SP+D	de+les-i
 captures	NCFP000	capture-n
 .	Fp	.-x
 </s>
-
 <s id="1608:12" video="https://media.dipintra.it/?id=1608&start=01.16&end=01.24&collection=eptic3">
-
 Mes	DP1CPS	mon-x
 chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -21705,9 +20546,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 ?	Fit	?-x
 </s>
-
 <s id="1608:13" video="https://media.dipintra.it/?id=1608&start=01.25&end=01.27&collection=eptic3">
-
 En	SP	en-i
 tous	DI0MP0	tout-x
 les	DA0CP0	le-x
@@ -21729,9 +20568,7 @@ est	VMIP3S0	être-v
 désespérer	VMN0000	désespérer-v
 .	Fp	.-x
 </s>
-
 <s id="1608:14" video="https://media.dipintra.it/?id=1608&start=01.27&end=01.33&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
 pouvons	VMIP1P0	pouvoir-v
@@ -21755,9 +20592,7 @@ la	DA0FS0	le-x
 sorte	NCFS000	sorte-n
 .	Fp	.-x
 </s>
-
 <s id="1608:15" video="https://media.dipintra.it/?id=1608&start=01.33&end=01.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 veux	VMIP1S0	vouloir-v
@@ -21784,16 +20619,13 @@ place	NCFS000	place-n
 durablement	RG	durablement-r
 .	Fp	.-x
 </s>
-
 <s id="1608:16" video="https://media.dipintra.it/?id=1608&start=01.39&end=01.41&collection=eptic3">
-
 Merci	NCMS000	merci-n
 mes	DP1CPS	mon-x
 chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -21803,7 +20635,6 @@ collègues	NCCP000	collègue-n
 <st language="fr" length="short" lengthw="165" duration="short" durations="71.0" speed="medium" speedwm="139.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1609:1" video="https://media.dipintra.it/?id=1609&start=00.05&end=00.09&collection=eptic3">
-
 En	SP	en-i
 Irak	NPMS000	Irak-n
 ,	Fc	,-x
@@ -21819,9 +20650,7 @@ chrétiens	NCMP000	chrétien-n
 disent	VMIP3P0	dire-v
 :	Fd	:-x
 </s>
-
 <s id="1609:2" video="https://media.dipintra.it/?id=1609&start=00.09&end=00.10&collection=eptic3">
-
 "	Fe	"-x
 Notre	DP1CSP	notre-x
 calvaire	NCMS000	calvaire-n
@@ -21830,9 +20659,7 @@ lourd	AQ0MS00	lourd-j
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1609:3" video="https://media.dipintra.it/?id=1609&start=00.11&end=00.16&collection=eptic3">
-
 Bientôt	RG	bientôt-r
 ,	Fc	,-x
 mes	DP1CPS	mon-x
@@ -21859,9 +20686,7 @@ le	DA0MS0	le-x
 christianisme	NCMS000	christianisme-n
 .	Fp	.-x
 </s>
-
 <s id="1609:4" video="https://media.dipintra.it/?id=1609&start=00.16&end=00.26&collection=eptic3">
-
 En	PP3CN00	en-p
 Turquie	NP00000	Turquie-n
 ,	Fc	,-x
@@ -21913,9 +20738,7 @@ aujourd	AQ0MS0	aujourd-j
 hui	RG	hui-r
 .	Fp	.-x
 </s>
-
 <s id="1609:5" video="https://media.dipintra.it/?id=1609&start=00.26&end=00.29&collection=eptic3">
-
 Le	DA0MS0	le-x
 mouvement	NCMS000	mouvement-n
 auquel	SP+PR	à+lequel-i
@@ -21930,9 +20753,7 @@ de	SP	de-i
 fond	NCMS000	fond-n
 .	Fp	.-x
 </s>
-
 <s id="1609:6" video="https://media.dipintra.it/?id=1609&start=00.30&end=00.38&collection=eptic3">
-
 Dans	SP	dans-i
 le	DA0MS0	le-x
 monde	NCMS000	monde-n
@@ -21957,9 +20778,7 @@ les	PP3CPA0	les-p
 tue	VMIP1S0	tuer-v
 .	Fp	.-x
 </s>
-
 <s id="1609:7" video="https://media.dipintra.it/?id=1609&start=00.39&end=00.42&collection=eptic3">
-
 On	PP3CSN0	on-p
 voit	VMIP3S0	voir-v
 très	RG	très-r
@@ -21982,9 +20801,7 @@ d	AQ0MS0	d-j
 État	NPMS000	État-n
 .	Fp	.-x
 </s>
-
 <s id="1609:8" video="https://media.dipintra.it/?id=1609&start=00.42&end=00.47&collection=eptic3">
-
 Le	DA0MS0	le-x
 résultat	NCMS000	résultat-n
 est	VMIP3S0	être-v
@@ -22001,9 +20818,7 @@ au	SP+DA	à+le-i
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 <s id="1609:9" video="https://media.dipintra.it/?id=1609&start=00.47&end=00.56&collection=eptic3">
-
 Or	CC	or-c
 ,	Fc	,-x
 défendre	VMN0000	défendre-v
@@ -22049,9 +20864,7 @@ l	NCMS000	l-n
 islam	NCMS000	islam-n
 .	Fp	.-x
 </s>
-
 <s id="1609:10" video="https://media.dipintra.it/?id=1609&start=00.57&end=01.02&collection=eptic3">
-
 La	DA0FS0	le-x
 présence	NCFS000	présence-n
 des	SP+D	de+les-i
@@ -22073,9 +20886,7 @@ la	PP3FSA0	le-p
 défendre	VMN0000	défendre-v
 .	Fp	.-x
 </s>
-
 <s id="1609:11" video="https://media.dipintra.it/?id=1609&start=01.03&end=01.17&collection=eptic3">
-
 Et	CC	et-c
 vraiment	RG	vraiment-r
 ,	Fc	,-x
@@ -22137,7 +20948,6 @@ seule	AQ0FS00	seul-j
 religion	NCFS000	religion-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -22147,7 +20957,6 @@ religion	NCFS000	religion-n
 <st language="fr" length="short" lengthw="135" duration="short" durations="68.0" speed="slow" speedwm="119.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1610:1" video="https://media.dipintra.it/?id=1610&start=00.10&end=00.22&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -22189,9 +20998,7 @@ Pikler	NP00000	Pikler-n
 Budapest	NPMS000	Budapest-n
 .	Fp	.-x
 </s>
-
 <s id="1610:2" video="https://media.dipintra.it/?id=1610&start=00.22&end=00.33&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 scientifique	AQ0CS00	scientifique-j
 hongroise	NCFS000	hongrois-n
@@ -22223,9 +21030,7 @@ bases	NCFP000	base-n
 scientifiques	AQ0CP00	scientifique-j
 .	Fp	.-x
 </s>
-
 <s id="1610:3" video="https://media.dipintra.it/?id=1610&start=00.33&end=00.39&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -22245,9 +21050,7 @@ reconnue	VMP00SF	reconnaître-v
 internationalement	RG	internationalement-r
 .	Fp	.-x
 </s>
-
 <s id="1610:4" video="https://media.dipintra.it/?id=1610&start=00.41&end=00.48&collection=eptic3">
-
 Des	SP+D	de+les-i
 institutions	NCFP000	institution-n
 de	SP	de-i
@@ -22272,9 +21075,7 @@ ville	NCFS000	ville-n
 belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
-
 <s id="1610:5" video="https://media.dipintra.it/?id=1610&start=00.48&end=00.57&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 dommage	AQ0MS00	dommage-j
@@ -22311,9 +21112,7 @@ la	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
-
 <s id="1610:6" video="https://media.dipintra.it/?id=1610&start=00.58&end=01.10&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 décision	NCFS000	décision-n
 est	VMIP3S0	être-v
@@ -22345,9 +21144,7 @@ de	SP	de-i
 celle-ci	PD0FS00	celui-ci-p
 .	Fp	.-x
 </s>
-
 <s id="1610:7" video="https://media.dipintra.it/?id=1610&start=01.10&end=01.18&collection=eptic3">
-
 Je	PP1CSN0	je-p
 m	NCMS000	m-n
 <g/>
@@ -22377,15 +21174,12 @@ gouvernement	NCMS000	gouvernement-n
 hongrois	AQ0MN00	hongrois-j
 .	Fp	.-x
 </s>
-
 <s id="1610:8" video="https://media.dipintra.it/?id=1610&start=01.18&end=01.19&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -22395,7 +21189,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="156" duration="short" durations="79.0" speed="slow" speedwm="118.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1611:1" video="https://media.dipintra.it/?id=1611&start=00.07&end=00.20&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -22443,9 +21236,7 @@ d	AQ0MS0	d-j
 Orient	NPMS000	Orient-n
 .	Fp	.-x
 </s>
-
 <s id="1611:2" video="https://media.dipintra.it/?id=1611&start=00.20&end=00.25&collection=eptic3">
-
 Nul	DI0MS0	nul-x
 n	NCFS000	n-n
 <g/>
@@ -22463,9 +21254,7 @@ ehm	FPAUSE	ehm
 perpétrés	VMP00PM	perpétrer-v
 .	Fp	.-x
 </s>
-
 <s id="1611:3" video="https://media.dipintra.it/?id=1611&start=00.25&end=00.50&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 rappeler	VMN0000	rappeler-v
@@ -22548,9 +21337,7 @@ valeurs	NCFP000	valeur-n
 universelles	AQ0FP00	universel-j
 .	Fp	.-x
 </s>
-
 <s id="1611:4" video="https://media.dipintra.it/?id=1611&start=00.51&end=01.00&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 vraiment	RG	vraiment-r
@@ -22587,9 +21374,7 @@ aux	SP+DA	à+les-i
 actes	NCMP000	acte-n
 .	Fp	.-x
 </s>
-
 <s id="1611:5" video="https://media.dipintra.it/?id=1611&start=01.00&end=01.24&collection=eptic3">
-
 Et	CC	et-c
 donc	RG	donc-r
 j	RG	j-r
@@ -22675,15 +21460,12 @@ une	DI0FS0	un-x
 priorité	NCFS000	priorité-n
 .	Fp	.-x
 </s>
-
 <s id="1611:6" video="https://media.dipintra.it/?id=1611&start=01.24&end=01.25&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -22693,7 +21475,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="medium" lengthw="478" duration="medium" durations="211.0" speed="medium" speedwm="135.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1612:1" video="https://media.dipintra.it/?id=1612&start=00.05&end=00.16&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -22737,9 +21518,7 @@ d	AQ0MS0	d-j
 intervention	NCFS000	intervention-n
 .	Fp	.-x
 </s>
-
 <s id="1612:2" video="https://media.dipintra.it/?id=1612&start=00.17&end=00.25&collection=eptic3">
-
 Le	DA0MS0	le-x
 Consensus	NPMN000	Consensus-n
 européen	AQ0MS00	européen-j
@@ -22767,9 +21546,7 @@ pleine	AQ0FS00	plein-j
 mutation	NCFS000	mutation-n
 .	Fp	.-x
 </s>
-
 <s id="1612:3" video="https://media.dipintra.it/?id=1612&start=00.26&end=00.32&collection=eptic3">
-
 Les	DA0CP0	le-x
 défis	NCMP000	défi-n
 humanitaires	AQ0CP00	humanitaire-j
@@ -22795,9 +21572,7 @@ d	AQ0MS0	d-j
 action	NCFS000	action-n
 .	Fp	.-x
 </s>
-
 <s id="1612:4" video="https://media.dipintra.it/?id=1612&start=00.32&end=00.38&collection=eptic3">
-
 Cependant	RG	cependant-r
 ,	Fc	,-x
 le	DA0MS0	le-x
@@ -22812,9 +21587,7 @@ partenaires	NCCP000	partenaire-n
 humanitaires	AQ0CP00	humanitaire-j
 .	Fp	.-x
 </s>
-
 <s id="1612:5" video="https://media.dipintra.it/?id=1612&start=00.38&end=00.46&collection=eptic3">
-
 Un	DI0MS0	un-x
 effert-	DYSF	effert-
 un	DI0MS0	un-x
@@ -22842,9 +21615,7 @@ acteurs	NCMP000	acteur-n
 impliqués	VMP00PM	impliquer-v
 .	Fp	.-x
 </s>
-
 <s id="1612:6" video="https://media.dipintra.it/?id=1612&start=00.47&end=00.55&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 plaider	VMN0000	plaider-v
@@ -22875,9 +21646,7 @@ acteurs	NCMP000	acteur-n
 militaires	AQ0CP00	militaire-j
 .	Fp	.-x
 </s>
-
 <s id="1612:7" video="https://media.dipintra.it/?id=1612&start=00.56&end=01.18&collection=eptic3">
-
 En	SP	en-i
 2009	Z	2009-m
 a	VAIP3S0	avoir-v
@@ -22958,9 +21727,7 @@ du	SP+D	de+le-i
 COPS	NPMN000	COPS-n
 .	Fp	.-x
 </s>
-
 <s id="1612:8" video="https://media.dipintra.it/?id=1612&start=01.18&end=01.43&collection=eptic3">
-
 La	DA0FS0	le-x
 révision	NCFS000	révision-n
 à	SP	à-i
@@ -23054,9 +21821,7 @@ espace	NCCS000	espace-n
 humanitaire	AQ0CS00	humanitaire-j
 .	Fp	.-x
 </s>
-
 <s id="1612:9" video="https://media.dipintra.it/?id=1612&start=01.44&end=01.52&collection=eptic3">
-
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
 les	DA0CP0	le-x
@@ -23093,9 +21858,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1612:10" video="https://media.dipintra.it/?id=1612&start=01.52&end=02.03&collection=eptic3">
-
 Troisièmement	NP00000	Troisièmement-n
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -23128,9 +21891,7 @@ Nations	NPFP000	Nations-n
 unies	VMP00PF	unir-v
 .	Fp	.-x
 </s>
-
 <s id="1612:11" video="https://media.dipintra.it/?id=1612&start=02.03&end=02.17&collection=eptic3">
-
 La	DA0FS0	le-x
 distinction	NCFS000	distinction-n
 entre	SP	entre-i
@@ -23163,9 +21924,7 @@ compréhension	NCFS000	compréhension-n
 mutuelle	AQ0FS00	mutuel-j
 .	Fp	.-x
 </s>
-
 <s id="1612:12" video="https://media.dipintra.it/?id=1612&start=02.17&end=02.36&collection=eptic3">
-
 De	SP	de-i
 plus	RG	plus-r
 ,	Fc	,-x
@@ -23226,9 +21985,7 @@ de	SP	de-i
 catastrophe	NCFS000	catastrophe-n
 .	Fp	.-x
 </s>
-
 <s id="1612:13" video="https://media.dipintra.it/?id=1612&start=02.36&end=02.46&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -23265,9 +22022,7 @@ le	DA0MS0	le-x
 développement	NCMS000	développement-n
 .	Fp	.-x
 </s>
-
 <s id="1612:14" video="https://media.dipintra.it/?id=1612&start=02.46&end=02.50&collection=eptic3">
-
 Le	DA0MS0	le-x
 traité	NCMS000	traité-n
 de	SP	de-i
@@ -23284,9 +22039,7 @@ action	NCFS000	action-n
 extérieure	AQ0FS00	extérieur-j
 .	Fp	.-x
 </s>
-
 <s id="1612:15" video="https://media.dipintra.it/?id=1612&start=02.50&end=03.02&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 nous	PP1CP00	nous-p
 sommes	VSIP1P0	être-v
@@ -23327,9 +22080,7 @@ politiques	AQ0CP00	politique-j
 étrangères	NCFP000	étranger-n
 .	Fp	.-x
 </s>
-
 <s id="1612:16" video="https://media.dipintra.it/?id=1612&start=03.03&end=03.15&collection=eptic3">
-
 Des	SP+D	de+les-i
 règles	NCFP000	règle-n
 strictes	AQ0FP00	strict-j
@@ -23371,9 +22122,7 @@ grande	AQ0FS00	grand-j
 ampleur	NCFS000	ampleur-n
 .	Fp	.-x
 </s>
-
 <s id="1612:17" video="https://media.dipintra.it/?id=1612&start=03.16&end=03.36&collection=eptic3">
-
 Pour	SP	pour-i
 finir	VMN0000	finir-v
 ,	Fc	,-x
@@ -23440,16 +22189,13 @@ première	AQ0FS00	premier-j
 urgence	NCFS000	urgence-n
 .	Fp	.-x
 </s>
-
 <s id="1612:18" video="https://media.dipintra.it/?id=1612&start=03.36&end=03.37&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -23459,7 +22205,6 @@ Président	NPMS000	Président-n
 <st language="fr" length="short" lengthw="110" duration="short" durations="59.0" speed="slow" speedwm="111.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1613:1" video="https://media.dipintra.it/?id=1613&start=00.04&end=00.06&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
@@ -23467,9 +22212,7 @@ le	DA0MS0	le-x
 Président	NPMS000	Président-n
 .	Fp	.-x
 </s>
-
 <s id="1613:2" video="https://media.dipintra.it/?id=1613&start=00.07&end=00.09&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 je	PP1CSN0	je-p
 félicite	VMIP1S0	féliciter-v
@@ -23480,9 +22223,7 @@ son	DP3CSS	son-x
 rapport	NCMS000	rapport-n
 .	Fp	.-x
 </s>
-
 <s id="1613:3" video="https://media.dipintra.it/?id=1613&start=00.10&end=00.17&collection=eptic3">
-
 Il	PP3MSN0	il-p
 omet	VMIP3S0	omettre-v
 ce-	DYSF	ce-
@@ -23504,9 +22245,7 @@ notamment	RG	notamment-r
 chrétienne	AQ0FS00	chrétien-j
 .	Fp	.-x
 </s>
-
 <s id="1613:4" video="https://media.dipintra.it/?id=1613&start=00.18&end=00.31&collection=eptic3">
-
 Le	DA0MS0	le-x
 texte	NCMS000	texte-n
 du	SP+D	de+le-i
@@ -23548,9 +22287,7 @@ de	SP	de-i
 Malte	VMIP3S0	malter-v
 .	Fp	.-x
 </s>
-
 <s id="1613:5" video="https://media.dipintra.it/?id=1613&start=00.31&end=00.42&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
 ce	DD0MS0	ce-x
@@ -23582,9 +22319,7 @@ intervention	NCFS000	intervention-n
 humanitaire	AQ0CS00	humanitaire-j
 .	Fp	.-x
 </s>
-
 <s id="1613:6" video="https://media.dipintra.it/?id=1613&start=00.42&end=00.53&collection=eptic3">
-
 Les	DA0CP0	le-x
 religions	NCFP000	religion-n
 n	NCFS000	n-n
@@ -23621,9 +22356,7 @@ catastrophe	NCFS000	catastrophe-n
 naturelle	AQ0FS00	naturel-j
 .	Fp	.-x
 </s>
-
 <s id="1613:7" video="https://media.dipintra.it/?id=1613&start=00.53&end=01.03&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -23658,14 +22391,11 @@ foi	NCFS000	foi-n
 chrétienne	AQ0FS00	chrétien-j
 .	Fp	.-x
 </s>
-
 <s id="1613:8" video="https://media.dipintra.it/?id=1613&start=01.03&end=01.04&collection=eptic3">
-
 Merci	NCMS000	merci-n
 beaucoup	RG	beaucoup-r
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -23675,7 +22405,6 @@ beaucoup	RG	beaucoup-r
 <st language="fr" length="short" lengthw="329" duration="medium" durations="153.0" speed="slow" speedwm="129.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1614:1" video="https://media.dipintra.it/?id=1614&start=00.06&end=00.46&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -23756,9 +22485,7 @@ une	DI0FS0	un-x
 piste	NCFS000	piste-n
 .	Fp	.-x
 </s>
-
 <s id="1614:2" video="https://media.dipintra.it/?id=1614&start=00.47&end=00.53&collection=eptic3">
-
 Mesdames	NCFP000	madame-n
 ,	Fc	,-x
 messieurs	NCMP000	monsieur-n
@@ -23788,9 +22515,7 @@ derniers	AQ0MP00	dernier-j
 mois	NCMP000	moi-n
 .	Fp	.-x
 </s>
-
 <s id="1614:3" video="https://media.dipintra.it/?id=1614&start=00.54&end=01.02&collection=eptic3">
-
 La	DA0FS0	le-x
 Belgique	NPFS000	Belgique-n
 ,	Fc	,-x
@@ -23826,9 +22551,7 @@ de	SP	de-i
 Lisbonne	NP00000	Lisbonne-n
 .	Fp	.-x
 </s>
-
 <s id="1614:4" video="https://media.dipintra.it/?id=1614&start=01.03&end=01.18&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -23892,9 +22615,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1614:5" video="https://media.dipintra.it/?id=1614&start=01.19&end=01.30&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 fidèles	AQ0CP00	fidèle-j
@@ -23930,9 +22651,7 @@ bons	AQ0MP00	bon-j
 précédents	NCMP000	précédent-n
 .	Fp	.-x
 </s>
-
 <s id="1614:6" video="https://media.dipintra.it/?id=1614&start=01.31&end=01.40&collection=eptic3">
-
 Mesdames	NCFP000	madame-n
 et	CC	et-c
 messieurs	NCMP000	monsieur-n
@@ -23974,9 +22693,7 @@ fonctionne	VMIP3S0	fonctionner-v
 bien	RG	bien-r
 .	Fp	.-x
 </s>
-
 <s id="1614:7" video="https://media.dipintra.it/?id=1614&start=01.41&end=01.51&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
 notre	DP1CSP	notre-x
@@ -24018,9 +22735,7 @@ encore	RG	encore-r
 sortir	VMN0000	sortir-v
 .	Fp	.-x
 </s>
-
 <s id="1614:8" video="https://media.dipintra.it/?id=1614&start=01.52&end=01.54&collection=eptic3">
-
 La	DA0FS0	le-x
 gouvernance	NCFS000	gouvernance-n
 économique	AQ0CS00	économique-j
@@ -24028,9 +22743,7 @@ a	VAIP3S0	avoir-v
 progressé	VMP00SM	progresser-v
 .	Fp	.-x
 </s>
-
 <s id="1614:9" video="https://media.dipintra.it/?id=1614&start=01.55&end=02.08&collection=eptic3">
-
 Un	DI0MS0	un-x
 accord	NCMS000	accord-n
 a	VAIP3S0	avoir-v
@@ -24071,9 +22784,7 @@ le	DA0MS0	le-x
 Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
-
 <s id="1614:10" video="https://media.dipintra.it/?id=1614&start=02.09&end=02.22&collection=eptic3">
-
 Mesdames	NCFP000	madame-n
 et	CC	et-c
 messieurs	NCMP000	monsieur-n
@@ -24122,9 +22833,7 @@ plus	RG	plus-r
 étroite	AQ0FS00	étroit-j
 .	Fp	.-x
 </s>
-
 <s id="1614:11" video="https://media.dipintra.it/?id=1614&start=02.22&end=02.27&collection=eptic3">
-
 Et	CC	et-c
 pour	SP	pour-i
 ce	PP0CNN0	ce-p
@@ -24143,9 +22852,7 @@ lignes	NCFP000	ligne-n
 directrices	AQ0FP00	directeur-j
 .	Fp	.-x
 </s>
-
 <s id="1614:12" video="https://media.dipintra.it/?id=1614&start=02.28&end=02.32&collection=eptic3">
-
 Premièrement	RG	premièrement-r
 ,	Fc	,-x
 nous	PP1CP00	nous-p
@@ -24158,9 +22865,7 @@ en	SP	en-i
 avant	NCMS000	avant-n
 .	Fp	.-x
 </s>
-
 <s id="1614:13" video="https://media.dipintra.it/?id=1614&start=02.33&end=02.51&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 plutôt	RG	plutôt-r
@@ -24223,7 +22928,6 @@ et	CC	et-c
 hongrois	AQ0MN00	hongrois-j
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -24233,7 +22937,6 @@ hongrois	AQ0MN00	hongrois-j
 <st language="fr" length="long" lengthw="1231" duration="long" durations="584.0" speed="slow" speedwm="126.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1615:1" video="https://media.dipintra.it/?id=1615&start=00.10&end=00.13&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Premier	AQ0MS00	premier-j
@@ -24246,9 +22949,7 @@ les	DA0CP0	le-x
 députés	NCMP000	député-n
 .	Fp	.-x
 </s>
-
 <s id="1615:2" video="https://media.dipintra.it/?id=1615&start=00.14&end=00.31&collection=eptic3">
-
 Avec	SP	avec-i
 efficacité	NCFS000	efficacité-n
 et	CC	et-c
@@ -24289,9 +22990,7 @@ notre	DP1CSP	notre-x
 reconnaissance	NCFS000	reconnaissance-n
 .	Fp	.-x
 </s>
-
 <s id="1615:3" video="https://media.dipintra.it/?id=1615&start=00.32&end=00.48&collection=eptic3">
-
 Au	SP+DA	à+le-i
 nom	NCMS000	nom-n
 de	SP	de-i
@@ -24340,9 +23039,7 @@ cette	DD0FS0	ce-x
 présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
-
 <s id="1615:4" video="https://media.dipintra.it/?id=1615&start=00.49&end=00.56&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 fut	VMIS3S0	être-v
 une	DI0FS0	un-x
@@ -24370,9 +23067,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:5" video="https://media.dipintra.it/?id=1615&start=00.56&end=01.02&collection=eptic3">
-
 Rarement	RG	rarement-r
 ,	Fc	,-x
 les	DA0CP0	le-x
@@ -24390,9 +23085,7 @@ cruciales	AQ0FP00	crucial-j
 surmonter	VMN0000	surmonter-v
 .	Fp	.-x
 </s>
-
 <s id="1615:6" video="https://media.dipintra.it/?id=1615&start=01.04&end=01.14&collection=eptic3">
-
 Au	SP+DA	à+le-i
 cours	NCFP000	cour-n
 de	SP	de-i
@@ -24430,9 +23123,7 @@ cap	NCMS000	cap-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:7" video="https://media.dipintra.it/?id=1615&start=01.14&end=01.25&collection=eptic3">
-
 Son	DP3CSS	son-x
 action	NCFS000	action-n
 s	NCFP000	s-n
@@ -24475,9 +23166,7 @@ général	NCMS000	général-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:8" video="https://media.dipintra.it/?id=1615&start=01.26&end=01.38&collection=eptic3">
-
 Son	DP3CSS	son-x
 action	NCFS000	action-n
 nous	PP1CP00	nous-p
@@ -24512,9 +23201,7 @@ d	NCMS000	d-n
 emplois	NCMP000	emploi-n
 .	Fp	.-x
 </s>
-
 <s id="1615:9" video="https://media.dipintra.it/?id=1615&start=01.38&end=01.45&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 furent	VMIS3P0	être-v
 des	SP+D	de+les-i
@@ -24542,9 +23229,7 @@ dette	NCFS000	dette-n
 souveraine	AQ0FS00	souverain-j
 .	Fp	.-x
 </s>
-
 <s id="1615:10" video="https://media.dipintra.it/?id=1615&start=01.46&end=01.52&collection=eptic3">
-
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
 regards	NCMP000	regard-n
@@ -24568,9 +23253,7 @@ la	PP3FSA0	le-p
 défendre	VMN0000	défendre-v
 .	Fp	.-x
 </s>
-
 <s id="1615:11" video="https://media.dipintra.it/?id=1615&start=01.53&end=02.00&collection=eptic3">
-
 Dire	VMN0000	dire-v
 que	CS	que-c
 nous	PP1CP00	nous-p
@@ -24599,9 +23282,7 @@ vaines	AQ0FP00	vain-j
 paroles	NCFP000	parole-n
 .	Fp	.-x
 </s>
-
 <s id="1615:12" video="https://media.dipintra.it/?id=1615&start=02.00&end=02.08&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
 <g/>
@@ -24628,9 +23309,7 @@ destinée	NCFS000	destinée-n
 commune	AQ0FS00	commun-j
 .	Fp	.-x
 </s>
-
 <s id="1615:13" video="https://media.dipintra.it/?id=1615&start=02.08&end=02.13&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -24662,9 +23341,7 @@ même	AQ0CS00	même-j
 pièce	NCFS000	pièce-n
 .	Fp	.-x
 </s>
-
 <s id="1615:14" video="https://media.dipintra.it/?id=1615&start=02.14&end=02.19&collection=eptic3">
-
 Cet	DD0MS0	ce-x
 avenir	NCMS000	avenir-n
 ,	Fc	,-x
@@ -24683,9 +23360,7 @@ générations	NCFP000	génération-n
 futures	AQ0FP00	futur-j
 .	Fp	.-x
 </s>
-
 <s id="1615:15" video="https://media.dipintra.it/?id=1615&start=02.19&end=02.25&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 a	VAIP3S0	avoir-v
 toujours	RG	toujours-r
@@ -24708,9 +23383,7 @@ esprit	NCMS000	esprit-n
 communautaire	AQ0CS00	communautaire-j
 .	Fp	.-x
 </s>
-
 <s id="1615:16" video="https://media.dipintra.it/?id=1615&start=02.25&end=02.33&collection=eptic3">
-
 Les	DA0CP0	le-x
 réformes	NCFP000	réforme-n
 de	SP	de-i
@@ -24747,9 +23420,7 @@ est	VSIP3S0	être-v
 confronté	VMP00SM	confronter-v
 .	Fp	.-x
 </s>
-
 <s id="1615:17" video="https://media.dipintra.it/?id=1615&start=02.33&end=02.41&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 réussir	VMN0000	réussir-v
@@ -24776,9 +23447,7 @@ pleine	AQ0FS00	plein-j
 mutation	NCFS000	mutation-n
 .	Fp	.-x
 </s>
-
 <s id="1615:18" video="https://media.dipintra.it/?id=1615&start=02.42&end=02.53&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 réussir	VMN0000	réussir-v
@@ -24807,9 +23476,7 @@ scène	NCFS000	scène-n
 internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1615:19" video="https://media.dipintra.it/?id=1615&start=02.53&end=03.02&collection=eptic3">
-
 Les	DA0CP0	le-x
 décisions	NCFP000	décision-n
 de	SP	de-i
@@ -24841,9 +23508,7 @@ ces	DD0CP0	ce-x
 progrès	NCMN000	progrès-n
 .	Fp	.-x
 </s>
-
 <s id="1615:20" video="https://media.dipintra.it/?id=1615&start=03.03&end=03.06&collection=eptic3">
-
 Elles	PP3FP00	elles-p
 ne	RN	ne-r
 sont	VMIP3P0	être-v
@@ -24855,9 +23520,7 @@ un	DI0MS0	un-x
 impératif	NCMS000	impératif-n
 .	Fp	.-x
 </s>
-
 <s id="1615:21" video="https://media.dipintra.it/?id=1615&start=03.06&end=03.12&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -24882,9 +23545,7 @@ gouvernance	NCFS000	gouvernance-n
 économique	AQ0CS00	économique-j
 .	Fp	.-x
 </s>
-
 <s id="1615:22" video="https://media.dipintra.it/?id=1615&start=03.13&end=03.20&collection=eptic3">
-
 Fondamentalement	RG	fondamentalement-r
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -24912,9 +23573,7 @@ y	PP3CN00	y-p
 perd	VMIP3S0	perdre-v
 .	Fp	.-x
 </s>
-
 <s id="1615:23" video="https://media.dipintra.it/?id=1615&start=03.21&end=03.29&collection=eptic3">
-
 Fondamentalement	RG	fondamentalement-r
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -24943,9 +23602,7 @@ prérogatives	NCFP000	prérogative-n
 mutuelles	AQ0FP00	mutuel-j
 .	Fp	.-x
 </s>
-
 <s id="1615:24" video="https://media.dipintra.it/?id=1615&start=03.29&end=03.35&collection=eptic3">
-
 Car	CC	car-c
 ,	Fc	,-x
 fondamentalement	RG	fondamentalement-r
@@ -24973,9 +23630,7 @@ y	PP3CN00	y-p
 perd	VMIP3S0	perdre-v
 .	Fp	.-x
 </s>
-
 <s id="1615:25" video="https://media.dipintra.it/?id=1615&start=03.36&end=03.45&collection=eptic3">
-
 La	DA0FS0	le-x
 réponse	NCFS000	réponse-n
 est	VMIP3S0	être-v
@@ -25013,9 +23668,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:26" video="https://media.dipintra.it/?id=1615&start=03.45&end=03.53&collection=eptic3">
-
 Sans	SP	sans-i
 renforcement	NCMS000	renforcement-n
 de	SP	de-i
@@ -25044,9 +23697,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1615:27" video="https://media.dipintra.it/?id=1615&start=03.53&end=03.59&collection=eptic3">
-
 Sans	SP	sans-i
 renforcement	NCMS000	renforcement-n
 de	SP	de-i
@@ -25072,9 +23723,7 @@ de	SP	de-i
 demain	RG	demain-r
 .	Fp	.-x
 </s>
-
 <s id="1615:28" video="https://media.dipintra.it/?id=1615&start=04.00&end=04.06&collection=eptic3">
-
 Et	CC	et-c
 sans	SP	sans-i
 renforcement	NCMS000	renforcement-n
@@ -25093,9 +23742,7 @@ scène	NCFS000	scène-n
 internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1615:29" video="https://media.dipintra.it/?id=1615&start=04.06&end=04.22&collection=eptic3">
-
 Alors	RG	alors-r
 que	CS	que-c
 les	DA0CP0	le-x
@@ -25151,9 +23798,7 @@ niveau	NCMS000	niveau-n
 européen	AQ0MS00	européen-j
 ?	Fit	?-x
 </s>
-
 <s id="1615:30" video="https://media.dipintra.it/?id=1615&start=04.23&end=04.31&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -25187,9 +23832,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:31" video="https://media.dipintra.it/?id=1615&start=04.31&end=04.38&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 agissons	VMIP1P0	agir-v
 et	CC	et-c
@@ -25212,9 +23855,7 @@ laissons	VMIP1P0	laisser-v
 marginaliser	VMN0000	marginaliser-v
 .	Fp	.-x
 </s>
-
 <s id="1615:32" video="https://media.dipintra.it/?id=1615&start=04.38&end=04.41&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -25231,9 +23872,7 @@ en	SP	en-i
 cause	NCFS000	cause-n
 .	Fp	.-x
 </s>
-
 <s id="1615:33" video="https://media.dipintra.it/?id=1615&start=04.42&end=04.44&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
 ,	Fc	,-x
@@ -25250,9 +23889,7 @@ l	NCMS000	l-n
 affirmation	NCFS000	affirmation-n
 .	Fp	.-x
 </s>
-
 <s id="1615:34" video="https://media.dipintra.it/?id=1615&start=04.45&end=04.49&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -25267,9 +23904,7 @@ présidence	NCFS000	présidence-n
 belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
-
 <s id="1615:35" video="https://media.dipintra.it/?id=1615&start=04.49&end=04.58&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -25304,9 +23939,7 @@ semestre	NCMS000	semestre-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:36" video="https://media.dipintra.it/?id=1615&start=04.58&end=05.06&collection=eptic3">
-
 La	DA0FS0	le-x
 toute	DI0FS0	tout-x
 première	AQ0FS00	premier-j
@@ -25335,9 +23968,7 @@ Commission	NPFS000	Commission-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:37" video="https://media.dipintra.it/?id=1615&start=05.06&end=05.23&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 y	PP3CN00	y-p
 indiquons	VMIP1P0	indiquer-v
@@ -25387,9 +24018,7 @@ d	NCMS000	d-n
 emplois	NCMP000	emploi-n
 .	Fp	.-x
 </s>
-
 <s id="1615:38" video="https://media.dipintra.it/?id=1615&start=05.23&end=05.45&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 aussi	RG	aussi-r
@@ -25462,9 +24091,7 @@ les	DA0CP0	le-x
 assurances	NCFP000	assurance-n
 .	Fp	.-x
 </s>
-
 <s id="1615:39" video="https://media.dipintra.it/?id=1615&start=05.46&end=05.54&collection=eptic3">
-
 Pendant	SP	pendant-i
 ces	DD0CP0	ce-x
 6	Z	6-m
@@ -25501,9 +24128,7 @@ de	SP	de-i
 notation	NCFS000	notation-n
 .	Fp	.-x
 </s>
-
 <s id="1615:40" video="https://media.dipintra.it/?id=1615&start=05.56&end=06.04&collection=eptic3">
-
 Pour	SP	pour-i
 nos	DP1CPP	notre-x
 concitoyens	NCMP000	concitoyen-n
@@ -25536,9 +24161,7 @@ le	DA0MS0	le-x
 jour	NCMS000	jour-n
 .	Fp	.-x
 </s>
-
 <s id="1615:41" video="https://media.dipintra.it/?id=1615&start=06.04&end=06.09&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -25561,9 +24184,7 @@ préoccupations	NCFP000	préoccupation-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-
 <s id="1615:42" video="https://media.dipintra.it/?id=1615&start=06.15&end=06.31&collection=eptic3">
-
 Mais	CC	mais-c
 il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -25629,9 +24250,7 @@ le	DA0MS0	le-x
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 <s id="1615:43" video="https://media.dipintra.it/?id=1615&start=06.32&end=06.44&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 donc	RG	donc-r
@@ -25676,9 +24295,7 @@ l	NCMS000	l-n
 environnement	NCMS000	environnement-n
 .	Fp	.-x
 </s>
-
 <s id="1615:44" video="https://media.dipintra.it/?id=1615&start=06.45&end=06.56&collection=eptic3">
-
 Mais	CC	mais-c
 je	PP1CSN0	je-p
 souhaiterais	VMIC1S0	souhaiter-v
@@ -25721,9 +24338,7 @@ octobre	NCMS000	octobre-n
 dernier	AQ0MS00	dernier-j
 .	Fp	.-x
 </s>
-
 <s id="1615:45" video="https://media.dipintra.it/?id=1615&start=06.57&end=07.01&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -25748,9 +24363,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:46" video="https://media.dipintra.it/?id=1615&start=07.01&end=07.06&collection=eptic3">
-
 Il	PP3MSN0	il-p
 doit	VMIP3S0	devoir-v
 rester	VMN0000	rester-v
@@ -25764,9 +24377,7 @@ commerciaux	AQ0MP00	commercial-j
 bilatéraux	AQ0MP00	bilatéral-j
 .	Fp	.-x
 </s>
-
 <s id="1615:47" video="https://media.dipintra.it/?id=1615&start=07.07&end=07.18&collection=eptic3">
-
 Cancún	NP00000	Cancún-n
 ,	Fc	,-x
 contrairement	RG	contrairement-r
@@ -25800,9 +24411,7 @@ changement	NCMS000	changement-n
 climatique	AQ0CS00	climatique-j
 .	Fp	.-x
 </s>
-
 <s id="1615:48" video="https://media.dipintra.it/?id=1615&start=07.18&end=07.28&collection=eptic3">
-
 Cancún	NP00000	Cancún-n
 a	VAIP3S0	avoir-v
 également	RG	également-r
@@ -25841,9 +24450,7 @@ scène	NCFS000	scène-n
 internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1615:49" video="https://media.dipintra.it/?id=1615&start=07.28&end=07.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 aussi	RG	aussi-r
@@ -25878,9 +24485,7 @@ dossier	NCMS000	dossier-n
 Eurovignette	NP00000	Eurovignette-n
 .	Fp	.-x
 </s>
-
 <s id="1615:50" video="https://media.dipintra.it/?id=1615&start=07.39&end=07.43&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -25896,9 +24501,7 @@ s-	DYSF	s-
 citoyens	AQ0MP00	citoyen-j
 .	Fp	.-x
 </s>
-
 <s id="1615:51" video="https://media.dipintra.it/?id=1615&start=07.44&end=07.55&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -25929,9 +24532,7 @@ et	CC	et-c
 exécutées	VMP00PF	exécuter-v
 .	Fp	.-x
 </s>
-
 <s id="1615:52" video="https://media.dipintra.it/?id=1615&start=07.55&end=08.04&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 a	VAIP3S0	avoir-v
 déployé	VMP00SM	déployer-v
@@ -25966,9 +24567,7 @@ du	SP+D	de+le-i
 traité	NCMS000	traité-n
 .	Fp	.-x
 </s>
-
 <s id="1615:53" video="https://media.dipintra.it/?id=1615&start=08.04&end=08.11&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 fut	VMIS3S0	être-v
 une	DI0FS0	un-x
@@ -25996,9 +24595,7 @@ de	SP	de-i
 meilleur	NCMS000	meilleur-n
 .	Fp	.-x
 </s>
-
 <s id="1615:54" video="https://media.dipintra.it/?id=1615&start=08.12&end=08.16&collection=eptic3">
-
 La	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 est	VMIP3S0	être-v
@@ -26017,9 +24614,7 @@ ce	DD0MS0	ce-x
 résultat	NCMS000	résultat-n
 .	Fp	.-x
 </s>
-
 <s id="1615:55" video="https://media.dipintra.it/?id=1615&start=08.17&end=08.33&collection=eptic3">
-
 Demain	RG	demain-r
 <g/>
 ...	EPAUSE	...-x
@@ -26074,9 +24669,7 @@ matière	NCFS000	matière-n
 budgétaire	AQ0CS00	budgétaire-j
 .	Fp	.-x
 </s>
-
 <s id="1615:56" video="https://media.dipintra.it/?id=1615&start=08.34&end=08.40&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -26099,9 +24692,7 @@ très	RG	très-r
 productive	AQ0FS00	productif-j
 .	Fp	.-x
 </s>
-
 <s id="1615:57" video="https://media.dipintra.it/?id=1615&start=08.40&end=08.49&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -26138,9 +24729,7 @@ façon	NCFS000	façon-n
 déterminée	VMP00SF	déterminer-v
 .	Fp	.-x
 </s>
-
 <s id="1615:58" video="https://media.dipintra.it/?id=1615&start=08.49&end=08.54&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -26163,9 +24752,7 @@ nos	DP1CPP	notre-x
 institutions	NCFP000	institution-n
 .	Fp	.-x
 </s>
-
 <s id="1615:59" video="https://media.dipintra.it/?id=1615&start=08.54&end=09.02&collection=eptic3">
-
 Il	PP3MSN0	il-p
 appartient	VMIP3S0	appartenir-v
 maintenant	RG	maintenant-r
@@ -26186,9 +24773,7 @@ cette	DD0FS0	ce-x
 lancée	NCFS000	lancée-n
 .	Fp	.-x
 </s>
-
 <s id="1615:60" video="https://media.dipintra.it/?id=1615&start=09.02&end=09.14&collection=eptic3">
-
 Les	DA0CP0	le-x
 grandes	AQ0FP00	grand-j
 décisions	NCFP000	décision-n
@@ -26234,9 +24819,7 @@ et	CC	et-c
 prospère	AQ0CS00	prospère-j
 .	Fp	.-x
 </s>
-
 <s id="1615:61" video="https://media.dipintra.it/?id=1615&start=09.15&end=09.19&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
@@ -26253,9 +24836,7 @@ faire	VMN0000	faire-v
 maintenant	RG	maintenant-r
 .	Fp	.-x
 </s>
-
 <s id="1615:62" video="https://media.dipintra.it/?id=1615&start=09.19&end=09.33&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 dit	VMP00SM	dire-v
@@ -26306,9 +24887,7 @@ de	SP	de-i
 reprise	NCFS000	reprise-n
 .	Fp	.-x
 </s>
-
 <s id="1615:63" video="https://media.dipintra.it/?id=1615&start=09.34&end=09.52&collection=eptic3">
-
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
 <g/>
@@ -26374,9 +24953,7 @@ la	DA0FS0	le-x
 liberté	NCFS000	liberté-n
 .	Fp	.-x
 </s>
-
 <s id="1615:64" video="https://media.dipintra.it/?id=1615&start=09.52&end=09.54&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
@@ -26385,7 +24962,6 @@ votre	DP2CSP	votre-x
 attention	NCFS000	attention-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -26395,13 +24971,10 @@ attention	NCFS000	attention-n
 <st language="fr" length="short" lengthw="344" duration="medium" durations="134.0" speed="medium" speedwm="154.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1616:1" video="https://media.dipintra.it/?id=1616&start=00.06&end=00.07&collection=eptic3">
-
 Président	NCMS000	président-n
 .	Fp	.-x
 </s>
-
 <s id="1616:2" video="https://media.dipintra.it/?id=1616&start=00.07&end=00.16&collection=eptic3">
-
 Alors	RG	alors-r
 c	RG	c-r
 <g/>
@@ -26444,9 +25017,7 @@ qu	VMP00SM	qu-v
 domicile	NCMS000	domicile-n
 .	Fp	.-x
 </s>
-
 <s id="1616:3" video="https://media.dipintra.it/?id=1616&start=00.16&end=00.21&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 qu	RG	qu-r
@@ -26487,9 +25058,7 @@ bonne	AQ0FS00	bon-j
 chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
-
 <s id="1616:4" video="https://media.dipintra.it/?id=1616&start=00.22&end=00.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 d'	SP	de-i
@@ -26551,9 +25120,7 @@ au	SP+DA	à+le-i
 Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
-
 <s id="1616:5" video="https://media.dipintra.it/?id=1616&start=00.39&end=00.55&collection=eptic3">
-
 Et	CC	et-c
 d'	SP	de-i
 <g/>
@@ -26639,9 +25206,7 @@ ehm	FPAUSE	ehm
 fédérale	AQ0FS00	fédéral-j
 .	Fp	.-x
 </s>
-
 <s id="1616:6" video="https://media.dipintra.it/?id=1616&start=00.56&end=01.06&collection=eptic3">
-
 Pour	SP	pour-i
 le	DA0MS0	le-x
 reste	NCMS000	reste-n
@@ -26684,9 +25249,7 @@ y	PP3CN00	y-p
 entrent	VMIP3P0	entrer-v
 .	Fp	.-x
 </s>
-
 <s id="1616:7" video="https://media.dipintra.it/?id=1616&start=01.06&end=01.29&collection=eptic3">
-
 Et	CC	et-c
 donc	CC	donc-c
 ,	Fc	,-x
@@ -26800,9 +25363,7 @@ ce	DD0MS0	ce-x
 dossier	NCMS000	dossier-n
 .	Fp	.-x
 </s>
-
 <s id="1616:8" video="https://media.dipintra.it/?id=1616&start=01.29&end=01.33&collection=eptic3">
-
 Deuxième	AO0CS00	2-j
 dossier	NCMS000	dossier-n
 important	AQ0MS00	important-j
@@ -26816,9 +25377,7 @@ circonscription	NCFS000	circonscription-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1616:9" video="https://media.dipintra.it/?id=1616&start=01.33&end=01.36&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -26839,9 +25398,7 @@ du	SP+D	de+le-i
 Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
-
 <s id="1616:10" video="https://media.dipintra.it/?id=1616&start=01.36&end=01.46&collection=eptic3">
-
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
 qu	RG	qu-r
@@ -26899,9 +25456,7 @@ niveau	NCMS000	niveau-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1616:11" video="https://media.dipintra.it/?id=1616&start=01.46&end=02.00&collection=eptic3">
-
 Une	DI0FS0	un-x
 circonscription	NCFS000	circonscription-n
 européenne	AQ0FS00	européen-j
@@ -26960,9 +25515,7 @@ représentants	NCMP000	représentant-n
 nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
-
 <s id="1616:12" video="https://media.dipintra.it/?id=1616&start=02.00&end=02.02&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 que	RN	que-r
@@ -26976,9 +25529,7 @@ très	RG	très-r
 important	AQ0MS00	important-j
 .	Fp	.-x
 </s>
-
 <s id="1616:13" video="https://media.dipintra.it/?id=1616&start=02.02&end=02.06&collection=eptic3">
-
 Et	CC	et-c
 le	DA0MS0	le-x
 troisième	NCCS000	troisième-n
@@ -27003,9 +25554,7 @@ citoyenne	AQ0FS00	citoyen-j
 européenne	NCFS000	européen-n
 .	Fp	.-x
 </s>
-
 <s id="1616:14" video="https://media.dipintra.it/?id=1616&start=02.06&end=02.11&collection=eptic3">
-
 Là	RG	là-r
 aussi	RG	aussi-r
 ,	Fc	,-x
@@ -27025,9 +25574,7 @@ en	SP	en-i
 oeuvre	NCCS000	œuvre-n
 .	Fp	.-x
 </s>
-
 <s id="1616:15" video="https://media.dipintra.it/?id=1616&start=02.11&end=02.19&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -27069,15 +25616,12 @@ plus	RG	plus-r
 fort	RG	fort-r
 .	Fp	.-x
 </s>
-
 <s id="1616:16" video="https://media.dipintra.it/?id=1616&start=02.19&end=02.20&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -27087,7 +25631,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="367" duration="medium" durations="146.0" speed="medium" speedwm="150.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1617:1" video="https://media.dipintra.it/?id=1617&start=00.05&end=00.24&collection=eptic3">
-
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
 ,	Fc	,-x
@@ -27157,9 +25700,7 @@ services	NCMP000	service-n
 publics	AQ0MP00	public-j
 .	Fp	.-x
 </s>
-
 <s id="1617:2" video="https://media.dipintra.it/?id=1617&start=00.25&end=00.27&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 n	NCFS000	n-n
 <g/>
@@ -27171,9 +25712,7 @@ de	SP	de-i
 cela	PD0CS00	cela-p
 .	Fp	.-x
 </s>
-
 <s id="1617:3" video="https://media.dipintra.it/?id=1617&start=00.27&end=00.51&collection=eptic3">
-
 Non	RG	non-r
 seulement	RG	seulement-r
 ,	Fc	,-x
@@ -27259,9 +25798,7 @@ l	AQ0MS0	l-j
 égalité	NCFS000	égalité-n
 .	Fp	.-x
 </s>
-
 <s id="1617:4" video="https://media.dipintra.it/?id=1617&start=00.52&end=01.04&collection=eptic3">
-
 Quant	NP00000	Quant-n
 aux	SP+DA	à+les-i
 questions	NCFP000	question-n
@@ -27309,9 +25846,7 @@ directive	NCFS000	directive-n
 Bolkestein	NP00000	Bolkestein-n
 .	Fp	.-x
 </s>
-
 <s id="1617:5" video="https://media.dipintra.it/?id=1617&start=01.05&end=01.08&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 étions	VMII1P0	être-v
 dans	SP	dans-i
@@ -27327,9 +25862,7 @@ la	DA0FS0	le-x
 pauvreté	NCFS000	pauvreté-n
 .	Fp	.-x
 </s>
-
 <s id="1617:6" video="https://media.dipintra.it/?id=1617&start=01.08&end=01.13&collection=eptic3">
-
 Il	PP3MSN0	il-p
 n	NCFS000	n-n
 <g/>
@@ -27357,9 +25890,7 @@ toujours	RG	toujours-r
 plus	RG	plus-r
 .	Fp	.-x
 </s>
-
 <s id="1617:7" video="https://media.dipintra.it/?id=1617&start=01.13&end=01.20&collection=eptic3">
-
 Et	CC	et-c
 force	NCFS000	force-n
 est	VMIP3S0	être-v
@@ -27386,9 +25917,7 @@ droits	NCMP000	droit-n
 sociaux	AQ0MP00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1617:8" video="https://media.dipintra.it/?id=1617&start=01.20&end=01.38&collection=eptic3">
-
 La	DA0FS0	le-x
 stratégie	NCFS000	stratégie-n
 adoptée	VMP00SF	adopter-v
@@ -27451,9 +25980,7 @@ monsieur	NCMS000	monsieur-n
 Barroso	NPMS000	Barroso-n
 .	Fp	.-x
 </s>
-
 <s id="1617:9" video="https://media.dipintra.it/?id=1617&start=01.38&end=01.44&collection=eptic3">
-
 Et	CC	et-c
 pour	SP	pour-i
 cela	PD0CS00	cela-p
@@ -27476,9 +26003,7 @@ Parlements	NPMP000	Parlements-n
 nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
-
 <s id="1617:10" video="https://media.dipintra.it/?id=1617&start=01.45&end=01.51&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 engagé	VMP00SM	engager-v
@@ -27504,9 +26029,7 @@ ils	PP3MPN0	ils-p
 intangibles	AQ0CP00	intangible-j
 .	Fp	.-x
 </s>
-
 <s id="1617:11" video="https://media.dipintra.it/?id=1617&start=01.52&end=02.15&collection=eptic3">
-
 Par	SP	par-i
 contre	SP	contre-i
 ,	Fc	,-x
@@ -27586,9 +26109,7 @@ progrès	NCMN000	progrès-n
 social	AQ0MS00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1617:12" video="https://media.dipintra.it/?id=1617&start=02.15&end=02.22&collection=eptic3">
-
 Au	SP+DA	à+le-i
 début	NCMS000	début-n
 de	SP	de-i
@@ -27622,9 +26143,7 @@ votre	DP2CSP	votre-x
 honneur	NCMS000	honneur-n
 .	Fp	.-x
 </s>
-
 <s id="1617:13" video="https://media.dipintra.it/?id=1617&start=02.22&end=02.28&collection=eptic3">
-
 Mais	CC	mais-c
 durant	SP	durant-i
 celle-ci	PD0FS00	celui-ci-p
@@ -27646,9 +26165,7 @@ sont	VSIP3P0	être-v
 rassasiés	VMP00PM	rassasier-v
 .	Fp	.-x
 </s>
-
 <s id="1617:14" video="https://media.dipintra.it/?id=1617&start=02.28&end=02.31&collection=eptic3">
-
 Les	DA0CP0	le-x
 peuples	NCMP000	peuple-n
 ,	Fc	,-x
@@ -27664,7 +26181,6 @@ la	DA0FS0	le-x
 disette	NCFS000	disette-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -27674,7 +26190,6 @@ disette	NCFS000	disette-n
 <st language="fr" length="short" lengthw="338" duration="medium" durations="122.0" speed="high" speedwm="166.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1618:1" video="https://media.dipintra.it/?id=1618&start=00.06&end=00.17&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -27725,9 +26240,7 @@ le	DA0MS0	le-x
 bilan	NCMS000	bilan-n
 .	Fp	.-x
 </s>
-
 <s id="1618:2" video="https://media.dipintra.it/?id=1618&start=00.18&end=00.27&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -27780,9 +26293,7 @@ juin	NCMS000	juin-n
 dernier	AQ0MS00	dernier-j
 .	Fp	.-x
 </s>
-
 <s id="1618:3" video="https://media.dipintra.it/?id=1618&start=00.27&end=00.32&collection=eptic3">
-
 Mais	CC	mais-c
 c	RG	c-r
 <g/>
@@ -27811,9 +26322,7 @@ gouvernement	NCMS000	gouvernement-n
 présent	AQ0MS00	présent-j
 .	Fp	.-x
 </s>
-
 <s id="1618:4" video="https://media.dipintra.it/?id=1618&start=00.32&end=00.38&collection=eptic3">
-
 Laissons	VMM01P0	laisser-v
 maintenant	RG	maintenant-r
 de	SP	de-i
@@ -27834,9 +26343,7 @@ présidence	NCFS000	présidence-n
 belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
-
 <s id="1618:5" video="https://media.dipintra.it/?id=1618&start=00.38&end=00.50&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 aussi	RG	aussi-r
 ,	Fc	,-x
@@ -27907,9 +26414,7 @@ la	DA0FS0	le-x
 préparation	NCFS000	préparation-n
 .	Fp	.-x
 </s>
-
 <s id="1618:6" video="https://media.dipintra.it/?id=1618&start=00.50&end=00.54&collection=eptic3">
-
 Et	CC	et-c
 force	NCFS000	force-n
 est	VMIP3S0	être-v
@@ -27936,9 +26441,7 @@ est	VSIP3S0	être-v
 inspirée	VMP00SF	inspirer-v
 .	Fp	.-x
 </s>
-
 <s id="1618:7" video="https://media.dipintra.it/?id=1618&start=00.54&end=01.15&collection=eptic3">
-
 Rien	PI0CS00	rien-p
 que	CS	que-c
 dans	SP	dans-i
@@ -28031,9 +26534,7 @@ présidence	NCFS000	présidence-n
 belge	AQ0CS00	belge-j
 .	Fp	.-x
 </s>
-
 <s id="1618:8" video="https://media.dipintra.it/?id=1618&start=01.15&end=01.25&collection=eptic3">
-
 De	SP	de-i
 même	RG	même-r
 pour	SP	pour-i
@@ -28085,9 +26586,7 @@ déjà	RG	déjà-r
 acquis	VMP00PM	acquérir-v
 .	Fp	.-x
 </s>
-
 <s id="1618:9" video="https://media.dipintra.it/?id=1618&start=01.26&end=01.33&collection=eptic3">
-
 Mais	CC	mais-c
 ce	PP0CNN0	ce-p
 dont	PR00000	dont-p
@@ -28126,9 +26625,7 @@ certaines	DI0FP0	certain-x
 limites	NCFP000	limite-n
 .	Fp	.-x
 </s>
-
 <s id="1618:10" video="https://media.dipintra.it/?id=1618&start=01.34&end=01.45&collection=eptic3">
-
 Or	CC	or-c
 ,	Fc	,-x
 à	SP	à-i
@@ -28189,9 +26686,7 @@ leurs	DP3CPP	leur-x
 priorités	NCFP000	priorité-n
 .	Fp	.-x
 </s>
-
 <s id="1618:11" video="https://media.dipintra.it/?id=1618&start=01.45&end=02.04&collection=eptic3">
-
 Outre	SP	outre-i
 la	DA0FS0	le-x
 bonne	AQ0FS00	bon-j
@@ -28280,9 +26775,7 @@ nous	PP1CP00	nous-p
 caractérisent	VMIP3P0	caractériser-v
 .	Fp	.-x
 </s>
-
 <s id="1618:12" video="https://media.dipintra.it/?id=1618&start=02.04&end=02.07&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -28302,13 +26795,10 @@ cet	DD0MS0	ce-x
 exemple	NCMS000	exemple-n
 .	Fp	.-x
 </s>
-
 <s id="1618:13" video="https://media.dipintra.it/?id=1618&start=02.07&end=02.08&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -28318,7 +26808,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="214" duration="short" durations="88.0" speed="medium" speedwm="145.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1619:1" video="https://media.dipintra.it/?id=1619&start=00.05&end=00.49&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -28458,9 +26947,7 @@ nous	PP1CP00	nous-p
 arrive	VMIP1S0	arriver-v
 .	Fp	.-x
 </s>
-
 <s id="1619:2" video="https://media.dipintra.it/?id=1619&start=00.50&end=01.05&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -28523,9 +27010,7 @@ le	DA0MS0	le-x
 mur	NCMS000	mur-n
 .	Fp	.-x
 </s>
-
 <s id="1619:3" video="https://media.dipintra.it/?id=1619&start=01.06&end=01.23&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 vois	VMIP1S0	voir-v
@@ -28589,9 +27074,7 @@ des	SP+D	de+les-i
 pensions	NCFP000	pension-n
 .	Fp	.-x
 </s>
-
 <s id="1619:4" video="https://media.dipintra.it/?id=1619&start=01.23&end=01.33&collection=eptic3">
-
 Ça	PD0MS00	cela-p
 n	NCFS000	n-n
 <g/>
@@ -28628,7 +27111,6 @@ nos	DP1CPP	notre-x
 citoyens	NCMP000	citoyen-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -28638,7 +27120,6 @@ citoyens	NCMP000	citoyen-n
 <st language="fr" length="short" lengthw="184" duration="short" durations="78.0" speed="medium" speedwm="141.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1620:1" video="https://media.dipintra.it/?id=1620&start=00.05&end=00.22&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Président	NPMS000	Président-n
 ,	Fc	,-x
@@ -28703,9 +27184,7 @@ est	VSIP3S0	être-v
 confrontée	VMP00SF	confronter-v
 .	Fp	.-x
 </s>
-
 <s id="1620:2" video="https://media.dipintra.it/?id=1620&start=00.23&end=00.34&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -28737,9 +27216,7 @@ institutionnelle	AQ0FS00	institutionnel-j
 préjudiciable	AQ0CS00	préjudiciable-j
 .	Fp	.-x
 </s>
-
 <s id="1620:3" video="https://media.dipintra.it/?id=1620&start=00.34&end=00.44&collection=eptic3">
-
 En	SP	en-i
 matière	NCFS000	matière-n
 sociale	AQ0FS00	social-j
@@ -28782,9 +27259,7 @@ revenu	NCMS000	revenu-n
 minimum	AQ0CS00	minimum-j
 .	Fp	.-x
 </s>
-
 <s id="1620:4" video="https://media.dipintra.it/?id=1620&start=00.44&end=00.58&collection=eptic3">
-
 Malgré	SP	malgré-i
 ce	DD0MS0	ce-x
 contexte	NCMS000	contexte-n
@@ -28832,9 +27307,7 @@ Conseil	NPMS000	Conseil-n
 ECOFIN	NP00000	ECOFIN-n
 ;	Fx	;-x
 </s>
-
 <s id="1620:5" video="https://media.dipintra.it/?id=1620&start=00.58&end=01.01&collection=eptic3">
-
 les	DA0CP0	le-x
 conclusions	NCFP000	conclusion-n
 sur	SP	sur-i
@@ -28848,9 +27321,7 @@ intérêt	NCMS000	intérêt-n
 général	AQ0MS00	général-j
 ;	Fx	;-x
 </s>
-
 <s id="1620:6" video="https://media.dipintra.it/?id=1620&start=01.01&end=01.14&collection=eptic3">
-
 les	DA0CP0	le-x
 pensions	NCFP000	pension-n
 ,	Fc	,-x
@@ -28895,9 +27366,7 @@ souligner	VMN0000	souligner-v
 -	Fg	--x
 ;	Fx	;-x
 </s>
-
 <s id="1620:7" video="https://media.dipintra.it/?id=1620&start=01.14&end=01.17&collection=eptic3">
-
 la	DA0FS0	le-x
 déclaration	NCFS000	déclaration-n
 EPSCO	NP00000	EPSCO-n
@@ -28913,9 +27382,7 @@ la	DA0FS0	le-x
 pauvreté	NCFS000	pauvreté-n
 .	Fp	.-x
 </s>
-
 <s id="1620:8" video="https://media.dipintra.it/?id=1620&start=01.18&end=01.23&collection=eptic3">
-
 Encore	RG	encore-r
 félicitations	NCFP000	félicitation-n
 et	CC	et-c
@@ -28932,13 +27399,10 @@ présidences	NCFP000	présidence-n
 suivantes	AQ0FP00	suivant-j
 .	Fp	.-x
 </s>
-
 <s id="1620:9" video="https://media.dipintra.it/?id=1620&start=01.23&end=01.24&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -28948,7 +27412,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="133" duration="short" durations="60.0" speed="medium" speedwm="133.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1621:1" video="https://media.dipintra.it/?id=1621&start=00.08&end=00.14&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 ce	PP0CNN0	ce-p
@@ -28966,9 +27429,7 @@ politique	NCFS000	politique-n
 sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1621:2" video="https://media.dipintra.it/?id=1621&start=00.14&end=02.22&collection=eptic3">
-
 Les	DA0CP0	le-x
 ambition	NCFS000	ambition-n
 de	SP	de-i
@@ -29007,9 +27468,7 @@ son	DP3CSS	son-x
 rôle	NCMS000	rôle-n
 .	Fp	.-x
 </s>
-
 <s id="1621:3" video="https://media.dipintra.it/?id=1621&start=02.22&end=02.40&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VAIP3S0	avoir-v
 renforcé	VMP00SM	renforcer-v
@@ -29082,9 +27541,7 @@ cohésion	NCFS000	cohésion-n
 sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1621:4" video="https://media.dipintra.it/?id=1621&start=02.41&end=02.53&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -29149,9 +27606,7 @@ l	NCMS000	l-n
 avant	SP	avant-i
 .	Fp	.-x
 </s>
-
 <s id="1621:5" video="https://media.dipintra.it/?id=1621&start=02.54&end=03.06&collection=eptic3">
-
 De	SP	de-i
 même	RG	même-r
 ,	Fc	,-x
@@ -29223,7 +27678,6 @@ aujourd	AQ0MS0	aujourd-j
 hui	RG	hui-r
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -29233,7 +27687,6 @@ hui	RG	hui-r
 <st language="fr" length="medium" lengthw="672" duration="medium" durations="321.0" speed="slow" speedwm="125.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1622:1" video="https://media.dipintra.it/?id=1622&start=00.05&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 ,	Fc	,-x
 merci	NCMS000	merci-n
@@ -29265,9 +27718,7 @@ du	SP+D	de+le-i
 débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
-
 <s id="1622:2" video="https://media.dipintra.it/?id=1622&start=00.13&end=00.28&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -29313,9 +27764,7 @@ les	DA0CP0	le-x
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1622:3" video="https://media.dipintra.it/?id=1622&start=00.29&end=00.37&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 ne	RN	ne-r
 pouvions	VMII1P0	pouvoir-v
@@ -29343,9 +27792,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1622:4" video="https://media.dipintra.it/?id=1622&start=00.37&end=00.44&collection=eptic3">
-
 La	DA0FS0	le-x
 directive	NCFS000	directive-n
 fixe	AQ0CS00	fixe-j
@@ -29367,9 +27814,7 @@ territoire	NCMS000	territoire-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1622:5" video="https://media.dipintra.it/?id=1622&start=00.44&end=00.48&collection=eptic3">
-
 De	SP	de-i
 quel	DT0MS0	quel-x
 type	NCMS000	type-n
@@ -29384,9 +27829,7 @@ l	NCMS000	l-n
 étranger	NCMS000	étranger-n
 ?	Fit	?-x
 </s>
-
 <s id="1622:6" video="https://media.dipintra.it/?id=1622&start=00.48&end=00.52&collection=eptic3">
-
 Comment	PT00000	comment-p
 et	CC	et-c
 sur	SP	sur-i
@@ -29397,9 +27840,7 @@ peut-on	VMIP3S0	pouvoir-v
 remboursé	VMP00SM	rembourser-v
 ?	Fit	?-x
 </s>
-
 <s id="1622:7" video="https://media.dipintra.it/?id=1622&start=00.52&end=00.57&collection=eptic3">
-
 Comment	PT00000	comment-p
 sont	VSIP3P0	être-v
 réparties	VMP00PF	répartir-v
@@ -29425,9 +27866,7 @@ de	SP	de-i
 traitement	NCMS000	traitement-n
 ?	Fit	?-x
 </s>
-
 <s id="1622:8" video="https://media.dipintra.it/?id=1622&start=00.58&end=01.02&collection=eptic3">
-
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
 réponses	NCFP000	réponse-n
@@ -29443,9 +27882,7 @@ de	SP	de-i
 directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
-
 <s id="1622:9" video="https://media.dipintra.it/?id=1622&start=01.03&end=01.11&collection=eptic3">
-
 Permettez-moi	VMM02P0	permettre-v
 ,	Fc	,-x
 avant	SP	avant-i
@@ -29469,9 +27906,7 @@ la	DA0FS0	le-x
 négociation	NCFS000	négociation-n
 .	Fp	.-x
 </s>
-
 <s id="1622:10" video="https://media.dipintra.it/?id=1622&start=01.12&end=01.21&collection=eptic3">
-
 Sa	DP3FSS	son-x
 capacité	NCFS000	capacité-n
 de	SP	de-i
@@ -29498,9 +27933,7 @@ cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
-
 <s id="1622:11" video="https://media.dipintra.it/?id=1622&start=01.21&end=01.24&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 là	RG	là-r
@@ -29518,9 +27951,7 @@ d	AQ0MS0	d-j
 irresponsabilité	NCFS000	irresponsabilité-n
 .	Fp	.-x
 </s>
-
 <s id="1622:12" video="https://media.dipintra.it/?id=1622&start=01.25&end=01.41&collection=eptic3">
-
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
 aussi	RG	aussi-r
@@ -29579,9 +28010,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1622:13" video="https://media.dipintra.it/?id=1622&start=01.42&end=01.56&collection=eptic3">
-
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
 ,	Fc	,-x
@@ -29622,9 +28051,7 @@ aurait	VAIC3S0	avoir-v
 possible	AQ0CS00	possible-j
 .	Fp	.-x
 </s>
-
 <s id="1622:14" video="https://media.dipintra.it/?id=1622&start=01.56&end=01.59&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 quel	PT0MS00	quel-p
@@ -29639,9 +28066,7 @@ les	DA0CP0	le-x
 patients	NCMP000	patient-n
 ?	Fit	?-x
 </s>
-
 <s id="1622:15" video="https://media.dipintra.it/?id=1622&start=01.59&end=02.10&collection=eptic3">
-
 Le	DA0MS0	le-x
 progrès	NCMN000	progrès-n
 médical	AQ0MS00	médical-j
@@ -29679,9 +28104,7 @@ faire	VMN0000	faire-v
 soigner	VMN0000	soigner-v
 .	Fp	.-x
 </s>
-
 <s id="1622:16" video="https://media.dipintra.it/?id=1622&start=02.11&end=02.17&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 peut	VMIP3S0	pouvoir-v
 être	VMN0000	être-v
@@ -29712,9 +28135,7 @@ du	SP+D	de+le-i
 domicile	NCMS000	domicile-n
 .	Fp	.-x
 </s>
-
 <s id="1622:17" video="https://media.dipintra.it/?id=1622&start=02.18&end=02.27&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 peut	VMIP3S0	pouvoir-v
 être	VMN0000	être-v
@@ -29753,9 +28174,7 @@ hautement	RG	hautement-r
 spécialisés	VMP00PM	spécialiser-v
 .	Fp	.-x
 </s>
-
 <s id="1622:18" video="https://media.dipintra.it/?id=1622&start=02.27&end=02.38&collection=eptic3">
-
 Et	CC	et-c
 pour	SP	pour-i
 certains	DI0MP0	certain-x
@@ -29800,9 +28219,7 @@ autre	AQ0CS00	autre-j
 membre	NCMS000	membre-n
 .	Fp	.-x
 </s>
-
 <s id="1622:19" video="https://media.dipintra.it/?id=1622&start=02.38&end=02.50&collection=eptic3">
-
 Donc	CC	donc-c
 les	DA0CP0	le-x
 consommateurs	NCMP000	consommateur-n
@@ -29838,9 +28255,7 @@ législatives	AQ0FP00	législatif-j
 claires	AQ0FP00	clair-j
 .	Fp	.-x
 </s>
-
 <s id="1622:20" video="https://media.dipintra.it/?id=1622&start=02.51&end=03.04&collection=eptic3">
-
 Bien	RG	bien-r
 évidemment	RG	évidemment-r
 ,	Fc	,-x
@@ -29887,9 +28302,7 @@ des	SP+D	de+les-i
 membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
-
 <s id="1622:21" video="https://media.dipintra.it/?id=1622&start=03.05&end=03.19&collection=eptic3">
-
 Les	DA0CP0	le-x
 patients	NCMP000	patient-n
 pourront	VMIF3P0	pouvoir-v
@@ -29931,9 +28344,7 @@ propre	AQ0CS00	propre-j
 système	NCMS000	système-n
 .	Fp	.-x
 </s>
-
 <s id="1622:22" video="https://media.dipintra.it/?id=1622&start=03.19&end=03.31&collection=eptic3">
-
 Pour	SP	pour-i
 les	DA0CP0	le-x
 soins	NCMP000	soin-n
@@ -29975,9 +28386,7 @@ autorisation	NCFS000	autorisation-n
 préalable	AQ0CS00	préalable-j
 .	Fp	.-x
 </s>
-
 <s id="1622:23" video="https://media.dipintra.it/?id=1622&start=03.31&end=03.40&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 permettra	VMIF3S0	permettre-v
 de	SP	de-i
@@ -30004,9 +28413,7 @@ de	SP	de-i
 soins	NCMP000	soin-n
 .	Fp	.-x
 </s>
-
 <s id="1622:24" video="https://media.dipintra.it/?id=1622&start=03.40&end=03.51&collection=eptic3">
-
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
 a	VAIP3S0	avoir-v
@@ -30044,9 +28451,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1622:25" video="https://media.dipintra.it/?id=1622&start=03.51&end=04.03&collection=eptic3">
-
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
 a	VAIP3S0	avoir-v
@@ -30093,9 +28498,7 @@ ses	DP3CPS	son-x
 besoins	NCMP000	besoin-n
 .	Fp	.-x
 </s>
-
 <s id="1622:26" video="https://media.dipintra.it/?id=1622&start=04.04&end=04.12&collection=eptic3">
-
 Chaque	DI0CS0	chaque-x
 point	NCMS000	point-n
 de	SP	de-i
@@ -30120,9 +28523,7 @@ contact	NCMS000	contact-n
 nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
-
 <s id="1622:27" video="https://media.dipintra.it/?id=1622&start=04.12&end=04.15&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
 le	DA0MS0	le-x
@@ -30137,9 +28538,7 @@ et	CC	et-c
 précises	AQ0FP00	précis-j
 .	Fp	.-x
 </s>
-
 <s id="1622:28" video="https://media.dipintra.it/?id=1622&start=04.15&end=04.38&collection=eptic3">
-
 La	DA0FS0	le-x
 question	NCFS000	question-n
 du	SP+D	de+le-i
@@ -30202,9 +28601,7 @@ plus	RG	plus-r
 brefs	AQ0MP00	bref-j
 .	Fp	.-x
 </s>
-
 <s id="1622:29" video="https://media.dipintra.it/?id=1622&start=04.38&end=04.53&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 fini	VMP00SM	finir-v
@@ -30246,9 +28643,7 @@ des	SP+D	de+les-i
 soins	NCMP000	soin-n
 .	Fp	.-x
 </s>
-
 <s id="1622:30" video="https://media.dipintra.it/?id=1622&start=04.53&end=05.11&collection=eptic3">
-
 Je	PP1CSN0	je-p
 termine	VMIP1S0	terminer-v
 en	SP	en-i
@@ -30314,9 +28709,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1622:31" video="https://media.dipintra.it/?id=1622&start=05.11&end=05.20&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -30351,9 +28744,7 @@ mes	DP1CPS	mon-x
 collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
-
 <s id="1622:32" video="https://media.dipintra.it/?id=1622&start=05.20&end=05.25&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pourrais	VMIC1S0	pouvoir-v
 dire	VMN0000	dire-v
@@ -30380,15 +28771,12 @@ cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
-
 <s id="1622:33" video="https://media.dipintra.it/?id=1622&start=05.25&end=05.26&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -30398,7 +28786,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="273" duration="medium" durations="126.0" speed="medium" speedwm="130.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1623:1" video="https://media.dipintra.it/?id=1623&start=00.06&end=00.15&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Commissaire	NPCS000	Commissaire-n
@@ -30436,9 +28823,7 @@ voter	VMN0000	voter-v
 demain	RG	demain-r
 .	Fp	.-x
 </s>
-
 <s id="1623:2" video="https://media.dipintra.it/?id=1623&start=00.15&end=00.23&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 ,	Fc	,-x
@@ -30470,9 +28855,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1623:3" video="https://media.dipintra.it/?id=1623&start=00.23&end=00.28&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -30501,9 +28884,7 @@ vie	NCFS000	vie-n
 courant	AQ0MS00	courant-j
 .	Fp	.-x
 </s>
-
 <s id="1623:4" video="https://media.dipintra.it/?id=1623&start=00.29&end=00.34&collection=eptic3">
-
 Les	DA0CP0	le-x
 traitements	NCMP000	traitement-n
 transfrontaliers	AQ0MP00	transfrontalier-j
@@ -30523,9 +28904,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1623:5" video="https://media.dipintra.it/?id=1623&start=00.34&end=00.40&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 faut	VMIP3S0	faillir-v
@@ -30553,9 +28932,7 @@ dernières	AQ0FP00	dernier-j
 années	NCFP000	année-n
 .	Fp	.-x
 </s>
-
 <s id="1623:6" video="https://media.dipintra.it/?id=1623&start=00.41&end=00.45&collection=eptic3">
-
 Ce	DD0MS0	ce-x
 dernier	AQ0MS00	dernier-j
 s	NCFP000	s-n
@@ -30576,9 +28953,7 @@ plus	RG	plus-r
 lucratif	AQ0MS00	lucratif-j
 .	Fp	.-x
 </s>
-
 <s id="1623:7" video="https://media.dipintra.it/?id=1623&start=00.46&end=00.50&collection=eptic3">
-
 La	DA0FS0	le-x
 santé	NCFS000	santé-n
 devient	VMIP3S0	devenir-v
@@ -30588,9 +28963,7 @@ marché	NCMS000	marché-n
 concurrentiel	AQ0MS00	concurrentiel-j
 .	Fp	.-x
 </s>
-
 <s id="1623:8" video="https://media.dipintra.it/?id=1623&start=00.51&end=00.57&collection=eptic3">
-
 Un	DI0MS0	un-x
 Allemand	NPMS000	Allemand-n
 va	VMIP3S0	aller-v
@@ -30612,9 +28985,7 @@ le	DA0MS0	le-x
 Président	NPMS000	Président-n
 .	Fp	.-x
 </s>
-
 <s id="1623:9" video="https://media.dipintra.it/?id=1623&start=00.57&end=01.01&collection=eptic3">
-
 Un	DI0MS0	un-x
 Anglais	NPMN000	Anglais-n
 -	Fg	--x
@@ -30639,18 +29010,14 @@ plus	RG	plus-r
 vite	RG	vite-r
 .	Fp	.-x
 </s>
-
 <s id="1623:10" video="https://media.dipintra.it/?id=1623&start=01.01&end=01.03&collection=eptic3">
-
 Les	DA0CP0	le-x
 exemples	NCMP000	exemple-n
 sont	VMIP3P0	être-v
 nombreux	AQ0MN00	nombreux-j
 .	Fp	.-x
 </s>
-
 <s id="1623:11" video="https://media.dipintra.it/?id=1623&start=01.03&end=01.11&collection=eptic3">
-
 Mais	CC	mais-c
 nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
@@ -30682,9 +29049,7 @@ tous	DI0MP0	tout-x
 égaux	NCMP000	égal-n
 .	Fp	.-x
 </s>
-
 <s id="1623:12" video="https://media.dipintra.it/?id=1623&start=01.11&end=01.21&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -30730,9 +29095,7 @@ non	RG	non-r
 hospitaliers	AQ0MP00	hospitalier-j
 .	Fp	.-x
 </s>
-
 <s id="1623:13" video="https://media.dipintra.it/?id=1623&start=01.21&end=01.45&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 ici	RG	ici-r
@@ -30817,9 +29180,7 @@ les	DA0CP0	le-x
 membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
-
 <s id="1623:14" video="https://media.dipintra.it/?id=1623&start=01.45&end=01.49&collection=eptic3">
-
 Mais	CC	mais-c
 ,	Fc	,-x
 monsieur	NCMS000	monsieur-n
@@ -30841,9 +29202,7 @@ pas	RN	pas-r
 terminé	VMP00SM	terminer-v
 .	Fp	.-x
 </s>
-
 <s id="1623:15" video="https://media.dipintra.it/?id=1623&start=01.49&end=02.11&collection=eptic3">
-
 Il	PP3MSN0	il-p
 nous	PP1CP00	nous-p
 faut	VMIP3S0	faillir-v
@@ -30908,7 +29267,6 @@ citoyens	NCMP000	citoyen-n
 européens	AQ0MP00	européen-j
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -30918,7 +29276,6 @@ européens	AQ0MP00	européen-j
 <st language="fr" length="short" lengthw="246" duration="short" durations="113.0" speed="medium" speedwm="130.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1624:1" video="https://media.dipintra.it/?id=1624&start=00.07&end=00.19&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 ehm	FPAUSE	ehm
 le	DA0MS0	le-x
@@ -30960,9 +29317,7 @@ ont	VAIP3P0	avoir-v
 rappelé	VMP00SM	rappeler-v
 .	Fp	.-x
 </s>
-
 <s id="1624:2" video="https://media.dipintra.it/?id=1624&start=00.19&end=00.32&collection=eptic3">
-
 Jusqu	NPMS000	Jusqu-n
 <g/>
 '	Fe	'-x
@@ -31016,9 +29371,7 @@ monsieur	NCMS000	monsieur-n
 Dalli	NP00000	Dalli-n
 .	Fp	.-x
 </s>
-
 <s id="1624:3" video="https://media.dipintra.it/?id=1624&start=00.32&end=00.38&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 dispositions	NCFP000	disposition-n
 améliorent	VMIP3P0	améliorer-v
@@ -31043,9 +29396,7 @@ de	SP	de-i
 remboursement	NCMS000	remboursement-n
 .	Fp	.-x
 </s>
-
 <s id="1624:4" video="https://media.dipintra.it/?id=1624&start=00.39&end=00.50&collection=eptic3">
-
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
 également	RG	également-r
@@ -31086,9 +29437,7 @@ les	DA0CP0	le-x
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1624:5" video="https://media.dipintra.it/?id=1624&start=00.50&end=01.03&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 s	VMII1S0	s-v
@@ -31151,9 +29500,7 @@ sécurité	NCFS000	sécurité-n
 sociale	AQ0FS00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1624:6" video="https://media.dipintra.it/?id=1624&start=01.04&end=01.13&collection=eptic3">
-
 Cependant	RG	cependant-r
 ,	Fc	,-x
 j	NCFS000	j-n
@@ -31192,9 +29539,7 @@ des	SP+D	de+les-i
 membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
-
 <s id="1624:7" video="https://media.dipintra.it/?id=1624&start=01.13&end=01.16&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 abord	NCMS000	abord-n
@@ -31206,9 +29551,7 @@ délai	NCMS000	délai-n
 raisonnable	AQ0CS00	raisonnable-j
 ?	Fit	?-x
 </s>
-
 <s id="1624:8" video="https://media.dipintra.it/?id=1624&start=01.16&end=01.22&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 être	VMN0000	être-v
@@ -31233,9 +29576,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1624:9" video="https://media.dipintra.it/?id=1624&start=01.23&end=01.34&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 également	RG	également-r
@@ -31279,9 +29620,7 @@ trop	RG	trop-r
 importants	AQ0MP00	important-j
 .	Fp	.-x
 </s>
-
 <s id="1624:10" video="https://media.dipintra.it/?id=1624&start=01.34&end=01.40&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 serait	VMIC3S0	être-v
@@ -31298,9 +29637,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1624:11" video="https://media.dipintra.it/?id=1624&start=01.40&end=01.53&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 les	DA0CP0	le-x
@@ -31348,9 +29685,7 @@ autre	AQ0CS00	autre-j
 chose	NCFS000	chose-n
 .	Fp	.-x
 </s>
-
 <s id="1624:12" video="https://media.dipintra.it/?id=1624&start=01.54&end=01.59&collection=eptic3">
-
 Voilà	I	voilà-x
 ,	Fc	,-x
 ehm	FPAUSE	ehm
@@ -31369,7 +29704,6 @@ ehm	FPAUSE	ehm
 défendre	VMN0000	défendre-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -31379,7 +29713,6 @@ défendre	VMN0000	défendre-v
 <st language="fr" length="short" lengthw="204" duration="short" durations="78.0" speed="medium" speedwm="156.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1625:1" video="https://media.dipintra.it/?id=1625&start=00.08&end=00.20&collection=eptic3">
-
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -31428,9 +29761,7 @@ John	NP00000	John-n
 Bowis	NP00000	Bowis-n
 .	Fp	.-x
 </s>
-
 <s id="1625:2" video="https://media.dipintra.it/?id=1625&start=00.20&end=00.24&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -31456,9 +29787,7 @@ féci-	DYSF	féci-
 félicitations	NCFP000	félicitation-n
 !	Fat	!-x
 </s>
-
 <s id="1625:3" video="https://media.dipintra.it/?id=1625&start=00.24&end=00.40&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -31524,9 +29853,7 @@ certains	DI0MP0	certain-x
 cas	NCMN000	cas-n
 .	Fp	.-x
 </s>
-
 <s id="1625:4" video="https://media.dipintra.it/?id=1625&start=00.40&end=01.00&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
 donc	CC	donc-c
@@ -31607,9 +29934,7 @@ bonne	AQ0FS00	bon-j
 information	NCFS000	information-n
 .	Fp	.-x
 </s>
-
 <s id="1625:5" video="https://media.dipintra.it/?id=1625&start=01.01&end=01.17&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 important	AQ0MS00	important-j
@@ -31674,9 +29999,7 @@ maladies	NCFP000	maladie-n
 rares	AQ0CP00	rare-j
 .	Fp	.-x
 </s>
-
 <s id="1625:6" video="https://media.dipintra.it/?id=1625&start=01.17&end=01.26&collection=eptic3">
-
 Je	PP1CSN0	je-p
 conclus	VMIS1S0	conclure-v
 ,	Fc	,-x
@@ -31729,7 +30052,6 @@ chère	AQ0FS00	cher-j
 tous	PI0MP00	tout-p
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -31739,7 +30061,6 @@ tous	PI0MP00	tout-p
 <st language="fr" length="short" lengthw="274" duration="short" durations="117.0" speed="medium" speedwm="140.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1626:1" video="https://media.dipintra.it/?id=1626&start=00.08&end=00.19&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -31778,9 +30099,7 @@ cette	DD0FS0	ce-x
 directive	NCFS000	directive-n
 .	Fp	.-x
 </s>
-
 <s id="1626:2" video="https://media.dipintra.it/?id=1626&start=00.20&end=00.42&collection=eptic3">
-
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
 encore	RG	encore-r
@@ -31868,9 +30187,7 @@ aboutir	VMN0000	aboutir-v
 demain	RG	demain-r
 .	Fp	.-x
 </s>
-
 <s id="1626:3" video="https://media.dipintra.it/?id=1626&start=00.42&end=00.50&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 ehm	FPAUSE	ehm
@@ -31903,9 +30220,7 @@ bien	RG	bien-r
 non	RG	non-r
 !	Fat	!-x
 </s>
-
 <s id="1626:4" video="https://media.dipintra.it/?id=1626&start=00.50&end=00.51&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 veillons	VMIP1P0	veiller-v
 à	SP	à-i
@@ -31913,9 +30228,7 @@ cela	PD0CS00	cela-p
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1626:5" video="https://media.dipintra.it/?id=1626&start=00.51&end=01.08&collection=eptic3">
-
 Et	CC	et-c
 la	DA0FS0	le-x
 directive	NCFS000	directive-n
@@ -31969,9 +30282,7 @@ tourisme	NCMS000	tourisme-n
 médical	AQ0MS00	médical-j
 .	Fp	.-x
 </s>
-
 <s id="1626:6" video="https://media.dipintra.it/?id=1626&start=01.09&end=01.17&collection=eptic3">
-
 À	SP	à-i
 ceux	PD0MP00	celui-p
 qui	PR00000	qui-p
@@ -32016,9 +30327,7 @@ loin	RG	loin-r
 !	Fat	!-x
 "	Fe	"-x
 </s>
-
 <s id="1626:7" video="https://media.dipintra.it/?id=1626&start=01.17&end=01.27&collection=eptic3">
-
 Mais	CC	mais-c
 aujourd	AQ0MS0	aujourd-j
 '	Fe	'-x
@@ -32063,9 +30372,7 @@ avec	SP	avec-i
 moi	PP1CS00	moi-p
 .	Fp	.-x
 </s>
-
 <s id="1626:8" video="https://media.dipintra.it/?id=1626&start=01.27&end=01.34&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 allons	VMIP1P0	aller-v
 tous	PI0MP00	tout-p
@@ -32093,9 +30400,7 @@ meilleures	AQ0FP00	meilleur-j
 conditions	NCFP000	condition-n
 .	Fp	.-x
 </s>
-
 <s id="1626:9" video="https://media.dipintra.it/?id=1626&start=01.34&end=01.46&collection=eptic3">
-
 D	NPMS000	D-n
 <g/>
 '	Fe	'-x
@@ -32137,9 +30442,7 @@ des	SP+D	de+les-i
 patients	NCMP000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1626:10" video="https://media.dipintra.it/?id=1626&start=01.46&end=01.50&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -32159,9 +30462,7 @@ essentiel	NCMS000	essentiel-n
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1626:11" video="https://media.dipintra.it/?id=1626&start=01.51&end=02.05&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -32208,15 +30509,12 @@ de	SP	de-i
 qualité	NCFS000	qualité-n
 .	Fp	.-x
 </s>
-
 <s id="1626:12" video="https://media.dipintra.it/?id=1626&start=02.05&end=02.06&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -32226,7 +30524,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="287" duration="medium" durations="124.0" speed="medium" speedwm="138.9" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1627:1" video="https://media.dipintra.it/?id=1627&start=00.10&end=00.22&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -32279,9 +30576,7 @@ Commissaire	NPCS000	Commissaire-n
 Dalli	NP00000	Dalli-n
 .	Fp	.-x
 </s>
-
 <s id="1627:2" video="https://media.dipintra.it/?id=1627&start=00.22&end=00.34&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 forme	NCFS000	forme-n
 de	SP	de-i
@@ -32327,9 +30622,7 @@ maladies	NCFP000	maladie-n
 neurodégénératives	AQ0FP0	neurodégénératives-j
 .	Fp	.-x
 </s>
-
 <s id="1627:3" video="https://media.dipintra.it/?id=1627&start=00.34&end=00.52&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 on	PP3CSN0	on-p
@@ -32386,9 +30679,7 @@ dès	SP	dès-i
 2014	Z	2014-m
 .	Fp	.-x
 </s>
-
 <s id="1627:4" video="https://media.dipintra.it/?id=1627&start=00.52&end=00.56&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -32404,9 +30695,7 @@ notre	DP1CSP	notre-x
 résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
-
 <s id="1627:5" video="https://media.dipintra.it/?id=1627&start=00.56&end=01.05&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 également	RG	également-r
@@ -32440,9 +30729,7 @@ leur	DP3CSP	leur-x
 famille	NCFS000	famille-n
 ;	Fx	;-x
 </s>
-
 <s id="1627:6" video="https://media.dipintra.it/?id=1627&start=01.05&end=01.08&collection=eptic3">
-
 ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
 les	DA0CP0	le-x
@@ -32455,9 +30742,7 @@ très	RG	très-r
 importants	AQ0MP00	important-j
 .	Fp	.-x
 </s>
-
 <s id="1627:7" video="https://media.dipintra.it/?id=1627&start=01.08&end=01.32&collection=eptic3">
-
 Et	CC	et-c
 à	SP	à-i
 ce	DD0MS0	ce-x
@@ -32549,9 +30834,7 @@ du	SP+D	de+le-i
 patient	NCMS000	patient-n
 .	Fp	.-x
 </s>
-
 <s id="1627:8" video="https://media.dipintra.it/?id=1627&start=01.33&end=01.37&collection=eptic3">
-
 Et	CC	et-c
 aider	VMN0000	aider-v
 ces	DD0CP0	ce-x
@@ -32571,9 +30854,7 @@ de	SP	de-i
 diagnostic	NCMS000	diagnostic-n
 .	Fp	.-x
 </s>
-
 <s id="1627:9" video="https://media.dipintra.it/?id=1627&start=01.38&end=01.50&collection=eptic3">
-
 Le	DA0MS0	le-x
 monde	NCMS000	monde-n
 scientifique	AQ0CS00	scientifique-j
@@ -32628,9 +30909,7 @@ de	SP	de-i
 démence	NCFS000	démence-n
 .	Fp	.-x
 </s>
-
 <s id="1627:10" video="https://media.dipintra.it/?id=1627&start=01.50&end=01.59&collection=eptic3">
-
 Au	SP+DA	à+le-i
 niveau	NCMS000	niveau-n
 européen	AQ0MS00	européen-j
@@ -32667,9 +30946,7 @@ des	SP+D	de+les-i
 chercheurs	NCMP000	chercheur-n
 .	Fp	.-x
 </s>
-
 <s id="1627:11" video="https://media.dipintra.it/?id=1627&start=01.59&end=02.06&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 plus	RG	plus-r
@@ -32703,9 +30980,7 @@ traitement	NCMS000	traitement-n
 curatif	AQ0MS00	curatif-j
 .	Fp	.-x
 </s>
-
 <s id="1627:12" video="https://media.dipintra.it/?id=1627&start=02.06&end=02.14&collection=eptic3">
-
 La	DA0FS0	le-x
 révision	NCFS000	révision-n
 prochaine	AQ0FS00	prochain-j
@@ -32745,7 +31020,6 @@ aux	SP+DA	à+les-i
 familles	NCFP000	famille-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -32755,7 +31029,6 @@ familles	NCFP000	famille-n
 <st language="fr" length="short" lengthw="238" duration="short" durations="98.0" speed="medium" speedwm="145.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1628:1" video="https://media.dipintra.it/?id=1628&start=00.07&end=00.12&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -32780,9 +31053,7 @@ tant	RG	tant-r
 dire	VMN0000	dire-v
 .	Fp	.-x
 </s>
-
 <s id="1628:2" video="https://media.dipintra.it/?id=1628&start=00.12&end=00.19&collection=eptic3">
-
 Permettez-moi	VMM02P0	permettre-v
 de	SP	de-i
 centrer	VMN0000	centrer-v
@@ -32809,9 +31080,7 @@ patients	NCMP000	patient-n
 graves	AQ0CP00	grave-j
 .	Fp	.-x
 </s>
-
 <s id="1628:3" video="https://media.dipintra.it/?id=1628&start=00.19&end=00.24&collection=eptic3">
-
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
 ,	Fc	,-x
@@ -32833,9 +31102,7 @@ leur	DP3CSP	leur-x
 environnement	NCMS000	environnement-n
 .	Fp	.-x
 </s>
-
 <s id="1628:4" video="https://media.dipintra.it/?id=1628&start=00.24&end=00.29&collection=eptic3">
-
 Un	DI0MS0	un-x
 bouleversement	NCMS000	bouleversement-n
 de	SP	de-i
@@ -32859,9 +31126,7 @@ plus	RG	plus-r
 difficiles	AQ0CP00	difficile-j
 .	Fp	.-x
 </s>
-
 <s id="1628:5" video="https://media.dipintra.it/?id=1628&start=00.29&end=00.44&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 une	DI0FS0	un-x
@@ -32918,9 +31183,7 @@ familles	NCFP000	famille-n
 seules	AQ0FP00	seul-j
 .	Fp	.-x
 </s>
-
 <s id="1628:6" video="https://media.dipintra.it/?id=1628&start=00.45&end=00.46&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -32930,9 +31193,7 @@ premier	AQ0MS00	premier-j
 point	NCMS000	point-n
 .	Fp	.-x
 </s>
-
 <s id="1628:7" video="https://media.dipintra.it/?id=1628&start=00.46&end=00.48&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 le	DA0MS0	le-x
@@ -32943,9 +31204,7 @@ la	DA0FS0	le-x
 recherche	NCFS000	recherche-n
 .	Fp	.-x
 </s>
-
 <s id="1628:8" video="https://media.dipintra.it/?id=1628&start=00.48&end=00.49&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 pourquoi	PT00000	pourquoi-p
@@ -32953,9 +31212,7 @@ la	DA0FS0	le-x
 recherche	NCFS000	recherche-n
 ?	Fit	?-x
 </s>
-
 <s id="1628:9" video="https://media.dipintra.it/?id=1628&start=00.50&end=00.58&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 que	PR00000	que-p
 ,	Fc	,-x
@@ -32999,9 +31256,7 @@ recherche	NCFS000	recherche-n
 efficace	AQ0CS00	efficace-j
 .	Fp	.-x
 </s>
-
 <s id="1628:10" video="https://media.dipintra.it/?id=1628&start=00.59&end=01.02&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -33023,9 +31278,7 @@ la	DA0FS0	le-x
 recherche	NCFS000	recherche-n
 .	Fp	.-x
 </s>
-
 <s id="1628:11" video="https://media.dipintra.it/?id=1628&start=01.02&end=01.04&collection=eptic3">
-
 Peut-être	RG	peut-être-r
 ,	Fc	,-x
 sans	SP	sans-i
@@ -33036,9 +31289,7 @@ sans	SP	sans-i
 doute	NCMS000	doute-n
 !	Fat	!-x
 </s>
-
 <s id="1628:12" video="https://media.dipintra.it/?id=1628&start=01.04&end=01.09&collection=eptic3">
-
 Mais	CC	mais-c
 avant	SP	avant-i
 tout	PI0MS00	tout-p
@@ -33062,9 +31313,7 @@ ces	DD0CP0	ce-x
 moyens	NCMP000	moyen-n
 .	Fp	.-x
 </s>
-
 <s id="1628:13" video="https://media.dipintra.it/?id=1628&start=01.09&end=01.12&collection=eptic3">
-
 Et	CC	et-c
 jusque	SP	jusque-i
 là	RG	là-r
@@ -33079,9 +31328,7 @@ fragmentée	VMP00SF	fragmenter-v
 saupoudrée	VMP00SF	saupoudrer-v
 .	Fp	.-x
 </s>
-
 <s id="1628:14" video="https://media.dipintra.it/?id=1628&start=01.13&end=01.14&collection=eptic3">
-
 On	PP3CSN0	on-p
 n	NCFS000	n-n
 <g/>
@@ -33093,9 +31340,7 @@ de	SP	de-i
 priorités	NCFP000	priorité-n
 .	Fp	.-x
 </s>
-
 <s id="1628:15" video="https://media.dipintra.it/?id=1628&start=01.14&end=01.17&collection=eptic3">
-
 Les	DA0CP0	le-x
 gens	NCMP000	gens-n
 ne	RN	ne-r
@@ -33108,9 +31353,7 @@ entre	SP	entre-i
 eux	PP3MP00	eux-p
 .	Fp	.-x
 </s>
-
 <s id="1628:16" video="https://media.dipintra.it/?id=1628&start=01.17&end=01.24&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 que	CS	que-c
@@ -33142,9 +31385,7 @@ le	DA0MS0	le-x
 neurologue	NCCS000	neurologue-n
 .	Fp	.-x
 </s>
-
 <s id="1628:17" video="https://media.dipintra.it/?id=1628&start=01.24&end=01.26&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 faire	VMN0000	faire-v
@@ -33155,9 +31396,7 @@ gens	NCMP000	gens-n
 ensemble	NCMS000	ensemble-n
 .	Fp	.-x
 </s>
-
 <s id="1628:18" video="https://media.dipintra.it/?id=1628&start=01.26&end=01.34&collection=eptic3">
-
 Et	CC	et-c
 j	RG	j-r
 <g/>
@@ -33186,9 +31425,7 @@ présidence	NCFS000	présidence-n
 française	AQ0FS00	français-j
 .	Fp	.-x
 </s>
-
 <s id="1628:19" video="https://media.dipintra.it/?id=1628&start=01.34&end=01.40&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -33213,9 +31450,7 @@ choses	NCFP000	chose-n
 avancent	VMIP3P0	avancer-v
 .	Fp	.-x
 </s>
-
 <s id="1628:20" video="https://media.dipintra.it/?id=1628&start=01.41&end=01.45&collection=eptic3">
-
 Qu	NP00000	Qu-n
 <g/>
 '	Fe	'-x
@@ -33236,7 +31471,6 @@ plus	RN	plus-r
 seuls	AQ0MP00	seul-j
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -33246,7 +31480,6 @@ seuls	AQ0MP00	seul-j
 <st language="fr" length="short" lengthw="233" duration="short" durations="103.0" speed="medium" speedwm="135.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1629:1" video="https://media.dipintra.it/?id=1629&start=00.00&end=00.17&collection=eptic3">
-
 Oui	RG	oui-r
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -33326,9 +31559,7 @@ communauté	NCFS000	communauté-n
 internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1629:2" video="https://media.dipintra.it/?id=1629&start=00.17&end=00.27&collection=eptic3">
-
 Sans	SP	sans-i
 décision	NCFS000	décision-n
 majeure	AQ0FS00	majeur-j
@@ -33364,9 +31595,7 @@ pas	RN	pas-r
 déblayés	VMP00PM	déblayer-v
 .	Fp	.-x
 </s>
-
 <s id="1629:3" video="https://media.dipintra.it/?id=1629&start=00.28&end=00.32&collection=eptic3">
-
 Je	PP1CSN0	je-p
 tiens	VMIP1S0	tenir-v
 à	SP	à-i
@@ -33384,9 +31613,7 @@ organisations	NCFP000	organisation-n
 humanitaires	AQ0CP00	humanitaire-j
 .	Fp	.-x
 </s>
-
 <s id="1629:4" video="https://media.dipintra.it/?id=1629&start=00.33&end=00.36&collection=eptic3">
-
 Des	SP+D	de+les-i
 progrès	NCMN000	progrès-n
 sont	VMIP3P0	être-v
@@ -33401,9 +31628,7 @@ sont	VSIP3P0	être-v
 sauvées	VMP00PF	sauver-v
 .	Fp	.-x
 </s>
-
 <s id="1629:5" video="https://media.dipintra.it/?id=1629&start=00.36&end=00.41&collection=eptic3">
-
 Cependant	RG	cependant-r
 ,	Fc	,-x
 les	DA0CP0	le-x
@@ -33425,9 +31650,7 @@ l	NCMS000	l-n
 haïtien	AQ0MS00	haïtien-j
 .	Fp	.-x
 </s>
-
 <s id="1629:6" video="https://media.dipintra.it/?id=1629&start=00.42&end=00.55&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
 l	AQ0MS0	l-j
@@ -33468,9 +31691,7 @@ la	DA0FS0	le-x
 reconstruction	NCFS000	reconstruction-n
 .	Fp	.-x
 </s>
-
 <s id="1629:7" video="https://media.dipintra.it/?id=1629&start=00.55&end=01.11&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 doit	VMIP3S0	devoir-v
 impérativement	RG	impérativement-r
@@ -33511,9 +31732,7 @@ de	SP	de-i
 reconstruction	NCFS000	reconstruction-n
 .	Fp	.-x
 </s>
-
 <s id="1629:8" video="https://media.dipintra.it/?id=1629&start=01.11&end=01.27&collection=eptic3">
-
 De	SP	de-i
 plus	RG	plus-r
 ,	Fc	,-x
@@ -33569,9 +31788,7 @@ son	DP3CSS	son-x
 fonctionnement	NCMS000	fonctionnement-n
 .	Fp	.-x
 </s>
-
 <s id="1629:9" video="https://media.dipintra.it/?id=1629&start=01.27&end=01.34&collection=eptic3">
-
 Suite	NCFS000	suite-n
 au	SP+DA	à+le-i
 séisme	NCMS000	séisme-n
@@ -33594,9 +31811,7 @@ du	SP+D	de+le-i
 passé	NCMS000	passé-n
 .	Fp	.-x
 </s>
-
 <s id="1629:10" video="https://media.dipintra.it/?id=1629&start=01.34&end=01.40&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 temps	NCMN000	temps-n
@@ -33621,14 +31836,11 @@ en	SP	en-i
 Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
-
 <s id="1629:11" video="https://media.dipintra.it/?id=1629&start=01.40&end=01.41&collection=eptic3">
-
 Merci	NCMS000	merci-n
 beaucoup	RG	beaucoup-r
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -33638,7 +31850,6 @@ beaucoup	RG	beaucoup-r
 <st language="fr" length="short" lengthw="194" duration="short" durations="91.0" speed="slow" speedwm="127.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1630:1" video="https://media.dipintra.it/?id=1630&start=00.00&end=00.05&collection=eptic3">
-
 Présidente	NCFS000	président-n
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -33659,9 +31870,7 @@ limiter	VMN0000	limiter-v
 remarques	NCFP000	remarque-n
 .	Fp	.-x
 </s>
-
 <s id="1630:2" video="https://media.dipintra.it/?id=1630&start=00.05&end=00.10&collection=eptic3">
-
 Premièrement	RG	premièrement-r
 ,	Fc	,-x
 1	Z	1-m
@@ -33687,9 +31896,7 @@ de	SP	de-i
 ruines	NCFP000	ruine-n
 .	Fp	.-x
 </s>
-
 <s id="1630:3" video="https://media.dipintra.it/?id=1630&start=00.11&end=00.18&collection=eptic3">
-
 On	PP3CSN0	on-p
 savait	VMII3S0	savoir-v
 que	CS	que-c
@@ -33722,9 +31929,7 @@ difficultés	NCFP000	difficulté-n
 considérables	AQ0CP00	considérable-j
 .	Fp	.-x
 </s>
-
 <s id="1630:4" video="https://media.dipintra.it/?id=1630&start=00.18&end=00.28&collection=eptic3">
-
 L	NPMS000	L-n
 <g/>
 '	Fe	'-x
@@ -33764,9 +31969,7 @@ catastrophe	NCFS000	catastrophe-n
 naturelle	AQ0FS00	naturel-j
 .	Fp	.-x
 </s>
-
 <s id="1630:5" video="https://media.dipintra.it/?id=1630&start=00.29&end=00.37&collection=eptic3">
-
 Ajoutons	VMM01P0	ajouter-v
 les	DA0CP0	le-x
 difficultés	NCFP000	difficulté-n
@@ -33794,9 +31997,7 @@ le	DA0MS0	le-x
 terrain	NCMS000	terrain-n
 .	Fp	.-x
 </s>
-
 <s id="1630:6" video="https://media.dipintra.it/?id=1630&start=00.39&end=00.41&collection=eptic3">
-
 Qui	PT0CN00	qui-p
 est	VMIP3S0	être-v
 responsable	NCCS000	responsable-n
@@ -33808,9 +32009,7 @@ cette	DD0FS0	ce-x
 situation	NCFS000	situation-n
 ?	Fit	?-x
 </s>
-
 <s id="1630:7" video="https://media.dipintra.it/?id=1630&start=00.42&end=00.49&collection=eptic3">
-
 Même	RG	même-r
 s	AQ0FP0	s-j
 <g/>
@@ -33841,9 +32040,7 @@ haïtien	AQ0MS00	haïtien-j
 lui-même	PP3MS00	lui-même-p
 .	Fp	.-x
 </s>
-
 <s id="1630:8" video="https://media.dipintra.it/?id=1630&start=00.49&end=00.55&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -33863,9 +32060,7 @@ ne	RN	ne-r
 veut	VMIP3S0	vouloir-v
 .	Fp	.-x
 </s>
-
 <s id="1630:9" video="https://media.dipintra.it/?id=1630&start=00.55&end=01.00&collection=eptic3">
-
 Deuxième	AO0CS00	2-j
 remarque	NCFS000	remarque-n
 :	Fd	:-x
@@ -33894,9 +32089,7 @@ l	AQ0MS0	l-j
 être	NCMS000	être-n
 .	Fp	.-x
 </s>
-
 <s id="1630:10" video="https://media.dipintra.it/?id=1630&start=01.01&end=01.04&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 ailleurs	RG	ailleurs-r
@@ -33918,9 +32111,7 @@ ce	DD0MS0	ce-x
 domaine	NCMS000	domaine-n
 .	Fp	.-x
 </s>
-
 <s id="1630:11" video="https://media.dipintra.it/?id=1630&start=01.05&end=01.09&collection=eptic3">
-
 Non	RG	non-r
 seulement	RG	seulement-r
 l	AQ0MS0	l-j
@@ -33941,9 +32132,7 @@ a	VAIP3S0	avoir-v
 réalisées	VMP00PF	réaliser-v
 .	Fp	.-x
 </s>
-
 <s id="1630:12" video="https://media.dipintra.it/?id=1630&start=01.10&end=01.26&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 que	PR00000	que-p
 nous	PP1CP00	nous-p
@@ -33997,9 +32186,7 @@ de	SP	de-i
 dépendance	NCFS000	dépendance-n
 .	Fp	.-x
 </s>
-
 <s id="1630:13" video="https://media.dipintra.it/?id=1630&start=01.26&end=01.29&collection=eptic3">
-
 Je	PP1CSN0	je-p
 concède	VMIP3S0	concéder-v
 que	CS	que-c
@@ -34014,7 +32201,6 @@ quelques	DI0CP0	quelque-x
 mois	NCMP000	moi-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -34024,7 +32210,6 @@ mois	NCMP000	moi-n
 <st language="fr" length="medium" lengthw="406" duration="medium" durations="191.0" speed="slow" speedwm="127.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1631:1" video="https://media.dipintra.it/?id=1631&start=00.00&end=00.04&collection=eptic3">
-
 Présidente	NCFS000	président-n
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -34049,9 +32234,7 @@ terrible	AQ0CS00	terrible-j
 catastrophe	NCFS000	catastrophe-n
 .	Fp	.-x
 </s>
-
 <s id="1631:2" video="https://media.dipintra.it/?id=1631&start=00.04&end=00.06&collection=eptic3">
-
 Partout	RG	partout-r
 ,	Fc	,-x
 la	DA0FS0	le-x
@@ -34061,9 +32244,7 @@ la	DA0FS0	le-x
 mort	NCFS000	mort-n
 .	Fp	.-x
 </s>
-
 <s id="1631:3" video="https://media.dipintra.it/?id=1631&start=00.06&end=00.13&collection=eptic3">
-
 Qu	NP00000	Qu-n
 <g/>
 '	Fe	'-x
@@ -34093,9 +32274,7 @@ des	SP+D	de+les-i
 sinistrés	NCMP000	sinistré-n
 .	Fp	.-x
 </s>
-
 <s id="1631:4" video="https://media.dipintra.it/?id=1631&start=00.13&end=00.19&collection=eptic3">
-
 Solidarité	NCFS000	solidarité-n
 populaire	AQ0CS00	populaire-j
 car	CC	car-c
@@ -34124,9 +32303,7 @@ le	DA0MS0	le-x
 plus	NCMN000	plus-n
 .	Fp	.-x
 </s>
-
 <s id="1631:5" video="https://media.dipintra.it/?id=1631&start=00.19&end=00.28&collection=eptic3">
-
 Je	PP1CSN0	je-p
 veux	VMIP1S0	vouloir-v
 ici	RG	ici-r
@@ -34157,9 +32334,7 @@ résultats	NCMP000	résultat-n
 éloquents	AQ0MP00	éloquent-j
 .	Fp	.-x
 </s>
-
 <s id="1631:6" video="https://media.dipintra.it/?id=1631&start=00.29&end=00.39&collection=eptic3">
-
 À	SP	à-i
 ce	DD0MS0	ce-x
 jour	NCMS000	jour-n
@@ -34196,9 +32371,7 @@ nombreux	AQ0MN00	nombreux-j
 Haïtiens	NPMP000	Haïtiens-n
 .	Fp	.-x
 </s>
-
 <s id="1631:7" video="https://media.dipintra.it/?id=1631&start=00.40&end=00.44&collection=eptic3">
-
 Cuba	VMIS3S0	cuber-v
 ,	Fc	,-x
 dont	PR00000	dont-p
@@ -34216,9 +32389,7 @@ nombreux	AQ0MN00	nombreux-j
 experts	NCCP000	expert-n
 .	Fp	.-x
 </s>
-
 <s id="1631:8" video="https://media.dipintra.it/?id=1631&start=00.45&end=00.51&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -34249,9 +32420,7 @@ et	CC	et-c
 place	NCFS000	place-n
 .	Fp	.-x
 </s>
-
 <s id="1631:9" video="https://media.dipintra.it/?id=1631&start=00.51&end=01.11&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -34328,9 +32497,7 @@ son	DP3CSS	son-x
 économie	NCFS000	économie-n
 .	Fp	.-x
 </s>
-
 <s id="1631:10" video="https://media.dipintra.it/?id=1631&start=01.12&end=01.21&collection=eptic3">
-
 Au	SP+DA	à+le-i
 regard	NCMS000	regard-n
 de	SP	de-i
@@ -34363,9 +32530,7 @@ de	SP	de-i
 leçons	NCFP000	leçon-n
 .	Fp	.-x
 </s>
-
 <s id="1631:11" video="https://media.dipintra.it/?id=1631&start=01.21&end=01.31&collection=eptic3">
-
 Rappelons	VMM01P0	rappeler-v
 quand	CS	quand-c
 même	RG	même-r
@@ -34406,9 +32571,7 @@ d	AQ0MS0	d-j
 Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
-
 <s id="1631:12" video="https://media.dipintra.it/?id=1631&start=01.31&end=01.36&collection=eptic3">
-
 Pour	SP	pour-i
 l	NCMS000	l-n
 <g/>
@@ -34434,9 +32597,7 @@ l	NCMS000	l-n
 ONU	NP00000	ONU-n
 .	Fp	.-x
 </s>
-
 <s id="1631:13" video="https://media.dipintra.it/?id=1631&start=01.36&end=01.44&collection=eptic3">
-
 À	SP	à-i
 Haïti	NPMS000	Haïti-n
 ,	Fc	,-x
@@ -34460,9 +32621,7 @@ les	DA0CP0	le-x
 populations	NCFP000	population-n
 .	Fp	.-x
 </s>
-
 <s id="1631:14" video="https://media.dipintra.it/?id=1631&start=01.44&end=02.03&collection=eptic3">
-
 Pire	NCMS000	pire-n
 ,	Fc	,-x
 elle	PP3FS00	elle-p
@@ -34518,9 +32677,7 @@ du	SP+D	de+le-i
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1631:15" video="https://media.dipintra.it/?id=1631&start=02.03&end=02.07&collection=eptic3">
-
 Reste	NCMS000	reste-n
 à	SP	à-i
 savoir	VMN0000	savoir-v
@@ -34531,9 +32688,7 @@ on	PP3CSN0	on-p
 parle	VMIP1S0	parler-v
 .	Fp	.-x
 </s>
-
 <s id="1631:16" video="https://media.dipintra.it/?id=1631&start=02.07&end=02.11&collection=eptic3">
-
 Quelle	DT0FS0	quel-x
 part	NCCS000	part-n
 de	SP	de-i
@@ -34548,18 +32703,14 @@ le	DA0MS0	le-x
 terrain	NCMS000	terrain-n
 ?	Fit	?-x
 </s>
-
 <s id="1631:17" video="https://media.dipintra.it/?id=1631&start=02.11&end=02.13&collection=eptic3">
-
 Qui	PT0CN00	qui-p
 décidera	VMIF3S0	décider-v
 des	SP+D	de+les-i
 projets	NCMP000	projet-n
 ?	Fit	?-x
 </s>
-
 <s id="1631:18" video="https://media.dipintra.it/?id=1631&start=02.13&end=02.27&collection=eptic3">
-
 Va-t-on	VMM02S0	aller-v
 voir	VMN0000	voir-v
 ,	Fc	,-x
@@ -34599,9 +32750,7 @@ offres	NCFP000	offre-n
 internationaux	AQ0MP00	international-j
 ?	Fit	?-x
 </s>
-
 <s id="1631:19" video="https://media.dipintra.it/?id=1631&start=02.27&end=02.41&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -34654,9 +32803,7 @@ peuple	NCMS000	peuple-n
 lui-même	PP3MS00	lui-même-p
 .	Fp	.-x
 </s>
-
 <s id="1631:20" video="https://media.dipintra.it/?id=1631&start=02.41&end=02.46&collection=eptic3">
-
 Le	DA0MS0	le-x
 peuple	NCMS000	peuple-n
 haïtien	AQ0MS00	haïtien-j
@@ -34676,9 +32823,7 @@ colonialisme	NCMS000	colonialisme-n
 français	AQ0MN00	français-j
 .	Fp	.-x
 </s>
-
 <s id="1631:21" video="https://media.dipintra.it/?id=1631&start=02.46&end=02.55&collection=eptic3">
-
 Outre	SP	outre-i
 les	DA0CP0	le-x
 ravages	NCMP000	ravage-n
@@ -34709,9 +32854,7 @@ européens	AQ0MP00	européen-j
 esclavagistes	NCCP000	esclavagiste-n
 .	Fp	.-x
 </s>
-
 <s id="1631:22" video="https://media.dipintra.it/?id=1631&start=02.55&end=03.07&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -34763,9 +32906,7 @@ d	NCMS000	d-n
 Haïti	NPMS000	Haïti-n
 .	Fp	.-x
 </s>
-
 <s id="1631:23" video="https://media.dipintra.it/?id=1631&start=03.07&end=03.10&collection=eptic3">
-
 Il	PP3MSN0	il-p
 nous	PP1CP00	nous-p
 faut	VMIP3S0	faillir-v
@@ -34778,7 +32919,6 @@ d	AQ0MS0	d-j
 honneur	NCMS000	honneur-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -34788,7 +32928,6 @@ honneur	NCMS000	honneur-n
 <st language="fr" length="short" lengthw="273" duration="short" durations="107.0" speed="medium" speedwm="153.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1632:1" video="https://media.dipintra.it/?id=1632&start=00.00&end=00.07&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -34830,9 +32969,7 @@ urgences	NCFP000	urgence-n
 traiter	VMN0000	traiter-v
 .	Fp	.-x
 </s>
-
 <s id="1632:2" video="https://media.dipintra.it/?id=1632&start=00.07&end=00.12&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -34851,9 +32988,7 @@ du	SP+D	de+le-i
 développement	NCMS000	développement-n
 .	Fp	.-x
 </s>
-
 <s id="1632:3" video="https://media.dipintra.it/?id=1632&start=00.12&end=00.18&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 faut	VMIP3S0	faillir-v
@@ -34879,9 +33014,7 @@ jamais	RN	jamais-r
 solides	AQ0CP00	solide-j
 .	Fp	.-x
 </s>
-
 <s id="1632:4" video="https://media.dipintra.it/?id=1632&start=00.18&end=00.27&collection=eptic3">
-
 Premier	AQ0MS00	premier-j
 constat	NCMS000	constat-n
 -	Fg	--x
@@ -34923,9 +33056,7 @@ en	SP	en-i
 an	NCMS000	an-n
 .	Fp	.-x
 </s>
-
 <s id="1632:5" video="https://media.dipintra.it/?id=1632&start=00.27&end=00.31&collection=eptic3">
-
 À	SP	à-i
 ce	DD0MS0	ce-x
 rythme	NCMS000	rythme-n
@@ -34944,9 +33075,7 @@ ses	DP3CPS	son-x
 décombres	NCMP000	décombres-n
 .	Fp	.-x
 </s>
-
 <s id="1632:6" video="https://media.dipintra.it/?id=1632&start=00.31&end=00.36&collection=eptic3">
-
 Donc	CC	donc-c
 c	RG	c-r
 <g/>
@@ -34967,9 +33096,7 @@ sa	DP3FSS	son-x
 contribution	NCFS000	contribution-n
 .	Fp	.-x
 </s>
-
 <s id="1632:7" video="https://media.dipintra.it/?id=1632&start=00.36&end=00.43&collection=eptic3">
-
 Une	DI0FS0	un-x
 autre	AQ0CS00	autre-j
 priorité	NCFS000	priorité-n
@@ -35000,9 +33127,7 @@ du	SP+D	de+le-i
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1632:8" video="https://media.dipintra.it/?id=1632&start=00.43&end=00.49&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 renforcer	VMN0000	renforcer-v
@@ -35029,9 +33154,7 @@ ses	DP3CPS	son-x
 compétences	NCFP000	compétence-n
 .	Fp	.-x
 </s>
-
 <s id="1632:9" video="https://media.dipintra.it/?id=1632&start=00.50&end=00.58&collection=eptic3">
-
 Sa	DP3FSS	son-x
 dépendance	NCFS000	dépendance-n
 actuelle	AQ0FS00	actuel-j
@@ -35063,9 +33186,7 @@ l	AQ0MS0	l-j
 éducation	NCFS000	éducation-n
 .	Fp	.-x
 </s>
-
 <s id="1632:10" video="https://media.dipintra.it/?id=1632&start=00.58&end=01.03&collection=eptic3">
-
 Mais	CC	mais-c
 il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
@@ -35081,9 +33202,7 @@ des	SP+D	de+les-i
 ONG	NP00000	ONG-n
 .	Fp	.-x
 </s>
-
 <s id="1632:11" video="https://media.dipintra.it/?id=1632&start=01.04&end=01.15&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 surtout	RG	surtout-r
@@ -35125,9 +33244,7 @@ politique	AQ0CS00	politique-j
 corrompue	VMP00SF	corrompre-v
 .	Fp	.-x
 </s>
-
 <s id="1632:12" video="https://media.dipintra.it/?id=1632&start=01.16&end=01.25&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -35163,9 +33280,7 @@ du	SP+D	de+le-i
 pays	NCMN000	pays-n
 .	Fp	.-x
 </s>
-
 <s id="1632:13" video="https://media.dipintra.it/?id=1632&start=01.26&end=01.33&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -35196,9 +33311,7 @@ le	DA0MS0	le-x
 séisme	NCMS000	séisme-n
 .	Fp	.-x
 </s>
-
 <s id="1632:14" video="https://media.dipintra.it/?id=1632&start=01.33&end=01.45&collection=eptic3">
-
 Et	CC	et-c
 j	RG	j-r
 <g/>
@@ -35235,7 +33348,6 @@ gouvernement	NCMS000	gouvernement-n
 haïtien	AQ0MS00	haïtien-j
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -35245,7 +33357,6 @@ haïtien	AQ0MS00	haïtien-j
 <st language="fr" length="short" lengthw="260" duration="medium" durations="123.0" speed="slow" speedwm="126.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1633:1" video="https://media.dipintra.it/?id=1633&start=00.05&end=00.23&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -35314,9 +33425,7 @@ informations	NCFP000	information-n
 publiques	AQ0FP00	public-j
 .	Fp	.-x
 </s>
-
 <s id="1633:2" video="https://media.dipintra.it/?id=1633&start=00.23&end=00.37&collection=eptic3">
-
 Comment	PT00000	comment-p
 peut-on	VMIP3S0	pouvoir-v
 ,	Fc	,-x
@@ -35361,9 +33470,7 @@ orientation	NCFS000	orientation-n
 sexuelle	AQ0FS00	sexuel-j
 ?	Fit	?-x
 </s>
-
 <s id="1633:3" video="https://media.dipintra.it/?id=1633&start=00.37&end=00.49&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 le	PP3MSA0	le-p
 savons	VMIP1P0	savoir-v
@@ -35403,9 +33510,7 @@ des	SP+D	de+les-i
 LGBT	NPMS000	LGBT-n
 .	Fp	.-x
 </s>
-
 <s id="1633:4" video="https://media.dipintra.it/?id=1633&start=00.49&end=01.04&collection=eptic3">
-
 Mais	CC	mais-c
 c	RG	c-r
 <g/>
@@ -35457,9 +33562,7 @@ la	DA0FS0	le-x
 violence	NCFS000	violence-n
 .	Fp	.-x
 </s>
-
 <s id="1633:5" video="https://media.dipintra.it/?id=1633&start=01.05&end=01.15&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 donc	RG	donc-r
@@ -35505,9 +33608,7 @@ dû	VMP00SM	devoir-v
 autrui	PI0CS00	autrui-p
 .	Fp	.-x
 </s>
-
 <s id="1633:6" video="https://media.dipintra.it/?id=1633&start=01.15&end=01.29&collection=eptic3">
-
 Ainsi	RG	ainsi-r
 ,	Fc	,-x
 cette	DD0FS0	ce-x
@@ -35558,9 +33659,7 @@ libertés	NCFP000	liberté-n
 fondamentales	AQ0FP00	fondamental-j
 .	Fp	.-x
 </s>
-
 <s id="1633:7" video="https://media.dipintra.it/?id=1633&start=01.29&end=01.47&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 s	NCFP000	s-n
 <g/>
@@ -35633,9 +33732,7 @@ l	NCMS000	l-n
 éducation	NCFS000	éducation-n
 .	Fp	.-x
 </s>
-
 <s id="1633:8" video="https://media.dipintra.it/?id=1633&start=01.47&end=01.56&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
@@ -35672,9 +33769,7 @@ mes	DP1CPS	mon-x
 collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
-
 <s id="1633:9" video="https://media.dipintra.it/?id=1633&start=01.57&end=02.09&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
@@ -35722,7 +33817,6 @@ cette	DD0FS0	ce-x
 résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -35732,7 +33826,6 @@ résolution	NCFS000	résolution-n
 <st language="fr" length="medium" lengthw="480" duration="medium" durations="200.0" speed="medium" speedwm="144.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1634:1" video="https://media.dipintra.it/?id=1634&start=00.05&end=00.19&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -35788,9 +33881,7 @@ le	PP3MSA0	le-p
 renforcer	VMN0000	renforcer-v
 .	Fp	.-x
 </s>
-
 <s id="1634:2" video="https://media.dipintra.it/?id=1634&start=00.19&end=00.39&collection=eptic3">
-
 Nos	DP1CPP	notre-x
 chefs	NCCP000	chef-n
 d	AQ0MS0	d-j
@@ -35869,9 +33960,7 @@ respectent	VMIP3P0	respecter-v
 pas	RN	pas-r
 .	Fp	.-x
 </s>
-
 <s id="1634:3" video="https://media.dipintra.it/?id=1634&start=00.39&end=00.47&collection=eptic3">
-
 Ceci	PD0CS00	ceci-p
 dit	VMIP3S0	dire-v
 ,	Fc	,-x
@@ -35907,9 +33996,7 @@ zone	NCFS000	zone-n
 euro	NCMS000	euro-n
 .	Fp	.-x
 </s>
-
 <s id="1634:4" video="https://media.dipintra.it/?id=1634&start=00.48&end=01.00&collection=eptic3">
-
 Tout	PI0MS00	tout-p
 doit	VMIP3S0	devoir-v
 être	VSN0000	être-v
@@ -35958,9 +34045,7 @@ long	AQ0MS00	long-j
 terme	NCMS000	terme-n
 .	Fp	.-x
 </s>
-
 <s id="1634:5" video="https://media.dipintra.it/?id=1634&start=01.00&end=01.02&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -35972,9 +34057,7 @@ même	AQ0CS00	même-j
 langage	NCMS000	langage-n
 .	Fp	.-x
 </s>
-
 <s id="1634:6" video="https://media.dipintra.it/?id=1634&start=01.02&end=01.07&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
 tout	RG	tout-r
@@ -35991,9 +34074,7 @@ doivent	VMIP3P0	devoir-v
 assainies	VMP00PF	assainir-v
 .	Fp	.-x
 </s>
-
 <s id="1634:7" video="https://media.dipintra.it/?id=1634&start=01.08&end=01.11&collection=eptic3">
-
 Poussez	VMM02P0	pousser-v
 très	RG	très-r
 fort	RG	fort-r
@@ -36007,9 +34088,7 @@ pas	RN	pas-r
 prise	VMP00SF	prendre-v
 !	Fat	!-x
 </s>
-
 <s id="1634:8" video="https://media.dipintra.it/?id=1634&start=01.11&end=01.18&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
 ensuite	RG	ensuite-r
@@ -36031,9 +34110,7 @@ et	CC	et-c
 sociales	AQ0FP00	social-j
 .	Fp	.-x
 </s>
-
 <s id="1634:9" video="https://media.dipintra.it/?id=1634&start=01.19&end=01.32&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 signifie	VMIP1S0	signifier-v
 également	RG	également-r
@@ -36082,9 +34159,7 @@ discipline	NCFS000	discipline-n
 budgétaire	AQ0CS00	budgétaire-j
 .	Fp	.-x
 </s>
-
 <s id="1634:10" video="https://media.dipintra.it/?id=1634&start=01.32&end=01.45&collection=eptic3">
-
 Nos	DP1CPP	notre-x
 concitoyens	NCMP000	concitoyen-n
 doivent	VMIP3P0	devoir-v
@@ -36135,9 +34210,7 @@ exprimer	VMN0000	exprimer-v
 ainsi	RG	ainsi-r
 .	Fp	.-x
 </s>
-
 <s id="1634:11" video="https://media.dipintra.it/?id=1634&start=01.45&end=01.58&collection=eptic3">
-
 Enfin	RG	enfin-r
 ,	Fc	,-x
 créer	VMN0000	créer-v
@@ -36202,9 +34275,7 @@ la	DA0FS0	le-x
 vie	NCFS000	vie-n
 .	Fp	.-x
 </s>
-
 <s id="1634:12" video="https://media.dipintra.it/?id=1634&start=01.58&end=02.11&collection=eptic3">
-
 Mon	DP1CSS	mon-x
 groupe	NCMS000	groupe-n
 souhaite	VMIP1S0	souhaiter-v
@@ -36248,9 +34319,7 @@ plus	RG	plus-r
 durable	AQ0CS00	durable-j
 .	Fp	.-x
 </s>
-
 <s id="1634:13" video="https://media.dipintra.it/?id=1634&start=02.12&end=02.26&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -36299,9 +34368,7 @@ que	RN	que-r
 commencer	VMN0000	commencer-v
 .	Fp	.-x
 </s>
-
 <s id="1634:14" video="https://media.dipintra.it/?id=1634&start=02.27&end=02.38&collection=eptic3">
-
 Mon	DP1CSS	mon-x
 groupe	NCMS000	groupe-n
 continuera	VMIF3S0	continuer-v
@@ -36351,9 +34418,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1634:15" video="https://media.dipintra.it/?id=1634&start=02.39&end=03.00&collection=eptic3">
-
 Mon	DP1CSS	mon-x
 cher	AQ0MS00	cher-j
 Président	NPMS000	Président-n
@@ -36437,9 +34502,7 @@ nous	PP1CP00	nous-p
 rentrons	VMIP1P0	rentrer-v
 ?	Fit	?-x
 </s>
-
 <s id="1634:16" video="https://media.dipintra.it/?id=1634&start=03.00&end=03.01&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 n	NCFS000	n-n
 <g/>
@@ -36450,9 +34513,7 @@ en	SP	en-i
 diminuant	VMG0000	diminuer-v
 ;	Fx	;-x
 </s>
-
 <s id="1634:17" video="https://media.dipintra.it/?id=1634&start=03.02&end=03.09&collection=eptic3">
-
 si	CS	si-c
 nous	PP1CP00	nous-p
 voulons	VMIP1P0	vouloir-v
@@ -36484,9 +34545,7 @@ d	AQ0MS0	d-j
 argent	NCMS000	argent-n
 .	Fp	.-x
 </s>
-
 <s id="1634:18" video="https://media.dipintra.it/?id=1634&start=03.09&end=03.24&collection=eptic3">
-
 N	NP00000	N-n
 <g/>
 '	Fe	'-x
@@ -36544,16 +34603,13 @@ la	DA0FS0	le-x
 table	NCFS000	table-n
 .	Fp	.-x
 </s>
-
 <s id="1634:19" video="https://media.dipintra.it/?id=1634&start=03.24&end=03.26&collection=eptic3">
-
 Merci	NCMS000	merci-n
 de	SP	de-i
 votre	DP2CSP	votre-x
 attention	NCFS000	attention-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -36563,13 +34619,10 @@ attention	NCFS000	attention-n
 <st language="fr" length="short" lengthw="366" duration="medium" durations="152.0" speed="medium" speedwm="144.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1635:1" video="https://media.dipintra.it/?id=1635&start=00.06&end=00.07&collection=eptic3">
-
 dent	NCFS000	dent-n
 .	Fp	.-x
 </s>
-
 <s id="1635:2" video="https://media.dipintra.it/?id=1635&start=00.07&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 Monsieur	NPMS000	Monsieur-n
 le	DA0MS0	le-x
@@ -36591,9 +34644,7 @@ faire	VMN0000	faire-v
 remarques	NCFP000	remarque-n
 .	Fp	.-x
 </s>
-
 <s id="1635:3" video="https://media.dipintra.it/?id=1635&start=00.13&end=00.28&collection=eptic3">
-
 La	DA0FS0	le-x
 première	AQ0FS00	premier-j
 c	NCMS000	c-n
@@ -36653,9 +34704,7 @@ particulièrement	RG	particulièrement-r
 importante	AQ0FS00	important-j
 .	Fp	.-x
 </s>
-
 <s id="1635:4" video="https://media.dipintra.it/?id=1635&start=00.28&end=00.42&collection=eptic3">
-
 Donc	CC	donc-c
 il	PP3MSN0	il-p
 ne	RN	ne-r
@@ -36719,9 +34768,7 @@ du	SP+D	de+le-i
 juridisme	NCMS000	juridisme-n
 .	Fp	.-x
 </s>
-
 <s id="1635:5" video="https://media.dipintra.it/?id=1635&start=00.42&end=00.47&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
 dites	VMIP2P0	dire-v
@@ -36738,9 +34785,7 @@ les	DA0CP0	le-x
 marchés	NCMP000	marché-n
 .	Fp	.-x
 </s>
-
 <s id="1635:6" video="https://media.dipintra.it/?id=1635&start=00.48&end=00.56&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 abord	NCMS000	abord-n
@@ -36782,9 +34827,7 @@ particulièrement	RG	particulièrement-r
 rassurés	VMP00PM	rassurer-v
 .	Fp	.-x
 </s>
-
 <s id="1635:7" video="https://media.dipintra.it/?id=1635&start=00.56&end=01.00&collection=eptic3">
-
 Donc	CC	donc-c
 ,	Fc	,-x
 faites	VMP00PF	faire-v
@@ -36804,9 +34847,7 @@ les	DA0CP0	le-x
 marchés	NCMP000	marché-n
 .	Fp	.-x
 </s>
-
 <s id="1635:8" video="https://media.dipintra.it/?id=1635&start=01.00&end=01.04&collection=eptic3">
-
 Mais	CC	mais-c
 surtout	RG	surtout-r
 ,	Fc	,-x
@@ -36828,9 +34869,7 @@ cette	DD0FS0	ce-x
 révision	NCFS000	révision-n
 ?	Fit	?-x
 </s>
-
 <s id="1635:9" video="https://media.dipintra.it/?id=1635&start=01.04&end=01.13&collection=eptic3">
-
 Je	PP1CSN0	je-p
 viens	VMIP1S0	venir-v
 d	AQ0MS0	d-j
@@ -36872,9 +34911,7 @@ déjà	RG	déjà-r
 là	RG	là-r
 .	Fp	.-x
 </s>
-
 <s id="1635:10" video="https://media.dipintra.it/?id=1635&start=01.14&end=01.23&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 parfois	RG	parfois-r
@@ -36915,9 +34952,7 @@ aura	VMIF3S0	avoir-v
 lieu	NCMS000	lieu-n
 .	Fp	.-x
 </s>
-
 <s id="1635:11" video="https://media.dipintra.it/?id=1635&start=01.23&end=01.29&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 évidemment	RG	évidemment-r
@@ -36939,9 +34974,7 @@ que	CS	que-c
 passe	VMIP1S0	passer-v
 .	Fp	.-x
 </s>
-
 <s id="1635:12" video="https://media.dipintra.it/?id=1635&start=01.30&end=01.34&collection=eptic3">
-
 Mais	CC	mais-c
 si	CS	si-c
 ça	PD0MS00	cela-p
@@ -36960,9 +34993,7 @@ les	DA0CP0	le-x
 populations	NCFP000	population-n
 .	Fp	.-x
 </s>
-
 <s id="1635:13" video="https://media.dipintra.it/?id=1635&start=01.34&end=01.39&collection=eptic3">
-
 Et	CC	et-c
 ça	PD0MS00	cela-p
 c	NCMS000	c-n
@@ -36979,9 +35010,7 @@ about	NCMS000	about-n
 nothing	NCMS000	nothing-n
 .	Fp	.-x
 </s>
-
 <s id="1635:14" video="https://media.dipintra.it/?id=1635&start=01.40&end=01.44&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 changez	VMIP2P0	changer-v
 les	DA0CP0	le-x
@@ -36993,9 +35022,7 @@ de	SP	de-i
 droit	NCMS000	droit-n
 .	Fp	.-x
 </s>
-
 <s id="1635:15" video="https://media.dipintra.it/?id=1635&start=01.44&end=01.49&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 ne	RN	ne-r
 les	PP3CPA0	les-p
@@ -37014,9 +35041,7 @@ ils	PP3MPN0	ils-p
 attendent	VMIP3P0	attendre-v
 .	Fp	.-x
 </s>
-
 <s id="1635:16" video="https://media.dipintra.it/?id=1635&start=01.49&end=01.56&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
 nous	PP1CP00	nous-p
@@ -37043,9 +35068,7 @@ traités	NCMP000	traité-n
 constants	AQ0MP00	constant-j
 .	Fp	.-x
 </s>
-
 <s id="1635:17" video="https://media.dipintra.it/?id=1635&start=01.56&end=02.02&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 étions	VMII1P0	être-v
 d'	SP	de-i
@@ -37074,9 +35097,7 @@ traités	NCMP000	traité-n
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1635:18" video="https://media.dipintra.it/?id=1635&start=02.03&end=02.16&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
 l	AQ0MS0	l-j
@@ -37148,9 +35169,7 @@ la	DA0FS0	le-x
 croissance	NCFS000	croissance-n
 .	Fp	.-x
 </s>
-
 <s id="1635:19" video="https://media.dipintra.it/?id=1635&start=02.16&end=02.20&collection=eptic3">
-
 Donc	CC	donc-c
 ,	Fc	,-x
 en	SP	en-i
@@ -37171,18 +35190,14 @@ les	DA0CP0	le-x
 travaux	NCMP000	travail-n
 .	Fp	.-x
 </s>
-
 <s id="1635:20" video="https://media.dipintra.it/?id=1635&start=02.20&end=02.22&collection=eptic3">
-
 Très	RG	très-r
 bien	RG	bien-r
 ,	Fc	,-x
 accélérons	VMM01P0	accélérer-v
 !	Fat	!-x
 </s>
-
 <s id="1635:21" video="https://media.dipintra.it/?id=1635&start=02.22&end=02.24&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 que	CS	que-c
@@ -37196,9 +35211,7 @@ Rompuy	NPMS000	Rompuy-n
 accélère	VMIP3S0	accélérer-v
 .	Fp	.-x
 </s>
-
 <s id="1635:22" video="https://media.dipintra.it/?id=1635&start=02.24&end=02.27&collection=eptic3">
-
 Le	DA0MS0	le-x
 Parlement	NPMS000	Parlement-n
 a	VAIP3S0	avoir-v
@@ -37208,9 +35221,7 @@ ses	DP3CPS	son-x
 rapports	NCMP000	rapport-n
 .	Fp	.-x
 </s>
-
 <s id="1635:23" video="https://media.dipintra.it/?id=1635&start=02.27&end=02.36&collection=eptic3">
-
 Il	PP3MSN0	il-p
 y	PP3CN00	y-p
 a	VMIP3S0	avoir-v
@@ -37260,9 +35271,7 @@ s	NCFP000	s-n
 adapte	VMIP3S0	adapter-v
 .	Fp	.-x
 </s>
-
 <s id="1635:24" video="https://media.dipintra.it/?id=1635&start=02.37&end=02.38&collection=eptic3">
-
 J	NPFS000	J-n
 <g/>
 '	Fe	'-x
@@ -37275,7 +35284,6 @@ Président	NPMS000	Président-n
 merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -37285,7 +35293,6 @@ merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="231" duration="short" durations="93.0" speed="medium" speedwm="149.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1636:1" video="https://media.dipintra.it/?id=1636&start=00.05&end=00.10&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -37303,9 +35310,7 @@ des	SP+D	de+les-i
 sages	NCCP000	sage-n
 .	Fp	.-x
 </s>
-
 <s id="1636:2" video="https://media.dipintra.it/?id=1636&start=00.10&end=00.18&collection=eptic3">
-
 Il	PP3MSN0	il-p
 était	VSII3S0	être-v
 composé	VMP00SM	composer-v
@@ -37335,9 +35340,7 @@ dette	NCFS000	dette-n
 souveraine	AQ0FS00	souverain-j
 .	Fp	.-x
 </s>
-
 <s id="1636:3" video="https://media.dipintra.it/?id=1636&start=00.18&end=00.21&collection=eptic3">
-
 Pouvaient-ils	VMII3P0	pouvoir-v
 constituer	VMN0000	constituer-v
 d-	DYSF	d-
@@ -37347,9 +35350,7 @@ de	SP	de-i
 sages	NCCP000	sage-n
 ?	Fit	?-x
 </s>
-
 <s id="1636:4" video="https://media.dipintra.it/?id=1636&start=00.21&end=00.33&collection=eptic3">
-
 La	DA0FS0	le-x
 cacophonie	NCFS000	cacophonie-n
 qui	PR00000	qui-p
@@ -37397,9 +35398,7 @@ de	SP	de-i
 sages	NCCP000	sage-n
 .	Fp	.-x
 </s>
-
 <s id="1636:5" video="https://media.dipintra.it/?id=1636&start=00.33&end=00.37&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 été	VSP00NC	être-v
@@ -37415,9 +35414,7 @@ l	NCMS000	l-n
 euro	NCMS000	euro-n
 .	Fp	.-x
 </s>
-
 <s id="1636:6" video="https://media.dipintra.it/?id=1636&start=00.37&end=00.42&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
 besoin	NCMS000	besoin-n
@@ -37439,9 +35436,7 @@ des	SP+D	de+les-i
 spéculateurs	NCMP000	spéculateur-n
 .	Fp	.-x
 </s>
-
 <s id="1636:7" video="https://media.dipintra.it/?id=1636&start=00.43&end=00.56&collection=eptic3">
-
 Pour	SP	pour-i
 cela	PD0CS00	cela-p
 ,	Fc	,-x
@@ -37486,9 +35481,7 @@ l	NCMS000	l-n
 Eurogroupe	NPMS000	Eurogroupe-n
 .	Fp	.-x
 </s>
-
 <s id="1636:8" video="https://media.dipintra.it/?id=1636&start=00.56&end=01.05&collection=eptic3">
-
 Pourtant	RG	pourtant-r
 ,	Fc	,-x
 vous	PP2CP00	vous-p
@@ -37526,9 +35519,7 @@ tard	RG	tard-r
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1636:9" video="https://media.dipintra.it/?id=1636&start=01.06&end=01.39&collection=eptic3">
-
 Car	CC	car-c
 il	PP3MSN0	il-p
 viendra	VMIF3S0	venir-v
@@ -37648,7 +35639,6 @@ des	SP+D	de+les-i
 marchés	NCMP000	marché-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -37658,7 +35648,6 @@ marchés	NCMP000	marché-n
 <st language="fr" length="short" lengthw="159" duration="short" durations="63.0" speed="medium" speedwm="151.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1637:1" video="https://media.dipintra.it/?id=1637&start=00.05&end=00.13&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -37693,9 +35682,7 @@ de	SP	de-i
 crise	NCFS000	crise-n
 .	Fp	.-x
 </s>
-
 <s id="1637:2" video="https://media.dipintra.it/?id=1637&start=00.14&end=00.27&collection=eptic3">
-
 Sur	SP	sur-i
 les	DA0CP0	le-x
 États	NPMP000	États-n
@@ -37751,9 +35738,7 @@ représente	VMIP3S0	représenter-v
 États	NPMP000	États-n
 .	Fp	.-x
 </s>
-
 <s id="1637:3" video="https://media.dipintra.it/?id=1637&start=00.27&end=00.34&collection=eptic3">
-
 Je	PP1CSN0	je-p
 suggère	VMIP3S0	suggérer-v
 que	CS	que-c
@@ -37788,9 +35773,7 @@ prévu	VMP00SM	prévoir-v
 actuellement	RG	actuellement-r
 .	Fp	.-x
 </s>
-
 <s id="1637:4" video="https://media.dipintra.it/?id=1637&start=00.35&end=00.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 ,	Fc	,-x
@@ -37808,9 +35791,7 @@ Parlements	NPMP000	Parlements-n
 nationaux	AQ0MP00	national-j
 .	Fp	.-x
 </s>
-
 <s id="1637:5" video="https://media.dipintra.it/?id=1637&start=00.39&end=00.45&collection=eptic3">
-
 Dans	SP	dans-i
 la	DA0FS0	le-x
 procédure	NCFS000	procédure-n
@@ -37837,9 +35818,7 @@ de	SP	de-i
 ratification	NCFS000	ratification-n
 .	Fp	.-x
 </s>
-
 <s id="1637:6" video="https://media.dipintra.it/?id=1637&start=00.45&end=00.57&collection=eptic3">
-
 Je	PP1CSN0	je-p
 propose	VMIP1S0	proposer-v
 que	CS	que-c
@@ -37883,9 +35862,7 @@ futur	AQ0MS00	futur-j
 mécanisme	NCMS000	mécanisme-n
 .	Fp	.-x
 </s>
-
 <s id="1637:7" video="https://media.dipintra.it/?id=1637&start=00.57&end=01.00&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 ce	PP0CNN0	ce-p
@@ -37899,9 +35876,7 @@ Parlements	NPMP000	Parlements-n
 nationaux	AQ0MP00	national-j
 ?	Fit	?-x
 </s>
-
 <s id="1637:8" video="https://media.dipintra.it/?id=1637&start=01.00&end=01.08&collection=eptic3">
-
 Mais	CC	mais-c
 ,	Fc	,-x
 comme	CS	comme-c
@@ -37932,9 +35907,7 @@ ce	DD0MS0	ce-x
 mécanisme	NCMS000	mécanisme-n
 .	Fp	.-x
 </s>
-
 <s id="1637:9" video="https://media.dipintra.it/?id=1637&start=01.08&end=01.10&collection=eptic3">
-
 Donc	CC	donc-c
 c	RG	c-r
 <g/>
@@ -37953,7 +35926,6 @@ vous	PP2CP00	vous-p
 soumets	VMIP1S0	soumettre-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -37963,7 +35935,6 @@ soumets	VMIP1S0	soumettre-v
 <st language="fr" length="medium" lengthw="754" duration="medium" durations="331.0" speed="medium" speedwm="136.7" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1638:1" video="https://media.dipintra.it/?id=1638&start=00.04&end=00.12&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -37994,9 +35965,7 @@ chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
 .	Fp	.-x
 </s>
-
 <s id="1638:2" video="https://media.dipintra.it/?id=1638&start=00.13&end=00.35&collection=eptic3">
-
 Rarement	RG	rarement-r
 présidence	NCFS000	présidence-n
 du	SP+D	de+le-i
@@ -38072,9 +36041,7 @@ façon	NCFS000	façon-n
 alarmante	AQ0FS00	alarmant-j
 .	Fp	.-x
 </s>
-
 <s id="1638:3" video="https://media.dipintra.it/?id=1638&start=00.35&end=00.43&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 défis	NCMP000	défi-n
 ,	Fc	,-x
@@ -38104,9 +36071,7 @@ les	PP3CPA0	les-p
 relever	VMN0000	relever-v
 .	Fp	.-x
 </s>
-
 <s id="1638:4" video="https://media.dipintra.it/?id=1638&start=00.43&end=00.48&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -38125,9 +36090,7 @@ en	SP	en-i
 Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
-
 <s id="1638:5" video="https://media.dipintra.it/?id=1638&start=00.48&end=00.57&collection=eptic3">
-
 Votre	DP2CSP	votre-x
 parti	NCMS000	parti-n
 ,	Fc	,-x
@@ -38157,9 +36120,7 @@ la	DA0FS0	le-x
 démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
-
 <s id="1638:6" video="https://media.dipintra.it/?id=1638&start=00.58&end=01.08&collection=eptic3">
-
 Depuis	SP	depuis-i
 votre	DP2CSP	votre-x
 élection	NCFS000	élection-n
@@ -38197,9 +36158,7 @@ large	AQ0CS00	large-j
 majorité	NCFS000	majorité-n
 .	Fp	.-x
 </s>
-
 <s id="1638:7" video="https://media.dipintra.it/?id=1638&start=01.08&end=01.17&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -38242,9 +36201,7 @@ des	SP+D	de+les-i
 traités	NCMP000	traité-n
 .	Fp	.-x
 </s>
-
 <s id="1638:8" video="https://media.dipintra.it/?id=1638&start=01.17&end=01.37&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 vous-même	PP2CP00	vous-même-p
@@ -38308,9 +36265,7 @@ votre	DP2CSP	votre-x
 parole	NCFS000	parole-n
 .	Fp	.-x
 </s>
-
 <s id="1638:9" video="https://media.dipintra.it/?id=1638&start=01.38&end=01.50&collection=eptic3">
-
 Pour	SP	pour-i
 ma	DP1FSS	mon-x
 part	NCCS000	part-n
@@ -38354,9 +36309,7 @@ règles	NCFP000	règle-n
 européennes	AQ0FP00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1638:10" video="https://media.dipintra.it/?id=1638&start=01.50&end=01.56&collection=eptic3">
-
 Viktor	NPMS000	Viktor-n
 Orbán	NP00000	Orbán-n
 ,	Fc	,-x
@@ -38378,9 +36331,7 @@ grand	AQ0MS00	grand-j
 européen	NCMS000	européen-n
 !	Fat	!-x
 </s>
-
 <s id="1638:11" video="https://media.dipintra.it/?id=1638&start=01.56&end=02.06&collection=eptic3">
-
 Je	PP1CSN0	je-p
 n	NCFS000	n-n
 <g/>
@@ -38418,9 +36369,7 @@ votre	DP2CSP	votre-x
 présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
-
 <s id="1638:12" video="https://media.dipintra.it/?id=1638&start=02.07&end=02.12&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 viens	VMIP1S0	venir-v
@@ -38443,9 +36392,7 @@ l	NCMS000	l-n
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1638:13" video="https://media.dipintra.it/?id=1638&start=02.13&end=02.25&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -38493,9 +36440,7 @@ très	RG	très-r
 prochainement	RG	prochainement-r
 .	Fp	.-x
 </s>
-
 <s id="1638:14" video="https://media.dipintra.it/?id=1638&start=02.25&end=02.34&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 ,	Fc	,-x
@@ -38523,9 +36468,7 @@ cette	DD0FS0	ce-x
 monnaie	NCFS000	monnaie-n
 .	Fp	.-x
 </s>
-
 <s id="1638:15" video="https://media.dipintra.it/?id=1638&start=02.34&end=02.57&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 le	PP3MSA0	le-p
@@ -38604,9 +36547,7 @@ semestre	NCMS000	semestre-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1638:16" video="https://media.dipintra.it/?id=1638&start=02.58&end=03.04&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 passe	VMIP1S0	passer-v
 par	SP	par-i
@@ -38627,9 +36568,7 @@ grande	AQ0FS00	grand-j
 productivité	NCFS000	productivité-n
 .	Fp	.-x
 </s>
-
 <s id="1638:17" video="https://media.dipintra.it/?id=1638&start=03.05&end=03.16&collection=eptic3">
-
 Comme	CS	comme-c
 la	DA0FS0	le-x
 présidence	NCFS000	présidence-n
@@ -38672,9 +36611,7 @@ et	CC	et-c
 cohérente	AQ0FS00	cohérent-j
 .	Fp	.-x
 </s>
-
 <s id="1638:18" video="https://media.dipintra.it/?id=1638&start=03.16&end=03.21&collection=eptic3">
-
 Il	PP3MSN0	il-p
 passe	VMIP1S0	passer-v
 par	SP	par-i
@@ -38694,9 +36631,7 @@ d	AQ0MS0	d-j
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1638:19" video="https://media.dipintra.it/?id=1638&start=03.21&end=03.29&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -38722,9 +36657,7 @@ gouvernance	NCFS000	gouvernance-n
 européenne	NCFS000	européen-n
 .	Fp	.-x
 </s>
-
 <s id="1638:20" video="https://media.dipintra.it/?id=1638&start=03.30&end=03.35&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VMIP1P0	avoir-v
 besoin	NCMS000	besoin-n
@@ -38744,9 +36677,7 @@ ce	DD0MS0	ce-x
 sens	NCMN000	sens-n
 .	Fp	.-x
 </s>
-
 <s id="1638:21" video="https://media.dipintra.it/?id=1638&start=03.36&end=03.42&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -38779,9 +36710,7 @@ ehm	FPAUSE	ehm
 commune	AQ0FS00	commun-j
 .	Fp	.-x
 </s>
-
 <s id="1638:22" video="https://media.dipintra.it/?id=1638&start=03.43&end=03.49&collection=eptic3">
-
 Je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
 que	CS	que-c
@@ -38812,9 +36741,7 @@ sa	DP3FSS	son-x
 présidence	NCFS000	présidence-n
 .	Fp	.-x
 </s>
-
 <s id="1638:23" video="https://media.dipintra.it/?id=1638&start=03.49&end=03.59&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 rejoins	VMIP1S0	rejoindre-v
@@ -38852,9 +36779,7 @@ tous	DI0MP0	tout-x
 genres	NCMP000	genre-n
 .	Fp	.-x
 </s>
-
 <s id="1638:24" video="https://media.dipintra.it/?id=1638&start=04.00&end=04.09&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 avons	VAIP1P0	avoir-v
 déjà	RG	déjà-r
@@ -38889,9 +36814,7 @@ plus	RG	plus-r
 pauvres	AQ0CP00	pauvre-j
 .	Fp	.-x
 </s>
-
 <s id="1638:25" video="https://media.dipintra.it/?id=1638&start=04.10&end=04.15&collection=eptic3">
-
 Je	PP1CSN0	je-p
 souhaite	VMIP1S0	souhaiter-v
 que	RN	que-r
@@ -38910,9 +36833,7 @@ les	DA0CP0	le-x
 spéculateurs	NCMP000	spéculateur-n
 .	Fp	.-x
 </s>
-
 <s id="1638:26" video="https://media.dipintra.it/?id=1638&start=04.15&end=04.27&collection=eptic3">
-
 Je	PP1CSN0	je-p
 souhaite	VMIP1S0	souhaiter-v
 aussi	RG	aussi-r
@@ -38955,9 +36876,7 @@ pas	RN	pas-r
 normal	AQ0MS00	normal-j
 !	Fat	!-x
 </s>
-
 <s id="1638:27" video="https://media.dipintra.it/?id=1638&start=04.27&end=04.41&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 garder	VMN0000	garder-v
@@ -39007,9 +36926,7 @@ le	DA0MS0	le-x
 changement	NCMS000	changement-n
 .	Fp	.-x
 </s>
-
 <s id="1638:28" video="https://media.dipintra.it/?id=1638&start=04.41&end=04.52&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -39050,9 +36967,7 @@ Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1638:29" video="https://media.dipintra.it/?id=1638&start=04.52&end=05.05&collection=eptic3">
-
 Et	CC	et-c
 vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
@@ -39099,9 +37014,7 @@ son	DP3CSS	son-x
 budget	NCMS000	budget-n
 .	Fp	.-x
 </s>
-
 <s id="1638:30" video="https://media.dipintra.it/?id=1638&start=05.05&end=05.09&collection=eptic3">
-
 Merci	NCMS000	merci-n
 déjà	RG	déjà-r
 ,	Fc	,-x
@@ -39120,9 +37033,7 @@ de	SP	de-i
 décembre	NCMS000	décembre-n
 !	Fat	!-x
 </s>
-
 <s id="1638:31" video="https://media.dipintra.it/?id=1638&start=05.09&end=05.21&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VMIP2P0	avoir-v
 ,	Fc	,-x
@@ -39164,9 +37075,7 @@ affaires	NCFP000	affaire-n
 européennes	AQ0FP00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1638:32" video="https://media.dipintra.it/?id=1638&start=05.22&end=05.34&collection=eptic3">
-
 Autant	RG	autant-r
 de	SP	de-i
 signes	NCMP000	signe-n
@@ -39210,16 +37119,13 @@ ensemble	NCMS000	ensemble-n
 ici	RG	ici-r
 .	Fp	.-x
 </s>
-
 <s id="1638:33" video="https://media.dipintra.it/?id=1638&start=05.34&end=05.35&collection=eptic3">
-
 Merci	NCMS000	merci-n
 de	SP	de-i
 votre	DP2CSP	votre-x
 attention	NCFS000	attention-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -39229,7 +37135,6 @@ attention	NCFS000	attention-n
 <st language="fr" length="medium" lengthw="423" duration="medium" durations="258.0" speed="slow" speedwm="98.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1639:1" video="https://media.dipintra.it/?id=1639&start=00.10&end=00.15&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -39246,9 +37151,7 @@ soit	VMSP3S0	être-v
 clair	AQ0MS00	clair-j
 .	Fp	.-x
 </s>
-
 <s id="1639:2" video="https://media.dipintra.it/?id=1639&start=00.16&end=00.20&collection=eptic3">
-
 Les	DA0CP0	le-x
 Verts	AQ0MP00	vert-j
 ,	Fc	,-x
@@ -39262,9 +37165,7 @@ la	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
 .	Fp	.-x
 </s>
-
 <s id="1639:3" video="https://media.dipintra.it/?id=1639&start=00.21&end=00.25&collection=eptic3">
-
 J	NPFS000	J-n
 <g/>
 '	Fe	'-x
@@ -39283,9 +37184,7 @@ du	SP+D	de+le-i
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 <s id="1639:4" video="https://media.dipintra.it/?id=1639&start=00.25&end=00.35&collection=eptic3">
-
 Ma	DP1FSS	mon-x
 première	AQ0FS00	premier-j
 manifestation	NCFS000	manifestation-n
@@ -39318,9 +37217,7 @@ soviétique	AQ0CS00	soviétique-j
 Budapest	NPMS000	Budapest-n
 .	Fp	.-x
 </s>
-
 <s id="1639:5" video="https://media.dipintra.it/?id=1639&start=00.36&end=00.44&collection=eptic3">
-
 Comme	CS	comme-c
 l	NCMS000	l-n
 <g/>
@@ -39354,9 +37251,7 @@ des	SP+D	de+les-i
 années	NCFP000	année-n
 .	Fp	.-x
 </s>
-
 <s id="1639:6" video="https://media.dipintra.it/?id=1639&start=00.45&end=00.53&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -39390,9 +37285,7 @@ années	NCFP000	année-n
 91	Z	91-m
 .	Fp	.-x
 </s>
-
 <s id="1639:7" video="https://media.dipintra.it/?id=1639&start=00.53&end=01.05&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -39424,9 +37317,7 @@ libéral	AQ0MS00	libéral-j
 européen	NCMS000	européen-n
 .	Fp	.-x
 </s>
-
 <s id="1639:8" video="https://media.dipintra.it/?id=1639&start=01.05&end=01.12&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 y	PP3CN00	y-p
 avez	VMIP2P0	avoir-v
@@ -39449,9 +37340,7 @@ devait	VMII3S0	devoir-v
 respecter	VMN0000	respecter-v
 .	Fp	.-x
 </s>
-
 <s id="1639:9" video="https://media.dipintra.it/?id=1639&start=01.12&end=01.28&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -39493,9 +37382,7 @@ la	DA0FS0	le-x
 démocratie	NCFS000	démocratie-n
 .	Fp	.-x
 </s>
-
 <s id="1639:10" video="https://media.dipintra.it/?id=1639&start=01.29&end=01.38&collection=eptic3">
-
 Et	CC	et-c
 je	PP1CSN0	je-p
 vais	VMIP1S0	aller-v
@@ -39530,9 +37417,7 @@ existe	VMIP1S0	exister-v
 pas	RN	pas-r
 .	Fp	.-x
 </s>
-
 <s id="1639:11" video="https://media.dipintra.it/?id=1639&start=01.39&end=01.45&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 vous	PP2CP00	vous-p
@@ -39550,16 +37435,12 @@ Watergate	NPFS000	Watergate-n
 équilibrée	VMP00SF	équilibrer-v
 ?	Fit	?-x
 </s>
-
 <s id="1639:12" video="https://media.dipintra.it/?id=1639&start=01.46&end=01.47&collection=eptic3">
-
 Évidemment	RG	évidemment-r
 non	RG	non-r
 !	Fat	!-x
 </s>
-
 <s id="1639:13" video="https://media.dipintra.it/?id=1639&start=01.47&end=01.53&collection=eptic3">
-
 Et	CC	et-c
 que	CS	que-c
 vous	PP2CP00	vous-p
@@ -39578,18 +37459,14 @@ Ghraïb	NPMS000	Ghraïb-n
 équilibrée	VMP00SF	équilibrer-v
 ?	Fit	?-x
 </s>
-
 <s id="1639:14" video="https://media.dipintra.it/?id=1639&start=01.53&end=01.54&collection=eptic3">
-
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
 que	CS	que-c
 non	RG	non-r
 !	Fat	!-x
 </s>
-
 <s id="1639:15" video="https://media.dipintra.it/?id=1639&start=01.54&end=02.04&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 vous	PP2CP00	vous-p
@@ -39616,9 +37493,7 @@ information	NCFS000	information-n
 équilibrée	VMP00SF	équilibrer-v
 ?	Fit	?-x
 </s>
-
 <s id="1639:16" video="https://media.dipintra.it/?id=1639&start=02.04&end=02.16&collection=eptic3">
-
 Les	DA0CP0	le-x
 recherches	NCFP000	recherche-n
 ,	Fc	,-x
@@ -39655,18 +37530,14 @@ information	NCFS000	information-n
 équilibrée	VMP00SF	équilibrer-v
 ?	Fit	?-x
 </s>
-
 <s id="1639:17" video="https://media.dipintra.it/?id=1639&start=02.16&end=02.17&collection=eptic3">
-
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
 que	CS	que-c
 non	RG	non-r
 !	Fat	!-x
 </s>
-
 <s id="1639:18" video="https://media.dipintra.it/?id=1639&start=02.18&end=02.22&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -39677,9 +37548,7 @@ la	DA0FS0	le-x
 politique	NCFS000	politique-n
 .	Fp	.-x
 </s>
-
 <s id="1639:19" video="https://media.dipintra.it/?id=1639&start=02.22&end=02.25&collection=eptic3">
-
 Et	CC	et-c
 elle	PP3FS00	elle-p
 nous	PP1CP00	nous-p
@@ -39692,9 +37561,7 @@ des	SP+D	de+les-i
 fois	NCFN000	fois-n
 .	Fp	.-x
 </s>
-
 <s id="1639:20" video="https://media.dipintra.it/?id=1639&start=02.26&end=02.37&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -39731,9 +37598,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1639:21" video="https://media.dipintra.it/?id=1639&start=02.37&end=02.40&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 dites	VMIP2P0	dire-v
 ,	Fc	,-x
@@ -39748,9 +37613,7 @@ Europe	NPCS000	Europe-n
 forte	AQ0FS00	fort-j
 .	Fp	.-x
 </s>
-
 <s id="1639:22" video="https://media.dipintra.it/?id=1639&start=02.40&end=02.47&collection=eptic3">
-
 Une	DI0FS0	un-x
 Europe	NPCS000	Europe-n
 forte	AQ0FS00	fort-j
@@ -39769,9 +37632,7 @@ Europe	NPCS000	Europe-n
 crédible	AQ0CS00	crédible-j
 .	Fp	.-x
 </s>
-
 <s id="1639:23" video="https://media.dipintra.it/?id=1639&start=02.47&end=02.55&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 acceptons	VMIP1P0	accepter-v
@@ -39790,9 +37651,7 @@ monsieur	NCMS000	monsieur-n
 Loukachenko	NPMS000	Loukachenko-n
 ?	Fit	?-x
 </s>
-
 <s id="1639:24" video="https://media.dipintra.it/?id=1639&start=02.55&end=02.58&collection=eptic3">
-
 Comment	PT00000	comment-p
 allons-nous	VMIP1P0	aller-v
 discuter	VMN0000	discuter-v
@@ -39801,9 +37660,7 @@ la	DA0FS0	le-x
 Chine	NPCS000	Chine-n
 ?	Fit	?-x
 </s>
-
 <s id="1639:25" video="https://media.dipintra.it/?id=1639&start=02.58&end=03.01&collection=eptic3">
-
 Ils	PP3MPN0	ils-p
 veulent	VMIP3P0	vouloir-v
 tous	PI0MP00	tout-p
@@ -39812,9 +37669,7 @@ informations	NCFP000	information-n
 équilibrées	VMP00PF	équilibrer-v
 .	Fp	.-x
 </s>
-
 <s id="1639:26" video="https://media.dipintra.it/?id=1639&start=03.01&end=03.09&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 Orbán	NP00000	Orbán-n
 ,	Fc	,-x
@@ -39836,9 +37691,7 @@ les	DA0CP0	le-x
 totalitarismes	NCMP000	totalitarisme-n
 ?	Fit	?-x
 </s>
-
 <s id="1639:27" video="https://media.dipintra.it/?id=1639&start=03.09&end=03.18&collection=eptic3">
-
 Et	CC	et-c
 que	CS	que-c
 la	DA0FS0	le-x
@@ -39866,9 +37719,7 @@ d	AQ0MS0	d-j
 expression	NCFS000	expression-n
 .	Fp	.-x
 </s>
-
 <s id="1639:28" video="https://media.dipintra.it/?id=1639&start=03.18&end=03.23&collection=eptic3">
-
 Jamais	RN	jamais-r
 une	DI0FS0	un-x
 démocratie	NCFS000	démocratie-n
@@ -39889,9 +37740,7 @@ de	SP	de-i
 libertés	NCFP000	liberté-n
 .	Fp	.-x
 </s>
-
 <s id="1639:29" video="https://media.dipintra.it/?id=1639&start=03.23&end=03.30&collection=eptic3">
-
 Les	DA0CP0	le-x
 démocraties	NCFP000	démocratie-n
 sont	VSIP3P0	être-v
@@ -39910,9 +37759,7 @@ monsieur	NCMS000	monsieur-n
 Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
-
 <s id="1639:30" video="https://media.dipintra.it/?id=1639&start=03.30&end=03.36&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 le	PP3MSA0	le-p
 saviez	VMII2P0	savoir-v
@@ -39943,9 +37790,7 @@ en	SP	en-i
 plus	RG	plus-r
 .	Fp	.-x
 </s>
-
 <s id="1639:31" video="https://media.dipintra.it/?id=1639&start=03.37&end=03.42&collection=eptic3">
-
 Donc	CC	donc-c
 vous	PP2CP00	vous-p
 voyez	VMIP2P0	voir-v
@@ -39972,9 +37817,7 @@ monsieur	NCMS000	monsieur-n
 Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
-
 <s id="1639:32" video="https://media.dipintra.it/?id=1639&start=03.42&end=04.02&collection=eptic3">
-
 Si	CS	si-c
 vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
@@ -40042,9 +37885,7 @@ une	DI0FS0	un-x
 dictature	NCFS000	dictature-n
 .	Fp	.-x
 </s>
-
 <s id="1639:33" video="https://media.dipintra.it/?id=1639&start=04.02&end=04.08&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 pas	RN	pas-r
@@ -40068,9 +37909,7 @@ vous	PP2CP00	vous-p
 reproche	VMIP1S0	reprocher-v
 .	Fp	.-x
 </s>
-
 <s id="1639:34" video="https://media.dipintra.it/?id=1639&start=04.08&end=04.10&collection=eptic3">
-
 Pour	SP	pour-i
 les	DA0CP0	le-x
 chrétiens	NCMP000	chrétien-n
@@ -40084,9 +37923,7 @@ avec	SP	avec-i
 vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
-
 <s id="1639:35" video="https://media.dipintra.it/?id=1639&start=04.10&end=04.23&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -40139,9 +37976,7 @@ ce	PP0CNN0	ce-p
 soit	VMSP3S0	être-v
 .	Fp	.-x
 </s>
-
 <s id="1639:36" video="https://media.dipintra.it/?id=1639&start=04.23&end=04.27&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -40161,13 +37996,10 @@ défendre	VMN0000	défendre-v
 ensemble	RG	ensemble-r
 .	Fp	.-x
 </s>
-
 <s id="1639:37" video="https://media.dipintra.it/?id=1639&start=04.27&end=04.28&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -40177,7 +38009,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="238" duration="short" durations="103.0" speed="medium" speedwm="138.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1640:1" video="https://media.dipintra.it/?id=1640&start=00.05&end=00.14&collection=eptic3">
-
 Les	DA0CP0	le-x
 peuples	NCMP000	peuple-n
 éuropéens	AQ0MP0	éuropéens-j
@@ -40218,9 +38049,7 @@ l	AQ0MS0	l-j
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1640:2" video="https://media.dipintra.it/?id=1640&start=00.15&end=00.32&collection=eptic3">
-
 La	DA0FS0	le-x
 première	NCFS000	premier-n
 de	SP	de-i
@@ -40279,9 +38108,7 @@ conventions	NCFP000	convention-n
 internationales	AQ0FP00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1640:3" video="https://media.dipintra.it/?id=1640&start=00.32&end=00.36&collection=eptic3">
-
 La	DA0FS0	le-x
 deuxième	NCCS000	deuxième-n
 de	SP	de-i
@@ -40302,9 +38129,7 @@ des	SP+D	de+les-i
 libertés	NCFP000	liberté-n
 .	Fp	.-x
 </s>
-
 <s id="1640:4" video="https://media.dipintra.it/?id=1640&start=00.36&end=00.46&collection=eptic3">
-
 Or	CC	or-c
 ,	Fc	,-x
 depuis	SP	depuis-i
@@ -40341,9 +38166,7 @@ nous	PP1CP00	nous-p
 répondre	VMN0000	répondre-v
 .	Fp	.-x
 </s>
-
 <s id="1640:5" video="https://media.dipintra.it/?id=1640&start=00.46&end=01.07&collection=eptic3">
-
 Les	DA0CP0	le-x
 pouvoirs	NCMP000	pouvoir-n
 de	SP	de-i
@@ -40426,9 +38249,7 @@ récemment	RG	récemment-r
 démontré	VMP00SM	démontrer-v
 .	Fp	.-x
 </s>
-
 <s id="1640:6" video="https://media.dipintra.it/?id=1640&start=01.08&end=01.27&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 expliquez	VMIP2P0	expliquer-v
 que	CS	que-c
@@ -40494,9 +38315,7 @@ la	DA0FS0	le-x
 morale	NCFS000	morale-n
 ?	Fit	?-x
 </s>
-
 <s id="1640:7" video="https://media.dipintra.it/?id=1640&start=01.28&end=01.38&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -40540,9 +38359,7 @@ d	AQ0MS0	d-j
 expression	NCFS000	expression-n
 .	Fp	.-x
 </s>
-
 <s id="1640:8" video="https://media.dipintra.it/?id=1640&start=01.39&end=01.43&collection=eptic3">
-
 Si	RG	si-r
 c	RG	c-r
 <g/>
@@ -40568,9 +38385,7 @@ droits	NCMP000	droit-n
 fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
-
 <s id="1640:9" video="https://media.dipintra.it/?id=1640&start=01.44&end=01.46&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -40584,15 +38399,12 @@ nous	PP1CP00	nous-p
 attendons	VMIP1P0	attendre-v
 .	Fp	.-x
 </s>
-
 <s id="1640:10" video="https://media.dipintra.it/?id=1640&start=01.46&end=01.47&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -40602,7 +38414,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="199" duration="short" durations="93.0" speed="slow" speedwm="128.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1641:1" video="https://media.dipintra.it/?id=1641&start=00.05&end=00.08&collection=eptic3">
-
 Merci	NCMS000	merci-n
 madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
@@ -40614,9 +38425,7 @@ Premier	AQ0MS00	premier-j
 ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
-
 <s id="1641:2" video="https://media.dipintra.it/?id=1641&start=00.09&end=00.12&collection=eptic3">
-
 La	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
 est	VMIP3S0	être-v
@@ -40631,9 +38440,7 @@ Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1641:3" video="https://media.dipintra.it/?id=1641&start=00.12&end=00.24&collection=eptic3">
-
 La	DA0FS0	le-x
 Hongrie	NPFS000	Hongrie-n
 a	VAIP3S0	avoir-v
@@ -40690,32 +38497,24 @@ je	PP1CSN0	je-p
 salue	VMIP3S0	saluer-v
 .	Fp	.-x
 </s>
-
 <s id="1641:4" video="https://media.dipintra.it/?id=1641&start=00.25&end=00.27&collection=eptic3">
-
 La	DA0FS0	le-x
 démocratie	NCFS000	démocratie-n
 fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
-
 <s id="1641:5" video="https://media.dipintra.it/?id=1641&start=00.28&end=00.29&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VAIP2P0	avoir-v
 été	VSP00NC	être-v
 élu	VMP00SM	élire-v
 .	Fp	.-x
 </s>
-
 <s id="1641:6" video="https://media.dipintra.it/?id=1641&start=00.29&end=00.30&collection=eptic3">
-
 Bravo	NCMS000	bravo-n
 !	Fat	!-x
 </s>
-
 <s id="1641:7" video="https://media.dipintra.it/?id=1641&start=00.30&end=00.32&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -40723,9 +38522,7 @@ Europe	NPCS000	Europe-n
 fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
-
 <s id="1641:8" video="https://media.dipintra.it/?id=1641&start=00.32&end=00.35&collection=eptic3">
-
 Une	DI0FS0	un-x
 loi	NCFS000	loi-n
 vous	PP2CP00	vous-p
@@ -40741,9 +38538,7 @@ changerai	VMIF1S0	changer-v
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1641:9" video="https://media.dipintra.it/?id=1641&start=00.36&end=00.47&collection=eptic3">
-
 On	PP3CSN0	on-p
 vous	PP2CP00	vous-p
 conteste	VMIP3S0	contester-v
@@ -40790,23 +38585,17 @@ droits	NCMP000	droit-n
 fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
-
 <s id="1641:10" video="https://media.dipintra.it/?id=1641&start=00.47&end=00.48&collection=eptic3">
-
 Bravo	NCMS000	bravo-n
 !	Fat	!-x
 </s>
-
 <s id="1641:11" video="https://media.dipintra.it/?id=1641&start=00.48&end=00.49&collection=eptic3">
-
 La	DA0FS0	le-x
 politique	NCFS000	politique-n
 fonctionne	VMIP3S0	fonctionner-v
 .	Fp	.-x
 </s>
-
 <s id="1641:12" video="https://media.dipintra.it/?id=1641&start=00.49&end=00.53&collection=eptic3">
-
 Si	RG	si-r
 quelqu	RG	quelqu-r
 '	Fe	'-x
@@ -40824,18 +38613,14 @@ Europe	NPCS000	Europe-n
 politique	AQ0CS00	politique-j
 .	Fp	.-x
 </s>
-
 <s id="1641:13" video="https://media.dipintra.it/?id=1641&start=00.53&end=00.54&collection=eptic3">
-
 Voilà	I	voilà-x
 de	SP	de-i
 bonnes	AQ0FP00	bon-j
 nouvelles	NCFP000	nouveau-n
 !	Fat	!-x
 </s>
-
 <s id="1641:14" video="https://media.dipintra.it/?id=1641&start=00.54&end=00.58&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 ,	Fc	,-x
@@ -40851,9 +38636,7 @@ aux	SP+DA	à+les-i
 enjeux	NCMP000	enjeu-n
 .	Fp	.-x
 </s>
-
 <s id="1641:15" video="https://media.dipintra.it/?id=1641&start=00.58&end=01.01&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 redressez	VMIP2P0	redresser-v
 l	AQ0MS0	l-j
@@ -40870,9 +38653,7 @@ Premier	AQ0MS00	premier-j
 ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
-
 <s id="1641:16" video="https://media.dipintra.it/?id=1641&start=01.01&end=01.05&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 êtes	VMIP2P0	être-v
 probablement	RG	probablement-r
@@ -40887,9 +38668,7 @@ avons	VAIP1P0	avoir-v
 besoin	NCMS000	besoin-n
 .	Fp	.-x
 </s>
-
 <s id="1641:17" video="https://media.dipintra.it/?id=1641&start=01.05&end=01.07&collection=eptic3">
-
 Mais	CC	mais-c
 c	RG	c-r
 <g/>
@@ -40905,9 +38684,7 @@ le	PP3MSA0	le-p
 faites	VMIP2P0	faire-v
 .	Fp	.-x
 </s>
-
 <s id="1641:18" video="https://media.dipintra.it/?id=1641&start=01.07&end=01.12&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 l	NCMS000	l-n
 <g/>
@@ -40926,9 +38703,7 @@ Premier	AQ0MS00	premier-j
 ministre	NCMS000	ministre-n
 .	Fp	.-x
 </s>
-
 <s id="1641:19" video="https://media.dipintra.it/?id=1641&start=01.12&end=01.15&collection=eptic3">
-
 Je	PP1CSN0	je-p
 termine	VMIP1S0	terminer-v
 en	SP	en-i
@@ -40940,9 +38715,7 @@ la	DA0FS0	le-x
 Croatie	NPFS000	Croatie-n
 .	Fp	.-x
 </s>
-
 <s id="1641:20" video="https://media.dipintra.it/?id=1641&start=01.16&end=01.19&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
 l	AQ0MS0	l-j
@@ -40956,9 +38729,7 @@ sommes	VMIP2S0	sommer-v
 favorables	AQ0CP00	favorable-j
 .	Fp	.-x
 </s>
-
 <s id="1641:21" video="https://media.dipintra.it/?id=1641&start=01.19&end=01.38&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -41039,7 +38810,6 @@ de	SP	de-i
 Berlin	NPMS000	Berlin-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -41049,7 +38819,6 @@ Berlin	NPMS000	Berlin-n
 <st language="fr" length="short" lengthw="125" duration="short" durations="88.0" speed="slow" speedwm="85.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1642:1" video="https://media.dipintra.it/?id=1642&start=00.00&end=00.18&collection=eptic3">
-
 Mes	DP1CPS	mon-x
 chers	AQ0MP00	cher-j
 collègues	NCCP000	collègue-n
@@ -41104,9 +38873,7 @@ certaine	AQ0FS00	certain-j
 ligne	NCFS000	ligne-n
 .	Fp	.-x
 </s>
-
 <s id="1642:2" video="https://media.dipintra.it/?id=1642&start=00.19&end=00.34&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 Orbán	NP00000	Orbán-n
 ,	Fc	,-x
@@ -41139,9 +38906,7 @@ la	DA0FS0	le-x
 démocratie	NCFS000	démocratie-n
 :	Fd	:-x
 </s>
-
 <s id="1642:3" video="https://media.dipintra.it/?id=1642&start=00.35&end=00.41&collection=eptic3">
-
 "	Fe	"-x
 La	DA0FS0	le-x
 vérité	NCFS000	vérité-n
@@ -41159,9 +38924,7 @@ majorité	NCFS000	majorité-n
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 <s id="1642:4" video="https://media.dipintra.it/?id=1642&start=00.41&end=00.46&collection=eptic3">
-
 La	DA0FS0	le-x
 vérité	NCFS000	vérité-n
 n	NCFS000	n-n
@@ -41177,9 +38940,7 @@ la	DA0FS0	le-x
 majorité	NCFS000	majorité-n
 .	Fp	.-x
 </s>
-
 <s id="1642:5" video="https://media.dipintra.it/?id=1642&start=00.47&end=01.09&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -41200,9 +38961,7 @@ non	RG	non-r
 hein	I	hein-x
 ?	Fit	?-x
 </s>
-
 <s id="1642:6" video="https://media.dipintra.it/?id=1642&start=01.09&end=01.14&collection=eptic3">
-
 Quand	CS	quand-c
 il	PP3MSN0	il-p
 prétend	VMIP3S0	prétendre-v
@@ -41213,9 +38972,7 @@ Orbán	NP00000	Orbán-n
 <g/>
 ...	EPAUSE	...-x
 </s>
-
 <s id="1642:7" video="https://media.dipintra.it/?id=1642&start=01.15&end=01.17&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 mobilisez	VMIP2P0	mobiliser-v
 l	AQ0MS0	l-j
@@ -41224,17 +38981,13 @@ l	AQ0MS0	l-j
 extrême-droite	NCFS000	extrême-droite-n
 ?	Fit	?-x
 </s>
-
 <s id="1642:8" video="https://media.dipintra.it/?id=1642&start=01.17&end=01.18&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 avez	VMIP2P0	avoir-v
 raison	NCFS000	raison-n
 .	Fp	.-x
 </s>
-
 <s id="1642:9" video="https://media.dipintra.it/?id=1642&start=01.19&end=01.35&collection=eptic3">
-
 Quand	CS	quand-c
 il	PP3MSN0	il-p
 prétend	VMIP3S0	prétendre-v
@@ -41285,9 +39038,7 @@ les	DA0CP0	le-x
 autres	PI0CP00	autre-p
 .	Fp	.-x
 </s>
-
 <s id="1642:10" video="https://media.dipintra.it/?id=1642&start=01.35&end=01.39&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -41304,9 +39055,7 @@ monsieur	NCMS000	monsieur-n
 Orbán	NPFS000	Orbán-n
 .	Fp	.-x
 </s>
-
 <s id="1642:11" video="https://media.dipintra.it/?id=1642&start=01.39&end=01.42&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
 avez	VAIP2P0	avoir-v
@@ -41317,9 +39066,7 @@ avec	SP	avec-i
 vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
-
 <s id="1642:12" video="https://media.dipintra.it/?id=1642&start=01.42&end=01.46&collection=eptic3">
-
 Je	PP1CSN0	je-p
 n	NCFS000	n-n
 <g/>
@@ -41347,9 +39094,7 @@ avec	SP	avec-i
 vous	PP2CP00	vous-p
 .	Fp	.-x
 </s>
-
 <s id="1642:13" video="https://media.dipintra.it/?id=1642&start=01.46&end=01.48&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -41362,7 +39107,6 @@ avez	VAIP2P0	avoir-v
 fait	VMP00SM	faire-v
 !	Fat	!-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -41372,7 +39116,6 @@ fait	VMP00SM	faire-v
 <st language="fr" length="short" lengthw="150" duration="short" durations="66.0" speed="medium" speedwm="136.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1643:1" video="https://media.dipintra.it/?id=1643&start=00.06&end=00.16&collection=eptic3">
-
 J	NPFS000	J-n
 <g/>
 '	Fe	'-x
@@ -41406,9 +39149,7 @@ santé	NCFS000	santé-n
 transfrontaliers	AQ0MP00	transfrontalier-j
 .	Fp	.-x
 </s>
-
 <s id="1643:2" video="https://media.dipintra.it/?id=1643&start=00.16&end=00.22&collection=eptic3">
-
 En	SP	en-i
 effet	NCMS000	effet-n
 ,	Fc	,-x
@@ -41434,9 +39175,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1643:3" video="https://media.dipintra.it/?id=1643&start=00.22&end=00.44&collection=eptic3">
-
 Après	RG	après-r
 de	SP	de-i
 nombreuses	AQ0FP00	nombreux-j
@@ -41511,9 +39250,7 @@ de	SP	de-i
 remboursement	NCMS000	remboursement-n
 .	Fp	.-x
 </s>
-
 <s id="1643:4" video="https://media.dipintra.it/?id=1643&start=00.44&end=00.55&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 ,	Fc	,-x
@@ -41546,9 +39283,7 @@ leur	DP3CSP	leur-x
 situation	NCFS000	situation-n
 .	Fp	.-x
 </s>
-
 <s id="1643:5" video="https://media.dipintra.it/?id=1643&start=00.55&end=01.12&collection=eptic3">
-
 Je	PP1CSN0	je-p
 tiens	VMIP1S0	tenir-v
 à	SP	à-i
@@ -41615,7 +39350,6 @@ l	NCMS000	l-n
 Union	NPFS000	Union-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -41625,7 +39359,6 @@ Union	NPFS000	Union-n
 <st language="fr" length="short" lengthw="236" duration="medium" durations="125.0" speed="slow" speedwm="113.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1644:1" video="https://media.dipintra.it/?id=1644&start=00.05&end=00.13&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -41656,9 +39389,7 @@ indignation	NCFS000	indignation-n
 internationale	AQ0FS00	international-j
 .	Fp	.-x
 </s>
-
 <s id="1644:2" video="https://media.dipintra.it/?id=1644&start=00.13&end=00.18&collection=eptic3">
-
 D	NP00000	D-n
 <g/>
 '	Fe	'-x
@@ -41684,9 +39415,7 @@ est	VMIP3S0	être-v
 préoccupante	AQ0FS00	préoccupant-j
 .	Fp	.-x
 </s>
-
 <s id="1644:3" video="https://media.dipintra.it/?id=1644&start=00.18&end=00.28&collection=eptic3">
-
 En	SP	en-i
 Irak	NPMS000	Irak-n
 ,	Fc	,-x
@@ -41725,9 +39454,7 @@ occupation	NCFS000	occupation-n
 israélienne	AQ0FS00	israélien-j
 .	Fp	.-x
 </s>
-
 <s id="1644:4" video="https://media.dipintra.it/?id=1644&start=00.28&end=00.41&collection=eptic3">
-
 Je	PP1CSN0	je-p
 me	PP1CS00	me-p
 félicite	VMIP1S0	féliciter-v
@@ -41769,9 +39496,7 @@ sans	SP	sans-i
 discriminé	VMP00SM	discriminer-v
 .	Fp	.-x
 </s>
-
 <s id="1644:5" video="https://media.dipintra.it/?id=1644&start=00.41&end=00.55&collection=eptic3">
-
 Alors	RG	alors-r
 que	CS	que-c
 notre	DP1CSP	notre-x
@@ -41816,9 +39541,7 @@ en	SP	en-i
 péril	NCMS000	péril-n
 .	Fp	.-x
 </s>
-
 <s id="1644:6" video="https://media.dipintra.it/?id=1644&start=00.55&end=01.04&collection=eptic3">
-
 Des	SP+D	de+les-i
 actes	NCMP000	acte-n
 d	AQ0MS0	d-j
@@ -41842,9 +39565,7 @@ ou	CC	ou-c
 antisémites	AQ0CP00	antisémite-j
 .	Fp	.-x
 </s>
-
 <s id="1644:7" video="https://media.dipintra.it/?id=1644&start=01.04&end=01.20&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -41898,9 +39619,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1644:8" video="https://media.dipintra.it/?id=1644&start=01.20&end=01.31&collection=eptic3">
-
 Les	DA0CP0	le-x
 réfugiés	NCMP000	réfugié-n
 ,	Fc	,-x
@@ -41934,9 +39653,7 @@ universels	AQ0MP00	universel-j
 fondamentaux	AQ0MP00	fondamental-j
 .	Fp	.-x
 </s>
-
 <s id="1644:9" video="https://media.dipintra.it/?id=1644&start=01.32&end=01.39&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -41958,9 +39675,7 @@ dialogue	NCMS000	dialogue-n
 intercommunautaire	AQ0CS0	intercommunautaire-j
 .	Fp	.-x
 </s>
-
 <s id="1644:10" video="https://media.dipintra.it/?id=1644&start=01.39&end=01.54&collection=eptic3">
-
 Si	CS	si-c
 les	DA0CP0	le-x
 chrétiens	NCMP000	chrétien-n
@@ -42010,9 +39725,7 @@ au	SP+DA	à+le-i
 terrorisme	NCMS000	terrorisme-n
 .	Fp	.-x
 </s>
-
 <s id="1644:11" video="https://media.dipintra.it/?id=1644&start=01.55&end=02.00&collection=eptic3">
-
 Je	PP1CSN0	je-p
 me	PP1CS00	me-p
 permettrai	VMIF1S0	permettre-v
@@ -42032,9 +39745,7 @@ Louis	NPMN000	Louis-n
 Aragon	NP00000	Aragon-n
 :	Fd	:-x
 </s>
-
 <s id="1644:12" video="https://media.dipintra.it/?id=1644&start=02.01&end=02.10&collection=eptic3">
-
 "	Fe	"-x
 Celui	PD0MS00	celui-p
 qui	PR00000	qui-p
@@ -42065,7 +39776,6 @@ même	AQ0CS00	même-j
 "	Fe	"-x
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -42075,7 +39785,6 @@ même	AQ0CS00	même-j
 <st language="fr" length="short" lengthw="173" duration="short" durations="84.0" speed="slow" speedwm="123.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1645:1" video="https://media.dipintra.it/?id=1645&start=00.07&end=00.10&collection=eptic3">
-
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
 de	SP	de-i
@@ -42087,9 +39796,7 @@ liberté	NCFS000	liberté-n
 essentielle	AQ0FS00	essentiel-j
 .	Fp	.-x
 </s>
-
 <s id="1645:2" video="https://media.dipintra.it/?id=1645&start=00.10&end=00.13&collection=eptic3">
-
 Dieu	NCMS000	dieu-n
 ne	RN	ne-r
 peut	VMIP3S0	pouvoir-v
@@ -42102,9 +39809,7 @@ adhésion	NCFS000	adhésion-n
 contrainte	VMP00SF	contraindre-v
 .	Fp	.-x
 </s>
-
 <s id="1645:3" video="https://media.dipintra.it/?id=1645&start=00.13&end=00.17&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 liberté	NCFS000	liberté-n
 fut	VSIS3S0	être-v
@@ -42116,9 +39821,7 @@ régimes	NCMP000	régime-n
 communistes	AQ0CP00	communiste-j
 .	Fp	.-x
 </s>
-
 <s id="1645:4" video="https://media.dipintra.it/?id=1645&start=00.18&end=00.26&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 avoir	VMN0000	avoir-v
@@ -42146,9 +39849,7 @@ d	AQ0MS0	d-j
 islam	NCMS000	islam-n
 .	Fp	.-x
 </s>
-
 <s id="1645:5" video="https://media.dipintra.it/?id=1645&start=00.26&end=00.32&collection=eptic3">
-
 On	PP3CSN0	on-p
 condamne	VMIP3S0	condamner-v
 ,	Fc	,-x
@@ -42171,9 +39872,7 @@ a	VMIP3S0	avoir-v
 raison	NCFS000	raison-n
 .	Fp	.-x
 </s>
-
 <s id="1645:6" video="https://media.dipintra.it/?id=1645&start=00.32&end=00.35&collection=eptic3">
-
 Mais	CC	mais-c
 il	PP3MSN0	il-p
 n	NCFS000	n-n
@@ -42187,9 +39886,7 @@ les	DA0CP0	le-x
 extrémistes	NCCP000	extrémiste-n
 .	Fp	.-x
 </s>
-
 <s id="1645:7" video="https://media.dipintra.it/?id=1645&start=00.35&end=00.42&collection=eptic3">
-
 Dans	SP	dans-i
 nombre	NCMS000	nombre-n
 de	SP	de-i
@@ -42215,9 +39912,7 @@ seconde	AO0FS00	2-j
 zone	NCFS000	zone-n
 .	Fp	.-x
 </s>
-
 <s id="1645:8" video="https://media.dipintra.it/?id=1645&start=00.42&end=00.47&collection=eptic3">
-
 Les	DA0CP0	le-x
 conversions	NCFP000	conversion-n
 au	SP+DA	à+le-i
@@ -42230,9 +39925,7 @@ de	SP	de-i
 mort	NCFS000	mort-n
 .	Fp	.-x
 </s>
-
 <s id="1645:9" video="https://media.dipintra.it/?id=1645&start=00.47&end=00.56&collection=eptic3">
-
 Alors	RG	alors-r
 que	CS	que-c
 ,	Fc	,-x
@@ -42269,9 +39962,7 @@ le	PP3MSA0	le-p
 souhaite	VMIP1S0	souhaiter-v
 .	Fp	.-x
 </s>
-
 <s id="1645:10" video="https://media.dipintra.it/?id=1645&start=00.56&end=01.02&collection=eptic3">
-
 Dans	SP	dans-i
 les	DA0CP0	le-x
 mêmes	AQ0CP00	même-j
@@ -42298,9 +39989,7 @@ même	AQ0CS00	même-j
 sort	NCMS000	sort-n
 .	Fp	.-x
 </s>
-
 <s id="1645:11" video="https://media.dipintra.it/?id=1645&start=01.02&end=01.08&collection=eptic3">
-
 En	PP3CN00	en-p
 particulier	AQ0MS00	particulier-j
 ,	Fc	,-x
@@ -42315,9 +40004,7 @@ doit	VMIP3S0	devoir-v
 abrogée	VMP00SF	abroger-v
 .	Fp	.-x
 </s>
-
 <s id="1645:12" video="https://media.dipintra.it/?id=1645&start=01.08&end=01.16&collection=eptic3">
-
 Et	CC	et-c
 nous	PP1CP00	nous-p
 demandons	VMIP1P0	demander-v
@@ -42341,9 +40028,7 @@ ses	DP3CPS	son-x
 voisines	NCFP000	voisin-n
 .	Fp	.-x
 </s>
-
 <s id="1645:13" video="https://media.dipintra.it/?id=1645&start=01.16&end=01.19&collection=eptic3">
-
 En	SP	en-i
 1	Z	1-m
 mot	NCMS000	mot-n
@@ -42361,9 +40046,7 @@ bonnes	AQ0FP00	bon-j
 paroles	NCFP000	parole-n
 .	Fp	.-x
 </s>
-
 <s id="1645:14" video="https://media.dipintra.it/?id=1645&start=01.20&end=01.30&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 agir	VMN0000	agir-v
@@ -42394,7 +40077,6 @@ de	SP	de-i
 conscience	NCFS000	conscience-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -42404,7 +40086,6 @@ conscience	NCFS000	conscience-n
 <st language="fr" length="short" lengthw="187" duration="short" durations="81.0" speed="medium" speedwm="138.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1646:1" video="https://media.dipintra.it/?id=1646&start=00.06&end=00.21&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -42466,9 +40147,7 @@ le	DA0MS0	le-x
 monde	NCMS000	monde-n
 .	Fp	.-x
 </s>
-
 <s id="1646:2" video="https://media.dipintra.it/?id=1646&start=00.21&end=00.41&collection=eptic3">
-
 Les	DA0CP0	le-x
 terribles	AQ0CP00	terrible-j
 attentats	NCMP000	attentat-n
@@ -42529,9 +40208,7 @@ des	SP+D	de+les-i
 civilisations	NCFP000	civilisation-n
 .	Fp	.-x
 </s>
-
 <s id="1646:3" video="https://media.dipintra.it/?id=1646&start=00.41&end=00.51&collection=eptic3">
-
 Cette	DD0FS0	ce-x
 tentative	NCFS000	tentative-n
 de	SP	de-i
@@ -42561,9 +40238,7 @@ actes	NCMP000	acte-n
 barbares	AQ0CP00	barbare-j
 .	Fp	.-x
 </s>
-
 <s id="1646:4" video="https://media.dipintra.it/?id=1646&start=00.51&end=01.03&collection=eptic3">
-
 Aujourd	NP00000	Aujourd-n
 '	Fe	'-x
 hui	RG	hui-r
@@ -42599,9 +40274,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1646:5" video="https://media.dipintra.it/?id=1646&start=01.04&end=01.26&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 devons	VMIP1P0	devoir-v
 défendre	VMN0000	défendre-v
@@ -42669,15 +40342,12 @@ de	SP	de-i
 laïcité	NCFS000	laïcité-n
 .	Fp	.-x
 </s>
-
 <s id="1646:6" video="https://media.dipintra.it/?id=1646&start=01.26&end=01.27&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -42687,7 +40357,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="204" duration="short" durations="89.0" speed="medium" speedwm="137.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1647:1" video="https://media.dipintra.it/?id=1647&start=00.09&end=00.17&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -42723,9 +40392,7 @@ aujourd	AQ0MS0	aujourd-j
 hui	RG	hui-r
 .	Fp	.-x
 </s>
-
 <s id="1647:2" video="https://media.dipintra.it/?id=1647&start=00.17&end=00.25&collection=eptic3">
-
 Bien	RG	bien-r
 sûr	AQ0MS00	sûr-j
 ,	Fc	,-x
@@ -42767,9 +40434,7 @@ ont	VMIP3P0	avoir-v
 lieu	NCMS000	lieu-n
 .	Fp	.-x
 </s>
-
 <s id="1647:3" video="https://media.dipintra.it/?id=1647&start=00.26&end=00.30&collection=eptic3">
-
 Mais	CC	mais-c
 nous	PP1CP00	nous-p
 sommes	VMIP2S0	sommer-v
@@ -42788,9 +40453,7 @@ au	SP+DA	à+le-i
 sécularisme	NCMS000	sécularisme-n
 .	Fp	.-x
 </s>
-
 <s id="1647:4" video="https://media.dipintra.it/?id=1647&start=00.30&end=00.33&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 condamnons	VMIP1P0	condamner-v
 bien	RG	bien-r
@@ -42802,9 +40465,7 @@ le	DA0MS0	le-x
 blasphème	NCMS000	blasphème-n
 .	Fp	.-x
 </s>
-
 <s id="1647:5" video="https://media.dipintra.it/?id=1647&start=00.34&end=00.51&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 veut	VMIP3S0	vouloir-v
 dire	VMN0000	dire-v
@@ -42871,9 +40532,7 @@ religion	NCFS000	religion-n
 concernée	VMP00SF	concerner-v
 .	Fp	.-x
 </s>
-
 <s id="1647:6" video="https://media.dipintra.it/?id=1647&start=00.51&end=01.05&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 veut	VMIP3S0	vouloir-v
 dire	VMN0000	dire-v
@@ -42926,9 +40585,7 @@ lui	PP3CS00	lui-p
 répondre	VMN0000	répondre-v
 .	Fp	.-x
 </s>
-
 <s id="1647:7" video="https://media.dipintra.it/?id=1647&start=01.05&end=01.09&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 considérons	VMIP1P0	considérer-v
 que	CS	que-c
@@ -42943,9 +40600,7 @@ bon	AQ0MS00	bon-j
 sens	NCMN000	sens-n
 .	Fp	.-x
 </s>
-
 <s id="1647:8" video="https://media.dipintra.it/?id=1647&start=01.09&end=01.15&collection=eptic3">
-
 Je	PP1CSN0	je-p
 dirais	VMIC1S0	dire-v
 ,	Fc	,-x
@@ -42977,9 +40632,7 @@ mon	DP1CSS	mon-x
 groupe	NCMS000	groupe-n
 .	Fp	.-x
 </s>
-
 <s id="1647:9" video="https://media.dipintra.it/?id=1647&start=01.15&end=01.24&collection=eptic3">
-
 Pour	SP	pour-i
 nous	PP1CP00	nous-p
 ,	Fc	,-x
@@ -43015,9 +40668,7 @@ monde	NCMS000	monde-n
 entier	AQ0MS00	entier-j
 .	Fp	.-x
 </s>
-
 <s id="1647:10" video="https://media.dipintra.it/?id=1647&start=01.24&end=01.28&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 pensons	VMIP1P0	penser-v
 que	CS	que-c
@@ -43038,7 +40689,6 @@ des	SP+D	de+les-i
 communautarismes	NCMP000	communautarisme-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -43048,7 +40698,6 @@ communautarismes	NCMP000	communautarisme-n
 <st language="fr" length="short" lengthw="264" duration="short" durations="94.0" speed="high" speedwm="168.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1648:1" video="https://media.dipintra.it/?id=1648&start=00.06&end=00.24&collection=eptic3">
-
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
 monsieur	NCMS000	monsieur-n
@@ -43120,9 +40769,7 @@ tout	RG	tout-r
 récemment	RG	récemment-r
 .	Fp	.-x
 </s>
-
 <s id="1648:2" video="https://media.dipintra.it/?id=1648&start=00.24&end=00.31&collection=eptic3">
-
 Une	DI0FS0	un-x
 persécution	NCFS000	persécution-n
 -	Fg	--x
@@ -43154,9 +40801,7 @@ d	AQ0MS0	d-j
 Orient	NPMS000	Orient-n
 .	Fp	.-x
 </s>
-
 <s id="1648:3" video="https://media.dipintra.it/?id=1648&start=00.31&end=00.36&collection=eptic3">
-
 Le	DA0MS0	le-x
 mal	NCMS000	mal-n
 est	VMIP3S0	être-v
@@ -43172,9 +40817,7 @@ une	DI0FS0	un-x
 réalité	NCFS000	réalité-n
 .	Fp	.-x
 </s>
-
 <s id="1648:4" video="https://media.dipintra.it/?id=1648&start=00.36&end=00.51&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -43231,9 +40874,7 @@ le	DA0MS0	le-x
 cercueil	NCMS000	cercueil-n
 .	Fp	.-x
 </s>
-
 <s id="1648:5" video="https://media.dipintra.it/?id=1648&start=00.51&end=01.05&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 saurait	VMIC3S0	savoir-v
@@ -43284,9 +40925,7 @@ les	DA0CP0	le-x
 hommes	NCMP000	homme-n
 .	Fp	.-x
 </s>
-
 <s id="1648:6" video="https://media.dipintra.it/?id=1648&start=01.05&end=01.17&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 attendons	VMIP1P0	attendre-v
 de	SP	de-i
@@ -43339,9 +40978,7 @@ stratégie	NCFS000	stratégie-n
 aussi	RG	aussi-r
 .	Fp	.-x
 </s>
-
 <s id="1648:7" video="https://media.dipintra.it/?id=1648&start=01.17&end=01.31&collection=eptic3">
-
 Il	PP3MSN0	il-p
 me	PP1CS00	me-p
 paraît	VMIP3S0	paraître-v
@@ -43400,9 +41037,7 @@ autorités	NCFP000	autorité-n
 judiciaires	AQ0CP00	judiciaire-j
 .	Fp	.-x
 </s>
-
 <s id="1648:8" video="https://media.dipintra.it/?id=1648&start=01.31&end=01.33&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -43415,9 +41050,7 @@ notre	DP1CSP	notre-x
 résolution	NCFS000	résolution-n
 .	Fp	.-x
 </s>
-
 <s id="1648:9" video="https://media.dipintra.it/?id=1648&start=01.33&end=01.50&collection=eptic3">
-
 La	DA0FS0	le-x
 liberté	NCFS000	liberté-n
 de	SP	de-i
@@ -43490,7 +41123,6 @@ en	SP	en-i
 danger	NCMS000	danger-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -43500,7 +41132,6 @@ danger	NCMS000	danger-n
 <st language="fr" length="short" lengthw="364" duration="medium" durations="166.0" speed="medium" speedwm="131.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1649:1" video="https://media.dipintra.it/?id=1649&start=00.07&end=00.20&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -43552,9 +41183,7 @@ ans	NCMP000	an-n
 maintenant	RG	maintenant-r
 .	Fp	.-x
 </s>
-
 <s id="1649:2" video="https://media.dipintra.it/?id=1649&start=00.21&end=00.36&collection=eptic3">
-
 Et	CC	et-c
 nous	PP1CP00	nous-p
 en	PP3CN00	en-p
@@ -43604,9 +41233,7 @@ quelques	DI0CP0	quelque-x
 semaines	NCFP000	semaine-n
 .	Fp	.-x
 </s>
-
 <s id="1649:3" video="https://media.dipintra.it/?id=1649&start=00.36&end=00.59&collection=eptic3">
-
 Au-delà	RG	au-delà-r
 de	SP	de-i
 l	NCMS000	l-n
@@ -43689,18 +41316,14 @@ au	SP+DA	à+le-i
 Niger	NP00000	Niger-n
 .	Fp	.-x
 </s>
-
 <s id="1649:4" video="https://media.dipintra.it/?id=1649&start=00.59&end=01.01&collection=eptic3">
-
 Les	DA0CP0	le-x
 réseaux	NCMP000	réseau-n
 criminels	AQ0MP00	criminel-j
 prospèrent	VMIP3P0	prospérer-v
 .	Fp	.-x
 </s>
-
 <s id="1649:5" video="https://media.dipintra.it/?id=1649&start=01.01&end=01.10&collection=eptic3">
-
 Les	DA0CP0	le-x
 trafics	NCMP000	trafic-n
 de	SP	de-i
@@ -43734,9 +41357,7 @@ notre	DP1CSP	notre-x
 continent	NCMS000	continent-n
 .	Fp	.-x
 </s>
-
 <s id="1649:6" video="https://media.dipintra.it/?id=1649&start=01.10&end=01.22&collection=eptic3">
-
 Car	CC	car-c
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -43787,9 +41408,7 @@ continent	NCMS000	continent-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1649:7" video="https://media.dipintra.it/?id=1649&start=01.23&end=01.35&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 face	NCFS000	face-n
@@ -43824,9 +41443,7 @@ de	SP	de-i
 sécurité	NCFS000	sécurité-n
 .	Fp	.-x
 </s>
-
 <s id="1649:8" video="https://media.dipintra.it/?id=1649&start=01.35&end=01.37&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -43836,9 +41453,7 @@ nécessité	NCFS000	nécessité-n
 vitale	AQ0FS00	vital-j
 .	Fp	.-x
 </s>
-
 <s id="1649:9" video="https://media.dipintra.it/?id=1649&start=01.38&end=01.54&collection=eptic3">
-
 Des	SP+D	de+les-i
 actions	NCFP000	action-n
 existent	VMIP3P0	exister-v
@@ -43902,9 +41517,7 @@ meilleure	AQ0FS00	meilleur-j
 gouvernance	NCFS000	gouvernance-n
 .	Fp	.-x
 </s>
-
 <s id="1649:10" video="https://media.dipintra.it/?id=1649&start=01.54&end=01.59&collection=eptic3">
-
 Et	CC	et-c
 ,	Fc	,-x
 par	SP	par-i
@@ -43922,9 +41535,7 @@ coopération	NCFS000	coopération-n
 bilatérales	AQ0FP00	bilatéral-j
 .	Fp	.-x
 </s>
-
 <s id="1649:11" video="https://media.dipintra.it/?id=1649&start=01.59&end=02.02&collection=eptic3">
-
 Mais	CC	mais-c
 il	PP3MSN0	il-p
 nous	PP1CP00	nous-p
@@ -43938,9 +41549,7 @@ plus	RG	plus-r
 loin	RG	loin-r
 .	Fp	.-x
 </s>
-
 <s id="1649:12" video="https://media.dipintra.it/?id=1649&start=02.02&end=02.05&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 surtout	RG	surtout-r
@@ -43952,9 +41561,7 @@ plus	RG	plus-r
 coordonnée	VMP00SF	coordonner-v
 .	Fp	.-x
 </s>
-
 <s id="1649:13" video="https://media.dipintra.it/?id=1649&start=02.05&end=02.24&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 renforcer	VMN0000	renforcer-v
@@ -44022,9 +41629,7 @@ la	DA0FS0	le-x
 police	NCFS000	police-n
 .	Fp	.-x
 </s>
-
 <s id="1649:14" video="https://media.dipintra.it/?id=1649&start=02.25&end=02.47&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 haute	AQ0FS00	haut-j
@@ -44105,9 +41710,7 @@ de	SP	de-i
 présider	VMN0000	présider-v
 .	Fp	.-x
 </s>
-
 <s id="1649:15" video="https://media.dipintra.it/?id=1649&start=02.47&end=02.53&collection=eptic3">
-
 Madame	NCFS000	monsieur-n
 la	DA0FS0	le-x
 haute	AQ0FS00	haut-j
@@ -44133,7 +41736,6 @@ cette	DD0FS0	ce-x
 région	NCFS000	région-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -44143,7 +41745,6 @@ région	NCFS000	région-n
 <st language="fr" length="short" lengthw="213" duration="short" durations="103.0" speed="slow" speedwm="124.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1650:1" video="https://media.dipintra.it/?id=1650&start=00.06&end=00.16&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -44170,9 +41771,7 @@ région	NCFS000	région-n
 sahélienne	AQ0FS00	sahélien-j
 .	Fp	.-x
 </s>
-
 <s id="1650:2" video="https://media.dipintra.it/?id=1650&start=00.17&end=00.30&collection=eptic3">
-
 Sont	VSIP3P0	être-v
 concernés	VMP00PM	concerner-v
 en	SP	en-i
@@ -44222,9 +41821,7 @@ sort	NCMS000	sort-n
 tragique	AQ0CS00	tragique-j
 .	Fp	.-x
 </s>
-
 <s id="1650:3" video="https://media.dipintra.it/?id=1650&start=00.30&end=00.48&collection=eptic3">
-
 En	SP	en-i
 même	AQ0CS00	même-j
 temps	NCMN000	temps-n
@@ -44285,9 +41882,7 @@ oublions	VMM01P0	oublier-v
 pas	RN	pas-r
 .	Fp	.-x
 </s>
-
 <s id="1650:4" video="https://media.dipintra.it/?id=1650&start=00.49&end=00.51&collection=eptic3">
-
 Les	DA0CP0	le-x
 questions	NCFP000	question-n
 soulevées	VMP00PF	soulever-v
@@ -44300,9 +41895,7 @@ très	RG	très-r
 pertinentes	AQ0FP00	pertinent-j
 .	Fp	.-x
 </s>
-
 <s id="1650:5" video="https://media.dipintra.it/?id=1650&start=00.52&end=01.04&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 voulons	VMIP1P0	vouloir-v
@@ -44349,9 +41942,7 @@ en	SP	en-i
 général	NCMS000	général-n
 .	Fp	.-x
 </s>
-
 <s id="1650:6" video="https://media.dipintra.it/?id=1650&start=01.05&end=01.13&collection=eptic3">
-
 Deuxièmement	NP00000	Deuxièmement-n
 ,	Fc	,-x
 prendre	VMN0000	prendre-v
@@ -44376,9 +41967,7 @@ cette	DD0FS0	ce-x
 région	NCFS000	région-n
 .	Fp	.-x
 </s>
-
 <s id="1650:7" video="https://media.dipintra.it/?id=1650&start=01.14&end=01.23&collection=eptic3">
-
 Parmi	SP	parmi-i
 les	DA0CP0	le-x
 causes	NCFP000	cause-n
@@ -44404,9 +41993,7 @@ fonctions	NCFP000	fonction-n
 régaliennes	AQ0FP00	régalien-j
 .	Fp	.-x
 </s>
-
 <s id="1650:8" video="https://media.dipintra.it/?id=1650&start=01.23&end=01.27&collection=eptic3">
-
 Troisièmement	NP00000	Troisièmement-n
 ,	Fc	,-x
 préciser	VMN0000	préciser-v
@@ -44422,9 +42009,7 @@ ce	DD0MS0	ce-x
 domaine	NCMS000	domaine-n
 .	Fp	.-x
 </s>
-
 <s id="1650:9" video="https://media.dipintra.it/?id=1650&start=01.27&end=01.30&collection=eptic3">
-
 Merci	NCMS000	merci-n
 ,	Fc	,-x
 lady	NCFS000	lady-n
@@ -44439,9 +42024,7 @@ avoir	VAN0000	avoir-v
 annoncée	VMP00SF	annoncer-v
 .	Fp	.-x
 </s>
-
 <s id="1650:10" video="https://media.dipintra.it/?id=1650&start=01.30&end=01.49&collection=eptic3">
-
 Quatrièmement	NP00000	Quatrièmement-n
 ,	Fc	,-x
 ne	RN	ne-r
@@ -44502,7 +42085,6 @@ propre	AQ0CS00	propre-j
 sécurité	NCFS000	sécurité-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -44512,7 +42094,6 @@ sécurité	NCFS000	sécurité-n
 <st language="fr" length="short" lengthw="226" duration="short" durations="94.0" speed="medium" speedwm="144.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1651:1" video="https://media.dipintra.it/?id=1651&start=00.06&end=00.12&collection=eptic3">
-
 Président	NCMS000	président-n
 ,	Fc	,-x
 madame	NCFS000	monsieur-n
@@ -44540,9 +42121,7 @@ l	AQ0MS0	l-j
 Europe	NPCS000	Europe-n
 .	Fp	.-x
 </s>
-
 <s id="1651:2" video="https://media.dipintra.it/?id=1651&start=00.12&end=00.16&collection=eptic3">
-
 Le	DA0MS0	le-x
 niveau	NCMS000	niveau-n
 inquiétant	VMG0000	inquiéter-v
@@ -44559,9 +42138,7 @@ concerne	VMIP3S0	concerner-v
 tous	PI0MP00	tout-p
 .	Fp	.-x
 </s>
-
 <s id="1651:3" video="https://media.dipintra.it/?id=1651&start=00.16&end=00.29&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -44605,9 +42182,7 @@ sont	VSIP3P0	être-v
 faites	VMP00PF	faire-v
 .	Fp	.-x
 </s>
-
 <s id="1651:4" video="https://media.dipintra.it/?id=1651&start=00.29&end=00.36&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 évident	AQ0MS00	évident-j
@@ -44642,9 +42217,7 @@ seule	AQ0FS00	seul-j
 agir	VMN0000	agir-v
 .	Fp	.-x
 </s>
-
 <s id="1651:5" video="https://media.dipintra.it/?id=1651&start=00.36&end=00.41&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -44665,9 +42238,7 @@ la	DA0FS0	le-x
 région	NCFS000	région-n
 .	Fp	.-x
 </s>
-
 <s id="1651:6" video="https://media.dipintra.it/?id=1651&start=00.42&end=00.56&collection=eptic3">
-
 Organiser	VMN0000	organiser-v
 un	DI0MS0	un-x
 sommet	NCMS000	sommet-n
@@ -44738,9 +42309,7 @@ stratégie	NCFS000	stratégie-n
 large	AQ0CS00	large-j
 .	Fp	.-x
 </s>
-
 <s id="1651:7" video="https://media.dipintra.it/?id=1651&start=00.56&end=01.03&collection=eptic3">
-
 La	DA0FS0	le-x
 mise	NCFS000	mise-n
 en	SP	en-i
@@ -44771,9 +42340,7 @@ est	VMIP3S0	être-v
 indispensable	AQ0CS00	indispensable-j
 .	Fp	.-x
 </s>
-
 <s id="1651:8" video="https://media.dipintra.it/?id=1651&start=01.03&end=01.06&collection=eptic3">
-
 La	DA0FS0	le-x
 première	AQ0FS00	premier-j
 étape	NCFS000	étape-n
@@ -44785,9 +42352,7 @@ l	NCMS000	l-n
 urgence	NCFS000	urgence-n
 .	Fp	.-x
 </s>
-
 <s id="1651:9" video="https://media.dipintra.it/?id=1651&start=01.06&end=01.13&collection=eptic3">
-
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
 <g/>
@@ -44821,9 +42386,7 @@ leurs	DP3CPP	leur-x
 actions	NCFP000	action-n
 .	Fp	.-x
 </s>
-
 <s id="1651:10" video="https://media.dipintra.it/?id=1651&start=01.14&end=01.28&collection=eptic3">
-
 La	DA0FS0	le-x
 deuxième	AO0CS00	2-j
 étape	NCFS000	étape-n
@@ -44876,9 +42439,7 @@ la	DA0FS0	le-x
 région	NCFS000	région-n
 .	Fp	.-x
 </s>
-
 <s id="1651:11" video="https://media.dipintra.it/?id=1651&start=01.28&end=01.31&collection=eptic3">
-
 Face	NCFS000	face-n
 à	SP	à-i
 ce	DD0MS0	ce-x
@@ -44897,9 +42458,7 @@ rien	PI0CS00	rien-p
 faire	VMN0000	faire-v
 .	Fp	.-x
 </s>
-
 <s id="1651:12" video="https://media.dipintra.it/?id=1651&start=01.32&end=01.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 remercie	VMIP1S0	remercier-v
 donc	RG	donc-r
@@ -44926,15 +42485,12 @@ problème	NCMS000	problème-n
 majeur	AQ0MS00	majeur-j
 .	Fp	.-x
 </s>
-
 <s id="1651:13" video="https://media.dipintra.it/?id=1651&start=01.39&end=01.40&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -44944,7 +42500,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="157" duration="short" durations="63.0" speed="medium" speedwm="149.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1652:1" video="https://media.dipintra.it/?id=1652&start=00.06&end=00.24&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -45012,9 +42567,7 @@ sans	SP	sans-i
 attendre	VMN0000	attendre-v
 .	Fp	.-x
 </s>
-
 <s id="1652:2" video="https://media.dipintra.it/?id=1652&start=00.24&end=00.28&collection=eptic3">
-
 Les	DA0CP0	le-x
 groupes	NCMP000	groupe-n
 extrémistes	AQ0CP00	extrémiste-j
@@ -45029,9 +42582,7 @@ populations	NCFP000	population-n
 civiles	AQ0FP00	civil-j
 .	Fp	.-x
 </s>
-
 <s id="1652:3" video="https://media.dipintra.it/?id=1652&start=00.29&end=00.34&collection=eptic3">
-
 À	SP	à-i
 mon	DP1CSS	mon-x
 tour	NCCS000	tour-n
@@ -45063,9 +42614,7 @@ sur	SP	sur-i
 place	NCFS000	place-n
 .	Fp	.-x
 </s>
-
 <s id="1652:4" video="https://media.dipintra.it/?id=1652&start=00.35&end=00.39&collection=eptic3">
-
 Jusqu	NPMS000	Jusqu-n
 <g/>
 '	Fe	'-x
@@ -45089,9 +42638,7 @@ du	SP+D	de+le-i
 Sahel	NPMS000	Sahel-n
 .	Fp	.-x
 </s>
-
 <s id="1652:5" video="https://media.dipintra.it/?id=1652&start=00.39&end=00.48&collection=eptic3">
-
 Or	CC	or-c
 désormais	RG	désormais-r
 ,	Fc	,-x
@@ -45132,9 +42679,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1652:6" video="https://media.dipintra.it/?id=1652&start=00.48&end=00.54&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 de	SP	de-i
@@ -45167,9 +42712,7 @@ ces	DD0CP0	ce-x
 menaces	NCFP000	menace-n
 .	Fp	.-x
 </s>
-
 <s id="1652:7" video="https://media.dipintra.it/?id=1652&start=00.54&end=00.59&collection=eptic3">
-
 La	DA0FS0	le-x
 sécurité	NCFS000	sécurité-n
 de	SP	de-i
@@ -45190,9 +42733,7 @@ voisinage	NCMS000	voisinage-n
 direct	AQ0MS00	direct-j
 .	Fp	.-x
 </s>
-
 <s id="1652:8" video="https://media.dipintra.it/?id=1652&start=00.59&end=01.08&collection=eptic3">
-
 Il	PP3MSN0	il-p
 est	VMIP3S0	être-v
 temps	NCMN000	temps-n
@@ -45233,13 +42774,10 @@ au	SP+DA	à+le-i
 Sahel	NPMS000	Sahel-n
 .	Fp	.-x
 </s>
-
 <s id="1652:9" video="https://media.dipintra.it/?id=1652&start=01.08&end=01.09&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -45249,7 +42787,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="130" duration="short" durations="69.0" speed="slow" speedwm="113.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1653:1" video="https://media.dipintra.it/?id=1653&start=00.04&end=00.36&collection=eptic3">
-
 Monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
 Président	NPMS000	Président-n
@@ -45349,9 +42886,7 @@ notre	DP1CSP	notre-x
 débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
-
 <s id="1653:2" video="https://media.dipintra.it/?id=1653&start=00.36&end=00.55&collection=eptic3">
-
 Mais	CC	mais-c
 permettez-moi	VMM02P0	permettre-v
 ,	Fc	,-x
@@ -45412,9 +42947,7 @@ aujourd	AQ0MS0	aujourd-j
 hui	RG	hui-r
 .	Fp	.-x
 </s>
-
 <s id="1653:3" video="https://media.dipintra.it/?id=1653&start=00.55&end=01.13&collection=eptic3">
-
 Donc	RG	donc-r
 pouvez-vous	VMIP2P0	pouvoir-v
 nous	PP1CP00	nous-p
@@ -45476,7 +43009,6 @@ autorités	NCFP000	autorité-n
 algériennes	AQ0FP00	algérien-j
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -45486,7 +43018,6 @@ algériennes	AQ0FP00	algérien-j
 <st language="fr" length="short" lengthw="237" duration="short" durations="96.0" speed="medium" speedwm="148.1" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1654:1" video="https://media.dipintra.it/?id=1654&start=00.05&end=00.15&collection=eptic3">
-
 Oui	RG	oui-r
 ,	Fc	,-x
 moi	PP1CS00	moi-p
@@ -45530,9 +43061,7 @@ est	VMIP3S0	être-v
 scabreux	AQ0MN00	scabreux-j
 .	Fp	.-x
 </s>
-
 <s id="1654:2" video="https://media.dipintra.it/?id=1654&start=00.15&end=00.21&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -45561,9 +43090,7 @@ des	SP+D	de+les-i
 négociations	NCFP000	négociation-n
 .	Fp	.-x
 </s>
-
 <s id="1654:3" video="https://media.dipintra.it/?id=1654&start=00.21&end=00.38&collection=eptic3">
-
 On	PP3CSN0	on-p
 ne	RN	ne-r
 peut	VMIP3S0	pouvoir-v
@@ -45624,9 +43151,7 @@ libertés	NCFP000	liberté-n
 fondamentales	AQ0FP00	fondamental-j
 .	Fp	.-x
 </s>
-
 <s id="1654:4" video="https://media.dipintra.it/?id=1654&start=00.39&end=01.04&collection=eptic3">
-
 Les	DA0CP0	le-x
 migrants	NCMP000	migrant-n
 d'	SP	de-i
@@ -45728,9 +43253,7 @@ en	PP3CN00	en-p
 Libye	NP00000	Libye-n
 .	Fp	.-x
 </s>
-
 <s id="1654:5" video="https://media.dipintra.it/?id=1654&start=01.04&end=01.12&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 oui	RG	oui-r
@@ -45764,9 +43287,7 @@ absolument	RG	absolument-r
 urgent	AQ0MS00	urgent-j
 .	Fp	.-x
 </s>
-
 <s id="1654:6" video="https://media.dipintra.it/?id=1654&start=01.12&end=01.28&collection=eptic3">
-
 Cela	PD0CS00	cela-p
 passe	VMIP1S0	passer-v
 par	SP	par-i
@@ -45825,9 +43346,7 @@ les	DA0CP0	le-x
 moyens	NCMP000	moyen-n
 .	Fp	.-x
 </s>
-
 <s id="1654:7" video="https://media.dipintra.it/?id=1654&start=01.28&end=01.42&collection=eptic3">
-
 De	SP	de-i
 là	RG	là-r
 à	SP	à-i
@@ -45873,7 +43392,6 @@ les	DA0CP0	le-x
 traités	NCMP000	traité-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -45883,7 +43401,6 @@ traités	NCMP000	traité-n
 <st language="fr" length="medium" lengthw="442" duration="medium" durations="176.0" speed="medium" speedwm="150.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1655:1" video="https://media.dipintra.it/?id=1655&start=00.06&end=00.18&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -45952,9 +43469,7 @@ d	AQ0MS0	d-j
 asile	NCMS000	asile-n
 .	Fp	.-x
 </s>
-
 <s id="1655:2" video="https://media.dipintra.it/?id=1655&start=00.18&end=00.24&collection=eptic3">
-
 Ne	RN	ne-r
 perdons	VMM01P0	perdre-v
 pas	RN	pas-r
@@ -45981,9 +43496,7 @@ règles	NCFP000	règle-n
 communes	AQ0FP00	commun-j
 .	Fp	.-x
 </s>
-
 <s id="1655:3" video="https://media.dipintra.it/?id=1655&start=00.25&end=00.30&collection=eptic3">
-
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
 en	SP	en-i
@@ -46009,9 +43522,7 @@ d	NCMS000	d-n
 asile	NCMS000	asile-n
 .	Fp	.-x
 </s>
-
 <s id="1655:4" video="https://media.dipintra.it/?id=1655&start=00.31&end=00.38&collection=eptic3">
-
 Permettez-moi	VMM02P0	permettre-v
 également	RG	également-r
 de	SP	de-i
@@ -46042,9 +43553,7 @@ du	SP+D	de+le-i
 Conseil	NPMS000	Conseil-n
 .	Fp	.-x
 </s>
-
 <s id="1655:5" video="https://media.dipintra.it/?id=1655&start=00.38&end=00.41&collection=eptic3">
-
 On	PP3CSN0	on-p
 peut	VMIP3S0	pouvoir-v
 en	SP	en-i
@@ -46064,9 +43573,7 @@ entreprise	NCFS000	entreprise-n
 compliquée	VMP00SF	compliquer-v
 .	Fp	.-x
 </s>
-
 <s id="1655:6" video="https://media.dipintra.it/?id=1655&start=00.41&end=00.48&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -46092,9 +43599,7 @@ de	SP	de-i
 directives	NCFP000	directive-n
 .	Fp	.-x
 </s>
-
 <s id="1655:7" video="https://media.dipintra.it/?id=1655&start=00.48&end=00.53&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 préalables	NCMP000	préalable-n
 étant	VSG0000	être-v
@@ -46126,9 +43631,7 @@ aujourd	AQ0MS0	aujourd-j
 hui	RG	hui-r
 .	Fp	.-x
 </s>
-
 <s id="1655:8" video="https://media.dipintra.it/?id=1655&start=00.54&end=01.08&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 que	PR00000	que-p
 nous	PP1CP00	nous-p
@@ -46193,9 +43696,7 @@ la	DA0FS0	le-x
 crise	NCFS000	crise-n
 .	Fp	.-x
 </s>
-
 <s id="1655:9" video="https://media.dipintra.it/?id=1655&start=01.08&end=01.15&collection=eptic3">
-
 Or	CC	or-c
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -46221,9 +43722,7 @@ aux	SP+DA	à+les-i
 membres	NCMP000	membre-n
 .	Fp	.-x
 </s>
-
 <s id="1655:10" video="https://media.dipintra.it/?id=1655&start=01.15&end=01.26&collection=eptic3">
-
 Et	CC	et-c
 c	RG	c-r
 <g/>
@@ -46283,15 +43782,11 @@ d	AQ0MS0	d-j
 échelle	NCFS000	échelle-n
 .	Fp	.-x
 </s>
-
 <s id="1655:11" video="https://media.dipintra.it/?id=1655&start=01.27&end=01.27&collection=eptic3">
-
 Pourquoi	PT00000	pourquoi-p
 ?	Fit	?-x
 </s>
-
 <s id="1655:12" video="https://media.dipintra.it/?id=1655&start=01.28&end=01.51&collection=eptic3">
-
 Parce	NPFS000	Parce-n
 que	CS	que-c
 ces	DD0CP0	ce-x
@@ -46381,9 +43876,7 @@ des	SP+D	de+les-i
 coûts	NCMP000	coût-n
 .	Fp	.-x
 </s>
-
 <s id="1655:13" video="https://media.dipintra.it/?id=1655&start=01.52&end=01.57&collection=eptic3">
-
 Par	SP	par-i
 ailleurs	RG	ailleurs-r
 ,	Fc	,-x
@@ -46406,9 +43899,7 @@ système	NCMS000	système-n
 Dublin-Eurodac	NPMS000	Dublin-Eurodac-n
 ?	Fit	?-x
 </s>
-
 <s id="1655:14" video="https://media.dipintra.it/?id=1655&start=01.58&end=02.03&collection=eptic3">
-
 Pourquoi	PT00000	pourquoi-p
 aucun	DI0MS0	aucun-x
 État	NPMS000	État-n
@@ -46435,9 +43926,7 @@ ce	DD0MS0	ce-x
 système	NCMS000	système-n
 ?	Fit	?-x
 </s>
-
 <s id="1655:15" video="https://media.dipintra.it/?id=1655&start=02.04&end=02.17&collection=eptic3">
-
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
 pourtant	RG	pourtant-r
@@ -46493,9 +43982,7 @@ système	NCMS000	système-n
 Dublin	NP00000	Dublin-n
 .	Fp	.-x
 </s>
-
 <s id="1655:16" video="https://media.dipintra.it/?id=1655&start=02.17&end=02.23&collection=eptic3">
-
 Donc	CC	donc-c
 ,	Fc	,-x
 s	NCFP000	s-n
@@ -46527,9 +44014,7 @@ régime	NCMS000	régime-n
 Dublin	NP00000	Dublin-n
 .	Fp	.-x
 </s>
-
 <s id="1655:17" video="https://media.dipintra.it/?id=1655&start=02.23&end=02.33&collection=eptic3">
-
 De	SP	de-i
 mon	DP1CSS	mon-x
 côté	NCMS000	côté-n
@@ -46579,9 +44064,7 @@ du	SP+D	de+le-i
 processus	NCMN000	processus-n
 .	Fp	.-x
 </s>
-
 <s id="1655:18" video="https://media.dipintra.it/?id=1655&start=02.33&end=02.37&collection=eptic3">
-
 Ces	DD0CP0	ce-x
 dysfonctionnements	NCMP000	dysfonctionnement-n
 pèsent	VMIP3P0	peser-v
@@ -46600,9 +44083,7 @@ de	SP	de-i
 persécutions	NCFP000	persécution-n
 .	Fp	.-x
 </s>
-
 <s id="1655:19" video="https://media.dipintra.it/?id=1655&start=02.37&end=02.49&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -46647,9 +44128,7 @@ dénominateurs	NCMP000	dénominateur-n
 communs	AQ0MP00	commun-j
 .	Fp	.-x
 </s>
-
 <s id="1655:20" video="https://media.dipintra.it/?id=1655&start=02.50&end=02.57&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
 des	SP+D	de+les-i
@@ -46683,15 +44162,12 @@ ce	DD0MS0	ce-x
 débat	NCMS000	débat-n
 .	Fp	.-x
 </s>
-
 <s id="1655:21" video="https://media.dipintra.it/?id=1655&start=02.57&end=02.58&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -46701,7 +44177,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="326" duration="medium" durations="151.0" speed="slow" speedwm="129.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1656:1" video="https://media.dipintra.it/?id=1656&start=00.20&end=00.48&collection=eptic3">
-
 Oui	RG	oui-r
 ,	Fc	,-x
 merci	NCMS000	merci-n
@@ -46823,9 +44298,7 @@ certain	AQ0MS00	certain-j
 temps	NCMN000	temps-n
 .	Fp	.-x
 </s>
-
 <s id="1656:2" video="https://media.dipintra.it/?id=1656&start=00.48&end=00.59&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 alors	RG	alors-r
 on	PP3CSN0	on-p
@@ -46863,9 +44336,7 @@ par	SP	par-i
 là	RG	là-r
 .	Fp	.-x
 </s>
-
 <s id="1656:3" video="https://media.dipintra.it/?id=1656&start=00.59&end=01.03&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 qu	RG	qu-r
 <g/>
@@ -46897,9 +44368,7 @@ coût	NCMS000	coût-n
 financier	AQ0MS00	financier-j
 ?	Fit	?-x
 </s>
-
 <s id="1656:4" video="https://media.dipintra.it/?id=1656&start=01.03&end=01.07&collection=eptic3">
-
 Et	CC	et-c
 quelquefois	RG	quelquefois-r
 ,	Fc	,-x
@@ -46914,9 +44383,7 @@ sont	VSIP3P0	être-v
 liés	VMP00PM	lier-v
 .	Fp	.-x
 </s>
-
 <s id="1656:5" video="https://media.dipintra.it/?id=1656&start=01.08&end=01.15&collection=eptic3">
-
 Ehm	FPAUSE	ehm
 il	PP3MSN0	il-p
 y	PP3CN00	y-p
@@ -46955,9 +44422,7 @@ est	VMIP3S0	être-v
 déficiente	AQ0FS00	déficient-j
 .	Fp	.-x
 </s>
-
 <s id="1656:6" video="https://media.dipintra.it/?id=1656&start=01.15&end=01.30&collection=eptic3">
-
 D'	SP	de-i
 <g/>
 abord	NCMS000	abord-n
@@ -47032,9 +44497,7 @@ absolument	RG	absolument-r
 insupportables	AQ0CP00	insupportable-j
 .	Fp	.-x
 </s>
-
 <s id="1656:7" video="https://media.dipintra.it/?id=1656&start=01.30&end=01.35&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 par	SP	par-i
@@ -47049,9 +44512,7 @@ en	SP	en-i
 Europe	NPCS000	Europe-n
 !	Fat	!-x
 </s>
-
 <s id="1656:8" video="https://media.dipintra.it/?id=1656&start=01.35&end=01.49&collection=eptic3">
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 aux	SP+DA	à+les-i
@@ -47091,9 +44552,7 @@ procédures	NCFP000	procédure-n
 bâclées	VMP00PF	bâcler-v
 .	Fp	.-x
 </s>
-
 <s id="1656:9" video="https://media.dipintra.it/?id=1656&start=01.49&end=02.05&collection=eptic3">
-
 Donc	CC	donc-c
 je	PP1CSN0	je-p
 crois	VMIP1S0	croire-v
@@ -47150,9 +44609,7 @@ la	DA0FS0	le-x
 situation	NCFS000	situation-n
 .	Fp	.-x
 </s>
-
 <s id="1656:10" video="https://media.dipintra.it/?id=1656&start=02.05&end=02.19&collection=eptic3">
-
 Alors	RG	alors-r
 ,	Fc	,-x
 il	PP3MSN0	il-p
@@ -47212,9 +44669,7 @@ première	AQ0FS00	premier-j
 instance	NCFS000	instance-n
 .	Fp	.-x
 </s>
-
 <s id="1656:11" video="https://media.dipintra.it/?id=1656&start=02.19&end=02.25&collection=eptic3">
-
 Et	CC	et-c
 ça	PD0MS00	cela-p
 évidemment	RG	évidemment-r
@@ -47241,9 +44696,7 @@ absolument	RG	absolument-r
 considérable	AQ0CS00	considérable-j
 .	Fp	.-x
 </s>
-
 <s id="1656:12" video="https://media.dipintra.it/?id=1656&start=02.25&end=02.37&collection=eptic3">
-
 Les	DA0CP0	le-x
 aberrations	NCFP000	aberration-n
 de	SP	de-i
@@ -47285,9 +44738,7 @@ absolument	RG	absolument-r
 considérable	AQ0CS00	considérable-j
 .	Fp	.-x
 </s>
-
 <s id="1656:13" video="https://media.dipintra.it/?id=1656&start=02.37&end=02.41&collection=eptic3">
-
 Et	CC	et-c
 puis	CC	puis-c
 j	RG	j-r
@@ -47319,9 +44770,7 @@ la	DA0FS0	le-x
 détention	NCFS000	détention-n
 .	Fp	.-x
 </s>
-
 <s id="1656:14" video="https://media.dipintra.it/?id=1656&start=02.42&end=02.45&collection=eptic3">
-
 La	DA0FS0	le-x
 détention	NCFS000	détention-n
 des	SP+D	de+les-i
@@ -47336,9 +44785,7 @@ coût	NCMS000	coût-n
 prohibitif	AQ0MS00	prohibitif-j
 .	Fp	.-x
 </s>
-
 <s id="1656:15" video="https://media.dipintra.it/?id=1656&start=02.46&end=02.50&collection=eptic3">
-
 Il	PP3MSN0	il-p
 faut	VMIP3S0	faillir-v
 le	PP3MSA0	le-p
@@ -47364,7 +44811,6 @@ absolument	RG	absolument-r
 urgent	AQ0MS00	urgent-j
 !	Fat	!-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -47374,7 +44820,6 @@ urgent	AQ0MS00	urgent-j
 <st language="fr" length="medium" lengthw="437" duration="medium" durations="163.0" speed="high" speedwm="160.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1657:1" video="https://media.dipintra.it/?id=1657&start=00.05&end=00.05&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 m	NCMS000	m-n
 <g/>
@@ -47382,15 +44827,11 @@ m	NCMS000	m-n
 entendez	VMIP2P0	entendre-v
 ?	Fit	?-x
 </s>
-
 <s id="1657:2" video="https://media.dipintra.it/?id=1657&start=00.05&end=00.06&collection=eptic3">
-
 Ouais	I	ouais-x
 .	Fp	.-x
 </s>
-
 <s id="1657:3" video="https://media.dipintra.it/?id=1657&start=00.06&end=00.26&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -47471,9 +44912,7 @@ ces	DD0CP0	ce-x
 matières-là	RG	matières-là-r
 .	Fp	.-x
 </s>
-
 <s id="1657:4" video="https://media.dipintra.it/?id=1657&start=00.26&end=00.28&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 ensuite	RG	ensuite-r
@@ -47482,9 +44921,7 @@ le	DA0MS0	le-x
 rapporteur	NCMS000	rapporteur-n
 .	Fp	.-x
 </s>
-
 <s id="1657:5" video="https://media.dipintra.it/?id=1657&start=00.28&end=00.44&collection=eptic3">
-
 On	PP3CSN0	on-p
 fait	VMIP3S0	faire-v
 souvent	RG	souvent-r
@@ -47563,9 +45000,7 @@ doit	VMIP3S0	devoir-v
 souligné	VMP00SM	souligner-v
 .	Fp	.-x
 </s>
-
 <s id="1657:6" video="https://media.dipintra.it/?id=1657&start=00.44&end=00.50&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 alors	RG	alors-r
@@ -47586,9 +45021,7 @@ doit	VMIP3S0	devoir-v
 avancer	VMN0000	avancer-v
 .	Fp	.-x
 </s>
-
 <s id="1657:7" video="https://media.dipintra.it/?id=1657&start=00.50&end=00.55&collection=eptic3">
-
 On	PP3CSN0	on-p
 l	NCMS000	l-n
 <g/>
@@ -47617,9 +45050,7 @@ l	NCMS000	l-n
 économie	NCFS000	économie-n
 .	Fp	.-x
 </s>
-
 <s id="1657:8" video="https://media.dipintra.it/?id=1657&start=00.56&end=01.03&collection=eptic3">
-
 On	PP3CSN0	on-p
 sait	VMIP3S0	savoir-v
 que	CS	que-c
@@ -47649,9 +45080,7 @@ plus	RG	plus-r
 forts	AQ0MP00	fort-j
 .	Fp	.-x
 </s>
-
 <s id="1657:9" video="https://media.dipintra.it/?id=1657&start=01.03&end=01.22&collection=eptic3">
-
 Et	CC	et-c
 donc	CC	donc-c
 il	PP3MSN0	il-p
@@ -47738,9 +45167,7 @@ peu	RG	peu-r
 transparents	AQ0MP00	transparent-j
 .	Fp	.-x
 </s>
-
 <s id="1657:10" video="https://media.dipintra.it/?id=1657&start=01.22&end=01.41&collection=eptic3">
-
 Et	CC	et-c
 donc	CC	donc-c
 nous	PP1CP00	nous-p
@@ -47847,9 +45274,7 @@ de	SP	de-i
 marché	NCMS000	marché-n
 .	Fp	.-x
 </s>
-
 <s id="1657:11" video="https://media.dipintra.it/?id=1657&start=01.41&end=01.47&collection=eptic3">
-
 Deuxième	AO0CS00	2-j
 secteur	NCMS000	secteur-n
 ,	Fc	,-x
@@ -47873,9 +45298,7 @@ premières	AQ0FP00	premier-j
 alimentaires	AQ0CP00	alimentaire-j
 .	Fp	.-x
 </s>
-
 <s id="1657:12" video="https://media.dipintra.it/?id=1657&start=01.47&end=02.05&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 savons	VMIP1P0	savoir-v
 que	CS	que-c
@@ -47943,9 +45366,7 @@ compétition	NCFS000	compétition-n
 fiscale	AQ0FS00	fiscal-j
 .	Fp	.-x
 </s>
-
 <s id="1657:13" video="https://media.dipintra.it/?id=1657&start=02.06&end=02.16&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 savez	VMIP2P0	savoir-v
 que	CS	que-c
@@ -47991,9 +45412,7 @@ général	NCMS000	général-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1657:14" video="https://media.dipintra.it/?id=1657&start=02.16&end=02.19&collection=eptic3">
-
 Ce	PP0CNN0	ce-p
 sont	VMIP3P0	être-v
 des	SP+D	de+les-i
@@ -48008,9 +45427,7 @@ un	DI0MS0	un-x
 terme	NCMS000	terme-n
 .	Fp	.-x
 </s>
-
 <s id="1657:15" video="https://media.dipintra.it/?id=1657&start=02.19&end=02.27&collection=eptic3">
-
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
 que	CS	que-c
@@ -48052,9 +45469,7 @@ ce	PP0CNN0	ce-p
 problème-là	RG	problème-là-r
 .	Fp	.-x
 </s>
-
 <s id="1657:16" video="https://media.dipintra.it/?id=1657&start=02.28&end=02.38&collection=eptic3">
-
 Dernier	AQ0MS00	dernier-j
 point	NCMS000	point-n
 ,	Fc	,-x
@@ -48092,9 +45507,7 @@ fret	NCMS000	fret-n
 aérien	AQ0MS00	aérien-j
 .	Fp	.-x
 </s>
-
 <s id="1657:17" video="https://media.dipintra.it/?id=1657&start=02.39&end=02.47&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 saluons	VMIP1P0	saluer-v
 aussi	RG	aussi-r
@@ -48132,15 +45545,12 @@ un	DI0MS0	un-x
 instant	NCMS000	instant-n
 .	Fp	.-x
 </s>
-
 <s id="1657:18" video="https://media.dipintra.it/?id=1657&start=02.47&end=02.47&collection=eptic3">
-
 Je	PP1CSN0	je-p
 vous	PP2CP00	vous-p
 remercie	VMIP1S0	remercier-v
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -48150,7 +45560,6 @@ remercie	VMIP1S0	remercier-v
 <st language="fr" length="short" lengthw="150" duration="short" durations="59.0" speed="medium" speedwm="152.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1658:1" video="https://media.dipintra.it/?id=1658&start=00.06&end=00.10&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -48180,9 +45589,7 @@ près	RG	près-r
 impossible	AQ0CS00	impossible-j
 .	Fp	.-x
 </s>
-
 <s id="1658:2" video="https://media.dipintra.it/?id=1658&start=00.10&end=00.11&collection=eptic3">
-
 Simplement	RG	simplement-r
 ,	Fc	,-x
 de	SP	de-i
@@ -48193,9 +45600,7 @@ s	VMII1S0	s-v
 agit-il	VMIP3S0	agir-v
 ?	Fit	?-x
 </s>
-
 <s id="1658:3" video="https://media.dipintra.it/?id=1658&start=00.12&end=00.25&collection=eptic3">
-
 La	DA0FS0	le-x
 Banque	NPFS000	Banque-n
 centrale	AQ0FS00	central-j
@@ -48229,9 +45634,7 @@ toutes	DI0FP0	tout-x
 sortes	NCFP000	sorte-n
 .	Fp	.-x
 </s>
-
 <s id="1658:4" video="https://media.dipintra.it/?id=1658&start=00.26&end=00.40&collection=eptic3">
-
 Mais	CC	mais-c
 on	PP3CSN0	on-p
 ne	RN	ne-r
@@ -48290,9 +45693,7 @@ valeur	NCFS000	valeur-n
 nulle	AQ0FS00	nul-j
 .	Fp	.-x
 </s>
-
 <s id="1658:5" video="https://media.dipintra.it/?id=1658&start=00.40&end=00.44&collection=eptic3">
-
 Et	CC	et-c
 donc	RG	donc-r
 de	SP	de-i
@@ -48310,9 +45711,7 @@ d	NCMS000	d-n
 aide	NCCS000	aide-n
 .	Fp	.-x
 </s>
-
 <s id="1658:6" video="https://media.dipintra.it/?id=1658&start=00.44&end=00.58&collection=eptic3">
-
 Clairement	RG	clairement-r
 ,	Fc	,-x
 si	CS	si-c
@@ -48361,9 +45760,7 @@ le	DA0MS0	le-x
 paillasson	NCMS000	paillasson-n
 .	Fp	.-x
 </s>
-
 <s id="1658:7" video="https://media.dipintra.it/?id=1658&start=00.58&end=01.04&collection=eptic3">
-
 Alors	RG	alors-r
 trouver	VMN0000	trouver-v
 une	DI0FS0	un-x
@@ -48405,7 +45802,6 @@ ces	DD0CP0	ce-x
 actions-là	RG	actions-là-r
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -48415,7 +45811,6 @@ actions-là	RG	actions-là-r
 <st language="fr" length="short" lengthw="208" duration="short" durations="76.0" speed="high" speedwm="164.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1659:1" video="https://media.dipintra.it/?id=1659&start=00.04&end=00.19&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -48476,9 +45871,7 @@ mêmes	AQ0CP00	même-j
 choses	NCFP000	chose-n
 .	Fp	.-x
 </s>
-
 <s id="1659:2" video="https://media.dipintra.it/?id=1659&start=00.19&end=00.22&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 rendons	VMIP1P0	rendre-v
 une	DI0FS0	un-x
@@ -48491,9 +45884,7 @@ objet	NCMS000	objet-n
 mort	VMP00SM	mourir-v
 .	Fp	.-x
 </s>
-
 <s id="1659:3" video="https://media.dipintra.it/?id=1659&start=00.22&end=00.43&collection=eptic3">
-
 On	PP3CSN0	on-p
 est	VMIP3S0	être-v
 là	RG	là-r
@@ -48596,9 +45987,7 @@ des	SP+D	de+les-i
 acheteurs	NCMP000	acheteur-n
 .	Fp	.-x
 </s>
-
 <s id="1659:4" video="https://media.dipintra.it/?id=1659&start=00.43&end=00.47&collection=eptic3">
-
 On	PP3CSN0	on-p
 a	VMIP3S0	avoir-v
 besoin	NCMS000	besoin-n
@@ -48617,9 +46006,7 @@ l	NCMS000	l-n
 internet	NCMS000	internet-n
 .	Fp	.-x
 </s>
-
 <s id="1659:5" video="https://media.dipintra.it/?id=1659&start=00.48&end=00.51&collection=eptic3">
-
 Mais	CC	mais-c
 c	RG	c-r
 <g/>
@@ -48634,9 +46021,7 @@ la	DA0FS0	le-x
 Commission	NPFS000	Commission-n
 .	Fp	.-x
 </s>
-
 <s id="1659:6" video="https://media.dipintra.it/?id=1659&start=00.51&end=00.56&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 nous	PP1CP00	nous-p
 envoyez	VMIP2P0	envoyer-v
@@ -48653,9 +46038,7 @@ des	SP+D	de+les-i
 sujets	NCMP000	sujet-n
 .	Fp	.-x
 </s>
-
 <s id="1659:7" video="https://media.dipintra.it/?id=1659&start=00.56&end=00.59&collection=eptic3">
-
 On	PP3CSN0	on-p
 répond	VMIP3S0	répondre-v
 poliment	RG	poliment-r
@@ -48685,9 +46068,7 @@ un	DI0MS0	un-x
 tiroir	NCMS000	tiroir-n
 .	Fp	.-x
 </s>
-
 <s id="1659:8" video="https://media.dipintra.it/?id=1659&start=00.59&end=01.06&collection=eptic3">
-
 Voilà	I	voilà-x
 ,	Fc	,-x
 moi	PP1CS00	moi-p
@@ -48727,9 +46108,7 @@ monde	NCMS000	monde-n
 change	NCMS000	change-n
 .	Fp	.-x
 </s>
-
 <s id="1659:9" video="https://media.dipintra.it/?id=1659&start=01.06&end=01.11&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -48779,9 +46158,7 @@ d	AQ0MS0	d-j
 État	NPMS000	État-n
 .	Fp	.-x
 </s>
-
 <s id="1659:10" video="https://media.dipintra.it/?id=1659&start=01.12&end=01.13&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 ,	Fc	,-x
 je	PP1CSN0	je-p
@@ -48791,9 +46168,7 @@ pas	RN	pas-r
 favorable	AQ0CS00	favorable-j
 .	Fp	.-x
 </s>
-
 <s id="1659:11" video="https://media.dipintra.it/?id=1659&start=01.13&end=01.20&collection=eptic3">
-
 Je	PP1CSN0	je-p
 ne	RN	ne-r
 suis	VMIP1S0	suivre-v
@@ -48820,13 +46195,10 @@ et	CC	et-c
 réveillons-nous	VMM01P0	réveiller-v
 !	Fat	!-x
 </s>
-
 <s id="1659:12" video="https://media.dipintra.it/?id=1659&start=01.20&end=01.20&collection=eptic3">
-
 Merci	NCMS000	merci-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -48836,7 +46208,6 @@ Merci	NCMS000	merci-n
 <st language="fr" length="short" lengthw="375" duration="medium" durations="169.0" speed="medium" speedwm="133.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1660:1" video="https://media.dipintra.it/?id=1660&start=00.06&end=00.19&collection=eptic3">
-
 Merci	NCMS000	merci-n
 monsieur	NCMS000	monsieur-n
 le	DA0MS0	le-x
@@ -48892,9 +46263,7 @@ d	AQ0MS0	d-j
 intérêt	NCMS000	intérêt-n
 .	Fp	.-x
 </s>
-
 <s id="1660:2" video="https://media.dipintra.it/?id=1660&start=00.20&end=00.25&collection=eptic3">
-
 Elle	PP3FS00	elle-p
 offre	VMIP1S0	offrir-v
 un	DI0MS0	un-x
@@ -48914,9 +46283,7 @@ minorités	NCFP000	minorité-n
 chrétiennes	AQ0FP00	chrétien-j
 .	Fp	.-x
 </s>
-
 <s id="1660:3" video="https://media.dipintra.it/?id=1660&start=00.26&end=00.48&collection=eptic3">
-
 Nous	PP1CP00	nous-p
 sommes	VSIP1P0	être-v
 tous	PI0MP00	tout-p
@@ -48998,9 +46365,7 @@ en	SP	en-i
 Dieu	NPMS000	Dieu-n
 .	Fp	.-x
 </s>
-
 <s id="1660:4" video="https://media.dipintra.it/?id=1660&start=00.49&end=00.59&collection=eptic3">
-
 Si	CS	si-c
 nous	PP1CP00	nous-p
 voulons	VMIP1P0	vouloir-v
@@ -49038,9 +46403,7 @@ ces	DD0CP0	ce-x
 intégrismes	NCMP000	intégrisme-n
 .	Fp	.-x
 </s>
-
 <s id="1660:5" video="https://media.dipintra.it/?id=1660&start=00.59&end=01.06&collection=eptic3">
-
 Aucune	DI0FS0	aucun-x
 religion	NCFS000	religion-n
 n	NCFS000	n-n
@@ -49070,9 +46433,7 @@ ces	DD0CP0	ce-x
 intolérables	AQ0CP00	intolérable-j
 .	Fp	.-x
 </s>
-
 <s id="1660:6" video="https://media.dipintra.it/?id=1660&start=01.06&end=01.13&collection=eptic3">
-
 Rappelons-nous	VMM01P0	rappeler-v
 simplement	RG	simplement-r
 les	DA0CP0	le-x
@@ -49092,9 +46453,7 @@ Amérique	NP00000	Amérique-n
 latine	NCFS000	latin-n
 .	Fp	.-x
 </s>
-
 <s id="1660:7" video="https://media.dipintra.it/?id=1660&start=01.13&end=01.19&collection=eptic3">
-
 Rappelons-nous	VMM01P0	rappeler-v
 de	SP	de-i
 la	DA0FS0	le-x
@@ -49119,9 +46478,7 @@ et	CC	et-c
 protestants	AQ0MP00	protestant-j
 .	Fp	.-x
 </s>
-
 <s id="1660:8" video="https://media.dipintra.it/?id=1660&start=01.19&end=01.28&collection=eptic3">
-
 Souvenons-nous	VMM01P0	souvenir-v
 de	SP	de-i
 l	NCMS000	l-n
@@ -49161,9 +46518,7 @@ Union	NPFS000	Union-n
 européenne	AQ0FS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1660:9" video="https://media.dipintra.it/?id=1660&start=01.29&end=01.37&collection=eptic3">
-
 Toutes	DI0FP0	tout-x
 les	DA0CP0	le-x
 religions	NCFP000	religion-n
@@ -49187,9 +46542,7 @@ mêmes	AQ0CP00	même-j
 religions	NCFP000	religion-n
 .	Fp	.-x
 </s>
-
 <s id="1660:10" video="https://media.dipintra.it/?id=1660&start=01.37&end=01.43&collection=eptic3">
-
 De	SP	de-i
 ce	DD0MS0	ce-x
 point	NCMS000	point-n
@@ -49215,9 +46568,7 @@ est	VMIP3S0	être-v
 exemplaire	AQ0CS00	exemplaire-j
 .	Fp	.-x
 </s>
-
 <s id="1660:11" video="https://media.dipintra.it/?id=1660&start=01.43&end=02.02&collection=eptic3">
-
 Cet	DD0MS0	ce-x
 homme	NCMS000	homme-n
 a	VAIP3S0	avoir-v
@@ -49290,9 +46641,7 @@ pénal	AQ0MS00	pénal-j
 pakistanais	NCMN000	pakistanais-n
 .	Fp	.-x
 </s>
-
 <s id="1660:12" video="https://media.dipintra.it/?id=1660&start=02.03&end=02.10&collection=eptic3">
-
 L	NP00000	L-n
 <g/>
 '	Fe	'-x
@@ -49320,9 +46669,7 @@ plus	RG	plus-r
 insupportable	AQ0CS00	insupportable-j
 .	Fp	.-x
 </s>
-
 <s id="1660:13" video="https://media.dipintra.it/?id=1660&start=02.11&end=02.33&collection=eptic3">
-
 N	NP00000	N-n
 <g/>
 '	Fe	'-x
@@ -49400,9 +46747,7 @@ la	DA0FS0	le-x
 clandestinité	NCFS000	clandestinité-n
 .	Fp	.-x
 </s>
-
 <s id="1660:14" video="https://media.dipintra.it/?id=1660&start=02.33&end=02.54&collection=eptic3">
-
 En	SP	en-i
 conséquence	NCFS000	conséquence-n
 ,	Fc	,-x
@@ -49485,7 +46830,6 @@ de	SP	de-i
 leçon	NCFS000	leçon-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>
@@ -49495,7 +46839,6 @@ leçon	NCFS000	leçon-n
 <st language="fr" length="short" lengthw="368" duration="medium" durations="156.0" speed="medium" speedwm="141.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
 <s id="1661:1" video="https://media.dipintra.it/?id=1661&start=00.06&end=00.14&collection=eptic3">
-
 Oui	RG	oui-r
 ,	Fc	,-x
 tout	PI0MS00	tout-p
@@ -49529,9 +46872,7 @@ jeudi	NCMS000	jeudi-n
 après-midi	NCCS000	après-midi-n
 .	Fp	.-x
 </s>
-
 <s id="1661:2" video="https://media.dipintra.it/?id=1661&start=00.15&end=00.23&collection=eptic3">
-
 Moi	PP1CS00	moi-p
 qui	PR00000	qui-p
 y	PP3CN00	y-p
@@ -49568,9 +46909,7 @@ peu	RG	peu-r
 exceptionnel	AQ0MS00	exceptionnel-j
 .	Fp	.-x
 </s>
-
 <s id="1661:3" video="https://media.dipintra.it/?id=1661&start=00.24&end=00.39&collection=eptic3">
-
 Je	PP1CSN0	je-p
 voudrais	VMIC1S0	vouloir-v
 m	NCMS000	m-n
@@ -49639,9 +46978,7 @@ oh	I	oh-x
 <g/>
 ...	EPAUSE	...-x
 </s>
-
 <s id="1661:4" video="https://media.dipintra.it/?id=1661&start=00.46&end=00.48&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 voulez	VMIP2P0	vouloir-v
 vous	PP2CP00	vous-p
@@ -49652,9 +46989,7 @@ cher	AQ0MS00	cher-j
 collègue	NCCS000	collègue-n
 ?	Fit	?-x
 </s>
-
 <s id="1661:5" video="https://media.dipintra.it/?id=1661&start=00.48&end=00.50&collection=eptic3">
-
 Mais	CC	mais-c
 faites-le	VMP00PF	faire-v
 dans	SP	dans-i
@@ -49666,9 +47001,7 @@ vous	PP2CP00	vous-p
 répondrai	VMIF1S0	répondre-v
 .	Fp	.-x
 </s>
-
 <s id="1661:6" video="https://media.dipintra.it/?id=1661&start=00.51&end=00.53&collection=eptic3">
-
 Ça	PD0MS00	cela-p
 s	VMII1S0	s-v
 <g/>
@@ -49682,9 +47015,7 @@ personnelle	AQ0FS00	personnel-j
 <g/>
 ...	EPAUSE	...-x
 </s>
-
 <s id="1661:7" video="https://media.dipintra.it/?id=1661&start=00.56&end=01.00&collection=eptic3">
-
 Vous	PP2CP00	vous-p
 êtes	VMIP2P0	être-v
 italien	AQ0MS00	italien-j
@@ -49706,9 +47037,7 @@ qu	AQ0MS0	qu-j
 Italien	NPMS000	Italien-n
 .	Fp	.-x
 </s>
-
 <s id="1661:8" video="https://media.dipintra.it/?id=1661&start=01.00&end=01.07&collection=eptic3">
-
 N	NP00000	N-n
 <g/>
 '	Fe	'-x
@@ -49744,9 +47073,7 @@ jeudi	NCMS000	jeudi-n
 après-midi	NCCS000	après-midi-n
 .	Fp	.-x
 </s>
-
 <s id="1661:9" video="https://media.dipintra.it/?id=1661&start=01.08&end=01.11&collection=eptic3">
-
 Je	PP1CSN0	je-p
 suis	VMIP1S0	suivre-v
 là	RG	là-r
@@ -49759,9 +47086,7 @@ moi	PP1CS00	moi-p
 monsieur	NCMS000	monsieur-n
 !	Fat	!-x
 </s>
-
 <s id="1661:10" video="https://media.dipintra.it/?id=1661&start=01.11&end=01.14&collection=eptic3">
-
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
 jeudis	NCMP000	jeudi-n
@@ -49774,9 +47099,7 @@ en	SP	en-i
 séance	NCFS000	séance-n
 !	Fat	!-x
 </s>
-
 <s id="1661:11" video="https://media.dipintra.it/?id=1661&start=01.17&end=01.26&collection=eptic3">
-
 Alors	RG	alors-r
 laissez-moi	VMIP2P0	laisser-v
 parler	VMN0000	parler-v
@@ -49784,8 +47107,6 @@ dans	SP	dans-i
 le	DA0MS0	le-x
 calme	NCMS000	calme-n
 !	Fat	!-x
-</s>
-
 Je	PP1CSN0	je-p
 n	NCFS000	n-n
 <g/>
@@ -49814,9 +47135,7 @@ d	NCMS000	d-n
 interrompue	VMP00SF	interrompre-v
 .	Fp	.-x
 </s>
-
 <s id="1661:12" video="https://media.dipintra.it/?id=1661&start=01.28&end=01.30&collection=eptic3">
-
 Est-ce	VMIP3S0	être-v
 que	CS	que-c
 monsieur	NCMS000	monsieur-n
@@ -49832,9 +47151,7 @@ de	SP	de-i
 parole	NCFS000	parole-n
 ?	Fit	?-x
 </s>
-
 <s id="1661:13" video="https://media.dipintra.it/?id=1661&start=01.35&end=01.47&collection=eptic3">
-
 Je	PP1CSN0	je-p
 constate	VMIP1S0	constater-v
 aussi	RG	aussi-r
@@ -49888,9 +47205,7 @@ affaires	NCFP000	affaire-n
 italiennes	AQ0FP00	italien-j
 .	Fp	.-x
 </s>
-
 <s id="1661:14" video="https://media.dipintra.it/?id=1661&start=01.47&end=01.48&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -49899,9 +47214,7 @@ un	DI0MS0	un-x
 constat	NCMS000	constat-n
 .	Fp	.-x
 </s>
-
 <s id="1661:15" video="https://media.dipintra.it/?id=1661&start=01.48&end=01.50&collection=eptic3">
-
 Il	PP3MSN0	il-p
 suffit	VMIP3S0	suffire-v
 de	SP	de-i
@@ -49913,9 +47226,7 @@ Parlement	NPMS000	Parlement-n
 européen	AQ0MS00	européen-j
 .	Fp	.-x
 </s>
-
 <s id="1661:16" video="https://media.dipintra.it/?id=1661&start=01.51&end=01.55&collection=eptic3">
-
 Il	PP3MSN0	il-p
 ne	RN	ne-r
 s	VMII1S0	s-v
@@ -49936,9 +47247,7 @@ non	RG	non-r
 coupable	AQ0CS00	coupable-j
 .	Fp	.-x
 </s>
-
 <s id="1661:17" video="https://media.dipintra.it/?id=1661&start=01.56&end=02.02&collection=eptic3">
-
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
 -	Fg	--x
@@ -49967,9 +47276,7 @@ les	DA0CP0	le-x
 Italiens	NPMP000	Italiens-n
 .	Fp	.-x
 </s>
-
 <s id="1661:18" video="https://media.dipintra.it/?id=1661&start=02.02&end=02.05&collection=eptic3">
-
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
 que	RN	que-r
@@ -49985,9 +47292,7 @@ les	DA0CP0	le-x
 Italiens	NPMP000	Italiens-n
 .	Fp	.-x
 </s>
-
 <s id="1661:19" video="https://media.dipintra.it/?id=1661&start=02.05&end=02.08&collection=eptic3">
-
 Je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
 que	CS	que-c
@@ -49999,9 +47304,7 @@ nombreuses	AQ0FP00	nombreux-j
 victimes	NCFP000	victime-n
 .	Fp	.-x
 </s>
-
 <s id="1661:20" video="https://media.dipintra.it/?id=1661&start=02.08&end=02.15&collection=eptic3">
-
 Mais	CC	mais-c
 je	PP1CSN0	je-p
 sais	VMIP1S0	savoir-v
@@ -50026,9 +47329,7 @@ en	SP	en-i
 Italie	NP00000	Italie-n
 .	Fp	.-x
 </s>
-
 <s id="1661:21" video="https://media.dipintra.it/?id=1661&start=02.15&end=02.19&collection=eptic3">
-
 Tous	DI0MP0	tout-x
 les	DA0CP0	le-x
 coupables	NCCP000	coupable-n
@@ -50048,9 +47349,7 @@ en	SP	en-i
 Italie	NP00000	Italie-n
 !	Fat	!-x
 </s>
-
 <s id="1661:22" video="https://media.dipintra.it/?id=1661&start=02.21&end=02.26&collection=eptic3">
-
 Donc	CC	donc-c
 je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
@@ -50074,9 +47373,7 @@ m	NCMS000	m-n
 interrompre	VMN0000	interrompre-v
 ?	Fit	?-x
 </s>
-
 <s id="1661:23" video="https://media.dipintra.it/?id=1661&start=02.26&end=02.28&collection=eptic3">
-
 On	PP3CSN0	on-p
 se	PP3CN00	se-p
 croirait	VMIC3S0	croire-v
@@ -50086,9 +47383,7 @@ Parlement	NPMS000	Parlement-n
 national	AQ0MS00	national-j
 !	Fat	!-x
 </s>
-
 <s id="1661:24" video="https://media.dipintra.it/?id=1661&start=02.28&end=02.30&collection=eptic3">
-
 C	NP00000	C-n
 <g/>
 '	Fe	'-x
@@ -50107,9 +47402,7 @@ d	NCMS000	d-n
 habitude	NCFS000	habitude-n
 !	Fat	!-x
 </s>
-
 <s id="1661:25" video="https://media.dipintra.it/?id=1661&start=02.32&end=02.52&collection=eptic3">
-
 Mais	CC	mais-c
 ,	Fc	,-x
 monsieur	NCMS000	monsieur-n
@@ -50130,8 +47423,6 @@ se	PP3CN00	se-p
 faire	VMN0000	faire-v
 interrompre	VMN0000	interrompre-v
 ?	Fit	?-x
-</s>
-
 Je	PP1CSN0	je-p
 pense	VMIP1S0	penser-v
 que	CS	que-c
@@ -50163,9 +47454,7 @@ l	NCMS000	l-n
 Italie	NP00000	Italie-n
 .	Fp	.-x
 </s>
-
 <s id="1661:26" video="https://media.dipintra.it/?id=1661&start=02.53&end=03.02&collection=eptic3">
-
 Il	PP3MSN0	il-p
 s	NCFP000	s-n
 <g/>
@@ -50207,9 +47496,7 @@ sa	DP3FSS	son-x
 décision	NCFS000	décision-n
 .	Fp	.-x
 </s>
-
 <s id="1661:27" video="https://media.dipintra.it/?id=1661&start=03.02&end=03.29&collection=eptic3">
-
 La	DA0FS0	le-x
 justice	NCFS000	justice-n
 brésilienne	AQ0FS00	brésilien-j
@@ -50277,9 +47564,7 @@ mes	DP1CPS	mon-x
 phrases	NCFP000	phrase-n
 .	Fp	.-x
 </s>
-
 <s id="1661:28" video="https://media.dipintra.it/?id=1661&start=03.50&end=03.53&collection=eptic3">
-
 respecter	VMN0000	respecter-v
 mes	DP1CPS	mon-x
 collègues	NCCP000	collègue-n
@@ -50294,9 +47579,7 @@ la	DA0FS0	le-x
 question	NCFS000	question-n
 .	Fp	.-x
 </s>
-
 <s id="1661:29" video="https://media.dipintra.it/?id=1661&start=03.53&end=03.56&collection=eptic3">
-
 J	NP00000	J-n
 <g/>
 '	Fe	'-x
@@ -50317,7 +47600,6 @@ mon	DP1CSS	mon-x
 égard	NCMS000	égard-n
 .	Fp	.-x
 </s>
-
 </interpreter>
 </st>
 </speaker>

@@ -1124,8 +1124,6 @@ saamiseksi	N_Tra_Sg	saaminen-n
 todellisuudeksi	N_Tra_Sg	todellisuus-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -1222,8 +1220,6 @@ ja	CC	ja-x
 vaurautta	N_Par_Sg	vauraus-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Hallinnot	N_Nom_Pl	hallinto-n
 saavat	V_Prs_Act_Pl3	saada-v
 suovat	N_Nom_Pl	suopa-n
@@ -1253,8 +1249,6 @@ tietoa	N_Par_Sg	tieto-n
 siinä	Pron_Dem_Ine_Sg	se-p
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Oppositio	N_Nom_Sg	oppositio-n
 käytti	V_PrfPrc_Act_Sg3	käyttää-v
 internettiä	N_Nom_Sg	internetti-n
@@ -1540,8 +1534,6 @@ mukaan	Adp_Po	mukaan-x
 lukien	V_Inf2_Act_Ins	lukea-v
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -1558,8 +1550,6 @@ Kiitoksia	N_Par_Pl	kiitos-n
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
-</s>
-
 Tunisian	N_Prop_Gen_Sg	Tunisia-n
 tapahtumat	AgPcp_Nom_Pl	tapahtuma-x
 hei-	DYSF	hei-
@@ -1882,8 +1872,6 @@ siellä	Adv	siellä-r
 lomalla	N_Ade_Sg	loma-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -2173,8 +2161,6 @@ maailman	N_Gen_Sg	maailma-n
 maissa	N_Ine_Pl	maa-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -2895,8 +2881,6 @@ lisää	Adv	lisätä-r
 työpaikkoja	N_Par_Pl	työpaikka-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -3028,8 +3012,6 @@ tietysti	Adv	tietysti-r
 kompromissi	N_Nom_Sg	kompromissi-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Tehtiin	V_PrfPrc_Pass_Pe4	tehdä-v
 sopimus	N_Nom_Sg	sopimus-n
 siitä	Pron_Dem_Ela_Sg	se-p
@@ -3643,8 +3625,6 @@ suurella	A_Ade_Sg	suuri-j
 mielenkiinnolla	N_Ade_Sg	mielenkiinto-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -4006,8 +3986,6 @@ ole	V_Prs_Act_ConNeg	olla-v
 saastuneita	PrfPrc_Act_Par_Pl	saastua-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -4639,8 +4617,6 @@ ja	CC	ja-x
 rehuturvallisuusjärjestelmään	N_Ill_Sg	rehuturvallisuusjärjestelmään-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -5265,8 +5241,6 @@ kriiseissä	N_Ine_Pl	kriisi-n
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
-</s>
-
 Irlannissa	N_Prop_Ine_Sg	Irlanti-n
 kaksi	Num_Nom_Sg	kaksi-m
 vuotta	N_Abe_Sg	vuo-n
@@ -6795,8 +6769,6 @@ seuraa	V_Prs_Act_Sg3	seurata-v
 edistystä	N_Par_Sg	edistys-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -7042,8 +7014,6 @@ Tätä	Pron_Dem_Par_Sg	tämä-p
 ei	V_Neg_Sg3	ei-v
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Asiasta	N_Ela_Sg	asia-n
 tulee	V_Prs_Act_Sg3	tulla-v
 huolehtimaan	V_Inf3_Ill	huolehtia-v
@@ -7117,8 +7087,6 @@ diktatuuria	N_Par_Sg	diktatuuri-n
 vastaan	Adp_Po	vastaan-x
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -9311,8 +9279,6 @@ ehm	FPAUSE	ehm
 sopimuksesta	N_Ela_Sg	sopimus-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -9430,8 +9396,6 @@ kaupasta	N_Ela_Sg	kauppa-n
 koska	CS	koska-x
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 EU	N_Nom_Sg	EU-n
 <g/>
 :	Punct	:-x
@@ -9939,8 +9903,6 @@ tukea	V_Inf1_Lat	tukea-v
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
-</s>
-
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 oli	V_PrfPrc_Act_Sg3	olla-v
 erittäin	Adv	erittäin-r
@@ -10771,8 +10733,6 @@ väliaikaista	A_Par_Sg	väliaikainen-j
 kumppanuussopimuksesta	N_Ela_Sg	kumppanuussopimus-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Niin	Adv	niin-r
 tämä	Pron_Dem_Nom_Sg	tämä-p
 oli	V_PrfPrc_Act_Sg3	olla-v
@@ -11001,8 +10961,6 @@ paitsi	Adv	paitsi-r
 aseet-järjestelmä	N_Nom_Sg	aseet-järjestelmä-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Ehm	FPAUSE	ehm
 koska	CS	koska-x
 kauppa	N_Nom_Sg	kauppa-n
@@ -11339,8 +11297,6 @@ n	N_Nom_Sg	n-n
 taloudessa	N_Ine_Sg	talous-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Nämä	Pron_Dem_Nom_Pl	nämä-p
 viennit	N_Nom_Pl	vienti-n
 olivat	V_PrfPrc_Act_Pl3	olla-v
@@ -11504,8 +11460,6 @@ Papua-Uuden-Guinean	NON-TWOL	Papua-Uuden-Guinean-x
 kanssa	Adp_Po	kanssa-x
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitoksia	N_Par_Pl	kiitos-n
 <g/>
 .	SENT	.-x
@@ -12003,8 +11957,6 @@ käsitellään	V_Prs_Pass_Pe4	käsitellä-v
 tänään	Adv	tänään-r
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -12839,8 +12791,6 @@ meidän	Pron_Pers_Gen_Pl	me-p
 tulisi	V_Cond_Act_Sg3	tulla-v
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Jos	CS	Jos-x
 te	Pron_Pers_Nom_Pl	te-p
 olette	V_Prs_Act_Pl2	olla-v
@@ -12873,8 +12823,6 @@ hoidettu	PrfPrc_Pass_Nom_Sg	hoitaa-x
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
-</s>
-
 Ensin	Adv	Ensi-r
 haluaisin	V_Cond_Act_Sg1	haluta-v
 yhtyä	V_Inf1_Lat	yhtyä-v
@@ -14030,8 +13978,6 @@ syödä	V_Inf1_Lat	syödä-v
 Puhemies	N_Nom_Sg	puhemies-n
 <g/>
 .	SENT	.-x
-</s>
-
 Minäkin	Pron_Pers_Nom_Sg	Mi-p
 haluaisin	V_Cond_Act_Sg1	haluta-v
 puhua	V_Inf1_Lat	puhua-v
@@ -14101,8 +14047,6 @@ tällainen	A_Nom_Sg	tällainen-j
 toiminta	N_Nom_Sg	toiminta-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 on	V_Prs_Act_Sg3	olla-v
 äärimmäisen	A_Gen_Sg	äärimmäinen-j
@@ -14199,8 +14143,6 @@ voidaan	V_Prs_Pass_Pe4	voida-v
 katsoa	V_Inf1_Lat	katsoa-v
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 edellyttää	V_Prs_Act_Sg3	edellyttää-v
 sitä	Pron_Dem_Par_Sg	se-p
@@ -14351,8 +14293,6 @@ kansalaisjärjestöille	N_All_Pl	kansalaisjärjestö-n
 Kysymys	N_Nom_Sg	kysymys-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Onko	V_Prs_Act_Sg3	olla-v
 <g/>
 ,	Punct	,-x
@@ -14576,8 +14516,6 @@ kun	CS	kun-x
 toimimme	V_Prs_Act_Pl1	toimia-v
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Neljä	Num_Nom_Sg	neljä-m
 viidesosaa	N_Par_Sg	viidesosa-n
 ehm	FPAUSE	ehm
@@ -14979,8 +14917,6 @@ joka	Pron_Rel_Nom_Sg	joka-p
 vuosi	N_Nom_Sg	vuo-n
 <g/>
 ...	EPAUSE	...-x
-</s>
-
 Meidän	Pron_Pers_Gen_Pl	me-p
 <g/>
 ,	Punct	,-x
@@ -15421,8 +15357,6 @@ ilmaiseksi	A_Tra_Sg	ilmainen-j
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
-</s>
-
 Muiden	Pron_Qnt_Gen_Pl	Muu-p
 puhujien	N_Gen_Pl	puhuja-n
 tavoin	N_Ins_Pl	tapa-n
@@ -15691,8 +15625,6 @@ pöydille	N_All_Pl	pöytä-n
 Kiitokset	N_Nom_Pl	kiitos-n
 <g/>
 .	SENT	.-x
-</s>
-
 On	V_Prs_Act_Sg3	olla-v
 suuri	A_Nom_Sg	suuri-j
 ilo	N_Nom_Sg	ilo-n
@@ -16680,8 +16612,6 @@ Länsi-Balkanin	N_Prop_Gen_Sg	LänsiBalkan-n
 alueella	N_Ade_Sg	alue-n
 <g/>
 .	SENT	.-x
-</s>
-
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
@@ -16698,8 +16628,6 @@ Kiitos	N_Nom_Sg	kiitos-n
 Kiitos	N_Nom_Sg	kiitos-n
 <g/>
 .	SENT	.-x
-</s>
-
 Tämä	Pron_Dem_Nom_Sg	tämä-p
 Serbia-raportti	N_Nom_Sg	Serbia-raportti-n
 on	V_Prs_Act_Sg3	olla-v

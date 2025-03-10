@@ -173,7 +173,7 @@ if __name__ == "__main__":
     output_excel = input("Enter the path to save alignments.xlsx: ").strip()
     pipeline = AlignmentPipeline(
         texts_path=texts_path,
-        xml_output_dir='/home/afedotova/EPTIC25/eptic.v4/2. bertalign_alignments',
+        xml_output_dir='/home/afedotova/EPTIC25/eptic.v5/2. bertalign_alignments',
         alignments_path=alignments_path,
         output_excel=output_excel
     )

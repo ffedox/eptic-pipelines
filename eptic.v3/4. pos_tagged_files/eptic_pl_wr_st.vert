@@ -2,14 +2,14 @@
 <speaker name="Buzek Jerzy" gender="M" country="Poland" politfunc="President of the EP" politgroup="PPE">
 <st language="pl" length="short" lengthw="259" duration="long" durations="373.0" speed="slow" speedwm="41.7" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2041:1&collection=eptic3">
+<s id="2041:1">
 Mam	fin:sg:pri:imperf	mieć-v	mieć
 kilka	num:pl:acc:f:rec	kilka-x	kilka
 uwag	subst:pl:gen:f	uwaga-n	uwaga
 wstępnych	adj:pl:gen:f:pos	wstępny-j	wstępna
 .	interp	.-x	.
 </s>
-<s id="2041:2&collection=eptic3">
+<s id="2041:2">
 Jest	fin:sg:ter:imperf	być-v	być
 to	subst:sg:nom:n	to-n	to
 5	num:pl:nom:m3:rec	5-x	5
@@ -17,7 +17,7 @@ krótkich	adj:pl:gen:n:pos	krótki-j	krótkie
 punktów	subst:pl:gen:m3	punkt-n	punkt
 .	interp	.-x	.
 </s>
-<s id="2041:3&collection=eptic3">
+<s id="2041:3">
 Dnia	subst:sg:gen:m3	Dzień-n	Dzień
 27	adj:sg:gen:m3:pos	27-j	27
 stycznia	subst:sg:gen:m3	styczeń-n	styczeń
@@ -34,7 +34,7 @@ zagłady	subst:sg:gen:f	zagłada-n	zagłada
 Auschwitz-Birkenau	subst:sg:gen:n	Auschwitz-Birkenau-n	Auschwitz-Birkenau
 .	interp	.-x	.
 </s>
-<s id="2041:4&collection=eptic3">
+<s id="2041:4">
 Każdego	adj:sg:gen:m3:pos	każdy-j	każdy
 roku	subst:sg:gen:m3	rok-n	rok
 w	prep:loc:nwok	w-i	w
@@ -49,7 +49,7 @@ tam	adv	tam-a	tam
 ludzi	subst:pl:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2041:5&collection=eptic3">
+<s id="2041:5">
 Daje	fin:sg:ter:imperf	dawać-v	dawać
 nam	ppron12:pl:dat:m1:pri	my-x	my
 to	qub	to-x	to
@@ -72,7 +72,7 @@ takich	adj:pl:gen:m3:pos	taki-j	taki
 koszmarów	subst:pl:gen:m3	koszmar-n	koszmar
 .	interp	.-x	.
 </s>
-<s id="2041:6&collection=eptic3">
+<s id="2041:6">
 Druga	adj:sg:nom:f:pos	drugi-j	druga
 informacja	subst:sg:nom:f	informacja-n	informacja
 :	interp	:-x	:
@@ -101,7 +101,7 @@ niepodległej	adj:sg:gen:f:pos	niepodległy-j	niepodległa
 Litwy	subst:sg:gen:f	Litwa-n	Litwa
 .	interp	.-x	.
 </s>
-<s id="2041:7&collection=eptic3">
+<s id="2041:7">
 Litwini	subst:pl:voc:m1	Litwin-n	Litwin
 obronili	praet:pl:m1:perf	obronić-v	obronić
 swoją	adj:sg:acc:f:pos	swój-j	swoja
@@ -115,7 +115,7 @@ wspólnoty	subst:sg:gen:f	wspólnota-n	wspólnota
 euroatlantyckiej	adj:sg:loc:f:pos	euroatlantycki-j	euroatlantycka
 .	interp	.-x	.
 </s>
-<s id="2041:8&collection=eptic3">
+<s id="2041:8">
 Wspominając	pcon:imperf	wspominać-v	wspominać
 tę	adj:sg:acc:f:pos	ten-j	ta
 ważną	adj:sg:acc:f:pos	ważny-j	ważna
@@ -147,7 +147,7 @@ ich	ppron3:pl:gen:m1:ter	on-x	on
 kraju	subst:sg:loc:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2041:9&collection=eptic3">
+<s id="2041:9">
 Kolejna	adj:sg:nom:f:pos	kolejny-j	kolejna
 informacja	subst:sg:nom:f	informacja-n	informacja
 :	interp	:-x	:
@@ -169,7 +169,7 @@ Narodów	subst:pl:gen:m3	naród-n	naród
 Zjednoczonych	adj:pl:gen:m3:pos	Zjednoczony-j	Zjednoczony
 .	interp	.-x	.
 </s>
-<s id="2041:10&collection=eptic3">
+<s id="2041:10">
 Konwencja	subst:sg:nom:f	konwencja-n	konwencja
 ta	adj:sg:nom:f:pos	ten-j	ta
 ,	interp	"-x	"
@@ -209,7 +209,7 @@ rodzaju	subst:sg:gen:m3	rodzaj-n	rodzaj
 niepełnosprawności	subst:sg:gen:f	niepełnosprawność-n	niepełnosprawność
 .	interp	.-x	.
 </s>
-<s id="2041:11&collection=eptic3">
+<s id="2041:11">
 Informacja	subst:sg:nom:f	informacja-n	informacja
 czwarta	adj:sg:nom:f:pos	czwarty-j	czwarta
 :	interp	:-x	:
@@ -229,7 +229,7 @@ Gao	subst:sg:gen:f	Gao-n	Gao
 Zhishenga	subst:sg:gen:m1	Zhishenga-n	Zhishenga
 .	interp	.-x	.
 </s>
-<s id="2041:12&collection=eptic3">
+<s id="2041:12">
 Według	prep:gen	według-i	według
 najnowszych	adj:pl:gen:n:sup	nowy-j	Najnowsze
 informacji	subst:pl:gen:f	informacja-n	informacja
@@ -242,7 +242,7 @@ poddawany	ppas:sg:nom:m1:imperf:aff	poddawać-v	poddawać
 torturom	subst:pl:dat:f	tortura-n	tortura
 .	interp	.-x	.
 </s>
-<s id="2041:13&collection=eptic3">
+<s id="2041:13">
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 Europejski	adj:sg:nom:m3:pos	europejski-j	europejski
 kilkakrotnie	adv:pos	kilkakrotnie-a	kilkakrotnie
@@ -254,7 +254,7 @@ pana	subst:sg:gen:m1	pan-n	pan
 Zhishenga	subst:sg:gen:m1	Zhishenga-n	Zhishenga
 .	interp	.-x	.
 </s>
-<s id="2041:14&collection=eptic3">
+<s id="2041:14">
 Dziś	adv	dziś-a	dziś
 pragnę	fin:sg:pri:imperf	pragnąć-v	pragnąć
 wezwać	inf:perf	wezwać-v	wezwać
@@ -270,7 +270,7 @@ stanu	subst:sg:gen:m3	stan-n	stan
 zdrowia	subst:sg:gen:n	zdrowie-n	zdrowie
 .	interp	.-x	.
 </s>
-<s id="2041:15&collection=eptic3">
+<s id="2041:15">
 Ostatnia	adj:sg:nom:f:pos	ostatni-j	ostatnia
 informacja	subst:sg:nom:f	informacja-n	informacja
 :	interp	:-x	:
@@ -296,7 +296,7 @@ przejęły	praet:pl:f:perf	przejąć-v	przejąć
 Węgry	subst:pl:acc:n	Węgry-n	Węgry
 .	interp	.-x	.
 </s>
-<s id="2041:16&collection=eptic3">
+<s id="2041:16">
 Będziemy	bedzie:pl:pri:imperf	być-v	być
 na	prep:acc	na-i	na
 temat	subst:sg:acc:m3	temat-n	temat
@@ -309,7 +309,7 @@ sesji	subst:sg:loc:f	sesja-n	sesja
 Parlamentu	subst:sg:gen:m3	parlament-n	parlament
 .	interp	.-x	.
 </s>
-<s id="2041:17&collection=eptic3">
+<s id="2041:17">
 W	prep:loc:nwok	w-i	w
 tym	adj:sg:loc:m3:pos	ten-j	ten
 czasie	subst:sg:loc:m3	czas-n	czas
@@ -332,7 +332,7 @@ w	prep:loc:nwok	w-i	w
 Tunezji	subst:sg:gen:f	Tunezja-n	Tunezja
 .	interp	.-x	.
 </s>
-<s id="2041:18&collection=eptic3">
+<s id="2041:18">
 Obydwa	num:pl:nom:m3:congr	obydwa-x	obydwa
 te	adj:pl:nom:m3:pos	ten-j	ten
 punkty	subst:pl:nom:m3	punkt-n	punkt
@@ -345,7 +345,7 @@ sesji	subst:sg:loc:f	sesja-n	sesja
 plenarnej	adj:sg:loc:f:pos	plenarny-j	plenarna
 .	interp	.-x	.
 </s>
-<s id="2041:19&collection=eptic3">
+<s id="2041:19">
 Pragnę	fin:sg:pri:imperf	pragnąć-v	pragnąć
 też	qub	też-x	też
 przypomnieć	inf:perf	przypomnieć-v	przypomnieć
@@ -362,7 +362,7 @@ klęsk	subst:pl:gen:f	klęska-n	klęska
 żywiołowych	adj:pl:gen:f:pos	żywiołowy-j	żywiołowa
 .	interp	.-x	.
 </s>
-<s id="2041:20&collection=eptic3">
+<s id="2041:20">
 Łączymy	fin:pl:pri:imperf	łączyć-v	łączyć
 się	qub	się-x	się
 w	prep:loc:nwok	w-i	w
@@ -393,12 +393,12 @@ kondolencje	subst:pl:acc:n	kondolencje-n	kondolencje
 <speaker name="Czarnecki  Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="80" duration="short" durations="65.0" speed="slow" speedwm="73.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2042:1&collection=eptic3">
+<s id="2042:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2042:2&collection=eptic3">
+<s id="2042:2">
 To	pred	to-x	to
 bardzo	adv:pos	bardzo-a	bardzo
 ważny	adj:sg:acc:m3:pos	ważny-j	ważny
@@ -409,7 +409,7 @@ drażliwy	adj:sg:acc:m3:pos	drażliwy-j	drażliwy
 temat	subst:sg:acc:m3	temat-n	temat
 .	interp	.-x	.
 </s>
-<s id="2042:3&collection=eptic3">
+<s id="2042:3">
 Przypomnę	fin:sg:pri:perf	przypomnieć-v	przypomnieć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -438,7 +438,7 @@ natury	subst:sg:gen:f	natura-n	natura
 politycznej	adj:sg:gen:f:pos	polityczny-j	polityczna
 .	interp	.-x	.
 </s>
-<s id="2042:4&collection=eptic3">
+<s id="2042:4">
 Teraz	adv	teraz-a	teraz
 kolejna	adj:sg:nom:f:pos	kolejny-j	kolejna
 inicjatywa	subst:sg:nom:f	inicjatywa-n	inicjatywa
@@ -459,7 +459,7 @@ budzi	fin:sg:ter:imperf	budzić-v	budzić
 emocje	subst:pl:nom:f	emocja-n	emocja
 .	interp	.-x	.
 </s>
-<s id="2042:5&collection=eptic3">
+<s id="2042:5">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -512,7 +512,7 @@ dzieci	subst:pl:gen:n	dziecko-n	dziecko
 rodzicom	subst:pl:dat:m1	rodzic-n	rodzic
 .	interp	.-x	.
 </s>
-<s id="2042:6&collection=eptic3">
+<s id="2042:6">
 Przed	prep:inst:nwok	przed-i	przed
 tym	subst:sg:inst:n	to-n	to
 bardzo	adv:pos	bardzo-a	bardzo
@@ -529,14 +529,14 @@ przestrzegał	praet:sg:m1:imperf	przestrzegać-v	przestrzegać
 <speaker name="Buzek Jerzy" gender="M" country="Poland" politfunc="President of the EP" politgroup="PPE">
 <st language="pl" length="short" lengthw="239" duration="medium" durations="222.0" speed="slow" speedwm="64.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2043:1&collection=eptic3">
+<s id="2043:1">
 Szanowne	adj:pl:nom:f:pos	szanowny-j	Szanowna
 Koleżanki	subst:pl:nom:f	koleżanka-n	koleżanka
 i	conj	i-c	i
 Koledzy	subst:pl:nom:m1	kolega-n	kolega
 !	interp	!-x	!
 </s>
-<s id="2043:2&collection=eptic3">
+<s id="2043:2">
 Z	prep:inst:nwok	z-i	z
 wielkimi	adj:pl:inst:f:pos	wielki-j	wielka
 obawami	subst:pl:inst:f	obawa-n	obawa
@@ -557,7 +557,7 @@ w	prep:loc:nwok	w-i	w
 Tunezji	subst:sg:gen:f	Tunezja-n	Tunezja
 .	interp	.-x	.
 </s>
-<s id="2043:3&collection=eptic3">
+<s id="2043:3">
 Pokojowe	adj:pl:nom:f:pos	pokojowy-j	pokojowa
 demonstracje	subst:pl:nom:f	demonstracja-n	demonstracja
 w	prep:loc:nwok	w-i	w
@@ -584,7 +584,7 @@ swoim	adj:pl:dat:m1:pos	swój-j	swój
 obywatelom	subst:pl:dat:m1	obywatel-n	obywatel
 .	interp	.-x	.
 </s>
-<s id="2043:4&collection=eptic3">
+<s id="2043:4">
 Dziś	adv	dziś-a	dziś
 chylimy	fin:pl:pri:imperf	chylić-v	chylić
 głowy	subst:pl:acc:f	głowa-n	głowa
@@ -594,7 +594,7 @@ tych	adj:pl:gen:n:pos	ten-j	to
 wydarzeń	subst:pl:gen:n	wydarzenie-n	wydarzenie
 .	interp	.-x	.
 </s>
-<s id="2043:5&collection=eptic3">
+<s id="2043:5">
 Nasze	adj:sg:acc:n:pos	nasz-j	nasze
 głębokie	adj:sg:acc:n:pos	głęboki-j	głębokie
 współczucie	subst:sg:acc:n	współczucie-n	współczucie
@@ -609,7 +609,7 @@ swoich	adj:pl:acc:m1:pos	swój-j	swój
 najbliższych	subst:pl:acc:m1	najbliższy-n	najbliższy
 .	interp	.-x	.
 </s>
-<s id="2043:6&collection=eptic3">
+<s id="2043:6">
 Szczególnie	adv:pos	szczególnie-a	szczególnie
 wspominamy	fin:pl:pri:imperf	wspominać-v	wspominać
 pierwszą	adj:sg:acc:f:pos	pierwszy-j	pierwsza
@@ -621,7 +621,7 @@ Mohammeda	subst:sg:gen:m1	Mohammed-n	Mohammed
 Bouazizi	subst:sg:gen:m1	Bouazizi-n	Bouazizi
 .	interp	.-x	.
 </s>
-<s id="2043:7&collection=eptic3">
+<s id="2043:7">
 Ten	adj:sg:nom:m3:pos	ten-j	ten
 tragiczny	adj:sg:nom:m3:pos	tragiczny-j	tragiczny
 gest	subst:sg:nom:m3	gest-n	gest
@@ -638,7 +638,7 @@ tunezyjskiego	adj:sg:gen:m1:pos	tunezyjski-j	tunezyjski
 społeczeństwa	subst:sg:gen:n	społeczeństwo-n	społeczeństwo
 .	interp	.-x	.
 </s>
-<s id="2043:8&collection=eptic3">
+<s id="2043:8">
 Uczcijmy	impt:pl:pri:perf	uczcić-v	uczcić
 minutą	subst:sg:inst:f	minuta-n	minuta
 ciszy	subst:sg:gen:f	cisza-n	cisza
@@ -647,7 +647,7 @@ tunezyjskich	adj:pl:acc:m1:pos	tunezyjski-j	tunezyjski
 przyjaciół	subst:pl:gen:m1	przyjaciel-n	przyjaciel
 .	interp	.-x	.
 </s>
-<s id="2043:9&collection=eptic3">
+<s id="2043:9">
 Proszę	fin:sg:pri:imperf	prosić-v	prosić
 o	prep:acc	o-i	o
 powstanie	ger:sg:acc:n:perf:aff	powstać-v	powstać
@@ -662,14 +662,14 @@ Dziękuję	fin:sg:pri:imperf	dziękować-v	dziękować
 bardzo	adv:pos	bardzo-a	bardzo
 .	interp	.-x	.
 </s>
-<s id="2043:10&collection=eptic3">
+<s id="2043:10">
 Drogie	adj:pl:nom:m3:pos	drogi-j	drogi
 Koleżanki	subst:pl:nom:f	koleżanka-n	koleżanka
 i	conj	i-c	i
 Koledzy	subst:pl:nom:m1	kolega-n	kolega
 !	interp	!-x	!
 </s>
-<s id="2043:11&collection=eptic3">
+<s id="2043:11">
 "	interp	"-x	"
 Jaśminowa	adj:sg:nom:f:pos	jaśminowy-j	Jaśminowa
 rewolucja	subst:sg:nom:f	rewolucja-n	rewolucja
@@ -677,7 +677,7 @@ rewolucja	subst:sg:nom:f	rewolucja-n	rewolucja
 trwa	fin:sg:ter:imperf	trwać-v	trwać
 .	interp	.-x	.
 </s>
-<s id="2043:12&collection=eptic3">
+<s id="2043:12">
 Pod	prep:inst:nwok	pod-i	pod
 wieloma	num:pl:inst:m3:congr	wiele-x	wiele
 względami	subst:pl:inst:m3	wzgląd-n	wzgląd
@@ -688,7 +688,7 @@ historyczny	adj:sg:nom:m3:pos	historyczny-j	historyczny
 czas	subst:sg:nom:m3	czas-n	czas
 .	interp	.-x	.
 </s>
-<s id="2043:13&collection=eptic3">
+<s id="2043:13">
 Chcę	fin:sg:pri:imperf	chcieć-v	chcieć
 wyrazić	inf:perf	wyrazić-v	wyrazić
 głębokie	adj:sg:acc:n:pos	głęboki-j	głębokie
@@ -701,7 +701,7 @@ obywateli	subst:pl:gen:m1	obywatel-n	obywatel
 Tunezji	subst:sg:gen:f	Tunezja-n	Tunezja
 .	interp	.-x	.
 </s>
-<s id="2043:14&collection=eptic3">
+<s id="2043:14">
 To	pred	to-x	to
 oni	ppron3:pl:nom:m1:ter	on-x	on
 są	fin:pl:ter:imperf	być-v	być
@@ -710,7 +710,7 @@ tych	adj:pl:gen:f:pos	ten-j	ta
 zmian	subst:pl:gen:f	zmiana-n	zmiana
 .	interp	.-x	.
 </s>
-<s id="2043:15&collection=eptic3">
+<s id="2043:15">
 Jest	fin:sg:ter:imperf	być-v	być
 to	pred	to-x	to
 jednak	conj	jednak-c	jednak
@@ -720,7 +720,7 @@ długiej	adj:sg:gen:f:pos	długi-j	długa
 drogi	subst:sg:gen:f	droga-n	droga
 .	interp	.-x	.
 </s>
-<s id="2043:16&collection=eptic3">
+<s id="2043:16">
 Jako	conj	jako-c	jako
 Europejczycy	subst:pl:nom:m1	Europejczyk-n	Europejczyk
 dzielimy	fin:pl:pri:imperf	dzielić-v	dzielić
@@ -738,7 +738,7 @@ pełnej	adj:sg:loc:f:pos	pełny-j	pełna
 realizacji	subst:sg:loc:f	realizacja-n	realizacja
 .	interp	.-x	.
 </s>
-<s id="2043:17&collection=eptic3">
+<s id="2043:17">
 Europejczycy	subst:pl:nom:m1	Europejczyk-n	Europejczyk
 są	fin:pl:ter:imperf	być-v	być
 szczególnie	adv:pos	szczególnie-a	szczególnie
@@ -764,7 +764,7 @@ politycznej	adj:sg:gen:f:pos	polityczny-j	polityczna
 przyszłości	subst:sg:gen:f	przyszłość-n	przyszłość
 .	interp	.-x	.
 </s>
-<s id="2043:18&collection=eptic3">
+<s id="2043:18">
 Dlatego	adv	dlatego-a	dlatego
 nie	qub	nie-x	nie
 pozostajemy	fin:pl:pri:imperf	pozostawać-v	pozostawać
@@ -772,7 +772,7 @@ dziś	adv	dziś-a	dziś
 obojętni	adj:pl:nom:m1:pos	obojętny-j	obojętny
 .	interp	.-x	.
 </s>
-<s id="2043:19&collection=eptic3">
+<s id="2043:19">
 Wzywamy	fin:pl:pri:imperf	wzywać-v	wzywać
 ,	interp	"-x	"
 by	comp	by-c	by
@@ -784,7 +784,7 @@ pokojowy	subst:sg:voc:m1	pokojowy-n	pokojowy
 charakter	subst:sg:nom:m3	charakter-n	charakter
 .	interp	.-x	.
 </s>
-<s id="2043:20&collection=eptic3">
+<s id="2043:20">
 Muszą	fin:pl:ter:imperf	musieć-v	musieć
 prowadzić	inf:imperf	prowadzić-v	prowadzić
 do	prep:gen	do-i	do
@@ -794,14 +794,14 @@ rządów	subst:pl:gen:m3	rząd-n	rząd
 prawa	subst:sg:gen:n	prawo-n	prawo
 .	interp	.-x	.
 </s>
-<s id="2043:21&collection=eptic3">
+<s id="2043:21">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 także	qub	także-x	także
 fundamentalne	adj:pl:acc:n:pos	fundamentalny-j	fundamentalne
 postulaty	subst:pl:nom:m3	postulat-n	postulat
 .	interp	.-x	.
 </s>
-<s id="2043:22&collection=eptic3">
+<s id="2043:22">
 Po	prep:acc	po-i	po
 pierwsze	adj:sg:acc:n:pos	pierwszy-j	pierwsze
 ,	interp	"-x	"
@@ -811,7 +811,7 @@ arbitralnie	adv:pos	arbitralnie-a	arbitralnie
 aresztowanych	ppas:pl:gen:m1:perf:aff	aresztować-v	aresztować
 .	interp	.-x	.
 </s>
-<s id="2043:23&collection=eptic3">
+<s id="2043:23">
 Po	prep:acc	po-i	po
 drugie	adj:sg:acc:n:pos	drugi-j	drugie
 ,	interp	"-x	"
@@ -832,7 +832,7 @@ nadużycia	subst:pl:nom:n	nadużycie-n	nadużycie
 siły	subst:sg:gen:f	siła-n	siła
 .	interp	.-x	.
 </s>
-<s id="2043:24&collection=eptic3">
+<s id="2043:24">
 Po	prep:acc	po-i	po
 trzecie	adj:sg:acc:n:pos	trzeci-j	trzecie
 ,	interp	"-x	"
@@ -868,7 +868,7 @@ wszystkich	adj:pl:gen:m1:pos	wszystek-j	wszystek
 Tunezyjczyków	subst:pl:gen:m1	Tunezyjczyk-n	Tunezyjczyk
 .	interp	.-x	.
 </s>
-<s id="2043:25&collection=eptic3">
+<s id="2043:25">
 Unię	subst:sg:acc:f	unia-n	unia
 Europejską	adj:sg:acc:f:pos	europejski-j	Europejska
 i	conj	i-c	i
@@ -886,7 +886,7 @@ Morza	subst:sg:gen:n	morze-n	morze
 Śródziemnego	adj:sg:gen:n:pos	Śródziemny-j	Śródziemny
 .	interp	.-x	.
 </s>
-<s id="2043:26&collection=eptic3">
+<s id="2043:26">
 To	adj:sg:nom:n:pos	ten-j	to
 partnerstwo	subst:sg:nom:n	partnerstwo-n	partnerstwo
 musi	fin:sg:ter:imperf	musieć-v	musieć
@@ -901,7 +901,7 @@ i	conj	i-c	i
 Europejczykom	subst:pl:dat:m1	Europejczyk-n	Europejczyk
 .	interp	.-x	.
 </s>
-<s id="2043:27&collection=eptic3">
+<s id="2043:27">
 Nasze	adj:sg:nom:n:pos	nasz-j	nasze
 partnerstwo	subst:sg:nom:n	partnerstwo-n	partnerstwo
 ,	interp	"-x	"
@@ -923,7 +923,7 @@ głębokim	adj:sg:inst:m3:pos	głęboki-j	głęboki
 przemianom	subst:pl:dat:m3	przemian-n	przemian
 .	interp	.-x	.
 </s>
-<s id="2043:28&collection=eptic3">
+<s id="2043:28">
 Musimy	fin:pl:pri:imperf	musieć-v	musieć
 pomóc	inf:perf	pomóc-v	pomóc
 Tunezji	subst:sg:gen:f	Tunezja-n	Tunezja
@@ -931,14 +931,14 @@ odnieść	inf:perf	odnieść-v	odnieść
 sukces	subst:sg:acc:m3	sukces-n	sukces
 .	interp	.-x	.
 </s>
-<s id="2043:29&collection=eptic3">
+<s id="2043:29">
 Drogie	adj:pl:nom:m3:pos	drogi-j	drogi
 Koleżanki	subst:pl:nom:f	koleżanka-n	koleżanka
 i	conj	i-c	i
 Koledzy	subst:pl:nom:m1	kolega-n	kolega
 !	interp	!-x	!
 </s>
-<s id="2043:30&collection=eptic3">
+<s id="2043:30">
 Bądźmy	impt:pl:pri:perf	być-v	być
 po	prep:loc	po-i	po
 stronie	subst:sg:loc:f	strona-n	strona
@@ -953,12 +953,12 @@ Tunezyjczyków	subst:pl:gen:m1	Tunezyjczyk-n	Tunezyjczyk
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="227" duration="medium" durations="125.0" speed="slow" speedwm="109.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2044:1&collection=eptic3">
+<s id="2044:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2044:2&collection=eptic3">
+<s id="2044:2">
 Miesiąc	subst:sg:acc:m3	miesiąc-n	miesiąc
 temu	prep:acc	temu-i	temu
 wraz	adv	wraz-a	wraz
@@ -987,7 +987,7 @@ organizacjami	subst:pl:inst:f	organizacja-n	organizacja
 pozarządowymi	adj:pl:inst:f:pos	pozarządowy-j	pozarządowa
 .	interp	.-x	.
 </s>
-<s id="2044:3&collection=eptic3">
+<s id="2044:3">
 Przemysł	subst:sg:nom:m3	przemysł-n	przemysł
 drzewny	adj:sg:nom:m3:pos	drzewny-j	drzewny
 jest	fin:sg:ter:imperf	być-v	być
@@ -999,7 +999,7 @@ tego	adj:sg:gen:m3:pos	ten-j	ten
 kraju	subst:sg:gen:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2044:4&collection=eptic3">
+<s id="2044:4">
 Jest	fin:sg:ter:imperf	być-v	być
 drugim	adj:sg:inst:n:pos	drugi-j	drugie
 źródłem	subst:sg:inst:n	źródło-n	źródło
@@ -1010,7 +1010,7 @@ ropie	subst:sg:dat:f	ropa-n	ropa
 naftowej	adj:sg:dat:f:pos	naftowy-j	naftowa
 .	interp	.-x	.
 </s>
-<s id="2044:5&collection=eptic3">
+<s id="2044:5">
 Warto	pred	warto-x	warto
 przypomnieć	inf:perf	przypomnieć-v	przypomnieć
 ,	interp	"-x	"
@@ -1049,7 +1049,7 @@ dużym	adj:sg:inst:n:pos	duży-j	duże
 opóźnieniem	subst:sg:inst:n	opóźnienie-n	opóźnienie
 .	interp	.-x	.
 </s>
-<s id="2044:6&collection=eptic3">
+<s id="2044:6">
 Jednocześnie	adv:pos	jednocześnie-a	jednocześnie
 rząd	subst:sg:nom:m3	rząd-n	rząd
 Republiki	subst:sg:gen:f	republika-n	republika
@@ -1067,7 +1067,7 @@ akcję	subst:sg:acc:f	akcja-n	akcja
 zalesiania	ger:sg:gen:n:imperf:aff	zalesiać-v	zalesiać
 .	interp	.-x	.
 </s>
-<s id="2044:7&collection=eptic3">
+<s id="2044:7">
 Oczywiście	qub	oczywiście-x	oczywiście
 nie	qub	nie-x	nie
 wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
@@ -1094,7 +1094,7 @@ się	qub	się-x	się
 stało	praet:sg:n:perf	stać-v	stać
 .	interp	.-x	.
 </s>
-<s id="2044:8&collection=eptic3">
+<s id="2044:8">
 Dlatego	adv	dlatego-a	dlatego
 też	qub	też-x	też
 takie	adj:sg:nom:n:pos	taki-j	takie
@@ -1108,7 +1108,7 @@ obrót	subst:sg:acc:m3	obrót-n	obrót
 drewnem	subst:sg:inst:n	drewno-n	drewno
 .	interp	.-x	.
 </s>
-<s id="2044:9&collection=eptic3">
+<s id="2044:9">
 Równie	adv:pos	równie-a	równie
 istotne	adj:sg:nom:n:pos	istotny-j	istotne
 jest	fin:sg:ter:imperf	być-v	być
@@ -1138,7 +1138,7 @@ praktyce	subst:sg:loc:f	praktyka-n	praktyka
 nieskuteczne	adj:pl:nom:m3:pos	nieskuteczny-j	nieskuteczny
 .	interp	.-x	.
 </s>
-<s id="2044:10&collection=eptic3">
+<s id="2044:10">
 Nie	qub	nie-x	nie
 wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 też	qub	też-x	też
@@ -1171,7 +1171,7 @@ problem	subst:sg:acc:m3	problem-n	problem
 uwagę	subst:sg:acc:f	uwaga-n	uwaga
 .	interp	.-x	.
 </s>
-<s id="2044:11&collection=eptic3">
+<s id="2044:11">
 Tak	adv:pos	tak-a	tak
 czy	qub	czy-x	czy
 inaczej	adv	inaczej-a	inaczej
@@ -1187,7 +1187,7 @@ się	qub	się-x	się
 skuteczny	adj:sg:nom:m3:pos	skuteczny-j	skuteczny
 .	interp	.-x	.
 </s>
-<s id="2044:12&collection=eptic3">
+<s id="2044:12">
 Musimy	fin:pl:pri:imperf	musieć-v	musieć
 też	qub	też-x	też
 pomóc	inf:perf	pomóc-v	pomóc
@@ -1210,7 +1210,7 @@ handel	subst:sg:acc:m3	handel-n	handel
 drewnem	subst:sg:inst:n	drewno-n	drewno
 .	interp	.-x	.
 </s>
-<s id="2044:13&collection=eptic3">
+<s id="2044:13">
 Inicjatywa	subst:sg:nom:f	inicjatywa-n	inicjatywa
 FLEGT	subst:sg:gen:m3	FLEGT-n	FLEGT
 ma	fin:sg:ter:imperf	mieć-v	mieć
@@ -1238,7 +1238,7 @@ wielu	num:pl:loc:m3:congr	wiele-x	wiele
 krajach	subst:pl:loc:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2044:14&collection=eptic3">
+<s id="2044:14">
 W	prep:loc:nwok	w-i	w
 przypadku	subst:sg:loc:m3	przypadek-n	przypadek
 Republiki	subst:sg:gen:f	republika-n	republika
@@ -1263,7 +1263,7 @@ importu	subst:sg:gen:m3	import-n	import
 żywności	subst:sg:gen:f	żywność-n	żywność
 .	interp	.-x	.
 </s>
-<s id="2044:15&collection=eptic3">
+<s id="2044:15">
 Dzięki	prep:dat	dzięki-i	dzięki
 FLEGT	subst:sg:nom:m3	FLEGT-n	FLEGT
 światowy	adj:sg:acc:m3:pos	światowy-j	światowy
@@ -1283,7 +1283,7 @@ przyjazny	adj:sg:nom:m1:pos	przyjazny-j	przyjazny
 środowisku	subst:sg:dat:n	środowisko-n	środowisko
 .	interp	.-x	.
 </s>
-<s id="2044:16&collection=eptic3">
+<s id="2044:16">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 nadzieję	subst:sg:acc:f	nadzieja-n	nadzieja
 ,	interp	"-x	"
@@ -1301,12 +1301,12 @@ stanie	fin:sg:ter:perf	stanąć-v	stanąć
 <speaker name="Wojciechowski Janusz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="104" duration="short" durations="64.0" speed="slow" speedwm="97.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2045:1&collection=eptic3">
+<s id="2045:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2045:2&collection=eptic3">
+<s id="2045:2">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 do	prep:gen	do-i	do
 czynienia	ger:sg:gen:n:imperf:aff	czynić-v	czynić
@@ -1321,7 +1321,7 @@ mało	adv:pos	mało-a	mało
 powiedziane	ppas:sg:nom:n:perf:aff	powiedzieć-v	powiedzieć
 .	interp	.-x	.
 </s>
-<s id="2045:3&collection=eptic3">
+<s id="2045:3">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 wielkie	adj:sg:nom:n:pos	wielki-j	wielkie
@@ -1334,7 +1334,7 @@ tysięcy	subst:pl:gen:m3	tysiąc-n	tysiąc
 ludzi	subst:pl:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2045:4&collection=eptic3">
+<s id="2045:4">
 Liczę	fin:sg:pri:imperf	liczyć-v	liczyć
 na	prep:acc	na-i	na
 to	subst:sg:acc:n	to-n	to
@@ -1369,14 +1369,14 @@ Unii	subst:sg:loc:f	unia-n	unia
 Europejskiej	adj:sg:loc:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2045:5&collection=eptic3">
+<s id="2045:5">
 Rolnictwo	subst:sg:nom:n	rolnictwo-n	rolnictwo
 stało	praet:sg:n:perf	stać-v	stać
 się	qub	się-x	się
 przemysłem	subst:sg:inst:m3	przemysł-n	przemysł
 .	interp	.-x	.
 </s>
-<s id="2045:6&collection=eptic3">
+<s id="2045:6">
 Już	qub	już-x	już
 nie	qub	nie-x	nie
 mamy	fin:pl:pri:imperf	mieć-v	mieć
@@ -1421,7 +1421,7 @@ nie	qub	nie-x	nie
 sprawdza	fin:sg:ter:imperf	sprawdzać-v	sprawdzać
 .	interp	.-x	.
 </s>
-<s id="2045:7&collection=eptic3">
+<s id="2045:7">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 model	subst:sg:nom:m3	model-n	model
@@ -1433,7 +1433,7 @@ bezpieczeństwa	subst:sg:gen:n	bezpeczeństwo-n	bezpeczeństwo
 żywnościowego	adj:sg:gen:m3:pos	żywnościowy-j	żywnościowy
 .	interp	.-x	.
 </s>
-<s id="2045:8&collection=eptic3">
+<s id="2045:8">
 Wyjściem	subst:sg:inst:n	wyjście-n	wyjście
 jest	fin:sg:ter:imperf	być-v	być
 większy	adj:sg:acc:m3:com	wielki-j	wielki
@@ -1464,7 +1464,7 @@ produkcji	subst:sg:loc:f	produkcja-n	produkcja
 pasz	subst:pl:gen:f	pasza-n	pasza
 .	interp	.-x	.
 </s>
-<s id="2045:9&collection=eptic3">
+<s id="2045:9">
 Powinniśmy	impt:pl:pri:perf	Powinniśmy-v	Powinniśmy
 to	qub	to-x	to
 popierać	inf:imperf	popierać-v	popierać
@@ -1478,12 +1478,12 @@ popierać	inf:imperf	popierać-v	popierać
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="220" duration="medium" durations="123.0" speed="slow" speedwm="107.3" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2046:1&collection=eptic3">
+<s id="2046:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2046:2&collection=eptic3">
+<s id="2046:2">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 nie	qub	nie-x	nie
@@ -1492,7 +1492,7 @@ o	prep:acc	o-i	o
 Haiti	subst:sg:acc:n	Haiti-n	Haiti
 .	interp	.-x	.
 </s>
-<s id="2046:3&collection=eptic3">
+<s id="2046:3">
 Do	prep:gen	do-i	do
 tej	adj:sg:gen:f:pos	ten-j	ta
 pory	subst:sg:gen:f	pora-n	pora
@@ -1503,7 +1503,7 @@ pomocy	subst:sg:gen:f	pomoc-n	pomoc
 humanitarnej	adj:sg:gen:f:pos	humanitarny-j	humanitarna
 .	interp	.-x	.
 </s>
-<s id="2046:4&collection=eptic3">
+<s id="2046:4">
 Natomiast	conj	natomiast-c	natomiast
 przygnębiające	pact:pl:nom:m2:imperf:aff	przygnębiać-v	przygnębiać
 jest	fin:sg:ter:imperf	być-v	być
@@ -1521,7 +1521,7 @@ i	conj	i-c	i
 politycznym	adj:sg:loc:m3:pos	polityczny-j	polityczny
 .	interp	.-x	.
 </s>
-<s id="2046:5&collection=eptic3">
+<s id="2046:5">
 Działania	subst:pl:nom:n	działanie-n	działanie
 pomocy	subst:sg:gen:f	pomoc-n	pomoc
 humanitarnej	adj:sg:gen:f:pos	humanitarny-j	humanitarna
@@ -1535,7 +1535,7 @@ klasycznych	adj:pl:loc:m1:pos	klasyczny-j	klasyczny
 etapach	subst:pl:loc:m3	etap-n	etap
 .	interp	.-x	.
 </s>
-<s id="2046:6&collection=eptic3">
+<s id="2046:6">
 Pierwszy	adj:sg:nom:m3:pos	pierwszy-j	pierwszy
 etap	subst:sg:nom:m3	etap-n	etap
 udzielanej	ppas:sg:gen:f:imperf:aff	udzielać-v	udzielać
@@ -1549,7 +1549,7 @@ najpilniejszych	adj:pl:gen:f:sup	pilny-j	najpilniejsza
 potrzebach	subst:pl:loc:f	potrzeba-n	potrzeba
 .	interp	.-x	.
 </s>
-<s id="2046:7&collection=eptic3">
+<s id="2046:7">
 Na	prep:loc	Na-i	Na
 drugim	adj:sg:loc:m3:pos	drugi-j	drugi
 etapie	subst:sg:loc:m3	etap-n	etap
@@ -1568,7 +1568,7 @@ i	conj	i-c	i
 społeczno-politycznej	adj:sg:gen:f:pos	społeczno-politycznej-j	społeczno-politycznej
 .	interp	.-x	.
 </s>
-<s id="2046:8&collection=eptic3">
+<s id="2046:8">
 Ale	conj	ale-c	ale
 ze	prep:gen:wok	ze-i	ze
 względu	subst:sg:gen:m3	wzgląd-n	wzgląd
@@ -1604,7 +1604,7 @@ początkowo	adv:pos	początkowo-a	początkowo
 spodziewaliśmy	fin:pl:pri:imperf	spodziewaliśmy-v	spodziewaliśmy
 .	interp	.-x	.
 </s>
-<s id="2046:9&collection=eptic3">
+<s id="2046:9">
 W	prep:loc:nwok	w-i	w
 związku	subst:sg:loc:m3	związek-n	związek
 z	prep:inst:nwok	z-i	z
@@ -1631,7 +1631,7 @@ byśmy	aglt:pl:pri:imperf:nwok	byśmy-v	byśmy
 chcieli	praet:pl:m1:imperf	chcieć-v	chcieć
 .	interp	.-x	.
 </s>
-<s id="2046:10&collection=eptic3">
+<s id="2046:10">
 Kryzys	subst:sg:nom:m3	kryzys-n	kryzys
 na	prep:loc	na-i	na
 Haiti	subst:sg:loc:n	Haiti-n	Haiti
@@ -1639,7 +1639,7 @@ trwa	fin:sg:ter:imperf	trwać-v	trwać
 nadal	adv	nadal-a	nadal
 .	interp	.-x	.
 </s>
-<s id="2046:11&collection=eptic3">
+<s id="2046:11">
 Cały	adj:sg:acc:m3:pos	cały-j	cały
 czas	subst:sg:acc:m3	czas-n	czas
 jest	fin:sg:ter:imperf	być-v	być
@@ -1648,7 +1648,7 @@ nasze	adj:sg:nom:n:pos	nasz-j	nasze
 zaangażowanie	subst:sg:nom:n	zaangażowanie-n	zaangażowanie
 .	interp	.-x	.
 </s>
-<s id="2046:12&collection=eptic3">
+<s id="2046:12">
 Nie	qub	nie-x	nie
 możemy	fin:pl:pri:imperf	móc-v	móc
 zapominać	inf:imperf	zapominać-v	zapominać
@@ -1657,7 +1657,7 @@ naszych	adj:pl:loc:n:pos	nasz-j	nasze
 zobowiązaniach	subst:pl:loc:n	zobowiązanie-n	zobowiązanie
 .	interp	.-x	.
 </s>
-<s id="2046:13&collection=eptic3">
+<s id="2046:13">
 Zresztą	qub	zresztą-x	zresztą
 pan	subst:sg:nom:m1	pan-n	pan
 komisarz	subst:sg:nom:m1	komisarz-n	komisarz
@@ -1682,7 +1682,7 @@ konferencji	subst:sg:loc:f	konferencja-n	konferencja
 donatorów	subst:pl:gen:m1	donator-n	donator
 .	interp	.-x	.
 </s>
-<s id="2046:14&collection=eptic3">
+<s id="2046:14">
 W	prep:loc:nwok	w-i	w
 tej	adj:sg:loc:f:pos	ten-j	ta
 kwestii	subst:sg:loc:f	kwestia-n	kwestia
@@ -1693,7 +1693,7 @@ przebiega	fin:sg:ter:imperf	przebiegać-v	przebiegać
 pomyślnie	adv:pos	pomyślnie-a	pomyślnie
 .	interp	.-x	.
 </s>
-<s id="2046:15&collection=eptic3">
+<s id="2046:15">
 Celem	subst:sg:inst:m3	cel-n	cel
 rezolucji	subst:sg:gen:f	rezolucja-n	rezolucja
 ,	interp	"-x	"
@@ -1720,7 +1720,7 @@ które	adj:pl:nom:f:pos	który-j	która
 składaliśmy	subst:pl:nom:f	składaliśmy-n	składaliśmy
 .	interp	.-x	.
 </s>
-<s id="2046:16&collection=eptic3">
+<s id="2046:16">
 Pamiętajmy	impt:pl:pri:imperf	pamiętać-v	pamiętać
 o	prep:loc	o-i	o
 tym	subst:sg:loc:n	to-n	to
@@ -1745,7 +1745,7 @@ tysiąca	subst:sg:gen:m3	tysiąc-n	tysiąc
 osób	subst:pl:gen:f	osoba-n	osoba
 .	interp	.-x	.
 </s>
-<s id="2046:17&collection=eptic3">
+<s id="2046:17">
 Od	prep:gen:nwok	od-i	od
 samego	adj:sg:gen:m3:pos	sam-j	sam
 początku	subst:sg:gen:m3	początek-n	początek
@@ -1762,7 +1762,7 @@ sami	adj:pl:nom:m1:pos	sam-j	sam
 Haitańczycy	subst:pl:voc:m1	Haitańczyk-n	Haitańczyk
 .	interp	.-x	.
 </s>
-<s id="2046:18&collection=eptic3">
+<s id="2046:18">
 Haitański	adj:sg:nom:m3:pos	haitański-j	haitański
 plan	subst:sg:nom:m3	plan-n	plan
 odbudowy	subst:sg:gen:f	odbudowa-n	odbudowa
@@ -1783,7 +1783,7 @@ bezpieczeństwo	subst:sg:acc:n	bezpieczeństwo-n	bezpieczeństwo
 żywnościowe	adj:pl:nom:m3:pos	żywnościowy-j	żywnościowy
 .	interp	.-x	.
 </s>
-<s id="2046:19&collection=eptic3">
+<s id="2046:19">
 My	ppron12:pl:nom:m1:pri	my-x	my
 te	adj:pl:acc:m3:pos	ten-j	ten
 priorytety	subst:pl:acc:m3	priorytet-n	priorytet
@@ -1791,14 +1791,14 @@ haitańskie	adj:pl:nom:m2:pos	haitański-j	haitański
 respektujemy	fin:pl:pri:imperf	respektować-v	respektować
 .	interp	.-x	.
 </s>
-<s id="2046:20&collection=eptic3">
+<s id="2046:20">
 Jest	fin:sg:ter:imperf	być-v	być
 jeszcze	qub	jeszcze-x	jeszcze
 jeden	adj:sg:acc:m3:pos	jeden-j	jeden
 wniosek	subst:sg:acc:m3	wniosek-n	wniosek
 .	interp	.-x	.
 </s>
-<s id="2046:21&collection=eptic3">
+<s id="2046:21">
 Musimy	fin:pl:pri:imperf	musieć-v	musieć
 wzmocnić	inf:perf	wzmocnić-v	wzmocnić
 nasze	adj:pl:acc:f:pos	nasz-j	nasza
@@ -1825,12 +1825,12 @@ pracuje	fin:sg:ter:imperf	pracować-v	pracować
 <speaker name="Ziobro Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="107" duration="short" durations="55.0" speed="slow" speedwm="116.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2047:1&collection=eptic3">
+<s id="2047:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2047:2&collection=eptic3">
+<s id="2047:2">
 Przed	prep:inst:nwok	przed-i	przed
 rokiem	subst:sg:inst:m3	rok-n	rok
 na	prep:acc	na-i	na
@@ -1861,7 +1861,7 @@ pozbawionych	ppas:pl:gen:f:perf:aff	pozbawić-v	pozbawić
 domów	subst:pl:gen:m3	dom-n	dom
 .	interp	.-x	.
 </s>
-<s id="2047:3&collection=eptic3">
+<s id="2047:3">
 Od	prep:gen:nwok	od-i	od
 roku	subst:sg:gen:m3	rok-n	rok
 trwa	fin:sg:ter:imperf	trwać-v	trwać
@@ -1871,7 +1871,7 @@ i	conj	i-c	i
 odbudowy	subst:sg:gen:f	odbudowa-n	odbudowa
 .	interp	.-x	.
 </s>
-<s id="2047:4&collection=eptic3">
+<s id="2047:4">
 Jest	fin:sg:ter:imperf	być-v	być
 to	subst:sg:nom:n	to-n	to
 bez	prep:gen:nwok	bez-i	bez
@@ -1884,7 +1884,7 @@ akcja	subst:sg:nom:f	akcja-n	akcja
 humanitarna	adj:sg:nom:f:pos	humanitarny-j	humanitarna
 .	interp	.-x	.
 </s>
-<s id="2047:5&collection=eptic3">
+<s id="2047:5">
 Wyspa	subst:sg:nom:f	Wyspa-n	Wyspa
 jednak	qub	jednak-x	jednak
 potrzebuje	fin:sg:ter:imperf	potrzebować-v	potrzebować
@@ -1911,7 +1911,7 @@ się	qub	się-x	się
 rozwijać	inf:imperf	rozwijać-v	rozwijać
 .	interp	.-x	.
 </s>
-<s id="2047:6&collection=eptic3">
+<s id="2047:6">
 Co	subst:sg:nom:n	co-n	co
 więcej	adv:com	dużo-a	dużo
 ,	interp	"-x	"
@@ -1931,7 +1931,7 @@ tysiącom	subst:pl:dat:m3	tysiąc-n	tysiąc
 ludzi	subst:pl:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2047:7&collection=eptic3">
+<s id="2047:7">
 Doświadczenie	subst:sg:nom:n	doświadczenie-n	doświadczenie
 Haiti	subst:sg:acc:n	Haiti-n	Haiti
 pokazuje	fin:sg:ter:imperf	pokazywać-v	pokazywać
@@ -1951,7 +1951,7 @@ właściwie	adv:pos	właściwie-a	właściwie
 wydawane	ppas:pl:nom:m3:imperf:aff	wydawać-v	wydawać
 .	interp	.-x	.
 </s>
-<s id="2047:8&collection=eptic3">
+<s id="2047:8">
 Kazus	subst:sg:nom:m1	kazus-n	kazus
 Haiti	subst:sg:acc:n	Haiti-n	Haiti
 powinien	winien:sg:m1:imperf	powinien-x	powinien
@@ -1992,12 +1992,12 @@ zdarzyć	inf:perf	zdarzyć-v	zdarzyć
 <speaker name="Wałęsa Jarosław Leszek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="190" duration="short" durations="105.0" speed="slow" speedwm="108.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2048:1&collection=eptic3">
+<s id="2048:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2048:2&collection=eptic3">
+<s id="2048:2">
 Niedługo	adv:pos	niedługo-a	niedługo
 minie	fin:sg:ter:perf	minąć-v	minąć
 rok	subst:sg:acc:m3	rok-n	rok
@@ -2016,7 +2016,7 @@ odbudowy	subst:sg:gen:f	odbudowa-n	odbudowa
 Haiti	subst:sg:acc:n	Haiti-n	Haiti
 .	interp	.-x	.
 </s>
-<s id="2048:3&collection=eptic3">
+<s id="2048:3">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 więc	conj	więc-c	więc
 dokonujemy	fin:pl:pri:imperf	dokonywać-v	dokonywać
@@ -2040,7 +2040,7 @@ ciągle	adv:pos	ciągle-a	ciągle
 przybywa	fin:sg:ter:imperf	przybywać-v	przybywać
 .	interp	.-x	.
 </s>
-<s id="2048:4&collection=eptic3">
+<s id="2048:4">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 tu	adv	tu-a	tu
 podkreślić	inf:perf	podkreślić-v	podkreślić
@@ -2065,7 +2065,7 @@ nowych	adj:pl:gen:f:pos	nowy-j	nowa
 dróg	subst:pl:gen:f	droga-n	droga
 .	interp	.-x	.
 </s>
-<s id="2048:5&collection=eptic3">
+<s id="2048:5">
 Po	prep:acc	po-i	po
 pierwsze	adj:sg:acc:n:pos	pierwszy-j	pierwsze
 ,	interp	"-x	"
@@ -2086,7 +2086,7 @@ przemocy	subst:sg:gen:f	przemoc-n	przemoc
 seksualnej	adj:sg:gen:f:pos	seksualny-j	seksualna
 .	interp	.-x	.
 </s>
-<s id="2048:6&collection=eptic3">
+<s id="2048:6">
 Jak	adv:pos	jak-a	jak
 wykazują	fin:pl:ter:imperf	wykazywać-v	wykazywać
 źródła	subst:pl:nom:n	źródło-n	źródło
@@ -2112,14 +2112,14 @@ się	qub	się-x	się
 pogarsza	fin:sg:ter:imperf	pogarszać-v	pogarszać
 .	interp	.-x	.
 </s>
-<s id="2048:7&collection=eptic3">
+<s id="2048:7">
 Ta	adj:sg:nom:f:pos	ten-j	ta
 przemoc	subst:sg:nom:f	przemoc-n	przemoc
 ciągle	adv:pos	ciągle-a	ciągle
 wzrasta	fin:sg:ter:imperf	wzrastać-v	wzrastać
 .	interp	.-x	.
 </s>
-<s id="2048:8&collection=eptic3">
+<s id="2048:8">
 Najwyższy	adj:sg:nom:m3:sup	wysoki-j	najwyższy
 czas	subst:sg:nom:m3	czas-n	czas
 zacząć	inf:perf	zacząć-v	zacząć
@@ -2146,7 +2146,7 @@ na	prep:loc	na-i	na
 Haiti	subst:sg:loc:n	Haiti-n	Haiti
 .	interp	.-x	.
 </s>
-<s id="2048:9&collection=eptic3">
+<s id="2048:9">
 Drugą	adj:sg:inst:f:pos	drugi-j	druga
 kwestią	subst:sg:inst:f	kwestia-n	kwestia
 ,	interp	"-x	"
@@ -2162,7 +2162,7 @@ epidemii	subst:sg:gen:f	epidemia-n	epidemia
 cholery	subst:sg:gen:f	cholera-n	cholera
 .	interp	.-x	.
 </s>
-<s id="2048:10&collection=eptic3">
+<s id="2048:10">
 Liczba	subst:sg:nom:f	liczba-n	liczba
 zachorowań	subst:pl:gen:n	zachorowanie-n	zachorowanie
 spada	fin:sg:ter:imperf	spadać-v	spadać
@@ -2177,7 +2177,7 @@ porą	subst:sg:inst:f	pora-n	pora
 roku	subst:sg:gen:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2048:11&collection=eptic3">
+<s id="2048:11">
 Z	prep:inst:nwok	z-i	z
 tym	subst:sg:inst:n	to-n	to
 się	qub	się-x	się
@@ -2197,7 +2197,7 @@ objawy	subst:pl:acc:m3	objaw-n	objaw
 cholery	subst:sg:gen:f	cholera-n	cholera
 .	interp	.-x	.
 </s>
-<s id="2048:12&collection=eptic3">
+<s id="2048:12">
 Nam	ppron12:pl:dat:m1:pri	my-x	my
 trudno	adv:pos	trudno-a	trudno
 w	prep:acc:nwok	w-i	w
@@ -2233,7 +2233,7 @@ zasadzie	subst:sg:loc:f	zasada-n	zasada
 szałasach	subst:pl:loc:m3	szałas-n	szałas
 .	interp	.-x	.
 </s>
-<s id="2048:13&collection=eptic3">
+<s id="2048:13">
 I	conj	i-c	i
 tutaj	adv	tutaj-a	tutaj
 również	qub	również-x	również
@@ -2260,7 +2260,7 @@ pory	subst:sg:gen:f	pora-n	pora
 roku	subst:sg:gen:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2048:14&collection=eptic3">
+<s id="2048:14">
 Dlatego	adv	dlatego-a	dlatego
 też	qub	też-x	też
 musimy	fin:pl:pri:imperf	musieć-v	musieć
@@ -2285,12 +2285,12 @@ sytuację	subst:sg:acc:f	sytuacja-n	sytuacja
 <speaker name="Zemke Janusz Władysław" gender="M" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="long" lengthw="86" duration="short" durations="64.0" speed="slow" speedwm="80.6" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2049:1&collection=eptic3">
+<s id="2049:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2049:2&collection=eptic3">
+<s id="2049:2">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v	Chciałbym
 ,	interp	"-x	"
 aby	comp	aby-c	aby
@@ -2299,7 +2299,7 @@ dobrze	adv:pos	dobrze-a	dobrze
 zrozumiano	imps:perf	zrozumieć-v	zrozumieć
 .	interp	.-x	.
 </s>
-<s id="2049:3&collection=eptic3">
+<s id="2049:3">
 Nie	qub	nie-x	nie
 mam	fin:sg:pri:imperf	mieć-v	mieć
 poważniejszych	adj:pl:gen:f:com	poważny-j	poważniejsza
@@ -2316,7 +2316,7 @@ dla	prep:gen	dla-i	dla
 Haiti	subst:sg:acc:n	Haiti-n	Haiti
 .	interp	.-x	.
 </s>
-<s id="2049:4&collection=eptic3">
+<s id="2049:4">
 Unia	subst:sg:nom:f	unia-n	unia
 rzeczywiście	adv:pos	rzeczywiście-a	rzeczywiście
 niesie	fin:sg:ter:imperf	nieść-v	nieść
@@ -2343,7 +2343,7 @@ jak	prep:nom	jak-i	jak
 Unia	subst:sg:nom:f	unia-n	unia
 .	interp	.-x	.
 </s>
-<s id="2049:5&collection=eptic3">
+<s id="2049:5">
 Chciałem	subst:sg:inst:n	Chciałem-n	Chciałem
 przypomnieć	inf:perf	przypomnieć-v	przypomnieć
 ,	interp	"-x	"
@@ -2358,7 +2358,7 @@ po	prep:loc	po-i	po
 katastrofie	subst:sg:loc:f	katastrofa-n	katastrofa
 .	interp	.-x	.
 </s>
-<s id="2049:6&collection=eptic3">
+<s id="2049:6">
 Unia	subst:sg:nom:f	unia-n	unia
 działała	praet:sg:f:imperf	działać-v	działać
 zbyt	qub	zbyt-x	zbyt
@@ -2373,7 +2373,7 @@ ewidentnie	adv:pos	ewidentnie-a	ewidentnie
 skoordynowana	ppas:sg:nom:f:perf:aff	skoordynować-v	skoordynować
 .	interp	.-x	.
 </s>
-<s id="2049:7&collection=eptic3">
+<s id="2049:7">
 Chciałbym	subst:sg:nom:m1	Chciałbym-n	Chciałbym
 się	qub	się-x	się
 więc	conj	więc-c	więc
@@ -2395,7 +2395,7 @@ wówczas	adv	wówczas-a	wówczas
 pomocy	subst:sg:gen:f	pomoc-n	pomoc
 ?	interp	?-x	?
 </s>
-<s id="2049:8&collection=eptic3">
+<s id="2049:8">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -2427,12 +2427,12 @@ albo	conj	albo-c	albo
 <speaker name="Skrzydlewska Joanna Katarzyna" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="167" duration="short" durations="81.0" speed="slow" speedwm="123.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2050:1&collection=eptic3">
+<s id="2050:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2050:2&collection=eptic3">
+<s id="2050:2">
 Obecnie	adv:pos	obecnie-a	obecnie
 na	prep:loc	na-i	na
 Litwie	subst:sg:loc:f	Litwa-n	Litwa
@@ -2480,7 +2480,7 @@ międzynarodowe	adj:pl:acc:f:pos	międzynarodowy-j	międzynarodowa
 konwencje	subst:pl:acc:f	konwencja-n	konwencja
 .	interp	.-x	.
 </s>
-<s id="2050:3&collection=eptic3">
+<s id="2050:3">
 Niewątpliwie	adv:pos	niewątpliwie-a	niewątpliwie
 rolą	subst:sg:inst:f	rola-n	rola
 Parlamentu	subst:sg:gen:m3	parlament-n	parlament
@@ -2516,7 +2516,7 @@ grup	subst:pl:gen:f	grupa-n	grupa
 społecznych	adj:pl:gen:f:pos	społeczny-j	społeczna
 .	interp	.-x	.
 </s>
-<s id="2050:4&collection=eptic3">
+<s id="2050:4">
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 wielokrotnie	adv:pos	wielokrotnie-a	wielokrotnie
 podejmował	praet:sg:m3:imperf	podejmować-v	podejmować
@@ -2526,7 +2526,7 @@ sprawach	subst:pl:loc:f	sprawa-n	sprawa
 rezolucje	subst:pl:voc:f	rezolucja-n	rezolucja
 .	interp	.-x	.
 </s>
-<s id="2050:5&collection=eptic3">
+<s id="2050:5">
 Zawsze	adv	zawsze-a	zawsze
 przeciwstawiał	praet:sg:m1:imperf	przeciwstawiać-v	przeciwstawiać
 się	qub	się-x	się
@@ -2537,7 +2537,7 @@ tych	adj:pl:gen:n:pos	ten-j	to
 praw	subst:pl:gen:n	prawo-n	prawo
 .	interp	.-x	.
 </s>
-<s id="2050:6&collection=eptic3">
+<s id="2050:6">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j	dzisiejsza
 debata	subst:sg:nom:f	debata-n	debata
 także	qub	także-x	także
@@ -2568,7 +2568,7 @@ orientację	subst:sg:acc:f	orientacja-n	orientacja
 seksualną	adj:sg:acc:f:pos	seksualny-j	seksualna
 .	interp	.-x	.
 </s>
-<s id="2050:7&collection=eptic3">
+<s id="2050:7">
 Obawa	subst:sg:nom:f	obawa-n	obawa
 ta	adj:sg:nom:f:pos	ten-j	ta
 uzasadniona	ppas:sg:nom:f:perf:aff	uzasadnić-v	uzasadnić
@@ -2597,7 +2597,7 @@ tego	adj:sg:gen:m3:pos	ten-j	ten
 kraju	subst:sg:gen:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2050:8&collection=eptic3">
+<s id="2050:8">
 Mam	fin:sg:pri:imperf	mieć-v	mieć
 tu	adv	tu-a	tu
 na	prep:loc	na-i	na
@@ -2625,7 +2625,7 @@ im	ppron3:pl:dat:m1:ter	on-x	on
 przyznano	imps:perf	przyznać-v	przyznać
 .	interp	.-x	.
 </s>
-<s id="2050:9&collection=eptic3">
+<s id="2050:9">
 Dlatego	adv	dlatego-a	dlatego
 warto	pred	warto-x	warto
 podkreślać	inf:imperf	podkreślać-v	podkreślać
@@ -2664,12 +2664,12 @@ narodowym	adj:sg:inst:m3:pos	narodowy-j	narodowy
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="132" duration="short" durations="73.0" speed="slow" speedwm="108.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2051:1&collection=eptic3">
+<s id="2051:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2051:2&collection=eptic3">
+<s id="2051:2">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 się	qub	się-x	się
 ,	interp	"-x	"
@@ -2692,7 +2692,7 @@ Parlament	subst:sg:nom:m3	parlament-n	parlament
 Europejski	adj:sg:nom:m3:pos	europejski-j	europejski
 .	interp	.-x	.
 </s>
-<s id="2051:3&collection=eptic3">
+<s id="2051:3">
 Litewskie	adj:sg:nom:n:pos	litewski-j	litewskie
 prawo	subst:sg:nom:n	prawo-n	prawo
 ,	interp	"-x	"
@@ -2715,7 +2715,7 @@ zostało	praet:sg:n:perf	zostać-v	zostać
 przyjęte	ppas:sg:nom:n:perf:aff	przyjąć-v	przyjąć
 .	interp	.-x	.
 </s>
-<s id="2051:4&collection=eptic3">
+<s id="2051:4">
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 Europejski	adj:sg:nom:m3:pos	europejski-j	europejski
 już	qub	już-x	już
@@ -2729,7 +2729,7 @@ państw	subst:pl:gen:n	państwo-n	państwo
 członkowskich	adj:pl:gen:n:pos	członkowski-j	członkowskie
 .	interp	.-x	.
 </s>
-<s id="2051:5&collection=eptic3">
+<s id="2051:5">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -2752,7 +2752,7 @@ suwerennym	adj:sg:loc:n:pos	suwerenny-j	suwerenne
 państwie	subst:sg:loc:n	państwo-n	państwo
 .	interp	.-x	.
 </s>
-<s id="2051:6&collection=eptic3">
+<s id="2051:6">
 Powinniśmy	fin:pl:pri:imperf	Powinniśmy-v	Powinniśmy
 z	prep:inst:nwok	z-i	z
 całą	adj:sg:inst:f:pos	cały-j	cała
@@ -2800,7 +2800,7 @@ treści	subst:pl:gen:f	treść-n	treść
 seksualnych	adj:pl:gen:f:pos	seksualny-j	seksualna
 .	interp	.-x	.
 </s>
-<s id="2051:7&collection=eptic3">
+<s id="2051:7">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 zupełnie	adv:pos	zupełnie-a	zupełnie
@@ -2808,7 +2808,7 @@ naturalna	adj:sg:nom:f:pos	naturalny-j	naturalna
 dyskusja	subst:sg:nom:f	dyskusja-n	dyskusja
 .	interp	.-x	.
 </s>
-<s id="2051:8&collection=eptic3">
+<s id="2051:8">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 się	qub	się-x	się
 ,	interp	"-x	"
@@ -2823,7 +2823,7 @@ zupełnie	adv:pos	zupełnie-a	zupełnie
 pomijane	ppas:pl:nom:m2:imperf:aff	pomijać-v	pomijać
 .	interp	.-x	.
 </s>
-<s id="2051:9&collection=eptic3">
+<s id="2051:9">
 W	prep:loc:nwok	w-i	w
 tej	adj:sg:loc:f:pos	ten-j	ta
 rezolucji	subst:sg:loc:f	rezolucja-n	rezolucja
@@ -2854,7 +2854,7 @@ prawami	subst:pl:inst:n	prawo-n	prawo
 dzieci	subst:pl:gen:n	dziecko-n	dziecko
 .	interp	.-x	.
 </s>
-<s id="2051:10&collection=eptic3">
+<s id="2051:10">
 Dlatego	adv	dlatego-a	dlatego
 nie	qub	nie-x	nie
 bardzo	adv:pos	bardzo-a	bardzo
@@ -2872,12 +2872,12 @@ tekst	subst:sg:acc:m3	tekst-n	tekst
 <speaker name="Senyszyn Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="123" duration="short" durations="74.0" speed="slow" speedwm="99.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2052:1&collection=eptic3">
+<s id="2052:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2052:2&collection=eptic3">
+<s id="2052:2">
 Dla	prep:gen	dla-i	dla
 większości	subst:sg:gen:f	większość-n	większość
 mieszkańców	subst:pl:gen:m1	mieszkaniec-n	mieszkaniec
@@ -2898,7 +2898,7 @@ same	adj:pl:acc:n:pos	sam-j	samo
 prawa	subst:pl:acc:n	prawo-n	prawo
 .	interp	.-x	.
 </s>
-<s id="2052:3&collection=eptic3">
+<s id="2052:3">
 Niestety	qub	niestety-x	niestety
 w	prep:loc:nwok	w-i	w
 niektórych	adj:pl:loc:m3:pos	niektóry-j	niektóry
@@ -2915,7 +2915,7 @@ zbyt	qub	zbyt-x	zbyt
 niski	adj:sg:nom:m3:pos	niski-j	niski
 .	interp	.-x	.
 </s>
-<s id="2052:4&collection=eptic3">
+<s id="2052:4">
 Zdarzają	fin:pl:ter:imperf	zdarzać-v	zdarzać
 się	qub	się-x	się
 przypadki	subst:pl:nom:m3	przypadek-n	przypadek
@@ -2946,7 +2946,7 @@ projekt	subst:sg:acc:m3	projekt-n	projekt
 litewski	adj:sg:nom:m3:pos	litewski-j	litewski
 .	interp	.-x	.
 </s>
-<s id="2052:5&collection=eptic3">
+<s id="2052:5">
 Kres	subst:sg:nom:m3	kres-n	kres
 takim	adj:pl:dat:f:pos	taki-j	taka
 praktykom	subst:pl:dat:f	praktyka-n	praktyka
@@ -2976,13 +2976,13 @@ lub	conj	lub-c	lub
 światopogląd	subst:sg:acc:m3	światopogląd-n	światopogląd
 .	interp	.-x	.
 </s>
-<s id="2052:6&collection=eptic3">
+<s id="2052:6">
 Kiedy	adv	kiedy-a	kiedy
 to	qub	to-x	to
 nastąpi	fin:sg:ter:perf	nastąpić-v	nastąpić
 ?	interp	?-x	?
 </s>
-<s id="2052:7&collection=eptic3">
+<s id="2052:7">
 Ważny	adj:sg:nom:m3:pos	ważny-j	ważny
 jest	fin:sg:ter:imperf	być-v	być
 całkowity	adj:sg:nom:m3:pos	całkowity-j	całkowity
@@ -3006,7 +3006,7 @@ odgrywa	fin:sg:ter:imperf	odgrywać-v	odgrywać
 religia	subst:sg:nom:f	religia-n	religia
 .	interp	.-x	.
 </s>
-<s id="2052:8&collection=eptic3">
+<s id="2052:8">
 Wciąż	adv	wciąż-a	wciąż
 w	prep:loc:nwok	w-i	w
 76	num:pl:acc:m3:rec	76-x	76
@@ -3029,7 +3029,7 @@ kara	subst:sg:nom:f	kara-n	kara
 śmierci	subst:sg:gen:f	śmierć-n	śmierć
 .	interp	.-x	.
 </s>
-<s id="2052:9&collection=eptic3">
+<s id="2052:9">
 W	prep:loc:nwok	w-i	w
 Europie	subst:sg:loc:f	Europa-n	Europa
 pojawiają	fin:pl:ter:imperf	pojawiać-v	pojawiać
@@ -3043,7 +3043,7 @@ wolny	adj:sg:acc:m3:pos	wolny-j	wolny
 świat	subst:sg:acc:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2052:10&collection=eptic3">
+<s id="2052:10">
 Dlatego	adv	dlatego-a	dlatego
 ważna	adj:sg:nom:f:pos	ważny-j	ważna
 jest	fin:sg:ter:imperf	być-v	być
@@ -3063,19 +3063,19 @@ antydyskryminacyjna	adj:sg:nom:f:pos	antydyskryminacyjna-j	antydyskryminacyjna
 <speaker name="Cymanski Tadeusz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="135" duration="short" durations="83.0" speed="slow" speedwm="97.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2053:1&collection=eptic3">
+<s id="2053:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2053:2&collection=eptic3">
+<s id="2053:2">
 Nie	qub	nie-x	nie
 ma	fin:sg:ter:imperf	mieć-v	mieć
 idealnych	adj:pl:gen:m1:pos	idealny-j	idealny
 praw	subst:pl:gen:n	prawo-n	prawo
 .	interp	.-x	.
 </s>
-<s id="2053:3&collection=eptic3">
+<s id="2053:3">
 Wszędzie	adv	wszędzie-a	wszędzie
 są	fin:pl:ter:imperf	być-v	być
 wady	subst:pl:nom:f	wada-n	wada
@@ -3093,7 +3093,7 @@ niż	conj	niż-c	niż
 obaw	subst:pl:gen:f	obawa-n	obawa
 .	interp	.-x	.
 </s>
-<s id="2053:4&collection=eptic3">
+<s id="2053:4">
 Europa	subst:sg:nom:f	Europa-n	Europa
 ,	interp	"-x	"
 pomimo	prep:gen	pomimo-i	pomimo
@@ -3110,7 +3110,7 @@ nawet	qub	nawet-x	nawet
 kontrastów	subst:pl:gen:m3	kontrast-n	kontrast
 .	interp	.-x	.
 </s>
-<s id="2053:5&collection=eptic3">
+<s id="2053:5">
 Dotyczy	fin:sg:ter:imperf	dotyczyć-v	dotyczyć
 to	subst:sg:nom:n	to-n	to
 również	qub	również-x	również
@@ -3138,7 +3138,7 @@ na	prep:loc	na-i	na
 dorobku	subst:sg:loc:m3	dorobek-n	dorobek
 .	interp	.-x	.
 </s>
-<s id="2053:6&collection=eptic3">
+<s id="2053:6">
 Poziom	subst:sg:nom:m3	poziom-n	poziom
 finansowania	ger:sg:gen:n:imperf:aff	finansować-v	finansować
 i	conj	i-c	i
@@ -3160,7 +3160,7 @@ daleko	adv:pos	daleko-a	daleko
 niższy	adj:sg:nom:m3:com	niski-j	niższy
 .	interp	.-x	.
 </s>
-<s id="2053:7&collection=eptic3">
+<s id="2053:7">
 Ta	adj:sg:nom:f:pos	ten-j	ta
 dyrektywa	subst:sg:nom:f	dyrektywa-n	dyrektywa
 stanowi	fin:sg:ter:imperf	stanowić-v	stanowić
@@ -3181,7 +3181,7 @@ których	adj:pl:loc:m3:pos	który-j	który
 mówię	fin:sg:pri:imperf	mówić-v	mówić
 .	interp	.-x	.
 </s>
-<s id="2053:8&collection=eptic3">
+<s id="2053:8">
 Rządy	subst:pl:nom:m3	rząd-n	rząd
 stają	fin:pl:ter:imperf	stawać-v	stawać
 przed	prep:inst:nwok	przed-i	przed
@@ -3237,7 +3237,7 @@ ma	fin:sg:ter:imperf	mieć-v	mieć
 zdrowie	subst:sg:acc:n	zdrowie-n	zdrowie
 .	interp	.-x	.
 </s>
-<s id="2053:9&collection=eptic3">
+<s id="2053:9">
 Dziękując	pcon:imperf	dziękować-v	dziękować
 ,	interp	"-x	"
 apeluję	fin:sg:pri:imperf	apelować-v	apelować
@@ -3262,7 +3262,7 @@ wyrazem	subst:sg:inst:m3	wyraz-n	wyraz
 kompromisu	subst:sg:gen:m3	kompromis-n	kompromis
 .	interp	.-x	.
 </s>
-<s id="2053:10&collection=eptic3">
+<s id="2053:10">
 I	conj	i-c	i
 to	conj	to-c	to
 słowo	subst:sg:nom:n	słowo-n	słowo
@@ -3278,12 +3278,12 @@ cieszy	fin:sg:ter:imperf	cieszyć-v	cieszyć
 <speaker name="Lukacijewska Elzbieta Katarzyna" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="177" duration="short" durations="102.0" speed="slow" speedwm="104.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2054:1&collection=eptic3">
+<s id="2054:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2054:2&collection=eptic3">
+<s id="2054:2">
 Na	prep:loc	Na-i	Na
 samym	adj:sg:loc:m3:pos	sam-j	sam
 początku	subst:sg:loc:m3	początek-n	początek
@@ -3300,7 +3300,7 @@ trudną	adj:sg:acc:f:pos	trudny-j	trudna
 pracę	subst:sg:acc:f	praca-n	praca
 .	interp	.-x	.
 </s>
-<s id="2054:3&collection=eptic3">
+<s id="2054:3">
 Ta	adj:sg:nom:f:pos	ten-j	ta
 praca	subst:sg:nom:f	praca-n	praca
 nie	qub	nie-x	nie
@@ -3323,7 +3323,7 @@ poszczególnych	adj:pl:loc:m3:pos	poszczególny-j	poszczególny
 krajach	subst:pl:loc:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2054:4&collection=eptic3">
+<s id="2054:4">
 Osiągnięcie	ger:sg:nom:n:perf:aff	osiągnąć-v	osiągnąć
 kompromisu	subst:sg:gen:m3	kompromis-n	kompromis
 pomiędzy	prep:inst	pomiędzy-i	pomiędzy
@@ -3343,7 +3343,7 @@ znajomości	subst:sg:gen:f	znajomość-n	znajomość
 tematu	subst:sg:gen:m3	temat-n	temat
 .	interp	.-x	.
 </s>
-<s id="2054:5&collection=eptic3">
+<s id="2054:5">
 Wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
 mamy	fin:pl:pri:imperf	mieć-v	mieć
 świadomość	subst:sg:acc:f	świadomość-n	świadomość
@@ -3391,7 +3391,7 @@ jest	fin:sg:ter:imperf	być-v	być
 ograniczony	ppas:sg:nom:m3:perf:aff	ograniczyć-v	ograniczyć
 .	interp	.-x	.
 </s>
-<s id="2054:6&collection=eptic3">
+<s id="2054:6">
 Ważne	adj:sg:nom:n:pos	ważny-j	ważne
 jest	fin:sg:ter:imperf	być-v	być
 ,	interp	"-x	"
@@ -3420,7 +3420,7 @@ jej	ppron3:sg:dat:f:ter	on-x	on
 zapisy	subst:pl:acc:m3	zapis-n	zapis
 .	interp	.-x	.
 </s>
-<s id="2054:7&collection=eptic3">
+<s id="2054:7">
 Istotą	subst:sg:inst:f	istota-n	istota
 tej	adj:sg:gen:f:pos	ten-j	ta
 dyrektywy	subst:sg:gen:f	dyrektywa-n	dyrektywa
@@ -3451,7 +3451,7 @@ określonych	ppas:pl:gen:m3:perf:aff	określić-v	określić
 kosztów	subst:pl:gen:m3	koszt-n	koszt
 .	interp	.-x	.
 </s>
-<s id="2054:8&collection=eptic3">
+<s id="2054:8">
 Dyrektywa	subst:sg:nom:f	dyrektywa-n	dyrektywa
 opiera	fin:sg:ter:imperf	opierać-v	opierać
 się	qub	się-x	się
@@ -3466,7 +3466,7 @@ na	prep:loc	na-i	na
 finansowych	adj:pl:loc:m3:pos	finansowy-j	finansowy
 .	interp	.-x	.
 </s>
-<s id="2054:9&collection=eptic3">
+<s id="2054:9">
 Chciałabym	subst:pl:dat:m1	Chciałabym-n	Chciałabym
 zauważyć	inf:perf	zauważyć-v	zauważyć
 ,	interp	"-x	"
@@ -3500,7 +3500,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2054:10&collection=eptic3">
+<s id="2054:10">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 podkreślić	inf:perf	podkreślić-v	podkreślić
 ,	interp	"-x	"
@@ -3541,12 +3541,12 @@ członkowskich	adj:pl:loc:m3:pos	członkowski-j	członkowski
 <speaker name="Kaminski Michal Tomasz" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="153" duration="short" durations="89.0" speed="slow" speedwm="103.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2055:1&collection=eptic3">
+<s id="2055:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2055:2&collection=eptic3">
+<s id="2055:2">
 Kilka	num:pl:acc:m3:rec	kilka-x	kilka
 dni	subst:pl:gen:m3	dzień-n	dzień
 temu	prep:acc	temu-i	temu
@@ -3574,7 +3574,7 @@ w	prep:loc:nwok	w-i	w
 Smoleńsku	subst:sg:loc:m3	Smoleńsk-n	Smoleńsk
 .	interp	.-x	.
 </s>
-<s id="2055:3&collection=eptic3">
+<s id="2055:3">
 Polska	adj:sg:nom:f:pos	Polski-j	Polski
 opinia	subst:sg:nom:f	opinia-n	opinia
 publiczna	adj:sg:nom:f:pos	publiczny-j	publiczna
@@ -3597,7 +3597,7 @@ charakteru	subst:sg:gen:m3	charakter-n	charakter
 obiektywnego	adj:sg:gen:m3:pos	obiektywny-j	obiektywny
 .	interp	.-x	.
 </s>
-<s id="2055:4&collection=eptic3">
+<s id="2055:4">
 Zostało	praet:sg:n:perf	zostać-v	zostać
 już	qub	już-x	już
 udowodnione	ppas:sg:nom:n1:perf:aff	udowodnić-v	udowodnić
@@ -3644,7 +3644,7 @@ stronę	subst:sg:acc:f	strona-n	strona
 polską	adj:sg:acc:f:pos	polski-j	polska
 .	interp	.-x	.
 </s>
-<s id="2055:5&collection=eptic3">
+<s id="2055:5">
 W	prep:loc:nwok	w-i	w
 Polsce	subst:sg:loc:f	Polska-n	Polska
 nikt	subst:sg:nom:m1	nikt-n	nikt
@@ -3672,7 +3672,7 @@ pamięci	subst:sg:gen:f	pamięć-n	pamięć
 prezydenta	subst:sg:gen:m1	prezydent-n	prezydent
 .	interp	.-x	.
 </s>
-<s id="2055:6&collection=eptic3">
+<s id="2055:6">
 Tym	adv	tym-a	tym
 niemniej	qub	niemniej-x	niemniej
 jednak	conj	jednak-c	jednak
@@ -3696,7 +3696,7 @@ jakichkolwiek	adj:pl:gen:m3:pos	jakikolwiek-j	jakikolwiek
 zarzutów	subst:pl:gen:m3	zarzut-n	zarzut
 .	interp	.-x	.
 </s>
-<s id="2055:7&collection=eptic3">
+<s id="2055:7">
 Mam	fin:sg:pri:imperf	mieć-v	mieć
 w	prep:loc:nwok	w-i	w
 związku	subst:sg:loc:m3	związek-n	związek
@@ -3754,19 +3754,19 @@ kraju	subst:sg:gen:m3	kraj-n	kraj
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="86" duration="short" durations="64.0" speed="slow" speedwm="80.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2056:1&collection=eptic3">
+<s id="2056:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2056:2&collection=eptic3">
+<s id="2056:2">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 to	pred	to-x	to
 europejski	adj:sg:nom:m3:pos	europejski-j	europejski
 kraj	subst:sg:nom:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2056:3&collection=eptic3">
+<s id="2056:3">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 to	pred	to-x	to
 część	subst:sg:nom:f	część-n	część
@@ -3774,7 +3774,7 @@ europejskiej	adj:sg:gen:f:pos	europejski-j	Europejska
 historii	subst:sg:gen:f	historia-n	historia
 .	interp	.-x	.
 </s>
-<s id="2056:4&collection=eptic3">
+<s id="2056:4">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 to	pred	to-x	to
 część	subst:sg:nom:f	część-n	część
@@ -3782,7 +3782,7 @@ europejskiej	adj:sg:gen:f:pos	europejski-j	Europejska
 kultury	subst:sg:gen:f	kultura-n	kultura
 .	interp	.-x	.
 </s>
-<s id="2056:5&collection=eptic3">
+<s id="2056:5">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 to	pred	to-x	to
 nie	qub	nie-x	nie
@@ -3792,7 +3792,7 @@ geografii	subst:sg:gen:f	geografia-n	geografia
 Europy	subst:sg:gen:f	Europa-n	Europa
 .	interp	.-x	.
 </s>
-<s id="2056:6&collection=eptic3">
+<s id="2056:6">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 więc	conj	więc-c	więc
 musi	fin:sg:ter:imperf	musieć-v	musieć
@@ -3815,7 +3815,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2056:7&collection=eptic3">
+<s id="2056:7">
 Mam	fin:sg:pri:imperf	mieć-v	mieć
 wrażenie	subst:sg:acc:n	wrażenie-n	wrażenie
 ,	interp	"-x	"
@@ -3843,7 +3843,7 @@ właśnie	qub	właśnie-x	właśnie
 Serbii	subst:sg:gen:f	Serbia-n	Serbia
 .	interp	.-x	.
 </s>
-<s id="2056:8&collection=eptic3">
+<s id="2056:8">
 Z	prep:inst:nwok	z-i	z
 tą	adj:sg:inst:f:pos	ten-j	ta
 asymetrią	subst:sg:inst:f	asymetria-n	asymetria
@@ -3854,7 +3854,7 @@ zawsze	adv	zawsze-a	zawsze
 skończyć	inf:perf	skończyć-v	skończyć
 .	interp	.-x	.
 </s>
-<s id="2056:9&collection=eptic3">
+<s id="2056:9">
 Nie	qub	nie-x	nie
 szukajmy	impt:pl:pri:imperf	szukać-v	szukać
 pretekstów	subst:pl:gen:m3	pretekst-n	pretekst
@@ -3874,7 +3874,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2056:10&collection=eptic3">
+<s id="2056:10">
 Naród	subst:sg:acc:m3	naród-n	naród
 serbski	adj:sg:acc:m3:pos	serbski-j	serbski
 zasłużył	praet:sg:m1:perf	zasłużyć-v	zasłużyć
@@ -3898,12 +3898,12 @@ najszybciej	adv:sup	szybko-a	szybko
 <speaker name="Kalinowski Jaroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="110" duration="short" durations="57.0" speed="slow" speedwm="115.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2057:1&collection=eptic3">
+<s id="2057:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2057:2&collection=eptic3">
+<s id="2057:2">
 Współpraca	subst:sg:nom:f	współpraca-n	współpraca
 z	prep:inst:nwok	z-i	z
 naszymi	adj:pl:inst:m1:pos	nasz-j	nasz
@@ -3916,7 +3916,7 @@ polityki	subst:sg:gen:f	polityka-n	polityka
 Wspólnoty	subst:sg:gen:f	wspólnota-n	wspólnota
 .	interp	.-x	.
 </s>
-<s id="2057:3&collection=eptic3">
+<s id="2057:3">
 Serbia	subst:sg:nom:f	Serbia-n	Serbia
 ,	interp	"-x	"
 podobnie	adv:pos	podobnie-a	podobnie
@@ -3933,7 +3933,7 @@ bardzo	adv:pos	bardzo-a	bardzo
 szczególny	adj:sg:nom:m3:pos	szczególny-j	szczególny
 .	interp	.-x	.
 </s>
-<s id="2057:4&collection=eptic3">
+<s id="2057:4">
 W	prep:loc:nwok	w-i	w
 związku	subst:sg:loc:m3	związek-n	związek
 z	prep:inst:nwok	z-i	z
@@ -3962,7 +3962,7 @@ i	conj	i-c	i
 politycznymi	adj:pl:inst:f:pos	polityczny-j	polityczna
 .	interp	.-x	.
 </s>
-<s id="2057:5&collection=eptic3">
+<s id="2057:5">
 Rolą	subst:sg:inst:f	rola-n	rola
 Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
@@ -3974,7 +3974,7 @@ i	conj	i-c	i
 pomagać	inf:imperf	pomagać-v	pomagać
 im.	inf:imperf	im.-v	im.
 </s>
-<s id="2057:6&collection=eptic3">
+<s id="2057:6">
 Historia	subst:sg:nom:f	historia-n	historia
 nauczyła	praet:sg:f:perf	nauczyć-v	nauczyć
 nas	ppron12:pl:acc:m1:pri	my-x	my
@@ -3998,7 +3998,7 @@ wszyscy	subst:pl:nom:m1	wszyscy-n	wszyscy
 odczuwamy	fin:pl:pri:imperf	odczuwać-v	odczuwać
 .	interp	.-x	.
 </s>
-<s id="2057:7&collection=eptic3">
+<s id="2057:7">
 Europa	subst:sg:nom:f	Europa-n	Europa
 ponosi	fin:sg:ter:imperf	ponosić-v	ponosić
 w	prep:loc:nwok	w-i	w
@@ -4046,7 +4046,7 @@ to	pred	to-x	to
 konieczność	subst:sg:nom:f	konieczność-n	konieczność
 .	interp	.-x	.
 </s>
-<s id="2057:8&collection=eptic3">
+<s id="2057:8">
 Także	qub	także-x	także
 ,	interp	"-x	"
 aby	comp	aby-c	aby
@@ -4067,12 +4067,12 @@ powtórzyła	praet:sg:f:perf	powtórzyć-v	powtórzyć
 <speaker name="Protasiewicz Jacek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="188" duration="short" durations="110.0" speed="slow" speedwm="102.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2058:1&collection=eptic3">
+<s id="2058:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2058:2&collection=eptic3">
+<s id="2058:2">
 Obserwatorzy	subst:pl:nom:m1	obserwator-n	obserwator
 międzynarodowi	adj:pl:nom:m1:pos	międzynarodowy-j	międzynarodowy
 nie	qub	nie-x	nie
@@ -4091,7 +4091,7 @@ najmniejszym	adj:sg:loc:m3:sup	mały-j	najmniejszy
 stopniu	subst:sg:loc:m3	stopień-n	stopień
 .	interp	.-x	.
 </s>
-<s id="2058:3&collection=eptic3">
+<s id="2058:3">
 Ostatnie	adj:pl:nom:n:pos	ostatni-j	ostatnie
 wybory	subst:pl:nom:n	wybory-n	wybory
 prezydenckie	adj:pl:nom:n:pos	prezydencki-j	prezydenckie
@@ -4104,7 +4104,7 @@ były	praet:pl:n:imperf	być-v	być
 uczciwe	adj:pl:nom:n:pos	uczciwy-j	uczciwe
 .	interp	.-x	.
 </s>
-<s id="2058:4&collection=eptic3">
+<s id="2058:4">
 Nie	qub	nie-x	nie
 były	praet:pl:n:imperf	być-v	być
 one	ppron3:pl:nom:n:ter	on-x	on
@@ -4136,7 +4136,7 @@ dłużej	adv:com	długo-a	długo
 kontynuowana	ppas:sg:nom:f:imperf:aff	kontynuować-v	kontynuować
 .	interp	.-x	.
 </s>
-<s id="2058:5&collection=eptic3">
+<s id="2058:5">
 To	pred	to-x	to
 nie	qub	nie-x	nie
 jest	fin:sg:ter:imperf	być-v	być
@@ -4179,7 +4179,7 @@ sankcji	subst:pl:gen:f	sankcja-n	sankcja
 gospodarczych	adj:pl:gen:f:pos	gospodarczy-j	gospodarcza
 .	interp	.-x	.
 </s>
-<s id="2058:6&collection=eptic3">
+<s id="2058:6">
 Te	adj:pl:nom:f:pos	ten-j	ta
 sankcje	subst:pl:nom:f	sankcja-n	sankcja
 oczywiście	qub	oczywiście-x	oczywiście
@@ -4218,7 +4218,7 @@ Partnerstwie	subst:sg:loc:n	partnerstwo-n	partnerstwo
 Wschodnim	adj:sg:loc:n:pos	wschodni-j	Wschodnie
 .	interp	.-x	.
 </s>
-<s id="2058:7&collection=eptic3">
+<s id="2058:7">
 Ponieważ	comp	ponieważ-c	ponieważ
 mieliśmy	fin:pl:pri:imperf	mieliśmy-v	mieliśmy
 do	prep:gen	do-i	do
@@ -4235,7 +4235,7 @@ są	fin:pl:ter:imperf	być-v	być
 niewiarygodne	adj:pl:nom:m3:pos	niewiarygodny-j	niewiarygodny
 .	interp	.-x	.
 </s>
-<s id="2058:8&collection=eptic3">
+<s id="2058:8">
 Możemy	fin:pl:pri:imperf	móc-v	móc
 zatem	conj	zatem-c	zatem
 z	prep:inst:nwok	z-i	z
@@ -4256,7 +4256,7 @@ opozycja	subst:sg:nom:f	opozycja-n	opozycja
 demokratyczna	adj:sg:nom:f:pos	demokratyczny-j	demokratyczna
 .	interp	.-x	.
 </s>
-<s id="2058:9&collection=eptic3">
+<s id="2058:9">
 Dlatego	adv	dlatego-a	dlatego
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v	powinniśmy
 wesprzeć	inf:perf	wesprzeć-v	wesprzeć
@@ -4295,7 +4295,7 @@ forum	subst:sg:loc:n	forum-n	forum
 politycznym	adj:sg:loc:n:pos	polityczny-j	polityczne
 .	interp	.-x	.
 </s>
-<s id="2058:10&collection=eptic3">
+<s id="2058:10">
 Wreszcie	qub	wreszcie-x	wreszcie
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v	powinniśmy
 upominać	inf:imperf	upominać-v	upominać
@@ -4327,7 +4327,7 @@ nauczycieli	subst:pl:acc:m1	nauczyciel-n	nauczyciel
 akademickich	adj:pl:gen:n:pos	akademicki-j	Akademickie
 .	interp	.-x	.
 </s>
-<s id="2058:11&collection=eptic3">
+<s id="2058:11">
 Oni	ppron3:pl:nom:m1:ter	on-x	on
 wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
 muszą	fin:pl:ter:imperf	musieć-v	musieć
@@ -4353,12 +4353,12 @@ państwa	subst:sg:gen:n	państwo-n	państwo
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="114" duration="short" durations="66.0" speed="slow" speedwm="103.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2059:1&collection=eptic3">
+<s id="2059:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2059:2&collection=eptic3">
+<s id="2059:2">
 Mówimy	fin:pl:pri:imperf	mówić-v	mówić
 o	prep:loc	o-i	o
 sytuacji	subst:sg:loc:f	sytuacja-n	sytuacja
@@ -4372,7 +4372,7 @@ w	prep:acc:nwok	w-i	w
 pierś	subst:sg:acc:f	pierś-n	pierś
 .	interp	.-x	.
 </s>
-<s id="2059:3&collection=eptic3">
+<s id="2059:3">
 Łatwo	adv:pos	łatwo-a	łatwo
 jest	fin:sg:ter:imperf	być-v	być
 słusznie	adv:pos	słusznie-a	słusznie
@@ -4389,7 +4389,7 @@ go	ppron3:sg:acc:m1:ter	on-x	on
 piętnować	inf:imperf	piętnować-v	piętnować
 .	interp	.-x	.
 </s>
-<s id="2059:4&collection=eptic3">
+<s id="2059:4">
 Ale	conj	ale-c	ale
 też	qub	też-x	też
 uderzmy	impt:pl:pri:perf	uderzyć-v	uderzyć
@@ -4400,7 +4400,7 @@ europejskie	adj:pl:acc:f:pos	europejski-j	Europejska
 piersi	subst:pl:acc:f	pierś-n	pierś
 .	interp	.-x	.
 </s>
-<s id="2059:5&collection=eptic3">
+<s id="2059:5">
 Czy	qub	czy-x	czy
 nie	qub	nie-x	nie
 jest	fin:sg:ter:imperf	być-v	być
@@ -4420,7 +4420,7 @@ pana	subst:sg:acc:m1	Pan-n	Pan
 Berlusconiego	subst:sg:acc:m1	Berlusconi-n	Berlusconi
 ?	interp	?-x	?
 </s>
-<s id="2059:6&collection=eptic3">
+<s id="2059:6">
 Czy	qub	czy-x	czy
 nie	qub	nie-x	nie
 jest	fin:sg:ter:imperf	być-v	być
@@ -4438,7 +4438,7 @@ pani	subst:sg:dat:f	pani-n	pani
 Grybauskaitė	adj:sg:dat:f:pos	Grybauskaitė-j	Grybauskaitė
 ?	interp	?-x	?
 </s>
-<s id="2059:7&collection=eptic3">
+<s id="2059:7">
 Czy	qub	czy-x	czy
 nie	qub	nie-x	nie
 jest	fin:sg:ter:imperf	być-v	być
@@ -4470,7 +4470,7 @@ pana	subst:sg:gen:m1	pan-n	pan
 Sikorskiego	subst:sg:gen:m1	Sikorski-n	Sikorski
 ?	interp	?-x	?
 </s>
-<s id="2059:8&collection=eptic3">
+<s id="2059:8">
 Tak	adv:pos	tak-a	tak
 naprawdę	qub	naprawdę-x	naprawdę
 to	pred	to-x	to
@@ -4498,7 +4498,7 @@ nie	qub	nie-x	nie
 żądając	pcon:imperf	żądać-v	żądać
 .	interp	.-x	.
 </s>
-<s id="2059:9&collection=eptic3">
+<s id="2059:9">
 Trzeba	pred	trzeba-x	trzeba
 dzisiaj	adv	dzisiaj-a	dzisiaj
 domagać	inf:imperf	domagać-v	domagać
@@ -4525,12 +4525,12 @@ piersi	subst:pl:acc:f	pierś-n	pierś
 <speaker name="Grzyb Angdrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="136" duration="short" durations="68.0" speed="slow" speedwm="120.0" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2060:1&collection=eptic3">
+<s id="2060:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2060:2&collection=eptic3">
+<s id="2060:2">
 To	pred	to-x	to
 co	subst:sg:nom:n	co-n	co
 się	qub	się-x	się
@@ -4550,7 +4550,7 @@ swobodach	subst:pl:loc:f	swoboda-n	swoboda
 demokratycznych	adj:pl:gen:m1:pos	demokratyczny-j	demokratyczny
 .	interp	.-x	.
 </s>
-<s id="2060:3&collection=eptic3">
+<s id="2060:3">
 Aresztowanie	ger:sg:nom:n:perf:aff	aresztować-v	aresztować
 siedmiuset	num:pl:gen:m1:congr	siedmset-x	siedmset
 osób	subst:pl:gen:f	osoba-n	osoba
@@ -4568,14 +4568,14 @@ ogóle	subst:sg:loc:m3	ogól-n	ogól
 komentarza	subst:sg:gen:m3	komentarz-n	komentarz
 .	interp	.-x	.
 </s>
-<s id="2060:4&collection=eptic3">
+<s id="2060:4">
 Wybory	subst:pl:nom:n	wybory-n	wybory
 były	praet:pl:n:imperf	być-v	być
 zaś	conj	zaś-c	zaś
 nieuczciwe	adj:pl:acc:m3:pos	nieuczciwy-j	nieuczciwy
 .	interp	.-x	.
 </s>
-<s id="2060:5&collection=eptic3">
+<s id="2060:5">
 To	subst:sg:nom:n	To-n	To
 jest	fin:sg:ter:imperf	być-v	być
 właściwie	qub	właściwie-x	właściwie
@@ -4644,7 +4644,7 @@ tego	adj:sg:gen:m3:pos	ten-j	ten
 kraju	subst:sg:gen:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2060:6&collection=eptic3">
+<s id="2060:6">
 Restrykcje	subst:pl:nom:f	restrykcja-n	restrykcja
 zaś	conj	zaś-c	zaś
 nie	qub	nie-x	nie
@@ -4654,7 +4654,7 @@ w	prep:acc:nwok	w-i	w
 obywateli	subst:pl:acc:m1	obywatel-n	obywatel
 .	interp	.-x	.
 </s>
-<s id="2060:7&collection=eptic3">
+<s id="2060:7">
 Musimy	fin:pl:pri:imperf	musieć-v	musieć
 złagodzić	inf:perf	złagodzić-v	złagodzić
 reżim	subst:sg:acc:m3	reżim-n	reżim
@@ -4665,7 +4665,7 @@ to	qub	to-x	to
 Polska	subst:sg:nom:f	Polska-n	Polska
 .	interp	.-x	.
 </s>
-<s id="2060:8&collection=eptic3">
+<s id="2060:8">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 wspomóc	inf:perf	wspomóc-v	wspomóc
 zwolnionych	ppas:pl:gen:f:perf:aff	zwolnić-v	zwolnić
@@ -4684,7 +4684,7 @@ innych	adj:pl:loc:m3:pos	inny-j	inny
 krajach	subst:pl:loc:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2060:9&collection=eptic3">
+<s id="2060:9">
 Wsparcia	subst:sg:nom:f	wsparcie-n	wsparcie
 wymaga	fin:sg:ter:imperf	wymagać-v	wymagać
 niezależne	adj:sg:nom:n:pos	niezależny-j	niezależne
@@ -4701,7 +4701,7 @@ telewizja	subst:sg:nom:f	telewizja-n	telewizja
 Biełsat	subst:sg:nom:m3	Biełsat-n	Biełsat
 .	interp	.-x	.
 </s>
-<s id="2060:10&collection=eptic3">
+<s id="2060:10">
 To	pred	to-x	to
 nie	qub	nie-x	nie
 tylko	qub	tylko-x	tylko
@@ -4727,7 +4727,7 @@ instytucji	subst:pl:gen:f	instytucja-n	instytucja
 europejskich	adj:pl:gen:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2060:11&collection=eptic3">
+<s id="2060:11">
 Chciałbym	subst:sg:nom:m3	Chciałbym-n	Chciałbym
 o	prep:acc	o-i	o
 to	subst:sg:acc:n	to-n	to
@@ -4744,12 +4744,12 @@ apelować	inf:imperf	apelować-v	apelować
 <speaker name="Borys Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="275" duration="short" durations="58.0" speed="high" speedwm="284.5" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2061:1&collection=eptic3">
+<s id="2061:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2061:2&collection=eptic3">
+<s id="2061:2">
 Dla	prep:gen	dla-i	dla
 nas	ppron12:pl:gen:m1:pri	my-x	my
 jest	fin:sg:ter:imperf	być-v	być
@@ -4763,7 +4763,7 @@ z	prep:inst:nwok	z-i	z
 Białorusią	subst:sg:inst:f	Białoruś-n	Białoruś
 .	interp	.-x	.
 </s>
-<s id="2061:3&collection=eptic3">
+<s id="2061:3">
 Jak	adv:pos	jak-a	jak
 wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 ,	interp	"-x	"
@@ -4780,7 +4780,7 @@ pełną	adj:sg:acc:f:pos	pełny-j	pełna
 solidarność	subst:sg:acc:f	solidarność-n	solidarność
 .	interp	.-x	.
 </s>
-<s id="2061:4&collection=eptic3">
+<s id="2061:4">
 Jak	adv:pos	jak-a	jak
 wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 ,	interp	"-x	"
@@ -4822,7 +4822,7 @@ młodej	adj:sg:gen:f:pos	młody-j	młoda
 elity	subst:sg:gen:f	elita-n	elita
 .	interp	.-x	.
 </s>
-<s id="2061:5&collection=eptic3">
+<s id="2061:5">
 Mówię	fin:sg:pri:imperf	mówić-v	mówić
 tutaj	adv	tutaj-a	tutaj
 głównie	qub	głównia-x	głównia
@@ -4864,7 +4864,7 @@ z	prep:gen:nwok	z-i	z
 Białorusi	subst:sg:gen:f	Białoruś-n	Białoruś
 .	interp	.-x	.
 </s>
-<s id="2061:6&collection=eptic3">
+<s id="2061:6">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -4876,7 +4876,7 @@ tym	adj:sg:loc:m3:pos	ten-j	ten
 programie	subst:sg:loc:m3	program-n	program
 .	interp	.-x	.
 </s>
-<s id="2061:7&collection=eptic3">
+<s id="2061:7">
 Nie	qub	nie-x	nie
 wymaga	fin:sg:ter:imperf	wymagać-v	wymagać
 to	subst:sg:nom:n	to-n	to
@@ -4897,7 +4897,7 @@ być	inf:imperf	być-v	być
 skuteczny	adj:sg:nom:m3:pos	skuteczny-j	skuteczny
 .	interp	.-x	.
 </s>
-<s id="2061:8&collection=eptic3">
+<s id="2061:8">
 I	conj	i-c	i
 o	prep:acc	o-i	o
 to	subst:sg:acc:n	to-n	to
@@ -4907,7 +4907,7 @@ pani	subst:sg:gen:f	pani-n	pani
 komisarz	subst:sg:nom:m1	komisarz-n	komisarz
 .	interp	.-x	.
 </s>
-<s id="2061:9&collection=eptic3">
+<s id="2061:9">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 ,	interp	"-x	"
@@ -4917,7 +4917,7 @@ Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n	przedstawiciel
 Ashton	subst:sg:nom:m1	Ashton-n	Ashton
 !	interp	!-x	!
 </s>
-<s id="2061:10&collection=eptic3">
+<s id="2061:10">
 Chciałbym	subst:pl:dat:m1	Chciałbym-n	Chciałbym
 zacząć	inf:perf	zacząć-v	zacząć
 od	prep:gen:nwok	od-i	od
@@ -4946,7 +4946,7 @@ w	prep:loc:nwok	w-i	w
 Aleksandrii	subst:sg:loc:f	Aleksandria-n	Aleksandria
 .	interp	.-x	.
 </s>
-<s id="2061:11&collection=eptic3">
+<s id="2061:11">
 To	subst:sg:nom:n	To-n	To
 bardzo	adv:pos	bardzo-a	bardzo
 ważne	adj:sg:nom:n:pos	ważny-j	ważne
@@ -4964,7 +4964,7 @@ wtedy	adv	wtedy-a	wtedy
 bardziej	adv:com	bardzo-a	bardzo
 .	interp	.-x	.
 </s>
-<s id="2061:12&collection=eptic3">
+<s id="2061:12">
 Chrześcijanie	subst:pl:nom:m1	chrześcijanin-n	chrześcijanin
 są	fin:pl:ter:imperf	być-v	być
 z	prep:inst:nwok	z-i	z
@@ -4978,7 +4978,7 @@ na	prep:loc	na-i	na
 świecie	subst:sg:loc:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2061:13&collection=eptic3">
+<s id="2061:13">
 Dyskryminacja	subst:sg:nom:f	dyskryminacja-n	dyskryminacja
 prawna	adj:sg:nom:f:pos	prawny-j	prawna
 ,	interp	"-x	"
@@ -4998,7 +4998,7 @@ na	prep:loc	na-i	na
 rocznie	adv:pos	rocznie-a	rocznie
 .	interp	.-x	.
 </s>
-<s id="2061:14&collection=eptic3">
+<s id="2061:14">
 Wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
 ,	interp	"-x	"
 którzy	adj:pl:nom:m1:pos	który-j	który
@@ -5017,7 +5017,7 @@ wolności	subst:sg:gen:f	wolność-n	wolność
 religijnej	adj:sg:gen:f:pos	religijny-j	religijna
 .	interp	.-x	.
 </s>
-<s id="2061:15&collection=eptic3">
+<s id="2061:15">
 Sprawa	subst:sg:nom:f	sprawa-n	sprawa
 wolności	subst:sg:gen:f	wolność-n	wolność
 religijnej	adj:sg:gen:f:pos	religijny-j	religijna
@@ -5039,7 +5039,7 @@ pomocy	subst:sg:gen:f	pomoc-n	pomoc
 rozwojowej	adj:sg:gen:f:pos	rozwojowy-j	rozwojowa
 .	interp	.-x	.
 </s>
-<s id="2061:16&collection=eptic3">
+<s id="2061:16">
 Chiny	subst:pl:nom:n	Chiny-n	Chiny
 ,	interp	"-x	"
 Indie	subst:pl:nom:n	Indie-n	Indie
@@ -5059,7 +5059,7 @@ Unią	subst:sg:inst:f	unia-n	unia
 Europejską	adj:sg:inst:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2061:17&collection=eptic3">
+<s id="2061:17">
 Wobec	prep:gen	wobec-i	wobec
 takich	adj:pl:gen:m3:pos	taki-j	taki
 krajów	subst:pl:gen:m3	kraj-n	kraj
@@ -5072,7 +5072,7 @@ politykę	subst:sg:acc:f	polityka-n	polityka
 sąsiedztwa	subst:sg:gen:n	sąsiedztwo-n	sąsiedztwo
 .	interp	.-x	.
 </s>
-<s id="2061:18&collection=eptic3">
+<s id="2061:18">
 W	prep:loc:nwok	w-i	w
 końcu	subst:sg:loc:m3	koniec-n	koniec
 nasza	adj:sg:nom:f:pos	nasz-j	nasza
@@ -5091,7 +5091,7 @@ wolności	subst:sg:gen:f	wolność-n	wolność
 religijnej	adj:sg:gen:f:pos	religijny-j	religijna
 .	interp	.-x	.
 </s>
-<s id="2061:19&collection=eptic3">
+<s id="2061:19">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 więc	conj	więc-c	więc
 instrumenty	subst:pl:acc:m3	instrument-n	instrument
@@ -5121,7 +5121,7 @@ nas	ppron12:pl:gen:m1:pri	my-x	my
 ważna	adj:sg:nom:f:pos	ważny-j	ważna
 .	interp	.-x	.
 </s>
-<s id="2061:20&collection=eptic3">
+<s id="2061:20">
 Tylko	conj	tylko-c	tylko
 wtedy	adv	wtedy-a	wtedy
 świat	subst:sg:nom:m3	Świat-n	Świat
@@ -5143,7 +5143,7 @@ naprawdę	qub	naprawdę-x	naprawdę
 ważna	adj:sg:nom:f:pos	ważny-j	ważna
 .	interp	.-x	.
 </s>
-<s id="2061:21&collection=eptic3">
+<s id="2061:21">
 W	prep:loc:nwok	w-i	w
 innym	adj:sg:loc:m3:pos	inny-j	inny
 przypadku	subst:sg:loc:m3	przypadek-n	przypadek
@@ -5166,7 +5166,7 @@ obszarze	subst:sg:loc:m3	obszar-n	obszar
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="164" duration="short" durations="97.0" speed="slow" speedwm="101.4" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2226:1&collection=eptic3">
+<s id="2226:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 <g/>
@@ -5178,7 +5178,7 @@ Ashton	subst:sg:nom:m1	Ashton-n	Ashton
 <g/>
 !	interp	!-x	!
 </s>
-<s id="2226:2&collection=eptic3">
+<s id="2226:2">
 Chciałbym	subst:pl:dat:m1	Chciałbym-n	Chciałbym
 zacząć	inf:perf	zacząć-v	zacząć
 od	prep:gen:nwok	od-i	od
@@ -5209,7 +5209,7 @@ Aleksandrii	subst:sg:loc:f	Aleksandria-n	Aleksandria
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:3&collection=eptic3">
+<s id="2226:3">
 To	subst:sg:nom:n	To-n	To
 bardzo	adv:pos	bardzo-a	bardzo
 ważne	adj:sg:nom:n:pos	ważny-j	ważne
@@ -5230,7 +5230,7 @@ bardziej	adv:com	bardzo-a	bardzo
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:4&collection=eptic3">
+<s id="2226:4">
 Chrześcijanie	subst:pl:nom:m1	chrześcijanin-n	chrześcijanin
 są	fin:pl:ter:imperf	być-v	być
 z	prep:inst:nwok	z-i	z
@@ -5245,7 +5245,7 @@ na	prep:loc	na-i	na
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:5&collection=eptic3">
+<s id="2226:5">
 Dyskryminacja	subst:sg:nom:f	dyskryminacja-n	dyskryminacja
 prawna	adj:sg:nom:f:pos	prawny-j	prawna
 <g/>
@@ -5269,7 +5269,7 @@ rocznie	adv:pos	rocznie-a	rocznie
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:6&collection=eptic3">
+<s id="2226:6">
 Wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
 <g/>
 ,	interp	"-x	"
@@ -5290,8 +5290,6 @@ wolności	subst:sg:gen:f	wolność-n	wolność
 religijnej	adj:sg:gen:f:pos	religijny-j	religijna
 <g/>
 .	interp	.-x	.
-</s>
-
 Sprawa	subst:sg:nom:f	sprawa-n	sprawa
 wolności	subst:sg:gen:f	wolność-n	wolność
 religijnej	adj:sg:gen:f:pos	religijny-j	religijna
@@ -5316,7 +5314,7 @@ rozwojowej	adj:sg:gen:f:pos	rozwojowy-j	rozwojowa
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:7&collection=eptic3">
+<s id="2226:7">
 Chiny	subst:pl:nom:n	Chiny-n	Chiny
 <g/>
 ,	interp	"-x	"
@@ -5338,7 +5336,7 @@ Europejską	adj:sg:inst:f:pos	europejski-j	Europejska
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:8&collection=eptic3">
+<s id="2226:8">
 Wobec	prep:gen	wobec-i	wobec
 takich	adj:pl:gen:m3:pos	taki-j	taki
 krajów	subst:pl:gen:m3	kraj-n	kraj
@@ -5352,7 +5350,7 @@ sąsiedztwa	subst:sg:gen:n	sąsiedztwo-n	sąsiedztwo
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:9&collection=eptic3">
+<s id="2226:9">
 W	prep:loc:nwok	w-i	w
 końcu	subst:sg:loc:m3	koniec-n	koniec
 nasza	adj:sg:nom:f:pos	nasz-j	nasza
@@ -5372,7 +5370,7 @@ religijnej	adj:sg:gen:f:pos	religijny-j	religijna
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:10&collection=eptic3">
+<s id="2226:10">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 więc	conj	więc-c	więc
 instrumenty	subst:pl:acc:m3	instrument-n	instrument
@@ -5406,7 +5404,7 @@ ważna	adj:sg:nom:f:pos	ważny-j	ważna
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:11&collection=eptic3">
+<s id="2226:11">
 Tylko	conj	tylko-c	tylko
 wtedy	adv	wtedy-a	wtedy
 świat	subst:sg:nom:m3	Świat-n	Świat
@@ -5431,7 +5429,7 @@ ważna	adj:sg:nom:f:pos	ważny-j	ważna
 <g/>
 .	interp	.-x	.
 </s>
-<s id="2226:12&collection=eptic3">
+<s id="2226:12">
 W	prep:loc:nwok	w-i	w
 innym	adj:sg:loc:m3:pos	inny-j	inny
 przypadku	subst:sg:loc:m3	przypadek-n	przypadek
@@ -5455,12 +5453,12 @@ obszarze	subst:sg:loc:m3	obszar-n	obszar
 <speaker name="Poreba Tomasz Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="218" duration="medium" durations="120.0" speed="slow" speedwm="109.0" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2062:1&collection=eptic3">
+<s id="2062:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2062:2&collection=eptic3">
+<s id="2062:2">
 Co	prep:acc	co-i	co
 najmniej	adv:sup	najmniej-a	najmniej
 75	num:pl:acc:m3:rec	75-x	75
@@ -5475,7 +5473,7 @@ dotyczy	fin:sg:ter:imperf	dotyczyć-v	dotyczyć
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2062:3&collection=eptic3">
+<s id="2062:3">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 nie	qub	nie-x	nie
@@ -5487,7 +5485,7 @@ sprawie	subst:sg:loc:f	sprawa-n	sprawa
 bierna	adj:sg:nom:f:pos	bierny-j	bierna
 .	interp	.-x	.
 </s>
-<s id="2062:4&collection=eptic3">
+<s id="2062:4">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 nie	qub	nie-x	nie
@@ -5499,7 +5497,7 @@ sprawie	subst:sg:loc:f	sprawa-n	sprawa
 bezczynna	adj:sg:nom:f:pos	bezczynny-j	bezczynna
 .	interp	.-x	.
 </s>
-<s id="2062:5&collection=eptic3">
+<s id="2062:5">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j	dzisiejsza
 debata	subst:sg:nom:f	debata-n	debata
 służy	fin:sg:ter:imperf	służyć-v	służyć
@@ -5550,13 +5548,13 @@ przyszłości	subst:sg:loc:f	przyszłość-n	przyszłość
 zapobiec	inf:perf	zapobiec-v	zapobiec
 .	interp	.-x	.
 </s>
-<s id="2062:6&collection=eptic3">
+<s id="2062:6">
 Co	subst:sg:acc:n	co-n	co
 możemy	fin:pl:pri:imperf	móc-v	móc
 zrobić	inf:perf	zrobić-v	zrobić
 ?	interp	?-x	?
 </s>
-<s id="2062:7&collection=eptic3">
+<s id="2062:7">
 Po	prep:acc	po-i	po
 pierwsze	adj:sg:acc:n:pos	pierwszy-j	pierwsze
 ,	interp	"-x	"
@@ -5586,7 +5584,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2062:8&collection=eptic3">
+<s id="2062:8">
 Chodzi	fin:sg:ter:imperf	chodzić-v	chodzić
 o	prep:acc	o-i	o
 to	subst:sg:acc:n	to-n	to
@@ -5621,7 +5619,7 @@ tych	adj:pl:loc:m3:pos	ten-j	ten
 krajach	subst:pl:loc:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2062:9&collection=eptic3">
+<s id="2062:9">
 Po	prep:acc	po-i	po
 drugie	adj:sg:acc:n:pos	drugi-j	drugie
 ,	interp	"-x	"
@@ -5660,7 +5658,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2062:10&collection=eptic3">
+<s id="2062:10">
 Wreszcie	qub	wreszcie-x	wreszcie
 po	prep:acc	pod-i	pod
 trzecie	adj:sg:acc:n:pos	trzeci-j	trzecie
@@ -5673,7 +5671,7 @@ podwójnych	adj:pl:loc:f:pos	podwójny-j	podwójna
 standardów	subst:pl:gen:m3	standard-n	standard
 .	interp	.-x	.
 </s>
-<s id="2062:11&collection=eptic3">
+<s id="2062:11">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 ,	interp	"-x	"
@@ -5689,7 +5687,7 @@ krajów	subst:pl:gen:m3	kraj-n	kraj
 świata	subst:sg:gen:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2062:12&collection=eptic3">
+<s id="2062:12">
 Pozwalamy	fin:pl:pri:imperf	pozwalać-v	pozwalać
 budować	inf:imperf	budować-v	budować
 im	ppron3:pl:dat:m1:ter	on-x	on
@@ -5702,7 +5700,7 @@ własne	adj:pl:acc:f:pos	własny-j	własna
 religie	subst:pl:acc:f	religia-n	religia
 .	interp	.-x	.
 </s>
-<s id="2062:13&collection=eptic3">
+<s id="2062:13">
 Jednocześnie	adv:pos	jednocześnie-a	jednocześnie
 z	prep:gen:nwok	z-i	z
 rzadka	adjp	rzadka-x	rzadka
@@ -5754,7 +5752,7 @@ prostu	adjp	prostu-x	prostu
 niemożliwe	adj:sg:nom:n:pos	niemożliwy-j	niemożliwe
 .	interp	.-x	.
 </s>
-<s id="2062:14&collection=eptic3">
+<s id="2062:14">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 przyszedł	praet:sg:m1:perf	przyjść-v	przyjść
 czas	subst:sg:acc:m3	czas-n	czas
@@ -5776,7 +5774,7 @@ na	prep:loc	na-i	na
 świecie	subst:sg:loc:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2062:15&collection=eptic3">
+<s id="2062:15">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 przyszedł	praet:sg:m1:perf	przyjść-v	przyjść
 czas	subst:sg:acc:m3	czas-n	czas
@@ -5809,7 +5807,7 @@ religii	subst:sg:gen:f	religia-n	religia
 <speaker name="Ziobro Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="140" duration="short" durations="76.0" speed="slow" speedwm="110.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2063:1&collection=eptic3">
+<s id="2063:1">
 Według	prep:gen	według-i	według
 organizacji	subst:pl:gen:f	organizacja-n	organizacja
 monitorujących	pact:pl:gen:f:imperf:aff	monitorować-v	monitorować
@@ -5826,7 +5824,7 @@ jest	fin:sg:ter:imperf	być-v	być
 prześladowaniami	subst:pl:inst:n	prześladowanie-n	prześladowanie
 .	interp	.-x	.
 </s>
-<s id="2063:2&collection=eptic3">
+<s id="2063:2">
 W	prep:loc:nwok	w-i	w
 ostatnich	adj:pl:loc:m3:pos	ostatni-j	ostatni
 dwóch	num:pl:loc:m3:congr	dwa-x	dwa
@@ -5850,7 +5848,7 @@ byli	praet:pl:m1:imperf	być-v	być
 chrześcijanami	subst:pl:inst:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2063:3&collection=eptic3">
+<s id="2063:3">
 Tak	adv:pos	tak-a	tak
 podają	fin:pl:ter:imperf	podawać-v	podawać
 dane	subst:pl:acc:f	dana-n	dana
@@ -5860,7 +5858,7 @@ prześladowania	ger:sg:gen:n2:imperf:aff	prześladować-v	prześladować
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2063:4&collection=eptic3">
+<s id="2063:4">
 Liczby	subst:pl:nom:f	liczba-n	liczba
 te	adj:pl:nom:f:pos	ten-j	ta
 stawiają	fin:pl:ter:imperf	stawiać-v	stawiać
@@ -5885,7 +5883,7 @@ Parlamencie	subst:sg:loc:m3	parlament-n	parlament
 pamiętać	inf:imperf	pamiętać-v	pamiętać
 .	interp	.-x	.
 </s>
-<s id="2063:5&collection=eptic3">
+<s id="2063:5">
 Szczególnie	adv:pos	szczególnie-a	szczególnie
 napięta	adj:sg:nom:f:pos	napięty-j	napięty
 sytuacja	subst:sg:nom:f	sytuacja-n	sytuacja
@@ -5907,7 +5905,7 @@ drugiej	adj:sg:gen:f:pos	drugi-j	druga
 kategorii	subst:sg:gen:f	kategoria-n	kategoria
 .	interp	.-x	.
 </s>
-<s id="2063:6&collection=eptic3">
+<s id="2063:6">
 Europa	subst:sg:nom:f	Europa-n	Europa
 ,	interp	"-x	"
 nie	qub	nie-x	nie
@@ -5945,7 +5943,7 @@ innej	adj:sg:gen:f:pos	inny-j	inna
 religii	subst:sg:gen:f	religia-n	religia
 .	interp	.-x	.
 </s>
-<s id="2063:7&collection=eptic3">
+<s id="2063:7">
 Wspólnota	subst:sg:nom:f	wspólnota-n	wspólnota
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 nie	qub	nie-x	nie
@@ -5960,7 +5958,7 @@ dyskryminacji	subst:sg:dat:f	dyskryminacja-n	dyskryminacja
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2063:8&collection=eptic3">
+<s id="2063:8">
 Kwestia	subst:sg:nom:f	kwestia-n	kwestia
 prześladowań	subst:pl:gen:n	prześladowanie-n	prześladowanie
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
@@ -5991,7 +5989,7 @@ strasznych	adj:pl:gen:f:pos	straszny-j	straszna
 wydarzeń	subst:pl:gen:n	wydarzenie-n	wydarzenie
 .	interp	.-x	.
 </s>
-<s id="2063:9&collection=eptic3">
+<s id="2063:9">
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 powinien	winien:sg:m3:imperf	powinien-x	powinien
 również	qub	również-x	również
@@ -6015,12 +6013,12 @@ działań	subst:pl:gen:n	działania-n	działania
 <speaker name="Piotrowski Mirosław" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="95" duration="short" durations="62.0" speed="slow" speedwm="91.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2064:1&collection=eptic3">
+<s id="2064:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2064:2&collection=eptic3">
+<s id="2064:2">
 Wyznacznikiem	subst:sg:inst:m1	wyznacznik-n	wyznacznik
 tożsamości	subst:sg:gen:f	tożsamość-n	tożsamość
 europejskiej	adj:sg:gen:f:pos	europejski-j	Europejska
@@ -6029,7 +6027,7 @@ było	praet:sg:n:imperf	być-v	być
 chrześcijaństwo	subst:sg:nom:n	chrześcijaństwo-n	chrześcijaństwo
 .	interp	.-x	.
 </s>
-<s id="2064:3&collection=eptic3">
+<s id="2064:3">
 Z	prep:gen:nwok	z-i	z
 niego	ppron3:sg:gen:m1:ter	on-x	on
 wypływają	fin:pl:ter:imperf	wypływać-v	wypływać
@@ -6038,7 +6036,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2064:4&collection=eptic3">
+<s id="2064:4">
 Dlatego	adv	dlatego-a	dlatego
 też	qub	też-x	też
 Unia	subst:sg:nom:f	unia-n	unia
@@ -6057,7 +6055,7 @@ częściach	subst:pl:loc:f	część-n	część
 świata	subst:sg:gen:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2064:5&collection=eptic3">
+<s id="2064:5">
 W	prep:loc:nwok	w-i	w
 krajach	subst:pl:loc:m3	kraj-n	kraj
 arabskich	adj:pl:gen:m1:pos	arabski-j	arabski
@@ -6087,14 +6085,14 @@ w	prep:loc:nwok	w-i	w
 Indiach	subst:pl:loc:n	Indie-n	Indie
 .	interp	.-x	.
 </s>
-<s id="2064:6&collection=eptic3">
+<s id="2064:6">
 Giną	fin:pl:ter:imperf	ginąć-v	ginąć
 także	qub	także-x	także
 małe	adj:pl:nom:n:pos	mały-j	małe
 dzieci	subst:pl:nom:n	dziecko-n	dziecko
 .	interp	.-x	.
 </s>
-<s id="2064:7&collection=eptic3">
+<s id="2064:7">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 wiele	num:pl:acc:m3:rec	wiele-x	wiele
 instrumentów	subst:pl:gen:m3	instrument-n	instrument
@@ -6109,7 +6107,7 @@ je	ppron3:pl:acc:m3:ter	on-x	on
 piętnować	inf:imperf	piętnować-v	piętnować
 .	interp	.-x	.
 </s>
-<s id="2064:8&collection=eptic3">
+<s id="2064:8">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 musi	fin:sg:ter:imperf	musieć-v	musieć
@@ -6120,7 +6118,7 @@ na	prep:acc	na-i	na
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2064:9&collection=eptic3">
+<s id="2064:9">
 Jednym	adj:sg:inst:m1:pos	jeden-j	jeden
 z	prep:gen:nwok	z-i	z
 najskuteczniejszych	adj:pl:gen:m1:sup	skuteczny-j	najskuteczniejszy
@@ -6166,12 +6164,12 @@ praw	subst:pl:gen:n	prawo-n	prawo
 <speaker name="Sonik Boguslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="156" duration="short" durations="79.0" speed="slow" speedwm="118.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2065:1&collection=eptic3">
+<s id="2065:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2065:2&collection=eptic3">
+<s id="2065:2">
 Nasrin	subst:sg:nom:m1	Nasrin-n	Nasrin
 Sotudeh	subst:sg:nom:m1	Sotudeh-n	Sotudeh
 już	qub	już-x	już
@@ -6219,7 +6217,7 @@ na	prep:acc	na-i	na
 miesiące	subst:pl:acc:m3	miesiąc-n	miesiąc
 .	interp	.-x	.
 </s>
-<s id="2065:3&collection=eptic3">
+<s id="2065:3">
 Teraz	adv	teraz-a	teraz
 po	prep:loc	po-i	po
 procesie	subst:sg:loc:m3	proces-n	proces
@@ -6251,7 +6249,7 @@ opuszczania	ger:sg:gen:n:imperf:aff	opuszczać-v	opuszczać
 Iranu	subst:sg:gen:m3	Iran-n	Iran
 .	interp	.-x	.
 </s>
-<s id="2065:4&collection=eptic3">
+<s id="2065:4">
 Pamiętajmy	impt:pl:pri:imperf	pamiętać-v	pamiętać
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -6286,7 +6284,7 @@ samo	adj:sg:acc:n:pos	sam-j	samo
 przestępstwo	subst:sg:acc:n	przestępstwo-n	przestępstwo
 .	interp	.-x	.
 </s>
-<s id="2065:5&collection=eptic3">
+<s id="2065:5">
 Trzeba	pred	trzeba-x	trzeba
 jasno	adv:pos	jasno-a	jasno
 podkreślić	inf:perf	podkreślić-v	podkreślić
@@ -6317,7 +6315,7 @@ procesu	subst:sg:gen:m3	proces-n	proces
 sądowego	adj:sg:gen:m3:pos	sądowy-j	sądowy
 .	interp	.-x	.
 </s>
-<s id="2065:6&collection=eptic3">
+<s id="2065:6">
 Nasrin	subst:sg:nom:m1	Nasrin-n	Nasrin
 Sotudeh	subst:sg:nom:m1	Sotudeh-n	Sotudeh
 ,	interp	"-x	"
@@ -6362,7 +6360,7 @@ w	prep:loc:nwok	w-i	w
 Iranie	subst:sg:voc:m3	Iran-n	Iran
 .	interp	.-x	.
 </s>
-<s id="2065:7&collection=eptic3">
+<s id="2065:7">
 Unia	subst:sg:nom:f	unia-n	unia
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 nie	qub	nie-x	nie
@@ -6387,12 +6385,12 @@ reżimem	subst:sg:inst:m3	reżim-n	reżim
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="98" duration="short" durations="69.0" speed="slow" speedwm="85.2" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2066:1&collection=eptic3">
+<s id="2066:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2066:2&collection=eptic3">
+<s id="2066:2">
 Jest	fin:sg:ter:imperf	być-v	być
 to	pred	to-x	to
 kolejna	adj:sg:nom:f:pos	kolejny-j	kolejna
@@ -6409,7 +6407,7 @@ nas	ppron12:pl:acc:m1:pri	my-x	my
 parlamentarzystów	subst:pl:acc:m1	parlamentarzysta-n	parlamentarzysta
 .	interp	.-x	.
 </s>
-<s id="2066:3&collection=eptic3">
+<s id="2066:3">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 tak	adv:pos	tak-a	tak
@@ -6445,7 +6443,7 @@ tego	adj:sg:gen:n:pos	ten-j	to
 państwa	subst:sg:gen:n	państwo-n	państwo
 .	interp	.-x	.
 </s>
-<s id="2066:4&collection=eptic3">
+<s id="2066:4">
 Ewidentnie	adv:pos	ewidentnie-a	ewidentnie
 widać	pred	widać-x	widać
 ,	interp	"-x	"
@@ -6479,14 +6477,14 @@ nie	qub	nie-x	nie
 idzie	fin:sg:ter:imperf	iść-v	iść
 .	interp	.-x	.
 </s>
-<s id="2066:5&collection=eptic3">
+<s id="2066:5">
 Ta	adj:sg:nom:f:pos	ten-j	ta
 sprawa	subst:sg:nom:f	sprawa-n	sprawa
 jest	fin:sg:ter:imperf	być-v	być
 oczywista	adj:sg:nom:f:pos	oczywisty-j	oczywista
 .	interp	.-x	.
 </s>
-<s id="2066:6&collection=eptic3">
+<s id="2066:6">
 Dobrze	adv:pos	dobrze-a	dobrze
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -6497,7 +6495,7 @@ się	qub	się-x	się
 zajął	praet:sg:m3:perf	zająć-v	zająć
 .	interp	.-x	.
 </s>
-<s id="2066:7&collection=eptic3">
+<s id="2066:7">
 Pytanie	subst:sg:nom:n	pytanie-n	pytanie
 tylko	qub	tylko-x	tylko
 o	prep:acc	o-i	o
@@ -6531,7 +6529,7 @@ większego	adj:sg:gen:m3:com	wielki-j	wielki
 skutku	subst:sg:gen:m3	skutek-n	skutek
 .	interp	.-x	.
 </s>
-<s id="2066:8&collection=eptic3">
+<s id="2066:8">
 Być	inf:imperf	być-v	być
 może	fin:sg:ter:imperf	móc-v	móc
 należy	fin:sg:ter:imperf	należeć-v	należeć
@@ -6553,12 +6551,12 @@ dotychczas	adv	dotychczas-a	dotychczas
 <speaker name="Geringer de Oedenberg Lidia Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="130" duration="short" durations="76.0" speed="slow" speedwm="102.6" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2067:1&collection=eptic3">
+<s id="2067:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2067:2&collection=eptic3">
+<s id="2067:2">
 W	prep:loc:nwok	w-i	w
 trakcie	subst:sg:loc:m3	trakt-n	trakt
 poprzedniej	adj:sg:gen:f:pos	poprzedni-j	poprzednia
@@ -6604,7 +6602,7 @@ kary	subst:sg:gen:f	kara-n	kara
 śmierci	subst:sg:gen:f	śmierć-n	śmierć
 .	interp	.-x	.
 </s>
-<s id="2067:3&collection=eptic3">
+<s id="2067:3">
 Do	prep:gen	do-i	do
 tej	adj:sg:gen:f:pos	ten-j	ta
 tragicznej	adj:sg:loc:f:pos	tragiczny-j	tragiczna
@@ -6628,7 +6626,7 @@ wymiaru	subst:sg:gen:m3	wymiar-n	wymiar
 sprawiedliwości	subst:sg:gen:f	sprawiedliwość-n	sprawiedliwość
 .	interp	.-x	.
 </s>
-<s id="2067:4&collection=eptic3">
+<s id="2067:4">
 Te	adj:pl:nom:n:pos	ten-j	to
 dwa	num:pl:nom:n:congr	dwa-x	dwa
 ostatnie	adj:pl:nom:n:pos	ostatni-j	ostatnie
@@ -6660,7 +6658,7 @@ tego	subst:sg:gen:n	to-n	to
 przykładem	subst:sg:inst:m3	przykład-n	przykład
 .	interp	.-x	.
 </s>
-<s id="2067:5&collection=eptic3">
+<s id="2067:5">
 Represje	subst:pl:nom:f	represja-n	represja
 spotkały	praet:pl:f:perf	spotkać-v	spotkać
 także	qub	także-x	także
@@ -6669,7 +6667,7 @@ irańskich	adj:pl:acc:m1:pos	irański-j	irański
 prawników	subst:pl:gen:m1	prawnik-n	prawnik
 .	interp	.-x	.
 </s>
-<s id="2067:6&collection=eptic3">
+<s id="2067:6">
 Shiva	subst:sg:nom:m1	Shiva-n	Shiva
 Nazar	subst:sg:nom:m1	Nazar-n	Nazar
 Ahari	subst:sg:nom:m1	Ahari-n	Ahari
@@ -6714,7 +6712,7 @@ swoich	adj:pl:gen:m1:pos	swój-j	swój
 klientów	subst:pl:gen:m1	klient-n	klient
 .	interp	.-x	.
 </s>
-<s id="2067:7&collection=eptic3">
+<s id="2067:7">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -6753,12 +6751,12 @@ Iranem	subst:sg:inst:m3	Iran-n	Iran
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="92" duration="short" durations="65.0" speed="slow" speedwm="84.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2068:1&collection=eptic3">
+<s id="2068:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2068:2&collection=eptic3">
+<s id="2068:2">
 Nie	qub	nie-x	nie
 jestem	fin:sg:pri:imperf	być-v	być
 Włochem	subst:sg:inst:m1	Włoch-n	Włoch
@@ -6797,7 +6795,7 @@ ofiar	subst:pl:gen:f	ofiara-n	ofiara
 zbrodni	subst:sg:gen:f	zbrodnia-n	zbrodnia
 .	interp	.-x	.
 </s>
-<s id="2068:3&collection=eptic3">
+<s id="2068:3">
 To	subst:sg:nom:n	To-n	To
 jest	fin:sg:ter:imperf	być-v	być
 nie	qub	nie-x	nie
@@ -6805,7 +6803,7 @@ do	prep:gen	do-i	do
 przyjęcia	ger:sg:gen:n:perf:aff	przyjąć-v	przyjąć
 .	interp	.-x	.
 </s>
-<s id="2068:4&collection=eptic3">
+<s id="2068:4">
 Jest	fin:sg:ter:imperf	być-v	być
 to	pred	to-x	to
 kwestia	subst:sg:nom:f	kwestia-n	kwestia
@@ -6822,7 +6820,7 @@ europejskich	adj:pl:gen:m3:pos	europejski-j	europejski
 standardów	subst:pl:gen:m3	standard-n	standard
 .	interp	.-x	.
 </s>
-<s id="2068:5&collection=eptic3">
+<s id="2068:5">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x	ja
 się	qub	się-x	się
@@ -6870,7 +6868,7 @@ naszych	adj:pl:gen:m1:pos	nasz-j	nasz
 wyborców	subst:pl:gen:m1	wyborca-n	wyborca
 .	interp	.-x	.
 </s>
-<s id="2068:6&collection=eptic3">
+<s id="2068:6">
 Uważam	fin:sg:pri:imperf	uważać-v	uważać
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -6905,12 +6903,12 @@ zagłębi	fin:sg:ter:perf	zagłębić-v	zagłębić
 <speaker name="Poreba Tomasz Piotr" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="148" duration="short" durations="72.0" speed="slow" speedwm="123.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2069:1&collection=eptic3">
+<s id="2069:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2069:2&collection=eptic3">
+<s id="2069:2">
 Kilka	num:pl:acc:m3:rec	kilka-x	kilka
 tygodni	subst:pl:gen:m3	tydzień-n	tydzień
 po	prep:loc	po-i	po
@@ -6934,7 +6932,7 @@ gubernatora	subst:sg:gen:m1	gubernator-n	gubernator
 Pendżabu	subst:sg:gen:m3	Pendżab-n	Pendżab
 .	interp	.-x	.
 </s>
-<s id="2069:3&collection=eptic3">
+<s id="2069:3">
 Salmaan	subst:sg:nom:m1	Salmaan-n	Salmaan
 Taseer	subst:sg:nom:m1	Taseer-n	Taseer
 był	praet:sg:m1:imperf	być-v	być
@@ -6954,7 +6952,7 @@ rządzącej	pact:sg:gen:f:imperf:aff	rządzić-v	rządzić
 partii	subst:sg:gen:f	partia-n	partia
 .	interp	.-x	.
 </s>
-<s id="2069:4&collection=eptic3">
+<s id="2069:4">
 Zginął	praet:sg:m1:perf	zginąć-v	zginąć
 ,	interp	"-x	"
 bo	comp	bo-c	bo
@@ -6979,7 +6977,7 @@ zarzutem	subst:sg:inst:m3	zarzut-n	zarzut
 bluźnierstwa	subst:sg:gen:n2	bluźnierstwo-n	bluźnierstwo
 .	interp	.-x	.
 </s>
-<s id="2069:5&collection=eptic3">
+<s id="2069:5">
 Jego	ppron3:sg:gen:m1:ter	on-x	on
 morderstwo	subst:sg:nom:n	morderstwo-n	morderstwo
 dokonane	ppas:sg:nom:n:perf:aff	dokonać-v	dokonać
@@ -7054,7 +7052,7 @@ muzułmańskich	adj:pl:gen:m1:pos	muzułmański-j	muzułmański
 ekstremistów	subst:pl:gen:m1	ekstremista-n	ekstremista
 .	interp	.-x	.
 </s>
-<s id="2069:6&collection=eptic3">
+<s id="2069:6">
 Wczoraj	adv	wczoraj-a	wczoraj
 debatowaliśmy	fin:pl:pri:imperf	debatowaliśmy-v	debatowaliśmy
 w	prep:loc:nwok	w-i	w
@@ -7066,7 +7064,7 @@ prześladowania	ger:sg:gen:n2:imperf:aff	prześladować-v	prześladować
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 .	interp	.-x	.
 </s>
-<s id="2069:7&collection=eptic3">
+<s id="2069:7">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 przyjęliśmy	fin:pl:pri:imperf	przyjęliśmy-v	przyjęliśmy
 rezolucję	subst:sg:acc:f	rezolucja-n	rezolucja
@@ -7075,7 +7073,7 @@ tej	adj:sg:loc:f:pos	ten-j	ta
 sprawie	subst:sg:loc:f	sprawa-n	sprawa
 .	interp	.-x	.
 </s>
-<s id="2069:8&collection=eptic3">
+<s id="2069:8">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x	ja
 się	qub	się-x	się
@@ -7119,12 +7117,12 @@ religijnym	adj:sg:inst:m3:pos	religijny-j	religijny
 <speaker name="Geringer de Oedenberg Lidia Joanna" gender="F" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="191" duration="short" durations="99.0" speed="slow" speedwm="115.8" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2070:1&collection=eptic3">
+<s id="2070:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2070:2&collection=eptic3">
+<s id="2070:2">
 Dokładnie	qub	dokładnie-x	dokładnie
 osiem	num:pl:acc:m3:rec	osiem-x	osiem
 miesięcy	subst:pl:gen:m3	miesiąc-n	miesiąc
@@ -7147,7 +7145,7 @@ Republice	subst:sg:loc:f	Republika-n	Republika
 Pakistanu	subst:sg:gen:m3	Pakistan-n	Pakistan
 .	interp	.-x	.
 </s>
-<s id="2070:3&collection=eptic3">
+<s id="2070:3">
 Dziś	adv	dziś-a	dziś
 temat	subst:sg:nom:m3	temat-n	temat
 ten	adj:sg:nom:m3:pos	ten-j	ten
@@ -7184,7 +7182,7 @@ w	prep:acc:nwok	w-i	w
 obronę	subst:sg:acc:f	obrona-n	obrona
 .	interp	.-x	.
 </s>
-<s id="2070:4&collection=eptic3">
+<s id="2070:4">
 Okazuje	fin:sg:ter:imperf	okazywać-v	okazywać
 się	qub	się-x	się
 ,	interp	"-x	"
@@ -7208,7 +7206,7 @@ się	qub	się-x	się
 pogorszyła	praet:sg:f:perf	pogorszyć-v	pogorszyć
 .	interp	.-x	.
 </s>
-<s id="2070:5&collection=eptic3">
+<s id="2070:5">
 Dziś	adv	dziś-a	dziś
 w	prep:loc:nwok	w-i	w
 Pakistanie	subst:sg:loc:m3	Pakistan-n	Pakistan
@@ -7238,7 +7236,7 @@ temat	subst:sg:acc:m3	temat-n	temat
 wyroku	subst:sg:gen:m3	wyrok-n	wyrok
 .	interp	.-x	.
 </s>
-<s id="2070:6&collection=eptic3">
+<s id="2070:6">
 Morderstwo	subst:sg:nom:n	morderstwo-n	morderstwo
 gubernatora	subst:sg:gen:m1	gubernator-n	gubernator
 Taseera	subst:sg:gen:m1	Taseera-n	Taseera
@@ -7253,7 +7251,7 @@ do	prep:gen	do-i	do
 czynienia	subst:sg:gen:n	czynienie-n	czynienie
 .	interp	.-x	.
 </s>
-<s id="2070:7&collection=eptic3">
+<s id="2070:7">
 Pakistan	subst:sg:nom:m3	Pakistan-n	Pakistan
 jest	fin:sg:ter:imperf	być-v	być
 podzielony	ppas:sg:nom:m3:perf:aff	podzielić-v	podzielić
@@ -7281,7 +7279,7 @@ lokalnych	adj:pl:gen:f:pos	lokalny-j	lokalna
 elit	subst:pl:gen:f	elita-n	elita
 .	interp	.-x	.
 </s>
-<s id="2070:8&collection=eptic3">
+<s id="2070:8">
 Publiczne	adj:sg:nom:n:pos	publiczny-j	publiczne
 popieranie	ger:sg:nom:n:imperf:aff	popierać-v	popierać
 nowelizacji	subst:sg:gen:f	nowelizacja-n	nowelizacja
@@ -7305,7 +7303,7 @@ grozić	inf:imperf	grozić-v	grozić
 śmiercią	subst:sg:inst:f	śmierć-n	śmierć
 .	interp	.-x	.
 </s>
-<s id="2070:9&collection=eptic3">
+<s id="2070:9">
 Powinniśmy	impt:pl:pri:perf	Powinniśmy-v	Powinniśmy
 jednak	qub	jednak-x	jednak
 wymagać	inf:imperf	wymagać-v	wymagać
@@ -7332,7 +7330,7 @@ reformę	subst:sg:acc:f	reforma-n	reforma
 kodeksu	subst:sg:gen:m3	kodeks-n	kodeks
 .	interp	.-x	.
 </s>
-<s id="2070:10&collection=eptic3">
+<s id="2070:10">
 Możemy	fin:pl:pri:imperf	móc-v	móc
 również	qub	również-x	również
 wspierać	inf:imperf	wspierać-v	wspierać
@@ -7365,7 +7363,7 @@ w	prep:loc:nwok	w-i	w
 szkołach	subst:pl:loc:f	szkoła-n	szkoła
 .	interp	.-x	.
 </s>
-<s id="2070:11&collection=eptic3">
+<s id="2070:11">
 Dziś	adv	dziś-a	dziś
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 Europejski	adj:sg:nom:m3:pos	europejski-j	europejski
@@ -7404,12 +7402,12 @@ wyznania	subst:sg:gen:n	wyznanie-n	wyznanie
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="66" duration="short" durations="71.0" speed="slow" speedwm="55.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2071:1&collection=eptic3">
+<s id="2071:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2071:2&collection=eptic3">
+<s id="2071:2">
 Znowu	adv	znowu-a	znowu
 Pakistan	subst:sg:nom:m3	Pakistan-n	Pakistan
 ,	interp	"-x	"
@@ -7421,7 +7419,7 @@ polityczne	adj:sg:acc:n:pos	polityczny-j	polityczne
 morderstwo	subst:sg:acc:n	morderstwo-n	morderstwo
 .	interp	.-x	.
 </s>
-<s id="2071:3&collection=eptic3">
+<s id="2071:3">
 Rzeczywiście	adv:pos	rzeczywiście-a	rzeczywiście
 po	prep:acc	pod-i	pod
 raz	subst:sg:acc:m3	raz-n	raz
@@ -7432,7 +7430,7 @@ tą	adj:sg:inst:f:pos	ten-j	ta
 sprawą	subst:sg:inst:f	sprawa-n	sprawa
 .	interp	.-x	.
 </s>
-<s id="2071:4&collection=eptic3">
+<s id="2071:4">
 Parę	num:pl:acc:m3:rec	parę-x	parę
 miesięcy	subst:pl:gen:m3	miesiąc-n	miesiąc
 temu	prep:acc	temu-i	temu
@@ -7442,7 +7440,7 @@ dotycząca	pact:sg:nom:f:imperf:aff	dotyczyć-v	dotyczyć
 Pakistanu	subst:sg:gen:m3	Pakistan-n	Pakistan
 .	interp	.-x	.
 </s>
-<s id="2071:5&collection=eptic3">
+<s id="2071:5">
 Problem	subst:sg:nom:m3	problem-n	problem
 wraca	fin:sg:ter:imperf	wracać-v	wracać
 ,	interp	"-x	"
@@ -7457,7 +7455,7 @@ kartofel	subst:sg:nom:m3	kartofel-n	kartofel
 "	interp	"-x	"
 .	interp	.-x	.
 </s>
-<s id="2071:6&collection=eptic3">
+<s id="2071:6">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x	ja
 się	qub	się-x	się
@@ -7493,7 +7491,7 @@ nagrody	subst:pl:acc:f	nagroda-n	nagroda
 pieniężne	adj:pl:acc:f:pos	pieniężny-j	pieniężna
 .	interp	.-x	.
 </s>
-<s id="2071:7&collection=eptic3">
+<s id="2071:7">
 Takie	adj:pl:nom:f:pos	taki-j	taka
 sytuacje	subst:pl:nom:f	sytuacja-n	sytuacja
 miały	praet:pl:f:imperf	mieć-v	mieć
@@ -7508,7 +7506,7 @@ nie	qub	nie-x	nie
 reagują	fin:pl:ter:imperf	reagować-v	reagować
 .	interp	.-x	.
 </s>
-<s id="2071:8&collection=eptic3">
+<s id="2071:8">
 Trzeba	pred	trzeba-x	trzeba
 powiedzieć	inf:perf	powiedzieć-v	powiedzieć
 jasno	adv:pos	jasno-a	jasno
@@ -7538,12 +7536,12 @@ odpowiedzialność	subst:sg:acc:f	odpowiedzialność-n	odpowiedzialność
 <speaker name="Bielan Adam" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="120" duration="short" durations="61.0" speed="slow" speedwm="118.0" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2072:1&collection=eptic3">
+<s id="2072:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2072:2&collection=eptic3">
+<s id="2072:2">
 Ostatnio	adv:pos	ostatnio-a	ostatnio
 w	prep:loc:nwok	w-i	w
 kilku	num:pl:loc:m3:congr	kilka-x	kilka
@@ -7564,7 +7562,7 @@ mniejszości	subst:pl:gen:f	mniejszość-n	mniejszość
 chrześcijańskich	adj:pl:gen:f:pos	chrześcijański-j	chrześcijańska
 .	interp	.-x	.
 </s>
-<s id="2072:3&collection=eptic3">
+<s id="2072:3">
 Nie	qub	nie-x	nie
 możemy	fin:pl:pri:imperf	móc-v	móc
 stać	inf:imperf	stać-v	stać
@@ -7574,7 +7572,7 @@ takich	adj:pl:gen:n:pos	taki-j	takie
 wydarzeń	subst:pl:gen:n	wydarzenie-n	wydarzenie
 .	interp	.-x	.
 </s>
-<s id="2072:4&collection=eptic3">
+<s id="2072:4">
 Kwestia	subst:sg:nom:f	kwestia-n	kwestia
 poszanowania	ger:sg:gen:n:perf:aff	poszanować-v	poszanować
 wolności	subst:sg:gen:f	wolność-n	wolność
@@ -7594,7 +7592,7 @@ Parlamentu	subst:sg:gen:m3	parlament-n	parlament
 Europejskiego	adj:sg:gen:m3:pos	europejski-j	europejski
 .	interp	.-x	.
 </s>
-<s id="2072:5&collection=eptic3">
+<s id="2072:5">
 Dlatego	adv	dlatego-a	dlatego
 w	prep:loc:nwok	w-i	w
 pełni	subst:sg:loc:f	pełnia-n	pełnia
@@ -7608,7 +7606,7 @@ te	adj:pl:acc:f:pos	ten-j	ta
 zbrodnie	subst:pl:acc:f	zbrodnia-n	zbrodnia
 .	interp	.-x	.
 </s>
-<s id="2072:6&collection=eptic3">
+<s id="2072:6">
 Apeluję	fin:sg:pri:imperf	apelować-v	apelować
 również	qub	również-x	również
 do	prep:gen	do-i	do
@@ -7643,7 +7641,7 @@ tych	adj:pl:gen:n:pos	ten-j	to
 praw	subst:pl:gen:n	prawo-n	prawo
 .	interp	.-x	.
 </s>
-<s id="2072:7&collection=eptic3">
+<s id="2072:7">
 W	prep:loc:nwok	w-i	w
 przyjętym	ppas:sg:loc:n:perf:aff	przyjąć-v	przyjąć
 niedawno	adv:pos	niedawno-a	niedawno
@@ -7674,7 +7672,7 @@ na	prep:loc	na-i	na
 świecie	subst:sg:loc:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2072:8&collection=eptic3">
+<s id="2072:8">
 Wezwaliśmy	fin:pl:pri:imperf	Wezwaliśmy-v	Wezwaliśmy
 do	prep:gen	do-i	do
 powołania	subst:sg:gen:n	powołanie-n	powołanie
@@ -7687,7 +7685,7 @@ praw	subst:pl:gen:n	prawo-n	prawo
 człowieka	subst:sg:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2072:9&collection=eptic3">
+<s id="2072:9">
 Dzisiejsza	adj:sg:nom:f:pos	dzisiejszy-j	dzisiejsza
 rezolucja	subst:sg:nom:f	rezolucja-n	rezolucja
 stanowi	fin:sg:ter:imperf	stanowić-v	stanowić
@@ -7712,12 +7710,12 @@ praw	subst:pl:gen:n	prawo-n	prawo
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="112" duration="short" durations="63.0" speed="slow" speedwm="106.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2073:1&collection=eptic3">
+<s id="2073:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2073:2&collection=eptic3">
+<s id="2073:2">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v	Chciałbym
 wyrazić	inf:perf	wyrazić-v	wyrazić
 swoją	adj:sg:acc:f:pos	swój-j	swoja
@@ -7737,7 +7735,7 @@ byłem	praet:sg:m1:imperf	byłem-v	byłem
 współautorem	subst:sg:inst:m1	współautor-n	współautor
 .	interp	.-x	.
 </s>
-<s id="2073:3&collection=eptic3">
+<s id="2073:3">
 Jednocześnie	adv:pos	jednocześnie-a	jednocześnie
 chciałbym	ppas:sg:inst:m3:perf:aff	chciałbym-v	chciałbym
 też	qub	też-x	też
@@ -7757,7 +7755,7 @@ w	prep:loc:nwok	w-i	w
 Aleksandrii	subst:sg:loc:f	Aleksandria-n	Aleksandria
 .	interp	.-x	.
 </s>
-<s id="2073:4&collection=eptic3">
+<s id="2073:4">
 Pamiętamy	fin:pl:pri:imperf	pamiętać-v	pamiętać
 wizytę	subst:sg:acc:f	wizyta-n	wizyta
 biskupów	subst:pl:gen:m1	biskup-n	biskup
@@ -7774,7 +7772,7 @@ w	prep:loc:nwok	w-i	w
 Iraku	subst:sg:loc:m3	Irak-n	Irak
 .	interp	.-x	.
 </s>
-<s id="2073:5&collection=eptic3">
+<s id="2073:5">
 Chcę	fin:sg:pri:imperf	chcieć-v	chcieć
 tutaj	adv	tutaj-a	tutaj
 przypomnieć	inf:perf	przypomnieć-v	przypomnieć
@@ -7811,7 +7809,7 @@ innych	adj:pl:gen:f:pos	inny-j	inna
 religii	subst:pl:gen:f	religia-n	religia
 .	interp	.-x	.
 </s>
-<s id="2073:6&collection=eptic3">
+<s id="2073:6">
 Pamiętamy	fin:pl:pri:imperf	pamiętać-v	pamiętać
 spotkania	subst:pl:acc:n	spotkanie-n	spotkanie
 w	prep:loc:nwok	w-i	w
@@ -7840,7 +7838,7 @@ drugiego	adj:sg:gen:m1:pos	drugi-j	drugi
 człowieka	subst:sg:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2073:7&collection=eptic3">
+<s id="2073:7">
 Sytuacja	subst:sg:nom:f	sytuacja-n	sytuacja
 chrześcijan	subst:pl:gen:m1	chrześcijanin-n	chrześcijanin
 w	prep:loc:nwok	w-i	w
@@ -7853,14 +7851,14 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2073:8&collection=eptic3">
+<s id="2073:8">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 nasz	adj:sg:nom:m3:pos	nasz-j	nasz
 obowiązek	subst:sg:nom:m3	obowiązek-n	obowiązek
 .	interp	.-x	.
 </s>
-<s id="2073:9&collection=eptic3">
+<s id="2073:9">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 wykorzystać	inf:perf	wykorzystać-v	wykorzystać
 wszystkie	adj:pl:acc:m3:pos	wszystek-j	wszystek
@@ -7889,12 +7887,12 @@ prześladowań	subst:pl:gen:n	prześladowanie-n	prześladowanie
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="112" duration="short" durations="65.0" speed="slow" speedwm="103.4" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2074:1&collection=eptic3">
+<s id="2074:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2074:2&collection=eptic3">
+<s id="2074:2">
 Ta	adj:sg:nom:f:pos	ten-j	ta
 rezolucja	subst:sg:nom:f	rezolucja-n	rezolucja
 jest	fin:sg:ter:imperf	być-v	być
@@ -7911,7 +7909,7 @@ momencie	subst:sg:loc:m3	moment-n	moment
 szczególnym	adj:sg:inst:n:pos	szczególny-j	szczególne
 .	interp	.-x	.
 </s>
-<s id="2074:3&collection=eptic3">
+<s id="2074:3">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 o	interj	o-x	o
 pogromie	subst:sg:voc:m3	pogrom-n	pogrom
@@ -7920,7 +7918,7 @@ w	prep:loc:nwok	w-i	w
 Iraku	subst:sg:loc:m3	Irak-n	Irak
 .	interp	.-x	.
 </s>
-<s id="2074:4&collection=eptic3">
+<s id="2074:4">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 o	prep:loc	o-i	o
 tym	subst:sg:loc:n	to-n	to
@@ -7944,7 +7942,7 @@ ostatnie	adj:pl:acc:m3:pos	ostatni-j	ostatni
 lata	subst:pl:acc:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2074:5&collection=eptic3">
+<s id="2074:5">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 o	prep:loc	o-i	o
 sytuacji	subst:sg:loc:f	sytuacja-n	sytuacja
@@ -7974,7 +7972,7 @@ w	prep:loc:nwok	w-i	w
 Pakistanie	subst:sg:loc:m3	Pakistan-n	Pakistan
 .	interp	.-x	.
 </s>
-<s id="2074:6&collection=eptic3">
+<s id="2074:6">
 Wiemy	fin:pl:pri:imperf	wiedzieć-v	wiedzieć
 ,	interp	"-x	"
 co	comp	co-c	co
@@ -7990,7 +7988,7 @@ większością	subst:sg:inst:f	większość-n	większość
 muzułmańską	adj:sg:acc:f:pos	muzułmański-j	muzułmańska
 .	interp	.-x	.
 </s>
-<s id="2074:7&collection=eptic3">
+<s id="2074:7">
 I	conj	i-c	i
 dlatego	adv	dlatego-a	dlatego
 mnie	ppron12:sg:acc:m1:pri:akc	ja-x	ja
@@ -8005,7 +8003,7 @@ pana	subst:sg:gen:m1	pan-n	pan
 Barroso	subst:sg:gen:m1	Barroso-n	Barroso
 .	interp	.-x	.
 </s>
-<s id="2074:8&collection=eptic3">
+<s id="2074:8">
 Przez	prep:acc:nwok	przez-i	przez
 tydzień	subst:sg:acc:m3	tydzień-n	tydzień
 ten	adj:sg:acc:m3:pos	ten-j	ten
@@ -8013,7 +8011,7 @@ człowiek	subst:sg:nom:m1	człowiek-n	człowiek
 milczał	praet:sg:m1:imperf	milczeć-v	milczeć
 .	interp	.-x	.
 </s>
-<s id="2074:9&collection=eptic3">
+<s id="2074:9">
 Dopiero	qub	dopiero-x	dopiero
 naciskany	ppas:sg:nom:m1:imperf:aff	naciskać-v	naciskać
 przez	prep:acc:nwok	przez-i	przez
@@ -8037,7 +8035,7 @@ tej	adj:sg:loc:f:pos	ten-j	ta
 sprawie	subst:sg:loc:f	sprawa-n	sprawa
 .	interp	.-x	.
 </s>
-<s id="2074:10&collection=eptic3">
+<s id="2074:10">
 Dobrze	adv:pos	dobrze-a	dobrze
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -8062,7 +8060,7 @@ sprawie	subst:sg:loc:f	sprawa-n	sprawa
 interweniować	inf:imperf	interweniować-v	interweniować
 .	interp	.-x	.
 </s>
-<s id="2074:11&collection=eptic3">
+<s id="2074:11">
 Nie	qub	nie-x	nie
 zrobił	praet:sg:m1:perf	zrobić-v	zrobić
 tego	subst:sg:gen:n	to-n	to
@@ -8078,12 +8076,12 @@ szkoda	subst:sg:nom:f	szkoda-n	szkoda
 <speaker name="Sonik Boguslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="103" duration="short" durations="78.0" speed="slow" speedwm="79.2" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2075:1&collection=eptic3">
+<s id="2075:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2075:2&collection=eptic3">
+<s id="2075:2">
 Na	prep:loc	Na-i	Na
 początku	subst:sg:loc:m3	początek-n	początek
 chciałbym	ppas:sg:loc:m3:perf:aff	chciałbym-v	chciałbym
@@ -8101,7 +8099,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2075:3&collection=eptic3">
+<s id="2075:3">
 Brednie	adj:sg:nom:n:pos	Brednie-j	Brednie
 ,	interp	"-x	"
 które	adj:sg:nom:n:pos	który-j	które
@@ -8128,14 +8126,14 @@ Frakcji	subst:sg:gen:f	frakcja-n	frakcja
 Konserwatystów	subst:pl:gen:m1	konserwatysta-n	konserwatysta
 .	interp	.-x	.
 </s>
-<s id="2075:4&collection=eptic3">
+<s id="2075:4">
 Reżim	subst:sg:inst:n	reżim-n	reżim
 Łukaszenki	subst:sg:gen:m1	Łukaszenko-n	Łukaszenko
 trzeba	pred	trzeba-x	trzeba
 izolować	inf:imperf	izolować-v	izolować
 .	interp	.-x	.
 </s>
-<s id="2075:5&collection=eptic3">
+<s id="2075:5">
 Dotychczasowa	adj:sg:nom:f:pos	dotychczasowy-j	dotychczasowa
 polityka	subst:sg:nom:f	polityka-n	polityka
 wiary	subst:sg:gen:f	wiara-n	wiara
@@ -8157,7 +8155,7 @@ błędne	adj:sg:nom:n:pos	błędny-j	błędne
 obliczenia	subst:sg:gen:n	obliczenie-n	obliczenie
 .	interp	.-x	.
 </s>
-<s id="2075:6&collection=eptic3">
+<s id="2075:6">
 Sankcje	subst:pl:nom:f	sankcja-n	sankcja
 ,	interp	"-x	"
 które	adj:pl:nom:f:pos	który-j	która
@@ -8185,7 +8183,7 @@ sąsiedztwie	subst:sg:loc:n	sąsiedztwo-n	sąsiedztwo
 Europy	subst:sg:gen:f	Europa-n	Europa
 .	interp	.-x	.
 </s>
-<s id="2075:7&collection=eptic3">
+<s id="2075:7">
 W	prep:loc:nwok	w-i	w
 stosunku	subst:sg:loc:m3	stosunek-n	stosunek
 do	prep:gen	do-i	do
@@ -8204,7 +8202,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2075:8&collection=eptic3">
+<s id="2075:8">
 W	prep:loc:nwok	w-i	w
 szczególności	subst:sg:loc:f	szczególność-n	szczególność
 chciałbym	ppas:sg:loc:m3:perf:aff	chciałbym-v	chciałbym
@@ -8225,7 +8223,7 @@ i	conj	i-c	i
 inne	adj:sg:nom:n:pos	inny-j	inne
 .	interp	.-x	.
 </s>
-<s id="2075:9&collection=eptic3">
+<s id="2075:9">
 One	ppron3:pl:nom:f:ter	on-x	on
 są	fin:pl:ter:imperf	być-v	być
 ważne	adj:pl:nom:f:pos	ważny-j	ważna
@@ -8249,12 +8247,12 @@ obywateli	subst:pl:gen:m1	obywatel-n	obywatel
 <speaker name="Bielan Adam" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="107" duration="short" durations="72.0" speed="slow" speedwm="89.2" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2076:1&collection=eptic3">
+<s id="2076:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2076:2&collection=eptic3">
+<s id="2076:2">
 Wydarzenia	subst:pl:nom:n	wydarzenie-n	wydarzenie
 na	prep:loc	na-i	na
 Białorusi	subst:sg:loc:f	Białoruś-n	Białoruś
@@ -8272,7 +8270,7 @@ w	prep:loc:nwok	w-i	w
 Europie	subst:sg:loc:f	Europa-n	Europa
 .	interp	.-x	.
 </s>
-<s id="2076:3&collection=eptic3">
+<s id="2076:3">
 Po	prep:loc	po-i	po
 okresie	subst:sg:loc:m3	okres-n	okres
 względnego	adj:sg:gen:m1:pos	względny-j	względny
@@ -8288,7 +8286,7 @@ działaczy	subst:pl:gen:m1	działacz-n	działacz
 opozycyjnych	adj:pl:gen:m1:pos	opozycyjny-j	opozycyjny
 .	interp	.-x	.
 </s>
-<s id="2076:4&collection=eptic3">
+<s id="2076:4">
 Odwołał	praet:sg:m1:perf	odwołać-v	odwołać
 się	qub	się-x	się
 do	prep:gen	do-i	do
@@ -8299,7 +8297,7 @@ swojej	adj:sg:gen:f:pos	swój-j	swoja
 dyktatury	subst:sg:gen:f	dyktatura-n	dyktatura
 .	interp	.-x	.
 </s>
-<s id="2076:5&collection=eptic3">
+<s id="2076:5">
 Brutalna	adj:sg:nom:f:pos	brutalny-j	brutalna
 rozprawa	subst:sg:nom:f	rozprawa-n	rozprawa
 z	prep:inst:nwok	z-i	z
@@ -8335,7 +8333,7 @@ krajami	subst:pl:inst:m3	kraj-n	kraj
 europejskimi	adj:pl:inst:m1:pos	europejski-j	europejski
 .	interp	.-x	.
 </s>
-<s id="2076:6&collection=eptic3">
+<s id="2076:6">
 Dlatego	adv	dlatego-a	dlatego
 w	prep:loc:nwok	w-i	w
 pełni	subst:sg:loc:f	pełnia-n	pełnia
@@ -8353,7 +8351,7 @@ powtórzenia	subst:sg:gen:n	powtórzenie-n	powtórzenie
 wyborów	subst:pl:gen:n	wybory-n	wybory
 .	interp	.-x	.
 </s>
-<s id="2076:7&collection=eptic3">
+<s id="2076:7">
 Zdecydowanie	adv:pos	zdecydowanie-a	zdecydowanie
 potępiam	fin:sg:pri:imperf	potępiać-v	potępiać
 dyktatorskie	adj:pl:acc:m2:pos	dyktatorski-j	dyktatorski
@@ -8363,7 +8361,7 @@ prezydenta	subst:sg:gen:m1	prezydent-n	prezydent
 Łukaszenki	subst:sg:gen:m1	Łukaszenko-n	Łukaszenko
 .	interp	.-x	.
 </s>
-<s id="2076:8&collection=eptic3">
+<s id="2076:8">
 Wierzę	fin:sg:pri:imperf	wierzyć-v	wierzyć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -8378,7 +8376,7 @@ obywateli	subst:pl:gen:m1	obywatel-n	obywatel
 Białorusi	subst:sg:gen:f	Białoruś-n	Białoruś
 .	interp	.-x	.
 </s>
-<s id="2076:9&collection=eptic3">
+<s id="2076:9">
 Jednocześnie	adv:pos	jednocześnie-a	jednocześnie
 aprobuję	fin:sg:pri:imperf	aprobować-v	aprobować
 wszelkie	adj:pl:acc:n:pos	wszelki-j	wszelkie
@@ -8414,12 +8412,12 @@ mediów	subst:pl:gen:n	medium-n	medium
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="91" duration="short" durations="64.0" speed="slow" speedwm="85.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2077:1&collection=eptic3">
+<s id="2077:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2077:2&collection=eptic3">
+<s id="2077:2">
 Poparłem	adv	Poparłem-a	Poparłem
 tę	adj:sg:acc:f:pos	ten-j	ta
 rezolucję	subst:sg:acc:f	rezolucja-n	rezolucja
@@ -8436,7 +8434,7 @@ bardzo	adv:pos	bardzo-a	bardzo
 specyficzna	adj:sg:nom:f:pos	specyficzny-j	specyficzna
 .	interp	.-x	.
 </s>
-<s id="2077:3&collection=eptic3">
+<s id="2077:3">
 Mamy	fin:pl:pri:imperf	mieć-v	mieć
 do	prep:gen	do-i	do
 czynienia	ger:sg:gen:n:imperf:aff	czynić-v	czynić
@@ -8450,7 +8448,7 @@ praw	subst:pl:gen:n	prawo-n	prawo
 człowieka	subst:sg:gen:m1	człowiek-n	człowiek
 .	interp	.-x	.
 </s>
-<s id="2077:4&collection=eptic3">
+<s id="2077:4">
 Z	prep:gen:nwok	z-i	z
 drugiej	adj:sg:gen:f:pos	drugi-j	druga
 strony	subst:sg:gen:f	strona-n	strona
@@ -8519,7 +8517,7 @@ absolutnie	adv:pos	absolutnie-a	absolutnie
 niepotrzebne	adj:sg:nom:n:pos	niepotrzebny-j	niepotrzebne
 .	interp	.-x	.
 </s>
-<s id="2077:5&collection=eptic3">
+<s id="2077:5">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 trzeba	pred	trzeba-x	trzeba
 walczyć	inf:imperf	walczyć-v	walczyć
@@ -8559,12 +8557,12 @@ ważne	adj:sg:nom:n:pos	ważny-j	ważne
 <speaker name="Czarnecki Ryszard" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="58" duration="short" durations="55.0" speed="slow" speedwm="63.3" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2078:1&collection=eptic3">
+<s id="2078:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2078:2&collection=eptic3">
+<s id="2078:2">
 To	pred	to-x	to
 ważny	adj:sg:nom:m3:pos	ważny-j	ważny
 raport	subst:sg:nom:m3	raport-n	raport
@@ -8577,7 +8575,7 @@ tej	adj:sg:loc:f:pos	ten-j	ta
 kwestii	subst:sg:loc:f	kwestia-n	kwestia
 .	interp	.-x	.
 </s>
-<s id="2078:3&collection=eptic3">
+<s id="2078:3">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -8598,7 +8596,7 @@ większą	adj:sg:acc:f:com	wielki-j	wielki
 konkurencyjność	subst:sg:acc:f	konkurencyjność-n	konkurencyjność
 .	interp	.-x	.
 </s>
-<s id="2078:4&collection=eptic3">
+<s id="2078:4">
 Tego	subst:sg:gen:n	to-n	to
 nie	qub	nie-x	nie
 należy	fin:sg:ter:imperf	należeć-v	należeć
@@ -8606,7 +8604,7 @@ się	qub	się-x	się
 bać	inf:imperf	bać-v	bać
 .	interp	.-x	.
 </s>
-<s id="2078:5&collection=eptic3">
+<s id="2078:5">
 To	pred	to-x	to
 sprzyja	fin:sg:ter:imperf	sprzyjać-v	sprzyjać
 rozwojowi	subst:sg:dat:m3	rozwój-n	rozwój
@@ -8634,7 +8632,7 @@ z	prep:inst:nwok	z-i	z
 Azją	subst:sg:inst:f	Azja-n	Azja
 .	interp	.-x	.
 </s>
-<s id="2078:6&collection=eptic3">
+<s id="2078:6">
 Tego	adj:sg:gen:m3:pos	ten-j	ten
 typu	subst:sg:gen:m3	typ-n	typ
 rezolucja	subst:sg:nom:f	rezolucja-n	rezolucja
@@ -8667,12 +8665,12 @@ głosowałem	subst:sg:inst:m3	głosowałem-n	głosowałem
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="102" duration="short" durations="57.0" speed="slow" speedwm="107.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2079:1&collection=eptic3">
+<s id="2079:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2079:2&collection=eptic3">
+<s id="2079:2">
 Inicjatywa	subst:sg:nom:f	inicjatywa-n	inicjatywa
 ,	interp	"-x	"
 aby	comp	aby-c	aby
@@ -8703,7 +8701,7 @@ wszelkie	adj:sg:acc:n:pos	wszelki-j	wszelkie
 poparcie	subst:sg:acc:n	poparcie-n	poparcie
 .	interp	.-x	.
 </s>
-<s id="2079:3&collection=eptic3">
+<s id="2079:3">
 Zarówno	conj	zarówno-c	zarówno
 członkostwo	subst:sg:acc:n	członkostwo-n	członkostwo
 Bułgarii	subst:sg:gen:f	Bułgaria-n	Bułgaria
@@ -8739,7 +8737,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2079:4&collection=eptic3">
+<s id="2079:4">
 Morze	subst:sg:nom:n	morze-n	morze
 Czarne	subst:sg:nom:n	Czarne-n	Czarne
 stało	praet:sg:n:perf	stać-v	stać
@@ -8773,7 +8771,7 @@ dostaw	subst:pl:gen:f	dostawa-n	dostawa
 gazu	subst:sg:gen:m3	gaz-n	gaz
 .	interp	.-x	.
 </s>
-<s id="2079:5&collection=eptic3">
+<s id="2079:5">
 W	prep:loc:nwok	w-i	w
 pełni	subst:sg:loc:f	pełnia-n	pełnia
 podzielam	fin:sg:pri:imperf	podzielać-v	podzielać
@@ -8825,17 +8823,17 @@ strategia	subst:sg:nom:f	strategia-n	strategia
 <speaker name="Kowal Pawel Robert" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="129" duration="short" durations="65.0" speed="slow" speedwm="119.1" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2080:1&collection=eptic3">
+<s id="2080:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2080:2&collection=eptic3">
+<s id="2080:2">
 Panie	subst:sg:voc:m1	pan-n	pan
 Komisarzu	subst:sg:voc:m1	komisarz-n	komisarz
 !	interp	!-x	!
 </s>
-<s id="2080:3&collection=eptic3">
+<s id="2080:3">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x	ja
 się	qub	się-x	się
@@ -8858,7 +8856,7 @@ popieram	fin:sg:pri:imperf	popierać-v	popierać
 go	ppron3:sg:acc:m1:ter	on-x	on
 .	interp	.-x	.
 </s>
-<s id="2080:4&collection=eptic3">
+<s id="2080:4">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v	Chciałbym
 podkreślić	inf:perf	podkreślić-v	podkreślić
 ,	interp	"-x	"
@@ -8873,7 +8871,7 @@ na	prep:acc	na-i	na
 nowo	adv:pos	nowo-a	nowo
 .	interp	.-x	.
 </s>
-<s id="2080:5&collection=eptic3">
+<s id="2080:5">
 Szczytne	subst:pl:nom:f	Szczytna-n	Szczytna
 intencje	subst:pl:nom:f	intencja-n	intencja
 nie	qub	nie-x	nie
@@ -8899,7 +8897,7 @@ to	subst:sg:acc:n	to-n	to
 nacisk	subst:sg:acc:m3	nacisk-n	nacisk
 .	interp	.-x	.
 </s>
-<s id="2080:6&collection=eptic3">
+<s id="2080:6">
 Dlatego	adv	dlatego-a	dlatego
 myślę	fin:sg:pri:imperf	myślić-v	myślić
 ,	interp	"-x	"
@@ -8940,7 +8938,7 @@ tym	adj:sg:loc:m3:pos	ten-j	ten
 kontekście	subst:sg:loc:m3	kontekst-n	kontekst
 .	interp	.-x	.
 </s>
-<s id="2080:7&collection=eptic3">
+<s id="2080:7">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -8960,7 +8958,7 @@ sferze	subst:sg:loc:f	sfera-n	sfera
 energii	subst:sg:gen:f	energia-n	energia
 .	interp	.-x	.
 </s>
-<s id="2080:8&collection=eptic3">
+<s id="2080:8">
 Synergia	subst:sg:nom:f	synergia-n	synergia
 mogłaby	subst:sg:gen:f	mogłaby-n	mogłaby
 także	qub	także-x	także
@@ -8985,7 +8983,7 @@ ostatnich	adj:pl:gen:m3:pos	ostatni-j	ostatni
 lat	subst:pl:gen:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2080:9&collection=eptic3">
+<s id="2080:9">
 Ale	conj	ale-c	ale
 pierwszym	adj:sg:inst:m3:pos	pierwszy-j	pierwszy
 ,	interp	"-x	"
@@ -9028,12 +9026,12 @@ celom	subst:pl:dat:m3	cel-n	cel
 <speaker name="Siwiec Marek" gender="M" country="Poland" politfunc="MEP" politgroup="SD">
 <st language="pl" length="short" lengthw="133" duration="short" durations="66.0" speed="slow" speedwm="120.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2081:1&collection=eptic3">
+<s id="2081:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2081:2&collection=eptic3">
+<s id="2081:2">
 Gdy	adv	gdy-a	gdy
 mówimy	fin:pl:pri:imperf	mówić-v	mówić
 o	prep:loc	o-i	o
@@ -9076,7 +9074,7 @@ sprzecznych	adj:pl:gen:m3:pos	sprzeczny-j	sprzeczny
 interesów	subst:pl:gen:m3	interes-n	interes
 .	interp	.-x	.
 </s>
-<s id="2081:3&collection=eptic3">
+<s id="2081:3">
 Więc	conj	więc-c	więc
 nie	qub	nie-x	nie
 łudźmy	impt:pl:pri:imperf	łudzić-v	łudzić
@@ -9101,7 +9099,7 @@ innych	subst:pl:acc:m1	inny-n	inny
 polityk	subst:sg:nom:m1	polityk-n	polityk
 .	interp	.-x	.
 </s>
-<s id="2081:4&collection=eptic3">
+<s id="2081:4">
 To	pred	to-x	to
 nie	qub	nie-x	nie
 jest	fin:sg:ter:imperf	być-v	być
@@ -9131,7 +9129,7 @@ go	ppron3:sg:acc:m3:ter	on-x	on
 chcemy	fin:pl:pri:imperf	chcieć-v	chcieć
 .	interp	.-x	.
 </s>
-<s id="2081:5&collection=eptic3">
+<s id="2081:5">
 Nie	qub	nie-x	nie
 można	pred	można-x	można
 rozwiązać	inf:perf	rozwiązać-v	rozwiązać
@@ -9153,7 +9151,7 @@ ją	ppron3:sg:acc:f:ter	ona-x	ona
 prowadzić	inf:imperf	prowadzić-v	prowadzić
 .	interp	.-x	.
 </s>
-<s id="2081:6&collection=eptic3">
+<s id="2081:6">
 Skoro	comp	skoro-c	skoro
 mówimy	fin:pl:pri:imperf	mówić-v	mówić
 o	interj	o-x	o
@@ -9174,7 +9172,7 @@ wartość	subst:sg:acc:f	wartość-n	wartość
 dodaną	ppas:sg:acc:f:perf:aff	dodać-v	dodać
 .	interp	.-x	.
 </s>
-<s id="2081:7&collection=eptic3">
+<s id="2081:7">
 Chciałbym	fin:sg:pri:imperf	Chciałbym-v	Chciałbym
 zapytać	inf:perf	zapytać-v	zapytać
 np.	subst:sg:acc:m3	np.-n	np.
@@ -9191,7 +9189,7 @@ organizacjami	subst:pl:inst:f	organizacja-n	organizacja
 ,	interp	"-x	"
 np.	subst:sg:nom:f	np.-n	np.
 </s>
-<s id="2081:8&collection=eptic3">
+<s id="2081:8">
 Parlamentarnym	adj:sg:inst:m3:pos	parlamentarny-j	parlamentarny
 Zgromadzeniem	subst:sg:inst:m3	zgromadzenie-n	zgromadzenie
 Współpracy	subst:sg:gen:f	współpraca-n	współpraca
@@ -9203,7 +9201,7 @@ PABSEC	subst:sg:nom:m3	PABSEC-n	PABSEC
 )	interp	)-x	)
 .	interp	.-x	.
 </s>
-<s id="2081:9&collection=eptic3">
+<s id="2081:9">
 Oni	ppron3:pl:nom:m1:ter	on-x	on
 chcą	fin:pl:ter:imperf	chcieć-v	chcieć
 z	prep:inst:nwok	z-i	z
@@ -9211,7 +9209,7 @@ nami	ppron12:pl:inst:m1:pri	my-x	my
 współpracować	inf:imperf	współpracować-v	współpracować
 .	interp	.-x	.
 </s>
-<s id="2081:10&collection=eptic3">
+<s id="2081:10">
 Parlament	subst:sg:nom:m3	parlament-n	parlament
 Europejski	adj:sg:nom:m3:pos	europejski-j	europejski
 uważa	fin:sg:ter:imperf	uważać-v	uważać
@@ -9231,7 +9229,7 @@ nie	qub	nie-x	nie
 podejmuje	fin:sg:ter:imperf	podejmować-v	podejmować
 .	interp	.-x	.
 </s>
-<s id="2081:11&collection=eptic3">
+<s id="2081:11">
 Postuluję	fin:sg:pri:imperf	postulować-v	postulować
 ,	interp	"-x	"
 aby	comp	aby-c	aby
@@ -9255,12 +9253,12 @@ działają	fin:pl:ter:imperf	działać-v	działać
 <speaker name="Szymanski Konrad" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="119" duration="short" durations="73.0" speed="slow" speedwm="97.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2082:1&collection=eptic3">
+<s id="2082:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2082:2&collection=eptic3">
+<s id="2082:2">
 Z	prep:inst:nwok	z-i	z
 całą	adj:sg:inst:f:pos	cały-j	cała
 pewnością	subst:sg:inst:f	pewność-n	pewność
@@ -9269,7 +9267,7 @@ się	qub	się-x	się
 zmienia	fin:sg:ter:imperf	zmieniać-v	zmieniać
 .	interp	.-x	.
 </s>
-<s id="2082:3&collection=eptic3">
+<s id="2082:3">
 Najbardziej	adv:sup	bardzo-a	bardzo
 oczywiste	adj:pl:nom:f:pos	oczywisty-j	oczywista
 konsekwencje	subst:pl:nom:f	konsekwencja-n	konsekwencja
@@ -9299,7 +9297,7 @@ i	conj	i-c	i
 gazu	subst:sg:gen:m3	gaz-n	gaz
 .	interp	.-x	.
 </s>
-<s id="2082:4&collection=eptic3">
+<s id="2082:4">
 Reakcje	subst:pl:nom:f	reakcja-n	reakcja
 świata	subst:sg:gen:m3	świat-n	świat
 na	prep:acc	na-i	na
@@ -9309,7 +9307,7 @@ bywają	fin:pl:ter:imperf	bywać-v	bywać
 chaotyczne	adj:sg:nom:n:pos	chaotyczny-j	chaotyczne
 .	interp	.-x	.
 </s>
-<s id="2082:5&collection=eptic3">
+<s id="2082:5">
 Z	prep:gen:nwok	z-i	z
 jednej	adj:sg:gen:f:pos	jeden-j	jedna
 strony	subst:sg:gen:f	strona-n	strona
@@ -9339,7 +9337,7 @@ strony	subst:sg:gen:f	strona-n	strona
 rosyjskiej	adj:sg:gen:f:pos	rosyjski-j	rosyjska
 .	interp	.-x	.
 </s>
-<s id="2082:6&collection=eptic3">
+<s id="2082:6">
 Myślę	fin:sg:pri:imperf	myśleć-v	myśleć
 ,	interp	"-x	"
 że	comp	że-c	że
@@ -9358,7 +9356,7 @@ społeczności	subst:sg:gen:f	społeczność-n	społeczność
 międzynarodowej	adj:sg:gen:f:pos	międzynarodowy-j	międzynarodowa
 .	interp	.-x	.
 </s>
-<s id="2082:7&collection=eptic3">
+<s id="2082:7">
 Do	prep:gen	do-i	do
 tego	subst:sg:gen:n	to-n	to
 zachęcaliśmy	fin:pl:pri:imperf	zachęcaliśmy-v	zachęcaliśmy
@@ -9370,7 +9368,7 @@ tym	adj:sg:inst:m3:pos	ten-j	ten
 raportem	subst:sg:inst:m3	raport-n	raport
 .	interp	.-x	.
 </s>
-<s id="2082:8&collection=eptic3">
+<s id="2082:8">
 To	subst:sg:nom:n	To-n	To
 zostało	praet:sg:n:perf	zostać-v	zostać
 dobrze	adv:pos	dobrze-a	dobrze
@@ -9380,7 +9378,7 @@ tym	adj:sg:loc:n:pos	ten-j	to
 sprawozdaniu	subst:sg:loc:n	sprawozdanie-n	sprawozdanie
 .	interp	.-x	.
 </s>
-<s id="2082:9&collection=eptic3">
+<s id="2082:9">
 Druga	adj:sg:nom:f:pos	drugi-j	druga
 sprawa	subst:sg:nom:f	sprawa-n	sprawa
 ,	interp	"-x	"
@@ -9401,7 +9399,7 @@ szlaków	subst:pl:gen:m3	szlak-n	szlak
 transportowych	adj:pl:gen:m3:pos	transportowy-j	transportowy
 .	interp	.-x	.
 </s>
-<s id="2082:10&collection=eptic3">
+<s id="2082:10">
 Ani	conj	ani-c	ani
 względy	subst:pl:nom:m3	wzgląd-n	wzgląd
 regulacyjne	adj:sg:nom:n1:pos	regulacyjny-j	regulacyjny
@@ -9420,7 +9418,7 @@ do	prep:gen	do-i	do
 szlaków	subst:pl:gen:m3	szlak-n	szlak
 .	interp	.-x	.
 </s>
-<s id="2082:11&collection=eptic3">
+<s id="2082:11">
 To	adj:sg:nom:n:pos	ten-j	to
 wszystko	subst:sg:nom:n	wszystko-n	wszystko
 zostało	praet:sg:n:perf	zostać-v	zostać
@@ -9430,7 +9428,7 @@ w	prep:loc:nwok	w-i	w
 sprawozdaniu	subst:sg:loc:n	sprawozdanie-n	sprawozdanie
 .	interp	.-x	.
 </s>
-<s id="2082:12&collection=eptic3">
+<s id="2082:12">
 Dlatego	adv	dlatego-a	dlatego
 z	prep:inst:nwok	z-i	z
 przyjemnością	subst:sg:inst:f	przyjemność-n	przyjemność
@@ -9449,12 +9447,12 @@ głosowaniu	subst:sg:loc:n	głosowanie-n	głosowanie
 <speaker name="Walesa Jaroslaw Leszek" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="174" duration="short" durations="100.0" speed="slow" speedwm="104.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2083:1&collection=eptic3">
+<s id="2083:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2083:2&collection=eptic3">
+<s id="2083:2">
 Ja	ppron12:sg:nom:m1:pri	ja-x	ja
 oczywiście	qub	oczywiście-x	oczywiście
 również	qub	również-x	również
@@ -9475,7 +9473,7 @@ owocną	adj:sg:acc:f:pos	owocny-j	owocna
 pracę	subst:sg:acc:f	praca-n	praca
 .	interp	.-x	.
 </s>
-<s id="2083:3&collection=eptic3">
+<s id="2083:3">
 Dla	prep:gen	dla-i	dla
 mnie	ppron12:sg:gen:m1:pri:akc	ja-x	ja
 najważniejszym	adj:sg:inst:m3:sup	ważny-j	najważniejszy
@@ -9503,7 +9501,7 @@ decyzji	subst:pl:gen:f	decyzja-n	decyzja
 polityczno-gospodarczych	adj:pl:gen:f:pos	polityczno-gospodarczych-j	polityczno-gospodarczych
 .	interp	.-x	.
 </s>
-<s id="2083:4&collection=eptic3">
+<s id="2083:4">
 Wygląda	fin:sg:ter:imperf	wyglądać-v	wyglądać
 na	prep:acc	na-i	na
 to	subst:sg:acc:n	to-n	to
@@ -9526,7 +9524,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2083:5&collection=eptic3">
+<s id="2083:5">
 Szkoda	pred	szkoda-x	szkoda
 ,	interp	"-x	"
 bo	comp	bo-c	bo
@@ -9549,7 +9547,7 @@ na	prep:acc	na-i	na
 środowisko	subst:sg:acc:n	środowisko-n	środowisko
 .	interp	.-x	.
 </s>
-<s id="2083:6&collection=eptic3">
+<s id="2083:6">
 Wpływ	subst:sg:nom:m3	wpływ-n	wpływ
 znacznie	adv:pos	znacznie-a	znacznie
 większy	adj:sg:nom:m3:com	wielki-j	wielki
@@ -9559,11 +9557,11 @@ innych	adj:pl:loc:m3:pos	inny-j	inny
 rejonach	subst:pl:loc:m3	rejon-n	rejon
 .	interp	.-x	.
 </s>
-<s id="2083:7&collection=eptic3">
+<s id="2083:7">
 Jaki	adj:sg:nom:m3:pos	jaki-j	jaki
 ?	interp	?-x	?
 </s>
-<s id="2083:8&collection=eptic3">
+<s id="2083:8">
 Tylko	qub	tylko-x	tylko
 specjaliści	subst:pl:nom:m1	specjalista-n	specjalista
 są	fin:pl:ter:imperf	być-v	być
@@ -9573,7 +9571,7 @@ to	pred	to-x	to
 ocenić	inf:perf	ocenić-v	ocenić
 .	interp	.-x	.
 </s>
-<s id="2083:9&collection=eptic3">
+<s id="2083:9">
 Niestety	qub	niestety-x	niestety
 otwartość	subst:sg:nom:f	otwartość-n	otwartość
 badań	subst:pl:gen:n	badanie-n	badanie
@@ -9592,7 +9590,7 @@ Oceanu	subst:sg:gen:m3	Ocean-n	Ocean
 Arktycznego	adj:sg:gen:m3:pos	arktyczny-j	arktyczny
 .	interp	.-x	.
 </s>
-<s id="2083:10&collection=eptic3">
+<s id="2083:10">
 Nawet	qub	nawet-x	nawet
 na	prep:loc	na-i	na
 terenach	subst:pl:loc:m3	teren-n	teren
@@ -9624,7 +9622,7 @@ i	conj	i-c	i
 badań	subst:pl:gen:n	badanie-n	badanie
 .	interp	.-x	.
 </s>
-<s id="2083:11&collection=eptic3">
+<s id="2083:11">
 Procesy	subst:pl:nom:m3	proces-n	proces
 klimatyczne	adj:pl:nom:m3:pos	klimatyczny-j	klimatyczny
 i	conj	i-c	i
@@ -9663,7 +9661,7 @@ u	prep:gen	u-i	u
 nas	ppron12:pl:gen:m1:pri	my-x	my
 .	interp	.-x	.
 </s>
-<s id="2083:12&collection=eptic3">
+<s id="2083:12">
 Ponadto	qub	ponadto-x	ponadto
 zrealizowane	ppas:pl:nom:f:perf:aff	zrealizować-v	zrealizować
 już	qub	już-x	już
@@ -9701,12 +9699,12 @@ polarnego	adj:sg:gen:m1:pos	polarny-j	polarny
 <speaker name="Jazlowiecka Danuta" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="121" duration="short" durations="65.0" speed="slow" speedwm="111.7" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2084:1&collection=eptic3">
+<s id="2084:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2084:2&collection=eptic3">
+<s id="2084:2">
 Autorzy	subst:pl:nom:m1	autor-n	autor
 omawianej	ppas:sg:gen:f:imperf:aff	omawiać-v	omawiać
 rezolucji	subst:sg:gen:f	rezolucja-n	rezolucja
@@ -9725,7 +9723,7 @@ polityki	subst:sg:gen:f	polityka-n	polityka
 konkurencji	subst:sg:gen:f	konkurencja-n	konkurencja
 .	interp	.-x	.
 </s>
-<s id="2084:3&collection=eptic3">
+<s id="2084:3">
 Interesy	subst:pl:nom:m3	interes-n	interes
 narodowe	adj:pl:nom:m3:pos	narodowy-j	narodowy
 i	conj	i-c	i
@@ -9746,7 +9744,7 @@ zdrowym	adj:sg:inst:m3:pos	zdrowy-j	zdrowy
 rozsądkiem	subst:sg:inst:m3	rozsądek-n	rozsądek
 .	interp	.-x	.
 </s>
-<s id="2084:4&collection=eptic3">
+<s id="2084:4">
 Wielki	adj:sg:nom:m3:pos	Wielki-j	Wielki
 kryzys	subst:sg:nom:m3	kryzys-n	kryzys
 gospodarczy	adj:sg:nom:m3:pos	gospodarczy-j	gospodarczy
@@ -9773,7 +9771,7 @@ w	prep:loc:nwok	w-i	w
 roku	subst:sg:loc:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2084:5&collection=eptic3">
+<s id="2084:5">
 Był	praet:sg:m3:imperf	być-v	być
 to	pred	to-x	to
 okres	subst:sg:nom:m3	okres-n	okres
@@ -9803,7 +9801,7 @@ gospodarki	subst:sg:gen:f	gospodarka-n	gospodarka
 rynkowej	adj:sg:gen:f:pos	rynkowy-j	rynkowa
 .	interp	.-x	.
 </s>
-<s id="2084:6&collection=eptic3">
+<s id="2084:6">
 To	pred	to-x	to
 zachowanie	subst:sg:nom:n	zachowanie-n	zachowanie
 najdotkliwsze	adj:sg:nom:n1:sup	dotkliwy-j	dotkliwy
@@ -9815,7 +9813,7 @@ i	conj	i-c	i
 przedsiębiorstw	subst:pl:gen:n	przedsiębiorstwo-n	przedsiębiorstwo
 .	interp	.-x	.
 </s>
-<s id="2084:7&collection=eptic3">
+<s id="2084:7">
 Czy	qub	czy-x	czy
 podjęte	ppas:pl:nom:f:perf:aff	podjąć-v	podjąć
 zadania	subst:pl:nom:n	zadanie-n	zadanie
@@ -9826,7 +9824,7 @@ długookresowej	adj:sg:loc:f:pos	długookresowy-j	długookresowa
 perspektywie	subst:sg:loc:f	perspektywa-n	perspektywa
 ?	interp	?-x	?
 </s>
-<s id="2084:8&collection=eptic3">
+<s id="2084:8">
 Dopiero	qub	dopiero-x	dopiero
 o	prep:loc	o-i	o
 tym	subst:sg:loc:n	to-n	to
@@ -9834,7 +9832,7 @@ się	qub	się-x	się
 przekonamy	fin:pl:pri:perf	przekonać-v	przekonać
 .	interp	.-x	.
 </s>
-<s id="2084:9&collection=eptic3">
+<s id="2084:9">
 Dlatego	adv	dlatego-a	dlatego
 należy	fin:sg:ter:imperf	należeć-v	należeć
 wezwać	inf:perf	wezwać-v	wezwać
@@ -9851,7 +9849,7 @@ na	prep:acc	na-i	na
 gospodarkę	subst:sg:acc:f	gospodarka-n	gospodarka
 .	interp	.-x	.
 </s>
-<s id="2084:10&collection=eptic3">
+<s id="2084:10">
 Pozwoli	fin:sg:ter:perf	pozwolić-v	pozwolić
 to	pred	to-x	to
 nie	qub	nie-x	nie
@@ -9882,12 +9880,12 @@ przyszłości	subst:sg:loc:f	przyszłość-n	przyszłość
 <speaker name="Lukacijewska Elzbieta" gender="F" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="131" duration="short" durations="69.0" speed="slow" speedwm="113.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2085:1&collection=eptic3">
+<s id="2085:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2085:2&collection=eptic3">
+<s id="2085:2">
 Wraz	adv	wraz-a	wraz
 ze	prep:inst:wok	z-i	z
 starzeniem	ger:sg:inst:n2:imperf:aff	starzyć-v	starzyć
@@ -9905,7 +9903,7 @@ wieku	subst:sg:gen:m3	wiek-n	wiek
 podeszłego	adj:sg:gen:m3:pos	podeszły-j	podeszły
 .	interp	.-x	.
 </s>
-<s id="2085:3&collection=eptic3">
+<s id="2085:3">
 Dane	subst:pl:nom:f	dana-n	dana
 statystyczne	adj:pl:nom:f:pos	statystyczny-j	statystyczna
 pokazują	fin:pl:ter:imperf	pokazywać-v	pokazywać
@@ -9924,7 +9922,7 @@ chorobę	subst:sg:acc:f	choroba-n	choroba
 Alzheimera	subst:sg:gen:m1	Alzheimer-n	Alzheimer
 .	interp	.-x	.
 </s>
-<s id="2085:4&collection=eptic3">
+<s id="2085:4">
 Nie	qub	nie-x	nie
 wszyscy	subst:pl:nom:m1	wszyscy-n	wszyscy
 wiedzą	fin:pl:ter:imperf	wiedzieć-v	wiedzieć
@@ -9948,7 +9946,7 @@ jej	ppron3:sg:gen:f:ter	on-x	on
 skutki	subst:pl:acc:m3	skutek-n	skutek
 .	interp	.-x	.
 </s>
-<s id="2085:5&collection=eptic3">
+<s id="2085:5">
 Według	prep:gen	według-i	według
 światowego	adj:sg:gen:m3:pos	światowy-j	światowy
 raportu	subst:sg:gen:m3	raport-n	raport
@@ -9980,7 +9978,7 @@ po	prep:loc	po-i	po
 Azji	subst:sg:loc:f	Azja-n	Azja
 .	interp	.-x	.
 </s>
-<s id="2085:6&collection=eptic3">
+<s id="2085:6">
 W	prep:loc:nwok	w-i	w
 Polsce	subst:sg:loc:f	Polska-n	Polska
 ,	interp	"-x	"
@@ -10011,7 +10009,7 @@ się	qub	się-x	się
 potroi	fin:sg:ter:perf	potroić-v	potroić
 .	interp	.-x	.
 </s>
-<s id="2085:7&collection=eptic3">
+<s id="2085:7">
 Jak	adv:pos	jak-a	jak
 widać	pred	widać-x	widać
 dane	subst:pl:nom:f	dana-n	dana
@@ -10020,7 +10018,7 @@ są	fin:pl:ter:imperf	być-v	być
 niepokojące	adj:pl:nom:m3:pos	niepokojący-j	niepokojący
 .	interp	.-x	.
 </s>
-<s id="2085:8&collection=eptic3">
+<s id="2085:8">
 Demencja	subst:sg:nom:f	demencja-n	demencja
 niesie	fin:sg:ter:imperf	nieść-v	nieść
 za	prep:inst	za-i	za
@@ -10045,7 +10043,7 @@ jego	ppron3:sg:gen:m1:ter	on-x	on
 najbliższych	subst:pl:acc:m1	najbliższy-n	najbliższy
 .	interp	.-x	.
 </s>
-<s id="2085:9&collection=eptic3">
+<s id="2085:9">
 Dlatego	adv	dlatego-a	dlatego
 cieszę	fin:sg:pri:imperf	cieszyć-v	cieszyć
 się	qub	się-x	się
@@ -10058,7 +10056,7 @@ ważny	adj:sg:acc:m3:pos	ważny-j	ważny
 problem	subst:sg:acc:m3	problem-n	problem
 .	interp	.-x	.
 </s>
-<s id="2085:10&collection=eptic3">
+<s id="2085:10">
 Tylko	qub	tylko-x	tylko
 współpraca	subst:sg:nom:f	współpraca-n	współpraca
 ,	interp	"-x	"
@@ -10088,12 +10086,12 @@ profilaktykę	subst:sg:acc:f	profilaktyka-n	profilaktyka
 <speaker name="Kowal Paweł Robert" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="148" duration="short" durations="76.0" speed="slow" speedwm="116.8" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2086:1&collection=eptic3">
+<s id="2086:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2086:2&collection=eptic3">
+<s id="2086:2">
 Przyłączam	fin:sg:pri:imperf	przyłączać-v	przyłączać
 się	qub	się-x	się
 oczywiście	qub	oczywiście-x	oczywiście
@@ -10115,7 +10113,7 @@ prezydencji	subst:sg:gen:f	prezydencja-n	prezydencja
 belgijskiej	adj:sg:gen:f:pos	belgijski-j	belgijska
 .	interp	.-x	.
 </s>
-<s id="2086:3&collection=eptic3">
+<s id="2086:3">
 Jednak	conj	jednak-c	jednak
 słuchając	pcon:imperf	słuchać-v	słuchać
 tej	adj:sg:gen:f:pos	ten-j	ta
@@ -10128,7 +10126,7 @@ istotne	adj:pl:acc:n:pos	istotny-j	istotne
 pytania	subst:pl:acc:n	pytanie-n	pytanie
 .	interp	.-x	.
 </s>
-<s id="2086:4&collection=eptic3">
+<s id="2086:4">
 Czy	qub	czy-x	czy
 to	subst:sg:nom:n	to-n	to
 jest	fin:sg:ter:imperf	być-v	być
@@ -10170,14 +10168,14 @@ rząd	subst:sg:acc:m3	rząd-n	rząd
 belgijski	adj:sg:acc:m3:pos	belgijski-j	belgijski
 ?	interp	?-x	?
 </s>
-<s id="2086:5&collection=eptic3">
+<s id="2086:5">
 Tak	adv:pos	tak-a	tak
 przecież	qub	przecież-x	przecież
 nie	qub	nie-x	nie
 było	praet:sg:n:imperf	być-v	być
 .	interp	.-x	.
 </s>
-<s id="2086:6&collection=eptic3">
+<s id="2086:6">
 Obserwowaliśmy	impt:pl:pri:perf	Obserwowaliśmy-v	Obserwowaliśmy
 życie	subst:sg:acc:n	życie-n	życie
 Europy	subst:sg:gen:f	Europa-n	Europa
@@ -10208,7 +10206,7 @@ nie	qub	nie-x	nie
 było	praet:sg:n:imperf	być-v	być
 .	interp	.-x	.
 </s>
-<s id="2086:7&collection=eptic3">
+<s id="2086:7">
 I	conj	i-c	i
 wreszcie	qub	wreszcie-x	wreszcie
 druga	adj:sg:nom:f:pos	drugi-j	druga
@@ -10226,7 +10224,7 @@ tej	adj:sg:gen:f:pos	ten-j	ta
 debaty	subst:sg:gen:f	debata-n	debata
 .	interp	.-x	.
 </s>
-<s id="2086:8&collection=eptic3">
+<s id="2086:8">
 Otóż	qub	otóż-x	otóż
 nie	qub	nie-x	nie
 byłoby	qub	byłoby-x	byłoby
@@ -10246,7 +10244,7 @@ tutaj	adv	tutaj-a	tutaj
 narodowymi	adj:pl:inst:m3:pos	narodowy-j	narodowy
 .	interp	.-x	.
 </s>
-<s id="2086:9&collection=eptic3">
+<s id="2086:9">
 Przecież	qub	przecież-x	przecież
 te	adj:pl:nom:m3:pos	ten-j	ten
 narodowe	adj:pl:nom:m3:pos	narodowy-j	narodowy
@@ -10262,7 +10260,7 @@ konkretnych	adj:pl:gen:m3:pos	konkretny-j	konkretny
 krajów	subst:pl:gen:m3	kraj-n	kraj
 .	interp	.-x	.
 </s>
-<s id="2086:10&collection=eptic3">
+<s id="2086:10">
 To	pred	to-x	to
 jest	fin:sg:ter:imperf	być-v	być
 konkretny	adj:sg:nom:m3:pos	konkretny-j	konkretny
@@ -10277,7 +10275,7 @@ bardziej	adv:com	bardzo-a	bardzo
 uboga	adj:sg:nom:f:pos	ubogi-j	uboga
 .	interp	.-x	.
 </s>
-<s id="2086:11&collection=eptic3">
+<s id="2086:11">
 Nie	qub	nie-x	nie
 możemy	fin:pl:pri:imperf	móc-v	móc
 dzisiaj	adv	dzisiaj-a	dzisiaj
@@ -10316,12 +10314,12 @@ problem	subst:sg:nom:m3	problem-n	problem
 <speaker name="Piotrowski Miroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="long" lengthw="89" duration="short" durations="56.0" speed="slow" speedwm="95.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2087:1&collection=eptic3">
+<s id="2087:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2087:2&collection=eptic3">
+<s id="2087:2">
 Belgia	subst:sg:nom:f	Belgia-n	Belgia
 jako	conj	jako-c	jako
 jedno	adj:sg:nom:n:pos	jeden-j	jedno
@@ -10337,7 +10335,7 @@ sześciomiesięczną	adj:sg:acc:f:pos	sześciomiesięczny-j	sześciomiesięczna
 prezydencję	subst:sg:acc:f	prezydencja-n	prezydencja
 .	interp	.-x	.
 </s>
-<s id="2087:3&collection=eptic3">
+<s id="2087:3">
 Pomimo	prep:gen	pomimo-i	pomimo
 wewnętrznych	adj:pl:gen:f:pos	wewnętrzny-j	wewnętrzna
 trudności	subst:pl:gen:f	trudność-n	trudność
@@ -10364,7 +10362,7 @@ założonych	ppas:pl:gen:f:perf:aff	założyć-v	założyć
 priorytetów	subst:pl:gen:m3	priorytet-n	priorytet
 .	interp	.-x	.
 </s>
-<s id="2087:4&collection=eptic3">
+<s id="2087:4">
 Dlatego	adv	dlatego-a	dlatego
 i	conj	i-c	i
 ja	ppron12:sg:nom:m1:pri	ja-x	ja
@@ -10420,7 +10418,7 @@ zagranicznej	adj:sg:gen:f:pos	zagraniczny-j	zagraniczna
 Unii	subst:sg:gen:f	Unia-n	Unia
 .	interp	.-x	.
 </s>
-<s id="2087:5&collection=eptic3">
+<s id="2087:5">
 Rzadko	adv:pos	rzadko-a	rzadko
 w	prep:loc:nwok	w-i	w
 historii	subst:sg:loc:f	historia-n	historia
@@ -10447,12 +10445,12 @@ Europy	subst:sg:gen:f	Europa-n	Europa
 <speaker name="Grzyb Andrzej" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="124" duration="short" durations="72.0" speed="slow" speedwm="103.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2088:1&collection=eptic3">
+<s id="2088:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2088:2&collection=eptic3">
+<s id="2088:2">
 Wiele	num:pl:nom:f:rec	wiele-x	wiele
 dobrych	adj:pl:gen:f:pos	dobry-j	dobra
 opinii	subst:pl:gen:f	opinia-n	opinia
@@ -10489,7 +10487,7 @@ debaty	subst:sg:gen:f	debata-n	debata
 budżetowej	adj:sg:gen:f:pos	budżetowy-j	budżetowa
 .	interp	.-x	.
 </s>
-<s id="2088:3&collection=eptic3">
+<s id="2088:3">
 Dominowały	praet:pl:f:imperf	dominować-v	dominować
 sprawy	subst:pl:nom:f	sprawa-n	sprawa
 powrotu	subst:sg:gen:m3	powrót-n	powrót
@@ -10520,7 +10518,7 @@ przy	prep:loc	przy-i	przy
 budżecie	subst:sg:loc:m3	budżet-n	budżet
 .	interp	.-x	.
 </s>
-<s id="2088:4&collection=eptic3">
+<s id="2088:4">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 pogratulować	inf:perf	pogratulować-v	pogratulować
 sprawności	subst:sg:dat:f	sprawność-n	sprawność
@@ -10537,7 +10535,7 @@ wykonaniu	subst:sg:loc:n	wykonanie-n	wykonanie
 Belgii	subst:sg:gen:f	Belgia-n	Belgia
 .	interp	.-x	.
 </s>
-<s id="2088:5&collection=eptic3">
+<s id="2088:5">
 Premier	subst:sg:nom:m1	premier-n	premier
 Leterme	subst:sg:nom:m1	Leterme-n	Leterme
 stwierdził	praet:sg:m1:perf	stwierdzić-v	stwierdzić
@@ -10562,7 +10560,7 @@ narodowy	adj:sg:nom:m3:pos	narodowy-j	narodowy
 priorytet	subst:sg:nom:m3	priorytet-n	priorytet
 .	interp	.-x	.
 </s>
-<s id="2088:6&collection=eptic3">
+<s id="2088:6">
 Musimy	fin:pl:pri:imperf	musieć-v	musieć
 jednak	qub	jednak-x	jednak
 dopuścić	inf:perf	dopuścić-v	dopuścić
@@ -10577,7 +10575,7 @@ swoje	adj:pl:acc:m3:pos	swój-j	swój
 priorytety	subst:pl:acc:m3	priorytet-n	priorytet
 .	interp	.-x	.
 </s>
-<s id="2088:7&collection=eptic3">
+<s id="2088:7">
 Wydaje	fin:sg:ter:imperf	wydawać-v	wydawać
 mi	ppron12:sg:dat:m1:pri:nakc	ja-x	ja
 się	qub	się-x	się
@@ -10599,7 +10597,7 @@ premier	subst:sg:nom:m1	premier-n	premier
 Leterme	subst:sg:nom:m1	Leterme-n	Leterme
 .	interp	.-x	.
 </s>
-<s id="2088:8&collection=eptic3">
+<s id="2088:8">
 To	pred	to-x	to
 co	subst:sg:nom:n	co-n	co
 mnie	ppron12:sg:acc:m1:pri:akc	ja-x	ja
@@ -10645,12 +10643,12 @@ negocjowana	ppas:sg:nom:f:imperf:aff	negocjować-v	negocjować
 <speaker name="SiekierskiCzeslawAdam" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="long" lengthw="98" duration="short" durations="64.0" speed="slow" speedwm="91.9" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2089:1&collection=eptic3">
+<s id="2089:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2089:2&collection=eptic3">
+<s id="2089:2">
 Prezydencja	subst:sg:nom:f	prezydencja-n	prezydencja
 belgijska	adj:sg:nom:f:pos	belgijski-j	belgijska
 ,	interp	"-x	"
@@ -10674,7 +10672,7 @@ w	prep:loc:nwok	w-i	w
 Unii	subst:sg:loc:f	unia-n	unia
 .	interp	.-x	.
 </s>
-<s id="2089:3&collection=eptic3">
+<s id="2089:3">
 Obie	num:pl:acc:f:congr	oba-x	oba
 te	adj:pl:acc:f:pos	ten-j	ta
 prezydencje	subst:pl:acc:f	prezydencja-n	prezydencja
@@ -10691,7 +10689,7 @@ we	prep:loc:wok	w-i	w
 Wspólnocie	subst:sg:loc:f	wspólnota-n	wspólnota
 .	interp	.-x	.
 </s>
-<s id="2089:4&collection=eptic3">
+<s id="2089:4">
 To	pred	to-x	to
 dobry	adj:sg:nom:m3:pos	dobry-j	dobry
 kierunek	subst:sg:nom:m3	kierunek-n	kierunek
@@ -10705,7 +10703,7 @@ nie	qub	nie-x	nie
 rządowego	adj:sg:gen:m3:pos	rządowy-j	rządowy
 .	interp	.-x	.
 </s>
-<s id="2089:5&collection=eptic3">
+<s id="2089:5">
 Z	prep:gen:nwok	z-i	z
 drugiej	adj:sg:gen:f:pos	drugi-j	druga
 strony	subst:sg:gen:f	strona-n	strona
@@ -10724,7 +10722,7 @@ swoich	adj:pl:gen:m3:pos	swój-j	swój
 priorytetów	subst:pl:gen:m3	priorytet-n	priorytet
 .	interp	.-x	.
 </s>
-<s id="2089:6&collection=eptic3">
+<s id="2089:6">
 Tu	adv	tu-a	tu
 musi	fin:sg:ter:imperf	musieć-v	musieć
 funkcjonować	inf:imperf	funkcjonować-v	funkcjonować
@@ -10732,7 +10730,7 @@ specyficzna	adj:sg:nom:f:pos	specyficzny-j	specyficzna
 równowaga	subst:sg:nom:f	równowaga-n	równowaga
 .	interp	.-x	.
 </s>
-<s id="2089:7&collection=eptic3">
+<s id="2089:7">
 Niewątpliwym	adj:sg:inst:n:pos	niewątpliwy-j	niewątpliwe
 osiągnięciem	subst:sg:inst:n	osiągnięcie-n	osiągnięcie
 prezydencji	subst:sg:gen:f	prezydencja-n	prezydencja
@@ -10743,7 +10741,7 @@ zarządzania	subst:sg:gen:n	zarządzanie-n	zarządzanie
 gospodarczego	adj:sg:gen:n:pos	gospodarczy-j	gospodarcze
 .	interp	.-x	.
 </s>
-<s id="2089:8&collection=eptic3">
+<s id="2089:8">
 Rozpoczęły	praet:pl:f:perf	rozpocząć-v	rozpocząć
 pracę	subst:sg:acc:f	praca-n	praca
 agencje	subst:pl:nom:f	agencja-n	agencja
@@ -10753,7 +10751,7 @@ instytucjami	subst:pl:inst:f	instytucja-n	instytucja
 finansowymi	adj:pl:inst:m3:pos	finansowy-j	finansowy
 .	interp	.-x	.
 </s>
-<s id="2089:9&collection=eptic3">
+<s id="2089:9">
 Wiele	adv	wiele-a	wiele
 uczyniono	imps:perf	uczynić-v	uczynić
 dla	prep:gen	dla-i	dla
@@ -10764,7 +10762,7 @@ dyscypliny	subst:sg:gen:f	dyscyplina-n	dyscyplina
 budżetowej	adj:sg:gen:f:pos	budżetowy-j	budżetowa
 .	interp	.-x	.
 </s>
-<s id="2089:10&collection=eptic3">
+<s id="2089:10">
 Działania	subst:pl:nom:n	działanie-n	działanie
 na	prep:acc	na-i	na
 rzecz	subst:sg:acc:f	rzecz-n	rzecz
@@ -10776,7 +10774,7 @@ instrumentem	subst:sg:inst:m3	instrument-n	instrument
 rozwojowym	adj:sg:loc:m3:pos	rozwojowy-j	rozwojowy
 .	interp	.-x	.
 </s>
-<s id="2089:11&collection=eptic3">
+<s id="2089:11">
 Wreszcie	adv	wreszcie-a	wreszcie
 przełamano	imps:perf	przełamać-v	przełamać
 powstały	adj:sg:acc:m3:pos	powstały-j	powstały
@@ -10791,7 +10789,7 @@ na	prep:acc	na-i	na
 rok	subst:sg:acc:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2089:12&collection=eptic3">
+<s id="2089:12">
 Po	prep:acc	po-i	po
 prostu	adjp	prostu-x	prostu
 dziękujemy	fin:pl:pri:imperf	dziękować-v	dziękować
@@ -10805,12 +10803,12 @@ dziękujemy	fin:pl:pri:imperf	dziękować-v	dziękować
 <speaker name="Kurski Jacek Olgierd" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="135" duration="short" durations="68.0" speed="slow" speedwm="119.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2090:1&collection=eptic3">
+<s id="2090:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2090:2&collection=eptic3">
+<s id="2090:2">
 Polityka	subst:sg:nom:f	polityka-n	polityka
 realizowana	ppas:sg:nom:f:imperf:aff	realizować-v	realizować
 ostatnio	adv:pos	ostatnio-a	ostatnio
@@ -10836,7 +10834,7 @@ całkowitą	adj:sg:acc:f:pos	całkowity-j	całkowita
 klęskę	subst:sg:acc:f	klęska-n	klęska
 .	interp	.-x	.
 </s>
-<s id="2090:3&collection=eptic3">
+<s id="2090:3">
 Łukaszenko	subst:sg:nom:m1	Łukaszenko-n	Łukaszenko
 ,	interp	"-x	"
 ostatni	adj:sg:nom:m1:pos	ostatni-j	ostatni
@@ -10860,7 +10858,7 @@ politycznych	adj:pl:gen:m1:pos	polityczny-j	polityczny
 oponentów	subst:pl:gen:m1	oponent-n	oponent
 .	interp	.-x	.
 </s>
-<s id="2090:4&collection=eptic3">
+<s id="2090:4">
 Polityka	subst:sg:nom:f	polityka-n	polityka
 ugody	subst:sg:gen:f	ugoda-n	ugoda
 i	conj	i-c	i
@@ -10871,7 +10869,7 @@ przynieść	inf:perf	przynieść-v	przynieść
 efektu	subst:sg:gen:m3	efekt-n	efekt
 .	interp	.-x	.
 </s>
-<s id="2090:5&collection=eptic3">
+<s id="2090:5">
 Po	prep:acc	po-i	po
 raz	subst:sg:acc:m3	raz-n	raz
 kolejny	adj:sg:acc:m3:pos	kolejny-j	kolejny
@@ -10909,7 +10907,7 @@ działaczy	subst:pl:gen:m1	działacz-n	działacz
 opozycji	subst:sg:gen:f	opozycja-n	opozycja
 .	interp	.-x	.
 </s>
-<s id="2090:6&collection=eptic3">
+<s id="2090:6">
 Istotny	adj:sg:nom:m3:pos	istotny-j	istotny
 jest	fin:sg:ter:imperf	być-v	być
 jasny	adj:sg:nom:m3:pos	jasny-j	jasny
@@ -10924,7 +10922,7 @@ dla	prep:gen	dla-i	dla
 Białorusi	subst:sg:gen:f	Białoruś-n	Białoruś
 .	interp	.-x	.
 </s>
-<s id="2090:7&collection=eptic3">
+<s id="2090:7">
 Europa	subst:sg:nom:f	Europa-n	Europa
 nie	qub	nie-x	nie
 będzie	bedzie:sg:ter:imperf	być-v	być
@@ -10936,7 +10934,7 @@ białoruskiego	adj:sg:gen:m1:pos	białoruski-j	białoruski
 dyktatora	subst:sg:gen:m1	dyktator-n	dyktator
 .	interp	.-x	.
 </s>
-<s id="2090:8&collection=eptic3">
+<s id="2090:8">
 Sankcje	subst:pl:nom:f	sankcja-n	sankcja
 muszą	fin:pl:ter:imperf	musieć-v	musieć
 być	inf:imperf	być-v	być
@@ -10951,7 +10949,7 @@ nie	qub	nie-x	nie
 obywateli	subst:pl:gen:m1	obywatel-n	obywatel
 .	interp	.-x	.
 </s>
-<s id="2090:9&collection=eptic3">
+<s id="2090:9">
 Przeciwnie	adv:pos	przeciwnie-a	przeciwnie
 ,	interp	"-x	"
 ludzie	subst:pl:nom:m1	człowiek-n	człowiek
@@ -10960,7 +10958,7 @@ naszej	adj:sg:gen:f:pos	nasz-j	nasza
 pomocy	subst:sg:gen:f	pomoc-n	pomoc
 .	interp	.-x	.
 </s>
-<s id="2090:10&collection=eptic3">
+<s id="2090:10">
 Podobnie	adv:pos	podobnie-a	podobnie
 organizacje	subst:pl:nom:f	organizacja-n	organizacja
 społeczne	adj:pl:nom:f:pos	społeczny-j	społeczna
@@ -10971,7 +10969,7 @@ i	conj	i-c	i
 opozycja	subst:sg:nom:f	opozycja-n	opozycja
 .	interp	.-x	.
 </s>
-<s id="2090:11&collection=eptic3">
+<s id="2090:11">
 Możemy	fin:pl:pri:imperf	móc-v	móc
 realnie	adv:pos	realnie-a	realnie
 pomóc	inf:perf	pomóc-v	pomóc
@@ -10982,7 +10980,7 @@ ułatwieniach	subst:pl:loc:n2	ułatwienie-n	ułatwienie
 wizowych	adj:pl:gen:m1:pos	wizowy-j	wizowy
 .	interp	.-x	.
 </s>
-<s id="2090:12&collection=eptic3">
+<s id="2090:12">
 Partnerstwo	subst:sg:acc:n	partnerstwo-n	partnerstwo
 wschodnie	adj:pl:acc:n:pos	wschodni-j	Wschodnie
 musi	fin:sg:ter:imperf	musieć-v	musieć
@@ -11005,7 +11003,7 @@ jednego	adj:sg:gen:n:pos	jeden-j	jedno
 euro	subst:sg:gen:n	euro-n	euro
 .	interp	.-x	.
 </s>
-<s id="2090:13&collection=eptic3">
+<s id="2090:13">
 Im	conj	im-c	im
 więcej	num:pl:acc:f:rec	więcej-x	więcej
 Europy	subst:sg:gen:f	Europa-n	Europa
@@ -11030,12 +11028,12 @@ kontynencie	subst:sg:loc:m3	kontynent-n	kontynent
 <speaker name="Kalinowski Jaroslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="101" duration="short" durations="57.0" speed="slow" speedwm="106.3" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2091:1&collection=eptic3">
+<s id="2091:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 !	interp	!-x	!
 </s>
-<s id="2091:2&collection=eptic3">
+<s id="2091:2">
 W	prep:loc:nwok	w-i	w
 obliczu	subst:sg:loc:n	oblicze-n	oblicze
 zwiększającego	pact:sg:gen:m1:imperf:aff	zwiększać-v	zwiększać
@@ -11051,7 +11049,7 @@ nasz	adj:sg:acc:m3:pos	nasz-j	nasz
 obowiązek	subst:sg:acc:m3	obowiązek-n	obowiązek
 .	interp	.-x	.
 </s>
-<s id="2091:3&collection=eptic3">
+<s id="2091:3">
 Naszą	adj:sg:acc:f:pos	nasz-j	nasza
 pomoc	subst:sg:acc:f	pomoc-n	pomoc
 powinniśmy	fin:pl:pri:imperf	powinniśmy-v	powinniśmy
@@ -11072,7 +11070,7 @@ Unii	subst:sg:gen:f	Unia-n	Unia
 Europejskiej	adj:sg:gen:f:pos	Europejski-j	Europejski
 .	interp	.-x	.
 </s>
-<s id="2091:4&collection=eptic3">
+<s id="2091:4">
 Dobrym	adj:sg:inst:n:pos	dobry-j	dobre
 przykładem	subst:sg:inst:m3	przykład-n	przykład
 jest	fin:sg:ter:imperf	być-v	być
@@ -11082,7 +11080,7 @@ w	prep:loc:nwok	w-i	w
 Polsce	subst:sg:loc:f	Polska-n	Polska
 .	interp	.-x	.
 </s>
-<s id="2091:5&collection=eptic3">
+<s id="2091:5">
 Dobrym	adj:sg:inst:n:pos	dobry-j	dobre
 wsparciem	subst:sg:inst:n	wsparcie-n	wsparcie
 są	fin:pl:ter:imperf	być-v	być
@@ -11110,7 +11108,7 @@ działalność	subst:sg:acc:f	działalność-n	działalność
 opozycyjną	adj:sg:inst:f:pos	opozycyjny-j	opozycyjna
 .	interp	.-x	.
 </s>
-<s id="2091:6&collection=eptic3">
+<s id="2091:6">
 Podobnie	adv:pos	podobnie-a	podobnie
 z	prep:inst:nwok	z-i	z
 kwestią	subst:sg:inst:f	kwestia-n	kwestia
@@ -11127,14 +11125,14 @@ za	prep:acc	na-i	na
 drogie	adj:pl:acc:m3:pos	drogi-j	drogi
 .	interp	.-x	.
 </s>
-<s id="2091:7&collection=eptic3">
+<s id="2091:7">
 To	subst:sg:nom:n	To-n	To
 trzeba	pred	trzeba-x	trzeba
 szybko	adv:pos	szybko-a	szybko
 zmienić	inf:perf	zmienić-v	zmienić
 .	interp	.-x	.
 </s>
-<s id="2091:8&collection=eptic3">
+<s id="2091:8">
 Należy	fin:sg:ter:imperf	należeć-v	należeć
 zachować	inf:perf	zachować-v	zachować
 całkowitą	adj:sg:acc:f:pos	całkowity-j	całkowita
@@ -11153,7 +11151,7 @@ przedstawicieli	subst:pl:gen:m1	przedstawiciel-n	przedstawiciel
 reżimu	subst:sg:gen:m3	reżim-n	reżim
 .	interp	.-x	.
 </s>
-<s id="2091:9&collection=eptic3">
+<s id="2091:9">
 Wspieranie	ger:sg:nom:n:imperf:aff	wspierać-v	wspierać
 społeczeństwa	subst:sg:gen:n	społeczeństwo-n	społeczeństwo
 obywatelskiego	adj:sg:gen:n:pos	obywatelski-j	obywatelskie
@@ -11186,7 +11184,7 @@ Białorusi	subst:sg:gen:f	Białoruś-n	Białoruś
 <speaker name="Lisek Krzysztof" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="113" duration="short" durations="73.0" speed="slow" speedwm="92.9" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2092:1&collection=eptic3">
+<s id="2092:1">
 Panie	subst:sg:voc:m1	pan-n	pan
 Przewodniczący	subst:sg:nom:m1	przewodniczący-n	przewodniczący
 ,	interp	"-x	"
@@ -11195,7 +11193,7 @@ Wysoka	adj:sg:nom:f:pos	Wysoki-j	Wysoki
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n	przedstawiciel
 !	interp	!-x	!
 </s>
-<s id="2092:2&collection=eptic3">
+<s id="2092:2">
 Chciałbym	subst:pl:dat:m1	Chciałbym-n	Chciałbym
 zadać	inf:perf	zadać-v	zadać
 niedyskretne	adj:pl:acc:m2:pos	niedyskretny-j	niedyskretny
@@ -11205,7 +11203,7 @@ Wysokiej	adj:sg:dat:f:pos	Wysoki-j	Wysoki
 Przedstawiciel	subst:sg:nom:m1	przedstawiciel-n	przedstawiciel
 .	interp	.-x	.
 </s>
-<s id="2092:3&collection=eptic3">
+<s id="2092:3">
 Czy	qub	czy-x	czy
 Pani	subst:sg:nom:f	pani-n	pani
 wie	fin:sg:ter:imperf	wie-v	wie
@@ -11220,7 +11218,7 @@ Jerzy	subst:sg:nom:m1	Jerzy-n	Jerzy
 Buzek	subst:sg:nom:m1	Buzek-n	Buzek
 ?	interp	?-x	?
 </s>
-<s id="2092:4&collection=eptic3">
+<s id="2092:4">
 Albo	conj	albo-c	albo
 co	subst:sg:acc:n	co-n	co
 robił	praet:sg:m1:imperf	robić-v	robić
@@ -11229,7 +11227,7 @@ Janusz	subst:sg:nom:m1	Janusz-n	Janusz
 Lewandowski	subst:sg:nom:m1	Lewandowski-n	Lewandowski
 ?	interp	?-x	?
 </s>
-<s id="2092:5&collection=eptic3">
+<s id="2092:5">
 Albo	conj	albo-c	albo
 co	subst:sg:acc:n	co-n	co
 robił	praet:sg:m1:imperf	robić-v	robić
@@ -11238,7 +11236,7 @@ Donald	subst:sg:nom:m1	Donald-n	Donald
 Tusk	subst:sg:nom:m1	Tusk-n	Tusk
 ?	interp	?-x	?
 </s>
-<s id="2092:6&collection=eptic3">
+<s id="2092:6">
 Otóż	qub	otóż-x	otóż
 wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
 oni	ppron3:pl:nom:m1:ter	on-x	on
@@ -11270,7 +11268,7 @@ w	prep:loc:nwok	w-i	w
 Polsce	subst:sg:loc:f	Polska-n	Polska
 .	interp	.-x	.
 </s>
-<s id="2092:7&collection=eptic3">
+<s id="2092:7">
 Albo	conj	albo-c	albo
 ważne	adj:sg:nom:n:pos	ważny-j	ważne
 pytanie	subst:sg:nom:n	pytanie-n	pytanie
@@ -11304,7 +11302,7 @@ z	prep:gen:nwok	z-i	z
 pracy	subst:sg:gen:f	praca-n	praca
 ?	interp	?-x	?
 </s>
-<s id="2092:8&collection=eptic3">
+<s id="2092:8">
 Otóż	qub	otóż-x	otóż
 oni	ppron3:pl:nom:m1:ter	on-x	on
 wszyscy	adj:pl:nom:m1:pos	wszystek-j	wszystek
@@ -11319,7 +11317,7 @@ pomoc	subst:sg:acc:f	pomoc-n	pomoc
 finansową	adj:sg:acc:f:pos	finansowy-j	finansowa
 .	interp	.-x	.
 </s>
-<s id="2092:9&collection=eptic3">
+<s id="2092:9">
 Ci	adj:pl:nom:m1:pos	ten-j	ten
 ,	interp	"-x	"
 którzy	adj:pl:nom:m1:pos	który-j	który
@@ -11341,7 +11339,7 @@ i	conj	i-c	i
 finansowane	ppas:pl:nom:f:imperf:aff	finansować-v	finansować
 .	interp	.-x	.
 </s>
-<s id="2092:10&collection=eptic3">
+<s id="2092:10">
 Dzisiaj	adv	dzisiaj-a	dzisiaj
 na	prep:acc	na-i	na
 nas	ppron12:pl:acc:m1:pri	my-x	my
@@ -11373,12 +11371,12 @@ finansowa	adj:sg:nom:f:pos	finansowy-j	finansowa
 <speaker name="Kozlowski Jan" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="111" duration="short" durations="67.0" speed="slow" speedwm="99.4" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2093:1&collection=eptic3">
+<s id="2093:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2093:2&collection=eptic3">
+<s id="2093:2">
 Wytyczne	subst:pl:nom:f	wytyczna-n	wytyczna
 w	prep:loc:nwok	w-i	w
 sprawie	subst:sg:loc:f	sprawa-n	sprawa
@@ -11403,7 +11401,7 @@ semestru	subst:sg:gen:m3	semestr-n	semestr
 europejskiego	adj:sg:gen:m3:pos	europejski-j	europejski
 .	interp	.-x	.
 </s>
-<s id="2093:3&collection=eptic3">
+<s id="2093:3">
 Wytyczne	subst:pl:nom:f	wytyczna-n	wytyczna
 te	adj:pl:nom:f:pos	ten-j	ta
 stanowią	fin:pl:ter:imperf	stanowić-v	stanowić
@@ -11431,7 +11429,7 @@ Europa	subst:sg:nom:f	Europa-n	Europa
 2020	num:pl:nom:m3:rec	[number]-x	[number]
 .	interp	.-x	.
 </s>
-<s id="2093:4&collection=eptic3">
+<s id="2093:4">
 Zgodnie	adv:pos	zgodnie-a	zgodnie
 z	prep:inst:nwok	z-i	z
 harmonogramem	subst:sg:inst:m3	harmonogram-n	harmonogram
@@ -11447,7 +11445,7 @@ w	prep:loc:nwok	w-i	w
 kwietniu	subst:sg:loc:m3	kwiecień-n	kwiecień
 .	interp	.-x	.
 </s>
-<s id="2093:5&collection=eptic3">
+<s id="2093:5">
 Powołując	pcon:imperf	powoływać-v	powoływać
 się	qub	się-x	się
 na	prep:acc	na-i	na
@@ -11477,7 +11475,7 @@ programami	subst:pl:inst:m3	program-n	program
 reform	subst:pl:gen:f	reforma-n	reforma
 .	interp	.-x	.
 </s>
-<s id="2093:6&collection=eptic3">
+<s id="2093:6">
 Wprowadzenie	ger:sg:nom:n:perf:aff	wprowadzić-v	wprowadzić
 na	prep:loc	na-i	na
 obecnym	adj:sg:loc:m3:pos	obecny-j	obecny
@@ -11491,7 +11489,7 @@ ten	adj:sg:acc:m3:pos	ten-j	ten
 proces	subst:sg:acc:m3	proces-n	proces
 .	interp	.-x	.
 </s>
-<s id="2093:7&collection=eptic3">
+<s id="2093:7">
 Chciałbym	subst:sg:inst:m1	Chciałbym-n	Chciałbym
 zwrócić	inf:perf	zwrócić-v	zwrócić
 uwagę	subst:sg:acc:f	uwaga-n	uwaga
@@ -11507,7 +11505,7 @@ Europa	subst:sg:nom:f	Europa-n	Europa
 2020	num:pl:nom:m3:rec	[number]-x	[number]
 .	interp	.-x	.
 </s>
-<s id="2093:8&collection=eptic3">
+<s id="2093:8">
 Dlatego	adv	dlatego-a	dlatego
 też	qub	też-x	też
 podkreślam	fin:sg:pri:imperf	podkreślać-v	podkreślać
@@ -11532,12 +11530,12 @@ Europa	subst:sg:nom:f	Europa-n	Europa
 <speaker name="Siekierski Adam Czeslaw" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="116" duration="short" durations="66.0" speed="slow" speedwm="105.5" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2094:1&collection=eptic3">
+<s id="2094:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2094:2&collection=eptic3">
+<s id="2094:2">
 Od	prep:gen:nwok	od-i	od
 przedstawionej	ppas:sg:gen:f:perf:aff	przedstawić-v	przedstawić
 przez	prep:acc:nwok	przez-i	przez
@@ -11550,7 +11548,7 @@ prawie	qub	prawie-x	prawie
 rok	subst:sg:acc:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2094:3&collection=eptic3">
+<s id="2094:3">
 Nie	qub	nie-x	nie
 był	praet:sg:m1:imperf	być-v	być
 to	qub	to-x	to
@@ -11560,7 +11558,7 @@ Europy	subst:sg:gen:f	Europa-n	Europa
 czas	subst:sg:acc:m3	czas-n	czas
 .	interp	.-x	.
 </s>
-<s id="2094:4&collection=eptic3">
+<s id="2094:4">
 Państwa	subst:pl:acc:n	państwo-n	państwo
 członkowskie	adj:pl:acc:n:pos	członkowski-j	członkowskie
 nadal	adv	nadal-a	nadal
@@ -11571,7 +11569,7 @@ następstwami	subst:pl:inst:n	następstwo-n	następstwo
 kryzysu	subst:sg:gen:m3	kryzys-n	kryzys
 .	interp	.-x	.
 </s>
-<s id="2094:5&collection=eptic3">
+<s id="2094:5">
 Zepchnięto	imps:perf	zepchnąć-v	zepchnąć
 na	prep:acc	na-i	na
 dalszy	adj:sg:acc:m3:com	daleki-j	dalszy
@@ -11584,7 +11582,7 @@ nowej	adj:sg:gen:f:pos	nowy-j	nowa
 strategii	subst:sg:gen:f	strategia-n	strategia
 .	interp	.-x	.
 </s>
-<s id="2094:6&collection=eptic3">
+<s id="2094:6">
 Ambitne	adj:sg:nom:n:pos	ambitny-j	ambitne
 plany	subst:pl:nom:m3	plan-n	plan
 strategii	subst:sg:gen:f	strategia-n	strategia
@@ -11631,7 +11629,7 @@ strategii	subst:sg:gen:f	strategia-n	strategia
 zagrożone	ppas:sg:nom:n:perf:aff	zagrozić-v	zagrozić
 .	interp	.-x	.
 </s>
-<s id="2094:7&collection=eptic3">
+<s id="2094:7">
 Bezrobocie	subst:sg:nom:n	bezrobocie-n	bezrobocie
 w	prep:loc:nwok	w-i	w
 Unii	subst:sg:loc:f	unia-n	unia
@@ -11641,7 +11639,7 @@ obecnie	adv:pos	obecnie-a	obecnie
 procent	subst:sg:nom:m3	procent-n	procent
 .	interp	.-x	.
 </s>
-<s id="2094:8&collection=eptic3">
+<s id="2094:8">
 Wciąż	adv	wciąż-a	wciąż
 nie	qub	nie-x	nie
 widać	pred	widać-x	widać
@@ -11652,7 +11650,7 @@ znaczący	adj:sg:acc:m3:pos	znaczący-j	znaczący
 spadek	subst:sg:acc:m3	spadek-n	spadek
 .	interp	.-x	.
 </s>
-<s id="2094:9&collection=eptic3">
+<s id="2094:9">
 Wręcz	qub	wręcz-x	wręcz
 przeciwnie	adv:pos	przeciwnie-a	przeciwnie
 :	interp	:-x	:
@@ -11680,7 +11678,7 @@ najbliższe	adj:pl:acc:m3:sup	bliski-j	najbliższy
 lata	subst:pl:acc:m3	rok-n	rok
 .	interp	.-x	.
 </s>
-<s id="2094:10&collection=eptic3">
+<s id="2094:10">
 Niski	subst:sg:nom:m1	Niski-n	Niski
 poziom	subst:sg:acc:m3	poziom-n	poziom
 zatrudnienia	subst:sg:gen:n	zatrudnienie-n	zatrudnienie
@@ -11693,7 +11691,7 @@ marginalizacji	subst:sg:gen:f	marginalizacja-n	marginalizacja
 społecznej	adj:sg:gen:f:pos	społeczny-j	społeczna
 .	interp	.-x	.
 </s>
-<s id="2094:11&collection=eptic3">
+<s id="2094:11">
 Potwierdza	fin:sg:ter:imperf	potwierdzać-v	potwierdzać
 to	pred	to-x	to
 raport	subst:sg:nom:m3	raport-n	raport
@@ -11712,17 +11710,17 @@ roku	subst:sg:gen:m3	rok-n	rok
 <speaker name="Migalski Marek Henryk" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="119" duration="short" durations="67.0" speed="slow" speedwm="106.6" delivery="impromptu">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2095:1&collection=eptic3">
+<s id="2095:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2095:2&collection=eptic3">
+<s id="2095:2">
 Panie	subst:sg:voc:m1	pan-n	pan
 Komisarzu	subst:sg:voc:m1	komisarz-n	komisarz
 !	interp	!-x	!
 </s>
-<s id="2095:3&collection=eptic3">
+<s id="2095:3">
 Ma	fin:sg:ter:imperf	mieć-v	mieć
 rację	subst:sg:acc:f	racja-n	racja
 pani	subst:sg:gen:f	pani-n	pani
@@ -11758,7 +11756,7 @@ naszą	adj:sg:acc:f:pos	nasz-j	nasza
 uwagę	subst:sg:acc:f	uwaga-n	uwaga
 .	interp	.-x	.
 </s>
-<s id="2095:4&collection=eptic3">
+<s id="2095:4">
 I	conj	i-c	i
 rzeczywiście	adv:pos	rzeczywiście-a	rzeczywiście
 te	adj:pl:acc:m3:pos	ten-j	ten
@@ -11787,7 +11785,7 @@ na	prep:loc	na-i	na
 świecie	subst:sg:loc:m3	świat-n	świat
 .	interp	.-x	.
 </s>
-<s id="2095:5&collection=eptic3">
+<s id="2095:5">
 I	conj	i-c	i
 w	prep:loc:nwok	w-i	w
 moim	adj:sg:loc:n:pos	mój-j	moje
@@ -11837,7 +11835,7 @@ czymś	subst:sg:inst:n	coś-n	coś
 naturalnym	adj:sg:inst:n:pos	naturalny-j	naturalne
 .	interp	.-x	.
 </s>
-<s id="2095:6&collection=eptic3">
+<s id="2095:6">
 Ważne	adj:sg:nom:n:pos	ważny-j	ważne
 jest	fin:sg:ter:imperf	być-v	być
 ,	interp	"-x	"
@@ -11864,14 +11862,14 @@ władz	subst:pl:gen:f	władza-n	władza
 publicznych	adj:pl:gen:f:pos	publiczny-j	publiczna
 .	interp	.-x	.
 </s>
-<s id="2095:7&collection=eptic3">
+<s id="2095:7">
 I	conj	i-c	i
 to	subst:sg:nom:n	to-n	to
 jest	fin:sg:ter:imperf	być-v	być
 istotne	adj:sg:nom:n:pos	istotny-j	istotne
 .	interp	.-x	.
 </s>
-<s id="2095:8&collection=eptic3">
+<s id="2095:8">
 Naszej	adj:sg:loc:f:pos	nasz-j	nasza
 pomocy	subst:sg:loc:f	pomoc-n	pomoc
 potrzebuje	fin:sg:ter:imperf	potrzebować-v	potrzebować
@@ -11888,7 +11886,7 @@ Partnerstwa	subst:sg:gen:n	partnerstwo-n	partnerstwo
 Wschodniego	adj:sg:gen:m3:pos	Wschodni-j	Wschodni
 .	interp	.-x	.
 </s>
-<s id="2095:9&collection=eptic3">
+<s id="2095:9">
 I	conj	i-c	i
 myślę	fin:sg:pri:imperf	myślić-v	myślić
 ,	interp	"-x	"
@@ -11913,7 +11911,7 @@ krajów	subst:pl:gen:m3	kraj-n	kraj
 <speaker name="Ziobro-Zbigniew" gender="M" country="Poland" politfunc="MEP" politgroup="ECR">
 <st language="pl" length="short" lengthw="108" duration="short" durations="62.0" speed="slow" speedwm="104.5" delivery="mixed">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2096:1&collection=eptic3">
+<s id="2096:1">
 Wielokrotnie	adv:pos	wielokrotnie-a	wielokrotnie
 wypowiadałem	praet:sg:m1:perf	wypowiadałem-v	wypowiadałem
 się	qub	się-x	się
@@ -11944,7 +11942,7 @@ Komisja	subst:sg:nom:f	komisja-n	komisja
 Europejska	adj:sg:nom:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2096:2&collection=eptic3">
+<s id="2096:2">
 Zwracałem	subst:sg:inst:m3	Zwracałem-n	Zwracałem
 wszakże	conj	wszakże-c	wszakże
 uwagę	subst:sg:acc:f	uwaga-n	uwaga
@@ -11964,7 +11962,7 @@ w	prep:loc:nwok	w-i	w
 gospodarce	subst:sg:loc:f	gospodarka-n	gospodarka
 .	interp	.-x	.
 </s>
-<s id="2096:3&collection=eptic3">
+<s id="2096:3">
 W	prep:loc:nwok	w-i	w
 wielu	num:pl:loc:m3:congr	wiele-x	wiele
 sektorach	subst:pl:loc:m3	sektor-n	sektor
@@ -11985,7 +11983,7 @@ Unią	subst:sg:inst:f	unia-n	unia
 Europejską	adj:sg:inst:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2096:4&collection=eptic3">
+<s id="2096:4">
 Niestety	qub	niestety-x	niestety
 ,	interp	"-x	"
 te	adj:pl:nom:f:pos	ten-j	ta
@@ -12013,7 +12011,7 @@ Komisję	subst:sg:acc:f	komisja-n	komisja
 Europejską	adj:sg:acc:f:pos	europejski-j	Europejska
 .	interp	.-x	.
 </s>
-<s id="2096:5&collection=eptic3">
+<s id="2096:5">
 I	conj	i-c	i
 tak	adv:pos	tak-a	tak
 dowiadujemy	fin:pl:pri:imperf	dowiadywać-v	dowiadywać
@@ -12048,7 +12046,7 @@ Ameryki	subst:sg:gen:f	Ameryka-n	Ameryka
 Południowej	adj:sg:gen:f:pos	południowy-j	Południowa
 .	interp	.-x	.
 </s>
-<s id="2096:6&collection=eptic3">
+<s id="2096:6">
 Ten	adj:sg:nom:m3:pos	ten-j	ten
 fakt	subst:sg:nom:m3	fakt-n	fakt
 wymaga	fin:sg:ter:imperf	wymagać-v	wymagać
@@ -12075,12 +12073,12 @@ wizji	subst:sg:gen:f	wizja-n	wizja
 <speaker name="Kaczmarek Filip" gender="M" country="Poland" politfunc="MEP" politgroup="PPE">
 <st language="pl" length="short" lengthw="196" duration="short" durations="113.0" speed="slow" speedwm="104.1" delivery="read">
 <interpreter id="NA" gender="NA" native="NA">
-<s id="2097:1&collection=eptic3">
+<s id="2097:1">
 Pani	subst:sg:nom:f	pani-n	pani
 Przewodnicząca	subst:sg:nom:f	przewodnicząca-n	przewodnicząca
 !	interp	!-x	!
 </s>
-<s id="2097:2&collection=eptic3">
+<s id="2097:2">
 Cztery	num:pl:acc:m3:congr	cztery-x	cztery
 lata	subst:pl:acc:m3	rok-n	rok
 przed	prep:inst:nwok	przed-i	przed
@@ -12101,14 +12099,14 @@ jest	fin:sg:ter:imperf	być-v	być
 niepokojąca	adj:sg:nom:f:pos	niepokojący-j	niepokojąca
 .	interp	.-x	.
 </s>
-<s id="2097:3&collection=eptic3">
+<s id="2097:3">
 Gruźlica	subst:sg:nom:f	gruźlica-n	gruźlica
 jest	fin:sg:ter:imperf	być-v	być
 chorobą	subst:sg:inst:f	choroba-n	choroba
 uleczalną	adj:sg:acc:f:pos	uleczalny-j	uleczalna
 .	interp	.-x	.
 </s>
-<s id="2097:4&collection=eptic3">
+<s id="2097:4">
 Niestety	qub	niestety-x	niestety
 w	prep:loc:nwok	w-i	w
 krajach	subst:pl:loc:m3	kraj-n	kraj
@@ -12129,7 +12127,7 @@ poważny	adj:sg:nom:m3:pos	poważny-j	poważny
 problem	subst:sg:nom:m3	problem-n	problem
 .	interp	.-x	.
 </s>
-<s id="2097:5&collection=eptic3">
+<s id="2097:5">
 Statystycznie	adv:pos	statystycznie-a	statystycznie
 jedna	adj:sg:nom:f:pos	jeden-j	jedna
 na	prep:acc	na-i	na
@@ -12142,7 +12140,7 @@ na	prep:acc	na-i	na
 gruźlicę	subst:sg:acc:f	gruźlica-n	gruźlica
 .	interp	.-x	.
 </s>
-<s id="2097:6&collection=eptic3">
+<s id="2097:6">
 Ubogie	adj:pl:nom:m3:pos	ubogi-j	ubogi
 regiony	subst:pl:nom:m3	region-n	region
 świata	subst:sg:gen:m3	świat-n	świat
@@ -12169,7 +12167,7 @@ także	qub	także-x	także
 stres	subst:sg:nom:m3	stres-n	stres
 .	interp	.-x	.
 </s>
-<s id="2097:7&collection=eptic3">
+<s id="2097:7">
 W	prep:loc:nwok	w-i	w
 wielu	num:pl:loc:m3:congr	wiele-x	wiele
 krajach	subst:pl:loc:m3	kraj-n	kraj
@@ -12191,7 +12189,7 @@ i	conj	i-c	i
 gruźlicy	subst:sg:dat:f	gruźlica-n	gruźlica
 .	interp	.-x	.
 </s>
-<s id="2097:8&collection=eptic3">
+<s id="2097:8">
 Wynika	fin:sg:ter:imperf	wynikać-v	wynikać
 to	subst:sg:nom:n	to-n	to
 z	prep:gen:nwok	z-i	z
@@ -12212,7 +12210,7 @@ na	prep:acc	na-i	na
 zdrowie	subst:sg:acc:n	zdrowie-n	zdrowie
 .	interp	.-x	.
 </s>
-<s id="2097:9&collection=eptic3">
+<s id="2097:9">
 Ponadto	qub	ponadto-x	ponadto
 system	subst:sg:nom:m3	system-n	system
 opieki	subst:sg:gen:f	opieka-n	opieka
@@ -12232,7 +12230,7 @@ tych	adj:pl:gen:f:pos	ten-j	ta
 chorób	subst:pl:gen:f	choroba-n	choroba
 .	interp	.-x	.
 </s>
-<s id="2097:10&collection=eptic3">
+<s id="2097:10">
 Dlatego	adv	dlatego-a	dlatego
 w	prep:loc:nwok	w-i	w
 krajach	subst:pl:loc:m3	kraj-n	kraj
@@ -12248,7 +12246,7 @@ terenach	subst:pl:loc:m3	teren-n	teren
 wiejskich	adj:pl:loc:m3:pos	wiejski-j	wiejski
 .	interp	.-x	.
 </s>
-<s id="2097:11&collection=eptic3">
+<s id="2097:11">
 Kraje	subst:pl:nom:m3	kraj-n	kraj
 rozwinięte	adj:pl:nom:f:pos	rozwinięty-j	rozwinięta
 wydają	fin:pl:ter:imperf	wydawać-v	wydawać
@@ -12273,7 +12271,7 @@ połowę	subst:sg:acc:f	połowa-n	połowa
 mniejszy	adj:sg:nom:m2:com	mały-j	mniejszy
 .	interp	.-x	.
 </s>
-<s id="2097:12&collection=eptic3">
+<s id="2097:12">
 Dlatego	adv	dlatego-a	dlatego
 nie	qub	nie-x	nie
 da	fin:sg:ter:perf	dać-v	dać
@@ -12299,7 +12297,7 @@ poseł	subst:sg:nom:m1	poseł-n	poseł
 Goerens	subst:sg:nom:m1	Goerens-n	Goerens
 .	interp	.-x	.
 </s>
-<s id="2097:13&collection=eptic3">
+<s id="2097:13">
 Poza	prep:inst	poza-i	poza
 tym	subst:sg:inst:n	to-n	to
 gruźlica	subst:sg:nom:f	gruźlica-n	gruźlica
@@ -12326,7 +12324,7 @@ skutki	subst:pl:acc:m3	skutek-n	skutek
 ekonomiczne	adj:pl:acc:m3:pos	ekonomiczny-j	ekonomiczny
 .	interp	.-x	.
 </s>
-<s id="2097:14&collection=eptic3">
+<s id="2097:14">
 Te	adj:pl:nom:m3:pos	ten-j	ten
 wszystkie	adj:pl:nom:m3:pos	wszystek-j	wszystek
 fakty	subst:pl:nom:m3	fakt-n	fakt

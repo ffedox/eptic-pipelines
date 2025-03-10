@@ -14,14 +14,27 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
 
 ## On your machine
 
-1. Create a MariaDB instance locally and import the dump. Refer to MariaDB documentation: https://mariadb.com/kb/en/
+1. Create a MariaDB instance locally. Refer to MariaDB documentation: https://mariadb.com/kb/en/
 
-2. Setup database credentials in a config.json file, e.g.:
+Then, connect to MariaDB using the command line client:
+
+mysql -u username -p
+
+Create the new database:
+
+CREATE DATABASE skeptic2;
+
+Use the source command to import the dump (note the path format):
+
+USE skeptic2;
+SOURCE C:/Users/Aliska/Desktop/eptic_2025-03-06.sql;
+
+2. Setup database credentials in a config.json file, e.g. in this case:
 
 ```json
 {
     "database": {
-        "name": "eptic",
+        "name": "skeptic2",
         "user": "root",
         "password": "eptic",
         "host": "localhost",
@@ -29,17 +42,17 @@ This is the workflow to convert SkEPTIC data into data suitable for indexing on 
     }
 }
 
-3. Copy locally and run extract_tables_db.py to extract tables to current working directory. Pass config.json path as argument. E.g. python db_connect.py --config 'D:\eptic\config.json'. This creates a folder with database tables as Excel files.
+3. Copy locally and run extract_data_from_db.py to extract tables to current working directory. Install any required dependencies if missing. Pass config.json path as argument. E.g. python extract_data_from_db.py --config 'D:\eptic\config.json'. This creates a folder with database tables as Excel files.
 
 ## On DIT's server
 
 1. Clone the repository.
 
-2. Copy the Excel files from your PC to the server, into the folder eptic.v4/1. database_tables.
+2. Copy the Excel files from your PC to the server, into the folder eptic.v6/1. database_tables.
 
-3. Copy all video files from your PC to the server, into the folder eptic.v4/video
+3. Copy all video files from your PC to the server, into the folder eptic.v6/video
 
-3. Use pipelines/align_texts_bertalign.py to check alignments.xlsx and align the texts that are not yet aligned and output the new .xml files with all alignments to 2. bertalign_alignments 
+3. Use pipelines/align_texts_bertalign.py to check alignments.xlsx and align the texts that are not yet aligned and output the new .xml files with all alignments to your path, change line "xml_output_dir='/home/afedotova/EPTIC25/eptic.v5/2. bertalign_alignments'"
 
 4. Use pipelines/diarize_and_genderize.py to update the interpreters. Has to be done from scratch every time so it takes some time. This will update the interpreters Excel file
 
